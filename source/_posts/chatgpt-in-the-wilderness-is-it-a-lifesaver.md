@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT in the Wilderness: Is It a Lifesaver?"
-date: 2024-09-16T18:58:39.104Z
-updated: 2024-09-22T17:01:41.128Z
+date: 2024-10-22T21:29:49.132Z
+updated: 2024-10-26T23:05:38.669Z
 tags:
   - chatgpt
   - open-ai
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 
  ChatGPT had very little to say on how to actually fight off a bear.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Catch Salmon Without Fishing Equipment
 
 ![fresh salmon on ice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fresh-salmon-on-ice.jpg)
@@ -76,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 
 ![an igloo style snow shelter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/an-igloo-style-snow-shelter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The weather's taken a turn for the worse, and having escaped the bears and enjoyed raw salmon for supper, you find yourself cold and afraid as high winds and snow whip around you. So you turn to your friendly chatbot for help.
 
  The first piece of advice is spot-on: "Seek natural shelters." ChatGPT suggests you look for any natural formations that can provide some level of protection from the elements—including caves, rock formations, dense tree groves, or large snow drifts.
@@ -88,16 +102,16 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 
  While we're not 100% certain that you'll survive the night, we feel that following ChatGPT's advice will dramatically increase your chances.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## I'm Being Hunted by a Pack of Wolves. What Should I Do?
 
 ![Young Wolves Biting Each Other on Snow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/young-wolves-biting-each-other-on-snow-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Evading predators should always be high on your list while wilderness exploring, and ChatGPT's advice is similar to that offered when asked how to fight a bear.
 
@@ -111,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 
 ![Person Cleaning Hands under running Water](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/person-cleaning-hands-under-running-water.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Water is even more important than food, but drinking from a polluted water source can make you ill or even cause death.
 
  After informing ChatGPT that there was a dead sheep in the only available water source, the LLM suggested finding another water source—a reasonable proposition, but one which ignored part of the prompt.
@@ -127,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
 **Rating: 3/10**
 
  Telling us to find another water source when we've explicitly stated there isn't one is not helpful. And while boiling water or using purification chemicals will kill bacteria, portable water filters won't. Additionally, ChatGPT failed to give the most obvious answer: move upstream of the dead sheep.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Help! I've Now Fallen Down an Abandoned Mineshaft in the Dark, and Can't Walk or Call for Help
 
@@ -160,10 +174,16 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
  The best advice is to wait for rescue. It's a known fact that certain Collie breeds are attracted to mineshafts and have been known to bring help from settlements in the area.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You Can't Depend on ChatGPT in an Emergency
@@ -191,5 +211,24 @@ thumbnail: https://thmb.techidaily.com/d65abb8416376df0de26bd98013124b5d718bb272
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-seamless-sharing-twitch-links-on-your-fb-page/"><u>[Updated] Seamless Sharing Twitch Links on Your FB Page</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-dictionary-the-definitive-guide-to-tech-terms/"><u>AI Dictionary: The Definitive Guide to Tech Terms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-is-the-supply-running-dry-examining-current-shipping-delays-and-stock-availability-tech-insights/"><u>Apple Vision Pro: Is the Supply Running Dry? Examining Current Shipping Delays and Stock Availability | Tech Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-julys-latest-updates-for-windows-os/"><u>Comprehensive Guide to July's Latest Updates for Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-decorum-addressing-ai-like-chatgpt-and-others/"><u>Digital Decorum: Addressing AI Like ChatGPT & Others</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-chatgpt-effective-methods-for-response-refinement/"><u>Enhancing ChatGPT: Effective Methods for Response Refinement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-individualized-music-for-engaging-video-conclusions-for-2024/"><u>Free, Individualized Music for Engaging Video Conclusions for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-scanjet-software-for-your-windows-pc-download-instantly/"><u>Get the Latest HP Scanjet Software for Your Windows PC - [Download Instantly]!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x7b-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X7b to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-insiders-look-at-3d-lut-design/"><u>In 2024, Insider's Look at 3D LUT Design</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-claudes-world-shaping-tomorrow-with-intelligent-solutions/"><u>Inside Claude's World: Shaping Tomorrow with Intelligent Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-mac-productivity-a-step-by-step-guide-to-configuring-and-leveraging-hot-corners-in-macos-techinsight/"><u>Maximizing Mac Productivity: A Step-by-Step Guide to Configuring and Leveraging Hot Corners in macOS | TechInsight</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rapid-ukrainian-comprehension-in-minutes-a-day-95-chars/"><u>Rapid Ukrainian Comprehension in Minutes a Day (95 Chars)</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-cyberpunk-2077-performance-issues-no-more-lag-or-stutters/"><u>Resolved: Cyberpunk 2077 Performance Issues - No More Lag or Stutters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-digital-assistants-from-leaks-and-breaches/"><u>Safeguarding Digital Assistants From Leaks & Breaches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scaling-creativity-mass-producing-visuals-with-canva-and-gpt/"><u>Scaling Creativity: Mass Producing Visuals with Canva & GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steering-ai-responses-towards-realism-using-6-tailored-methods/"><u>Steering AI Responses Towards Realism Using 6 Tailored Methods</u></a></li>
+</ul></div>
 

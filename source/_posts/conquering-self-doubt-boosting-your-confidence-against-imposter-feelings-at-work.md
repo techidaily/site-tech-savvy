@@ -1,7 +1,7 @@
 ---
 title: "Conquering Self-Doubt: Boosting Your Confidence Against Imposter Feelings at Work"
-date: 2024-09-19 19:34:25
-updated: 2024-09-20 10:45:11
+date: 2024-10-22T23:07:22.031Z
+updated: 2024-10-26T19:54:44.791Z
 tags:
   - professional-development
 categories:
@@ -45,6 +45,13 @@ Additionally, since imposter syndrome is an internal experience, there's no thre
 
 We know from research that those feelings do not subside after reaching a new goal because we acclimate and quickly pick a new goal as the next threshold, continuing the cycle.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Am I experiencing imposter syndrome at work?
 
 Recognizing imposter syndrome is the first step toward healing. Feeling like you aren't good enough for your job can lead to overwhelming stress, a [sense of burnout](https://www.zdnet.com/education/professional-development/how-to-avoid-burnout/), and even resigning from your position. 
@@ -73,6 +80,13 @@ Additionally, if you are going to talk to your manager, think about some actiona
 If you don't have a transparent and vulnerable relationship with your manager, I would also suggest seeking the support of peers. Ultimately, you want to go to the well that has water for you. 
 
 Tori Rubloff/ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to cope with imposter syndrome in your career
 
@@ -144,6 +158,13 @@ Keep your list somewhere you can access it when you need a boost. Include anythi
 
 If you led a successful meeting, note what worked and some [public speaking tips](https://www.zdnet.com/education/professional-development/public-speaking-tips/) for future you. Don't forget to add any kind Slack messages you've received or positive comments on a performance review. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [How to overcome new job anxiety New job anxiety can hinder your productivity and hurt your professional experience. Find out what anxiety is and what you can do to manage it.  Read now](https://www.zdnet.com/article/overcome-new-job-anxiety/)
@@ -161,6 +182,13 @@ These methods to overcome imposter syndrome can be helpful, but sometimes you ne
 Cognitive-behavioral therapy can help explore negative emotions and create personalized methods to manage them. 
 
 Your primary care provider may be able to connect you with a therapist. If that's not possible for you, try an online service like Betterhelp or Talkspace. These sites offer quick appointment availability.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More about Dr. Pauline Yeghnazar Peck, MA, MMFT, Ph.D.
 
@@ -187,11 +215,33 @@ Your primary care provider may be able to connect you with a therapist. If that'
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastering-fb-video-quick-subtitle-and-caption-creation-guide-for-2024/"><u>[New] Mastering FB Video Quick Subtitle & Caption Creation Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-editing-excess-strategies-to-clean-up-oversized-tiktok-drafts-for-2024/"><u>[Updated] Editing Excess Strategies to Clean Up Oversized TikTok Drafts for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-apple-m1-a-computing-revolution/"><u>[Updated] Unveiling the Apple M1 A Computing Revolution?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-cross-language-interaction-with-chatgpt/"><u>Embracing Cross-Language Interaction with ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-cross-platform-4k-playback-tools-for-win-and-os-x-devices-for-2024/"><u>Free, Cross-Platform 4K Playback Tools for Win & OS X Devices for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-clear-the-focus-wallpaper-icon-on-windows-11/"><u>How to Clear the Focus Wallpaper Icon on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-dall-e-3-for-free-inside-microsoft-bing/"><u>How to Use DALL-E 3 for Free Inside Microsoft Bing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterful-3d-design-best-animation-software-selection/"><u>Masterful 3D Design Best Animation Software Selection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-app-management-how-to-immediately-end-processes-on-windows-11-pcs/"><u>Mastering App Management: How to Immediately End Processes on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-sensitive-business-conversations-on-gpt/"><u>Protecting Sensitive Business Conversations on GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-apples-virtual-assistant-siri-takes-on-bing-like-roles-for-enhanced-smart-computing/"><u>The Evolution of Apple's Virtual Assistant: Siri Takes on Bing-Like Roles for Enhanced Smart Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-11-must-have-applications-and-tools-for-windowsmac-users-insights/"><u>Top 11 Must-Have Applications & Tools for Windows/Mac Users - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-advanced-iphone-features-through-unknown-vocal-commands-exclusive-guide/"><u>Unleash Advanced iPhone Features Through Unknown Vocal Commands | Exclusive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-enhancements-apple-aims-to-overhaul-its-budget-friendly-se-series-exclusive-insights-revealed/"><u>Upcoming Enhancements: Apple Aims to Overhaul Its Budget-Friendly SE Series - Exclusive Insights Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-chatgpt-for-crafting-literary-works/"><u>Utilizing ChatGPT for Crafting Literary Works</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-should-avoid-chatgpt-apps-on-the-mac-app-store/"><u>Why You Should Avoid ChatGPT Apps on the Mac App Store</u></a></li>
+</ul></div>
+

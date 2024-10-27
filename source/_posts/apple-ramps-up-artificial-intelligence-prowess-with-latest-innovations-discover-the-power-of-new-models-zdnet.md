@@ -1,7 +1,7 @@
 ---
 title: Apple Ramps Up Artificial Intelligence Prowess with Latest Innovations – Discover the Power of New Models | ZDNet
-date: 2024-10-16T23:37:56.494Z
-updated: 2024-10-20T19:07:55.168Z
+date: 2024-10-25T16:55:52.674Z
+updated: 2024-10-26T19:52:59.246Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Apple announced an innovative feature coming to AirPods Pro 2 when iOS 18 is rel
 Then, if needed, the AirPods Pro 2 can use the wearer's results and double as an over-the-counter hearing aid. This feature will allow the Pro 2 earbuds to use their directional microphones to amplify conversational noises for users who have difficulty hearing conversations in noisy environments. Apple is still waiting for the FDA to approve this feature, but the company expects the approval to be ready for iOS 18's release.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find My speaker
@@ -48,16 +54,10 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods Max wired listening
@@ -77,10 +77,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Now, if you have an iPhone 15 or newer, you can plug a USB-C cable into your iPhone and AirPods Max and begin listening. If you have an iPhone 14 or older, you can use a Lightning-to-USB-C adapter to plug into the new AirPods Max.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A 'Goldilocks' pair of AirPods
@@ -121,24 +121,20 @@ Now, you can buy the AirPods 4 with noise cancellation, which offer upgraded aud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-5-easy-free-methods-to-master-youtube-video-frames/"><u>[Updated] 2024 Approved 5 Easy, Free Methods to Master YouTube Video Frames</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-depth-analysis-and-exploration-adobe-storage-vs-competitors-options-for-2024/"><u>[Updated] In-Depth Analysis & Exploration Adobe Storage Vs. Competitors' Options for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-demystifying-the-purpose-of-slug-lines-in-screenplay/"><u>2024 Approved Demystifying the Purpose of Slug Lines in Screenplay</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/counteracting-chatgpts-memory-retention-for-private-talks/"><u>Counteracting ChatGPT’s Memory Retention for Private Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-side-income-from-ai-and-reviving-classic-games/"><u>Crafting Side Income From AI & Reviving Classic Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/data-to-discussion-craft-your-own-conversational-ai/"><u>Data to Discussion: Craft Your Own Conversational AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-whether-elevated-ai-quality-is-cost-effective/"><u>Decoding Whether Elevated AI Quality Is Cost-Effective</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-the-differences-deep-dive-into-strong-and-weak-artificular-intelligence/"><u>Demystifying the Differences: Deep Dive Into Strong and Weak Artificular Intelligence</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-audio-glitches-in-your-favorite-first-person-shooter-game/"><u>Expert Advice on Fixing Audio Glitches in Your Favorite First-Person Shooter Game</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-tips-boosting-efficiency-in-screen-recording-using-mobizen-for-2024/"><u>Expert Tips Boosting Efficiency in Screen Recording Using Mobizen for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-ai-for-influential-proposals/"><u>Harnessing the Power of AI for Influential Proposals</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-speed-up-vimeo-videos/"><u>In 2024, How to Speed Up Vimeo Videos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-gen-ai-hardware-sifting-through-the-most-promising-tech/"><u>Next-Gen AI Hardware: Sifting Through the Most Promising Tech</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/picturesegment-appraisal-for-2024/"><u>PictureSegment Appraisal for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-defy-2-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola Defy 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tapping-into-android-enhanced-by-bings-ai/"><u>Tapping Into Android, Enhanced by Bing's AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-smart-users-guide-to-chatgpt-on-macos/"><u>The Smart User's Guide to ChatGPT on macOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/toms-tech-reviews-in-depth-analysis-and-expert-advice/"><u>Tom's Tech Reviews: In-Depth Analysis & Expert Advice</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-from-analog-to-digital-safeguarding-older-photographic-memories/"><u>[New] From Analog to Digital Safeguarding Older Photographic Memories</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unveiling-creative-twists-transformative-text-in-imagery/"><u>[Updated] Unveiling Creative Twists Transformative Text in Imagery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-building-engagement-with-professional-fb-video-techniques/"><u>2024 Approved Building Engagement with Professional FB Video Techniques</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-enabling-successful-video-sharing-in-messenger-for-ios-and-android-users/"><u>2024 Approved Enabling Successful Video Sharing in Messenger for iOS and Android Users</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-reversing-the-consequences-of-a-youtube-ban/"><u>2024 Approved Reversing the Consequences of a YouTube Ban</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unleash-your-potential-on-facebook-keyword-strategies-reviewed/"><u>2024 Approved Unleash Your Potential on Facebook Keyword Strategies Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-titans-collide-unraveling-palm-2-and-gpt-4-differences/"><u>AI Titans Collide: Unraveling PaLM 2 and GPT-4 Differences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-composing-effective-video-scripts/"><u>ChatGPT's Role in Composing Effective Video Scripts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-meta-quest-3-and-apple-vision-pro-is-mark-zuckerbergs-analysis-spot-on-zdnet-tech-insights/"><u>Comparing Meta Quest 3 and Apple Vision Pro: Is Mark Zuckerberg's Analysis Spot-On? | ZDNet Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-text-entry-the-ultimate-guide-to-using-bing-ai-chat-in-android/"><u>Empowering Text Entry: The Ultimate Guide to Using Bing AI Chat in Android</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-asus-rog-phone-8-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Asus ROG Phone 8 Pro?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-wellness-routine-using-chatgpt-top-9-tips/"><u>Revolutionize Your Wellness Routine Using ChatGPT - Top 9 Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-reasons-why-upgrading-to-an-iphone-16-pro-is-not-necessary-for-iphone-14-users-zdnet-perspective/"><u>Top 4 Reasons Why Upgrading to an iPhone 16 Pro Is Not Necessary for iPhone 14 Users | ZDNET Perspective</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-macos-software-a-comprehensive-review/"><u>Top-Ranking macOS Software : A Comprehensive Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-nvidias-customizable-ai-for-generation/"><u>Understanding NVIDIA's Customizable AI for Generation</u></a></li>
 </ul></div>
 

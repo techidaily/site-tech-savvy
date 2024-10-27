@@ -1,7 +1,7 @@
 ---
 title: "Beyond Silence: The Rise of 'Quiet Firing' In Modern Workplaces - Why It Has Companies Concerned"
-date: 2024-09-19 22:29:49
-updated: 2024-09-20 10:53:14
+date: 2024-10-24T17:15:39.614Z
+updated: 2024-10-26T20:26:33.968Z
 tags:
   - professional-development
 categories:
@@ -76,11 +76,38 @@ The consequences of quiet quitting and quiet firing impact both employees and em
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-the-new-tech-horizon-with-microsofts-hololens-review-for-2024/"><u>[New] The New Tech Horizon with Microsoft's HoloLens Review for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-non-gopro-waterproof-cameras-a-detailed-list-for-2024/"><u>[New] Top Non-GoPro Waterproof Cameras A Detailed List for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-raw-footage-to-highlight-hits-for-2024/"><u>[Updated] From Raw Footage to Highlight Hits for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-blur-background-in-zoom-with-ease-an-ultimate-guide-for-2024/"><u>[Updated] How to Blur Background in Zoom with Ease An Ultimate Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-tricks-for-procuring-high-end-imagery-without-spending-money/"><u>[Updated] Tricks for Procuring High-End Imagery Without Spending Money</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-avoiding-pitfalls-tiktok-video-copyright-verification-guide/"><u>2024 Approved Avoiding Pitfalls TikTok Video Copyright Verification Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-the-office-understanding-the-10-risks-to-your-job-security/"><u>ChatGPT in the Office: Understanding the 10 Risks to Your Job Security</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-ide-game-top-10-chatgpt-techniques-for-vs-code/"><u>Elevate Your IDE Game - Top 10 ChatGPT Techniques for VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/healthy-hearts-online-responsible-ai-usage/"><u>Healthy Hearts Online: Responsible AI Usage</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-15-pro-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 15 Pro Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-student-the-following-data-shows-the-number-of-points-scored-in-a-basketball-game-for-each-of-six-players-on-team-a-and-team-b-calculate-the-mean-abs85/"><u>IPhone [Student]: The Following Data Shows the Number of Points Scored in a Basketball Game for Each of Six Players on Team A and Team B. Calculate the Mean Absolute Deviation (MAD) for Both Teams' Scores:</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reasons-behind-immutable-chatgpt-designs/"><u>Reasons Behind Immutable ChatGPT Designs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/series-9-and-ultra-apple-watch-sales-back-on-track-following-judicial-stay-order-insights/"><u>Series 9 & Ultra: Apple Watch Sales Back on Track Following Judicial Stay Order - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-your-inbox-clear-out-clutter-with-this-simple-email-hack-no-new-accounts-required-zdnet/"><u>Simplify Your Inbox: Clear Out Clutter with This Simple Email Hack (No New Accounts Required) | ZDNet</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-screen-capture-software-per-pc-con-sistema-operativo-windows-registrazione-completa-o-parziale-dellinterfaccia-utente-sul-tuo-computer/"><u>Top Screen Capture Software per PC Con Sistema Operativo Windows - Registrazione Completa O Parziale Dell'interfaccia Utente Sul Tuo Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-iphone-battery-issues-post-ios-1751-update-discover-7-effective-solutions/"><u>Troubleshooting iPhone Battery Issues Post-iOS 17.5.1 Update: Discover 7 Effective Solutions!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ling-video-capabilities-dslr-or-mirrorless-for-2024/"><u>Unveiling Video Capabilities DSLR or Mirrorless for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

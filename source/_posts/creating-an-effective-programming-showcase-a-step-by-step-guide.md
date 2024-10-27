@@ -1,7 +1,7 @@
 ---
 title: "Creating an Effective Programming Showcase: A Step-by-Step Guide"
-date: 2024-09-17 19:15:26
-updated: 2024-09-20 12:33:21
+date: 2024-10-21T16:11:05.321Z
+updated: 2024-10-26T17:07:24.809Z
 tags:
   - professional-development
 categories:
@@ -47,9 +47,23 @@ Check whether a domain name is already taken through a web search or[lookup tool
 
 ###   
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Host
 
 Your coding portfolio host can be a website, blog, or networking site like LinkedIn. You can find free options out there or build your own, but many programmers choose to pay for a quality hosting platform like those described below.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -69,6 +83,13 @@ Used by game developers to upload and sell their work, Itch.io pages can include
 
 These well-known hosts allow you to build a website from a template, which is the easiest way to create a portfolio. However, it won't show off your web development skills. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### "About me" section and contact information
 
 The "About me" section should have a more personal tone than your resume to let your personality come through. Include a short bio and information such as: 
@@ -82,6 +103,19 @@ The "About me" section should have a more personal tone than your resume to let 
 * Relevant [tech certifications](https://www.zdnet.com/education/computers-tech/best-tech-certifications/) you've earned
 
 Be sure to add contact information. An email address usually suffices, but you can also list your Github and Linkedin profiles and Twitter handle. 
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Projects
 
@@ -146,11 +180,29 @@ Creating your portfolio is a necessary but time-consuming step in the [job-searc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixed-youtubes-missing-minute-media/"><u>[New] In 2024, Fixed YouTube's Missing Minute Media</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/treaming-success-secrets-unveiling-monetization-on-dm-and-yo-for-2024/"><u>[New] Streaming Success Secrets Unveiling Monetization on Dm & Yo for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-ultimate-checklist-for-successful-in-stream-fb-ads-for-2024/"><u>[Updated] The Ultimate Checklist for Successful In-Stream FB Ads for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-supercharge-your-facebook-video-speed/"><u>2024 Approved The Ultimate Guide to Supercharge Your Facebook Video Speed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/d-the-numbers-carryminatis-youtube-wealth-for-2024/"><u>Behind the Numbers CarryMinati’s YouTube Wealth for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-sustainable-fitness-goals-using-gpt/"><u>Crafting Sustainable Fitness Goals Using GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/earn-a-cool-150-apple-gift-card-when-choosing-mac-or-ipad-for-school-expert-advice-inside/"><u>Earn a Cool $150 Apple Gift Card When Choosing Mac or iPad for School - Expert Advice Inside</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/identifying-gaps-in-auto-editing-tools/"><u>Identifying Gaps in Auto-Editing Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-efficiency-on-macos-using-quick-actions-features-in-finder-insights-for-advanced-users/"><u>Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights for Advanced Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/misguidance-in-the-era-of-machine-creativity/"><u>Misguidance in the Era of Machine Creativity</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/proven-methods-for-capturing-stunning-timelapse-videos-on-gopro/"><u>Proven Methods for Capturing Stunning Timelapse Videos on GoPro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1723006272831-resolving-playstation-and-xbox-exclusive-game-issues-mw-freezes-no-more/"><u>Resolving PlayStation and Xbox-Exclusive Game Issues: MW Freezes No More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rethink-how-you-research-choose-perplexity-ai/"><u>Rethink How You Research - Choose Perplexity AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-roadmap-to-innovation-potential-game-changing-moves-by-apple-over-openai-microsoft-and-google-at-worldwide-developers-conference-wwdc-expert-analysis-on188/"><u>The Roadmap to Innovation: Potential Game-Changing Moves by Apple Over OpenAI, Microsoft, and Google at Worldwide Developers Conference (WWDC) | Expert Analysis on ZDNET</u></a></li>
+</ul></div>
+

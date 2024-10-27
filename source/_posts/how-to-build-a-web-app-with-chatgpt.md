@@ -1,7 +1,7 @@
 ---
 title: How to Build a Web App With ChatGPT
-date: 2024-10-19T18:19:14.293Z
-updated: 2024-10-20T16:04:23.646Z
+date: 2024-10-19T23:14:35.922Z
+updated: 2024-10-26T23:14:08.767Z
 tags:
   - chatgpt
   - open-ai
@@ -56,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
  We had other ideas, but the goal here is to let ChatGPT call the shots.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Building the Registration Component
 
  We jumped right into building the registration component. We asked ChatGPT to draw out an appropriate algorithm. Here we intervened by specifying we needed only the user's username, email, and avatar for registration. Here's the prompt:
@@ -76,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
  Up next, we prompted ChatGPT to build the registration component.
 
 ![prompt to generate the registration component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-to-generate-the-registration-component-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Although we didn't include the password field as part of the registration process, ChatGPT made the right call by including it in the generated HTML code. We copied the code without any modifications, and here's how it looks on a browser.
 
@@ -98,11 +84,25 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
 ![Generated SQL code for the creating database by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/generated-sql-code-for-the-creating-database-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And here's the table created by executing the SQL:
 
 ![Database created by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/database-created-by-chatgpt.jpg)
 
  With the database set up, we tried our first registration, and it worked without any errors.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Building the Login Component
 
@@ -115,19 +115,19 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 ![ChatGPT-generated login page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-generated-login-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After creating a "server.login.php" file as instructed by ChatGPT and adding the generated PHP script, we made our first successful login without any modifications or debugging.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Building the Chat Component
@@ -143,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
  When ChatGPT suggests a file name, using a different name in your project might inadvertently cause problems as the chatbot will reference the same name in all the code it creates throughout the project. We found out the hard way. Don't make the same mistake.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating the Chat.php Page
@@ -155,25 +155,18 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
 ![ChatGPT prompt to generate HTML for the Chat interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-to-generate-html-for-the-chat-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After running the generated HTML code, we had a chat interface without a message input box. To fix this, we simply prompted ChatGPT to "**rewrite the code to include a message input box and a send button.**" Here's how the generated code looks on a browser on the second trial.
 
 ![sample chat interface generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sample-chat-interface-generated-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Whenever generated code fails to give the desired results or omits an important component, simply prompt ChatGPT to rewrite the last code. Tell it to include the component or do whatever wasn't done in the initial code. Here are [some tips on how to use ChatGPT for programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Creating the "send-messages.php" and "Fetch-messages" Page
 
@@ -184,6 +177,13 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
  After generating an SQL code, we asked the chatbot to generate a PHP script to handle the messaging logic.
 
 ![ChatGPT prompts to send and receive messages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompts-to-send-and-receive-messages.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT generated the script for both the "send-messages.php" and the "fetch-messages.php" pages. On running both scripts, we finally had our very first error (which was oddly satisfying). Getting this far into the project without debugging a single line of code seemed a bit too good to be true, despite its relative simplicity.
 
@@ -218,18 +218,16 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-synchronize-your-calendars-for-smooth-video-calls/"><u>[New] Synchronize Your Calendars for Smooth Video Calls</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-unlocking-srt-from-a-securely-packed-zip-file/"><u>[Updated] 2024 Approved Unlocking SRT From a Securely Packed Zip File</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-crafting-your-music-collection-youtube-playlists-guide-for-2024/"><u>[Updated] Crafting Your Music Collection YouTube Playlists Guide for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-exploring-snapchats-spotlight-feature-deeply/"><u>[Updated] Exploring Snapchat's Spotlight Feature Deeply</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-unveiling-the-allure-top-4-convincing-features-of-apples-latest-ipad-air-a-closer-look-by-zdnet/"><u>1. Unveiling the Allure: Top 4 Convincing Features of Apple’s Latest iPad Air - A Closer Look by ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-incorinastrating-supplementary-imagery-in-projects/"><u>2024 Approved Incorinastrating Supplementary Imagery in Projects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-chatbots-the-new-frontier-in-human-machine-dialogue/"><u>AI Chatbots: The New Frontier in Human-Machine Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-personal-brand-with-chatgpt-powered-cvs/"><u>Enhancing Personal Brand with ChatGPT-Powered CVs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Oppo Reno 10 Pro+ 5G.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/laughing-matters-can-ai-powered-chatgpt-deliver-the-funny-punchlines-as-well-as-human-comedians/"><u>Laughing Matters: Can AI-Powered ChatGPT Deliver the Funny Punchlines as Well as Human Comedians?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-macs-hot-corners-a-comprehensive-guide-to-configuring-and-utilizing-them-effectively-learn-why-they-boost-productivity/"><u>Mastering Mac's Hot Corners: A Comprehensive Guide to Configuring and Utilizing Them Effectively - Learn Why They Boost Productivity!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-art-of-fullscreen-editing-with-premiere-pro-experts/"><u>The Art of Fullscreen Editing with Premiere Pro Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlockedchatgpt-subscription-deadline-clarity/"><u>UnlockedChatGPT: Subscription Deadline Clarity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/behind-the-scenes-insight-how-vimeo-record-works/"><u>Behind-the-Scenes Insight How Vimeo Record Works</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mx340-printer-drivers-for-windows-download-compatible-software-for-versions-11-8-and-abreast-with-version-7/"><u>Canon MX340 Printer Drivers for Windows: Download Compatible Software for Versions 11, 8 & Abreast with Version 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-fixes-for-gpts-six-most-prevalent-errors/"><u>Essential Fixes for GPT's Six Most Prevalent Errors</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-hulu-worth-it-5-reasons-to-sign-up/"><u>Is Hulu Worth It? 5 Reasons to Sign Up</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/quickly-master-iphones-screencasting-feature-for-2024/"><u>Quickly Master iPhone's Screencasting Feature for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-g310-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after G310 has been deleted</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-dev-workflow-with-ai/"><u>Redefining Dev Workflow with AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/respectful-communication-with-tech-gpt-alexa-and-siri/"><u>Respectful Communication with Tech: GPT, Alexa & Siri</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-pitfalls-in-handling-gpt-inspired-tech/"><u>Top 7 Pitfalls in Handling GPT-Inspired Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visual-studio-code-powered-by-codegpt/"><u>Visual Studio Code Powered by CodeGPT</u></a></li>
 </ul></div>
 

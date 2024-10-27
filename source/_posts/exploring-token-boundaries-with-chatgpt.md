@@ -1,7 +1,7 @@
 ---
 title: Exploring Token Boundaries with ChatGPT
-date: 2024-09-20T17:49:19.986Z
-updated: 2024-09-22T17:08:16.155Z
+date: 2024-10-21T23:17:30.580Z
+updated: 2024-10-26T22:56:09.083Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Free vs. Paid Tokens
 
  To give you a flavor of what's what within the ChatGPT application, OpenAI offers you a free limited token subscription. If you want to experiment with the ChatGPT API, use the free $5 credit, which is valid for three months. Once the limit is exhausted (or the trial period is up), you can pay-as-you-go, which increases the maximum quota to $120\.
@@ -80,22 +87,15 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
  If you feel these features are entirely worth it and up your alley, you can enroll for the paid subscription and benefit from them immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Token Pricing Structure
 
 ![Set of black opened envelope and cash dollars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-karolina-grabowska-4386370.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are a few different application models available, which you can choose based on your requirements:
@@ -113,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 | GPT-4 32k context | $0.06                                | $0.12                                     |
 
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Maximum Token Limits
 
@@ -135,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
  If your output is truncated, you must increase the specified maximum limit from your dashboard. Remember, the sum of your prompt and maximum tokens should always be less than equal to the model's maximum token limit.
 
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Learn to Control Your ChatGPT Prompts for Best Results
 
@@ -161,5 +175,26 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-effective-techniques-for-b-cutting-and-cutaways/"><u>[New] 2024 Approved Effective Techniques for B-Cutting and Cutaways</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-demystifying-complex-srt-concepts-for-professionals/"><u>[New] In 2024, Demystifying Complex SRT Concepts for Professionals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-media-hit-list-2024/"><u>[Updated] Social Media Hit List 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-gift-reveal-innovative-ideas/"><u>2024 Approved Revolutionizing Gift Reveal Innovative Ideas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-intelligence-gpt-4s-unveiling/"><u>Elevating Intelligence: GPT-4's Unveiling</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-itel-a60s-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-ch340g-chip-driver-download-and-update-guide-for-windows-10/"><u>Latest CH340G Chip Driver Download & Update Guide for Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/logitech-4k-pro-webcam-complete-specifications-and-features/"><u>Logitech 4K Pro Webcam Complete Specifications & Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpts-potential-with-usechatgpt-co-pilot-extension/"><u>Maximizing ChatGPT's Potential with UseChatGPT Co-Pilot Extension</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/nokias-mid-range-marvel-the-72-model-review-showcasing-excellence-in-its-category/"><u>Nokia's Mid-Range Marvel: The 7.2 Model Review Showcasing Excellence in Its Category</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-coding-with-diverse-tools-not-just-chatgpt/"><u>Revolutionizing Coding with Diverse Tools, Not Just ChatGPT</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-media-spotlight-top-tiktok-tweets/"><u>Social Media Spotlight Top TikTok Tweets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/switching-to-apples-ipad-just-got-irresistible-with-new-ipados-18-capabilities-showcased-at-wwdc-2024-expert-review-on-zdnet/"><u>Switching to Apple's iPad Just Got Irresistible with New iPadOS 18 Capabilities Showcased at WWDC 2024 | Expert Review on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-non-apple-and-non-tile-wallet-airtag-reviewed-discover-the-leading-alternative/"><u>Top Non-Apple and Non-Tile Wallet AirTag Reviewed - Discover the Leading Alternative!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/turning-chatbots-into-a-stream-of-earnings/"><u>Turning Chatbots Into a Stream of Earnings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-your-device-with-ios-18-eligible-iphone-models-revealed-and-step-by-step-download-instructions-zdnet/"><u>Unlock the Full Potential of Your Device with iOS 18: Eligible iPhone Models Revealed & Step-by-Step Download Instructions | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-to-the-future-why-choosing-apples-iphone-15-means-more-than-just-a-new-phone/"><u>Upgrade to the Future: Why Choosing Apple's iPhone 15 Means More than Just a New Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-im-choosing-the-iphone-16-pro-over-the-max-apples-latest-incentives-insights-from-zdnet/"><u>Why I'm Choosing the iPhone 16 Pro Over the Max: Apple's Latest Incentives - Insights From ZDNet</u></a></li>
+</ul></div>
 

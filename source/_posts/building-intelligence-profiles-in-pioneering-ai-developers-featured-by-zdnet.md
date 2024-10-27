@@ -1,7 +1,7 @@
 ---
 title: "Building Intelligence: Profiles in Pioneering AI Developers Featured by ZDNet"
-date: 2024-09-18 12:20:58
-updated: 2024-09-20 12:19:31
+date: 2024-10-25T17:53:52.206Z
+updated: 2024-10-26T16:17:17.189Z
 tags:
   - professional-development
 categories:
@@ -82,11 +82,37 @@ The roles of engineers aren't going away anytime soon, "but they will most likel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-full-spectrum-physical-action-review/"><u>[New] Full Spectrum Physical Action Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-navigating-challenges-in-job-interview-settings/"><u>[Updated] 2024 Approved Navigating Challenges in Job Interview Settings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-social-media-synergy-elevating-youtube-engagement/"><u>[Updated] Social Media Synergy Elevating YouTube Engagement</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-of-20-magic-words-for-marketing/"><u>2024 Approved The Ultimate List of 20 Magic Words for Marketing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-transform-your-imagery-with-ar-and-accessible-luts/"><u>2024 Approved Transform Your Imagery with AR & Accessible LUTs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ease-of-sonos-s2-app-advanced-audio-management-with-notable-limitations-insights-from-zdnet/"><u>Discover the Ease of Sonos S2 App: Advanced Audio Management with Notable Limitations - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-apples-latest-ai-breakthroughs-missed-opportunities-and-future-prospects-zdnet/"><u>Exploring Apple's Latest AI Breakthroughs: Missed Opportunities and Future Prospects | ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-freshly-upgrading-your-sata-driver-on-a-windows-machine-quick-steps-inside/"><u>Guide to Freshly Upgrading Your SATA Driver on a Windows Machine - Quick Steps Inside!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-10-virtual-world-games-on-ios-and-android/"><u>In 2024, Best 10 Virtual World Games on iOS & Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/machine-mastery-comparing-translations-of-two-giants/"><u>Machine Mastery: Comparing Translations of Two Giants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-reasons-holding-me-back-from-switching-to-an-iphone-16-pro-lessons-from-my-iphone-14-experience/"><u>Top 4 Reasons Holding Me Back From Switching to an iPhone 16 Pro: Lessons From My iPhone 14 Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truth-seekers-and-chatgpts-claims/"><u>Truth Seekers and ChatGPT’s Claims</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-hidden-notifications-from-the-past-on-your-ios-device/"><u>Uncover Hidden Notifications From the Past on Your iOS Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-affordable-iphone-14-plus-is-a-game-changer-unbeatable-all-day-power-and-extra-perks-you-should-know-zdnets-expert-take/"><u>Why the Affordable iPhone 14 Plus Is a Game Changer: Unbeatable All-Day Power & Extra Perks You Should Know (ZDNET's Expert Take)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wijsgerapperd-en-gratis-online-tool-for-audiofile-conversion-from-aac-to-wma-by-movavi/"><u>Wijsgerapperd en Gratis: Online-Tool for Audiofile Conversion From AAC to WMA, by Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-exclusive-apple-adjusts-timeline-for-rollout-of-innovative-intelligence-features-now-set-for-october-release/"><u>ZDNet Exclusive: Apple Adjusts Timeline for Rollout of Innovative Intelligence Features, Now Set for October Release</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

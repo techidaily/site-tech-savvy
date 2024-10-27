@@ -1,7 +1,7 @@
 ---
 title: The Genuine Value of TruthGPT Coins
-date: 2024-09-16T18:31:30.516Z
-updated: 2024-09-22T18:14:31.532Z
+date: 2024-10-23T17:39:58.974Z
+updated: 2024-10-26T17:08:59.798Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ Close
 
  Now, the second TruthGPT Coin has linked itself to [Elon Musk's TruthGPT AI project](https://www.makeuseof.com/what-is-truthgpt/) to gain a semblance of legitimacy, though it notes that TruthGPT Coin is a community effort and isn't affiliated with Musk. It doesn't feature any Musk imagery but talks about him throughout the site and claims to use artificial intelligence to "seek out and evaluate information in order to arrive at the most accurate and reliable understanding of the world."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is TruthGPT Coin a Scam?
 
  The allegations levied against TruthGPT Coin certainly make it appear so.
@@ -61,6 +68,13 @@ Close
  According to [Decrypt](https://decrypt.co/138785/texas-cease-and-desist-ai-scams-fake-elon-musk-truthgpt-coin), other state regulators are backing Texas' cease and desist order, including the Alabama Securities Commission, the Montana State Auditor, the Kentucky Department of Financial Institutions, and the New Jersey Securities Bureau.
 
  The TruthGPT Coin entry on [CoinMarketCap](https://coinmarketcap.com/currencies/truthgpt/) also suggests something fishy is going on. It currently displays a banner informing would-be users that, "According to [Gopluslabs](https://gopluslabs.io/token-security/1/0xaf75d880b3128981d1fed3292fc02e3fb37acd53), the smart contract of the following asset can be modified by the contract creator (for example: disable selling, change fees, mint new tokens, or transfer tokens). Please exercise caution before taking any action and DYOR."
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Watch Out for Scam Tokens Involving ChatGPT, AI, and Elon Musk
 
@@ -87,12 +101,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-supercharge-your-tweet-views-for-flawless-hd/"><u>2024 Approved Supercharge Your Tweet Views for Flawless HD</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-an-intuitive-household-with-chatgpts-technology/"><u>Crafting an Intuitive Household with ChatGPT’s Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gemini-ai-emerges-is-it-the-new-champion-over-chatgpt/"><u>Gemini AI Emerges – Is It The New Champion Over ChatGPT?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/innovative-pathways-ensuring-correct-iphone-snapchat-data-flow/"><u>Innovative Pathways Ensuring Correct iPhone-Snapchat Data Flow</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-performance-the-best-hdi-enhanced-mice-selection/"><u>Peak Performance: The Best HDI-Enhanced Mice Selection</u></a></li>
+<li><a href="https://fox-links.techidaily.com/proven-ways-to-enhance-your-home-nba-streams/"><u>Proven Ways to Enhance Your Home NBA Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-virtuafun-effective-gameplay-of-steam-titles-on-meta-quest/"><u>Streamline VirtuaFun: Effective Gameplay of Steam Titles on Meta Quest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-screen-time-chatgpts-film-recommendations/"><u>Tailored Screen Time: ChatGPT's Film Recommendations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-apple-watch-savings-and-bargains-exclusive-offers-in-july-2024-zdnet/"><u>Top Apple Watch Savings & Bargains: Exclusive Offers in July 2024 - ZDNET</u></a></li>
+</ul></div>
 

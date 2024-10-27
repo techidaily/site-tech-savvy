@@ -1,7 +1,7 @@
 ---
 title: "Perfecting Your Response: Mastering the 'Tell Us About Yourself' Interview Pitch | Insider"
-date: 2024-09-17 13:41:13
-updated: 2024-09-20 10:15:56
+date: 2024-10-23T19:25:33.396Z
+updated: 2024-10-26T19:57:51.489Z
 tags:
   - professional-development
 categories:
@@ -103,6 +103,13 @@ Research company culture. If you and the company both value working in teams or 
 
 Knowing the overall mission of the company to help you tailor your "why." If you're interviewing for an outdoor apparel company that values a good work-life balance, don't talk about how you love working nights and weekends to complete projects.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long should your answer be?
 
 Remember that interviewers want to learn more about your work experience and your personality. Answering this question in a couple of sentences might seem less-than-thorough and talking for ten minutes is a red flag that you might do the same in meetings. 
@@ -117,9 +124,35 @@ One of the most important and basic [interview tips](https://www.zdnet.com/educa
 
 **Also:** [**Should I go back to school in a recession?**](https://www.zdnet.com/education/should-i-go-back-to-school-in-a-recession/)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Do
 
 **Stay positive**
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -146,6 +179,19 @@ Saying that you brought in new customers is okay, but saying that you "increased
 Mentioning that you quilt or play chess reveals more about you than just what you do in your spare time, it shows a part of your personality. Interactive roles like volunteer work or being a part of a softball team demonstrate that you are friendly and are able to communicate well with others. 
 
 **Also:** [**What the latest employment surge means for technology jobs**](https://www.zdnet.com/article/what-the-latest-employment-surge-means-for-technology-jobs/)
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Don't
 
@@ -187,11 +233,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-thirteen-for-professional-cinematic-equipment/"><u>[New] Ultimate Thirteen for Professional Cinematic Equipment</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-thorough-examination-of-gecata-recorder/"><u>[Updated] In 2024, Thorough Examination of Gecata Recorder</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-zooms-video-enhancements-filter-techniques/"><u>[Updated] Mastering Zoom's Video Enhancements Filter Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-cognitive-colosseums-the-battle-between-gpt-and-bert/"><u>AI's Cognitive Colosseums: The Battle Between GPT and BERT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-ai-advancements-on-iphones-with-ios-18-release-discover-6-key-features-and-anticipate-whats-next-insights-by-zdnet/"><u>Explore AI Advancements on iPhones with iOS 18 Release: Discover 6 Key Features & Anticipate What's Next | Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-gpt-4s-capabilities-at-no-extra-cost/"><u>Explore GPT-4's Capabilities at No Extra Cost</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-scrutiny-the-dji-inspire-1-experience-for-2024/"><u>Full Scrutiny The DJI Inspire 1 Experience for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-6-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 6 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-6-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 6 and iPad?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/income-on-instagram-comprehensive-step-by-step-guide/"><u>Income on Instagram Comprehensive Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/power-up-any-web-session-integrating-agentgpts-ais/"><u>Power Up Any Web Session – Integrating AgentGPT's AIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-ai-assessment-what-comes-after-turings-trial/"><u>The Future of AI Assessment: What Comes After Turing's Trial?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-language-tech-insight-into-bert-and-gpt/"><u>The Future of Language Tech: Insight Into BERT & GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-recommended-apple-macbook-models-pick/"><u>Top Recommended Apple MacBook Models Pick</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-selection-of-iphone-12-and-12-pro-cases-in-2-groovy-styles-check-the-list-out-here-at-zdnet/"><u>Ultimate Selection of iPhone 12 and 12 Pro Cases in 2 Groovy Styles! Check the List Out Here at ZDNET.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-your-mobile-data-footprint-tips-and-tricks/"><u>Understanding Your Mobile Data Footprint: Tips & Tricks</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning/"><u>Updated 2024 Approved Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-virtualdub-review-pros-cons-and-top-competitors-you-should-know/"><u>Updated 2024 Approved Virtualdub Review Pros, Cons, and Top Competitors You Should Know</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-90-gt-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor 90 GT? Fixed | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How Does SHAP Enhance ML Model Comprehensibility?
-date: 2024-10-19T19:22:20.720Z
-updated: 2024-10-21T02:25:06.746Z
+date: 2024-10-25T19:26:56.029Z
+updated: 2024-10-26T22:58:14.056Z
 tags:
   - chatgpt
   - open-ai
@@ -37,16 +37,10 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
  By combining these two components, Shap-E can generate realistic and diverse 3D models that match the given text or image input and can be viewed from different angles and lighting conditions.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How You Can Use OpenAI's Shap-E
@@ -60,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
  You can also report issues and find solutions to issues already raised by others on the Shap-E GitHub page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What You Can Do With OpenAI's Shap-E
@@ -73,10 +67,16 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 ![Screenshot of text-3D images from OpenAI's Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-text-3d-images-from-openai-s-github.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As an architect, you can use Shap-E to create 3D models of buildings and structures based on written descriptions. You can specify the structures' dimensions, materials, colors, and styles using simple sentences. For example, you can prompt it with: "Make a skyscraper with 60 floors and glass balustrades," and export the result(s) to other software for further editing if you like the results you get.
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
  Although it is still a work in progress, Shap-E is a step ahead of OpenAI's [POINT-E](https://openai.com/research/point-e), which produces 3D point clouds based on text prompts. The point clouds are limited in their expressiveness and resolution, often producing blurry or incomplete shapes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generate 3D Models Using OpenAI's Shap-E
@@ -119,17 +119,20 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-innovative-techniques-for-capturing-audio-on-ipad/"><u>[New] Innovative Techniques for Capturing Audio on iPad</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-record-perfectly-with-apples-webcam-on-macbook/"><u>[Updated] 2024 Approved Record Perfectly with Apple's Webcam on MacBook</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridge-to-a-smart-future-with-ai-on-bing-beginners-guide/"><u>Bridge to a Smart Future with AI on Bing: Beginner's Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-soundwave-success-adding-audio-to-your-instastory/"><u>In 2024, Soundwave Success Adding Audio to Your InstaStory</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-dynamic-duo-approach-using-two-photos-in-one-instagram-story/"><u>In 2024, The Dynamic Duo Approach Using Two Photos in One Instagram Story</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-the-right-call-with-local-language-model-choices/"><u>Making the Right Call with Local Language Model Choices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-googles-password-management-risks/"><u>Navigating Google's Password Management Risks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolving-the-critical-issue-how-a-faulty-battery-safety-mechanism-could-compromise-your-airtags-and-more/"><u>Resolving the Critical Issue: How a Faulty Battery Safety Mechanism Could Compromise Your AirTags & More</u></a></li>
-<li><a href="https://win-guides.techidaily.com/sd-kartenloschung-wie-windows-11-ihre-speicherkarten-ohne-vorwarnung-entfernt/"><u>SD-Kartenlöschung: Wie Windows 11 Ihre Speicherkarten Ohne Vorwarnung Entfernt</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chatgpt-approach-to-podcast-storylines/"><u>The ChatGPT Approach to Podcast Storylines</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unboxing-and-testing-the-netgear-nighthawk-rax80-the-latest-wi-fi-6-powerhouse-on-a-sleek-platform/"><u>Unboxing and Testing the Netgear Nighthawk RAX80 – The Latest Wi-Fi 6 Powerhouse on a Sleek Platform</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unveiling-the-secrets-of-morphvox-sound-adjustment/"><u>[New] 2024 Approved Unveiling the Secrets of MorphVOX Sound Adjustment</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-achieve-social-stardom-the-ultimate-list-for-fb-fan-increase-for-2024/"><u>[New] Achieve Social Stardom The Ultimate List for FB Fan Increase for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-amplify-igtv-audiences-5-effective-ways-for-a-larger-following/"><u>[New] Amplify IGTV Audiences 5 Effective Ways for a Larger Following</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-hp-laptop-sound-not-working-in-windows-10/"><u>[SOLVED] HP Laptop Sound Not Working in Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-navigating-google-meet-discussions-tips-and-tricks/"><u>[Updated] 2024 Approved Navigating Google Meet Discussions Tips & Tricks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-simplified-telegram-web-navigation-procedures/"><u>[Updated] Simplified Telegram Web Navigation Procedures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-laughter-unraveling-computer-history-and-virtual-safeguarding/"><u>AI Laughter: Unraveling Computer History & Virtual Safeguarding</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amd-radeon-graphics-drivers-version-2410-update-and-features/"><u>AMD Radeon Graphics Drivers Version 24.10: Update and Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boosting-safari-speed-top-4-fixes-for-a-faster-iphone-experience/"><u>Boosting Safari Speed: Top 4 Fixes for a Faster iPhone Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/face-off-of-digital-minds-snapchat-vs-skype-bing/"><u>Face-Off of Digital Minds: Snapchat Vs. Skype Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-for-excel-conquer-spreadsheet-anxiety/"><u>Mastering ChatGPT for Excel: Conquer Spreadsheet Anxiety</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-i-get-ahead-of-the-curve-with-apples-vision-pro-reserved-listing-find-out-by-asking-these-5-key-questions-expert-advice-on-zdnet/"><u>Should I Get Ahead of the Curve with Apple's Vision Pro Reserved Listing? Find Out by Asking These 5 Key Questions | Expert Advice on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-alternative-for-your-apple-watch-ultra-is-restocked-discover-the-secret-in-our-latest-zdnet-report/"><u>The Top Alternative for Your Apple Watch Ultra Is Restocked! Discover the Secret in Our Latest ZDNET Report.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-mac-os-maintenance-tools-of-2022-expert-reviews-and-ratings-techradar/"><u>Top MAC OS Maintenance Tools of 2022: Expert Reviews and Ratings | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/two-effective-techniques-for-updating-applications-on-macos-detailed-guide/"><u>Two Effective Techniques for Updating Applications on macOS - Detailed Guide</u></a></li>
 </ul></div>
 

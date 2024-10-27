@@ -1,7 +1,7 @@
 ---
 title: "Mastering Telephone Job Interviews: Proven Strategies for Impressing Recruiters and Advance to Face-to-Face Discussions"
-date: 2024-09-18 20:42:36
-updated: 2024-09-20 11:10:12
+date: 2024-10-23T22:35:19.255Z
+updated: 2024-10-26T17:45:10.573Z
 tags:
   - professional-development
 categories:
@@ -33,6 +33,19 @@ Salary might come up during a phone interview, particularly when speaking with a
 ### Start prepping as early as possible
 
 It's important to start preparing for a phone interview as early as possible. When scheduling the interview, consider blocking off time to prepare. Use that time to learn more about the company, practice your answers to common phone interview questions, and prepare questions for the interviewer.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Get the details down
 
@@ -76,6 +89,13 @@ Make a plan to get in the right mindset for your interview. Decide where to take
 
 Your first impression goes a long way and approaching a phone interview professionally can help you make it to the second round of interviews. Take the phone interview seriously and make sure to use professional language while remaining conversational. If it is a video interview, you should show up five minutes ahead of time, as you would with an in-person interview.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Act professional and collegial
 
 During a phone interview, the hiring manager evaluates how you would fit in with the team and the company. They want to know what you'd be like as a member of the team. So act professional and friendly. Show that you're an active listener and let small talk happen. Give off the energy of a great coworker and colleague.
@@ -88,9 +108,23 @@ It's natural to feel nervous during a phone interview, and we tend to speak fast
 
 Don't let a dry throat or cough interrupt your interview. Make sure to start the call with a glass of water close at hand. Or if you prefer, bring a cup of coffee or tea for a little caffeine boost. Similarly, make sure you're not hungry (or overly full) when you start the interview.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ask follow-up questions
 
 Feel free to ask follow-up questions throughout the call. Asking questions shows the interviewer that you're listening and interested in the role. If the interviewer asks an unclear question, don't hesitate to ask for clarification. It's better to make sure you understand the question than to muddle through with a subpar answer.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bring examples from your professional experience
 
@@ -104,7 +138,21 @@ Demonstrate enthusiasm during the call. Talk about why you're interested in the 
 
 What's the best way to end the interview on a high note? Make sure to thank the interviewer for their time and express your interest one last time. For example, consider ending the call with "I'm looking forward to the next steps." Your last impression should be one of enthusiasm for the hopeful next interview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## After the phone interview: Ending on a high note
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Take notes after the interview
 
@@ -114,6 +162,13 @@ Once you hang up the phone, what's next? While it's fresh in your mind, jot down
 
 After the interview, make sure to send a thank-you email to the interviewer. The email can be brief. Consider something like "I appreciate the opportunity to learn more about the role and company." Take the opportunity to express your enthusiasm for the next steps in the interview process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Wait to reach out again
 
 You've sent a thank you email and waited several days. When should you reach out again? Wait at least a week before contacting the interviewer again, particularly if they gave you an idea of their timeline. For example, if they said you'd hear back in a week, wait at least a few days after that date to contact them again.
@@ -121,6 +176,13 @@ You've sent a thank you email and waited several days. When should you reach out
 ### Keep busy
 
 You might feel tempted to replay the interview in your mind and come up with better answers to every question. But keep yourself occupied to avoid dwelling. Write your thoughts in a journal and then go for a walk or get some fresh air. Let a friend or family member know how the interview went, and then focus on your other responsibilities as you wait to hear about a second interview.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## In conclusion
 
@@ -162,11 +224,31 @@ _Last reviewed Jan. 27, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-bring-life-to-graphics-adobe-blur-masterclass/"><u>[New] Bring Life to Graphics Adobe Blur Masterclass</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gotorhythms-top-pick-for-hearing-westerosi-songs/"><u>[New] GoToRhythms Top Pick for Hearing Westerosi Songs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-chortle-creator-suite/"><u>[Updated] 2024 Approved Chortle Creator Suite</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-optimize-video-quality-on-youtube-with-size-settings/"><u>[Updated] 2024 Approved How to Optimize Video Quality on YouTube with Size Settings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-invisible-hand-mastering-windows-11s-media-imports-for-2024/"><u>[Updated] The Invisible Hand Mastering Windows 11'S Media Imports for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artistic-expression-at-risk-lawsuits-against-ai-giants-intensify/"><u>Artistic Expression at Risk? Lawsuits Against AI Giants Intensify</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-the-app-store-think-twice-for-your-mac-security/"><u>ChatGPT in the App Store? Think Twice for Your Mac Security</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-10-4g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark 10 4G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-chatgpts-business-centric-features/"><u>Decoding ChatGPT's Business-Centric Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/determining-ai-generated-works-legal-stewards/"><u>Determining AI-Generated Works' Legal Stewards</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emerging-ai-trends-reshaping-job-dynamics/"><u>Emerging AI Trends: Reshaping Job Dynamics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-fixes-for-when-you-cant-connect-to-destiny-2-servers/"><u>Essential Fixes for When You Can't Connect to Destiny 2 Servers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pros-and-cons-is-it-worth-switching-to-the-new-iphone-16-insights-experts/"><u>Pros & Cons: Is It Worth Switching to the New iPhone 16? Insights Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagined-interaction-unveiling-new-capabilities-of-chatgpt/"><u>Reimagined Interaction: Unveiling New Capabilities of ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-y100-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Y100 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-potential-chatgpts-role-in-interview-readiness/"><u>Unlock Potential: ChatGPT's Role in Interview Readiness</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/viral-amazon-prime-videos-from-twitter/"><u>Viral Amazon Prime Videos From Twitter</u></a></li>
+</ul></div>
+

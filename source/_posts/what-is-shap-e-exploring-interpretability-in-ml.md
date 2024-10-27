@@ -1,7 +1,7 @@
 ---
 title: What Is SHAP E? Exploring Interpretability in ML
-date: 2024-09-16T16:58:17.826Z
-updated: 2024-09-22T16:40:46.873Z
+date: 2024-10-24T22:06:37.837Z
+updated: 2024-10-26T19:27:00.929Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
  By combining these two components, Shap-E can generate realistic and diverse 3D models that match the given text or image input and can be viewed from different angles and lighting conditions.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How You Can Use OpenAI's Shap-E
 
  Shap-E has not been made public like other OpenAI tools, but its model weight, inference code, and samples are available for download on the [Shap-E GitHub](https://github.com/openai/shap-e) page.
@@ -46,11 +53,31 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 
  You can also report issues and find solutions to issues already raised by others on the Shap-E GitHub page.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What You Can Do With OpenAI's Shap-E
 
  Shap-E enables you to describe complex ideas using a visual representation of ideas. The potential applications for this technology are limitless, especially as visuals typically have far more reaching effects than texts.
 
 ![Screenshot of text-3D images from OpenAI's Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-text-3d-images-from-openai-s-github.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As an architect, you can use Shap-E to create 3D models of buildings and structures based on written descriptions. You can specify the structures' dimensions, materials, colors, and styles using simple sentences. For example, you can prompt it with: "Make a skyscraper with 60 floors and glass balustrades," and export the result(s) to other software for further editing if you like the results you get.
 
@@ -61,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
  Although it is still a work in progress, Shap-E is a step ahead of OpenAI's [POINT-E](https://openai.com/research/point-e), which produces 3D point clouds based on text prompts. The point clouds are limited in their expressiveness and resolution, often producing blurry or incomplete shapes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generate 3D Models Using OpenAI's Shap-E
@@ -90,5 +117,26 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/aster-the-art-of-youtube-thumbnails-in-minutes/"><u>[New] Master the Art of YouTube Thumbnails in Minutes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-podcastpathfinder-charting-new-courses/"><u>[Updated] PodcastPathfinder Charting New Courses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chrome-plug-ins-for-productivity-the-best-8-ai-tools/"><u>Chrome Plug-Ins for Productivity: The Best 8 AI Tools</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/como-hacer-desaparecer-imagenes-secreta-del-iphone-a-su-computadora-tres-efectivos-metodos/"><u>Cómo Hacer Desaparecer Imágenes Secreta Del iPhone a Su Computadora: Tres Efectivos Métodos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-zoom-integrates-with-vision-pro-headsets-bringing-a-new-dimension-to-virtual-meetings-insights-from-zdnet/"><u>Get Ready: Zoom Integrates with Vision Pro Headsets, Bringing a New Dimension to Virtual Meetings – Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-best-screen-recorder-for-youtube/"><u>In 2024, Best Screen Recorder for YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-unlock-free-youtube-gallery-downloads-now/"><u>In 2024, Unlock Free YouTube Gallery Downloads Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovators-at-war-notion-ai-vs-gpt-3-in-the-spotlight/"><u>Innovators at War: Notion AI Vs. GPT-3 in the Spotlight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nightshade-techniques-to-safeguard-your-unique-artistic-creations/"><u>Nightshade Techniques to Safeguard Your Unique Artistic Creations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proving-the-worth-of-other-ais-for-automated-code-generation/"><u>Proving the Worth of Other AIs for Automated Code Generation</u></a></li>
+<li><a href="https://win-updates.techidaily.com/restaurar-a-unidade-do-sistema-com-backup-efetivo-usando-uefi/"><u>Restaurar a Unidade Do Sistema Com Backup Efetivo Usando UEFI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-the-website-building-process-through-chatgpts-insights/"><u>Streamline the Website Building Process Through ChatGPT's Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-tip-restarting-an-igfxem-module-that-wont-work-anymore/"><u>Troubleshooting Tip: Restarting an igfxEM Module that Won't Work Anymore</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/uefiusbdell/"><u>UEFI設定でUSBデバイスから始めるDellコンピュータ起動ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/veen-from-legal-matters-to-tech-news-update-apples-generous-compensation-for-eligible-macbook-enthusiasts-via-settlement-deal/"><u>Veen From Legal Matters to Tech News Update: Apple's Generous Compensation for Eligible MacBook Enthusiasts via Settlement Deal</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y100-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y100 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-presents-julys-ultimate-bargains-on-premium-laptops/"><u>ZDNet Presents: July's Ultimate Bargains on Premium Laptops!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-ranking-of-apple-watches-for-2-in-depth-testing-and-expert-evaluations/"><u>ZDNet's Ultimate Ranking of Apple Watches for 2지년: In-Depth Testing & Expert Evaluations</u></a></li>
+</ul></div>
 

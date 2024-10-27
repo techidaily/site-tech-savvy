@@ -1,7 +1,7 @@
 ---
 title: "Beyond Ping-Pong Pads & Free Coffee: Unraveling the Reasons Behind Escalating Resignations in Tech Industry | ZDNet"
-date: 2024-09-18 19:38:47
-updated: 2024-09-20 12:59:35
+date: 2024-10-20T20:17:26.773Z
+updated: 2024-10-26T18:31:30.812Z
 tags:
   - professional-development
 categories:
@@ -47,9 +47,29 @@ Change is hard. We all get that. Trying to strategize and implement a complete r
 
 Companies that are slow to prioritize employees' needs risk falling behind – and probably already have. Rethinking perks and the wider employee experience will require more creative thinking than ping pong and pool tables. But the potential payoff for businesses and their employees is far too valuable to ignore.
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ZDNET'S MONDAY MORNING OPENER 
 
 _The Monday Morning Opener is our opening salvo for the week in tech, written by members of our editorial team. Since we run a global site, this editorial publishes on Monday at 8:00am AEST in Sydney, Australia, which is 6:00pm Eastern Time on Sunday in the US, 10:00PM GMT in London._
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### PREVIOUSLY ON MONDAY MORNING OPENER : 
 
@@ -84,11 +104,25 @@ _The Monday Morning Opener is our opening salvo for the week in tech, written by
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-embracing-authenticity-in-video-marketing-through-clients-words-for-2024/"><u>[Updated] Embracing Authenticity in Video Marketing Through Clients' Words for 2024</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-professionelle-tipps-zum-klonen-von-ext4-festplattenpartitionen-fur-den-maximalen-datenschutz/"><u>1. Professionelle Tipps Zum Klonen Von Ext4 Festplattenpartitionen Für Den Maximalen Datenschutz</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-zte-nubia-z60-ultra-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your ZTE Nubia Z60 Ultra Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-discontinues-apple-pay-later-scheme-an-alternative-program-is-under-development-insights/"><u>Apple Discontinues 'Apple Pay Later' Scheme: An Alternative Program Is Under Development - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-winning-videographies-the-essential-guide-to-chatgpt-scriptwriting/"><u>Crafting Winning Videographies: The Essential Guide to ChatGPT Scriptwriting</u></a></li>
+<li><a href="https://win-special.techidaily.com/crear-varias-copias-de-seguridad-en-windows-10-un-guia-paso-a-paso/"><u>Crear Varias Copias De Seguridad en Windows 10: Un Guía Paso a Paso</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oneplus-ace-2v-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix OnePlus Ace 2V Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme Narzo 60 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/separating-nlp-from-ml-in-data-science-fields/"><u>Separating NLP From ML in Data Science Fields</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-essential-ios-16-functions-you-need-and-their-easy-usage-guide-techwise/"><u>Top 5 Essential iOS 16 Functions You Need and Their Easy Usage Guide | TechWise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-lies-behind-the-name-truthgpt-coin/"><u>What Lies Behind the Name 'TruthGPT Coin'?</u></a></li>
+</ul></div>
+

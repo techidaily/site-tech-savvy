@@ -1,7 +1,7 @@
 ---
 title: "The Low Code Conundrum: How Simplified Development Liberates IT Experts Yet Tangles Them in Unforeseen Complexities | ZDNet"
-date: 2024-09-18 22:42:41
-updated: 2024-09-20 11:49:18
+date: 2024-10-21T16:21:44.631Z
+updated: 2024-10-26T16:06:57.986Z
 tags:
   - professional-development
 categories:
@@ -86,11 +86,34 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-which-one-rules-podcasts-vs-youtube-for-entertainment/"><u>[Updated] Which One Rules? Podcasts Vs. YouTube for Entertainment</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-restore-lost-airdrop-functionality-with-easy-solutions-for-iosmacos/"><u>2024 Approved Restore Lost Airdrop Functionality with Easy Solutions for iOS/macOS</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-your-health-journey-the-top-9-tips/"><u>ChatGPT and Your Health Journey: The Top 9 Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-strategies-to-prevent-last-epoch-errors-on-your-pc-this-year-2024-edition/"><u>Expert Strategies to Prevent Last Epoch Errors on Your PC This Year, 2024 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-future-of-smart-devices-unveiling-artificial-intelligence-enhancements-in-apples-latest-iphones-macs-and-ipads/"><u>Exploring the Future of Smart Devices: Unveiling Artificial Intelligence Enhancements in Apple's Latest iPhones, Macs, and iPads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978607292-get-the-newest-geforce-rtx-3080-ti-drivers-for-windows-11-8-and-7-now/"><u>Get the Newest GeForce RTX 지도 3080 Ti Drivers for Windows 11, 8 & 7 Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Samsung Galaxy F54 5G.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonizing-messages-whatsapps-audio-update/"><u>In 2024, Harmonizing Messages WhatsApp's Audio Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-assessment-of-the-new-iphone/"><u>In-Depth Assessment of the New iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-pro-showdown-which-size-suits-you-best-11-or-12n-inch-powered-by-m1-and-m2-insights-s-latest-review/"><u>IPad Pro Showdown: Which Size Suits You Best - 11 or 12.n Inch Powered by M1 & M2? Insights 'S Latest Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spotting-deceptive-chatgpt-sites-immediate-actions-needed/"><u>Spotting Deceptive ChatGPT Sites: Immediate Actions Needed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/value-proposition-investing-in-elite-ai-craftsmanship/"><u>Value Proposition: Investing in Elite AI Craftsmanship?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Staffing Shifts in Major Tech Companies: Beyond Layoff Headlines"
-date: 2024-09-18 18:51:54
-updated: 2024-09-20 10:38:15
+date: 2024-10-25T16:26:42.010Z
+updated: 2024-10-26T16:58:42.680Z
 tags:
   - professional-development
 categories:
@@ -57,7 +57,21 @@ Contrary to recent moves by some tech companies to reduce their headcount, Rhona
 
 Carmichael told ZDNET: "Our report shows that many are planning additional technology investment next year as the number one board priority is to be operationally more efficient to help 'recession-proof' their business. In short, technology is still seen by many as a way of reducing operating costs even in the face of rising inflation."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Remote work hiring trends upward
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** In Depth
 
@@ -83,9 +97,29 @@ Nash Squared's White also offered caution to tech leaders in the year ahead, tho
 
 Job cuts at big tech companies are understandably worrying for anyone working in tech, and job cuts are a terrible ordeal for those that have to go through it especially if the process is not handled with sensitivity and compassion. But big tech is not the whole tech industry, which is still a source of opportunity for many.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET'S MONDAY OPENER** 
 
 _ZDNet's Monday Opener is our opening take on the week in tech, written by members of our editorial team._ 
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **PREVIOUSLY ON ZDNET'S MONDAY OPENER:**
 
@@ -119,11 +153,28 @@ _ZDNet's Monday Opener is our opening take on the week in tech, written by membe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-reviving-your-shows-heartbeat-saving-facebook-livestream-pauses/"><u>[New] 2024 Approved Reviving Your Show's Heartbeat Saving Facebook Livestream Pauses</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-captivate-viewers-with-stunning-story-bokeh/"><u>[New] In 2024, How to Captivate Viewers with Stunning Story Bokeh</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-integrity-of-truthgpts-currency/"><u>Decoding the Integrity of TruthGPT's Currency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-five-companies-are-revolutionizing-their-workflow-with-apple-vision-pro-a-game-changer-for-modern-enterprises/"><u>How Five Companies Are Revolutionizing Their Workflow with Apple Vision Pro: A Game Changer for Modern Enterprises</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-x6-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco X6 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-reno-9a-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo Reno 9A Phone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-s23-fe-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy S23 FE Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-word-meets-gpt-a-symbiosis-for-automation/"><u>Microsoft Word Meets GPT: A Symbiosis for Automation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-future-tech-4-regulatory-avenues-for-ai-tools/"><u>Navigating Future Tech: 4 Regulatory Avenues for AI Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-progress-chatgpts-revolutionary-feature-set-revealed/"><u>Pioneering Progress: ChatGPT's Revolutionary Feature Set Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/story-1-misunderstanding-compliance-with-cloud-computing/"><u>Story 1: Misunderstanding Compliance with Cloud Computing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-5-zoom-transcribing-tools-free-and-paid-options-for-2024/"><u>Top 5 Zoom Transcribing Tools Free & Paid Options for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-full-list-of-iphone-models-ready-for-apples-next-wave-of-innovative-ai-capabilities-and-siri-upgrades/"><u>Unveiling the Full List of iPhone Models Ready for Apple's Next Wave of Innovative AI Capabilities and Siri Upgrades</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1726224216590-m4a-wmv-movavi/"><u>フリーソフトを使用してM4A WMV変換: Movaviオンラインツール</u></a></li>
+</ul></div>
+

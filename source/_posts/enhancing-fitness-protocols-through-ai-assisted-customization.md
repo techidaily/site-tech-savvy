@@ -1,7 +1,7 @@
 ---
 title: Enhancing Fitness Protocols Through AI-Assisted Customization
-date: 2024-10-16T00:37:50.513Z
-updated: 2024-10-20T19:32:44.668Z
+date: 2024-10-24T16:00:13.143Z
+updated: 2024-10-26T21:20:48.378Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 
  By considering all these factors, you can create prompts to guide ChatGPT in creating a more personalized workout schedule.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use a Long Prompt
 
  Long prompts are a way to get ChatGPT to prescribe a plan without breaking down the specifics into different commands. You can input all the information about the client: their fitness goals, fitness levels, and training preferences, and ChatGPT will provide a workout plan with the details.
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
  Long prompts are great if you have many clients across a wide range of fitness specialties and goals. They save you time because you just have to gather all the client’s special information and feed them to ChatGPT in well-formed sentences. Not providing context is one of the [ChatGPT prompt mistakes](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) that long prompts can help you avoid.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Review the Workout Plan
@@ -82,10 +89,16 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
  From time to time, you have to revisit the plan and make changes to accommodate your client’s growth. Based on what you have noticed from your client’s reports on how they feel during and after training or from watching them train, you can instruct ChatGPT to modify the workout plan it has created.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Increase Workout Intensity
@@ -93,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
  If your client is getting used to the current intensity of workouts, you can copy and paste the previous workout plan back into ChatGPT and ask the AI to create a more intense version. Then, you’ll get a whole new workout with ChatGPT, either adding more reps and sets to the exercises or creating more difficult alternatives.
 
 ![Intensified workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intensified-workout-plan-by-chat-gpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For example, ChatGPT has modified the 25-year-old man’s home workout plan to make it more intense. From the image below, you’ll see that it has replaced normal push-ups with plyometric push-ups. And instead of planks, it has prescribed planks with shoulder taps.
 
@@ -118,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
  You can use this initiative for periods when your client is losing consistency, as it adds some spice, making their workouts more interesting. ChatGPT has many workout and exercise suggestions, so you can continue experimenting until you find something you like.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Remember to Allow Your Expertise to Shine
@@ -149,24 +155,16 @@ thumbnail: https://thmb.techidaily.com/157a979e6aaa82fd4480fbd5cf379bdea463e7fa2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-monetizing-your-youtube-content-costing/"><u>[New] Monetizing Your YouTube Content Costing</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-pc-and-android-strategies-for-optimized-facebook-video-uploads-for-2024/"><u>[New] PC & Android Strategies for Optimized Facebook Video Uploads for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unlock-xbox-gaming-memories-with-these-4-methods/"><u>[Updated] In 2024, Unlock Xbox Gaming Memories with These 4 Methods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-solitary-voice-collective-applause-a-podcast-journey/"><u>2024 Approved Solitary Voice, Collective Applause A Podcast Journey</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/45-funniest-tiktok-puzzles-and-jokes-for-2024/"><u>45 Funniest TikTok Puzzles & Jokes for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-termination-dissecting-10-potential-firing-scenarios/"><u>ChatGPT and Termination: Dissecting 10 Potential Firing Scenarios</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-with-browsing-vs-chatgpt-plugins-which-version-of-chatgpt-should-you-use/"><u>ChatGPT With Browsing Vs. ChatGPT Plugins: Which Version of ChatGPT Should You Use?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/determining-chatgpts-maximum-response-length/"><u>Determining ChatGPT’s Maximum Response Length</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-idea-to-image-da-vincis-top-30-creative-stimuli-for-ai-artists/"><u>From Idea to Image: Da Vinci's Top 30 Creative Stimuli for AI Artists</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ore-out-of-youtube-with-8-handpicked-download-apps-for-2024/"><u>Get More Out of YouTube with 8 Handpicked Download Apps for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-realme-12-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Realme 12 Pro 5G Phones with/without a PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y17s-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y17s Phone Hassle-Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-gpt-dialogues-6-common-errors/"><u>Optimizing GPT Dialogues: 6 Common Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/privacy-paradox-decoding-the-top-3-bot-security-warnings/"><u>Privacy Paradox: Decoding the Top 3 Bot Security Warnings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/probing-into-machine-learning-boon-or-bane-for-creative-writing/"><u>Probing Into Machine Learning: Boon or Bane for Creative Writing?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-8-chrome-enhancers-leveraging-ai-for-efficiency-boosts/"><u>Top 8 Chrome Enhancers Leveraging AI for Efficiency Boosts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tweet-no-more-smiley-face-linuss-disclosure-trojan-explanation-and-gpt-problems-uncovered/"><u>Tweet No More Smiley Face, Linus’s Disclosure, Trojan Explanation, & GPT Problems Uncovered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-pros-and-cons-ais-pivotal-role-in-creative-endeavors/"><u>Unraveling Pros and Cons: AI’s Pivotal Role in Creative Endeavors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-a-guide-to-coloring-composition-with-confidence-for-2024/"><u>[New] A Guide to Coloring Composition with Confidence for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-exquisite-scenery-tips-for-live-shows/"><u>[New] Exquisite Scenery Tips for Live Shows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/addressing-glitches-restoring-chatgpt-and-service-harmony/"><u>Addressing Glitches: Restoring ChatGPT & Service Harmony</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/airpods-pros-new-hearing-assistance-feature-in-ios-15-no-physical-upgrade-required-techspot/"><u>AirPods Pro's New Hearing Assistance Feature in iOS 15, No Physical Upgrade Required | TechSpot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/calculate-the-mean-score-5-plus-16-plus-12-plus-10-plus-18-plus-20-6-81-6-approx-135/"><u>Calculate the Mean Score: $(5 + 16 + 12 + 10 + 18 + 20) / 6 = 81 / 6 Approx 13.5$</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovery-revealing-falsehood-about-gpt-windows/"><u>Discovery: Revealing Falsehood About GPT-Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-malfunctions-heres-how-to-fix-non-working-alphabets-on-windows-10-or-11-systems/"><u>Keyboard Malfunctions? Here's How to Fix Non-Working Alphabets on Windows 10 or 11 Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-and-easy-iphone-burst-techniques-for-2024/"><u>Quick and Easy iPhone Burst Techniques for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesize-knowledge-integrating-chatgpt/"><u>Synthesize Knowledge: Integrating ChatGPT</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlocking-snapchats-video-potential-mobile-tips-for-2024/"><u>Unlocking Snapchat's Video Potential Mobile Tips for 2024</u></a></li>
 </ul></div>
 

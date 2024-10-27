@@ -1,7 +1,7 @@
 ---
 title: "Riding the Wave of Change: How AI Will Phase Out Certain Careers Yet Spark Opportunities in Novel Domains | ZDNet"
-date: 2024-09-19 19:23:48
-updated: 2024-09-20 11:10:50
+date: 2024-10-19T18:22:53.782Z
+updated: 2024-10-26T20:50:51.731Z
 tags:
   - professional-development
 categories:
@@ -123,11 +123,32 @@ As Ghrist concludes: "'More math and more Twitter' is eccentric advice, but we a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-solving-stuttering-problems-in-modern-warfare-3-tips-for-enhanced-gameplay/"><u>Diagnosing and Solving Stuttering Problems in Modern Warfare 3: Tips for Enhanced Gameplay</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-fix-unresponsive-letters-in-microsofts-new-os-windows-11-keyboard-issues/"><u>Guide to Fix Unresponsive Letters in Microsoft's New OS, Windows 11 Keyboard Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-xiaomi-14-ultra-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Xiaomi 14 Ultra online without jailbreak</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-of-employment-with-ai/"><u>Navigating the Future of Employment with AI</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/optimal-tools-macs-best-video-grabber-software-guide-for-2024/"><u>Optimal Tools Mac's Best Video Grabber Software Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-job-applications-chatgpt-insights/"><u>Streamlining Job Applications: ChatGPT Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-extra-storage-a-step-by-step-guide-to-clear-your-iphone-clutter-and-save-gb/"><u>Unlocking Extra Storage: A Step-by-Step Guide to Clear Your iPhone Clutter & Save GB</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-event-detailed-coverage-on-timings-latest-gossip-and-expectations/"><u>Upcoming Apple Event - Detailed Coverage on Timings, Latest Gossip & Expectations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/well-being-and-vitality-8-smart-ai-upgrades/"><u>Well-Being & Vitality: 8 Smart AI Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/you-can-now-access-chatgpt-and-whisper-apis-what-this-means-for-businesses/"><u>You Can Now Access ChatGPT and Whisper APIs: What This Means for Businesses</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

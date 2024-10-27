@@ -1,7 +1,7 @@
 ---
 title: Overcoming Impostor Syndrome in the Workplace & Exuding Self-Assuredness | Insight Tech
-date: 2024-09-19 22:17:34
-updated: 2024-09-20 12:43:57
+date: 2024-10-21T17:26:11.434Z
+updated: 2024-10-26T22:31:36.022Z
 tags:
   - professional-development
 categories:
@@ -45,6 +45,13 @@ Additionally, since imposter syndrome is an internal experience, there's no thre
 
 We know from research that those feelings do not subside after reaching a new goal because we acclimate and quickly pick a new goal as the next threshold, continuing the cycle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Am I experiencing imposter syndrome at work?
 
 Recognizing imposter syndrome is the first step toward healing. Feeling like you aren't good enough for your job can lead to overwhelming stress, a [sense of burnout](https://www.zdnet.com/education/professional-development/how-to-avoid-burnout/), and even resigning from your position. 
@@ -73,6 +80,13 @@ Additionally, if you are going to talk to your manager, think about some actiona
 If you don't have a transparent and vulnerable relationship with your manager, I would also suggest seeking the support of peers. Ultimately, you want to go to the well that has water for you. 
 
 Tori Rubloff/ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to cope with imposter syndrome in your career
 
@@ -144,6 +158,13 @@ Keep your list somewhere you can access it when you need a boost. Include anythi
 
 If you led a successful meeting, note what worked and some [public speaking tips](https://www.zdnet.com/education/professional-development/public-speaking-tips/) for future you. Don't forget to add any kind Slack messages you've received or positive comments on a performance review. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [How to overcome new job anxiety New job anxiety can hinder your productivity and hurt your professional experience. Find out what anxiety is and what you can do to manage it.  Read now](https://www.zdnet.com/article/overcome-new-job-anxiety/)
@@ -161,6 +182,19 @@ These methods to overcome imposter syndrome can be helpful, but sometimes you ne
 Cognitive-behavioral therapy can help explore negative emotions and create personalized methods to manage them. 
 
 Your primary care provider may be able to connect you with a therapist. If that's not possible for you, try an online service like Betterhelp or Talkspace. These sites offer quick appointment availability.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More about Dr. Pauline Yeghnazar Peck, MA, MMFT, Ph.D.
 
@@ -187,11 +221,26 @@ Your primary care provider may be able to connect you with a therapist. If that'
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-fortune-in-focus-5-best-maps-for-treasures/"><u>[New] In 2024, Fortune in Focus 5 Best Maps for Treasures</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-search-engine-optimization-for-podcasts/"><u>[New] Mastering the Art of Search Engine Optimization for Podcasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-fix-valorant-thumbnails-professionally-done-now/"><u>[Updated] Quick-Fix Valorant Thumbnails Professionally Done Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-recent-advancements-in-ai-progress-and-future-challenges-explored/"><u>Apple’s Recent Advancements in AI – Progress and Future Challenges Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploiting-microsoft-copilot-to-forge-individualized-ai-designs/"><u>Exploiting Microsoft Copilot to Forge Individualized AI Designs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-most-trusted-vpn-apps-for-your-mac-in-depth-analysis-by-tech-pros/"><u>Explore the Most Trusted VPN Apps for Your Mac: In-Depth Analysis by Tech Pros</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guarding-your-digital-footprint-essential-bot-risks-revealed/"><u>Guarding Your Digital Footprint: Essential Bot Risks Revealed</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a1-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/make-your-pictures-speak-online-with-the-best-tools-recommended/"><u>Make Your Pictures Speak Online With the Best Tools Recommended</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/masterpiece-moments-iphone-plus-androids-best-ig-covers/"><u>Masterpiece Moments IPhone + Android's Best IG Covers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/on-device-ai-explained-functionality-and-working-processes/"><u>On-Device AI Explained: Functionality and Working Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-training-and-nutrition-via-select-8-gpts/"><u>Tailored Training & Nutrition via Select 8 GPTs</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Financial Tech Experts Call for Creative Intellects to Revolutionize AI, Rejecting Dependence on Simplistic Prompts | ZDNet
-date: 2024-09-19 18:48:59
-updated: 2024-09-20 10:46:58
+date: 2024-10-23T20:45:05.401Z
+updated: 2024-10-26T23:14:33.881Z
 tags:
   - professional-development
 categories:
@@ -98,11 +98,40 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlock-potential-innovating-with-effective-instagram-video-loops/"><u>[New] In 2024, Unlock Potential Innovating with Effective Instagram Video Loops</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-explore-meme-land-top-9-tools-to-make-your-creative-mark-with-gifs/"><u>[Updated] Explore Meme Land Top 9 Tools to Make Your Creative Mark with GIFs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-protectly-copy-youtube-tracks-for-free/"><u>[Updated] How to Protectly Copy Youtube Tracks for Free</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-which-micro-video-service-meets-your-individual-needs-better/"><u>[Updated] Which Micro-Video Service Meets Your Individual Needs Better?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dare-to-innovate-with-claude-3-the-top-4-reasons-to-switch-up/"><u>Dare to Innovate with Claude 3: The Top 4 Reasons to Switch Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fixes-for-non-responsive-lenovo-fingerprint-recognition/"><u>DIY Fixes for Non-Responsive Lenovo Fingerprint Recognition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-enhanced-performance-discover-top-features-of-macos-15-on-your-apple-macbook-comprehensive-guide-by-zdnet/"><u>Experience Enhanced Performance: Discover Top Features of macOS 15 on Your Apple MacBook – Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ais-challenges-the-eight-core-problems-with-gpt/"><u>Exploring AI's Challenges: The Eight Core Problems with GPT</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-conquerors-of-the-past-the-prime-7-battle-simulations/"><u>In 2024, Conquerors of the Past The Prime 7 Battle Simulations</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-18-unveiled-exploring-new-ai-features-for-iphone-owners-and-anticipating-upcoming-innovations-tech-insights/"><u>IOS 18 Unveiled: Exploring New AI Features for iPhone Owners and Anticipating Upcoming Innovations | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-vs-ipad-pro-a-comprehensive-comparison-and-review-discover-the-key-differences/"><u>IPad Air Vs. IPad Pro: A Comprehensive Comparison & Review - Discover the Key Differences!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-nuances-of-business-e-mails-with-gpt/"><u>Navigating the Nuances of Business E-Mails with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-mercedes-elevates-conversation-with-gpt-in-cars/"><u>New Era: Mercedes Elevates Conversation with GPT in Cars</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swipe-away-the-old-welcome-apple-airplay-in-luxury-hotels-unveiling-its-seamless-integration-and-functionality/"><u>Swipe Away the Old, Welcome Apple AirPlay in Luxury Hotels - Unveiling Its Seamless Integration and Functionality!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-gamers-picks-unbeatable-alienware-and-dell-promotions/"><u>Top Gamers' Picks: Unbeatable Alienware & Dell Promotions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-11-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme 11 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/worlds-top-browser-faces-apples-intriguing-challenge-discover-how-they-clash-zdnet-insight/"><u>World's Top Browser Faces Apple's Intriguing Challenge: Discover How They Clash! | ZDNet Insight</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

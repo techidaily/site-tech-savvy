@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Startling Reasons Behind Employee Resignation Spree - Insights From ZDNet
-date: 2024-09-18 21:50:24
-updated: 2024-09-20 11:50:34
+date: 2024-10-19T20:58:58.778Z
+updated: 2024-10-26T18:07:57.592Z
 tags:
   - professional-development
 categories:
@@ -36,6 +36,13 @@ Looking ahead to 2023, 89% of employees said they were highly motivated to advan
 Higher pay (59%), [better work-life balance](https://www.zdnet.com/article/this-engineering-insights-company-switched-to-a-four-day-workweek-they-detailed-the-process-so-you-can-too/)(48%), and an increased sense of purpose (41%) were identified as the main motivators behind employees wanting to polish their skills. But employees also identified their employers as the main roadblock to accessing better learning and development opportunities.
 
 According to the survey, employees want their employers to provide them with opportunities to further their education and participate in networking activities. But only 51% of respondents said their employers provide college tuition, while just 55% reported having access to networking opportunities.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +80,26 @@ Dan Schawbel, managing partner at Workplace Intelligence, said: "In today's empl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elevate-your-ps5-and-xbox-experience-with-top-tvs/"><u>[New] 2024 Approved Elevate Your PS5 and Xbox Experience with Top TVs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-transformative-tinsel-a-journey-from-box-to-joy/"><u>[New] Transformative Tinsel A Journey From Box to Joy</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-economical-pc-graphics-saving-apps-for-2024/"><u>[Updated] Economical PC Graphics Saving Apps for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-use-discord-text-to-speech/"><u>2024 Approved How to Use Discord Text-To-Speech?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/composing-prime-canon-temporal-videos-for-2024/"><u>Composing Prime Canon Temporal Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converting-creative-imagery-transforming-webp-from-dall-e-to-png-jpg/"><u>Converting Creative Imagery: Transforming WebP From DALL-E to PNG, JPG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ideal-add-ons-maximizing-chatgpt-in-vs-code-environment/"><u>Ideal Add-Ons: Maximizing ChatGPT in VS Code Environment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-vs-multi-meva-understanding-their-core-differences/"><u>In 2024, Metaverse Vs. Multi-Meva Understanding Their Core Differences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-energy-efficiency-utilizing-low-power-mode-on-macos-monterey-a-comprehensive-guide/"><u>Mastering Energy Efficiency: Utilizing Low Power Mode on macOS Monterey - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-output-on-your-ipad-a-curated-list-of-productivity-powerhouses-and-workflow-hacks-insights/"><u>Maximizing Output on Your iPad: A Curated List of Productivity Powerhouses and Workflow Hacks | Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-nokia-g310-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Nokia G310 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unlock-the-secrets-to-effective-podcast-scriptwriting-and-practical-examples-for-2024/"><u>Unlock the Secrets to Effective Podcast Scriptwriting & Practical Examples for 2024</u></a></li>
+</ul></div>
+

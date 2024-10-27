@@ -1,7 +1,7 @@
 ---
 title: ChaGPT Remains Sharp, Declares OpensAI
-date: 2024-09-16T16:22:02.559Z
-updated: 2024-09-22T18:56:41.596Z
+date: 2024-10-22T22:55:02.408Z
+updated: 2024-10-26T19:06:20.552Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 
  Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stanford Study Suggests ChatGPT Drop Off
 
  A combined Stanford University and UC Berkley research group believes those feelings that ChatGPT is changing could be right. Lingjiao Chen, Matei Zaharia, and James Zou's paper [How Is ChatGPT's Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf) \[PDF\] is one of the first in-depth studies into ChatGPT's changing capabilities.
@@ -52,6 +59,13 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 ![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
  The charts suggest ChatGPT's responses are drifting, further emphasized by the report.
@@ -59,6 +73,13 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 > GPT-4’s accuracy dropped from 97.6% in March to 2.4% in June, and there was a large improvement of GPT-3.5’s accuracy, from 7.4% to 86.8%. In addition, GPT-4’s response became much more compact: its average verbosity (number of generated characters) decreased from 821.2 in March to 3.8 in June. On the other hand, there was about 40% growth in GPT-3.5’s response length. The answer overlap between their March and June versions was also small for both services.
 
  The report explains that ChatGPT's large language model chain of thought "did not work" when presented with the questions in June. Conversation drift has always been a notable issue with LLMs, but the extreme variance in responses suggests performance issues and changes to ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is ChatGPT Getting Worse? OpenAI Says No
 
@@ -71,16 +92,10 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can OpenAI Restore ChatGPT to Its Original State?
@@ -106,5 +121,20 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-building-a-business-on-snapchat-a-beginners-blueprint-for-2024/"><u>[New] Building a Business on Snapchat A Beginner's Blueprint for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-expert-guide-merging-srt-captions-with-mp4-video-content/"><u>[Updated] In 2024, Expert Guide Merging SRT Captions with MP4 Video Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-transform-your-set-design-top-8-sites-providing-free-green-screen-footage-and-backdrop/"><u>[Updated] In 2024, Transform Your Set Design Top 8 Sites Providing Free Green Screen Footage & Backdrop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolution-will-claude-overtake-chatgpt/"><u>AI Revolution: Will Claude Overtake ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-bard-7-techniques-from-palm-2-improvements/"><u>Boosting Bard: 7 Techniques From PaLM 2 Improvements</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chrome-and-elevated-cpu-usage-resolved-a-comprehensive-guide/"><u>Chrome and Elevated CPU Usage Resolved: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-seamlessly-transition-to-gpts-new-browser-features/"><u>How to Seamlessly Transition to GPT's New Browser Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus with a Mask On</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-immediate-ios-screen-playback-guide/"><u>In 2024, Immediate iOS Screen Playback Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/officially-updated-nvidia-graphics-card-drivers-for-windows-operating-systems-windows-11-7-and-8/"><u>Officially Updated Nvidia Graphics Card Drivers for Windows Operating Systems: Windows 11, 7 & 8</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-photo-addition-to-instagram/"><u>Step-by-Step Photo Addition to Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/supercharge-dialogue-the-ultimate-10-tweaks-for-better-chatgpt/"><u>Supercharge Dialogue: The Ultimate 10 Tweaks for Better ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-chatgpt-integrations-for-effortless-pdf-editing/"><u>Top 10 ChatGPT Integrations for Effortless PDF Editing</u></a></li>
+</ul></div>
 

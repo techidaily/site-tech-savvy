@@ -1,7 +1,7 @@
 ---
 title: Rigorous Mobile Device Evaluation Methods Used
-date: 2024-10-14T03:20:22.963Z
-updated: 2024-10-20T21:42:01.601Z
+date: 2024-10-20T21:28:30.401Z
+updated: 2024-10-26T19:53:39.523Z
 tags:
   - apple
 categories:
@@ -45,10 +45,16 @@ For hands-on testing, five aspects determine whether or not a phone gets recomme
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Design and ergonomics
@@ -62,10 +68,10 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance
@@ -79,10 +85,10 @@ Performance testing also includes putting phones through varying levels of graph
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Cameras
@@ -96,10 +102,10 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life and charging
@@ -156,24 +162,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-pinnacle-selector-your-personal-video-vault/"><u>[Updated] The Pinnacle Selector Your Personal Video Vault</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-tiktok-number-modification-easy-to-follow-steps/"><u>2024 Approved TikTok Number Modification Easy to Follow Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-mastery-unleashed-delving-into-transfer-learning-methods/"><u>AI Mastery Unleashed: Delving Into Transfer Learning Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-general-guidance-how-chatgpt-tailors-instructions-to-you/"><u>Beyond General Guidance: How ChatGPT Tailors Instructions to You</u></a></li>
-<li><a href="https://network-issues.techidaily.com/conquering-wow-malfunction-no-519/"><u>Conquering WoW Malfunction No. 519</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-se-2020-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone SE (2020)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engage-with-ease-mastering-the-rtx-conversational-bot/"><u>Engage With Ease: Mastering the RTX Conversational Bot</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nubia-red-magic-9-proplus-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nubia Red Magic 9 Pro+ to Mac? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-nubia-red-magic-9-pro-devices-by-drfone-android/"><u>How to Reset Gmail Password on Nubia Red Magic 9 Pro Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-se-2022-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone SE (2022)? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-lava-yuva-2-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Lava Yuva 2 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-the-web-with-ease-bings-ai-search-on-ios-and-android/"><u>Navigate the Web with Ease: Bing's AI Search on iOS & Android.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimal-chatgpt-command-strategies-unveiled/"><u>Optimal ChatGPT Command Strategies Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preserve-your-virtual-discussions-with-gpt/"><u>Preserve Your Virtual Discussions with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/remote-efficiency-unlocked-the-sixest-benefits-of-chatgpt/"><u>Remote Efficiency Unlocked: The Sixest Benefits of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synthesizing-scenery-da-vincis-cutting-edge-imagery-prompts/"><u>Synthesizing Scenery: Da Vinci's Cutting-Edge Imagery Prompts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-conceptual-framework-and-societal-impacts-of-comparing-digital-libraries-with-traditional-models/"><u>The Conceptual Framework and Societal Impacts of Comparing Digital Libraries with Traditional Models</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-comparison-elite-ranking-of-travel-ready-wifi-devices/"><u>The Ultimate Comparison: Elite Ranking of Travel-Ready WiFi Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-online-seminar-creation-assistant-for-2024/"><u>Ultimate Online Seminar Creation Assistant for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-navigating-video-data-in-high-capacity-drives-64128gb/"><u>[New] Navigating Video Data in High-Capacity Drives (64/128GB)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-capture-record-and-share-the-essence-of-spring-screens/"><u>[Updated] 2024 Approved Capture, Record, and Share - The Essence of Spring Screens</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-honor-x50i-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Honor X50i Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adaptive-wellness-tools-select-8-gpt-integrations/"><u>Adaptive Wellness Tools: Select 8 GPT Integrations</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/heimvision-a80s-alarm-clock-with-light-therapy-feature-comprehensive-product-evaluation/"><u>HeimVision A80S Alarm Clock with Light Therapy Feature – Comprehensive Product Evaluation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-x-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone X to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-6-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 6 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-v30-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo V30</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-method-for-uploading-pictures-from-an-aged-iphone-to-the-latest-iphone-x-using-a-mac-computer/"><u>Step-by-Step Method for Uploading Pictures From an Aged iPhone to the Latest iPhone X Using a Mac Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-benefits-of-using-apple-pages-why-you-need-this-app-on-your-device/"><u>Top 5 Benefits of Using Apple Pages: Why You Need This App on Your Device</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/top-pick-prodigious-insta-hlv-pages-creators/"><u>Top Pick Prodigious Insta HLV Pages Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/true-academic-success-beyond-chatgpts-capabilities/"><u>True Academic Success Beyond ChatGPT's Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-vision-intelligent-home-assistants-on-tomorrows-horizon-insights-and-predictions/"><u>Unveiling Apple's Vision: Intelligent Home Assistants on Tomorrow’s Horizon | Insights and Predictions</u></a></li>
 </ul></div>
 

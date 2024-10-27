@@ -1,7 +1,7 @@
 ---
 title: Unlocking Large Language Systems' Secrets
-date: 2024-10-14T22:32:31.323Z
-updated: 2024-10-20T17:55:33.471Z
+date: 2024-10-23T21:24:34.922Z
+updated: 2024-10-26T18:07:20.682Z
 tags:
   - chatgpt
   - open-ai
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
@@ -73,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
  But LLMs go deeper than this. They can also tailor replies to suit the emotional tone of the input. When combined with contextual understanding, the two facets are the main drivers that allow LLMs to create human-like responses.
 
  To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are the Limitations of LLMs?
 
@@ -88,10 +88,16 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Examples of Popular LLMs
@@ -104,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
  Generative Pre-trained Transformer (GPT) is perhaps the most widely known LLM. GPT-3.5 powers the ChatGPT platform used for the examples in this article, while the newest version, GPT-4, is available [through a ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Microsoft also uses the latest version [in its Bing Chat platform](https://www.makeuseof.com/chatgpt-vs-bing-chat-best-generative-ai-chatbot/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. LaMDA
 
  This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
@@ -122,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
  Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Future of LLMs
@@ -140,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 4. **Greater Integration**: LLMs could become personal digital assistants. Think of Siri on steroids, and you get the idea. LLMs could become virtual assistants that help you with everything from suggesting meals to dealing with your correspondence.
 
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
 
@@ -166,18 +172,16 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/nnovative-split-screen-videos-for-youtube-sharing-for-2024/"><u>[New] Innovative Split-Screen Videos for YouTube Sharing for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-value-capture-affordable-cam-options-for-2024/"><u>[New] Value Capture Affordable Cam Options for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-crafting-an-inviting-subscribe-icon-for-youtube-videographers/"><u>[Updated] 2024 Approved Crafting an Inviting Subscribe Icon for YouTube Videographers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audience-augmentation-made-simple-5-solutions-available/"><u>[Updated] In 2024, Audience Augmentation Made Simple - $5 Solutions Available</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage/"><u>2024 Approved Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/become-a-hero-in-code-with-openais-flaw-hunting-bonus-program/"><u>Become a Hero in Code with OpenAI's Flaw Hunting Bonus Program</u></a></li>
-<li><a href="https://video-capture.techidaily.com/best-moba-games-on-android-top-10-selection/"><u>Best MOBA Games on Android - Top 10 Selection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-top-9-wellness-innovations-for-modern-living/"><u>ChatGPT’s Top 9 Wellness Innovations for Modern Living</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-the-unique-in-digital-dialogue/"><u>Discovering the Unique in Digital Dialogue</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-instagram-to-tik-tok-a-social-pivot-blueprint/"><u>In 2024, Instagram to Tik Tok - A Social Pivot Blueprint</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/night-photography-perfection-with-iphones/"><u>Night Photography Perfection with iPhones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-persuasive-edge-of-apples-new-iphone-16-pro-vs-max-model-what-to-know-before-you-upgrade-this-year-expert-analysis-at-zdnet/"><u>The Persuasive Edge of Apple's New iPhone 16 Pro Vs. Max Model: What to Know Before You Upgrade This Year | Expert Analysis at ZDNET</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-5-tips-for-influencer-program-on-instagram-with-examples/"><u>[Updated] 2024 Approved 5 Tips for Influencer Program on Instagram with Examples</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-troublesome-tapless-tech-ghost-touch-issues-plague-iwatch-users-fixing-solutions/"><u>1. 'Troublesome Tapless Tech: Ghost Touch Issues Plague iWatch Users - Fixing Solutions!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-guide-to-the-best-note-taking-tablets-comprehensive-testing-and-ratings-pcmag/"><u>2024'S Ultimate Guide to the Best Note-Taking Tablets: Comprehensive Testing and Ratings | PCMag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-ai-chatbot-guide-you-through-survival-scenarios/"><u>Can AI Chatbot Guide You Through Survival Scenarios?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-innovative-camera-button-on-every-iphone-16-unveiling-its-capabilities-insights-from-zdnet/"><u>Discover the Innovative Camera Button on Every iPhone 16: Unveiling Its Capabilities – Insights From ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/eleve-a-definicao-da-tua-foto-11-tratamentos-eficazes-para-melhorar-a-imagem/"><u>Eleve a Definição Da Tua Foto: 11 Tratamentos Eficazes Para Melhorar a Imagem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-ussd-work-demystifying-unstructured-supplementary-service-code/"><u>How Does USSD Work? Demystifying Unstructured Supplementary Service Code</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-magic-6-lite-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor Magic 6 Lite to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-s23-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel S23 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-deal-snag-a-discounted-ipad-at-only-199-on-amazons-labor-day-blowout-insights/"><u>Unbeatable Deal: Snag a Discounted iPad at Only $199 on Amazon's Labor Day Blowout - Insights</u></a></li>
 </ul></div>
 

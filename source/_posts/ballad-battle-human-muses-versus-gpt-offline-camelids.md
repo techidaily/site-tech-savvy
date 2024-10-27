@@ -1,7 +1,7 @@
 ---
 title: "Ballad Battle: Human Muses Versus GPT, Offline Camelids"
-date: 2024-10-13T22:18:13.088Z
-updated: 2024-10-20T16:02:42.692Z
+date: 2024-10-19T18:04:50.834Z
+updated: 2024-10-26T16:29:55.353Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
@@ -69,16 +76,10 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -92,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
  None of our models could respond that the correct term for a pea-shaped object is "pisiform," with ChatGPT going so far as to suggest that peas have a "three-dimensional geometric shape that is perfectly round and symmetrical."
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
 
@@ -110,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Writing Code?
@@ -123,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the [best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/).
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which LLM Tells the Best Jokes?
 
@@ -146,19 +147,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
  You read it here first, folks.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -185,16 +173,18 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-unlocking-fcp-a-guide-to-obtaining-copy-without-cost/"><u>[New] 2024 Approved Unlocking FCP A Guide to Obtaining Copy Without Cost</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-guide-to-recording-private-whatsapp-communications/"><u>[New] A Guide to Recording Private WhatsApp Communications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-maximize-your-mac-productivity-a-comprehensive-guide-to-configuring-and-benefiting-from-hot-corners-in-macos/"><u>1. Maximize Your Mac Productivity: A Comprehensive Guide to Configuring & Benefiting From Hot Corners in macOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-tips-for-empowering-your-ios-device-using-secret-siri-functionality-a-deep-dive-into-enhanced-productivity-zdnet/"><u>Expert Tips for Empowering Your iOS Device Using Secret Siri Functionality: A Deep Dive Into Enhanced Productivity - ZDNET</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-cookiebot-propels-seo-success-for-modern-websites/"><u>How Cookiebot Propels SEO Success for Modern Websites</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-14-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 14 Pro Max to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stealthy-employee-communication-with-ai-platforms/"><u>Stealthy Employee Communication with AI Platforms</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-showdown-apple-tv-ebox-vs-roku-ultra-a-comprehensive-guide-to-choosing-your-perfect-streamer/"><u>The Showdown: Apple TV Ebox Vs. Roku Ultra - A Comprehensive Guide to Choosing Your Perfect Streamer</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-20-free-public-domain-pubg-screenshot-slideshows-for-2024/"><u>Top 20 Free Public Domain PUBG Screenshot Slideshows for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-protective-covers-for-iphone-16-and-iphone-16-pro-professional-review-by-tech-experts/"><u>Top-Rated Protective Covers for iPhone 16 & iPhone 16 Pro : Professional Review by Tech Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-potential-of-claude-3/"><u>Unlock the Potential of Claude 3</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-polarr-editor-explained-the-ultimate-visual-enhancement-pathway/"><u>[New] In 2024, Polarr Editor Explained The Ultimate Visual Enhancement Pathway</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-streamlining-social-media-posting-vimeo-on-instagram-for-2024/"><u>[New] Streamlining Social Media Posting Vimeo on Instagram for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fast-and-easy-photovideo-exchange-between-ios-gear/"><u>[Updated] Fast & Easy Photo/Video Exchange Between iOS Gear</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breakthrough-in-accessibility-how-apples-latest-feature-enables-eye-gestures-to-command-your-ios-devices-analysis-by-zdnet/"><u>Breakthrough in Accessibility: How Apple's Latest Feature Enables Eye Gestures to Command Your iOS Devices | Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-efficiency-4-chatgpt-based-tactics-for-time-management/"><u>Enhancing Efficiency: 4 ChatGPT-Based Tactics for Time Management</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-asus-atk0110-bios-acpi-and-chipset-drivers-for-free-step-by-step-guide/"><u>Get the Latest ASUS ATK0110 BIOS, ACPI & Chipset Drivers for Free: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptclosedqs-reopening-schedule-pursuit/"><u>GPTClosedQs: Reopening Schedule Pursuit</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-snapshot-sentence-maker/"><u>In 2024, Snapshot Sentence Maker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-crypto-conversations-via-gpt-3/"><u>Mastering Crypto Conversations via GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-apple-watch-endurance-with-our-expert-tips-on-key-configuration-tweaks/"><u>Maximize Apple Watch Endurance with Our Expert Tips on Key Configuration Tweaks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speedy-inspector-for-windows-images/"><u>Speedy Inspector for Windows Images</u></a></li>
 </ul></div>
 

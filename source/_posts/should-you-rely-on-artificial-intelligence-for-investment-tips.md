@@ -1,7 +1,7 @@
 ---
 title: Should You Rely on Artificial Intelligence for Investment Tips?
-date: 2024-10-17T02:27:16.791Z
-updated: 2024-10-21T00:07:30.108Z
+date: 2024-10-20T20:00:43.192Z
+updated: 2024-10-26T16:36:04.394Z
 tags:
   - chatgpt
   - open-ai
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
 
  The Sharpe ratio is typically calculated as follows: **Sharpe Ratio = (Asset Return - Risk-Free Rate) / Asset Volatility**. It is a commonly used metric in finance that helps investors evaluate the risk-adjusted return of an investment or portfolio.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Google Bard's Response
 
 ![digital representation of Google Bard's response to the selected prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/picture-1-1.jpg)
@@ -65,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
 ![digital representation of ChatGPT 4 response to the prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chrome_qz7rbzx1uq.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Even using the ChatGPT models, the focus is on the long-term aspect. In all cases, the portfolio allocation is designed to maximize the Sharpe ratio while still maintaining a diversified portfolio.
@@ -84,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
  But before you try to use artificial intelligence tools for financial advice, it's important to understand the good and potential problems that come with it.
 
 ![AI Engineer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Artificial-Intelligence.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pros of Trusting AI for Financial Advice
 
@@ -104,129 +104,6 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
 Image credit: [CFPB](https://www.cfp.net/news/2023/08/cfp-board-survey-investors-trust-ai-more-than-social-media--but-advice-still)  
 
  The study surveyed over 1,100 adults to display investors' overall comfort in trusting AI without verifying the information. The poll is evident that AI could possess skills to showcase financial acumen for investors. Having said that, AI possesses some pitfalls as well.
-
-### Cons of Trusting AI Models for Financial Advice
-
- Trusting AI like ChatGPT and Bard for financial advice can be a double-edged sword, and there are significant disadvantages to consider.
-
-![blind trust in artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/blind-trust-in-artificial-intelligence.jpg)
-
- Firstly, these AI systems cannot truly understand your unique financial situation and goals. They operate based on algorithms and historical data, so their recommendations might not align with your needs. Financial decisions are deeply personal, and a one-size-fits-all approach can lead to poor outcomes.
-
- Another critical drawback is the potential for errors. AI systems are not immune to glitches or inaccuracies. Relying solely on AI advice without verification can expose you to significant financial risks. A simple data error or a failure to account for unexpected market events can lead to substantial losses.
-
- Furthermore, AI doesn't offer emotional support. Financial decisions can be stressful, and AI lacks the empathy and human touch that a human financial advisor can provide. Sometimes, you need someone to talk to, especially during turbulent market times.
-
- Lastly, AI systems can't provide the broader context of your financial life. Life events, such as marriage, childbirth, or retirement plans, can significantly impact your financial decisions. AI may not grasp these nuances, leaving you with advice that doesn't consider your overall circumstances.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 5 Factors to Consider Before Using AI for Financial Advice
-
- Overall, the decision to trust AI for financial advice ultimately depends on your circumstances and preferences. Here are some factors to consider:
-
-1. **Complexity of Your Financial Situation:** If your financial situation is relatively straightforward, AI may suffice for basic guidance. However, if your circumstances are more intricate, you may benefit from the nuanced insights a human advisor can provide.
-2. **Risk Tolerance:** Your risk tolerance plays a crucial role in your financial decisions. AI systems may not fully understand your risk appetite, so if this is a critical factor, it might be wise to consult a human expert.
-3. **Emotional Needs**: Do you require emotional support and guidance when dealing with financial matters? If so, a human advisor can offer the empathy and reassurance that AI lacks.
-4. **Cost Considerations:** AI-driven financial advice is often more cost-effective than human advisors. If your budget is tight, AI may be the more practical choice.
-5. **Hybrid Approach** **:** Consider adopting a hybrid approach by combining AI advice with occasional consultations with a human financial advisor. This way, you can benefit from both the data-driven analysis of AI and the personalized insights of a human expert.
-
- It's a substantial list, but it could help you get a headstart.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Always Maintain Caution When Using Generative AI
-
- You should always remember that while AI has merits, trusting it blindly for financial advice is risky. It's essential to approach AI recommendations cautiously, consider its limitations, and ideally complement it with human expertise that can provide personalized, emotionally supportive, and context-aware guidance tailored to your unique financial journey.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- Investors want the easy way out when it comes to financial advice. Nowadays, they rely on artificial intelligence models to help navigate the way with their investments. But should you rely on such technologies with your hard-earned money?
-
- To answer this question, let's delve into the intricacies of AI in the finance sector, weighing the pros and cons to help you decide whether to trust these digital advisors.
-
-## Should You Trust AI for Financial Advice?
-
- Before we jump into the specifics, let's try out the breakthrough technology to see if three generative AI tools, [Google's Bard AI](https://www.makeuseof.com/how-to-use-google-bard/) and OpenAI's GPT-3.5 (free) and GPT-4, can help you diversify an investment portfolio containing different asset classes.
-
- For testing, I wrote a prompt that reads:
-
-> You are a finance expert AI designed to optimize a portfolio with a size of $20,000 that needs to be allocated to the following assets: global equity ETF, bond ETF, commodities, and crypto ETF. Perform portfolio optimization for the Sharpe ratio metric and provide an output in terms of percentage allocation.
-
- The Sharpe ratio is typically calculated as follows: **Sharpe Ratio = (Asset Return - Risk-Free Rate) / Asset Volatility**. It is a commonly used metric in finance that helps investors evaluate the risk-adjusted return of an investment or portfolio.
-
-### Google Bard's Response
-
-![digital representation of Google Bard's response to the selected prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/picture-1-1.jpg)
-
- Google's AI model focuses on the importance of investing for the long term, rebalancing the portfolio, and diversifying it. Moving on, let's see the results on ChatGPT models—GPT-3.5 (free version) and GPT-4 (paid subscription).
-
-### ChatGPT-3.5 Response
-
-### digital representation of ChatGPT 3.5's response to the selected prompt
-![digital representation of ChatGPT 3.5's response to the selected prompt](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/picture-2.jpg)
-
-![digital representation of ChatGPT 4 response to the prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chrome_qz7rbzx1uq.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
- Even using the ChatGPT models, the focus is on the long-term aspect. In all cases, the portfolio allocation is designed to maximize the Sharpe ratio while still maintaining a diversified portfolio.
-
- The global equity ETF provides exposure to the global stock market, which has historically offered the highest returns over the long term. The bond ETF provides exposure to fixed-income assets, offering lower returns and volatility. The commodities ETF provides exposure to commodities, which can offer inflation protection. The crypto ETF provides exposure to the cryptocurrency market, which is a new and volatile asset class.
-
- But the situation can change. That is, traditional or even emerging asset classes can emerge victorious and offer higher returns depending on the market conditions. On the contrary, a potential financial market collapse can potentially wipe out your profits.
-
-## Understanding the Rise of AI in Finance
-
- Artificial intelligence has completely changed how the financial industry works in recent years. AI uses its extensive training data and enormous processing power to quickly look at a ton of information, figure out patterns, and even predict things that only humans could do before. Because of this, [AI has made personal growth tools](https://www.makeuseof.com/best-ai-apps-websites-personal-growth/) really popular among everyday people, including for finance.
-
- But before you try to use artificial intelligence tools for financial advice, it's important to understand the good and potential problems that come with it.
-
-![AI Engineer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Artificial-Intelligence.jpg)
-
-### Pros of Trusting AI for Financial Advice
-
- Using artificial intelligence models does have certain benefits that can come in handy for users.
-
- Artificial intelligence (AI) systems bring a host of advantages to the realm of financial decision-making. Their prowess lies in data-driven analysis, allowing them to adeptly process vast amounts of financial data, scrutinize market trends, and dissect economic indicators. This analytical prowess empowers them to offer insights that might elude a human advisor.
-
- Furthermore, AI platforms break free from the constraints of office hours, offering round-the-clock availability. This means you can conveniently access financial advice whenever you need it, without the hassle of scheduling appointments or waiting for callbacks.
-
- Another notable strength of AI in this context is its ability to eliminate emotional bias. Human emotions often cloud judgment when making financial choices. However, AI systems such as ChatGPT and Bard base their recommendations solely on data, thus removing the emotional bias that can lead to impulsive or irrational decisions. This rational approach enhances the quality of advice provided.
-
- Lastly, AI-powered financial advisory services often present a cost-effective alternative to traditional human advisors. Their affordability makes high-quality financial guidance accessible to a broader range of individuals. In essence, AI not only enhances the analytical capabilities of financial decision-making but also offers convenience, objectivity, and cost-efficiency, ultimately reshaping the landscape of financial advisory services.
-
- Such advantages could be the key reasons behind investors' vote of confidence. In fact, per an August 22, 2023, report released by the [Certified Financial Planner Board](https://www.cfp.net/news/2023/08/cfp-board-survey-investors-trust-ai-more-than-social-media--but-advice-still), 31 percent of US-based investors would consider following AI-generated financial advice without verifying it with another source.
-
-![digital representation of investors' trust in AI without verifying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/picture-4.jpg)
-
-Image credit: [CFPB](https://www.cfp.net/news/2023/08/cfp-board-survey-investors-trust-ai-more-than-social-media--but-advice-still)  
-
- The study surveyed over 1,100 adults to display investors' overall comfort in trusting AI without verifying the information. The poll is evident that AI could possess skills to showcase financial acumen for investors. Having said that, AI possesses some pitfalls as well.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Cons of Trusting AI Models for Financial Advice
 
@@ -265,6 +142,13 @@ Image credit: [CFPB](https://www.cfp.net/news/2023/08/cfp-board-survey-investors
  Investors want the easy way out when it comes to financial advice. Nowadays, they rely on artificial intelligence models to help navigate the way with their investments. But should you rely on such technologies with your hard-earned money?
 
  To answer this question, let's delve into the intricacies of AI in the finance sector, weighing the pros and cons to help you decide whether to trust these digital advisors.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should You Trust AI for Financial Advice?
 
@@ -323,12 +207,128 @@ Image credit: [CFPB](https://www.cfp.net/news/2023/08/cfp-board-survey-investors
 
  The study surveyed over 1,100 adults to display investors' overall comfort in trusting AI without verifying the information. The poll is evident that AI could possess skills to showcase financial acumen for investors. Having said that, AI possesses some pitfalls as well.
 
+### Cons of Trusting AI Models for Financial Advice
+
+ Trusting AI like ChatGPT and Bard for financial advice can be a double-edged sword, and there are significant disadvantages to consider.
+
+![blind trust in artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/blind-trust-in-artificial-intelligence.jpg)
+
+ Firstly, these AI systems cannot truly understand your unique financial situation and goals. They operate based on algorithms and historical data, so their recommendations might not align with your needs. Financial decisions are deeply personal, and a one-size-fits-all approach can lead to poor outcomes.
+
+ Another critical drawback is the potential for errors. AI systems are not immune to glitches or inaccuracies. Relying solely on AI advice without verification can expose you to significant financial risks. A simple data error or a failure to account for unexpected market events can lead to substantial losses.
+
+ Furthermore, AI doesn't offer emotional support. Financial decisions can be stressful, and AI lacks the empathy and human touch that a human financial advisor can provide. Sometimes, you need someone to talk to, especially during turbulent market times.
+
+ Lastly, AI systems can't provide the broader context of your financial life. Life events, such as marriage, childbirth, or retirement plans, can significantly impact your financial decisions. AI may not grasp these nuances, leaving you with advice that doesn't consider your overall circumstances.
+
+## 5 Factors to Consider Before Using AI for Financial Advice
+
+ Overall, the decision to trust AI for financial advice ultimately depends on your circumstances and preferences. Here are some factors to consider:
+
+1. **Complexity of Your Financial Situation:** If your financial situation is relatively straightforward, AI may suffice for basic guidance. However, if your circumstances are more intricate, you may benefit from the nuanced insights a human advisor can provide.
+2. **Risk Tolerance:** Your risk tolerance plays a crucial role in your financial decisions. AI systems may not fully understand your risk appetite, so if this is a critical factor, it might be wise to consult a human expert.
+3. **Emotional Needs**: Do you require emotional support and guidance when dealing with financial matters? If so, a human advisor can offer the empathy and reassurance that AI lacks.
+4. **Cost Considerations:** AI-driven financial advice is often more cost-effective than human advisors. If your budget is tight, AI may be the more practical choice.
+5. **Hybrid Approach** **:** Consider adopting a hybrid approach by combining AI advice with occasional consultations with a human financial advisor. This way, you can benefit from both the data-driven analysis of AI and the personalized insights of a human expert.
+
+ It's a substantial list, but it could help you get a headstart.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Always Maintain Caution When Using Generative AI
+
+ You should always remember that while AI has merits, trusting it blindly for financial advice is risky. It's essential to approach AI recommendations cautiously, consider its limitations, and ideally complement it with human expertise that can provide personalized, emotionally supportive, and context-aware guidance tailored to your unique financial journey.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Investors want the easy way out when it comes to financial advice. Nowadays, they rely on artificial intelligence models to help navigate the way with their investments. But should you rely on such technologies with your hard-earned money?
+
+ To answer this question, let's delve into the intricacies of AI in the finance sector, weighing the pros and cons to help you decide whether to trust these digital advisors.
+
+## Should You Trust AI for Financial Advice?
+
+ Before we jump into the specifics, let's try out the breakthrough technology to see if three generative AI tools, [Google's Bard AI](https://www.makeuseof.com/how-to-use-google-bard/) and OpenAI's GPT-3.5 (free) and GPT-4, can help you diversify an investment portfolio containing different asset classes.
+
+ For testing, I wrote a prompt that reads:
+
+> You are a finance expert AI designed to optimize a portfolio with a size of $20,000 that needs to be allocated to the following assets: global equity ETF, bond ETF, commodities, and crypto ETF. Perform portfolio optimization for the Sharpe ratio metric and provide an output in terms of percentage allocation.
+
+ The Sharpe ratio is typically calculated as follows: **Sharpe Ratio = (Asset Return - Risk-Free Rate) / Asset Volatility**. It is a commonly used metric in finance that helps investors evaluate the risk-adjusted return of an investment or portfolio.
+
+### Google Bard's Response
+
+![digital representation of Google Bard's response to the selected prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/picture-1-1.jpg)
+
+ Google's AI model focuses on the importance of investing for the long term, rebalancing the portfolio, and diversifying it. Moving on, let's see the results on ChatGPT models—GPT-3.5 (free version) and GPT-4 (paid subscription).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### ChatGPT-3.5 Response
+
+### digital representation of ChatGPT 3.5's response to the selected prompt
+![digital representation of ChatGPT 3.5's response to the selected prompt](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/picture-2.jpg)
+
+![digital representation of ChatGPT 4 response to the prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chrome_qz7rbzx1uq.jpg)
+
+ Even using the ChatGPT models, the focus is on the long-term aspect. In all cases, the portfolio allocation is designed to maximize the Sharpe ratio while still maintaining a diversified portfolio.
+
+ The global equity ETF provides exposure to the global stock market, which has historically offered the highest returns over the long term. The bond ETF provides exposure to fixed-income assets, offering lower returns and volatility. The commodities ETF provides exposure to commodities, which can offer inflation protection. The crypto ETF provides exposure to the cryptocurrency market, which is a new and volatile asset class.
+
+ But the situation can change. That is, traditional or even emerging asset classes can emerge victorious and offer higher returns depending on the market conditions. On the contrary, a potential financial market collapse can potentially wipe out your profits.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Understanding the Rise of AI in Finance
+
+ Artificial intelligence has completely changed how the financial industry works in recent years. AI uses its extensive training data and enormous processing power to quickly look at a ton of information, figure out patterns, and even predict things that only humans could do before. Because of this, [AI has made personal growth tools](https://www.makeuseof.com/best-ai-apps-websites-personal-growth/) really popular among everyday people, including for finance.
+
+ But before you try to use artificial intelligence tools for financial advice, it's important to understand the good and potential problems that come with it.
+
+![AI Engineer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Artificial-Intelligence.jpg)
+
+### Pros of Trusting AI for Financial Advice
+
+ Using artificial intelligence models does have certain benefits that can come in handy for users.
+
+ Artificial intelligence (AI) systems bring a host of advantages to the realm of financial decision-making. Their prowess lies in data-driven analysis, allowing them to adeptly process vast amounts of financial data, scrutinize market trends, and dissect economic indicators. This analytical prowess empowers them to offer insights that might elude a human advisor.
+
+ Furthermore, AI platforms break free from the constraints of office hours, offering round-the-clock availability. This means you can conveniently access financial advice whenever you need it, without the hassle of scheduling appointments or waiting for callbacks.
+
+ Another notable strength of AI in this context is its ability to eliminate emotional bias. Human emotions often cloud judgment when making financial choices. However, AI systems such as ChatGPT and Bard base their recommendations solely on data, thus removing the emotional bias that can lead to impulsive or irrational decisions. This rational approach enhances the quality of advice provided.
+
+ Lastly, AI-powered financial advisory services often present a cost-effective alternative to traditional human advisors. Their affordability makes high-quality financial guidance accessible to a broader range of individuals. In essence, AI not only enhances the analytical capabilities of financial decision-making but also offers convenience, objectivity, and cost-efficiency, ultimately reshaping the landscape of financial advisory services.
+
+ Such advantages could be the key reasons behind investors' vote of confidence. In fact, per an August 22, 2023, report released by the [Certified Financial Planner Board](https://www.cfp.net/news/2023/08/cfp-board-survey-investors-trust-ai-more-than-social-media--but-advice-still), 31 percent of US-based investors would consider following AI-generated financial advice without verifying it with another source.
+
+![digital representation of investors' trust in AI without verifying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/picture-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Image credit: [CFPB](https://www.cfp.net/news/2023/08/cfp-board-survey-investors-trust-ai-more-than-social-media--but-advice-still)  
+
+ The study surveyed over 1,100 adults to display investors' overall comfort in trusting AI without verifying the information. The poll is evident that AI could possess skills to showcase financial acumen for investors. Having said that, AI possesses some pitfalls as well.
 
 ### Cons of Trusting AI Models for Financial Advice
 
@@ -384,25 +384,19 @@ Image credit: [CFPB](https://www.cfp.net/news/2023/08/cfp-board-survey-investors
 
  Google's AI model focuses on the importance of investing for the long term, rebalancing the portfolio, and diversifying it. Moving on, let's see the results on ChatGPT models—GPT-3.5 (free version) and GPT-4 (paid subscription).
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ChatGPT-3.5 Response
 
 ### digital representation of ChatGPT 3.5's response to the selected prompt
 ![digital representation of ChatGPT 3.5's response to the selected prompt](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/picture-2.jpg)
 
 ![digital representation of ChatGPT 4 response to the prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chrome_qz7rbzx1uq.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Even using the ChatGPT models, the focus is on the long-term aspect. In all cases, the portfolio allocation is designed to maximize the Sharpe ratio while still maintaining a diversified portfolio.
 
@@ -483,24 +477,22 @@ Image credit: [CFPB](https://www.cfp.net/news/2023/08/cfp-board-survey-investors
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-capture-cartoon-characters-in-everyday-life-using-snapchats-anime-filter/"><u>[New] Capture Cartoon Characters in Everyday Life Using Snapchat's Anime Filter</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rend-titan-tags-the-list-that-elevates-your-youtube-shorts-to-fame-for-2024/"><u>[New] Trend Titan Tags The List That Elevates Your YouTube Shorts to Fame for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-explore-the-difference-basic-plus-and-pro-in-vimeo-services-for-2024/"><u>[Updated] Explore The Difference Basic, Plus & Pro in Vimeo Services for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-mobile-photos-with-best-iphone-cameras-x-7plus/"><u>[Updated] Mastering Mobile Photos with Best iPhone Cameras (X, 7+)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-avoid-payment-secure-your-free-fcp-copy/"><u>2024 Approved Avoid Payment Secure Your Free FCP Copy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/art-of-chocolate-chips-quantity-queries-answered/"><u>Art of Chocolate Chips: Quantity Queries Answered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-siri-perfecting-iphone-conversations/"><u>ChatGPT and Siri: Perfecting iPhone Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/critical-revisions-a-fresh-approach-to-the-chatgpt-plugin-hub/"><u>Critical Revisions: A Fresh Approach to the ChatGPT Plugin Hub</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/deciding-between-mp4-and-mkv-formats-a-detailed-comparative-analysis-for-optimal-quality/"><u>Deciding Between MP4 & MKV Formats - A Detailed Comparative Analysis for Optimal Quality</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-a-decade-of-dreamy-vacation-flicks-top-10-titles/"><u>In 2024, A Decade of Dreamy Vacation Flicks Top 10 Titles</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C Phone without PIN</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-fast-picture-viewer-experience/"><u>In 2024, Unmatched Fast Picture Viewer Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-look-at-googles-gemini-advancing-the-frontiers-of-ai-research/"><u>In-Depth Look at Google's Gemini: Advancing the Frontiers of AI Research</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/infuse-life-into-art-chatgpt-for-ai-visuals/"><u>Infuse Life Into Art: ChatGPT for AI Visuals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/launchpad-for-aspiring-prompt-innovators/"><u>Launchpad for Aspiring Prompt Innovators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-wellbeing-strategic-health-planning-with-gpt/"><u>Optimize Wellbeing: Strategic Health Planning with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-true-potential-of-gpt-tokens-in-conversations/"><u>The True Potential of GPT Tokens in Conversations</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-from-sketch-to-screen-10-best-cartoon-animation-apps-for-mobile/"><u>Updated From Sketch to Screen 10 Best Cartoon Animation Apps for Mobile</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-does-jailbreaking-chatgpt-entail/"><u>What Does Jailbreaking ChatGPT Entail?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-building-brands-and-bonds-on-instagram-steps-to-reach-a-thousand-followers/"><u>[New] In 2024, Building Brands and Bonds on Instagram Steps to Reach a Thousand Followers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-deciphering-youtubes-shorts-funding-mechanism/"><u>[Updated] In 2024, Deciphering YouTube's Shorts Funding Mechanism</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-6-minecraft-survival-house-ideas-for-2024/"><u>[Updated] Top 6 Minecraft Survival House Ideas for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/2022s-premier-desk-selection-expert-picks-by-zdnet-review/"><u>2022'S Premier Desk Selection: Expert Picks by ZDNet Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/accessible-master-flash-for-professionals-on-budget/"><u>Accessible Master Flash for Professionals on Budget</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-save-your-life-in-the-wilderness/"><u>Can ChatGPT Save Your Life in the Wilderness?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-revolutionizing-fitness-coaching-techniques/"><u>ChatGPT: Revolutionizing Fitness Coaching Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-off-gpt-communication-now/"><u>Cut Off GPT Communication Now</u></a></li>
+<li><a href="https://fox-links.techidaily.com/discover-the-best-methods-to-record-audio-using-windows-11-tools/"><u>Discover the Best Methods to Record Audio Using Windows 11 Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-driver-refresh-for-dell-xps-laptop-in-windows-operating-system/"><u>Easy Tutorial: Driver Refresh for Dell XPS Laptop in Windows Operating System</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-play-40c-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-apple-gadget-outdated-understanding-vintage-mode-and-its-implications-for-users/"><u>Is Your Apple Gadget Outdated? Understanding 'Vintage' Mode & Its Implications for Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/niche-marketing-through-periscope-broadcasts/"><u>Niche Marketing Through Periscope Broadcasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/showdown-of-wrist-worn-marvels-google-pixel-watch-2-vs-apple-watch-s/"><u>Showdown of Wrist-Worn Marvels: Google Pixel Watch 2 Vs. Apple Watch S</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-elusive-self-editing-in-algorithms/"><u>The Elusive Self-Editing in Algorithms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-way-of-life-using-chatgpt-wisdom/"><u>Transform Your Way of Life Using ChatGPT Wisdom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-or-not-expert-advice-on-choosing-the-iphone-16-perspectives-editors/"><u>Upgrade or Not? Expert Advice on Choosing the iPhone 16 - Perspectives Editors</u></a></li>
 </ul></div>
 

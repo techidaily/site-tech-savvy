@@ -1,7 +1,7 @@
 ---
 title: Why I'm Not Making the Leap to iPhone 16 Pro Despite Owning an iPhone 14 | Tech Analysis
-date: 2024-10-18T23:44:59.106Z
-updated: 2024-10-20T16:56:03.839Z
+date: 2024-10-21T16:41:23.336Z
+updated: 2024-10-26T21:17:48.891Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,16 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -87,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -135,16 +129,21 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-elevate-your-engagement-essential-apps-for-insta-growth/"><u>[New] Elevate Your Engagement Essential Apps for Insta Growth</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ultimate-guide-on-google-podcast-upload/"><u>[Updated] In 2024, Ultimate Guide on Google Podcast Upload</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-request-for-full-media-sharing-viewability-via-messaging-platforms-for-2024/"><u>[Updated] Request for Full Media Sharing Viewability via Messaging Platforms for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-pressured-for-imessage-disclosure-google-advocates-eu-intervention-says-zdnet-report/"><u>Apple Pressured for iMessage Disclosure: Google Advocates EU Intervention, Says ZDNet Report</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fivefold-transformation-ais-influence-on-cybercriminal-techniques/"><u>Fivefold Transformation: AI's Influence on Cybercriminal Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-revive-and-resume-control-over-your-stuck-iphone-effective-troubleshooting-techniques/"><u>How to Revive & Resume Control Over Your Stuck iPhone: Effective Troubleshooting Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-imagemosaic-supreme-online-blend-and-designers-choice/"><u>In 2024, ImageMosaic Supreme Online Blend & Designer's Choice</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/master-the-art-of-file-acquisition-expert-guide-for-downloading-igtv/"><u>Master the Art of File Acquisition Expert Guide for Downloading IGTV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-efficiency-top-4-chatgpt-strategies-for-productivity-boost/"><u>Maximizing Efficiency: Top 4 ChatGPT Strategies for Productivity Boost</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-stylus-tablet-picks-featuring-comprehensive-reviews-by-tech-gurus-see-what-weve-found/"><u>Top-Rated Stylus Tablet Picks , Featuring Comprehensive Reviews by Tech Gurus - See What We've Found!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrading-with-the-newest-tech-a-comprehensive-guide-to-choosing-between-iphone-15-pro-and-iphone-13-pro-wired-opinion/"><u>Upgrading with the Newest Tech: A Comprehensive Guide to Choosing Between IPhone 15 Pro and IPhone 13 Pro | Wired Opinion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-honorable-warriors-reimagined-best-matching-gaming-titles/"><u>[New] Honorable Warriors, Reimagined Best Matching Gaming Titles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-tune-tracker-latest-audio-tech/"><u>[New] In 2024, Tune Tracker Latest Audio Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-challenges-the-future-of-ai-security/"><u>Augmented Challenges: The Future of AI Security</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breakthrough-tactic-unleash-mac-with-apple-watch-for-2024/"><u>Breakthrough Tactic Unleash Mac with Apple Watch for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defending-against-data-breaches-in-personalized-ai-systems/"><u>Defending Against Data Breaches in Personalized AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grab-the-cheapest-apple-watch-series-n9-ever-special-offer-ends-soon-dont-miss-out/"><u>Grab the Cheapest Apple Watch Series N9 Ever! Special Offer Ends Soon, Don't Miss Out .</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-15-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 15 Plus/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-idevice-videography-tools/"><u>In 2024, Leading iDevice Videography Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-visual-companion-premium-webcams-for-podcasts/"><u>In 2024, The Ultimate Visual Companion Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-virtual-liquids-top-game-showcase-for-2024/"><u>Mastering Virtual Liquids Top Game Showcase for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/optimize-your-videos-for-instagram-mac-resizing-guide/"><u>Optimize Your Videos for Instagram Mac Resizing Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-corporate-communication-with-gpt/"><u>Revolutionizing Corporate Communication with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-protection-at-a-glance-choosing-the-ideal-smart-lock-for-iphone-users-reviews/"><u>Seamless Protection at a Glance: Choosing the Ideal Smart Lock for iPhone Users Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ranking-of-the-best-mobile-gaming-devices-according-to-zdnet/"><u>The Ultimate Ranking of the Best Mobile Gaming Devices According to ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-new-possibilities-how-apples-enhanced-iphone-nfc-for-third-party-integration-boosts-user-experience-insights/"><u>Unlock New Possibilities: How Apple's Enhanced iPhone NFC for Third-Party Integration Boosts User Experience Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Sony Xperia 5 V | Dr.fone</u></a></li>
 </ul></div>
 

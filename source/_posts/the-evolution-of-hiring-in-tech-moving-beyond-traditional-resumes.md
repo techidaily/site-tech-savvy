@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Hiring in Tech: Moving Beyond Traditional Resumes"
-date: 2024-09-18 13:58:43
-updated: 2024-09-20 10:37:34
+date: 2024-10-21T20:45:42.586Z
+updated: 2024-10-26T21:57:17.228Z
 tags:
   - professional-development
 categories:
@@ -52,6 +52,13 @@ Four in ten (40%) recruiters polled said they regularly hire developers who don'
 
 Shifting the focus from resumes to skills also gives an opportunity for those with [non-standard job backgrounds to get into tech](https://www.zdnet.com/article/developer-jobs-when-it-comes-to-building-diverse-teams-employers-are-still-missing-the-mark/), says Richardson: "Which we need, frankly. There's such a mismatch between demand for developers or development skills and the supply of engineering graduates. Our forecasts are that the need for developers is going to grow about 15% year over year. It's crazy."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Not dead yet
 
 While CoderPad's research indicates skills-based hiring is becoming more popular, there remains a strong demand for CVs in the hiring process.
@@ -97,11 +104,29 @@ At the same time, the blame for poor hiring decisions usually lands at the feet 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-easy-peasy-youtube-tutorials-making-content-that-works-for-all/"><u>[New] In 2024, Easy-Peasy YouTube Tutorials Making Content That Works for All</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhance-your-digital-diaries-for-free-extensions-and-mobile-edition/"><u>[Updated] 2024 Approved Enhance Your Digital Diaries for Free – Extensions & Mobile Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-aquatic-videography-evolved-top-camcorders-of-the-year-for-2024/"><u>[Updated] Aquatic Videography Evolved - Top Camcorders of the Year for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-metaverse-reflections-inspirational-messages/"><u>[Updated] Immersive Metaverse Reflections Inspirational Messages</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-capturing-moments-like-never-before-toolwiz-apps-2023-review/"><u>[Updated] In 2024, Capturing Moments Like Never Before Toolwiz App's 2023 Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-is-the-subscription-worth-it/"><u>ChatGPT Plus: Is the Subscription Worth It?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-ultimate-timepiece-comparing-google-pixel-watch-gen-3-vs-apple-watch-series-9-find-your-perfect-fit/"><u>Choosing the Ultimate Timepiece: Comparing Google Pixel Watch Gen 3 Vs. Apple Watch Series 9 - Find Your Perfect Fit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-chat-convergence-insights-on-gpt-and-bings-bot-differences/"><u>Comparative Chat Convergence: Insights on GPT & Bing's Bot Differences</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-to-add-music-to-facebook-story/"><u>How to Add Music to Facebook Story?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-seamlessly-transition-to-gpts-new-browser-features/"><u>How to Seamlessly Transition to GPT's New Browser Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-upgrade-your-videos-best-free-online-quality-improvers/"><u>New In 2024, Upgrade Your Videos Best Free Online Quality Improvers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-auto-gpt-applications-today/"><u>Revolutionary Auto-GPT Applications Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-driver-download-and-setup-for-hp-envy-laptop-series-model-5660-unveiled/"><u>Seamless Driver Download & Setup for HP Envy Laptop Series: Model 5660 Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-to-choose-after-apple-discontinues-iphone-1315-pro-expert-advice-for-consumers-zdnet-insights/"><u>What to Choose After Apple Discontinues iPhone 13/15 Pro? Expert Advice for Consumers | ZDNet Insights</u></a></li>
+</ul></div>
+

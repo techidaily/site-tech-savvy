@@ -1,7 +1,7 @@
 ---
 title: "The Future of Pay Clarity: How It Will Impact Your Career & Finances - Insights From ZDNet"
-date: 2024-09-17 21:56:22
-updated: 2024-09-20 10:24:43
+date: 2024-10-19T19:29:37.750Z
+updated: 2024-10-26T23:27:35.520Z
 tags:
   - professional-development
 categories:
@@ -28,6 +28,13 @@ Such legislation and conversations about salary transparency can encourage more 
 According to a study of 2,000 US workers by [Adzuna](https://www.adzuna.com/), 54% of job applicants declined a job offer after learning about the position's salary. The same study says that 33% of job applicants would not attend an interview before knowing how much the job would pay.
 
 So, why do companies keep such vital information to themselves? And how can they be more honest with applicants about their compensational intentions?
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Developer
 
@@ -56,6 +63,13 @@ Salary transparency saves applicants time applying to jobs they won't accept onc
 
 "It's a real problem, where candidates apply, interview, only for them to find out the job isn't financially viable for them," he says. "Transparency helps candidates avoid unnecessary applications, which in turn avoids wasted travel time, childcare, and all other costs attributed to searching for your roles."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Salary transparency as a means to achieving equality
 
 Salary transparency has always been a touchy subject, grouped with politics and religion as off-limits for water cooler conversations. It's something older generations say they wouldn't discuss with their coworkers, but the tide is turning on this narrative.
@@ -81,6 +95,19 @@ But to make real change, companies should broaden their definition of transparen
 Lenaghan suggests a total-rewards perspective includes all perks, values, and cultural aspects a business can offer a potential employee. These rewards include flexible work hours or paid childcare, and they can be helpful to mention for companies that can't compete monetarily with larger firms.
 
 "Small businesses or nonprofits may not be able to compete with Fortune 500 companies in terms of salary, but when you expand total rewards, and you look at all the other unique characteristics and benefits of their organizational culture, in fact, they can compete quite well," she says.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Be crystal clear. Your employees will appreciate it
 
@@ -121,11 +148,33 @@ If a new employee in an entry-level position is making as much as a tenured, mid
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-choosing-top-8-free-ai-powered-srt-translators/"><u>[New] 2024 Approved Choosing Top 8 Free, AI-Powered SRT Translators</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-blue-badge-breakdown-a-guide-to-social-media-credibility/"><u>[New] 2024 Approved The Blue Badge Breakdown A Guide to Social Media Credibility</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-enjoy-anytime-anywhere-with-our-12-channel-stream-for-2024/"><u>[New] Enjoy Anytime, Anywhere with Our 12 Channel Stream for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-trivia-titans-of-the-year-best-general-knowledge-sites/"><u>[New] Trivia Titans of the Year - Best General Knowledge Sites</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-beyond-likes-and-shares-the-concealed-factors-of-viewers-for-2024/"><u>[Updated] Beyond Likes & Shares The Concealed Factors of Viewers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-dictionary-the-definitive-guide-to-tech-terms/"><u>AI Dictionary: The Definitive Guide to Tech Terms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-is-the-supply-running-dry-examining-current-shipping-delays-and-stock-availability-tech-insights/"><u>Apple Vision Pro: Is the Supply Running Dry? Examining Current Shipping Delays and Stock Availability | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-decorum-addressing-ai-like-chatgpt-and-others/"><u>Digital Decorum: Addressing AI Like ChatGPT & Others</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-chatgpt-effective-methods-for-response-refinement/"><u>Enhancing ChatGPT: Effective Methods for Response Refinement</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y100i-power-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y100i Power 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oneplus-12r-by-drfone-android/"><u>In 2024, How to Bypass FRP on OnePlus 12R?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-galaxy-m34-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung Galaxy M34 online without jailbreak</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-mac-productivity-a-step-by-step-guide-to-configuring-and-leveraging-hot-corners-in-macos-techinsight/"><u>Maximizing Mac Productivity: A Step-by-Step Guide to Configuring and Leveraging Hot Corners in macOS | TechInsight</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1726225798097-rmvb-mp4-movavi/"><u>RMVB 파일을 MP4로 쉽게 전환: 원활한 인터넷 방식 - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-digital-assistants-from-leaks-and-breaches/"><u>Safeguarding Digital Assistants From Leaks & Breaches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scaling-creativity-mass-producing-visuals-with-canva-and-gpt/"><u>Scaling Creativity: Mass Producing Visuals with Canva & GPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960977663-step-by-step-guide-to-update-or-download-amd-vega-gpu-drivers-made-easy/"><u>Step-by-Step Guide to Update or Download AMD Vega GPU Drivers Made Easy!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-screen-time-chatgpts-film-recommendations/"><u>Tailored Screen Time: ChatGPT's Film Recommendations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-apple-watch-savings-and-bargains-exclusive-offers-in-july-2024-zdnet/"><u>Top Apple Watch Savings & Bargains: Exclusive Offers in July 2024 - ZDNET</u></a></li>
+</ul></div>
+

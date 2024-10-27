@@ -1,7 +1,7 @@
 ---
 title: Discover How to Seamlessly Transition to a Fresh Role While Remaining in Your Existing Job
-date: 2024-09-17 15:13:58
-updated: 2024-09-20 10:47:46
+date: 2024-10-19T22:12:43.814Z
+updated: 2024-10-26T22:16:15.083Z
 tags:
   - professional-development
 categories:
@@ -35,6 +35,13 @@ Try organizing your thoughts in a list or diary entry to better understand your 
 
 Once you know what you want, you can zero in on opportunities that seem to fit your needs as a professional and human being.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Be discreet about looking for a new job.
 
 You may feel tempted to hint to your coworkers about your dissatisfaction with the current situation or excitement at a promising lead. Don't do it. If word gets around your workplace that you are looking for a new job, this could create a tense situation or even get you fired.
@@ -61,6 +68,13 @@ For one, it is unprofessional to do this on your current company's time. More im
 
 Only use personal devices to visit [job search sites](https://www.zdnet.com/education/professional-development/job-search-sites-for-tech/) and wait until you are home to look for work. This way you will maintain professionalism and avoid your company's scrutiny.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Prioritize networking, rather than just applying on job boards.
 
 ### Explore
@@ -76,6 +90,13 @@ Networking gives you a variety of advantages in your job search, including:
 Trawling job boards can be tricky because it takes time and your boss might be watching. Networking allows you to leverage connections into a new job through meaningful interactions.
 
 Check out our page on [networking tips](https://www.zdnet.com/education/professional-development/tech-company-networking-tips/) for help developing this vital soft skill.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Don't use any current coworkers as references.
 
@@ -112,6 +133,13 @@ Set boundaries for yourself by telling possible employers which times work and w
 Avoid the temptation to slack at your current job. You don't want to get fired before you have a new job lined up. It's not a good idea to ruin a professional relationship that could help you down the line.
 
 Don't try to spite your current employer or behave immaturely. Keep doing your best work despite whatever difficulties you face. Consider it practice for your next job. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Be patient and take care of yourself while job hunting.
 
@@ -158,11 +186,31 @@ A positive, proactive attitude can help you overcome[new job anxiety](https://ww
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-top-12-ultimate-relaxing-pc-titles/"><u>[New] 2024 Approved Top 12 Ultimate Relaxing PC Titles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-hacks-to-record-video-of-your-playtime-for-2024/"><u>[New] Hacks to Record Video of Your Playtime for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-quickprint-the-easy-guide-to-win-screen-snaps/"><u>[Updated] 2024 Approved QuickPrint The Easy Guide to Win Screen Snaps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-fluent-in-content-sharing-tiktok-twitter-transition/"><u>2024 Approved Fluent in Content Sharing TikTok-Twitter Transition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-quick-and-easy-methods-for-saving-youtube-channel-songs/"><u>2024 Approved Quick & Easy Methods for Saving YouTube Channel Songs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decluttering-email-made-simple-a-smart-trick-to-organize-without-rules-or-extra-accounts-learn-how/"><u>Decluttering Email Made Simple: A Smart Trick to Organize Without Rules or Extra Accounts - Learn How</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-design-the-7-essential-ways-chatgpt-shapes-video-games/"><u>Dialogue Design: The 7 Essential Ways ChatGPT Shapes Video Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-commonplace-clips-to-complex-computations-ais-role-in-paperclip-optimization/"><u>From Commonplace Clips to Complex Computations: AI's Role in Paperclip Optimization</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-12-pro-max-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 12 Pro Max to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-mirth-in-monotony-best-humored-fb-jail-cell-captures/"><u>In 2024, Mirth in Monotony Best-Humored Fb Jail Cell Captures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-chatgpts-woes-discovering-the-8-crucial-limitations/"><u>Inside ChatGPT’s Woes: Discovering the 8 Crucial Limitations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nourish-and-delight-ai-driven-culinary-techniques-youll-love/"><u>Nourish and Delight: AI-Driven Culinary Techniques You'll Love</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-trio-of-ais-potential-exploiting-chatgpt-wolframalpha-plugin/"><u>The Trio of AI's Potential: Exploiting ChatGPT-WolframAlpha Plugin</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mini-tablets-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Rated Mini Tablets : Comprehensive Reviews by Tech Specialists - ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/trasforma-i-tuoi-file-mp4-in-formato-aac-gratuitamente-con-il-servizio-di-conversione-online-di-moveavi/"><u>Trasforma I Tuoi File MP4 in Formato AAC Gratuitamente Con Il Servizio Di Conversione Online Di Moveavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmask-the-hazards-of-macchatgpt-downloads/"><u>Unmask the Hazards of MacChatGPT Downloads</u></a></li>
+</ul></div>
+

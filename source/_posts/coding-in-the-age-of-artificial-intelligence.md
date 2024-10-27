@@ -1,7 +1,7 @@
 ---
 title: Coding in the Age of Artificial Intelligence
-date: 2024-10-13T23:02:02.725Z
-updated: 2024-10-21T00:14:45.737Z
+date: 2024-10-25T21:37:25.486Z
+updated: 2024-10-26T18:07:24.816Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Experience
@@ -57,16 +57,22 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Countries
 
  Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Are the Tasks Developers Are Using AI For?
 
@@ -78,16 +84,16 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 
  It’s worth noting that only a few developers are interested in using AI to collaborate with teammates.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Benefits of AI for Developers
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
 
@@ -98,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
  Only a small percentage of developers see increased accuracy as a benefit to AI tools. Experienced professional developers are more skeptical as only 14.1% consider improved accuracy as a benefit of AI compared to 23.8% of those learning to code.
 
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Popular AI Tools That Developers Are Using in 2023
 
@@ -121,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
  GitHub Copilot is the most popular AI coding assistant. 70% + respondents who worked with GitHub Copilot want to work with it again. Additionally, 59%+ of Tabnine users and 50% of AWS Code Whisperer users want to use GitHub Copilot.
 
  This slow adoption of a wide variety of AI tools can be attributed to skepticism about AI accuracy with only 2.85% of developers highly trusting AI output. This distrust can be attributed to tools like ChatGPT providing incorrect output sometimes. This output, when used, can cause significant damage to an application. When using these tools, it's always a good idea to first verify the output.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Get Started With AI in Software Development
 
@@ -147,21 +153,22 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-best-study-partners-in-history-top-10-youtubers-and-channels/"><u>[New] 2024 Approved Best Study Partners in History Top 10 Youtubers & Channels</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-creating-hilarious-reactions-mastering-youtube-tricks-3-methods-for-2024/"><u>[New] Creating Hilarious Reactions Mastering YouTube Tricks (3 Methods) for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pioneering-8-android-group-chat-applications-over-four-participants/"><u>[Updated] 2024 Approved Pioneering 8 Android Group Chat Applications, Over Four Participants</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-revolutionize-your-brand-presence-on-igtv-with-these-top-10-strategies/"><u>[Updated] Revolutionize Your Brand Presence on IGTV with These Top 10 Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/closedsubsquery-time-to-reengage-in-dialogue/"><u>ClosedSubsQuery: Time to Reengage in Dialogue?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogic-tools-for-mythmaking-gpts-promise/"><u>Dialogic Tools for Mythmaking: GPT's Promise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-companion-in-natures-unpredictability/"><u>Digital Companion in Nature's Unpredictability</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-spotlight-identifying-sham-dialogue-participants/"><u>GPT Spotlight: Identifying Sham Dialogue Participants</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-infinix-hot-40i-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Infinix Hot 40i to Another | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/modifier-facilement-votre-audio-mp3-au-format-m4a-sans-frais-avec-movavi-en-ligne/"><u>Modifier Facilement Votre Audio MP3 Au Format M4A Sans Frais Avec Movavi en Ligne</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/savings-alert-apple-watch-se-2nd-generation-drops-to-even-lower-prices-since-prime-day-ends-zdnet/"><u>Savings Alert: Apple Watch SE 2Nd Generation Drops to Even Lower Prices Since Prime Day Ends | ZDNet</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-tutorial-for-iphone-voice-memo/"><u>The Ultimate Tutorial for iPhone Voice Memo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-models-in-depth-analysis-and-reviews-by-experts-techradar/"><u>Top Rated Apple Watch Models : In-Depth Analysis & Reviews by Experts | TechRadar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-interpretability-openais-shape-explained/"><u>Understanding Interpretability: OpenAI's ShapE Explained</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/virtual-epiphanies-30plus-metaverse-quotations-and-tech/"><u>Virtual Epiphanies 30+ Metaverse Quotations & Tech</u></a></li>
-<li><a href="https://win-studio.techidaily.com/wissen-sie-wie-man-eine-festplatte-vorbereitet-lerne-die-7-wesentlichen-formateinstellungen/"><u>Wissen Sie, Wie Man Eine Festplatte Vorbereitet? Lerne Die 7 Wesentlichen Formateinstellungen!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-rapid-renderings-the-win10-way-to-work-wonders-on-images-quickly/"><u>[New] 2024 Approved Rapid Renderings The Win10 Way to Work Wonders on Images Quickly</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elevating-the-chilly-selecting-five-warm-video-backgrounds/"><u>[New] Elevating the Chilly Selecting Five Warm Video Backgrounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-find-your-perfect-match-with-these-best-5-iphone-pods/"><u>2024 Approved Find Your Perfect Match with These Best 5 iPhone Pods</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-ultimate-money-making-guide-on-social-media/"><u>2024 Approved The Ultimate Money-Making Guide on Social Media</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-comprehensive-guide-to-leading-social-platforms-facebook-twitter-instagram-and-youtube/"><u>A Comprehensive Guide to Leading Social Platforms: Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-sustainable-fitness-goals-using-gpt/"><u>Crafting Sustainable Fitness Goals Using GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cybersecurity-alert-the-gpt-trend-among-thieves/"><u>Cybersecurity Alert: The GPT Trend Among Thieves</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/earn-a-cool-150-apple-gift-card-when-choosing-mac-or-ipad-for-school-expert-advice-inside/"><u>Earn a Cool $150 Apple Gift Card When Choosing Mac or iPad for School - Expert Advice Inside</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-zoom-picture-resolution-simple-upgrades/"><u>Enhancing Zoom Picture Resolution Simple Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/identifying-gaps-in-auto-editing-tools/"><u>Identifying Gaps in Auto-Editing Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-efficiency-on-macos-using-quick-actions-features-in-finder-insights-for-advanced-users/"><u>Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights for Advanced Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/misguidance-in-the-era-of-machine-creativity/"><u>Misguidance in the Era of Machine Creativity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rethink-how-you-research-choose-perplexity-ai/"><u>Rethink How You Research - Choose Perplexity AI</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sketchgiggle-generate-chuckles/"><u>SketchGiggle Generate Chuckles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/skyward-savings-for-your-snaps-the-best-free-to-premium-cloud-storages-for-2024/"><u>Skyward Savings for Your Snaps The Best Free to Premium Cloud Storages for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-guide-to-bordering-instagram-footage/"><u>Step-by-Step Guide to Bordering Instagram Footage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-roadmap-to-innovation-potential-game-changing-moves-by-apple-over-openai-microsoft-and-google-at-worldwide-developers-conference-wwdc-expert-analysis-on188/"><u>The Roadmap to Innovation: Potential Game-Changing Moves by Apple Over OpenAI, Microsoft, and Google at Worldwide Developers Conference (WWDC) | Expert Analysis on ZDNET</u></a></li>
 </ul></div>
 

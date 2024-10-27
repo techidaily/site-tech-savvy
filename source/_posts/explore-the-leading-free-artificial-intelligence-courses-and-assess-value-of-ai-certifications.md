@@ -1,7 +1,7 @@
 ---
 title: Explore the Leading Free Artificial Intelligence Courses & Assess Value of AI Certifications
-date: 2024-09-18 21:12:50
-updated: 2024-09-20 11:19:17
+date: 2024-10-22T21:34:36.209Z
+updated: 2024-10-26T16:40:46.348Z
 tags:
   - professional-development
 categories:
@@ -183,9 +183,23 @@ When it comes to the courses and programs I'm spotlighting here, there's no way 
 
 With all that, I will say that the absolute high point was [when I could get an AI to talk like a pirate](https://www.zdnet.com/article/i-used-chatgpt-to-rewrite-my-text-in-the-style-of-shakespeare-c3po-and-harry-potter/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Some companies are promoting micro-degrees. They seem expensive, but fast, but are they any good?
 
 Let's be clear: A micro-degree is not a degree. It's a set of courses with a marketing name attached. Degrees are granted by accredited academic institutions, accredited by [regional accrediting bodies](https://en.wikipedia.org/wiki/Higher%5Feducation%5Faccreditation%5Fin%5Fthe%5FUnited%5FStates). I'm not saying you won't learn anything in those programs. But they're not degrees and they may cost more than just-as-good courses that don't have a fancy marketing name attached.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## So, do certificates have any value?
 
@@ -198,6 +212,13 @@ You can set a goal to learn a topic, and if you get a credential, you can be fai
 **See: [How to add a new credential to your LinkedIn profile, and why you should](https://www.zdnet.com/education/professional-development/how-to-add-a-new-credential-to-your-linkedin-profile-and-why-you-should/)**
 
 My advice: If you can get a certificate, and the price for getting it doesn't overly stretch your budget, go ahead and get it. It still is a resume point. But don't fork over bucks on the scale of a college tuition for some promise that you'll get qualified for a job faster and easier than, you know, going to college.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Other learning resources you'll probably love**
 
@@ -228,11 +249,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-affordable-gopro-purchase-guide-tips-and-tricks/"><u>[Updated] 2024 Approved Affordable GoPro Purchase Guide Tips & Tricks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-conquer-snapchats-boomerang-challenges-easily/"><u>[Updated] Conquer Snapchat's Boomerang Challenges Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-unveiling-the-future-how-apple-could-outshine-competitors-at-wwdc-2024-insights-from-zdnet/"><u>1. Unveiling the Future: How Apple Could Outshine Competitors at WWDC 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-perfecting-the-look-a-guide-to-haul-video-post-production/"><u>2024 Approved Perfecting the Look A Guide to Haul Video Post-Production</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/el-name-genius-brainstorming-like-a-pro-for-2024/"><u>Channel Name Genius Brainstorming Like a Pro for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-uncovered-an-informative-guide-for-parents/"><u>ChatGPT Uncovered: An Informative Guide for Parents</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-dynamics-gpt-vs-bings-intelligent-bot/"><u>Dialogue Dynamics: GPT Vs. Bing's Intelligent Bot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-insight-why-one-m-powered-mac-stands-apart-as-fedora-linux-widespread-discover-more/"><u>Exclusive Insight: Why One M-Powered Mac Stands Apart as Fedora Linux Widespread - Discover More</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-xiaomi-redmi-13c-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Xiaomi Redmi 13C 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-apple-iphone-6-plus-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From Apple iPhone 6 Plus in the Best Ways</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-soundscout-audio-critique-adventure/"><u>In 2024, SoundScout Audio Critique Adventure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-look-at-newly-released-gen-3-airpods-from-apple-spotlighting-key-upgrades/"><u>In-Depth Look at Newly Released Gen 3 AirPods From Apple: Spotlighting Key Upgrades</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterpieces-come-to-life-with-top-photo-frame-tools/"><u>Masterpieces Come to Life with Top Photo Frame Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pair-phonetablet-and-computer-calendars-for-seamless-zoom-scheduling-for-2024/"><u>Pair Phone/Tablet & Computer Calendars for Seamless Zoom Scheduling for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-ai-journeys-the-free-power-of-copilot-and-turbo/"><u>Seamless AI Journeys: The Free Power of Copilot and Turbo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479858756-top-10-solutions-iphone-unable-to-deliver-sms-get-it-fixed/"><u>Top 10 Solutions: IPhone Unable to Deliver SMS - Get It Fixed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-apple-bargains-in-july-2024-iphone-apple-watch-and-ipad-discounts-explore-savings-on-latest-tech-with-zdnet/"><u>Top Apple Bargains in July 2024: IPhone, Apple Watch & iPad Discounts - Explore Savings on Latest Tech with ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-8-compelling-arguments-for-teachers-and-ai/"><u>Unveiling 8 Compelling Arguments for Teachers and AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voice-your-thoughts-on-android-with-chatgpt/"><u>Voice Your Thoughts on Android, With ChatGPT</u></a></li>
+</ul></div>
+

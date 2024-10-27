@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Transition: Securing a Spot in Technology with Your MBA - Insights From ZDNet"
-date: 2024-09-18 11:38:15
-updated: 2024-09-20 12:16:17
+date: 2024-10-20T20:45:39.464Z
+updated: 2024-10-26T22:35:13.305Z
 tags:
   - professional-development
 categories:
@@ -42,6 +42,19 @@ These careers may require tech, math, and programming know-how. Your specific ed
 
 [Computer and information systems managers](https://www.zdnet.com/education/computers-tech/computer-information-systems-managers/) oversee technology and computer-related activities within an organization. They look for new technology, upgrades, and cost-saving opportunities. These managers help the organization meet its goals using computers and information systems.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Market research analyst
 
 **Minimum degree required:** Bachelor's  
@@ -54,6 +67,13 @@ These careers may require tech, math, and programming know-how. Your specific ed
 
 Market research analysts help organizations better understand clients, consumers, and markets. They study demographics, market conditions, competition, and consumer behaviors. They also analyze marketing effectiveness, pricing strategies, and future trend predictions.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Operations research analyst
 
 **Minimum degree required:** Bachelor's  
@@ -65,6 +85,13 @@ Market research analysts help organizations better understand clients, consumers
 * Critical thinkers with reasoning abilities
 
 Operations research analysts use mathematics and data to help organizations improve their decision-making abilities. They collect information from various sources to better understand problems and develop solutions. These analysts use computer software and models to create simulations and predictions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Non-technical roles available to MBA graduates in tech
 
@@ -110,11 +137,25 @@ Accountants manage an organization's financial records, ensuring accuracy and ad
 
 Your preparation for the tech field should begin before you complete your degree. The following tips can help position you to make the most of your training and appeal to tech employers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Get clear on the type of tech role you want.
 
 You can find tech careers in most industries these days, so you need to think about where you want to land. Think about your ideal company size and stage of development. That may influence the training, experience, and skills you emphasize in your professional development.
 
 You might also settle on a preferred company by considering what industry you want, the work-life balance you need, and your desired salary and responsibilities.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Upskill
 
@@ -143,6 +184,13 @@ For more information, check out these [phone interview tips](https://www.zdnet.c
 An MBA provides opportunities to enter the tech field for students and business professionals hoping to [switch careers to tech](https://www.zdnet.com/education/topic/how-to-switch-careers-to-tech/). Your MBA can equip you with transferable skills to pursue tech-specific and interdisciplinary careers, using both your business and technical expertise. 
 
 If these jobs aren't quite right for you, continue exploring [top-paying MBA jobs](https://www.zdnet.com/article/top-paying-mba-jobs/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **This article was reviewed by Sarah Holliday, MS** 
 
@@ -181,11 +229,31 @@ _Last reviewed March 12, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-skys-palette-explored-top-websites-showcasing-hd-imagery/"><u>[New] In 2024, Sky's Palette Explored - Top Websites Showcasing HD Imagery</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-navigating-fb-video-aspects-ratios-explained/"><u>[New] Navigating FB Video Aspects Ratios Explained</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-8-best-video-conferencing-software-for-small-business-safe-and-stable-for-2024/"><u>[Updated] 8 Best Video Conferencing Software for Small Business (Safe and Stable) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-assessing-the-longevity-and-support-life-cycle-of-huawei-p10/"><u>[Updated] Assessing the Longevity & Support Life Cycle of Huawei P10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ten-practices-to-avoid-vr-motion-sickness/"><u>[Updated] Ten Practices to Avoid VR Motion Sickness</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-art-of-attraction-top-20-fonts-for-impactful-youtube-thumbnails/"><u>2024 Approved The Art of Attraction Top 20 Fonts for Impactful YouTube Thumbnails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-ai-engagement-seven-key-strategies-for-improvement/"><u>Boosting AI Engagement: Seven Key Strategies for Improvement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehending-gptzeros-mechanism-for-ai-discovery/"><u>Comprehending GPTZero's Mechanism for AI Discovery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-myths-gptbots-functionality-and-website-bans/"><u>Debunking Myths: GPTBot's Functionality & Website Bans</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-digital-heartbeat-ais-quest-for-emotional-understanding/"><u>Decoding the Digital Heartbeat: AI's Quest for Emotional Understanding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-tips-for-chatgpt-and-mac-users/"><u>Essential Tips for ChatGPT & Mac Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improved-iphone-16-durability-apple-reveals-enhanced-repairability-over-past-models/"><u>Improved iPhone 16 Durability: Apple Reveals Enhanced Repairability Over Past Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-enabled-bing-search-registration-guide/"><u>Mastering AI-Enabled Bing Search: Registration Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snag-apple-airtags-on-sale-save-big-with-the-walmart-labor-day-offer-get-a-4-pack-for-24-less/"><u>Snag Apple AirTags on Sale - Save Big with the Walmart Labor Day Offer! Get a 4-Pack for $24 Less!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unveiling-the-best-fb-movie-grabs-8-edition/"><u>Unveiling the Best FB Movie Grabs #8 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-analyzes-why-the-iphone-14-meets-all-necessary-standards-for-a-top-notch-smartphone/"><u>ZDNet Analyzes Why the iPhone 14 Meets All Necessary Standards for a Top-Notch Smartphone</u></a></li>
+</ul></div>
+

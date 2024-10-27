@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Detective Duty: Step Into 4 Virtual Investigations"
-date: 2024-09-15T16:43:01.246Z
-updated: 2024-09-22T16:08:26.241Z
+date: 2024-10-24T20:58:54.824Z
+updated: 2024-10-26T21:24:41.050Z
 tags:
   - chatgpt
   - open-ai
@@ -52,9 +52,23 @@ Author Screenshot by Mihir Patkar - No attribution required
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Mystery-o-Matic
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Author Screenshot by Mihir Patkar - No attribution required
 
@@ -65,10 +79,10 @@ Author Screenshot by Mihir Patkar - No attribution required
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Murdle
@@ -84,10 +98,16 @@ Author Screenshot by Mihir Patkar - No attribution required
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
@@ -113,5 +133,20 @@ Author Screenshot by Mihir Patkar - No attribution required
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-simplifying-the-art-of-mac-screen-recording-a-keyboard-gurus-insight/"><u>[New] Simplifying the Art of Mac Screen Recording A Keyboard Guru's Insight</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/logging-hurdles-how-to-triumph-over-ten-common-obstacles-for-2024/"><u>[New] Vlogging Hurdles How to Triumph Over Ten Common Obstacles for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/74406034-updated-in-2024-supercharge-your-media-download-sounds-for-editing/"><u>[Updated] In 2024, Supercharge Your Media Download Sounds for Editing!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-for-tech-enthusiasts-insights/"><u>5 for Tech Enthusiasts | Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ballads-battlefield-poetic-giants-versus-gpt-shepherds-wooly-kinfolk/"><u>Ballads' Battlefield - Poetic Giants Versus GPT Shepherds, Wooly Kinfolk</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/chasing-charm-innovative-photo-techniques-to-ignite-insta/"><u>Chasing Charm Innovative Photo Techniques to Ignite Insta</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cherchez-des-musiques-originales-pour-votre-diaporama-guide-complet-et-astuces-doptimisation-seo/"><u>Cherchez Des Musiques Originales Pour Votre Diaporama : Guide Complet Et Astuces D'optimisation SEO</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-your-cinematography-slow-motion-on-gopro-hero-10/"><u>Enhancing Your Cinematography Slow Motion on GoPro Hero 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratis-konverteren-van-m4a-naar-3gp-online-zoek-jij-de-goedste-oplichters-probeer-movavi/"><u>Gratis Konverteren Van M4A Naar 3GP Online - Zoek Jij De Goedste Oplichters? Probeer Movavi!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/instant-video-posting-to-twitter-from-phone-avoid-the-retweet-for-2024/"><u>Instant Video Posting to Twitter From Phone – Avoid the Retweet for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peeling-back-layers-on-ais-vulnerability-to-prompt-injection/"><u>Peeling Back Layers on AI's Vulnerability to Prompt Injection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ais-hidden-arcanum-black-box-essentials/"><u>Understanding AI's Hidden Arcanum: Black Box Essentials</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-essential-guide-to-natural-ambiance-top-10-sound-apps-for-iphone-and-android/"><u>Updated The Essential Guide to Natural Ambiance Top 10 Sound Apps for iPhone and Android</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AI and Innovation Collide in Microsoft’s Bing Overhaul
-date: 2024-09-15T16:45:50.955Z
-updated: 2024-09-22T16:00:34.569Z
+date: 2024-10-23T19:26:37.766Z
+updated: 2024-10-26T22:32:15.109Z
 tags:
   - chatgpt
   - open-ai
@@ -38,11 +38,25 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
 
  According to [Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's New in Bing?
 
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
 
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ` Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
 
@@ -51,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
  In response to a typical search query, Bing will now show relevant search results on the left and a comprehensive overview of your search query on the right.
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's New in Microsoft Edge?
 
@@ -67,10 +88,16 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Bing Reinvents Web Searching
@@ -90,5 +117,24 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-8-compelling-no-cost-video-calls-applications-for-pc-and-mac-users/"><u>[New] 8 Compelling No-Cost Video Calls Applications for PC and MAC Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-linux-screenshot-the-most-acclaimed-applications/"><u>[New] Linux Screenshot The Most Acclaimed Applications</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-media-with-movavi-plus-2024-edition-insights/"><u>[New] Mastering Media with Movavi Plus 2024 Edition Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonizing-hue-and-shade-the-finest-4k-displays-reviewed/"><u>[Updated] Harmonizing Hue and Shade The Finest 4K Displays Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-the-power-of-digital-advertising-with-our-comprehensive-set-of-50-free-youtube-banners/"><u>[Updated] Unleash the Power of Digital Advertising with Our Comprehensive Set of 50 FREE YouTube Banners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-partnership-for-perfecting-your-date-life/"><u>AI Partnership for Perfecting Your Date Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-rise-may-test-se-integrity/"><u>ChatGPT's Rise May Test SE Integrity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-utilization-tactics-for-gpt-models/"><u>Creative Utilization Tactics for GPT Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-safest-and-most-fun-mobile-phones-for-children-recommended-by-zdnet/"><u>Discover the Safest & Most Fun Mobile Phones for Children | Recommended by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioned-kingdoms-through-conversational-algorithms/"><u>Envisioned Kingdoms Through Conversational Algorithms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finding-the-ideal-present-when-in-doubt-discover-smart-solutions-with-insights-from-zdnet/"><u>Finding the Ideal Present When in Doubt? Discover Smart Solutions with Insights From ZDNET</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-best-7-dslr-cameras-for-vlogging/"><u>In 2024, Best 7 DSLR Cameras for Vlogging</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-oppo-reno-8t-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Oppo Reno 8T to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-tips-speeding-up-video-playback-on-snapchat-for-novices/"><u>In 2024, Quick Tips Speeding Up Video Playback on Snapchat for Novices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesizing-visuals-seamlessly-gpt-4-meets-dall-e-techniques/"><u>Synthesizing Visuals Seamlessly: GPT-4 Meets DALL-E Techniques</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-video-editing-tools-for-professionals/"><u>Updated Top Video Editing Tools for Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-chatgpt-for-custom-trainer-approaches/"><u>Utilizing ChatGPT for Custom Trainer Approaches</u></a></li>
+</ul></div>
 

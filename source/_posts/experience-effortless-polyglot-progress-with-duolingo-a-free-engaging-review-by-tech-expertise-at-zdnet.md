@@ -1,7 +1,7 @@
 ---
 title: "Experience Effortless Polyglot Progress with Duolingo: A Free, Engaging Review by Tech Expertise at ZDNET"
-date: 2024-09-18 12:38:17
-updated: 2024-09-20 12:57:20
+date: 2024-10-20T22:47:21.650Z
+updated: 2024-10-26T19:54:25.894Z
 tags:
   - professional-development
 categories:
@@ -55,7 +55,21 @@ Still, Duolingo's gamification is not for everyone. Serious learners may find th
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How language learning works
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Duolingo on desktop
 
@@ -111,9 +125,23 @@ Duolingo
 
 By downloading the app and completing a lesson, I understood how Duolingo keeps students interested in the language: There are streaks, there are awards -- it's fun. It's language learning that keeps the big picture in mind without getting bogged down by the details, especially at first.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Duolingo actually effective?
 
 Not on its own. If you supplement Duolingo lessons with Duolingo stories or [even a Duolingo event](https://events.duolingo.com/), you'll maximize the free resources offered by the company and maybe even still not have a complete grasp of the language. Self-study is key here, meaning you should acquire workbooks and practice on your own time in addition to using Duolingo. I also think it's important to speak as you go through questions on Duolingo; for example, I tried saying 好 or hǎo out loud when a question popped up that mentioned it. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can you become fluent with Duolingo?
 
@@ -192,11 +220,31 @@ Another trusted method with instant feedback on pronunciation.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-leading-video-makers-in-asmr-sphere/"><u>[New] 2024 Approved Leading Video Makers in ASMR Sphere</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quintessential-6-realistic-mojave-homes/"><u>[New] In 2024, Quintessential 6 Realistic Mojave Homes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultra-hd-marvel-hp-dreamcolor-z32-x-analysis/"><u>[New] Ultra HD Marvel HP DreamColor Z32 X Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accelerating-hr-workflows-with-prompts/"><u>Accelerating HR Workflows with Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/co-pilot-revolutionizing-chatgpt-features-and-capabilities-explored/"><u>Co-Pilot Revolutionizing ChatGPT: Features and Capabilities Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/complete-guide-securing-data-with-cell-locking-techniques-in-excel/"><u>Complete Guide: Securing Data with Cell Locking Techniques in Excel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-digital-disguises-spotting-ai-content-creation/"><u>Deciphering Digital Disguises: Spotting AI Content Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-the-future-top-3-exciting-new-features-of-the-iphone-16-revealed/"><u>Experience the Future: Top 3 Exciting New Features of the iPhone 16 Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-ai-artistry-mastering-dall-e-3-through-microsoft-bing/"><u>Harness AI Artistry: Mastering DALL-E 3 Through Microsoft Bing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-samsung-galaxy-xcover-6-pro-tactical-edition-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy XCover 6 Pro Tactical Edition FRP In 3 Different Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y100a-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y100A Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y100a-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y100A Pattern Lock Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-ai-revolutionizing-education-exploring-chatgpts-role-in-replacing-traditional-student-papers/"><u>Is AI Revolutionizing Education? Exploring ChatGPT's Role in Replacing Traditional Student Papers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/non-apple-top-rechargeable-airtags-protecting-your-wallet-like-never-before-discover-how/"><u>Non-Apple, Top Rechargeable AirTags: Protecting Your Wallet Like Never Before! Discover How</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-libraries-on-the-rise-explore-these-ai-book-apps/"><u>Personalized Libraries on the Rise: Explore These AI Book Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-for-fixing-d3dx-library-missing-errors-on-your-pc/"><u>Step-by-Step Guide for Fixing D3DX Library Missing Errors on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-picks-essential-anker-charger-gear-for-your-upcoming-iphone-upgrade/"><u>ZDNet's Picks: Essential Anker Charger Gear for Your Upcoming iPhone Upgrade!</u></a></li>
+</ul></div>
+

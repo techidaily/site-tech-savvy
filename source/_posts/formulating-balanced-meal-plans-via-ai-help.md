@@ -1,7 +1,7 @@
 ---
 title: Formulating Balanced Meal Plans via AI Help
-date: 2024-10-14T00:37:18.078Z
-updated: 2024-10-20T17:37:51.863Z
+date: 2024-10-21T17:28:14.111Z
+updated: 2024-10-26T22:17:27.624Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 * How long do you want the cooking time to be for each meal?
 * How much do you want the cost per meal to be if you're cooking on a budget?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT to Determine Your TDEE and BMR
 
 ![ChatGPT AI chatbot online tool TDEE BMR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tdee-bmr.jpg)
@@ -61,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
  Now is the time you can start playing around with ChatGPT and see how it can help you come up with some healthy meal plan ideas. Remember to include all the details of your meal plan in your prompts. ChatGPT can give you a better response if you’re more in-depth about what you're asking for.
 
  In addition, you can even ask ChatGPT to include a full grocery list of all the ingredients you need as well as the measurements for each item.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Meal Plan Example Prompts for ChatGPT
 
@@ -91,25 +105,25 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
 ![SideChef meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-meal-plan-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![SideChef preferences mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-preferences.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -126,30 +140,16 @@ Close
 
 ![Eat this much meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-meal-plan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can You Trust ChatGPT to Create a Healthy Meal Plan?
 
@@ -176,16 +176,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-premium-9-clandestine-content-getters/"><u>[New] 2024 Approved Premium 9 Clandestine Content Getters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-peak-performance-in-studies-with-smart-chatgpt-notes/"><u>Achieve Peak Performance in Studies with Smart ChatGPT Notes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-chatbots-clash-who-will-be-crowned-king/"><u>AI ChatBots Clash: Who Will Be Crowned King?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-reimagined-gpt-plus-enhanced-us-experience-for-20/"><u>ChatGPT Reimagined: GPT-Plus, Enhanced U.S. Experience for $20</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/distinguishing-true-insights-from-ai-fabrications/"><u>Distinguishing True Insights From AI Fabrications</u></a></li>
-<li><a href="https://techidaily.com/how-to-play-fallout-3-on-windows-10/"><u>How to Play Fallout 3 on Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-recover-deleted-text-messages-on-any-phone/"><u>How to Recover Deleted Text Messages on Any Phone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-micro-snippet-analysis-at-a-glance/"><u>In 2024, Micro Snippet Analysis at a Glance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolution-in-talk-ai-innovation-horizon/"><u>Revolution in Talk: AI Innovation Horizon</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nokia-c110-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nokia C110 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/video-space-understanding-64128gb-limits/"><u>Video Space Understanding 64/128GB Limits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-5-best-snipping-tool-for-chromebook/"><u>[New] 2024 Approved 5 Best Snipping Tool For Chromebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-12-clicker-games-on-pc/"><u>[New] In 2024, Top 12 Clicker Games on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-simplified-methods-for-migrating-snapshots-to-storage/"><u>[Updated] 2024 Approved Simplified Methods for Migrating Snapshots to Storage</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-snapdivide-assessment/"><u>[Updated] 2024 Approved SnapDivide Assessment</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-step-by-step-guide-to-slow-mo-techniques-on-instagram-reels/"><u>[Updated] 2024 Approved Step-by-Step Guide to Slow Mo Techniques on Instagram Reels</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-to-download-movie-cast-releases/"><u>2024 Approved Free-to-Download Movie Cast Releases</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-securely-syncing-and-protecting-data-on-your-iphone-via-icloud-and-mac-tips-from-zdnet/"><u>Complete Guide: Securely Syncing & Protecting Data on Your iPhone via iCloud & Mac - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/create-custom-chat-experiences/"><u>Create Custom Chat Experiences</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-11s-behind-the-scenes-sid-processes/"><u>Exploring Windows 11'S Behind-the-Scenes SID Processes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-tecno-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Tecno Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-entertainment-hacked/"><u>Interactive Entertainment Hacked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-generative-tech-without-errors/"><u>Leveraging Generative Tech Without Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-advocates-guide-leaving-chatgpt-behind/"><u>Privacy Advocate's Guide - Leaving ChatGPT Behind</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-gadgets-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated AirTag Gadgets of 2024: Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

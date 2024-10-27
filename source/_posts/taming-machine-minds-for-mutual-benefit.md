@@ -1,7 +1,7 @@
 ---
 title: Taming Machine Minds for Mutual Benefit
-date: 2024-10-19T04:05:00.647Z
-updated: 2024-10-21T00:21:18.344Z
+date: 2024-10-19T20:44:25.506Z
+updated: 2024-10-26T18:45:36.353Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
  If an AI system were to surpass human intelligence without the proper safeguards, the result could be catastrophic. Such systems could assume control of physical resources as many tasks are achieved better or more efficiently. Since AI systems are designed to achieve maximum efficiency, losing control could lead to severe consequences.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Does the AI Control Problem Apply?
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A great example of this is the [Tesla Full-Self Driving (FSD) suite](https://www.makeuseof.com/what-is-tesla-fsd-how-does-it-work/). While the car can drive itself, it requires a human to have their hands on the steering wheel, ready to take control of the car should the system malfunction. However, as these AI systems get more reliable, even the most alert human's attention will begin to vary, and dependency on the autonomous system will increase.
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
  So what happens when cars start driving at speeds humans can't keep up with? We'll end up surrendering control to the car's autonomous systems, meaning an AI system will be in control of your life, at least until you reach your destination.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can the AI Control Problem Be Solved?
@@ -84,16 +84,10 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
  The DCAF approach always puts a human operator at the helm of an automated system, ensuring that their input controls the most important parts of the system's decision-making process. If a system is engaging enough for a human operator to pay attention constantly, the control problem can be solved.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can We Ever Truly Control AI?
@@ -121,18 +115,19 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-maximizing-your-content-instagrams-video-time-restrictions/"><u>[New] 2024 Approved Maximizing Your Content Instagram's Video Time Restrictions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-streamlabs-competitors-in-the-livestream-arena-for-2024/"><u>[New] Streamlabs' Competitors in the Livestream Arena for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-advanced-tips-for-professionally-changing-image-hues/"><u>[Updated] Advanced Tips for Professionally Changing Image Hues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-value-lawn-mowers-for-your-garden-in-2e-comprehensive-list-and-ratings-zdnet/"><u>Best Value Lawn Mowers for Your Garden in 2E: Comprehensive List & Ratings | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diy-guide-building-your-own-camera-obscura-for-safe-solar-eclipse-viewing-tips-and-tricks/"><u>DIY Guide: Building Your Own Camera Obscura for Safe Solar Eclipse Viewing - Tips & Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-focus-with-nature-the-ultimate-selection-of-indoor-flora-for-optimal-home-office-vibes-as-recommended-by-zdnet/"><u>Enhancing Focus with Nature: The Ultimate Selection of Indoor Flora for Optimal Home Office Vibes as Recommended by ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-user-friendly-srt-services-ranked-1-to-8-for-2024/"><u>Free, User-Friendly SRT Services – Ranked #1 to #8 for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-fold-7-update-anticipated-costs-release-timeline-tech-specs-and-buzzworthy-rumors-revealed/"><u>Samsung Galaxy Z Fold 7 Update: Anticipated Costs, Release Timeline, Tech Specs & Buzzworthy Rumors Revealed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-system-effortless-fixes-to-reawaken-audio-on-windows-10-machines/"><u>Silent System? Effortless Fixes to Reawaken Audio on Windows 10 Machines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-the-werfaultexe-system-bug-easily/"><u>Step-by-Step Guide: Correcting the werFault.exe System Bug Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-perfect-lawnmower-for-your-yard-2024s-top-models-featured/"><u>Ultimate Guide to Choosing the Perfect Lawnmower for Your Yard - 2024'S Top Models Featured</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-perfect-video-doorbell-for-your-home-2024-edition/"><u>Ultimate Guide to Choosing the Perfect Video Doorbell for Your Home - 2024 Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unbeatable-deal-the-almost-perfect-arlo-pro-arlo-pro-5s-grab-the-essential-home-security-at-just-180-zdnet/"><u>Unbeatable Deal: The Almost-Perfect Arlo Pro ^Arlo Pro 5S Grab the Essential Home Security at Just $180! | ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stabilize-and-capture-find-the-best-tripods-for-gopro/"><u>[Updated] Stabilize and Capture Find the Best Tripods for GoPro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movaviaviwav/"><u>「Movaviで簡単なフリーウェブAVI転送WAV - 無料変換ガイド」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-todays-misinformation-landscape/"><u>AI's Role in Today's Misinformation Landscape</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazons-budget-choice-for-stellar-sound-basic-soundbar-review/"><u>Amazon's Budget Choice for Stellar Sound - Basic Soundbar Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehending-the-turing-tests-nature-and-victory-limits/"><u>Comprehending The Turing Test's Nature & Victory Limits</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/discreetly-discovering-instagram-stories-online-pc-android-iphone-methods/"><u>Discreetly Discovering Instagram Stories Online - PC, Android, iPhone Methods</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-newest-drivers-amd-rx-6700-xt-compatible-with-windows-11-10-and-7/"><u>Get Newest Drivers: AMD RX 6700 XT Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-oppo-reno-8t-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Oppo Reno 8T 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-the-latest-innovations-in-gaming-ambiance-govees-advanced-ai-gaming-sync-boxes-and-vibrant-neon-lights/"><u>Introducing the Latest Innovations in Gaming Ambiance - Govee's Advanced AI Gaming Sync Boxes and Vibrant Neon Lights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-ranking-of-free-accurate-srt-translators-for-2024/"><u>The Ultimate Ranking of Free, Accurate SRT Translators for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-devices-an-experts-guide/"><u>Top-Ranking Mac Devices : An Expert's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-july-2024-deals-save-big-on-iphone-apple-watches-and-ipads-smart-shopping/"><u>Unbeatable July 2024 Deals: Save Big on iPhone, Apple Watches, and iPads | Smart Shopping</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-gpts-own-writing-weaknesses/"><u>Understanding GPT's Own Writing Weaknesses</u></a></li>
 </ul></div>
 

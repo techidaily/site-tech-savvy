@@ -1,7 +1,7 @@
 ---
 title: New Video on Apple AirPower Surfaces - Is There a Comeback for the Infamous Qi Mat?
-date: 2024-10-15T22:51:56.944Z
-updated: 2024-10-21T03:14:41.718Z
+date: 2024-10-25T19:56:53.143Z
+updated: 2024-10-26T19:40:45.085Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 ---
@@ -72,13 +79,6 @@ Jason Hiner/ZDNET
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -109,10 +109,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -142,13 +142,6 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | CPU (Single Core)            | 140                 |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best features of M3 MacBook Air?
 
@@ -181,10 +174,16 @@ Jason Hiner/ZDNET
 **Better built-in sound:** One of the main things you give up by going with the M3 MacBook Air versus the MacBook Pro models is that you get a much inferior set of built-in speakers. The strong base and excellent sound clarity of the MacBook Pro models are made possible by the speakers on either side of the keyboard, while sound comes from the hinge area on the M3 MacBook Air. The result is that you have much lower fidelity sound that is a bit mushy and thin. You can overcome this, of course, by simply listening through a pair of quality headphones like the [AirPods Pro 2nd-gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHWRXH8B%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C27d223e8-9508-4237-89d5-8b0b13830710%7Cdtp&dtb=1) or the [Sony WF-1000XM5 earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C33XXS56%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C27d223e8-9508-4237-89d5-8b0b13830710%7Cdtp&dtb=1). But there are always going to be times when you want and need to use the built-in speakers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -196,6 +195,13 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -243,21 +249,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ehind-the-scenes-youtubes-view-count-algorithm/"><u>[New] Behind the Scenes YouTube's View Count Algorithm</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-explorations-reward-6-innovative-minecraft-residences/"><u>[New] Exploration's Reward 6 Innovative Minecraft Residences</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-professional-panoramas-and-cinematography-with-hero5-black/"><u>[New] Professional Panoramas & Cinematography with Hero5 Black</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-behind-the-scenes-of-lol-top-3-broadcast-techniques/"><u>[Updated] 2024 Approved Behind the Scenes of LOL - Top 3 Broadcast Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-writes-authenticity-in-chatbot-software-selection/"><u>Apple' Writes: Authenticity in Chatbot Software Selection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-barriers-your-universal-guide-to-chatgpt-access/"><u>Breaking Down Barriers: Your Universal Guide to ChatGPT Access</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/cultivating-a-brighter-home-with-outdoor-help-for-2024/"><u>Cultivating a Brighter Home with Outdoor Help for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-your-windows-chat-with-unbounded-gpt/"><u>Free Your Windows Chat with Unbounded GPT</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-v29-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/one-idea-for-three-assessing-ais-creativity-metrics/"><u>One Idea for Three: Assessing AI's Creativity Metrics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-impact-of-ai-on-traditional-college-papers/"><u>The Impact of AI on Traditional College Papers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-mechanics-of-ai-fueled-content-generation-in-modern-businesses/"><u>The Mechanics of AI-Fueled Content Generation in Modern Businesses</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-nubia-red-magic-9-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Nubia Red Magic 9 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-office-tasks-with-the-help-of-gpt-technology/"><u>Transforming Office Tasks with the Help of GPT Technology</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-razr-40-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Razr 40 FRP Bypass</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-nikon-km-170-vs-gopro-for-flexible-filmmaking/"><u>[New] 2024 Approved Nikon KM-170 Vs GoPro for Flexible Filmmaking?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-traffic-critical-youtube-seo-instruments-for-video-success/"><u>[New] In 2024, Boost Traffic Critical YouTube SEO Instruments for Video Success</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-effortless-facebook-live-four-strategies-to-record-successfully/"><u>[Updated] 2024 Approved Effortless Facebook Live Four Strategies to Record Successfully</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-elevate-everyday-life-through-webcams/"><u>[Updated] 2024 Approved Elevate Everyday Life Through Webcams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-on-the-new-iphone-key-differences-between-iphone-16-and-iphone-instruction/"><u>Deciding on the New iPhone? Key Differences Between iPhone 16 & iPhone # Instruction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-speaking-power-with-these-top-7-tools/"><u>Elevate Your Speaking Power with These Top 7 Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-mp4-data-restoration-techniques-overcoming-corrupted-media-challenges/"><u>Expert MP4 Data Restoration Techniques: Overcoming Corrupted Media Challenges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experts-choice-for-premium-stylus-tablets-of-the-year-2eighty-four-in-depth-analysis-and-ratings-pcmag/"><u>Experts' Choice for Premium Stylus Tablets of the Year 2Eighty-Four: In-Depth Analysis and Ratings | PCMag</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-v27-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo V27 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-nubia-z50s-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Nubia Z50S Pro Face Lock?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-step-by-step-guide-effortless-iphone-screen-recordings/"><u>In 2024, Step-by-Step Guide Effortless Iphone Screen Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-a-steal-apple-m2-macbook-air-now-just-800-before-october-deals-kick-off-shoppers-alert/"><u>Score a Steal: Apple M2 MacBook Air Now Just $800 Before October Deals Kick Off - Shoppers Alert!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/starting-out-professional-guide-to-prompt-engineering/"><u>Starting Out: Professional Guide to Prompt Engineering</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-sign-in-difficulties-heres-how-you-can-fix-them/"><u>Steam Sign-In Difficulties? Here's How You Can Fix Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-websites-and-artificial-intelligence/"><u>The Intersection of Websites and Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-exercise-routine-discover-the-power-of-the-new-airpods-pros-fitness-tracking-and-heart-rate-sensor-features/"><u>Transform Your Exercise Routine: Discover the Power of the New AirPods Pro's Fitness Tracking and Heart Rate Sensor Features</u></a></li>
 </ul></div>
 

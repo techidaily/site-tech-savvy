@@ -1,7 +1,7 @@
 ---
 title: "How to Write a Winning Cybersecurity Resume: Dos and Don'ts Revealed by ZDNet Experts"
-date: 2024-09-17 17:27:42
-updated: 2024-09-20 12:50:31
+date: 2024-10-25T20:45:55.357Z
+updated: 2024-10-26T17:05:51.815Z
 tags:
   - professional-development
 categories:
@@ -77,6 +77,13 @@ The header is where you put your name, professional email, and home phone number
 
 Hyperlinking relevant websites can help you by quickly directing employers to material showcasing your skills and professional connections. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Resume summary/objective
 
 A resume summary or objective provides an overview of your professional qualifications. A summary typically focuses on how your experiences align with the job description, while an objective lays out your career goals and expectations. 
@@ -130,7 +137,33 @@ Zoë Morris: A lot of candidates tend to completely neglect how important soft s
 
 Additionally, naming clients or accidentally disclosing private information when talking about past experiences and challenges is a huge mistake I see all too often. Candidates need to anonymize any case studies to protect this data or risk immediately being rejected from great opportunities — and in some cases, even face legal action if this is reported.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Education
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -176,11 +209,31 @@ If there's room, mention any [professional organizations](https://www.zdnet.com/
 
 You can also mention any courses you've taken, such as online courses or continuing education courses. An example might be [MOOCs](https://www.zdnet.com/education/moocs-what-are-they-and-why-are-they-so-popular/) that show your dedication to learning but don't award credit or certification.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### About John Boyle
 
 [John Boyle](https://www.linkedin.com/in/jboylejr/) is senior talent director at nationwide cybersecurity and information technology staffing firm, [CIBR Warriors](https://cibrwarriors.com/). John has been in the staffing industry for 27 years, having held production and leadership roles throughout his career. 
 
 His passion revolves around developing superior relationships and coupling these with best-of-breed practices to ensure world-class service. He truly enjoys helping people to make the most of their career endeavors. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### About Zoë Morris
 
@@ -224,11 +277,29 @@ _Last reviewed April 28, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-find-the-top-8-video-communication-apps-for-android-groups/"><u>[New] 2024 Approved Find the Top 8 Video Communication Apps for Android Groups</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-embedding-spotify-content-into-a-youtube-music-list/"><u>[Updated] 2024 Approved Embedding Spotify Content Into a YouTube Music List</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-become-an-expert-at-unearthing-unique-visuals-from-pexels/"><u>2024 Approved Become an Expert at Unearthing Unique Visuals From Pexels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-latest-update-exploring-enhancements-in-the-new-airpods-pro-genesis-a-comprehveiw-by-zdnet/"><u>Apple's Latest Update: Exploring Enhancements in the New AirPods Pro Genesis - A Comprehveiw by ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-unmute-4-sound-problems-and-solutions-for-gamers/"><u>Battlefield ([Un]Mute) 4 Sound Problems and Solutions for Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-career-planning-unveiling-top-strategies/"><u>ChatGPT in Career Planning: Unveiling Top Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-switch-dall-e-images-from-webp-to-png-and-jpg/"><u>Easy Switch: DALL-E Images From WebP to PNG & JPG</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhance-windows-7-boot-speed-with-proven-strategies-overcome-system-lags-easily/"><u>Enhance Windows 7 Boot Speed with Proven Strategies: Overcome System Lags Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-upgrades-of-apples-latest-airpods-gen3-a-comprehensive-review-by-tech-enthusiast-zdnet/"><u>Exploring the Upgrades of Apple's Latest AirPods Gen3: A Comprehensive Review by Tech Enthusiast ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-freedom-with-turbo-and-copilot-your-guide-to-gpt-4s-limitless-potential/"><u>Free Freedom with Turbo & Copilot: Your Guide to GPT-4's Limitless Potential</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Lava Yuva 2 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-apple-iphone-11-pro-max-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 11 Pro Max Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-recovery-saving-chatgpt-dialogues/"><u>Mastering Recovery: Saving ChatGPT Dialogues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-when-your-device-reports-no-battery-easy-steps-inside/"><u>Quick Fixes for When Your Device Reports No Battery – Easy Steps Inside!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-the-persistent-issues-with-apples-latest-iphone-model-insights/"><u>Resolving the Persistent Issues with Apple's Latest iPhone Model - Insights</u></a></li>
+</ul></div>
+

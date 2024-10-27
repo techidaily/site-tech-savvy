@@ -1,7 +1,7 @@
 ---
 title: Transforming Your CS Workflow with CodeGPT and VS Code
-date: 2024-10-15T17:14:54.340Z
-updated: 2024-10-20T19:23:59.506Z
+date: 2024-10-25T22:31:19.661Z
+updated: 2024-10-26T17:48:16.104Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/9878ff62b08356ff78ffb4d4ce5fd0c27ab1ffdc4
 
  Click on it and paste your API key on the prompt that appears. Save it by pressing **Enter**. Finally, reload VS Code to start using CodeGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Generating Code With CodeGPT
 
  To demonstrate the CodeGPT code generation feature, you will create a calculator app using Python.
@@ -72,18 +79,18 @@ thumbnail: https://thmb.techidaily.com/9878ff62b08356ff78ffb4d4ce5fd0c27ab1ffdc4
 
 ![CodeGPT generating code from a comment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-comment-code-generation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can then copy and paste the code into your script. This method is not tidy as the response has text on it.
 
  To generate code by chatting with CodeGPT, click on the CodeGPT chat icon on the left sidebar. This will open a chat window.
 
 ![CodeGPT chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-chat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then input your request and click **Send**. In this case, the request is for a simple calculator. CodeGPT will process your request and generate your code in the chat window.
 
@@ -125,10 +132,10 @@ else:
  When you run the code it works correctly. With just a single prompt, you were able to create a simple calculator.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Refactoring Your Code With CodeGPT
@@ -143,14 +150,14 @@ else:
 
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  CodeGPT will explain what the code does on the chat window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Documenting Your Code Using CodeGPT
 
@@ -178,19 +185,6 @@ def divide(x, y):
 
  These are clear and correct inline comments.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Understanding How Generative AI Works
 
  CodeGPT utilizes the power of generative AI for all its features. It may not always provide the correct information. Hence, you need to counter-check whether its results are correct. Understanding how generative AI works will help you become familiar with its strengths and weaknesses.
@@ -214,20 +208,21 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-a-step-into-anti-time-original-techniques-to-rewind-yt-videos/"><u>[New] In 2024, A Step Into Anti-Time Original Techniques to Rewind YT Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-shine-strategy-top-tools-to-brighten-streams/"><u>[New] Shine Strategy Top Tools to Brighten Streams</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-channel-transformation-through-strategic-use-of-youtube-outros-for-2024/"><u>[Updated] Channel Transformation Through Strategic Use of YouTube Outros for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-apples-audio-world-a-download-guide-for-ios-users/"><u>[Updated] Unlocking Apple's Audio World A Download Guide for iOS Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/articulate-your-intentions-five-voice-commands-for-gpt/"><u>Articulate Your Intentions: Five Voice Commands for GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bing-meets-artificial-intelligence-from-microsoft/"><u>Bing Meets Artificial Intelligence From Microsoft</u></a></li>
-<li><a href="https://blog-min.techidaily.com/decouvrez-le-mystere-du-format-audio-wav-tout-ce-que-vous-avez-besoin-de-savoir/"><u>Découvrez Le Mystère Du Format Audio .wav : Tout Ce Que Vous Avez Besoin De Savoir !</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-predictive-ai-functionality-uncovered/"><u>Demystifying Predictive AI: Functionality Uncovered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-reduce-ai-hallucination-with-these-6-prompting-techniques/"><u>How to Reduce AI Hallucination With These 6 Prompting Techniques</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-a56s-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo A56s 5G Lock Screen Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-creation-design-your-unique-chatai/"><u>Mastering GPT Creation: Design Your Unique ChatAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-gpt-3-experience-on-your-device/"><u>Maximizing GPT-3 Experience on Your Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-performance-effective-ways-to-enhance-splitgates-frame-rate-and-reduce-stuttering/"><u>Optimizing Performance: Effective Ways to Enhance Splitgate’s Frame Rate & Reduce Stuttering</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-eu-blueprint-on-ai-insights-into-chatgpt-evolution/"><u>The EU Blueprint on AI: Insights Into ChatGPT Evolution</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-xbox-potential-control-pairing-made-easy/"><u>Unleash Xbox Potential: Control Pairing Made Easy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-demystifying-instagrams-videography-cap-constraint/"><u>[New] Demystifying Instagram’s Videography Cap Constraint</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nveiled-youtubes-creme-de-la-creme-of-vr-videos-for-2024/"><u>[New] Unveiled YouTube's Crème De La Crème of VR Videos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-virtual-victory-the-leading-ladies-of-gaming-for-2024/"><u>[Updated] Virtual Victory The Leading Ladies of Gaming for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-superior-virtual-background-switchers-guide-for-2024/"><u>10 Superior Virtual Background Switchers Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-t2-pro-5g-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from T2 Pro 5G.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-did-crowdstrikes-windows-meltdown-event-unfold-a-historical-analysis-revealed/"><u>How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-tackle-and-resolve-directx-error-challenges-on-cod-mw2/"><u>How to Tackle and Resolve DirectX Error Challenges on Cod: MW2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-p60-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Huawei P60 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-openais-customizable-cutting-edge-gpt-stores/"><u>Introducing OpenAI's Customizable, Cutting-Edge GPT Stores!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-special-save-big-and-grab-the-new-apple-pencil-for-only-95-the-perfect-time-to-upgrade-with-zdnet-deals/"><u>Labor Day Special! Save Big and Grab the New Apple Pencil for Only $95 - The Perfect Time to Upgrade with ZDNet Deals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/langchain-an-easy-entry-point-for-newcomers/"><u>LangChain: An Easy Entry Point for Newcomers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/presidents-day-special-offer-save-200-on-the-latest-macbook-pro-with-apple-silicon-m3-pro-chipset-available-now-at-zdnet/"><u>President's Day Special Offer: Save $200 on the Latest MacBook Pro with Apple Silicon - M3 Pro Chipset, Available Now at ZDNet!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-troubleshoot-and-fix-windows-setup-hanging-problems/"><u>Solution Found! Troubleshoot & Fix Windows Setup Hanging Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-productivity-apps-for-ipad-streamline-your-task-management-and-boost-efficiency-insights-from-zdnet/"><u>Top Productivity Apps for iPad: Streamline Your Task Management & Boost Efficiency - Insights From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-glitches-heres-how-to-restore-uninterrupted-sound-quality/"><u>Windows 11 Audio Glitches? Here's How to Restore Uninterrupted Sound Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-explores-potential-apple-pencil-style-for-new-vision-pro-gamepad-insights-from-latest-patent/"><u>ZDNet Explores Potential Apple Pencil Style for New Vision Pro Gamepad: Insights From Latest Patent</u></a></li>
 </ul></div>
 

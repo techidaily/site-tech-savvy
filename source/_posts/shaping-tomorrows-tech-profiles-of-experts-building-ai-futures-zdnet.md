@@ -1,7 +1,7 @@
 ---
 title: "Shaping Tomorrow's Tech: Profiles of Experts Building AI Futures | ZDNet"
-date: 2024-09-17 11:47:34
-updated: 2024-09-20 10:54:22
+date: 2024-10-19T16:23:51.555Z
+updated: 2024-10-26T22:13:07.345Z
 tags:
   - professional-development
 categories:
@@ -82,11 +82,38 @@ The roles of engineers aren't going away anytime soon, "but they will most likel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-live-stream-showdown-xsplit-vs-obs/"><u>[Updated] In 2024, Live Stream Showdown XSplit Vs. OBS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-5-leading-resources-to-masterfully-add-text-flair-online/"><u>2024 Approved 5 Leading Resources to Masterfully Add Text Flair Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-leap-forward-openais-innovative-gpt-4/"><u>AI Leap Forward: OpenAI's Innovative GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-made-easy-understanding-intelligence/"><u>AI Made Easy: Understanding Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-strategies-for-reducing-stress/"><u>ChatGPT Strategies for Reducing Stress</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chathublockdown-openset-date-desire/"><u>ChatHubLockdown: Openset Date Desire</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-14-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 14 Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-tecno-spark-20-proplus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Tecno Spark 20 Pro+ Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-xs-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone XS Max in the Best Ways</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/journey-ahead-an-in-depth-look-at-panasonics-hx-a1-wearable-camera/"><u>Journey Ahead - An In-Depth Look at Panasonic’s HX-A1 Wearable Camera</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-the-art-of-video-editing-complimentary-top-pp-tools/"><u>Master the Art of Video Editing Complimentary, Top PP Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/master-the-art-of-video-editing-in-obs-studio-for-2024/"><u>Master the Art of Video Editing in OBS Studio for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-media-artistry-with-intelligent-technology/"><u>Redefining Media Artistry with Intelligent Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safe-digital-space-implementing-ai-in-therapy-sessions/"><u>Safe Digital Space: Implementing AI in Therapy Sessions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-content-designs-using-canva-gpt-at-scale/"><u>Streamlining Content Designs Using Canva, GPT at Scale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/subscription-free-access-to-the-frontier-of-ai-gpt-4/"><u>Subscription-Free Access to the Frontier of AI - GPT-4</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-the-core-technology-behind-superior-screen-captures-by-recmeister-for-2024/"><u>Unveiling the Core Technology Behind Superior Screen Captures by Recmeister for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

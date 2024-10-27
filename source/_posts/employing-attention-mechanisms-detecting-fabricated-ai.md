@@ -1,7 +1,7 @@
 ---
 title: "Employing Attention Mechanisms: Detecting Fabricated AI"
-date: 2024-10-17T23:14:30.512Z
-updated: 2024-10-20T18:56:11.075Z
+date: 2024-10-24T20:08:21.133Z
+updated: 2024-10-26T19:10:37.942Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/dd00c272af0df6444eb7e9772f2833b20e1c6be4a
 * [What Is ChatGPT's GPT Mentions Feature?](https://appsumo.8odi.net/gmezyk)
 * [How to Use the GPT Mentions Feature](https://boody-eco-wear.pxf.io/qyo4oo)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI's ChatGPT Plus offers a new feature called GPT Mentions, allowing users to combine multiple custom GPTs in one conversation.
@@ -36,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/dd00c272af0df6444eb7e9772f2833b20e1c6be4a
 **SCROLL TO CONTINUE WITH CONTENT**
 
  OpenAI's premium version of ChatGPT, known as ChatGPT Plus, offers users a range of extra features in exchange for the monthly subscription fee. ChatGPT Plus's newest feature, GPT call-outs or mentions, may prove very useful to you if you use various GPTs within the ChatGPT interface. So, how does this feature work, and how can it benefit you?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is ChatGPT's GPT Mentions Feature?
 
@@ -53,25 +67,11 @@ thumbnail: https://thmb.techidaily.com/dd00c272af0df6444eb7e9772f2833b20e1c6be4a
 
  So, how can you use this?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
@@ -83,15 +83,22 @@ thumbnail: https://thmb.techidaily.com/dd00c272af0df6444eb7e9772f2833b20e1c6be4a
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/dd00c272af0df6444eb7e9772f2833b20e1c6be4a
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, we have hotels, flights, and trails for our trip all in one chat!
 
@@ -136,18 +136,20 @@ thumbnail: https://thmb.techidaily.com/dd00c272af0df6444eb7e9772f2833b20e1c6be4a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-laugh-loom-imgur-memomaker/"><u>[Updated] Laugh Loom Imgur MemoMaker</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-seamless-switch-to-virtual-reality-your-phones-next-step/"><u>2024 Approved Seamless Switch to Virtual Reality Your Phone's Next Step</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-into-an-ultimate-hit-essential-seo-tips-for-youtube-videos/"><u>2024 Approved Transform Into an Ultimate Hit Essential SEO Tips for YouTube Videos</u></a></li>
-<li><a href="https://facebook.techidaily.com/analyzing-the-components-of-facebooks-white-list/"><u>Analyzing the Components of Facebook's White List</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-amd-general-purpose-inputoutput-gpio-drivers-instantly/"><u>Download the Latest AMD General-Purpose Input/Output (GPIO) Drivers Instantly!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oppo-a1-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Oppo A1 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-guide-to-rearranging-youtube-playlists/"><u>In 2024, Step-by-Step Guide to Rearranging YouTube Playlists</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-a25-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-premium-action-cams-expert-reviews-and-comparisons-techradar/"><u>Top 5 Premium Action Cams : Expert Reviews and Comparisons | TechRadar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-spine-chilling-animatronic-creations-for-the-spookiest-holiday-2022-edition/"><u>Top 5 Spine-Chilling Animatronic Creations for the Spookiest Holiday - 2022 Edition!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-ultimate-inflatable-kayak-picks-according-to-zdnet/"><u>Top 5 Ultimate Inflatable Kayak Picks , According to ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-inflatable-hot-tub-picks-for-a-luxurious-spa-experience-in/"><u>Top-Rated Inflatable Hot Tub Picks for a Luxurious Spa Experience In</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winx-dvd-copy-pro-effortless-cloning-of-dvds-and-creation-of-iso-images/"><u>WinX DVD Copy Pro - Effortless Cloning of DVDs and Creation of ISO Images</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/est-in-class-streaming-capture-software-for-youtubers/"><u>[New] Best-in-Class Streaming Capture Software For YouTubers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-best-practices-integrating-timers-into-live-streaming-software-for-2024/"><u>[Updated] Best Practices Integrating Timers Into Live Streaming Software for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-professional-insight-elevating-your-youtube-video-experience/"><u>[Updated] In 2024, Professional Insight Elevating Your YouTube Video Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-novices-guide-to-photo-enhancements-with-photoshop/"><u>2024 Approved Novice's Guide to Photo Enhancements with Photoshop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-complexity-the-functioning-of-ai-black-boxes/"><u>Decoding Complexity: The Functioning of AI Black Boxes</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-winscomrssvcdll-malfunctions-in-windows-108/"><u>Fixing WinscomrsSvc.dll Malfunctions in Windows 10/8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/healthful-cuisine-unlocked-through-tech-assistance/"><u>Healthful Cuisine Unlocked Through Tech Assistance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-lunapics-essence-in-photo-editing/"><u>In 2024, Mastering Lunapic's Essence in Photo Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastery-of-machines-6-ways-to-lead-with-innovative-tech-savvy/"><u>Mastery of Machines: 6 Ways to Lead with Innovative Tech Savvy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precision-editing-via-gpt-assistance/"><u>Precision Editing via GPT Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speaking-tomorrow-advanced-ai-dialogues/"><u>Speaking Tomorrow: Advanced AI Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-great-chatbot-showdown-pitting-gpt-against-microsoftgoogles-creations/"><u>The Great Chatbot Showdown: Pitting GPT Against Microsoft/Google's Creations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-game-console-network-issues-how-to-tell-if-the-problem-is-universal-or-personal/"><u>Understanding Game Console Network Issues: How to Tell if the Problem Is Universal or Personal</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to update drivers in Windows 11/10/7</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-motorola-edge-2023-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Motorola Edge 2023 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

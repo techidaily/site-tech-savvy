@@ -1,7 +1,7 @@
 ---
 title: "Apple Pencil-Inspired Design Revealed in Vision Pro Controller's Latest Patent: Insights From ZDNet"
-date: 2024-10-13T22:38:28.137Z
-updated: 2024-10-20T20:13:24.951Z
+date: 2024-10-21T17:48:44.691Z
+updated: 2024-10-26T17:31:34.930Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ I previously showed [how to connect a trackpad and keyboard to the Vision Pro](h
 
 I'd like to see Apple introduce full mouse support to the Vision Pro. And, Apple, please don't limit it to the not-so-Magic Mouse or [Magic Mouse 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Mouse-Wireless-Rechargeable%2Fdp%2FB08PL57CBR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff2dd6a7-4d77-42e6-ace5-15cc6d27882d%7Cdtp&dtb=1). Since Apple is still shipping a less-than-optimal mouse design from 2009, only slightly updated way back in 2015, many users have moved on to better models, like the various [Logitech devices](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HM94VDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff2dd6a7-4d77-42e6-ace5-15cc6d27882d%7Cdtp&dtb=1). 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Better Bluetooth support for non-Apple devices
 
 You can [easily pair your AirPods to the Vision Pro](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/). But when I tried to pair an inexpensive set of non-Apple Bluetooth earbuds to the Vision Pro, I couldn't get it to work. Those earbuds did, however, work with my iPhone and iPad, so they're good enough. 
@@ -49,13 +56,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Keyboard passthrough
 
@@ -73,6 +73,13 @@ That precludes using the Vision Pro's mirror-to-Apple TV feature to help a perso
 
 Look, I get the whole piracy thing. But limiting even a single screenshot is overkill. Apple, please fix this. It makes it much harder to help you sell your products. Shutting down the ability to mirror any Apple TV+ content from the Vision Pro to the Apple TV is baffling. I, for example, subscribe to the Apple One Premier plan, which allows us to use Family Sharing to share among up to five people. So why is Apple blocking this capability on the Vision Pro? 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. More native spatial apps
 
 Apple still ships Books, Calendar, Clock, Home, Maps, Podcasts, Reminders, Shortcuts, Stocks, and Voice Memos in the Compatibility Mode folder. While some of these, like Podcasts, won't benefit much from spatial conversion, others will. Maps, for example, would be the obvious beneficiary of a spatial upgrade, since the app itself tries to present 3D projections on a 2D screen. 
@@ -81,24 +88,24 @@ Apple still ships Books, Calendar, Clock, Home, Maps, Podcasts, Reminders, Short
 
 But I also think it might be nice to have some clocks you could actually place in mixed reality or a calendar you could hang on the wall. And where could Books go if the interactive features that are already so great in Books could be extended to a fully 3D world? Oh, the stories we could show and tell! 
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  6\. More environments and third-party environments
 
 Apple currently allows just a few fully immersive environments. While the surface of the moon and Mount Hood are nice enough, they get boring after a while. My immersive environment on the [Quest 3](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMeta-Quest-128GB-Breakthrough-Reality-3%2Fdp%2FB0C8VKH1ZH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff2dd6a7-4d77-42e6-ace5-15cc6d27882d%7Cdtp&dtb=1) is an old mining town. The Quest 3 provides many immersive environments, including inside and outside locations. 
 
 I'd love to see more immersive environments for the Vision Pro. There is a category of long-running videos on YouTube called "ambience videos." They consist of cozy animated scenes with some background music like [this serene coffee shop](https://www.youtube.com/watch?v=W5qamfXh3Q4&t=11737s). How nice would it be to set up work virtually in a coffee shop like this, chill, and be productive? I can see a great app market for well-designed third-party ambience environments. Heck, I'd pay a couple of bucks to work in a selection of charming coffee shops! 
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. Larger play space boundary
 
@@ -124,13 +131,6 @@ This situation was also apparent in [the Marvel What…If? immersive experience]
 
 Most likely, Apple will someday introduce its own controllers, if only to meet some special purpose large-scale enterprise need. But given that Meta has added support for Apple's spatial videos to the Quest 3, it seems only fair for Apple to add support for Quest controllers. I haven't found Quest 3 controllers available separately, but [since the Quest 2 is only $199](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOculus-Quest-Advanced-All-One-Virtual%2Fdp%2FB099VMT8VZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff2dd6a7-4d77-42e6-ace5-15cc6d27882d%7Cdtp&dtb=1), folks could buy it and get the Quest 2 controllers. Hey, at $199, it's the same price as a [spare Vision Pro battery](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW283LL%2FA%2Fapple-vision-pro-battery&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) or [Vision Pro carrying case](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW2F3LL%2FA%2Fapple-vision-pro-travel-case&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  9\. Better and more accurate hand and eye tracking
 
 While many reviewers have described the Vision Pro's hand and eye tracking as "magical," I've found eye tracking so difficult I had to [replace it with wrist tracking using accessibility mode](https://www.zdnet.com/article/i-found-apple-vision-pro-unusable-at-first-but-then-i-fixed-it-heres-how/). As I mentioned above, some hand-tracking latency seems to disrupt game play, and I've found that the Vision Pro has difficulty recognizing hand tracking at the very edge or bottom of the visible screen. 
@@ -143,16 +143,16 @@ It's weird, but there's no Find My app for the Apple Vision Pro. You can't even 
 
 Even cooler would be a heads-up display version of Find My that puts an arrow in your field of view as you look for what's missing. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bonus: Better personas
 
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
 
@@ -192,19 +192,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-the-complete-playbook-for-configuring-and-evaluating-in-stream-ads-on-facebook/"><u>[New] The Complete Playbook for Configuring and Evaluating In-Stream Ads on Facebook</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-boost-your-income-with-effective-snapchat-ads/"><u>[Updated] 2024 Approved Boost Your Income with Effective Snapchat Ads</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/best-in-class-applications-for-mastery-of-languages/"><u>Best-In-Class Applications for Mastery of Languages</u></a></li>
-<li><a href="https://win-info.techidaily.com/convert-and-save-your-favorite-shows-from-arte-plus-7-as-mp4-mov-or-avi-files-using-a-simple-tool/"><u>Convert and Save Your Favorite Shows From ARTE + 7 as MP4, MOV or AVI Files Using a Simple Tool</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-honor-magic-6-lite-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Honor Magic 6 Lite Devices</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/mastering-the-art-of-streaming-audiobooks-your-ultimate-guide-to-using-audible-with-a-kindle/"><u>Mastering the Art of Streaming Audiobooks: Your Ultimate Guide to Using Audible with a Kindle</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-solar-phenomenon-of-april-202n4-comprehensive-faqs-on-watching-procedures-required-equipment-and-expert-advice-zdnet/"><u>Mastering the Solar Phenomenon of April 202N4: Comprehensive FAQs on Watching Procedures, Required Equipment, and Expert Advice | ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1726222199485-pbm-jpg/"><u>PBM 파일 이미지를 JPG로 쉽게 직막하는 - 원환이 제공하는 무료, 사용자 친화적인 소프트웨어</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/save-50-on-alienware-premium-bluetooth-gaming-keyboards/"><u>Save $50 on Alienware Premium Bluetooth Gaming Keyboards</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smart-pet-accessories-you-must-have-this-year-recommended-by-zdnet/"><u>Smart Pet Accessories You Must Have This Year - Recommended by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-the-best-inflatable-pools-a-comprehensive-review-for-quick-setup-zdnet/"><u>The Ultimate List of the Best Inflatable Pools : A Comprehensive Review for Quick Setup | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-must-have-tools-for-diy-projects-the-perfect-fathers-day-present-guide-curated-by-zdnet/"><u>Top 10 Must-Have Tools for DIY Projects: The Perfect Father's Day Present Guide, Curated by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-compact-tire-compressors-the-ultimate-guide-zdnet/"><u>Top 5 Compact Tire Compressors : The Ultimate Guide - ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/valorant-pc-performance-issue-fixing-the-games-input-lag/"><u>Valorant PC Performance Issue: Fixing the Game's Input Lag</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-superior-mac-gif-saving-the-ultimate-guide/"><u>[New] 2024 Approved Superior Mac GIF Saving The Ultimate Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-nocturnal-nuances-essential-tips-for-moonlit-portraiture/"><u>[Updated] 2024 Approved Nocturnal Nuances Essential Tips for Moonlit Portraiture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastery-in-one-bite-io-screen-capture-guidebook-for-2024/"><u>[Updated] Mastery in One Bite IO Screen Capture Guidebook for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cr2png-movavi/"><u>網上無限制CR2改成PNG - 運用Movavi格式轉換工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-image-magic-harnessing-the-potential-of-gpt-4-and-dall-e/"><u>AI Image Magic: Harnessing the Potential of GPT-4 & DALL-E</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-iphones-capabilities-mastery-of-secret-voice-controls-as-revealed-by-zdnet/"><u>Boost Your iPhone's Capabilities: Mastery of Secret Voice Controls as Revealed by ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-11-official-method-to-unlock-your-iphone-11-by-drfone-ios/"><u>How To Unlock iPhone 11 Official Method to Unlock Your iPhone 11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-15-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 15 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-video-to-twitter-platforms-for-2024/"><u>Leading Video To Twitter Platforms for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/master-methods-chronicling-your-ps3-gameplay-for-2024/"><u>Master Methods Chronicling Your PS3 Gameplay for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-openais-world-mastering-gpt-3-use-cases/"><u>Navigating OpenAI's World: Mastering GPT-3 Use Cases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-cycling-experience-with-photochromic-smart-glasses-the-hud-innovation-unveiled-on-zdnet/"><u>Revolutionize Your Cycling Experience with Photochromic Smart Glasses - The HUD Innovation Unveiled on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/soar-higher-the-difference-in-copilot-versions/"><u>Soar Higher: The Difference in CoPilot Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-installation-of-microsoft-copilot-for-macos-users/"><u>Step-by-Step Installation of Microsoft Copilot for macOS Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-generation-of-chatbots-bard-vs-bing-showdown/"><u>The Next Generation of Chatbots: Bard Vs. Bing Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-selecting-peak-frames-per-second-for-slow-motion-cinema-for-2024/"><u>The Ultimate Guide to Selecting Peak Frames Per Second For Slow-Motion Cinema for 2024</u></a></li>
 </ul></div>
 

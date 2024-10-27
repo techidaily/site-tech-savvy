@@ -1,7 +1,7 @@
 ---
 title: "Crafting an Impressive Tech Career: Tips for Writing a Winning Software Engineer's CV | TechRepublic"
-date: 2024-09-18 21:55:38
-updated: 2024-09-20 12:33:57
+date: 2024-10-25T22:29:41.229Z
+updated: 2024-10-26T18:15:25.751Z
 tags:
   - professional-development
 categories:
@@ -106,6 +106,13 @@ For our hypothetical Amazon position, the list of your technical skills could in
 
 Avoid listing soft skills. A bulleted list doesn't have space for the context you'll need to prove you have an abstract skill like "self-starter," and an employer is unlikely to trust your self-assessment without that context. Save people skills for your cover letter instead.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Projects
 
 Now that your resume has grabbed the hiring manager's attention, your projects section should showcase your passion for software engineering and include projects most applicable to the position you want. Include one-line descriptions of a few projects and link to your portfolio for more details.
@@ -113,6 +120,13 @@ Now that your resume has grabbed the hiring manager's attention, your projects s
 In addition to work projects, you can use projects completed for classes or bootcamps, contributions to open-source projects, and your own projects.
 
 Commonly used portfolio formats include a website, blog, LinkedIn page, or GitHub Pages. For inspiration, explore [How to build a coding portfolio](https://www.zdnet.com/education/professional-development/how-to-build-a-coding-portfolio/).
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Education
 
@@ -127,6 +141,19 @@ You can also include internships you completed while in school and any software 
 If you have the space and additional sections will add depth to your resume, consider including the following.
 
 **Certifications**
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -157,6 +184,19 @@ Include these if directly applicable to the position or if you've learned the pe
 If your work or volunteer experience is lacking an element key to the job, include any courses that would help round out your skillset.
 
 If your prior experience doesn't include a key job skill, but you've taken a course in that subject, 
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Hiring insights from HackerEarth's chief technology officer
 
@@ -212,11 +252,26 @@ _Last reviewed May 23, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-instagram-video-and-photo-downloads-guide-for-2024/"><u>[New] Essential Instagram Video & Photo Downloads Guide for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-free-and-paid-tools-for-vimeo-video-downloads/"><u>[New] In 2024, Mastering Free & Paid Tools for Vimeo Video Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-critical-system-breakdown-windows-c0000022-fixes/"><u>Addressing Critical System Breakdown: Windows C0000022 Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-discontinues-high-quality-finewoven-case-series-introduces-exclusive-beats-bands-the-latest-news-from-zdnet/"><u>Apple Discontinues High-Quality FineWoven Case Series, Introduces Exclusive Beats Bands: The Latest News From ZDNet</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/community-engagement/"><u>Community Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-efficient-ai-powered-mobile-search-via-bing-app/"><u>Discover Efficient AI-Powered Mobile Search via Bing App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/getting-started-in-vlogging-gear-and-software-guide-for-2024/"><u>Getting Started in Vlogging Gear and Software Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-auto-gpt-enough-on-its-own/"><u>Is Auto-GPT Enough on Its Own?</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-system-efficiency-through-cpu-settings/"><u>Maximizing System Efficiency Through CPU Settings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-pcxbmp/"><u>Movavi 提供PCX/BMP格式的免費線上自助轉換器：無限可能！</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-cycling-how-photo-chromatic-lenses-transformed-my-ride-experience-a-comprehensive-review/"><u>Revolutionizing Cycling: How Photo-Chromatic Lenses Transformed My Ride Experience - A Comprehensive Review</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-tecno-camon-20-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Camon 20 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
+

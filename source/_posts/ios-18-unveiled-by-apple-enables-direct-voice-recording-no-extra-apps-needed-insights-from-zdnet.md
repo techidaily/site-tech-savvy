@@ -1,7 +1,7 @@
 ---
 title: IOS 18 Unveiled by Apple Enables Direct Voice Recording, No Extra Apps Needed - Insights From ZDNet
-date: 2024-10-13T21:21:21.658Z
-updated: 2024-10-21T00:43:49.046Z
+date: 2024-10-19T21:49:56.577Z
+updated: 2024-10-26T21:13:04.423Z
 tags:
   - apple
 categories:
@@ -41,10 +41,10 @@ The major productivity concern was the limit of one MacOS display shown virtuall
 Matthew Miller/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why I returned the Meta Quest 3
@@ -72,10 +72,10 @@ Just as I was confident that the Meta Quest 3 was the headset for me, the folks 
 Matthew Miller/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why I'm sticking with the Viture One XR glasses
@@ -95,10 +95,10 @@ Matthew Miller/ZDNET
 The Viture One XR glasses still had some tricks up their sleeve. The SpaceWalker companion app, available first for iOS as more of a VR technology demonstration, is also available now for Android phones. Viture glasses also support Samsung DeX for most Samsung phones.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -137,16 +137,18 @@ There is currently no version of SpaceWalker for Windows, but the [ARMoni applic
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-a-seamless-transition-sharing-tiktok-videos-with-twitter/"><u>[Updated] A Seamless Transition Sharing TikTok Videos with Twitter</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/digital-side-hustles-and-console-revival/"><u>Digital Side Hustles & Console Revival</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evolving-tech-the-enhanced-more-affordable-ar-laptop-without-a-display-latest-updates-from-zdnet/"><u>Evolving Tech: The Enhanced, More Affordable AR Laptop Without a Display - Latest Updates From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/high-quality-mixed-reality-experience-with-lenovo-thinkreality-a3-insights-from-zdnet/"><u>High-Quality Mixed Reality Experience with Lenovo ThinkReality A3 - Insights From ZDNet</u></a></li>
-<li><a href="https://solve-help.techidaily.com/m4r-to-m4a-in-a-snap-top-strategies-for-effortless-audio-format-transformation-online-and-offline/"><u>M4R to M4A in a Snap! Top Strategies for Effortless Audio Format Transformation (Online & Offline)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resident-evil-village-tackling-the-notorious-mouse-malfunctions-for-a-seamless-experience/"><u>Resident Evil Village - Tackling the Notorious Mouse Malfunctions for a Seamless Experience</u></a></li>
-<li><a href="https://win-web.techidaily.com/simple-guide-transferring-your-data-from-an-m2-ssd-to-a-sata-ssd-with-secure-boot-support/"><u>Simple Guide: Transferring Your Data From an M2 SSD to a SATA SSD with Secure Boot Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sunday-success-unlocked-chick-fil-as-innovative-strategy-revealed/"><u>Sunday Success Unlocked: Chick-Fil-A's Innovative Strategy Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-5-features-that-make-the-legion-go-shine-at-ifa/"><u>Top 5 Features that Make the Legion Go Shine at IFA</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unitys-beta-launch-opens-doors-for-apple-vision-pro-start-creating-augmented-reality-and-virtual-reality-gaming-experiences-now/"><u>Unity's Beta Launch Opens Doors for Apple Vision Pro - Start Creating Augmented Reality & Virtual Reality Gaming Experiences Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upcoming-apple-virtual-realityaugmented-reality-glasses-the-latest-insights-and-details-unveiled/"><u>Upcoming Apple Virtual Reality/Augmented Reality Glasses: The Latest Insights and Details Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-simple-ways-to-record-and-save-your-macos-screen/"><u>[Updated] 2024 Approved Simple Ways to Record and Save Your macOS Screen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-accelerated-steps-to-unsettle-youtube-playlists-for-2024/"><u>[Updated] Accelerated Steps to Unsettle YouTube Playlists for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-through-my-daily-grind-an-honest-review-from-an-all-day-user/"><u>Apple Vision Pro Through My Daily Grind – An Honest Review From an All-Day User</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-recruitment-unveiling-6-tactics/"><u>ChatGPT for Recruitment: Unveiling 6 Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptzero-the-key-to-unmasking-ai-text-craftsmanship/"><u>GPTZero: The Key to Unmasking AI Text Craftsmanship</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1728475133582-hdd/"><u>HDD 破損した部分からデータを回復する手順と補足ガイド</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-samsung-galaxy-a24-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Samsung Galaxy A24?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/infographics-boosting-buzz-through-social-videos/"><u>Infographics Boosting Buzz Through Social Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maintain-your-iphone-13s-fresh-look-with-these-essential-accessories-suggested-by-zdnet/"><u>Maintain Your iPhone 13'S Fresh Look with These Essential Accessories, Suggested by ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-itel-s23-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Itel S23? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-time-insights-for-all-via-chatgpt/"><u>Real-Time Insights for All via ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-resetting-validity-of-user-profiles-on-win11-oses/"><u>Steps for Resetting Validity of User Profiles on Win11 OSes</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/ultimate-guide-protect-your-files-with-easy-data-backup-to-nas-and-cloud-services/"><u>Ultimate Guide: Protect Your Files with Easy Data Backup to NAS and Cloud Services</u></a></li>
 </ul></div>
 

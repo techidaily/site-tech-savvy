@@ -1,7 +1,7 @@
 ---
 title: Top Dollar for Cloud Expertise? Don't Overlook the Value of Versatile Generalist IT Professionals | ZDnet
-date: 2024-09-17 17:51:32
-updated: 2024-09-20 11:17:28
+date: 2024-10-21T21:46:30.036Z
+updated: 2024-10-26T20:30:14.761Z
 tags:
   - professional-development
 categories:
@@ -80,11 +80,31 @@ Crucially, Linthicum says the unintended consequence of specialization is that I
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-photography-for-the-masses-the-best-12-sites-offering-accessible-stock-images/"><u>[Updated] 2024 Approved Photography for the Masses - The Best 12 Sites Offering Accessible Stock Images</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-essence-of-scripting-for-film/"><u>2024 Approved The Essence of Scripting for Film</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/connect-more-smoothly-to-gpt-via-this-chrome-add-on/"><u>Connect More Smoothly to GPT via This Chrome Add-On</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-prompts-unveiling-in-the-crypto-sphere/"><u>Essential Prompts Unveiling in the Crypto Sphere</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/expert-strategies-for-customizing-windows-boot-settings/"><u>Expert Strategies for Customizing Windows Boot Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/favorite-phones-among-experts-the-top-mobile-devices-endorsed-by-zdnet-journalists/"><u>Favorite Phones Among Experts: The Top Mobile Devices Endorsed by ZDNet Journalists</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-capture-clearness-without-a-tripod-tool/"><u>In 2024, Capture Clearness Without a Tripod Tool</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolving-non-responsive-hp-printers/"><u>Resolving Non-Responsive HP Printers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-unveils-top-mp3-player-picks-expert-comparison-guide/"><u>ZDNet Unveils Top MP3 Player Picks - Expert Comparison Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

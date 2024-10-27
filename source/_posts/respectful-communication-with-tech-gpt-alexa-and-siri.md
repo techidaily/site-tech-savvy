@@ -1,7 +1,7 @@
 ---
 title: "Respectful Communication with Tech: GPT, Alexa & Siri"
-date: 2024-10-14T20:09:28.703Z
-updated: 2024-10-20T19:06:19.142Z
+date: 2024-10-21T17:11:10.394Z
+updated: 2024-10-26T23:36:00.451Z
 tags:
   - chatgpt
   - open-ai
@@ -43,16 +43,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
  For instance, if you use derogatory words when addressing [Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/), it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
@@ -60,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's [Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/), which includes a **Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the [Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -77,10 +71,16 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
@@ -92,10 +92,10 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
  On the other hand, you can [set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -123,21 +123,22 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-increase-video-engagement-with-customizable-youtube-thumbnails/"><u>[New] How to Increase Video Engagement with Customizable YouTube Thumbnails</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-epicurean-education-recipe-film-making/"><u>[New] In 2024, Epicurean Education Recipe Film-Making</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-video-upgrade-pathway-sdr-to-hdri-transformation-techniques/"><u>[New] The Ultimate Video Upgrade Pathway SDR to HDRI Transformation Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unlocking-xboxs-video-call-potential-with-zoom/"><u>[New] Unlocking Xbox's Video Call Potential with Zoom</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-engagement-with-these-10-igtv-branding-techniques-for-2024/"><u>[Updated] Elevate Engagement with These 10 IGTV Branding Techniques for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/easy-average-computation-techniques-using-microsoft-excel-tutorials/"><u>Easy Average Computation Techniques Using Microsoft Excel Tutorials</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-virtual-office-universe-a-deep-dive-into-full-time-remote-work-with-vr-technology-zdnet-insights/"><u>Exploring the Virtual Office Universe: A Deep Dive Into Full-Time Remote Work with VR Technology | ZDNet Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-work-done-efficiently-with-three-virtual-monitors-using-xr-glasses-at-a-20-off-sale-exclusive-prime-day-deal-insights-by-zdnet/"><u>Get Work Done Efficiently with Three Virtual Monitors Using XR Glasses at a 20% Off Sale, Exclusive Prime Day Deal | Insights by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-chick-fil-a-brews-sunday-success-unlocking-weekend-profits-with-innovative-strategies-techinsight/"><u>How Chick-Fil-A Brews Sunday Success: Unlocking Weekend Profits with Innovative Strategies | TechInsight</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-synthesizing-best-canon-temporal-videography/"><u>In 2024, Synthesizing Best Canon Temporal Videography</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/meta-pauses-production-of-current-and-future-quest-virtual-reality-devices-sources-confirm/"><u>Meta Pauses Production of Current & Future 'Quest' Virtual Reality Devices, Sources Confirm</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nurturing-relationships-with-technology-discover-what-an-apple-vision-pro-sales-rep-asked-about-love-for-spouses/"><u>Nurturing Relationships with Technology: Discover What an Apple Vision Pro Sales Rep Asked About Love for Spouses</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-fixes-addressing-top-youtube-short-challenges-for-2024/"><u>Quick Fixes Addressing Top YouTube Short Challenges for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-infinite-startup-issues-in-sea-of-thieves-a-step-by-step-solution/"><u>Resolving Infinite Startup Issues in Sea of Thieves - A Step-by-Step Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tired-of-traditional-workspaces-discover-how-the-metaverse-promises-a-revolution-in-future-careers-insights-from-zdnet/"><u>Tired of Traditional Workspaces? Discover How the Metaverse Promises a Revolution in Future Careers - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ar-glasses-review-ranking-the-leading-innovations-of-2/"><u>Top AR Glasses Review: Ranking the Leading Innovations of 2</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-expressive-iphone-comicals/"><u>[Updated] In 2024, Expressive iPhone Comicals</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-free-to-focused-financial-goals-the-journey-of-ajays-youtube-success/"><u>2024 Approved From Free to Focused Financial Goals The Journey of Ajay’s Youtube Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-tweeter-hashtag-monitoring-utilities-a-top-4-picks-list/"><u>Best Tweeter Hashtag Monitoring Utilities: A Top 4 Picks List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964818955-boost-your-pc-experience-download-the-microsoft-wireless-mouse-5000-drivers-today/"><u>Boost Your PC Experience - Download the Microsoft Wireless Mouse 5000 Drivers Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/dust-free-dynamics-keeping-your-console-fresh/"><u>Dust-Free Dynamics: Keeping Your Console Fresh</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/early-entry-into-apple-vision-pro-secure-your-spot-with-testflight-now-a-step-by-step-guide-by-zdnet/"><u>Early Entry Into Apple Vision Pro: Secure Your Spot with TestFlight Now! – A Step-by-Step Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-eradicated-tweets-linus-unravelled-trojan-truth-and-ais-main-mishaps-with-chatgpt/"><u>Emoji Eradicated Tweets, Linus Unravelled, Trojan Truth, and AI's Main Mishaps with ChatGPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-canon-mg3022-printer-driver-version-free/"><u>Get the Newest Canon MG3022 Printer Driver Version Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-exceptional-writer-productivity/"><u>Harnessing ChatGPT for Exceptional Writer Productivity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722721633277-maximize-your-devices-lifetime-with-chargetechs-superior-27000mah-battery-bank-reviewed/"><u>Maximize Your Device's Lifetime with ChargeTech's Superior 27000mAh Battery Bank Reviewed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/nikons-z7-breakthrough-a-mirrorless-camera-of-unparalleled-quality/"><u>Nikon's Z7 Breakthrough: A Mirrorless Camera of Unparalleled Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plotting-paths-with-the-help-of-chatgpt-for-storytellers/"><u>Plotting Paths with the Help of ChatGPT for Storytellers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-patient-engagement-through-chatgpt-innovation/"><u>Redefining Patient Engagement Through ChatGPT Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/remote-revolution-with-chatgpt-the-ultimate-guide-for-freelancers/"><u>Remote Revolution with ChatGPT: The Ultimate Guide for Freelancers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-business-strategies-with-these-five-pioneering-ai-applications/"><u>Smart Business Strategies with These Five Pioneering AI Applications</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-art-of-muting-background-sounds-in-skype/"><u>The Art of Muting Background Sounds in Skype</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dichotomy-of-digital-companions-in-therapy-and-care/"><u>The Dichotomy of Digital Companions in Therapy and Care</u></a></li>
 </ul></div>
 

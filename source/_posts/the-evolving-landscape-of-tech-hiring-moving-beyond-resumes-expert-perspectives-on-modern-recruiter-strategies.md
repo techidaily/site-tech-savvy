@@ -1,7 +1,7 @@
 ---
 title: "The Evolving Landscape of Tech Hiring: Moving Beyond Resumes | Expert Perspectives on Modern Recruiter Strategies"
-date: 2024-09-17 21:21:45
-updated: 2024-09-20 10:33:20
+date: 2024-10-23T23:27:39.505Z
+updated: 2024-10-26T21:35:25.322Z
 tags:
   - professional-development
 categories:
@@ -52,6 +52,19 @@ Four in ten (40%) recruiters polled said they regularly hire developers who don'
 
 Shifting the focus from resumes to skills also gives an opportunity for those with [non-standard job backgrounds to get into tech](https://www.zdnet.com/article/developer-jobs-when-it-comes-to-building-diverse-teams-employers-are-still-missing-the-mark/), says Richardson: "Which we need, frankly. There's such a mismatch between demand for developers or development skills and the supply of engineering graduates. Our forecasts are that the need for developers is going to grow about 15% year over year. It's crazy."
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Not dead yet
 
 While CoderPad's research indicates skills-based hiring is becoming more popular, there remains a strong demand for CVs in the hiring process.
@@ -97,11 +110,31 @@ At the same time, the blame for poor hiring decisions usually lands at the feet 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-from-fast-paced-footage-to-staggeringly-slow-motion-videos-a-comprehensive-ig-reel-guide/"><u>[Updated] In 2024, From Fast-Paced Footage to Staggeringly Slow Motion Videos A Comprehensive IG Reel Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lost-and-found-30-free-speech-to-text-mac-hits/"><u>[Updated] Lost and Found 30 Free Speech-to-Text Mac Hits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-top-15-snapchat-sharing-tactics-for-maximum-impact-for-2024/"><u>[Updated] Top 15 Snapchat Sharing Tactics for Maximum Impact for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dethroning-chatgpt-next-big-wave-of-bots/"><u>Dethroning ChatGPT: Next Big Wave of Bots</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-windows-7-bluetooth-driver-easily/"><u>Download Windows 7 Bluetooth Driver. Easily!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-fitness-routines-7-smart-gpt-tools/"><u>Enhancing Fitness Routines: 7 Smart GPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-ai-generated-content-risks/"><u>Examining AI-Generated Content Risks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-solace-in-technology-top-5-ai-tools-and-apps-for-managing-psychological-wellbeing/"><u>Find Solace in Technology: Top 5 AI Tools and Apps for Managing Psychological Wellbeing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-head-to-ground-how-for-chatgpt-post-altman/"><u>From Head to Ground: How for ChatGPT Post-Altman?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-tecno-spark-20-pro-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://ai-video.techidaily.com/in-2024-translate-live-video-making-it-possible-with-the-best-tool/"><u>In 2024, Translate Live Video Making It Possible With The Best Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-users-rejoice-get-your-hands-on-the-newly-launched-ios-18-with-device-support-details-gadgetpulse/"><u>IPhone Users Rejoice! Get Your Hands on the Newly Launched iOS 18 with Device Support Details | GadgetPulse</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/lg-launches-new-xr-headset-is-it-inspired-by-meta-quest-3-or-an-original-creation/"><u>LG Launches New XR Headset - Is It Inspired by Meta Quest ^3 or an Original Creation?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-the-potential-of-learning-best-student-centric-uses-for-chatgpt/"><u>Maximizing the Potential of Learning: Best Student-Centric Uses for ChatGPT</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-fcpx-not-working-learn-how-to-reset-and-get-back-to-editing/"><u>New In 2024, FCPX Not Working? Learn How to Reset and Get Back to Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-iphone-15-in-depth-analysis-and-why-its-a-must-have-even-for-seasoned-professionals/"><u>Unveiling the Power of iPhone 15: In-Depth Analysis & Why It's a Must-Have Even for Seasoned Professionals</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-sony-xperia-5-v-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Sony Xperia 5 V | Dr.fone</u></a></li>
+</ul></div>
+

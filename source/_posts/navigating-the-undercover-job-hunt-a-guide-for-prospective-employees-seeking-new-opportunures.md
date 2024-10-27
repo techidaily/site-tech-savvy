@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Undercover Job Hunt: A Guide for Prospective Employees Seeking New Opportunures"
-date: 2024-09-19 10:24:13
-updated: 2024-09-20 11:24:21
+date: 2024-10-24T20:35:18.308Z
+updated: 2024-10-26T20:17:35.618Z
 tags:
   - professional-development
 categories:
@@ -41,6 +41,13 @@ You may feel tempted to hint to your coworkers about your dissatisfaction with t
 
 This means you should also not post to your social media accounts or LinkedIn about your job search. Being discreet will allow you to find the right replacement job without rushing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Update your resume and LinkedIn.
 
 Take a moment to update your resume and LinkedIn, if you have not already. You'll want to put your best face forward with this new opportunity, so make sure your professional image is looking its best for new employers.
@@ -61,7 +68,27 @@ For one, it is unprofessional to do this on your current company's time. More im
 
 Only use personal devices to visit [job search sites](https://www.zdnet.com/education/professional-development/job-search-sites-for-tech/) and wait until you are home to look for work. This way you will maintain professionalism and avoid your company's scrutiny.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Prioritize networking, rather than just applying on job boards.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -102,6 +129,13 @@ Set boundaries for yourself by telling possible employers which times work and w
 **SEE:** [**Your ultimate guide to preparing for a tech job interview**](https://www.zdnet.com/education/professional-development/tech-job-interview-tips/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Keep giving your current job your best effort.
 
@@ -158,11 +192,28 @@ A positive, proactive attitude can help you overcome[new job anxiety](https://ww
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-heavy-haulers-face-off-t5-or-sjcam-s6-legend/"><u>[New] 2024 Approved Heavy Haulers Face-Off T5 or SJCAM S6 Legend?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-crafting-a-scintillating-trailer-tale/"><u>[New] Crafting A Scintillating Trailer Tale</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-perfect-and-unique-youtube-channel-names-for-professional-filmmakers-and-vloggers-no-more-than-156-characters/"><u>2024 Approved Perfect & Unique Youtube Channel Names for Professional Filmmakers & Vloggers (No More than 156 Characters)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-f25-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-upcoming-vision-pro-unveils-a-customized-selection-of-600-new-ar-apps-offering-unique-headset-functionality-techspot/"><u>Apple's Upcoming Vision Pro Unveils a Customized Selection of 600 New AR Apps, Offering Unique Headset Functionality | TechSpot</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715701255865-capture-every-moment-on-mac-free/"><u>Capture Every Moment on Mac, FREE!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/da-vinci-reimagined-the-most-inspiring-prompts-by-ai/"><u>Da Vinci Reimagined: The Most Inspiring Prompts by AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-to-follow-guide-to-setup-microsoft-copilot-on-macs/"><u>Easy-to-Follow Guide to Setup Microsoft Copilot on Macs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forefront-vs-chatgpt-which-has-the-greater-smarts/"><u>Forefront vs ChatGPT – Which Has the Greater Smarts?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2x-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo T2x 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-master-mac-gif-archiver/"><u>In 2024, Master Mac GIF Archiver</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-animations-in-the-classroom-top-picks/"><u>New In 2024, Animations in the Classroom Top Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-iphone-12-and-12-pro-cases-in-202e-reviews-by-tech-experts-zdnet/"><u>Ultimate Guide to iPhone 12 and 12 Pro Cases in 202E | Reviews by Tech Experts - ZDNET</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/whimseypixels-mememakerspace-for-2024/"><u>WhimseyPixels MemeMakerSpace for 2024</u></a></li>
+</ul></div>
+

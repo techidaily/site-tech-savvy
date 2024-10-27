@@ -1,7 +1,7 @@
 ---
 title: "Shifting Paths: Essential Strategies for Moving From Hospitality to Technology Careers with Expert Insights"
-date: 2024-09-19 13:56:58
-updated: 2024-09-20 12:10:50
+date: 2024-10-22T18:23:51.186Z
+updated: 2024-10-26T22:42:21.037Z
 tags:
   - professional-development
 categories:
@@ -33,6 +33,13 @@ Customers have needs and problems requiring quick solutions in both the tech wor
 ## Technical roles available to former food service workers in tech
 
 The right tech role for you depends on your particular education, skills, and previous experience. Job requirements vary by position. Food service workers may be closer than they think to a [tech job with no degree](https://www.zdnet.com/education/computers-tech/tech-jobs-no-degree/) requirement.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Computer support specialist
 
@@ -80,6 +87,13 @@ Web developers design and maintain websites using HTML and other programming lan
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Non-technical roles available to former food services workers in tech
 
 If you're looking for a non-programming role in tech, you still have many options. Eligibility for these jobs depends on your particular education, skills, and previous experience. A bachelor's degree in any subject satisfies the education requirements for many of these roles. 
@@ -120,6 +134,19 @@ A customer support specialist and customer success specialist may sound like the
 
 A procurement specialist sources goods or services for a company. They need to anticipate and satisfy the company's needs. Procurement specialists spend most of their time negotiating and contracting. Someone with a business, finance, or [economics degree](https://www.zdnet.com/education/business-management/best-online-economics-degree/) or background may be a good fit for this role. 
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to get into tech from food services: Top tips
 
 Considering switching to tech? The following steps will help guide you into your new career. Research your perfect role and its requirements to prepare yourself for success.
@@ -149,6 +176,13 @@ No matter what tech job you're looking for, a well-crafted portfolio may set you
 Interviewing for a tech job doesn't need to be nerve-racking. Tech interviews are generally similar to other interviews. Your interviewer may ask familiar questions about your interests, strengths and weaknesses, and why you want to work for the company.
 
 Many companies follow a similar interview process of an initial phone screener followed by a technical interview that may include coding tasks. Use our handy guides to [phone interview tips](https://www.zdnet.com/education/interview-tips-recent-grads/) and [computer science interview questions](https://www.zdnet.com/education/computer-science/common-computer-science-interview-questions/) to help prepare you for anything.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## In conclusion
 
@@ -185,11 +219,29 @@ _Last reviewed March 31, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pc-screenshot-wizardry-unveiling-apowersoft-screen-recorder/"><u>[New] PC Screenshot Wizardry Unveiling Apowersoft Screen Recorder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-a-social-storytellers-playbook-maximizing-video-impact-on-fb/"><u>[Updated] 2024 Approved A Social Storyteller’s Playbook Maximizing Video Impact on FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-5-homemade-shot-strategies-the-fastest-hacks-you-need/"><u>[Updated] Top 5 Homemade Shot Strategies – The Fastest Hacks You Need</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/back-to-school-bargains-await-unveiling-samsungs-student-deals-on-laptops-and-tablets-spotted/"><u>Back-to-School Bargains Await! Unveiling Samsung's Student Deals on Laptops & Tablets, Spotted</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-rules-for-ais-code/"><u>Crafting Rules for AI's Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enjoy-apples-cutting-edge-3d-experience-with-meta-quest-3-tutorial-zdnet/"><u>Enjoy Apple's Cutting-Edge 3D Experience with Meta Quest 3 - Tutorial | Zdnet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/laughter-labyrinths-by-ai-exploring-digital-jest/"><u>Laughter Labyrinths by AI: Exploring Digital Jest</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480442679-lost-connection-between-iphone-and-computer-try-these-fixes/"><u>Lost Connection Between iPhone and Computer? Try These Fixes!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-showdown-decoding-your-needs-to-select-between-macbook-pro-and-air-insights-from-zdnet/"><u>MacBook Showdown: Decoding Your Needs to Select Between MacBook Pro & Air | Insights From ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/polity-playground-quintessential-politic-simulators-review-for-2024/"><u>Polity Playground Quintessential Politic Simulators Review for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-apple-watchs-endurance-top-8-configurations-for-extended-battery-performance-insights-from-zdnet/"><u>Revolutionize Your Apple Watch's Endurance: Top 8 Configurations for Extended Battery Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/swift-restoration-of-photos-viewer-performance-in-windows-10/"><u>Swift Restoration of Photos Viewer Performance in Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-affordable-gamers-keyboard-selection/"><u>Top Affordable Gamers' Keyboard Selection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncomplicated-gpt-or-plugin-boosted-chat-interactions-your-call/"><u>Uncomplicated GPT Or Plugin-Boosted Chat Interactions? Your Call</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-fixing-communication-hurdles-with-plugins/"><u>Unlocking Potential: Fixing Communication Hurdles with Plugins</u></a></li>
+</ul></div>
+

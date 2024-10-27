@@ -1,7 +1,7 @@
 ---
 title: Communicate Instantly with ChatGPT
-date: 2024-09-21T18:10:18.236Z
-updated: 2024-09-22T17:01:43.441Z
+date: 2024-10-21T23:27:32.276Z
+updated: 2024-10-26T22:07:06.110Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ Close
 
 **Download:** ChatGPT for [iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) | [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -61,9 +68,30 @@ Close
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -90,12 +118,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-pioneering-techniques-for-popularizing-youtube-videos/"><u>[New] 2024 Approved Pioneering Techniques for Popularizing YouTube Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-capture-and-complement-expert-choices-for-frame-integrating-sites-for-2024/"><u>[New] Capture & Complement Expert Choices for Frame-Integrating Sites for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-navigate-to-facebooks-recently-viewed-videos/"><u>[Updated] In 2024, Navigate to Facebook's Recently Viewed Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screen-capture-central-apowsort-vs-alternatives-explored/"><u>[Updated] In 2024, Screen Capture Central Apowsort vs Alternatives Explored</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-latest-tricks-for-ios-screenshots-and-recording/"><u>[Updated] Latest Tricks for iOS Screenshots & Recording</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leveraging-youtubes-tagging-system-for-enhanced-visibility/"><u>[Updated] Leveraging YouTube's Tagging System for Enhanced Visibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-to-use-imessages-on-a-windows-computer-tech-tips/"><u>Easy Steps to Use iMessages on a Windows Computer | Tech Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-the-ios-181-preview-release-leveraging-apples-new-ai-capabilities-get-started-today-zdnet/"><u>Experience the IOS 18.1 Preview Release: Leveraging Apple's New AI Capabilities | Get Started Today | ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-xcover-7-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy XCover 7 Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-huggingchat-the-free-collaborative-ai-chat-platform/"><u>Inside HuggingChat: The Free, Collaborative AI Chat Platform</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-compatibility-challenges-keeping-your-after-effects-stable-on-windows-11-and-10/"><u>Overcoming Compatibility Challenges: Keeping Your After Effects Stable on Windows 11 & 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restoring-access-to-netflix-entertainment-on-xbox-one-gaming-console/"><u>Restoring Access to Netflix Entertainment on Xbox One Gaming Console</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-computing-navigating-the-top-5-game-changing-ai-innovations/"><u>Revolutionizing Computing: Navigating the Top 5 Game-Changing AI Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-employment-consequence-of-adopting-chatgpt-in-businesses/"><u>The Employment Consequence of Adopting ChatGPT in Businesses</u></a></li>
+</ul></div>
 

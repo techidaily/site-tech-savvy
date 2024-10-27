@@ -1,7 +1,7 @@
 ---
 title: "AI's Detective Blind Spots: An Urgent Warning"
-date: 2024-10-15T17:09:17.914Z
-updated: 2024-10-21T03:03:32.786Z
+date: 2024-10-20T16:12:03.330Z
+updated: 2024-10-26T20:59:36.466Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,10 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  This sounds great on paper, but if you've ever used an AI detection tool, you know very well they are hit-and-miss, to put it mildly. More often than not, they detect human-written content as AI, or text created by human beings as AI-generated. In fact, some are embarrassingly bad at what they're supposed to do.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Accurate Are AI Content Detectors?
@@ -48,10 +48,10 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 ![Writer.com's AI content detector, screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-detector-writer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So, writer.com has got it wrong.
@@ -63,10 +63,10 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  But it's not just educators and teachers who have reason for concern: everyone does. As AI-generated text becomes ubiquitous, being able to differentiate between what's "real" and what isn't, [i.e. actually spotting when something's written by AI](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/), will become more difficult. This will have a massive impact on virtually all industries and areas of society, even personal relationships.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI's Implications for Cybersecurity and Privacy
@@ -83,6 +83,13 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 
  If there is indeed an arms race between generative AI and content detectors, the former is winning. What's worse, there seems to be no solution. All we have our half-baked products that don't even work half the time, or can be tricked very easily.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Detect AI Content: Potential Solutions
 
  That we currently don't seem to have real answers to this problem doesn't mean we won't have any in the future. In fact, there are already several serious proposals that could work. Watermarking is one.
@@ -92,13 +99,6 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  In fact, back in 2022, [University of Maryland](https://today.umd.edu/umd-researchers-create-unremovable-watermark-to-secure-intellectual-property-in-age-of-ai) researchers developed a new watermarking method for artificial neural networks. Lead researcher Tom Goldstein said at the time that his team had managed to "prove mathematically" that their watermark cannot be removed entirely.
 
  For the time being, what a regular person can do is rely on their instincts and common sense. If there is something off about the content you're reading—if it feels unnatural, repetitive, unimaginative, banal—it might have been created by software. Of course, you should also verify any information you see online, double-check the source, and stay away from shady websites.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The AI Revolution Is Underway
 
@@ -123,18 +123,14 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-the-art-of-tiktok-expression-top-7-emoji-guide-for-2024/"><u>[New] Mastering the Art of TikTok Expression Top 7 Emoji Guide for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-10-roguelike-or-roguelite-games/"><u>[Updated] Top 10 Roguelike or Roguelite Games</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-elevating-your-instagram-presence-with-optimized-video-sizes/"><u>2024 Approved Elevating Your Instagram Presence with Optimized Video Sizes</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-fbs-viral-hits-10-songs-that-scored-big/"><u>2024 Approved Mastering FB's Viral Hits - 10 Songs That Scored Big</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-the-course-top-8-reasons-for-teacher-ai-synergy/"><u>Charting the Course: Top 8 Reasons for Teacher-AI Synergy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-ais-vulnerability-prompt-injection-attacks-explained/"><u>Decoding AI's Vulnerability: Prompt Injection Attacks Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exposing-gpt-powered-dialogue-safe-link-sharing/"><u>Exposing GPT-Powered Dialogue: Safe Link Sharing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-compatible-brother-hl-c2240-driver-on-windows-systems/"><u>Get the Most Recent Compatible Brother HL-C2240 Driver on Windows Systems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/make-it-loop-10-best-free-online-video-looping-platforms-for-2024/"><u>Make It Loop 10 Best Free Online Video Looping Platforms for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-utmarkta-redigerar-utgifter-for-spridande-av-din-online-och-offline-videoomslutning/"><u>Top 5 Utmärkta Redigerar Utgifter För Spridande Av Din Online- Och Offline Videoomslutning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-hidden-gems-how-the-349-ipad-stole-the-show-at-apples-latest-launch-extravaganza-insights/"><u>Unlocking Hidden Gems: How the $349 iPad Stole the Show at Apple's Latest Launch Extravaganza - Insights</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/what-is-ai-background-generator-for-2024/"><u>What Is AI Background Generator for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-innovative-approaches-applying-luts-in-photoshop-cc-post-processing/"><u>2024 Approved Innovative Approaches Applying LUTs in Photoshop CC Post-Processing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-development-constrained-governments-4-regulatory-strategies/"><u>AI Development Constrained: Governments' 4 Regulatory Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-creation-the-new-era-of-digital-storytelling/"><u>AI-Powered Creation: The New Era of Digital Storytelling</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-video-playback-with-youtubes-latest-feature-av1/"><u>Elevate Video Playback with YouTube's Latest Feature - AV1</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/high-tech-titans-discussing-tomorrows-ai/"><u>High-Tech Titans Discussing Tomorrow's AI</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/y-compensated-online-visionary-creator-for-2024/"><u>Highly Compensated Online Visionary Creator for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-natural-filmmaking-compiling-the-best-free-screen-templates-for-cinephiles/"><u>In 2024, Natural Filmmaking Compiling the Best Free Screen Templates for Cinephiles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-weeks-iphone-owners-meet-the-must-have-anker-charging-accessories-zdnet/"><u>Next Week's iPhone Owners, Meet the Must-Have Anker Charging Accessories! | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-black-screen-problems-in-destiny-2/"><u>Troubleshooting Black Screen Problems in Destiny 2</u></a></li>
 </ul></div>
 

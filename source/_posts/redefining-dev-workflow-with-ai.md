@@ -1,7 +1,7 @@
 ---
 title: Redefining Dev Workflow with AI
-date: 2024-10-13T19:55:59.165Z
-updated: 2024-10-20T22:01:02.283Z
+date: 2024-10-23T22:29:47.767Z
+updated: 2024-10-26T18:50:00.821Z
 tags:
   - chatgpt
   - open-ai
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
 
  The views on AI differ based on the profession and the level of experience of the developer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Profession
 
  SREs, security professionals, and game developers have unfavorable views on AI. This is possible because of security concerns brought about by feeding code or sensitive information to AI systems.
@@ -52,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
  For cloud developers, AI can help optimize infrastructure management by automating processes such as resource allocation, load balancing, monitoring, and performance tuning.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Experience
@@ -63,19 +56,6 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
  Developers earlier in their careers and those learning to code are more likely to use AI tools possibly because it improves the speed of learning.
 
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Countries
 
@@ -96,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  AI is beneficial to professional developers as well as those learning to code. Overall 33% see an increase in productivity as the most important benefit of using AI. Tools such as GitHub Copilot offer features like code suggestions, auto-completion, and error detection, which can significantly speed up the coding process.
@@ -116,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
  Among the AI search tools, ChatGPT is the most popular tool. 79% of developers who use it want to use it again next year. Following closely behind in popularity were Bing AI and Google Bard AI.
@@ -127,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
  GitHub Copilot is the most popular AI coding assistant. 70% + respondents who worked with GitHub Copilot want to work with it again. Additionally, 59%+ of Tabnine users and 50% of AWS Code Whisperer users want to use GitHub Copilot.
 
  This slow adoption of a wide variety of AI tools can be attributed to skepticism about AI accuracy with only 2.85% of developers highly trusting AI output. This distrust can be attributed to tools like ChatGPT providing incorrect output sometimes. This output, when used, can cause significant damage to an application. When using these tools, it's always a good idea to first verify the output.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Get Started With AI in Software Development
 
@@ -153,17 +147,24 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-the-garmin-ultra-30-in-action-an-in-depth-exploration/"><u>[New] The Garmin Ultra 30 in Action An In-Depth Exploration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-solution-how-xr-glasses-beat-apples-vision-pro-and-eliminate-fomo-for-less-a-deep-dive-on-zdnet/"><u>Affordable Solution: How XR Glasses Beat Apple's Vision Pro and Eliminate FOMO for Less - A Deep Dive on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-most-advanced-ar-headsets-a-comprehensive-guide/"><u>Exploring the Most Advanced AR Headsets – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-value-proposition-why-this-economical-and-functional-xr-entertainment-platform-outshines-others-uncovered-by-zdnet/"><u>Exploring the Value Proposition: Why This Economical and Functional XR Entertainment Platform Outshines Others | Uncovered by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/managing-enterprise-devices-with-the-apple-vision-pro-a-comprehensive-guide-tech-insights/"><u>Managing Enterprise Devices with the Apple Vision Pro: A Comprehensive Guide - Tech Insights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimal-live-streaming-scenery-ideas-for-2024/"><u>Optimal Live Streaming Scenery Ideas for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ng-up-content-convert-youtube-to-igtv-for-2024/"><u>Scaling Up Content Convert YouTube to IGTV for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-6-best-tools-to-stress-test-your-gpu-on-windows/"><u>The 6 Best Tools to Stress Test Your GPU on Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-current-standing-of-samsung-galaxy-tab-s3-an-updated-consumer-guide/"><u>The Current Standing of Samsung Galaxy Tab S3 - An Updated Consumer Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-xr-headsets-for-boosting-work-efficiency-and-enhancing-travel-experience-now-feature-new-improvements-tech-news-on-zdnet/"><u>Top XR Headsets for Boosting Work Efficiency & Enhancing Travel Experience Now Feature New Improvements | Tech News on ZDNet</u></a></li>
-<li><a href="https://solve-help.techidaily.com/ultimate-guide-bluetti-ac200l-solar-generator-survival-kit-your-emergency-energy-solution/"><u>Ultimate Guide: Bluetti AC200L Solar Generator Survival Kit - Your Emergency Energy Solution!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-windows-movie-maker-handbook-tips-tricks-and-techniques/"><u>Updated 2024 Approved The Ultimate Windows Movie Maker Handbook Tips, Tricks, and Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-quick-and-reliable-vimeo-file-retrievers/"><u>[New] 2024 Approved Quick and Reliable Vimeo File Retrievers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-comprehensively-conquering-hp-notebook-screen-recording-techniques-for-2024/"><u>[New] Comprehensively Conquering HP Notebook Screen Recording Techniques for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-profound-analysis-of-morphvox-technology-and-its-role-in-audio-modification/"><u>[Updated] 2024 Approved Profound Analysis of MorphVOX Technology and Its Role in Audio Modification</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-achieving-realistic-blur-on-images-using-photoshop-techniques/"><u>[Updated] Achieving Realistic Blur on Images Using Photoshop Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-in-mind-management-boon-or-bane/"><u>AI in Mind Management: Boon or Bane?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/compressez-et-convertissez-facilement-votre-fichier-mp4-au-format-aac-gratuitement-avec-des-outils-en-ligne-movevivi/"><u>Compressez Et Convertissez Facilement Votre Fichier MP4 Au Format AAC Gratuitement Avec Des Outils en Ligne - MoveVivi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/custom-ringtone-ideas-for-christian-lifestyle/"><u>Custom Ringtone Ideas for Christian Lifestyle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/determining-your-ideal-chatgpt-mode-plain-or-packaged/"><u>Determining Your Ideal ChatGPT Mode: Plain or Packaged</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-side-hustles-and-console-revival/"><u>Digital Side Hustles & Console Revival</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-gpts-latest-marvels-focus-on-crucial-enhancements/"><u>Discover GPT's Latest Marvels: Focus on Crucial Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excel-automation-unlocked-with-three-key-chatgpt-tools/"><u>Excel Automation Unlocked with Three Key ChatGPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fraudulent-chatgpt-adapter-captures-fb-passwords/"><u>Fraudulent ChatGPT Adapter: Captures FB Passwords</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-finalcut-pro-elevating-your-youtube-edits-from-good-to-great/"><u>In 2024, FinalCut Pro Elevating Your YouTube Edits From Good to Great</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-organization-with-mematics-toolkit/"><u>In 2024, Master Organization with Mematic's Toolkit</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/indispayer-concerns-in-refurbished-electronics-purchase/"><u>Indispayer Concerns in Refurbished Electronics Purchase</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-how-to-add-and-modify-audio-keyframes-in-final-cut-pro-x-for-2024/"><u>New How to Add and Modify Audio Keyframes in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-new-realities-with-apples-spatial-videos-now-streamable-on-your-oculus-meta-quest-3-tips-and-tricks-virtualtech-today/"><u>Step Into New Realities with Apple’s Spatial Videos, Now Streamable on Your Oculus Meta Quest 3 - Tips & Tricks | VirtualTech Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-desired-visionos-enhancements-what-apple-should-reveal-at-wwdc-insights-from-tech-experts-zdnet/"><u>Top 10 Desired VisionOS Enhancements: What Apple Should Reveal at WWDC - Insights From Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-18-unbeatable-prime-day-bargains-on-laptops-from-leading-brands-like-hp-apple-and-razer-exclusive-listings-by-zdnet/"><u>Top 18 Unbeatable Prime Day Bargains on Laptops From Leading Brands Like HP, Apple & Razer - Exclusive Listings by ZDNet!</u></a></li>
 </ul></div>
 

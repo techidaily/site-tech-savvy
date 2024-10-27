@@ -1,7 +1,7 @@
 ---
 title: "Guarding Your Digital Footprint: Essential Bot Risks Revealed"
-date: 2024-10-20T01:20:54.334Z
-updated: 2024-10-20T22:32:16.305Z
+date: 2024-10-25T16:53:42.886Z
+updated: 2024-10-26T18:14:47.455Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
 
  But the concerns don't stop here.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How Does ChatGPT Learn?
 
  In order to provide information, large language models are trained with huge amounts of data. According to [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3), ChatGPT-4 alone was fed 300 billion words of information during its training period. This isn't taken straight from a few encyclopedias. Rather, chatbot developers use masses of information from the internet to train their models. This can include data from books, movies, articles, Wikipedia entries, blog posts, comments, and even review sites.
@@ -55,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
@@ -80,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Data Theft
@@ -99,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Malware Infection
@@ -114,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
  In general, you should never click on any links a chatbot provides before [running it through a link-checking website](https://www.makeuseof.com/tag/4-quick-sites-that-let-you-check-if-links-are-safe/). This may seem irritating, but it's always best to be sure that the site you're being led to doesn't have a malicious design.
 
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Chatbots Aren't Impervious to Privacy Issues
 
@@ -149,24 +149,24 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-comedy-collection-a-1992-review-of-the-goofys/"><u>[New] 'Comedy Collection' A 1992 Review of The Goofys</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-building-your-first-channel-essential-video-gear-list/"><u>[New] 2024 Approved Building Your First Channel Essential Video Gear List</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-10-gps-drones-that-follow-you/"><u>[New] Top 10 GPS Drones That Follow You</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-videography-secrets-leveraging-strikethrough-for-impactful-edits/"><u>[Updated] 2024 Approved Videography Secrets Leveraging Strikethrough for Impactful Edits</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-best-free-online-solutions-for-instantaneous-gif-conversion/"><u>2024 Approved Best Free Online Solutions For Instantaneous GIF Conversion</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-official-nvidia-drivers-for-your-rtx-1080-on-windows-11/"><u>Easy Guide to Downloading Official NVIDIA Drivers for Your RTX 1080 on Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-of-sandisk-drivers-on-windows-10-guide-and-free-download/"><u>Effortless Installation of SanDisk Drivers on Windows 10: Guide & Free Download</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-itel-p55-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Itel P55 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-sony-reigning-supremely-with-their-latest-summer-ready-portable-speakers-our-in-depth-analysis-zdnet/"><u>Is Sony Reigning Supremely with Their Latest Summer-Ready Portable Speakers? Our In-Depth Analysis | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/labor-day-deal-alert-snag-the-blink-outdoor-4-camera-system-and-floodlight-combo-at-an-unbeatable-price-of-80/"><u>Labor Day Deal Alert: Snag the Blink Outdoor 4-Camera System & Floodlight Combo at an Unbeatable Price of $80!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/labor-day-exclusive-snag-the-blink-mini-2-security-camera-at-a-whopping-25-off-unmatched-deal-of-the-season/"><u>Labor Day Exclusive: Snag the Blink Mini 2 Security Camera at a Whopping 25% Off - Unmatched Deal of the Season!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/massive-philips-hue-discount-alert-save-up-to-56-off-on-amazons-latest-offer-insightful-review-by-zdnet/"><u>Massive Philips Hue Discount Alert! Save up to 56% Off on Amazon's Latest Offer - Insightful Review by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/on-deck-unbeatable-offers-on-arlo-pro-5s-your-dream-security-system-awaits/"><u>On Deck! Unbeatable Offers on Arlo Pro 5S – Your Dream Security System Awaits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smart-sprinkler-controllers-reviewed-the-leading-choices-for-your-garden-in-2s22-comprehensive-guide-on-zdnet/"><u>Smart Sprinkler Controllers Reviewed: The Leading Choices for Your Garden in 2S22 | Comprehensive Guide on ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-high-performance-coolers-reviewed-insights-from-zdnet/"><u>Top 5 High-Performance Coolers Reviewed - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-must-have-party-essentials-for-unforgettable-outdoor-celebrations-insights-from-zdnet/"><u>Top 6 Must-Have Party Essentials for Unforgettable Outdoor Celebrations - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-entry-level-portable-power-bank-a-comprehensive-review-of-ecoflow-river-3-highly-recommended-by-tech-expert-on-zdnet/"><u>Top Entry-Level Portable Power Bank: A Comprehensive Review of EcoFlow River 지스 3 - Highly Recommended by Tech Expert on ZDNet</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-ten-youtube-regulations-to-abide-by-for-2024/"><u>Top Ten YouTube Regulations to Abide By for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-access-unlimited-mcb-theme-images-for-2024/"><u>[New] Access Unlimited MCB Theme Images for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-metrics-mastery-gain-more-followers/"><u>[New] In 2024, Instagram Metrics Mastery - Gain More Followers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-viral-victory-restoring-your-facebook-space-for-2024/"><u>[Updated] Viral Victory Restoring Your Facebook Space for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-creating-an-iphone-photo-mosaic-a-step-by-step-guide/"><u>2024 Approved Creating an iPhone Photo Mosaic A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/airpods-pro-2-with-hearing-aid-capabilities-enjoy-an-exclusive-24-discount-today-see-whats-trending/"><u>AirPods Pro 2 with Hearing Aid Capabilities: Enjoy an Exclusive 24% Discount Today - See What's Trending</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-visionary-leap-introducing-a-domestic-robotic-companion-explores/"><u>Apple's Visionary Leap: Introducing a Domestic Robotic Companion Explores</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capture-and-share-the-discord-live-stream-method-for-2024/"><u>Capture and Share The Discord Live Stream Method for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/coding-mavericks-unite-apple-enhances-developer-toolkit-with-gratis-ai-upgrade-discover-more/"><u>Coding Mavericks Unite! Apple Enhances Developer Toolkit with Gratis AI Upgrade - Discover More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-integrity-in-ai-generated-content/"><u>Ensuring Integrity in AI-Generated Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excels-versatility-in-data-analysis-beyond-chatbot-capabilities/"><u>Excel’s Versatility in Data Analysis, Beyond Chatbot Capabilities</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-pioneering-youtube-success-stories-via-tubebuddy/"><u>In 2024, Pioneering YouTube Success Stories via TubeBuddy</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-poco-x5-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Poco X5 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-ankers-tactical-lighting-solution-for-harsh-environments/"><u>In-Depth Analysis of Anker's Tactical Lighting Solution for Harsh Environments</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/insta-tiktik-mastery-uniting-two-social-giants-for-2024/"><u>Insta-TikTik Mastery Uniting Two Social Giants for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneer-personal-text-artistry-with-openais-curated-gpt-shops/"><u>Pioneer Personal Text Artistry with OpenAI's Curated GPT Shops!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-gpt-from-keeping-tabs-on-your-dialogues/"><u>Preventing GPT From Keeping Tabs on Your Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-or-enhanced-your-preferred-chatgpt-experience/"><u>Simple or Enhanced: Your Preferred ChatGPT Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-truth-in-digital-health-guidance-fact-check-tips/"><u>Unveiling the Truth in Digital Health Guidance: Fact-Check Tips</u></a></li>
 </ul></div>
 

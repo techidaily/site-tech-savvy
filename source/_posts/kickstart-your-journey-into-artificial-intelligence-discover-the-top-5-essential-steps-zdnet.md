@@ -1,7 +1,7 @@
 ---
 title: "Kickstart Your Journey Into Artificial Intelligence: Discover the Top 5 Essential Steps | ZDNet"
-date: 2024-09-19 19:57:29
-updated: 2024-09-20 12:21:38
+date: 2024-10-19T18:51:44.762Z
+updated: 2024-10-26T19:35:12.184Z
 tags:
   - professional-development
 categories:
@@ -97,6 +97,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Train yourself
 
 But, Rick says he doesn't know the AI field. He doesn't know the business of AI (all the players, how they relate, their competitive landscape). He doesn't really know how it all works. And he's never done any actual AI work. 
@@ -143,6 +150,13 @@ Speaking of that, especially for our product marketing friend Rick, find an AI K
 
 Now, here's the trick that will better help you move the job needle: Agree to do these services in return for giving you a title associated with the company. It doesn't have to be a line title, like "marketing manager." It can simply be "advisor." The point is, you want to be able to legitimately list on your LinkedIn profile something like, "Advisor, Happy Valley AI Enterprises," or something similar. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Give it six months 
 
 I know. Now that you've decided you want to transition into AI, you want the gig tomorrow. Well, pal, that's not going to happen. But if you give yourself six months, and you work it seriously, you'll have a pretty good chance of moving into this new field. 
@@ -155,6 +169,13 @@ The point here is that by the end of six months, make it so that AI isn't this n
 
 That way, by the end of the six months, you're not asking to "move into AI," but to "use your AI skills and knowledge in the AI field." That'll come across as much more powerful to hiring managers.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to consider when working in AI 
 
 A career in AI could be rewarding for a number of reasons. You get to help push the limits of technology almost into the realm of science fiction. AI is definitely the new hotness, so it's in high demand. That, in turn, means those with strong AI credentials can demand competitive salaries. In some cases, the work also can make a big impact across the board, and it's undeniably exciting.
@@ -164,6 +185,13 @@ A career in AI could be rewarding for a number of reasons. You get to help push 
 But keep in mind that a career in AI also comes with challenges. It's a moving target, so you need to be learning constantly and your skills could prove to be out of date six months after you learned them. There are tremendous ethical concerns and missteps that are possible at every stage along the value chain. Because the field is moving so fast, it's also likely to be a very high pressure career. And, of course, there's the question of job security. Will you engineer yourself right out of a job as you integrate AI into your organization?
 
 There. That'll get you thinking. Good luck.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Let us know how it goes
 
@@ -194,11 +222,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ice-skates-and-epochs-a-look-at-beijings-olympic-saga-2022/"><u>[New] In 2024, Ice Skates & Epochs A Look at Beijing's Olympic Saga, 2022</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ropel-your-online-presence-via-creator-studio-for-2024/"><u>[New] Propel Your Online Presence via Creator Studio for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-make-your-own-youtube-opening-and-closing-graphics/"><u>[Updated] 2024 Approved Make Your Own YouTube Opening & Closing Graphics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-elevate-your-channel-identity-essential-youtube-naming-strategies/"><u>[Updated] In 2024, Elevate Your Channel Identity Essential YouTube Naming Strategies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-14-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 14 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-newest-contenders-how-does-the-m3-macbook-air-stack-up-against-its-predecessor-the-m2-tech-analysis-by-zdnet/"><u>Apple's Newest Contenders: How Does the M3 MacBook Air Stack Up Against Its Predecessor, The M2? | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/counteracting-ai-mimicry-with-nightshades-artistic-shield/"><u>Counteracting AI Mimicry with Nightshade's Artistic Shield</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gauging-cgps-truthfulness-in-health-advice/"><u>Gauging CGP’s Truthfulness in Health Advice</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oppo-a1-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Oppo A1 5G without App | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-of-ai-driven-prompt-crafting-and-career-prospects/"><u>Navigating the Future of AI-Driven Prompt Crafting & Career Prospects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rapid-rise-unveiled-why-chatgpt-leapt-in-popularity/"><u>Rapid Rise Unveiled: Why ChatGPT Leapt in Popularity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-complete-process-of-transferring-gpt-data/"><u>The Complete Process of Transferring GPT Data</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-s23plus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy S23+ Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-infinix-hot-40-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Infinix Hot 40 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-macbook-enhancements-comprehensive-reviews-and-comparisons-by-tech-experts-digital-trends/"><u>Top-Rated MacBook Enhancements : Comprehensive Reviews & Comparisons by Tech Experts | Digital Trends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-top-6-ai-applications-in-note-taking-excellence/"><u>Unveiling the Top 6 AI Applications in Note-Taking Excellence</u></a></li>
+</ul></div>
+

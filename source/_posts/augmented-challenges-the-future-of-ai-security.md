@@ -1,7 +1,7 @@
 ---
 title: "Augmented Challenges: The Future of AI Security"
-date: 2024-10-16T17:10:14.310Z
-updated: 2024-10-21T01:37:56.031Z
+date: 2024-10-20T18:58:29.459Z
+updated: 2024-10-26T19:20:52.422Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
 ![Accessing the Open-Source Codes of HuggingFace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/huggingface-open-source-codes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Jailbreaking Prompts Trick LLMs
 
  AI is inherently amoral. It doesn’t understand right and wrong—even advanced systems follow training instructions, guidelines, and datasets. They merely recognize patterns.
@@ -55,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 ![Jailbreaking ChatGPT With DAN Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dan-jailbreak-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here’s ChatGPT with a bold yet false statement.
@@ -66,23 +73,10 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 ![ChatGPT Making Baseless Predictions About Bitcoin Prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-predicting-bitcoin-prices.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AI Compromises Security for Versatility
@@ -95,16 +89,16 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
 ![ChatGPT Roleplaying as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tomie-roleplays.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And here’s Bing Chat refusing to play an “immoral” persona.
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. New Generative AI Tools Hit the Market Regularly
 
@@ -122,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
  While OpenAI quickly resolved the issue, it emphasizes the importance of system regulation and risk management. AI is maturing faster than anyone anticipated. Even tech leaders worry that this superintelligent technology could cause massive damage in the wrong hands.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. AI Is Still Evolving
 
 ![ChatGPT, Bard, Bing, and Snapchat AI Logos Side by Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/different-ai-logos.jpg)
@@ -131,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
  Although they may be innovative, experimental features also create new issues. [High-profile mishaps with machine learning technologies](https://www.makeuseof.com/examples-machine-learning-artificial-intelligence-went-wrong/) range from flawed Google SERPs to biased chatbots spitting racial slurs.
 
  Of course, developers can fix these issues. Just note that crooks won’t hesitate to exploit even seemingly harmless bugs—some damages are irreversible. So be careful when exploring new platforms.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Many Don’t Understand AI Yet
 
@@ -182,22 +176,24 @@ thumbnail: https://thmb.techidaily.com/6ea42b82e55f6c668ff7a393a7539803912a1c23e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-definitive-2023-bandicam-handbook-for-gamers/"><u>[New] 2024 Approved The Definitive 2023 Bandicam Handbook for Gamers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-optimize-your-videos-with-these-top-rated-editor-suites/"><u>[New] Optimize Your Videos with These Top-Rated Editor Suites</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-proactive-measures-to-save-and-secure-your-classroom-talks-on-macos-for-2024/"><u>[Updated] Proactive Measures to Save and Secure Your Classroom Talks on MacOS for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-new-voice-mastering-prompt-and-command-interactions/"><u>ChatGPT's New Voice: Mastering Prompt and Command Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/critical-factors-decide-on-integrating-ai-like-chatgpt-into-therapy/"><u>Critical Factors: Decide on Integrating AI Like ChatGPT Into Therapy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/differentiating-authentic-and-erroneous-machine-learning-outputs/"><u>Differentiating Authentic and Erroneous Machine Learning Outputs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/geminis-landmark-achievement-1m-tokens-reimagined/"><u>Gemini's Landmark Achievement: $1M Tokens Reimagined</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-ais-evolving-cybersecurity-landscape/"><u>Generative AI's Evolving Cybersecurity Landscape</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebooks-most-popular-video-gems-uncovered/"><u>In 2024, Facebook's Most Popular Video Gems Uncovered</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-flawless-cross-sound-mixing-in-audacity-pro/"><u>In 2024, Flawless Cross-Sound Mixing in Audacity Pro</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-premier-mp4-broadcast-suite/"><u>In 2024, Premier MP4 Broadcast Suite</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instant-communication-using-rtx-ai-on-your-computer/"><u>Instant Communication: Using RTX AI on Your Computer</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/izing-engagement-10-tips-for-stellar-yt-shorts-content/"><u>Maximizing Engagement 10 Tips for Stellar YT Shorts Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/silence-zoom-distortion-swift-remedies-unveiled-for-2024/"><u>Silence Zoom Distortion Swift Remedies Unveiled for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasking-health-fallacies-in-chatgpt-recommendations/"><u>Unmasking Health Fallacies in ChatGPT Recommendations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/world-building-with-depth-how-chatgpt-aids-novel-craft/"><u>World-Building With Depth: How ChatGPT Aids Novel Craft</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-taking-charge-of-your-visual-brand-identity/"><u>[New] In 2024, Taking Charge of Your Visual Brand Identity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-converting-live-streamed-youtubes-into-animated-gif-formats-for-2024/"><u>[Updated] Converting Live Streamed YouTubes Into Animated GIF Formats for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-rhythm-revelations-mastering-music-for-visual-storytelling/"><u>2024 Approved Rhythm Revelations Mastering Music for Visual Storytelling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-business-unique-value-proposition/"><u>ChatGPT for Business: Unique Value Proposition</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oneplus-ace-3-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to OnePlus Ace 3 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-12-pro-max-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone 12 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-combo-exclusive-afx-design-tools/"><u>In 2024, Premium Combo Exclusive AFX Design Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-with-ai-skills-for-thriving-in-technology-driven-jobs/"><u>Leading with AI: Skills for Thriving in Technology-Driven Jobs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/machine-mentors-ais-ethical-boundaries/"><u>Machine Mentors: AI's Ethical Boundaries</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-paint-shop-pro-tricks-for-2024/"><u>Premier Paint Shop Pro Tricks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-inbox-organization-with-this-simple-method-no-more-clutter-without-extra-accounts-zdnet/"><u>Revolutionize Your Inbox Organization with This Simple Method: No More Clutter Without Extra Accounts! (ZDNet)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/solving-xbox-one-dvd-reading-issues-a-guide-with-12-effective-solutions/"><u>Solving Xbox One DVD-Reading Issues: A Guide with 12 Effective Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/starcraft-2-pc-stability-issues-resolved-no-more-unexpected-shutdowns/"><u>Starcraft 2 PC Stability Issues Resolved - No More Unexpected Shutdowns!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/top-8-private-video-downloaders/"><u>Top 8 Private Video Downloaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-selection-of-premium-apple-band-accessories-comprehensive-tester-insights-and-evaluation/"><u>Ultimate Selection of Premium Apple Band Accessories : Comprehensive Tester Insights and Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-affordable-tunes-a-step-by-step-guide-to-securing-an-apple-music-student-price-break/"><u>Unlocking Affordable Tunes: A Step-by-Step Guide to Securing an Apple Music Student Price Break</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-creativity-in-freelancing-with-chatgpts-six-methods/"><u>Unlocking Creativity in Freelancing with ChatGPT's Six Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-predictive-ai-and-how-does-it-work/"><u>What Is Predictive AI, and How Does It Work?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reviews-unobtrusive-yet-powerful-smart-lock-solutions-for-apple-devices/"><u>ZDNet Reviews Unobtrusive Yet Powerful Smart Lock Solutions for Apple Devices</u></a></li>
 </ul></div>
 

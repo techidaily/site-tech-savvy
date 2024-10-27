@@ -1,7 +1,7 @@
 ---
 title: Effortless Qi2 Fast Charging for Your iPhone 12, No MagSafe Required - ZDNet's Guide
-date: 2024-10-16T23:50:55.710Z
-updated: 2024-10-21T03:52:47.862Z
+date: 2024-10-22T20:10:19.243Z
+updated: 2024-10-26T16:11:25.748Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Heat is an inescapable part of wireless charging, but recent innovations mitigat
 Noise is an all-too-common problem with other accessories like laptop cooling pads that are known for their humming fans. Using aero-acoustics and fluid mechanics, ESR has reduced the secondary flow between blades. Noise is kept under a quiet 25 decibels, even at speeds of 5,000 RPM. That's like a whisper from a few feet away. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Charge all your devices at once–without the cords**
@@ -52,10 +58,10 @@ The [3-in-1 MagSafe Charger with Qi2 and CryoBoost](https://buy.geni.us/Proxy.as
 ZDNET's Adrian Kingsley-Hughes called the ESR 3-in-1 MagSafe charger his "[new favorite travel accessory.](https://www.zdnet.com/article/this-3-in-1-magsafe-charger-is-my-new-favorite-travel-accessory-and-it-supports-qi2/)"
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Power up your road trip**
@@ -69,10 +75,16 @@ ESR's [Qi2 MagSafe Car Charger with CryoBoost (HaloLock)](https://buy.geni.us/Pr
 This is a 15W MagSafe car charger that juices up your phone at blistering speed, even when using GPS navigation apps. The two hours and seven minutes to power your phone is nearly two hours faster than most Qi2 car chargers, and 35 minutes faster than car chargers with cooling systems.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **A MagSafe battery pack to keep you fueled on the go**
@@ -86,10 +98,10 @@ This powerhouse 15W MagSafe backup comes in fun colors. It's compact and slim at
 While the ESR Battery Pack doesn't come with CryoBoost technology, the bank stays under a breezy–at least for technology–99 degrees F thanks to NTC sensors that measure its temperature and a custom AI algorithm that keeps it regulated. This is especially important since you'll most likely be holding your iPhone – or it'll be stashed away in a pocket, purse, or backpack – when the battery is attached.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Upgrade your charging today with ESR**
@@ -111,16 +123,22 @@ Whether you're charging your Apple devices at home, in the car or on the go, ESR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-compilation-offline-ios-games-to-delight-in-for-2024/"><u>[New] The Ultimate Compilation Offline iOS Games to Delight In for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-review-of-the-latest-powerdirector-app-24/"><u>2024 Approved Full Review of the Latest PowerDirector App - '24</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-gopro-professionals-a-filmmaking-guide/"><u>Crafting GoPro Professionals A Filmmaking Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-stellar-presentations-with-the-power-of-chatgpt-ai/"><u>Crafting Stellar Presentations with the Power of ChatGPT AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-productivity-uncovering-7-gpt-secrets-to-efficiency/"><u>Optimize Your Productivity: Uncovering 7 GPT Secrets to Efficiency</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/quick-mac-mastering-screen-recording-via-shortcuts-for-2024/"><u>Quick Mac Mastering Screen Recording via Shortcuts for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tales-reimagined-integrating-chatgpt-in-creative-writing/"><u>Tales Reimagined: Integrating ChatGPT in Creative Writing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truthgpt-unveiled-police-raid-mullvad-vpn-the-best-free-pc-games-and-mechanical-keyboards-explained/"><u>TruthGPT Unveiled, Police Raid Mullvad VPN, the Best Free PC Games, and Mechanical Keyboards Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-core-of-gpt4alls-operation/"><u>Unveiling the Core of GPT4All's Operation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/earn-how-to-solve-common-issues-for-youtube-shorts-for-2024/"><u>[New] Learn How to Solve Common Issues for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-achieving-a-million-on-the-map-a-strategic-view-to-sub-guide/"><u>[Updated] In 2024, Achieving a Million on the Map A Strategic View-to-Sub Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-supercharge-videos-download-premium-effs/"><u>[Updated] Supercharge Videos - Download Premium Effs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revival-by-apple-significant-advances-and-areas-for-enhancement-unveiled/"><u>AI Revival by Apple: Significant Advances & Areas for Enhancement Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/data-mastery-reimagined-6-innovative-approaches-using-chatgpt/"><u>Data Mastery Reimagined: 6 Innovative Approaches Using ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-6s-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 6s Plus Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/imessage-communication-from-your-desktop-tips-for-using-it-with-windows/"><u>IMessage Communication From Your Desktop: Tips for Using It with Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-deciphering-youtube-shorts-a-comprehensive-overview/"><u>In 2024, Deciphering YouTube Shorts A Comprehensive Overview</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-13-pro-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 13 Pro Max Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-evolution-of-streaming-youtube-tv-in-focus/"><u>In 2024, The Evolution of Streaming YouTube TV In Focus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-ais-frailty-how-do-prompt-injections-threaten-its-integrity/"><u>Inside AI's Frailty: How Do Prompt Injections Threaten Its Integrity?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-multi-pin-drops-a-comprehensive-guide-on-google-maps/"><u>Mastering Multi-Pin Drops: A Comprehensive Guide on Google Maps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsung-leads-with-galaxy-ai-as-tech-giants-face-regulatory-scrutiny-in-global-innovation-rankings/"><u>Samsung Leads with Galaxy AI as Tech Giants Face Regulatory Scrutiny in Global Innovation Rankings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/superior-gopro-film-production-options/"><u>Superior GoPro Film Production Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-macbook-gadgets-and-enhancements-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MacBook Gadgets & Enhancements of 2024: Comprehensive Reviews by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-updates-explore-how-apples-latest-airpods-pro-and-max-compare-insights-for-tech-enthusiasts/"><u>Unveiling the Updates: Explore How Apple's Latest AirPods Pro and Max Compare - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-safely-how-macos-1441-secures-your-system-before-the-latest-update-insights/"><u>Upgrade Safely: How macOS 14.4.1 Secures Your System Before the Latest Update - Insights</u></a></li>
 </ul></div>
 

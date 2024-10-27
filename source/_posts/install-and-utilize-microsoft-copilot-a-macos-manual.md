@@ -1,7 +1,7 @@
 ---
 title: "Install and Utilize Microsoft Copilot: A macOS Manual"
-date: 2024-10-16T02:47:32.116Z
-updated: 2024-10-21T00:59:45.934Z
+date: 2024-10-22T23:45:40.493Z
+updated: 2024-10-26T19:35:48.085Z
 tags:
   - chatgpt
   - open-ai
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
  Microsoft doesn't offer a native Mac app for Copilot, but Mac users can still install the popular chatbot on their computers. There are two ways to get Copilot on a Mac, and you can even launch it at the press of a button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install Microsoft Copilot From the Mac App Store
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
  Double-click its icon to start using Copilot right away. Jump to the **Getting Started** section below to get acquainted with the app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Launch Copilot on Mac With a Keyboard Shortcut
@@ -77,24 +77,19 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 ![Adding a new shortcut in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-a-new-shortcut-in-macos.jpg)
 3. Drag the **Open App** action from the right sidebar to the empty space on the left.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click the blue **App** field and use the search bar to find and select **Copilot**.  
 ![Creating a simple Open app shortcut to quickly open Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/creating-a-simple-open-app-shortcut-to-quickly-open-copilot.jpg)
 5. Next, switch to the **Info (i)** tab of the sidebar and click **Add Keyboard Shortcut**.  
 ![Assigning a custom keyboard shortcut to launch Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-launch-copilot.jpg)
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other [useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/). Then, hit the **Return** key.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
@@ -112,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
  You'll find the Copilot web app on your Dock immediately. Launch it to begin.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Getting Started With Microsoft Copilot on Your Mac
 
  When you launch Copilot for the first time, you'll see its welcome screen prompting you to agree to Microsoft's Terms of Service. Click **Continue** and follow these steps to configure Copilot on your Mac properly:
@@ -131,15 +119,22 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 4. Additionally, you can click **Sign in** in the top-left corner of the window and log in with your Microsoft account. This allows you to ask more questions and have longer conversations with the AI chatbot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At this point, you're all set to use Copilot on your Mac at its full potential. If you want to make further tweaks, click the **three-line** icon in the top-left corner to access the app's settings menu. Here, you can change the theme, region and language, permissions, and privacy settings for Copilot.
 
  You can clear your Copilot search history by heading to the app's privacy settings menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Benefits of Using Copilot Over ChatGPT
 
@@ -166,22 +161,19 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-chuckles-churner-visual-composer/"><u>[New] Chuckles Churner Visual Composer</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-expert-insights-mastering-your-game-recording-on-windows-10/"><u>[Updated] In 2024, Expert Insights Mastering Your Game Recording on Windows 10</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-this-years-narrative-pioneers-youtubes-top-20-channels/"><u>[Updated] This Year’s Narrative Pioneers YouTube's Top 20 Channels</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-wacom-intuos-pro-driver-on-windows-11-a-step-by-step-tutorial/"><u>Download and Install Wacom Intuos Pro Driver on Windows 11 - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722148098381-embrace-the-future-of-text-generation-access-and-master-openais-bespoke-gpt-services-today/"><u>Embrace the Future of Text Generation: Access and Master OpenAI's Bespoke GPT Services Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/federal-communications-commission-greenlights-enhanced-6ghz-spectrum-use-for-virtual-reality-and-augmented-reality-devices-insights-from-zdnet/"><u>Federal Communications Commission Greenlights Enhanced 6GHz Spectrum Use for Virtual Reality & Augmented Reality Devices - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fix-the-d3dx927dll-file-not-found-issue-on-your-pc/"><u>Fix the 'd3dx9_27.dll' File Not Found Issue on Your PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/high-fidelity-enhances-virtual-universe-with-second-life-acquisition-insights-from-zdnet/"><u>High Fidelity Enhances Virtual Universe with Second Life Acquisition: Insights From ZDNet</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-fodt-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .fodt file Document</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-experience-apples-immersive-3d-content-with-the-meta-quest-3-headset-vr-gadget-reviews/"><u>How to Experience Apple's Immersive 3D Content with the Meta Quest 3 Headset | VR Gadget Reviews</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/pushing-boundaries-with-enhanced-exposure-controls-for-2024/"><u>Pushing Boundaries with Enhanced Exposure Controls for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-of-gaming-disney-unveils-a-shared-vr-walking-treadmill-learn-how-it-transforms-your-interactive-playtime-zdnet/"><u>Step Into the Future of Gaming: Disney Unveils a Shared VR Walking Treadmill - Learn How It Transforms Your Interactive Playtime | ZDNET</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-retrieving-mislaid-disk-sections-from-windows-10-and-11-systems/"><u>Step-by-Step Tutorial: Retrieving Mislaid Disk Sections From Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-giant-apple-postpones-release-date-for-ar-eyeglasses-shifts-focus-to-innovative-mixed-reality-headsets/"><u>Tech Giant Apple Postpones Release Date for AR Eyeglasses; Shifts Focus to Innovative Mixed Reality Headsets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-giants-marvel-as-apple-unveils-cutting-edge-vision-pro-studios-insider-info-via-zdnet/"><u>Tech Giants Marvel as Apple Unveils Cutting-Edge 'Vision Pro' Studios - Insider Info via ZDNET!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-main-challenge-with-vr-current-usage-and-insights-from-industry-experts-techzdnet/"><u>The Main Challenge with VR: Current Usage and Insights From Industry Experts | TechZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upcoming-apple-developer-tools-aimed-at-enhancing-ios-17-and-visionos-what-you-need-to-know/"><u>Upcoming Apple Developer Tools Aimed at Enhancing iOS 17 & VisionOS: What You Need to Know</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-do-i-peruse-all-the-video-and-photo-files-shared-by-friends/"><u>[New] 2024 Approved How Do I Peruse All the Video and Photo Files Shared by Friends?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-understanding-and-implementing-cc-licenses-wisely/"><u>[New] Understanding & Implementing CC Licenses Wisely</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instant-time-stamping-techniques-for-youtube-videos/"><u>[Updated] Instant Time-Stamping Techniques for YouTube Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-iphone-backup-flawless-integration-with-snapchat-photos/"><u>2024 Approved Navigating iPhone Backup Flawless Integration with Snapchat Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-own-blemishes-overlooked/"><u>AI's Own Blemishes Overlooked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/autonomous-gpt-how-it-differs-from-conversational-ai-model-chatgpt/"><u>Autonomous GPT: How It Differs From Conversational AI Model, ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-cybercriminals-use-chatgpt-to-hack-your-bank-or-pc/"><u>Can Cybercriminals Use ChatGPT to Hack Your Bank or PC?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-insight-on-the-expensive-yet-practical-mophie-powerstation-ac/"><u>Expert Insight on the Expensive Yet Practical Mophie PowerStation AC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipads-upgrade-ahead-get-insider-info-on-the-latest-pro-and-air-models-launching-soon-digitaledge-news/"><u>IPads Upgrade Ahead! Get Insider Info on the Latest Pro and Air Models Launching Soon | DigitalEdge News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speak-connect-and-engage-using-nvidias-rtx-ai-assistant/"><u>Speak, Connect, and Engage: Using Nvidia's RTX AI Assistant</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-power-state-errors-linked-to-drivers-on-windows-system/"><u>Step-by-Step Solution for Power State Errors Linked to Drivers on Windows System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-resources-for-efficiently-finding-an-apartment/"><u>Top 10 Resources for Efficiently Finding an Apartment</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unlocking-cost-effective-clouds-for-the-budget-conscious-for-2024/"><u>Unlocking Cost-Effective Clouds for the Budget-Conscious for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-of-technology-whats-new-with-siri-ios-18-and-more-from-apples-keynote-event-technews/"><u>Unveiling the Future of Technology: What's New with Siri, iOS 18 & More From Apple's Keynote Event | TechNews</u></a></li>
 </ul></div>
 

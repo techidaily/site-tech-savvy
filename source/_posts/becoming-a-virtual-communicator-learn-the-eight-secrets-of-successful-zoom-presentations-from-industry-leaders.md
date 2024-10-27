@@ -1,7 +1,7 @@
 ---
 title: "Becoming a Virtual Communicator: Learn the Eight Secrets of Successful Zoom Presentations From Industry Leaders"
-date: 2024-09-17 21:12:50
-updated: 2024-09-20 10:23:57
+date: 2024-10-22T18:47:35.936Z
+updated: 2024-10-26T16:11:22.861Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ Consider lighting. Soft lighting placed in front of you illuminates you evenly; 
 
 Make sure your background doesn't distract from you and your presentation. You don't want your audience focusing on a family photo or the dishes in the sink.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Test your equipment before your presentation.
 
 Your equipment can make or break your Zoom presentation. 
@@ -50,6 +57,13 @@ You need your notes where you can see them, but you don't want to keep looking d
 To combat this, you can use [dual monitors](https://www.zdnet.com/home-and-office/smart-office/how-to-choose-the-right-monitor-layout-for-working-from-home/). Position your presentation on one of them, visible to all, and your presenter's notes — plus the webcam you're using — on the other, visible only to you. 
 
 Or you can present your slide show in a window and put a private view of your notes in another window on the same screen. [Zoom provides](https://support.zoom.us/hc/en-us/articles/203395347-Screen-sharing-a-PowerPoint-presentation) step-by-step instructions for single and dual screens.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Practice Zoom presenting as if it were the real thing.
 
@@ -73,6 +87,13 @@ Each slide should communicate one concept or idea. Avoid a long list of bullet p
 
 While a slide with few words in readable, bolded font works fine, visuals like charts, maps, and illustrations or photos can be more effective and keep your audience engaged. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Use easy-to-understand visuals.
 
 Visuals liven up your Zoom presentation in ways words don't. Instead of a long list of numbers explaining company statistics, try a graph or pie chart. Visuals aid understanding and keep your audience interested. 
@@ -80,6 +101,13 @@ Visuals liven up your Zoom presentation in ways words don't. Instead of a long l
 Explaining technical procedures with videos or illustrations rather than wordy descriptions alone enables you to show and tell. They also accommodate different learning styles within your audience.
 
 Microsoft posts tutorials for incorporating [visual elements into PowerPoint](https://support.microsoft.com/en-us/office/basic-tasks-for-creating-a-powerpoint-presentation-efbbc1cd-c5f1-4264-b48e-c8a7b0334e36) slides and [inserting videos](https://support.microsoft.com/en-us/office/insert-a-video-from-youtube-or-another-site-8340ec69-4cee-4fe1-ab96-4849154bc6db) from the web or [your computer](https://support.microsoft.com/en-us/office/insert-and-play-a-video-file-from-your-computer-f3fcbd3e-5f86-4320-8aea-31bff480ed02).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Explain your agenda before you begin presenting.
 
@@ -124,11 +152,25 @@ Online [public speaking courses](https://www.zdnet.com/education/professional-de
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-talent-hunters-unite-top-10-video-roundup/"><u>[New] In 2024, Talent Hunters Unite! Top 10 Video Roundup</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-expert-advice-for-embedding-youtube-playlists-with-ease/"><u>[Updated] 2024 Approved Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-spark-ars-color-palette-expansion-via-free-accessible-lut-downloads/"><u>2024 Approved Spark AR's Color Palette Expansion via Free, Accessible LUT Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chrome-plug-ins-for-productivity-the-best-8-ai-tools/"><u>Chrome Plug-Ins for Productivity: The Best 8 AI Tools</u></a></li>
+<li><a href="https://win-bits.techidaily.com/expert-solutions-for-when-your-pc-gets-stuck-at-the-windows-11-welcome-phase-during-boot-up/"><u>Expert Solutions for When Your PC Gets Stuck at the Windows 11 Welcome Phase During Boot Up</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-zoom-integrates-with-vision-pro-headsets-bringing-a-new-dimension-to-virtual-meetings-insights-from-zdnet/"><u>Get Ready: Zoom Integrates with Vision Pro Headsets, Bringing a New Dimension to Virtual Meetings – Insights From ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-process-for-refreshing-your-acer-audio-controllers-firmware/"><u>Hassle-Free Process for Refreshing Your Acer Audio Controller's Firmware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovators-at-war-notion-ai-vs-gpt-3-in-the-spotlight/"><u>Innovators at War: Notion AI Vs. GPT-3 in the Spotlight</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-lowdown-on-vn-video-editor-for-pc-a-brief-but-informative-review/"><u>New The Lowdown on VN Video Editor for PC A Brief but Informative Review</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/twelve-south-compass-pro-review-cleverly-designed-for-maximum-stability/"><u>Twelve South Compass Pro Review: Cleverly Designed For Maximum Stability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-presents-julys-ultimate-bargains-on-premium-laptops/"><u>ZDNet Presents: July's Ultimate Bargains on Premium Laptops!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Top Apple Discounts & Savings in July 2024 - iPhone, Apple Watch & iPad Bargains on ZDNet
-date: 2024-10-17T18:56:41.422Z
-updated: 2024-10-20T23:28:17.504Z
+date: 2024-10-22T23:21:28.385Z
+updated: 2024-10-26T19:57:26.387Z
 tags:
   - apple
 categories:
@@ -125,13 +125,6 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [View now at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple%2Fnew-ipad-pro-m4%2Fpcmcat1715092665904.c%3Fid%3Dpcmcat1715092665904&publisher_slug=itechdaily19598&exclusive=1) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  More Apple deals
 
 [Walmart: Save up to $1,200 on the new iPhone 15 series View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fshop%2Fcol%2Fnew-iphone&subId1=zd-__COM_CLICK_ID__-dtp)
@@ -164,6 +157,13 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple accessory deals
 
 [Apple Pencil (1st-gen) deal for $79 (save $20) $79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Pencil-1st-Generation-Adapter%2Fdp%2FB0BJLG69QR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7edfde58-3192-4628-8e7b-42c56a313acd%7Cdtp&dtb=1)
@@ -182,16 +182,22 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the cheapest Apple product?
 
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
 
@@ -213,16 +219,10 @@ Factors influencing our recommendations include:
 * **Availability**: If we come across a great Apple deal but only a few units are in stock unless it is a stellar saving you only see once in a blue moon, we will discount it and select a product with better stock levels instead.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What are the best deals right now?
@@ -247,10 +247,10 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -297,24 +297,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/he-best-laptops-for-video-editing-for-2024/"><u>[New] The Best Laptops for Video Editing for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-ideal-top-7-video-software-for-apple-devices-for-2024/"><u>[Updated] Ideal Top 7 Video Software for Apple Devices for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-navigating-through-tech-barriers-record-any-youtube-live-with-ease/"><u>2024 Approved Navigating Through Tech Barriers Record Any YouTube Live with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-keys-discovering-the-top-features-of-an-amazing-iphone-case/"><u>Beyond the Keys: Discovering the Top Features of an Amazing iPhone Case</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-pcs-speed-solutions-for-optimizing-windows-11-performance/"><u>Boost Your PC's Speed - Solutions for Optimizing Windows 11 Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-productivity-navigating-through-4-time-strategies/"><u>ChatGPT for Productivity: Navigating Through 4 Time Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-bing-chat-whats-the-best-generative-ai-chatbot/"><u>ChatGPT Vs. Bing Chat: What's the Best Generative AI Chatbot?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafted-fun-by-chatgpt-are-digital-bards-of-humor/"><u>Crafted Fun by ChatGPT: Are Digital Bards of Humor?</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/expert-assistance-with-data-backup-recovery-and-duplication-processes/"><u>Expert Assistance with Data Backup, Recovery, and Duplication Processes</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/guida-rapida-come-risolvere-linstallazione-dellapp-windows-store-che-fallisce-su-windows-11/"><u>Guida Rapida: Come Risolvere L'installazione Dell'app Windows Store Che Fallisce Su Windows 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unhindered-vision-capture-tool/"><u>In 2024, Unhindered Vision Capture Tool</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/interpreting-user-inactivity-could-it-be-a-blocked-status-in-2024/"><u>Interpreting User Inactivity Could It Be a Blocked Status, In 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipad-air-vs-ipad-pro-a-comprehensive-comparative-review-that-might-make-you-rethink-your-choice-insights-from-zdnet/"><u>IPad Air vs iPad Pro: A Comprehensive Comparative Review That Might Make You Rethink Your Choice - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/magical-imagery-at-your-fingerts-apples-latest-ai-innovation-eclipses-dall-e-with-device-based-generation-capabilities-news/"><u>Magical Imagery at Your Fingerts: Apple's Latest AI Innovation Eclipses DALL-E with Device-Based Generation Capabilities News</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/rising-above-vimeo-10-next-level-editing-applications-for-2024/"><u>Rising Above Vimeo 10 Next-Level Editing Applications for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-30-innovative-sales-platforms-outside-openais-ecosystem/"><u>Top 30 Innovative Sales Platforms Outside OpenAI’s Ecosystem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-mobile-phone-bargains-on-independence-day-unbeatable-promotions-from-zdnet/"><u>Top Mobile Phone Bargains on Independence Day: Unbeatable Promotions From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-potential-of-ethereum-20-a-solution-to-cryptocurrency-challenges/"><u>Unlocking the Potential of Ethereum 2.0: A Solution to Cryptocurrency Challenges</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-chatgpt-to-develop-compelling-presentations/"><u>Utilizing ChatGPT to Develop Compelling Presentations</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expertise-on-crafting-premium-webcam-footage/"><u>[Updated] Expertise on Crafting Premium Webcam Footage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-innovate-humorous-gifry-on-giphy-network-for-2024/"><u>[Updated] Innovate Humorous Gifry on Giphy Network for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-perfecting-your-snapchat-story-cinematography/"><u>2024 Approved Perfecting Your Snapchat Story Cinematography</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/accelerated-sizing-youtube-content-for-macs/"><u>Accelerated Sizing YouTube Content for MACs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-therapy-reimagined-discover-top-5-innovations/"><u>AI-Driven Therapy Reimagined: Discover Top 5 Innovations</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-100-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-free-twitter-stream-linuss-hidden-tech-trojans-explained-and-ai-chatbot-woes/"><u>Emoji-Free Twitter Stream, Linus's Hidden Tech, Trojans Explained, & AI ChatBot Woes.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/globalviewers-access-unlimited-local-tv-for-life-for-2024/"><u>GlobalViewers Access Unlimited Local TV for Life for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-codegpt-integration-with-vs-code/"><u>Mastering CodeGPT: Integration with VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-career-goals-with-chatgpt/"><u>Maximizing Career Goals with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-apples-new-frontier-smartwatch-showdown-series-nine-vs-ultra-version/"><u>Navigating Apple's New Frontier: Smartwatch Showdown - Series Nine Vs. Ultra Version</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-development-journey-how-gpt-1-transformed-into-the-powerful-gpt-4-explained/"><u>The Development Journey: How GPT-1 Transformed Into the Powerful GPT-4 Explained</u></a></li>
 </ul></div>
 

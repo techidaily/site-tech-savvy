@@ -1,7 +1,7 @@
 ---
 title: "From Taps to Coding: Inspiring Stories of Transitioning From Pub Management to Information Technology Careers | The Verge"
-date: 2024-09-17 20:42:28
-updated: 2024-09-20 11:25:39
+date: 2024-10-22T17:07:05.968Z
+updated: 2024-10-26T23:11:06.746Z
 tags:
   - professional-development
 categories:
@@ -33,6 +33,13 @@ According to a 2021 [study from PwC Global](https://www.pwc.com/gx/en/issues/ups
 
 Olivia Hill was a freelance movie review writer before becoming a software developer at the [Software Institute](https://www.softwareinstitute.com). Her degree was in journalism, but ultimately, there was a lack of opportunity and passion for her in that field, so she started to look for a career change once the pandemic hit and remembered how she enjoyed developing websites. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [The New Rules of Work In the office, hybrid or remote, here's what is changing about where, when and how you do your job.  Read now](https://www.zdnet.com/topic/the-new-rules-of-work/)
@@ -59,6 +66,13 @@ The skills it takes to enter the tech industry are becoming more common as techn
 
 "It's such a huge industry, and we need people to be trained with these skills," Hill said. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Read more from this special report: Tech skills - Upgrade your job**
 
 * [**Software skills will get you far, but you don't have to be a coder to make it big in tech**](https://www.zdnet.com/education/professional-development/if-you-want-to-make-it-big-in-tech-these-non-tech-skills-are-essential/#link=%7B%22linkText%22:%22Software%20skills%20will%20get%20you%20far,%20but%20you%20don't%20have%20to%20be%20a%20coder%20to%20make%20it%20big%20in%20tech%22,%22target%22:%22%5Fblank%22,%22href%22:%22https://www.zdnet.com/education/professional-development/if-you-want-to-make-it-big-in-tech-these-non-tech-skills-are-essential/%22,%22role%22:%22standard%22,%22absolute%22:%22%22%7D)
@@ -73,11 +87,33 @@ The skills it takes to enter the tech industry are becoming more common as techn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-elevate-your-content-in-depth-guide-to-youtube-video-edits/"><u>[New] In 2024, Elevate Your Content In-Depth Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-a-guide-to-unwavering-visual-captures-for-2024/"><u>[Updated] A Guide to Unwavering Visual Captures for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beware-the-allure-of-sham-youtube-audience/"><u>[Updated] In 2024, Beware the Allure of Sham YouTube Audience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-fresh-look-at-an-old-favorite-demons-souls-with-improved-graphics-yet-brilliant-gameplay/"><u>A Fresh Look at an Old Favorite: Demon's Souls with Improved Graphics Yet Brilliant Gameplay</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/craft-snapchat-magic-two-easy-lens-making-ways-for-2024/"><u>Craft Snapchat Magic Two Easy Lens Making Ways for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/discover-best-free-video-screen-recorder-options-for-2024/"><u>Discover Best Free Video Screen Recorder Options for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-budget-friendly-iphone-14-max-exceptional-all-day-battery-and-more-features-to-enjoy-insights/"><u>Discover the Budget-Friendly iPhone 14 Max: Exceptional All-Day Battery & More Features to Enjoy! - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-bavarder-integration-in-linux/"><u>Effortless Bavarder Integration in Linux</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-distribute-links-of-chatgpt-dialogues-for-wider-accessibility/"><u>How to Distribute Links of ChatGPT Dialogues for Wider Accessibility</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-claudes-world-shaping-tomorrow-with-intelligent-solutions/"><u>Inside Claude's World: Shaping Tomorrow with Intelligent Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instant-insights-for-pc-problem-solving-via-gpt/"><u>Instant Insights for PC Problem-Solving via GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-showdown-assessing-the-value-of-upgrading-from-iphone-14-pro-to-iphone-16-pro-expert-insights-digital-trends/"><u>IPhone Showdown: Assessing the Value of Upgrading From iPhone 14 Pro to iPhone 16 Pro – Expert Insights | Digital Trends</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-filmora-on-a-budget-how-to-get-it-without-breaking-the-bank-or-the-law/"><u>New Filmora on a Budget How to Get It Without Breaking the Bank or the Law</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/public-toilets-transformed-into-health-checkpoints-discover-how-innovative-tech-is-making-hygiene-a-priority/"><u>Public Toilets Transformed Into Health Checkpoints? Discover How Innovative Tech Is Making Hygiene a Priority</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tongue-twisters-topic-gpt3-vs-translates-skills/"><u>Tongue Twisters Topic: GPT3 Vs. Translate's Skills</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/form-your-youtube-routine-control-over-video-delivery-speeds/"><u>Transform Your YouTube Routine Control Over Video Delivery Speeds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-ais-best-performance-5-essential-steps-to-superior-chatgpt-interactions/"><u>Unlock AI's Best Performance: 5 Essential Steps to Superior ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-new-macos-15-capabilities-how-to-benefit-from-the-latest-upgrade-on-your-apple-macbook-insights-zdnet/"><u>Unveiling New MacOS 15 Capabilities: How to Benefit From the Latest Upgrade on Your Apple MacBook - Insights | ZDNET</u></a></li>
+</ul></div>
+

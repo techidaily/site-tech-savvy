@@ -1,7 +1,7 @@
 ---
 title: "Creating an Effective Coding Showcase: A Guide Inspired by ZDNet"
-date: 2024-09-19 20:31:27
-updated: 2024-09-20 10:37:46
+date: 2024-10-19T23:32:37.603Z
+updated: 2024-10-26T19:57:12.079Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ Increasingly, employers look for applicants with portfolios and consider portfol
 
 Busy hiring managers may only skim your portfolio, so it's important to make it as attention-grabbing as possible through design and targeted, concise project descriptions. You want your coding portfolio to compel potential employers to take a closer look. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What your coding portfolio needs
 
 This section walks you through the essential coding portfolio components**.** Projects are the most important element in your coding portfolio, and we offer details on highlighting them.
@@ -46,6 +53,13 @@ Check whether a domain name is already taken through a web search or[lookup tool
 ---
 
 ###   
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Host
 
@@ -82,6 +96,13 @@ The "About me" section should have a more personal tone than your resume to let 
 * Relevant [tech certifications](https://www.zdnet.com/education/computers-tech/best-tech-certifications/) you've earned
 
 Be sure to add contact information. An email address usually suffices, but you can also list your Github and Linkedin profiles and Twitter handle. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Projects
 
@@ -121,6 +142,13 @@ Write explanations for each project detailing how you approached it and anything
 
 Ensure you have permission to display projects completed for clients or former employers to avoid legal issues. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## In conclusion
 
 Creating your portfolio is a necessary but time-consuming step in the [job-search](https://www.zdnet.com/education/professional-development/job-search-sites-for-tech/) process. Our guide on how to build a coding portfolio can offer the tips, suggestions, and tools you need to get it done relatively quickly and painlessly. Explore platforms like GitHub to get started. 
@@ -146,11 +174,31 @@ Creating your portfolio is a necessary but time-consuming step in the [job-searc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-enhancing-collaboration-whiteboard-tactics-for-all-zoom-users/"><u>[New] Enhancing Collaboration Whiteboard Tactics for All Zoom Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-how-mixed-reality-transforms-experience/"><u>[Updated] Exploring How Mixed Reality Transforms Experience</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-in-the-moment-to-lasting-images-how-to-save-from-snapchat/"><u>[Updated] From In-the-Moment to Lasting Images How to Save From Snapchat</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-monitor-metamorphosis-from-standard-to-stunning-with-asus-mg28uq/"><u>[Updated] Monitor Metamorphosis From Standard to Stunning With ASUS MG28UQ</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-pioneering-role-in-prompt-creation-and-its-career-sustainability/"><u>AI's Pioneering Role in Prompt Creation & Its Career Sustainability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-myths-how-chatgpt-influences-writing-job-market/"><u>Debunking Myths: How ChatGPT Influences Writing Job Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-design-mastery-using-gpt-to-build-unique-bots/"><u>Dialogue Design Mastery: Using GPT to Build Unique Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ideal-defender-top-iphone-se-case-picks-of-2022-to-shield-your-phone-techadvisor/"><u>Discover the Ideal Defender: Top iPhone SE Case Picks of 2022 to Shield Your Phone | TechAdvisor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-workspace-how-to-adjust-the-colour-of-your-windows-10-taskbar/"><u>Elevate Your Workspace: How to Adjust the Colour of Your Windows 10 Taskbar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-with-ai-best-practices-for-authors-and-proofreaders/"><u>Innovating with AI: Best Practices for Authors & Proofreaders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovation-meets-opportunity-the-leading-7-nft-generation-tools/"><u>Innovation Meets Opportunity The Leading 7 NFT Generation Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-14-vs-iphone-16-pro-four-key-factors-that-keep-me-loyal-to-my-current-device/"><u>IPhone 14 Vs. IPhone 16 Pro: Four Key Factors That Keep Me Loyal to My Current Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-perfect-grip-on-your-iphone-and-airpods-with-our-ultimate-guide/"><u>Master the Perfect Grip on Your iPhone & AirPods with Our Ultimate Guide!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-motorola-moto-g34-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Motorola Moto G34 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intricacies-of-ai-benefits-and-potential-risks/"><u>The Intricacies of AI: Benefits & Potential Risks</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-acer-predator-triton-300-se-power-in-a-portable-package/"><u>Unveiling the Acer Predator Triton 300 SE - Power in a Portable Package</u></a></li>
+</ul></div>
+

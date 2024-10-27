@@ -1,7 +1,7 @@
 ---
 title: ZDNet-Inspired Strategies for Developing Your Programming Portfolio
-date: 2024-09-18 23:54:18
-updated: 2024-09-20 10:32:43
+date: 2024-10-23T16:46:47.490Z
+updated: 2024-10-26T22:39:19.938Z
 tags:
   - professional-development
 categories:
@@ -45,7 +45,21 @@ Check whether a domain name is already taken through a web search or[lookup tool
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Host
 
@@ -69,6 +83,13 @@ Used by game developers to upload and sell their work, Itch.io pages can include
 
 These well-known hosts allow you to build a website from a template, which is the easiest way to create a portfolio. However, it won't show off your web development skills. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### "About me" section and contact information
 
 The "About me" section should have a more personal tone than your resume to let your personality come through. Include a short bio and information such as: 
@@ -82,6 +103,13 @@ The "About me" section should have a more personal tone than your resume to let 
 * Relevant [tech certifications](https://www.zdnet.com/education/computers-tech/best-tech-certifications/) you've earned
 
 Be sure to add contact information. An email address usually suffices, but you can also list your Github and Linkedin profiles and Twitter handle. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Projects
 
@@ -146,11 +174,27 @@ Creating your portfolio is a necessary but time-consuming step in the [job-searc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-ultimate-video-creation-top-8-linux-apps/"><u>[New] In 2024, Ultimate Video Creation Top 8 Linux Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-automate-the-savvy-storage-of-your-social-media-images-for-2024/"><u>[Updated] Automate the Savvy Storage of Your Social Media Images for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-videovault-youtube-extractor-fb-for-2024/"><u>[Updated] VideoVault YouTube Extractor FB for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-brief-overview-of-electric-car-evolution/"><u>A Brief Overview of Electric Car Evolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-vs-horoscope-the-future-decision-battle/"><u>AI Vs. Horoscope: The Future Decision Battle</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/beyond-clickbait-whats-real-about-instagram-reels-in-2024/"><u>Beyond Clickbait What's Real About Instagram Reels, In 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-start-menu-efficiency-in-the-world-of-windows-11/"><u>Boost Your Start Menu Efficiency in the World of Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-writing-tech-hixgpt-4-powered/"><u>Cutting-Edge Writing Tech: HIX/GPT-4 Powered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-tips-for-flawlessly-moving-data-and-settings-to-your-latest-iphone-model-featuring-advice-from-zdnet/"><u>Expert Tips for Flawlessly Moving Data and Settings to Your Latest iPhone Model, Featuring Advice From ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-lava-storm-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Lava Storm 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/job-security-and-chatgpt-a-close-look-at-ten-potential-risks/"><u>Job Security and ChatGPT: A Close Look at Ten Potential Risks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/luminances-stand-in-the-hdr-landscape-for-2024/"><u>Luminance's Stand in the HDR Landscape for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unveils-strategies-revolution-and-integration/"><u>Unveils, Strategies, Revolution, and Integration.</u></a></li>
+</ul></div>
+

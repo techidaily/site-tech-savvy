@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Therapy: Infusing GPT Into Cognitive Techniques"
-date: 2024-09-21T17:01:36.736Z
-updated: 2024-09-22T16:34:21.574Z
+date: 2024-10-23T21:21:58.181Z
+updated: 2024-10-26T22:57:02.171Z
 tags:
   - chatgpt
   - open-ai
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
  At the same time, if something feels off or not quite clicking, you can adjust your questions or simply tell ChatGPT in no uncertain terms that it needs to try a different approach or line of reasoning.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Writing Effective Prompts for CBT Practice
 
  There are many [CBT apps that can help with mental health](https://word2md.com/%E2%80%A2%09https:/www.makeuseof.com/cbt-apps-improve-mental-health). However, when diving into CBT with ChatGPT, you need to train it using prompts to get actionable results.
@@ -57,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
  This is perhaps the most important step when using ChatGPT for any purpose because technology can only be as insightful as the instructions they're given.
 
  A good prompt is like giving your GPS coordinates. It leads to a focused, relevant, and in the case of psychotherapy, insightful conversations. Being vague is like telling your GPS, "Take me somewhere fun." You might end up at the world's largest potato museum when you hoped for the beach.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Creating Effective Prompts for CBT With ChatGPT
 
@@ -67,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 ![ChatGPT being trained as CBT therapist-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-chatgpt-being-trained-as-cbt-therapist-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can tweak the above in a way that works best for you.
@@ -81,16 +95,16 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
 ![ChatGPT response with advice as CBT therapist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-chatgpt-response-with-advice-as-cbt-therapist.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And if the information is not specific enough, you can ask ChatGPT to get more specific.
 
 ![ChatGPT response with actions that can be taken today](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-chatgpt-response-with-actions-that-can-be-taken-today.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Precautions and Limitations of Using ChatGPT for CBT
 
@@ -123,5 +137,21 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-beginning-your-journey-to-digital-creation/"><u>[Updated] Beginning Your Journey to Digital Creation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comprehensive-guide-to-advanced-screen-capture-via-adobe-captive/"><u>[Updated] Comprehensive Guide to Advanced Screen Capture via Adobe Captive</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/1716169030611-updated-how-to-get-more-instagram-video-views/"><u>[Updated] How to Get More Instagram Video Views?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-insight-into-top-10-youtube-mp3-downloader-apps/"><u>2024 Approved Insight Into Top 10 YouTube MP3 Downloader Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/android-users-setting-up-your-voicegpt/"><u>Android Users: Setting Up Your VoiceGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claudes-clash-with-chatgpt-who-has-the-edge/"><u>Claude's Clash with ChatGPT: Who Has The Edge?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-network-controller-driver-issue-on-dell-laptop/"><u>Fix Network Controller Driver Issue on Dell Laptop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-linear-to-intuitive-ai-in-website-exploration/"><u>From Linear to Intuitive: AI in Website Exploration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-effortlessly-implement-microsoft-copilot-on-macos/"><u>How to Effortlessly Implement Microsoft Copilot on macOS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-thumbnails-revamp-with-vibrant-neon-borders/"><u>In 2024, YouTube Thumbnails Revamp with Vibrant Neon Borders</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/key-foreign-languages-taught-globally-in-the-usa/"><u>Key Foreign Languages Taught Globally in the USA</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-interviews-effortlessly-with-chatgpt-assistance/"><u>Navigate Interviews Effortlessly with ChatGPT Assistance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-voice-not-working-discover-easy-fixes-for-uninterrupted-gaming-talks/"><u>PUBG Voice Not Working? Discover Easy Fixes for Uninterrupted Gaming Talks.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-12-and-pro-protective-covers-2023-edition-featured-by-zdnet/"><u>Top-Rated iPhone 12 & Pro Protective Covers - 2023 Edition Featured by ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Does the Current Uptick in Employment Affect Careers in Tech? Exploring with ZDNet's Perspective
-date: 2024-09-17 14:52:47
-updated: 2024-09-20 10:40:34
+date: 2024-10-20T20:03:58.590Z
+updated: 2024-10-26T17:01:32.661Z
 tags:
   - professional-development
 categories:
@@ -34,6 +34,13 @@ Even if companies opt to either cut back or compensate for their skills shortage
 "We are constantly looking out for good-quality technology resources and we are recruiting to support our growth plans," relates [Raju Seetharaman](https://www.lgamerica.com/about-us/leadership/bio/raju-seetharaman), senior vice president of IT and transformation at [Legal and General America](https://www.lgamerica.com/). "The technology layoffs we are seeing across the industry so far are a result of the additional demand created during pandemic with additional capital availability and unique business opportunities. This is partly due to return to pre-pandemic model and also due to global slowdown," he says.
 
 "The skilled labor shortage will only get worse in the near future, as the need for tech talent continues to grow and the gaps between the available supply and demand for these individuals are exacerbated," predicts [Laura Baldwin](https://www.linkedin.com/in/laurabaldwin1/), president of [O'Reilly Media](https://www.oreilly.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### CXO
 
@@ -87,11 +94,31 @@ Organizations, many of which may be facing the headwinds of a rough economy, wil
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-art-of-digital-expression-your-guide-to-sharing-animated-messages-on-snapchat/"><u>[New] The Art of Digital Expression Your Guide to Sharing Animated Messages on Snapchat</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-blitzburst-freezeframe-video-for-2024/"><u>[Updated] BlitzBurst FreezeFrame Video for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-filmmakers-choice-top-8-free-and-paid-app-list/"><u>[Updated] IPhone Filmmakers' Choice Top 8 Free & Paid App List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-discover-the-potential-detailed-look-at-showmore-as-your-recording-companion/"><u>2024 Approved Discover the Potential Detailed Look at ShowMore as Your Recording Companion</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unveiling-magix-video-mastery/"><u>2024 Approved Unveiling MAGIX Video Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-talking-points-next-gen-ai-horizons/"><u>Beyond Talking Points: Next-Gen AI Horizons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cancel-iphones-in-app-purchases-with-these-steps-on-ios-navigating-zdnets-user-friendly-walkthrough/"><u>Cancel iPhone's In-App Purchases with These Steps on iOS Navigating ZDNet’s User-Friendly Walkthrough</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-rise-may-test-se-integrity/"><u>ChatGPT's Rise May Test SE Integrity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-list-of-apple-watches-compatible-with-watchos-11-including-non-supported-models-insights/"><u>Comprehensive List of Apple Watches Compatible with WatchOS 11, Including Non-Supported Models – Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-utilization-tactics-for-gpt-models/"><u>Creative Utilization Tactics for GPT Models</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-how-to-resolve-everscape-ii-pc-crash-issues/"><u>Fixes & Solutions: How to Resolve Everscape II PC Crash Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-latest-apple-watch-series-10-early-preorder-guide-and-savings-tips-techinsights/"><u>Get Your Hands on the Latest Apple Watch Series 10 Early - Preorder Guide and Savings Tips | TechInsights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-your-next-purchase-should-you-opt-for-macbook-pro-or-macbook-air-expert-insights/"><u>Navigating Your Next Purchase: Should You Opt for MacBook Pro or MacBook Air? Expert Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-ipados-patch-resolves-issue-with-reactivated-past-photographs/"><u>New iPadOS Patch Resolves Issue with Reactivated Past Photographs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-path-of-facetime-pictures-how-they-are-archived-on-devices/"><u>The Path of FaceTime Pictures – How They Are Archived on Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-wet-proof-smart-timepieces-comprehensive-ratings-and-insights-by-tech-experts-zdnet/"><u>Top-Rated Wet-Proof Smart Timepieces - Comprehensive Ratings & Insights by Tech Experts | ZDNet</u></a></li>
+</ul></div>
+

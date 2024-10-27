@@ -1,7 +1,7 @@
 ---
 title: "The Unexpected Driving Forces Causing Most Employees to Quit: What Experts at ZDNet Discovered"
-date: 2024-09-18 16:54:48
-updated: 2024-09-20 11:49:16
+date: 2024-10-25T17:05:35.233Z
+updated: 2024-10-26T16:03:56.861Z
 tags:
   - professional-development
 categories:
@@ -36,6 +36,13 @@ Looking ahead to 2023, 89% of employees said they were highly motivated to advan
 Higher pay (59%), [better work-life balance](https://www.zdnet.com/article/this-engineering-insights-company-switched-to-a-four-day-workweek-they-detailed-the-process-so-you-can-too/)(48%), and an increased sense of purpose (41%) were identified as the main motivators behind employees wanting to polish their skills. But employees also identified their employers as the main roadblock to accessing better learning and development opportunities.
 
 According to the survey, employees want their employers to provide them with opportunities to further their education and participate in networking activities. But only 51% of respondents said their employers provide college tuition, while just 55% reported having access to networking opportunities.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +80,26 @@ Dan Schawbel, managing partner at Workplace Intelligence, said: "In today's empl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-essential-2023-techniques-for-ios-screen-recording/"><u>[New] 2024 Approved The Essential 2023 Techniques for iOS Screen Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-audio-file-transformation-srt-to-xmlssattml/"><u>[New] In 2024, Mastering Audio File Transformation SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-revisiting-old-photos-sending-them-as-snaps-on-snapchat/"><u>[New] In 2024, Revisiting Old Photos Sending Them as Snaps on Snapchat</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-stop-muted-tracks-in-tweeted-video-content/"><u>[New] In 2024, Stop Muted Tracks in Tweeted Video Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-ignite-creative-spark-choosing-from-the-best-6-nft-services/"><u>2024 Approved Ignite Creative Spark Choosing From the Best 6 NFT Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-partnership-for-perfecting-your-date-life/"><u>AI Partnership for Perfecting Your Date Life</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finding-the-ideal-present-when-in-doubt-discover-smart-solutions-with-insights-from-zdnet/"><u>Finding the Ideal Present When in Doubt? Discover Smart Solutions with Insights From ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesizing-visuals-seamlessly-gpt-4-meets-dall-e-techniques/"><u>Synthesizing Visuals Seamlessly: GPT-4 Meets DALL-E Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-understanding-the-worth-of-amazon-kindle-oasiss-elegant-yet-expensive-build/"><u>The Ultimate Guide to Understanding the Worth of Amazon Kindle Oasis's Elegant yet Expensive Build</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transforma-tus-archivos-de-pelicula-vob-a-3gp-libremente-con-la-herramienta-en-linea-de-movavi/"><u>Transforma Tus Archivos De Película VOB a 3GP Libremente Con La Herramienta En Línea De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-chatgpt-for-custom-trainer-approaches/"><u>Utilizing ChatGPT for Custom Trainer Approaches</u></a></li>
+</ul></div>
+

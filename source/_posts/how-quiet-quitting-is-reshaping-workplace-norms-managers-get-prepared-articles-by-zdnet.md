@@ -1,7 +1,7 @@
 ---
 title: "How 'Quiet Quitting' Is Reshaping Workplace Norms: Managers, Get Prepared | Articles by ZDNET"
-date: 2024-09-18 18:25:36
-updated: 2024-09-20 11:27:20
+date: 2024-10-20T16:19:25.152Z
+updated: 2024-10-26T22:42:26.057Z
 tags:
   - professional-development
 categories:
@@ -77,11 +77,42 @@ It might be favorable for managers to offer mental health services to employees 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-pixel-perfect-facebook-recording-tools/"><u>[New] 2024 Approved Pixel-Perfect Facebook Recording Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-inside-outlook-a-study-of-vivavideo-functionality/"><u>[New] Inside Outlook A Study of VivaVideo Functionality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-screen-capture-clarity-with-irecorder-tech/"><u>[Updated] 2024 Approved Screen Capture Clarity with iRecorder Tech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-sweet-surveillance-guide-to-recording-summer-treats/"><u>[Updated] 2024 Approved Sweet Surveillance Guide to Recording Summer Treats</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-joke-juggernauts-top-ranked-text-based-jokesters/"><u>[Updated] Joke Juggernauts Top Ranked Text-Based Jokesters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-for-tech-enthusiasts-insights/"><u>5 for Tech Enthusiasts | Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-concept-to-code-the-influence-of-ai-in-game-creation/"><u>From Concept to Code: The Influence of AI in Game Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-powered-smartwatches-6-breakthrough-ai-features-to-expect/"><u>GPT-Powered Smartwatches: 6 Breakthrough AI Features to Expect</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-honor-magic-6-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor Magic 6 Pro Unlock Without Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/merging-ai-and-messaging-chatgpt-with-whatsapp-support-guide/"><u>Merging AI and Messaging: ChatGPT with WhatsApp Support Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peeling-back-layers-on-ais-vulnerability-to-prompt-injection/"><u>Peeling Back Layers on AI's Vulnerability to Prompt Injection</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-tecno-spark-10-4g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Tecno Spark 10 4G Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-updating-logitech-m510-mouse-drivers-made-easy/"><u>Troubleshooting and Updating Logitech M510 Mouse Drivers Made Easy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ais-hidden-arcanum-black-box-essentials/"><u>Understanding AI's Hidden Arcanum: Black Box Essentials</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-8-best-meme-maker-app-to-create-memes-with-your-own-picture-for-2024/"><u>Updated 8 Best Meme Maker App to Create Memes with Your Own Picture for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

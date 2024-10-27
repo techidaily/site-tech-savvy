@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Nvidia's Chat Bot Experience
-date: 2024-10-15T01:14:39.742Z
-updated: 2024-10-20T18:26:16.592Z
+date: 2024-10-25T18:59:42.261Z
+updated: 2024-10-26T20:19:54.257Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/6d037ed02bb78c8d6ffd1b34444df7b04ee293185
 * [Is Nvidia's Chat with RTX Any Good?](https://lightailing.sjv.io/k0ez0m)
 * [What if I Don't Have an RTX 30 or 40 Series GPU?](https://homestyler.sjv.io/y209g3)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Nvidia Chat with RTX is an AI chatbot that runs locally on your PC, using TensorRT-LLM and RAG for customized responses.
@@ -47,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/6d037ed02bb78c8d6ffd1b34444df7b04ee293185
 
  Nvidia has launched Chat with RXT, an AI chatbot that operates on your PC and offers features similar to ChatGPT and more! All you need is an Nvidia RTX GPU, and you're all set to start using Nvidia's new AI chatbot.
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Nvidia Chat with RTX?
 
  Nvidia Chat with RTX is an AI software that lets you [run a large language model (LLM) locally on your computer](https://www.makeuseof.com/should-you-use-local-llms/). So, instead of going online to use an AI chatbot like ChatGPT, you can use Chat with RTX offline whenever you want.
@@ -54,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/6d037ed02bb78c8d6ffd1b34444df7b04ee293185
  Chat with RTX uses TensorRT-LLM, RTX acceleration, and a quantized Mistral 7-B LLM to provide fast performance and quality responses on par with other online AI chatbots. It also provides retrieval-augmented generation (RAG), allowing the chatbot to read through your files and enable customized answers based on the data you provide. This allows you to customize the chatbot to provide a more personal experience.
 
  If you want to try out Nvidia Chat with RTX, here's how to download, install, and configure it on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Download and Install Chat with RTX
 
@@ -80,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/6d037ed02bb78c8d6ffd1b34444df7b04ee293185
 
  Although you can use Chat with RTX like a regular online AI chatbot, I strongly suggest you check its RAG functionality, which enables you to customize its output based on the files you give access to.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Create RAG Folder
 
  To start using RAG on Chat with RTX, create a new folder to store the files you want the AI to analyze.
@@ -91,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/6d037ed02bb78c8d6ffd1b34444df7b04ee293185
  Now your database is ready, you can set up Chat with RTX and start using it to answer your questions and queries.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Set Up Environment
@@ -103,23 +123,9 @@ thumbnail: https://thmb.techidaily.com/6d037ed02bb78c8d6ffd1b34444df7b04ee293185
 
 ![Chat with RTX web interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chat-with-rtx-gui.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Under **Dataset**, make sure that the **Folder Path** option is selected. Now click on the edit icon below (the pen icon) and select the folder containing all the files you want Chat with RTX to read. You can also change the AI model if other options are available (at the time of writing, only Mistral 7B is available).
 
  You are now ready to use Chat with RTX.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Ask Chat with RTX Your Questions
 
@@ -141,25 +147,25 @@ thumbnail: https://thmb.techidaily.com/6d037ed02bb78c8d6ffd1b34444df7b04ee293185
 
 ![Set data path for YouTube](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/select-youtube-path.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Copy the YouTube URL you want to analyze and paste it below the drop-down menu. Then ask away!
 
 ![Using Chat with RTX to summarize a YouTube video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/5-chat-with-rxt-summarizing-youtube-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Chat with RTX's YouTube video analysis was pretty good and delivered accurate information, so it could be handy for research, quick analysis, and more.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Nvidia's Chat with RTX Any Good?
 
@@ -194,21 +200,21 @@ thumbnail: https://thmb.techidaily.com/6d037ed02bb78c8d6ffd1b34444df7b04ee293185
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/o-1-ranked-youtube-to-text-online-service-for-2024/"><u>[New] No. 1 Ranked YouTube To Text Online Service for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-ultimate-youtube-studio-editing-handbook-for-2024/"><u>[New] The Ultimate YouTube Studio Editing Handbook for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-data-6-transformative-uses-of-gpt-3/"><u>AI's Impact on Data: 6 Transformative Uses of GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bot-safeguards-identifying-3-major-privacy-concerns-today/"><u>Bot Safeguards: Identifying 3 Major Privacy Concerns Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/challenging-bots-clauses-quest-versus-gpt-task-mastery/"><u>Challenging Bots: Clause's Quest Versus GPT Task Mastery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-upgrade-premium-mode-at-20mth-us-only/"><u>ChatGPT's Upgrade: Premium Mode at $20/Mth, U.S. Only</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/co-pilot-extension-for-chatgpt-enhancements-to-conversational-ai/"><u>Co-Pilot Extension for ChatGPT: Enhancements to Conversational AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/efficient-site-planning-using-chatgpts-four-tactics/"><u>Efficient Site Planning Using ChatGPT's Four Tactics</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-gain-on-ig-unveiling-high-payoff-content-strategies/"><u>In 2024, Gain on IG Unveiling High-Payoff Content Strategies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-depth-evaluation-obs-as-an-advanced-recorder/"><u>In-Depth Evaluation OBS as an Advanced Recorder</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/las-extensiones-de-chrome-mas-efectivas-para-grabacion-de-pantalla-en-2023/"><u>Las Extensiones De Chrome Más Efectivas Para Grabación De Pantalla en 2023</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-opera-capabilities-unlocking-free-discord-time/"><u>Maximize Opera Capabilities - Unlocking Free Discord Time</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/operating-freegpt-with-no-restrictions/"><u>Operating FreeGPT with No Restrictions</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-overcoming-stardew-valley-not-loading-issues/"><u>Solution Guide: Overcoming 'Stardew Valley Not Loading' Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719363489312-solving-your-computers-print-command-conundrum-with-effective-tips/"><u>Solving Your Computer's Print Command Conundrum with Effective Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visual-intelligence-in-action-chatgpts-powerful-use-cases/"><u>Visual Intelligence in Action: ChatGPT's Powerful Use Cases</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-low-cost-high-performance-capturing-adrenaline-in-motion/"><u>[New] 2024 Approved Low-Cost, High-Performance Capturing Adrenaline in Motion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-investigating-the-upside-down-issue-on-instavideos/"><u>[New] Investigating the Upside-Down Issue on InstaVideos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unraveling-visual-clarity-for-the-new-digital-age-for-2024/"><u>[New] Unraveling Visual Clarity for the New Digital Age for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-access-hidden-social-media-recommendations/"><u>[Updated] 2024 Approved How to Access Hidden Social Media Recommendations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-workplace-cloud-storage-networks/"><u>[Updated] Top Workplace Cloud Storage Networks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/adobe-advances-bringing-text-into-three-dimensional-space-for-2024/"><u>Adobe Advances Bringing Text Into Three-Dimensional Space for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-its-potential-to-revolutionize-video-game-creation/"><u>AI and Its Potential to Revolutionize Video Game Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-fear-to-proficiency-excel-and-chatgpt-duo/"><u>From Fear to Proficiency: Excel & ChatGPT Duo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-liquid-found-in-headphone-jack-of-iphone-two-effective-solutions/"><u>How to Fix Liquid Found in Headphone Jack of iPhone: Two Effective Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pipe-diameter-and-wall-thickness-are-important-parameters-that-influence-stress-distribution-across-the-weld-area-during-testing/"><u>Pipe Diameter and Wall Thickness Are Important Parameters that Influence Stress Distribution Across the Weld Area During Testing.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dielectric-constant-er-is-a-measure-of-a-materials-ability-to-increase-the-capacitance-of-a-capacitor-without-changing-its-physical-dimensions/"><u>The Dielectric Constant (Ε_r) Is a Measure of a Material's Ability to Increase the Capacitance of a Capacitor without Changing Its Physical Dimensions.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-entrepreneurs-ai-toolkit-necessary-innovations-to-know/"><u>The Entrepreneur's AI Toolkit: Necessary Innovations to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-customization-keeping-the-look-unaltered/"><u>Win11 Customization: Keeping the Look Unaltered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zerogpt-inadequacy-doubting-detection-tools/"><u>ZeroGPT Inadequacy: Doubting Detection Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44oa44kk44ok44oi44oz44oi44ot44oh44kq44ks5oiq5yqf6kop44gr44oa44km44oz44ot44o844oj44gz44kl44gf44kb44gu6kej5rg65rov/"><u>ダイヤモントビデオを成功裏にダウンロードするための解決法</u></a></li>
 </ul></div>
 

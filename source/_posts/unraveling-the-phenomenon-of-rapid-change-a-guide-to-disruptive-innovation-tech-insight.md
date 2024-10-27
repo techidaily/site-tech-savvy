@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Phenomenon of Rapid Change: A Guide to Disruptive Innovation | Tech Insight"
-date: 2024-09-19 20:45:23
-updated: 2024-09-20 10:43:45
+date: 2024-10-25T23:12:09.227Z
+updated: 2024-10-26T20:46:34.106Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ So a new company targets an overlooked customer base -- and manages to deliver a
 
 [The Future of the Internet The internet has never been more important, and its future has never been so uncertain. This ZDNET special report looks at the possible futures - good and bad - that lie ahead.  Read now](https://www.zdnet.com/topic/the-future-of-the-internet/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is disruptive innovation not?
 
 Defining disruptive innovation isn't easy and not everyone is going to agree on every example. Classic disruptive innovation should not simply describe just any situation of upheaval. If a new company shakes things up a bit for incumbent competitors, that scene is not necessarily one of disruptive innovation -- that could simply be a breakthrough. In order for this theory to have power and be used as an analytical and predictive model, it needs to be precisely defined. 
@@ -39,6 +46,13 @@ Not everyone thinks that's the case and other perspectives can be found that arg
 
 What counts as disruption is up for debate, especially as Christensen's theory is applied to shifting contexts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why is it important to define disruptive innovation?
 
 Disruption isn't a fixed point; it's the evolution of a product or service from the fringes of customers to the mainstream. It's important to define it this way because then it becomes more about the experimental nature of the process than about the output. See, disruptive innovations don't always succeed and not every successful company is a disruptor. The process is about building new business models previously unseen in the target industry and appealing to a more niche customer base at first.
@@ -47,11 +61,25 @@ Disruption isn't a fixed point; it's the evolution of a product or service from 
 
 No, it is not the primary factor of innovation. [According to HBR](https://hbr.org/2015/12/what-is-disruptive-innovation), "disruption theory does not, and never will, explain everything about innovation specifically or business success generally." It does, however, help predict which businesses will succeed and it provides a solid foundation for further research – it's captured academic attention for 27 years.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is an example of disruptive innovation?
 
 Netflix was around since 1997, and at first, it didn't appeal to Blockbuster's core clientele. Renting movies usually happened in person, and Netflix was all online. Plus, Netflix took a few days to deliver movies because selections came through the mail. Blockbuster could easily ignore Netflix because it didn't have the brick-and-mortar infrastructure needed to dominate the market at that time.
 
 Over time though, as streaming technology developed, Blockbuster's target clients were drawn toward Netflix. The same impulsiveness that made renting a movie right away more desirable than getting a movie a few days later translated into wanting to watch movies with a click of a mouse instead of going to a physical location to rent a DVD. Disruptive innovation technology, in this case, streaming, goes hand in hand with implementing innovation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are there any disruptive innovation technologies to keep an eye on?
 
@@ -100,11 +128,28 @@ Disruption theory is difficult to define [and even experts don't agree on every 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-identity-building-crafting-perfect-channel-images/"><u>[New] 2024 Approved Digital Identity Building Crafting Perfect Channel Images</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-professional-tips-for-iphone-360-videography/"><u>[Updated] 2024 Approved Professional Tips for iPhone 360 Videography</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-game-film-mastery-using-fbx-recorder/"><u>[Updated] In-Game Film Mastery Using FBX Recorder</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/inners-guide-to-sony-vegas-and-youtube-cutting/"><u>A Beginner's Guide to Sony Vegas and YouTube Cutting</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/budget-friendly-methods-for-youtube-card-creation-for-2024/"><u>Budget-Friendly Methods for YouTube Card Creation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dandd-mastery-unlocked-chatgpt-strategies-for-epic-adventures/"><u>D&D Mastery Unlocked: ChatGPT Strategies for Epic Adventures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-ai-innovations-for-ios-devices-to-compete-with-androids-features-on-the-iphone/"><u>Essential AI Innovations for iOS Devices to Compete with Android's Features on the iPhone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/hold-whole-page-snapshot-image/"><u>Hold Whole Page Snapshot Image</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-harmonizing-words-and-images-the-essence-of-ppt-voiceovers/"><u>In 2024, Harmonizing Words & Images The Essence of PPT Voiceovers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-picks-top-gimbals-for-drones/"><u>Professional Picks Top Gimbals for Drones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steer-clear-of-scams-true-vs-false-gpt-binco-coins/"><u>Steer Clear of Scams: True vs False GPT-Binco Coins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-ar-glasses-with-apple-vision-pro-must-have-upgrades-discussed-on-zdnet/"><u>The Future of AR Glasses with Apple Vision Pro: Must-Have Upgrades Discussed on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/timely-insights-from-chatgpt-to-everyone/"><u>Timely Insights From ChatGPT to Everyone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-turn-to-ai-for-wellness-wisdom-heres-the-breakdown-in-7-points/"><u>Why Turn to AI for Wellness Wisdom? Here's the Breakdown, in 7 Points</u></a></li>
+</ul></div>
+

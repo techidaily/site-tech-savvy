@@ -1,7 +1,7 @@
 ---
 title: "Master the Application Process: Expert Tips for Getting Hired by Leading Tech Giants, Based on ZDNet's Ultimate Guide"
-date: 2024-09-18 18:21:23
-updated: 2024-09-20 11:59:22
+date: 2024-10-22T17:14:51.332Z
+updated: 2024-10-26T19:22:55.002Z
 tags:
   - professional-development
 categories:
@@ -23,6 +23,13 @@ Tech companies look for certain technical skills, experience, and qualities duri
 
 If you want to work at a large tech company, you need to know what tech companies look for in job applicants. Whether you want to be an [Amazon software engineer](https://www.zdnet.com/education/how-to-become-amazon-software-engineer/) or seek a non-technical role at Sony or an Alphabet Inc. company, these tips will help. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Start a digital notebook of research, learnings, and tips.
 
 Tech jobs require specific skills. What's the best way to track what you've learned, company research, and interview tips? A digital notebook. 
@@ -34,6 +41,13 @@ Include sections on programming or coding tips, definitions of technical terms, 
 * Questions that might come up in job interviews
 
 Tools like Evernote, OneNote, or Notion can help you organize your digital notebook. And it will come in handy when you're building a resume and prepping for job interviews. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Invest in getting the experience you need.
 
@@ -63,6 +77,13 @@ Did you work for a high-growth startup? Or a company that made headlines? That c
 
 Demonstrating your professional passions — and coming across as interesting — will help you stand out during the interview process.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Optimize your resume.
 
 In the best-case scenario, a recruiter from a big tech company will reach out to you. But in most cases, you'll submit a resume. How can you make it past the screening process?
@@ -76,6 +97,19 @@ Avoid lengthy descriptions and blocks of text. Do not include multiple pages, pa
 Networking plays a crucial role in landing a job at a big tech company. Having a referral often means your application passes the initial screening and lands on the desk of a hiring manager or recruiter. But first, you must get to know tech workers who might refer you.
 
 Consider joining professional organizations and participating in outreach or mentorship programs. And brush up on your [networking tips](https://www.zdnet.com/education/tech-company-networking-tips/) to make the most of your time.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Only apply for roles where you fit all qualifications.
 
@@ -141,6 +175,13 @@ CI: During the interview process for my full-time role at Adobe, I focused on be
 
 I highlighted my creative thinking, plus all the ways I've used AR in my graduate research and side projects. The core fundamentals of who I am matched Adobe's core values (genuine, exceptional, innovative, and involved), which led to my career here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Traits that big tech company employers look for
 
 ### Explore
@@ -165,6 +206,13 @@ Tech companies have a reputation for innovation. And they look for employees who
 
 Innovative employees invent new ways to approach problems and develop unique solutions. When interviewing, bring a few examples of times you showed innovation in a professional environment.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Passionate
 
 Passionate employees stick with projects and see them through to completion. But tech companies don't only care about passion for work. 
@@ -182,6 +230,13 @@ Tech companies want employees who bring this approach to work. An example of whe
 Proactive employees identify and correct potential issues before they become major problems. They're also willing to work independently and take on leadership roles. 
 
 Tech companies want proactive workers willing to contribute to the company's mission. Bring examples of times you took point on a project or went above and beyond to show proactivity.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Having a learner mentality
 
@@ -225,11 +280,33 @@ Consider how your skills connect with the company's broader mission or culture. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-art-of-livestreaming-seminars-at-no-expense/"><u>[New] 2024 Approved The Art of Livestreaming Seminars at No Expense</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-virtual-realms-in-retroperusia-facebooks-image-inversion-for-2024/"><u>[New] Navigating Virtual Realms in Retroperusia Facebook's Image Inversion for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-advanced-techniques-to-leverage-windows-11-pro-for-2024/"><u>[Updated] Advanced Techniques to Leverage Windows 11 Pro for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-your-shorts-are-here-no-more-waiting-game/"><u>[Updated] In 2024, Your Shorts Are Here – No More Waiting Game</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unite-film-selections-with-playlist-accumulation-for-2024/"><u>[Updated] Unite Film Selections with Playlist Accumulation for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-bite-sized-tips-for-aspiring-video-editors/"><u>2024 Approved Bite-Sized Tips for Aspiring Video Editors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-guide-through-natures-threats-and-triumphs/"><u>AI Guide Through Nature's Threats and Triumphs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-eyes-on-apples-latest-innovation-exclusive-insights-into-price-release-date-and-specs-of-rumored-foldable-iphones/"><u>All Eyes on Apple's Latest Innovation! Exclusive Insights Into Price, Release Date, and Specs of Rumored Foldable iPhones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/android-users-setting-up-your-voicegpt/"><u>Android Users: Setting Up Your VoiceGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claudes-clash-with-chatgpt-who-has-the-edge/"><u>Claude's Clash with ChatGPT: Who Has The Edge?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-safest-and-most-fun-mobile-phones-for-children-recommended-by-zdnet/"><u>Discover the Safest & Most Fun Mobile Phones for Children | Recommended by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioned-kingdoms-through-conversational-algorithms/"><u>Envisioned Kingdoms Through Conversational Algorithms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-linear-to-intuitive-ai-in-website-exploration/"><u>From Linear to Intuitive: AI in Website Exploration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-effortlessly-implement-microsoft-copilot-on-macos/"><u>How to Effortlessly Implement Microsoft Copilot on macOS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-infinix-note-30-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Infinix Note 30 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-x-flip-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo X Flip to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-interviews-effortlessly-with-chatgpt-assistance/"><u>Navigate Interviews Effortlessly with ChatGPT Assistance</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-cell-phone-signal-amplifiers-find-your-perfect-match/"><u>Top-Rated Cell Phone Signal Amplifiers : Find Your Perfect Match</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-12-and-pro-protective-covers-2023-edition-featured-by-zdnet/"><u>Top-Rated iPhone 12 & Pro Protective Covers - 2023 Edition Featured by ZDNet</u></a></li>
+</ul></div>
+

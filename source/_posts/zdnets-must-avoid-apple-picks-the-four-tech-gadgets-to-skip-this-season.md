@@ -1,7 +1,7 @@
 ---
 title: "ZDNet’s Must-Avoid Apple Picks: The Four Tech Gadgets to Skip This Season"
-date: 2024-10-20T00:03:18.099Z
-updated: 2024-10-21T03:02:12.851Z
+date: 2024-10-22T20:18:06.254Z
+updated: 2024-10-26T22:25:18.638Z
 tags:
   - apple
 categories:
@@ -43,13 +43,20 @@ Those upgrading from the iPhone 12 or iPhone 13 will notice an even more dramati
 If you're coming from one of these older models, you'll be adjusting to a significantly more exposed display, making the need for a protective case and glass screen protector even more crucial.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## My top picks for iPhone 16 cases
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### OtterBox
 
@@ -66,16 +73,16 @@ The classic clamshell design, combined with rubber reinforcement, ensures heavy-
 For a slightly lighter alternative, the [Defender Series Pro XT for MagSafe](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fheavy-duty-iphone-16-pro-case-red%2F77-96094.html&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) ($69.95) offers excellent protection and has clear versions with colored bumpers. If you're looking for something even lighter, the [Symmetry](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fsymmetry-series-with-camera-control&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and [Commuter](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fcommuter-series&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) cases are fine options, though better suited for more careful users. Symmetry is also compatible with adjustable OtterBox 2-in-1 [Crossbody Straps](https://www.otterbox.com/en-us/crossbody-2-in-1-crossbody-strap-black/77-96840.html), which can convert to wrist straps to carry your phone within easy reach. 
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Nomad
@@ -140,22 +147,15 @@ A tempered glass screen protector is your next essential line of defense. Here's
 
 OtterBox offers three tiers of protection for the iPhone 16: [Premium Pro](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fiphone-16-pro-max-screen-protector%3Fprefn1%3Dname2%26prefv1%3DPremium%2520Pro%2520Glass&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [Premium](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fiphone-16-pro-max-screen-protector%3Fprefn1%3Dname2%26prefv1%3DPremium%2520Pro%2520Glass&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the entry-level [OtterBox Glass](https://www.dpbolvw.net/click-9041660-15734810?url=https%3A%2F%2Fwww.otterbox.com%2Fen-us%2Fiphone-16-pro-max-screen-protector%3Fprefn1%3Dname2%26prefv1%3DOtterBox%2520Glass&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The Premium Pro provides enhanced scratch resistance and impact absorption, while Premium offers solid protection at a slightly lower price point. OtterBox Glass is a more affordable entry-level option, providing basic protection.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ESR Tempered Glass Screen Protector
 
 ESR's [Tempered Glass Screen Protector](https://shareasale.com/r.cfm?b=1200223&u=4338022&m=80610&afftrack=techidaily&urllink=https%3A%2F%2Fzonlipartnershipprogram.pxf.io%2Fb0rbxy) is one of the most affordable options available, and it comes in a 3-pack. With 9H hardness and edge-to-edge protection, this protector provides excellent defense against scratches and drops. The easy installation system ensures a bubble-free fit, making it a great budget-friendly choice without compromising quality.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Spigen Glas.tR EZ Fit
@@ -198,22 +198,20 @@ The iPhone 16 series's slimmer bezels and larger screens increase the importance
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-spacious-mini-cities-with-oriental-flair/"><u>[New] 2024 Approved Spacious Mini Cities with Oriental Flair</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-change-voice-on-snapchat-with-2-easy-methods/"><u>[Updated] 2024 Approved How to Change Voice on Snapchat with 2 Easy Methods</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-creating-compelling-cost-free-youtube-intros/"><u>[Updated] Creating Compelling, Cost-Free YouTube Intros</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-exceptional-appraisal-and-other-choices/"><u>[Updated] In 2024, Exceptional Appraisal & Other Choices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-muse-revolution-the-best-idea-sources-alive/"><u>AI-Powered Muse Revolution: The Best Idea Sources Alive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-prime-attraction-for-cyber-threats/"><u>ChatGPT: A Prime Attraction for Cyber Threats?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-access-to-the-latest-driver-updates-for-your-hp-deskjet-2540-printer/"><u>Easy Access to the Latest Driver Updates for Your HP Deskjet 2540 Printer</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-restricting-youtube-streams-from-an-ipad-device/"><u>Guide: Restricting YouTube Streams From an iPad Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-into-daily-life-against-loneliness/"><u>Integrating GPT Into Daily Life Against Loneliness</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-wisely-7-editorial-techniques-for-authors/"><u>Leveraging AI Wisely: 7 Editorial Techniques for Authors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/list-of-top-6-cost-free-ais-resembling-sora/"><u>List of Top 6 Cost-Free AIs Resembling Sora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-languages-faster-the-advantages-of-chatgptplus-edition/"><u>Mastering Languages Faster: The Advantages of ChatGPT+ Edition</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/professional-manfrotto-befree-tripod-reliable-and-strong/"><u>Professional Manfrotto Befree Tripod: Reliable and Strong</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swift-stardom-the-five-tenets-of-gpts-triumph/"><u>Swift Stardom: The Five Tenets of GPT's Triumph</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-digital-debate-ai-bots-and-their-dialogues/"><u>The Digital Debate: AI Bots and Their Dialogues</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-breaking-new-ground-top-6-platforms-for-digital-artistry/"><u>[New] Breaking New Ground Top 6 Platforms for Digital Artistry</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-integrating-clips-flawlessly-using-blend-modes/"><u>[Updated] 2024 Approved Integrating Clips Flawlessly Using Blend Modes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-initial-cinematographers-work-scrutiny-and-replacement-ideas-for-2024/"><u>[Updated] Initial Cinematographer's Work Scrutiny & Replacement Ideas for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-rhythm-reviews-cutting-edge-sound/"><u>2024 Approved Rhythm Reviews Cutting-Edge Sound</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-googles-gemini-the-projects-core-objectives-and-workings/"><u>Delving Into Google's Gemini: The Project’s Core Objectives and Workings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-chatgpt-pioneering-the-artificial-intelligence-frontier/"><u>Discovering ChatGPT: Pioneering the Artificial Intelligence Frontier</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-tips-for-chatgpt-plugin-implementation/"><u>Essential Tips for ChatGPT Plugin Implementation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/october-marks-new-launch-date-for-apples-ai-capabilities-industry-updates-covered-by-zdnet/"><u>October Marks New Launch Date for Apple's AI Capabilities; Industry Updates Covered by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pathways-through-ai-your-openai-primer/"><u>Pathways Through AI: Your OpenAI Primer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-your-control-experience-on-iphone-with-ios-18-expert-tips-and-tricks/"><u>Personalizing Your Control Experience on iPhone with iOS 18: Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shave-minutes-off-your-workday-with-these-plugins/"><u>Shave Minutes Off Your Workday With These Plugins</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-ranking-top-8-budget-friendly-srt-apps-for-2024/"><u>The Ultimate Ranking Top 8 Budget-Friendly SRT Apps for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tune-tracker-audio-for-visual-creations/"><u>Tune Tracker Audio for Visual Creations</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-pause-perfection-how-to-freeze-frame-in-videos-like-a-pro/"><u>Updated In 2024, Pause Perfection How to Freeze Frame in Videos Like a Pro</u></a></li>
 </ul></div>
 

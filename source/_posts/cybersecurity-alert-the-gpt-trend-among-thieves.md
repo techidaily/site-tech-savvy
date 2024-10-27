@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Alert: The GPT Trend Among Thieves"
-date: 2024-10-17T18:13:28.299Z
-updated: 2024-10-21T02:05:07.265Z
+date: 2024-10-25T18:20:29.797Z
+updated: 2024-10-26T22:03:06.993Z
 tags:
   - chatgpt
   - open-ai
@@ -35,22 +35,15 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
  So why are hackers going after ChatGPT accounts, and why are people willing to pay for these stolen accounts?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Stealing Sensitive Information
 
 ![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  At first, losing your ChatGPT account doesn’t seem like something you should be worried about. But it is. Sure, if you lose a free account, you can create another within a few minutes. But what about the data it contains?
 
@@ -60,9 +53,29 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
  Aware of such threats, companies like Google and Samsung—as well as Microsoft, a major backer of OpenAI—have all either warned or explicitly banned their staff from sharing company data with the AI chatbot. The fact that these companies are issuing such warnings means that mistakes might already be happening.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reselling ChatGPT Accounts
 
  While most of the world can access the ChatGPT website, some countries are officially banned from the platform. At the time of writing, China, with more than a billion potential users, is on this list. While residents from banned countries can use a VPN and other measures to bypass this restriction, buying cheap, stolen premium accounts is also appealing. This naturally creates a market for stolen [ChatGPT Plus accounts](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), some of which are auctioned off to more than one user. With a readily available market, hackers are naturally incentivized to steal ChatGPT accounts.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Protect Your ChatGPT Account
 
@@ -76,21 +89,7 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/setting-up-2fa-on-chatgpt.jpg)
 2. Tap **Settings > Data controls** and then **Enable** beside **Enable two-factor authentication** to turn on the feature for your account  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unfortunately, at the time of writing, the 2FA feature has been temporarily disabled. If you can access the feature at the time of reading this, turn it on. If not, check back and turn it on whenever OpenAI restores this vital feature.
 
@@ -100,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 1. Tap your account name in the bottom left corner of your ChatGPT interface.
 2. Go to **Clear Conversations > Confirm clear conversations** to delete all your saved conversations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Your ChatGPT Accounts From Hackers
 
@@ -124,22 +130,19 @@ thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-100plus-best-whatsapp-bio-ideas-for-12-zodiac-signs/"><u>[New] 100+ Best Whatsapp Bio Ideas for 12 Zodiac Signs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-execute-flawless-wirecast-broadcasts-on-youtube-for-2024/"><u>[New] How to Execute Flawless WireCast Broadcasts on YouTube for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-propel-your-skills-with-the-finest-android-drawing-software/"><u>[New] Propel Your Skills with the Finest Android Drawing Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-about-the-new-samsung-galaxy-watch-n-deciphering-prices-launch-date-tech-specs-and-breaking-news/"><u>All About the New Samsung Galaxy Watch N: Deciphering Prices, Launch Date, Tech Specs & Breaking News</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beginners-blueprint-downloading-and-installing-llama-2/"><u>Beginner's Blueprint: Downloading & Installing Llama 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/command-your-digital-assistant-with-voice-5-techniques/"><u>Command Your Digital Assistant with Voice (5 Techniques)</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensuring-complete-game-displays-in-epics-library/"><u>Ensuring Complete Game Displays in Epic's Library</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enter-the-ai-realm-easily-accessible-knowledge-in-our-9-communities/"><u>Enter the AI Realm: Easily Accessible Knowledge in Our 9 Communities</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-new-frontier-what-makes-triller-stand-out/"><u>In 2024, Exploring the New Frontier What Makes Triller Stand Out?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-latest-updates-for-your-hp-officejet-pro-8730-all-in-one-printer-on-windows-devices/"><u>Installing Latest Updates for Your HP Officejet Pro 8730 All-in-One Printer on Windows Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-tabletop-fantasy-infusing-dandd-with-artificial-intelligence/"><u>Mastering Tabletop Fantasy: Infusing D&D with Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-route-to-llm-and-chatbot-with-quoras-poe/"><u>Quick Route to LLM & Chatbot with Quora's POE</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smartly-sell-your-ideas-persuasive-proposals-and-ai-collaboration/"><u>Smartly Sell Your Ideas: Persuasive Proposals & AI Collaboration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-algorithmic-art-of-romance-ripoffs/"><u>The Algorithmic Art of Romance Ripoffs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-key-elements-in-achieving-proficient-interview-performance/"><u>The Key Elements in Achieving Proficient Interview Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/weighing-the-risks-using-chatgpt-and-bard-for-investment-advice/"><u>Weighing the Risks: Using ChatGPT and Bard for Investment Advice</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-insta-personality-showcase-100-crafted-caption-ideas/"><u>[New] 2024 Approved Insta Personality Showcase - 100 Crafted Caption Ideas</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-upset-timeline-trail-on-tiktok-undo-recent-loadout/"><u>[New] In 2024, Upset Timeline Trail on TikTok – Undo Recent Loadout</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-vidsnapper-live-and-group-videos-fb-for-2024/"><u>[New] VidSnapper Live and Group Videos, FB for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-10-essential-meme-blueprints/"><u>[Updated] 10 Essential Meme Blueprints</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-foundational-handbook-to-youtube-business-success-for-2024/"><u>[Updated] The Foundational Handbook to YouTube Business Success for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-masterful-fb-marketing-essential-tips-for-every-business-level/"><u>2024 Approved Masterful FB Marketing Essential Tips for Every Business Level</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ultimate-steps-to-document-lol-encounters/"><u>2024 Approved Ultimate Steps to Document LOL Encounters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-advantages-with-real-time-chatgpt-data/"><u>All Advantages with Real-Time ChatGPT Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-android-with-chatgpt-widget-use/"><u>Enhance Android With ChatGPT Widget Use</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-narzo-60x-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme Narzo 60x 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kid-friendly-smartphones-children-today-safe-and-fun/"><u>Kid-Friendly, Smartphones, Children Today, Safe, and Fun.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-directive-design-discover-7-digital-strategies/"><u>Master the Art of Directive Design: Discover 7 Digital Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/recording-sound-wonders-without-the-use-of-a-microphone-for-2024/"><u>Recording Sound Wonders Without the Use of a Microphone for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tactical-stealth-in-retaining-chatgpt-interactions/"><u>Tactical Stealth in Retaining ChatGPT Interactions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights for Advanced Users
-date: 2024-10-18T04:05:07.951Z
-updated: 2024-10-20T21:35:09.942Z
+date: 2024-10-20T20:00:34.354Z
+updated: 2024-10-26T19:12:57.636Z
 tags:
   - apple
 categories:
@@ -34,10 +34,10 @@ Of course, not every file type has an associated Quick Action but you can add ne
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What files offer Quick Actions?
@@ -51,30 +51,31 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
 
@@ -101,13 +102,6 @@ Let's say you want to convert that JPG to a PNG image. From the sub-menu, click 
 Configuring your converted image in the Finder pop-up.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
 
@@ -159,22 +153,24 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-vrecorder-download-install/"><u>[New] In 2024, Mastering VRecorder Download, Install</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-whats-ideal-fps-for-capturing-stunning-slow-motion-cinematography-in-2024/"><u>[New] What's Ideal FPS for Capturing Stunning Slow Motion Cinematography, In 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-tender-tracks-ideal-music-to-accompany-a-lifelayer-change/"><u>[Updated] 2024 Approved Tender Tracks Ideal Music to Accompany a Lifelayer Change</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-discovering-the-basics-of-discords-spoiler-tags-for-2024/"><u>[Updated] Discovering the Basics of Discord's Spoiler Tags for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unveiling-public-domain-paintings-insights-and-links/"><u>[Updated] Unveiling Public Domain Paintings Insights & Links</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-s23-fe-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy S23 FE? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/capture-and-keep-long-term-chat-gpt-storage/"><u>Capture & Keep: Long-Term Chat GPT Storage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquer-document-creation-chatgpt-word-partnership-for-efficiency/"><u>Conquer Document Creation: ChatGPT-Word Partnership for Efficiency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-vs-paid-assistants-for-freelancers-bing-chat-and-gpt-3-showdown/"><u>Free vs Paid Assistants for Freelancers: Bing Chat & GPT-3 Showdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-5s-next-chapter-4-traits-shaping-our-tomorrow/"><u>GPT-5's Next Chapter: 4 Traits Shaping Our Tomorrow</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safeguarding-ai-conversations-expert-guide-to-thwarting-model-inversion-attacks-on-your-bot/"><u>Safeguarding AI Conversations: Expert Guide to Thwarting Model Inversion Attacks on Your Bot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sonnet-skirmish-versed-voices-against-digital-llamas/"><u>Sonnet Skirmish - Versed Voices Against Digital Llamas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-tactics-in-online-fraudulence/"><u>Tech Tactics in Online Fraudulence</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-complete-guide-to-decluttered-image-designs-on-canva-for-2024/"><u>The Complete Guide to Decluttered Image Designs on Canva for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/three-bots-one-test-measuring-artistic-abilities/"><u>Three Bots, One Test: Measuring Artistic Abilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-pillars-behind-chatgpts-surge-in-popularity/"><u>Top 5 Pillars Behind ChatGPT’s Surge in Popularity</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-mini-video-medley-where-does-your-audience-flock-youtubes-or-tiktoks/"><u>[New] The Mini-Video Medley Where Does Your Audience Flock? YouTubes or TikToks?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-complete-guide-to-mastering-picsart/"><u>2024 Approved Complete Guide to Mastering PicsArt</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-advice-establishing-daily-mantra-rituals/"><u>AI-Powered Advice: Establishing Daily Mantra Rituals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-verbal-advance-responding-to-commands-with-confidence/"><u>AI's Verbal Advance: Responding to Commands with Confidence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-barriers-unmasking-the-top-9-ai-bot-fallacies/"><u>Breaking Down Barriers: Unmasking the Top 9 AI Bot Fallacies</u></a></li>
+<li><a href="https://win-online.techidaily.com/comprehensive-guide-understanding-and-utilizing-windows/"><u>Comprehensive Guide: Understanding and Utilizing Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-comedy-mastering-kinemaster-for-2024/"><u>Crafting Comedy Mastering KineMaster for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-nightshade-techniques-to-safeguard-originality-from-ai/"><u>Embracing Nightshade Techniques to Safeguard Originality From AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-how-to-effortlessly-set-up-your-new-ipad-insights-from-zdnet/"><u>Essential Guide: How to Effortlessly Set Up Your New iPad - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-powerhouses-googles-bard-and-microsofts-bing/"><u>Evaluating the Powerhouses: Google’s Bard & Microsoft's Bing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-frame-it-right-vertical-video-mastery-with-final-cut-pro-x/"><u>In 2024, Frame It Right Vertical Video Mastery with Final Cut Pro X</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-investigation-are-you-best-off-with-inshot-app-in-2024/"><u>In-Depth Investigation Are You Best Off with InShot App, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/open-source-high-quality-visual-effects-apps/"><u>Open Source, High Quality Visual Effects Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premium-audio-experience-leading-wired-earbuds/"><u>Premium Audio Experience: Leading Wired Earbuds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unseen-archive-of-your-silent-chatgpt-talks/"><u>The Unseen Archive of Your Silent ChatGPT Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-pro-protectors-comprehensive-gear-guide-by-tech-experts-zdnet/"><u>Top-Rated iPad Pro Protectors - Comprehensive Gear Guide by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/vintage-games-journey-from-backups-to-windows-11-pics/"><u>Vintage Games Journey: From Backups to Windows 11 Pics</u></a></li>
+<li><a href="https://win-web3.techidaily.com/win-117-windows-update/"><u>Win 11更新問題を解消するための7つの最善手 - Windows Updateで表示されず</u></a></li>
 </ul></div>
 

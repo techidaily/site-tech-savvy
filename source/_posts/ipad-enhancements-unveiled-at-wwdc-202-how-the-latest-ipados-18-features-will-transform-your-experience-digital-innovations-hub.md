@@ -1,7 +1,7 @@
 ---
 title: IPad Enhancements Unveiled at WWDC 202# - How the Latest iPadOS 18 Features Will Transform Your Experience | Digital Innovations Hub
-date: 2024-10-14T03:10:51.479Z
-updated: 2024-10-21T02:59:01.073Z
+date: 2024-10-20T21:48:15.323Z
+updated: 2024-10-26T20:13:50.870Z
 tags:
   - apple
 categories:
@@ -46,6 +46,13 @@ Apple Intelligence will tap into your photos for a few different tricks. You'll 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Audio transcriptions
 
 Using the Notes and Phone apps, you'll be able to [record, transcribe, and summarize a call](https://www.zdnet.com/article/apples-ios-18-will-let-you-record-phone-calls-without-a-third-party-app/) and other types of audio. When you start recording, the feature notifies everyone that the call is being recorded. Once the call ends, Apple Intelligence will not only transcribe it but summarize all its key points.
@@ -64,13 +71,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Mail assistance
 
 To help you get through your emails, Apple Intelligence will [try to understand their content](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) and identify those that are time-sensitive. Any emails that fit the criteria will be treated as priority messages. Instead of just previewing the first few lines of an email, AI will summarize the key details. 
@@ -80,10 +80,10 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Siri improvements
@@ -102,13 +102,6 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 
 ## What will come later
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Image playground
 
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
@@ -118,15 +111,22 @@ Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-ap
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -166,24 +166,16 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/onquering-the-fan-base-youtubes-pathway-to-more-followers/"><u>[New] Conquering the Fan Base YouTube's Pathway to More Followers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-xbox-gaming-captured-a-beginners-screen-recording-journey/"><u>[Updated] Xbox Gaming Captured A Beginner's Screen Recording Journey</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-easy-steps-to-extract-and-save-your-youtube-watch-lists/"><u>2024 Approved Easy Steps to Extract and Save Your YouTube Watch Lists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-elevates-user-experience-with-openais-chatgpt-for-ios-ipados-and-macos-insights/"><u>Apple Elevates User Experience with OpenAI's ChatGPT for iOS, iPadOS, and MacOS - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-between-the-apple-watch-ultra-and-apple-watch-series-8-a-comprehensive-guide/"><u>Choosing Between the Apple Watch Ultra and Apple Watch Series 8: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fine-tuning-vehicles-via-chatgpt-interaction-tips/"><u>Fine-Tuning Vehicles via ChatGPT Interaction Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/halt-the-comparative-analysis-exploring-differences/"><u>Halt The Comparative Analysis: Exploring Differences</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-fix-flawed-video-formats-at-home/"><u>How to Fix Flawed Video Formats at Home</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/implications-of-dojs-legal-action-against-apple-on-the-future-of-iphones-and-app-development-tech-insight/"><u>Implications of DOJ's Legal Action Against Apple on the Future of iPhones and App Development | Tech Insight</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-the-art-of-capturing-sims-4-essential-techniques-unveiled/"><u>In 2024, Mastering the Art of Capturing Sims 4 – Essential Techniques Unveiled</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplifying-generative-ai-core-ideas-highlighted/"><u>Simplifying Generative AI: Core Ideas Highlighted</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tap-into-ai-bing-search-how-to-sign-up/"><u>Tap Into AI Bing Search: How to Sign Up</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-g2-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo G2 Device</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-14-cooperative-mobile-apps-fun-multiplayer-experiences-on-android/"><u>Top 14 Cooperative Mobile Apps: Fun Multiplayer Experiences on Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1727786608863-top-rated-apple-watch-accessories-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Apple Watch Accessories - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-maximize-video-clarity-expert-recommended-enhancement-tools/"><u>Updated In 2024, Maximize Video Clarity Expert-Recommended Enhancement Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-guide-to-the-best-magsafe-compatible-devices-expertly-tested-and-reviewed/"><u>ZDNet's Ultimate Guide to the Best MagSafe Compatible Devices - Expertly Tested and Reviewed!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-eyes-only-snap-retrieval-on-social-media/"><u>[New] 2024 Approved Mastering Eyes-Only Snap Retrieval on Social Media</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-branding-made-simple-and-free/"><u>[New] In 2024, Channel Branding Made Simple & Free</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-internet-aid-social-story-recorder/"><u>[Updated] Internet Aid Social Story Recorder</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-windows-to-fresh-intel-hd-driver/"><u>Adjusting Windows to Fresh Intel HD Driver</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-bots-5-innovative-ai-tools-for-crypto-success/"><u>Beyond Bots: 5 Innovative AI Tools for Crypto Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-experience-increasing-fps-on-tainted-grail-conquest/"><u>Elevate Your Experience - Increasing FPS on 'Tainted Grail: Conquest'</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-festive-spirit-with-a-bargain-exclusive-offer-apple-airpods-at-40-off-unveiled-ahead-of-july-fourth-celebrations/"><u>Elevate Your Festive Spirit with a Bargain! Exclusive Offer: Apple AirPods at 40% Off - Unveiled Ahead of July Fourth Celebrations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/linear-bavarder-procedure-on-a-linux-device/"><u>Linear Bavarder Procedure on a Linux Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-tablet-picks-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Tablet Picks : Comprehensive Reviews by Tech Gurus - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-hidden-megabytes-on-your-iphone-effective-methods-to-clear-space-and-enhance-performance/"><u>Unlock Hidden Megabytes on Your iPhone: Effective Methods to Clear Space and Enhance Performance</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-5-free-ways-to-join-mpeg-video-files-together-for-2024/"><u>Updated Top 5 Free Ways to Join MPEG Video Files Together for 2024</u></a></li>
 </ul></div>
 

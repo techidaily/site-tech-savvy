@@ -1,7 +1,7 @@
 ---
 title: "Gemini Pro Vs. GPT++: Best AI Showdown"
-date: 2024-10-19T17:06:26.136Z
-updated: 2024-10-20T16:18:52.858Z
+date: 2024-10-25T20:49:06.680Z
+updated: 2024-10-26T19:29:02.867Z
 tags:
   - chatgpt
   - open-ai
@@ -58,13 +58,6 @@ Close
 
 ![Modify this response feature of Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/07.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can query both for the sources of the presented information. ChatGPT will show the sources at the end of each paragraph, whereas Gemini will display the information source immediately after each sentence. This practice is a good way to credit the original creator of the content.
 
 Close
@@ -109,6 +102,13 @@ Close
 
 ![Transcript generation by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/14-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It is YouTube videos only, though. Neither can fetch videos from other online video services.
 
 Close
@@ -116,13 +116,6 @@ Close
  Digging deeper into how well GPTs understand video content, I asked a specific question and its timestamp. ChatGPT got the timestamp wrong, but it answered the question right. Gemini could not find the answer in the video, so ChatGPT scores another point.
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Mobile Apps Comparison
 
@@ -178,13 +171,6 @@ Close
 
 ![Voice conversations introduction page in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Voice Conversation in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-2.png)
 
 Close
@@ -216,6 +202,13 @@ Close
  How about a tricky question, then? My question was about the birds sitting on a wire, and I wanted to test the ability to assess real-world implications. ChatGPT got this right, but Gemini is still in class.
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Graphs
 
@@ -478,6 +471,13 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pricing and Limits
 
  Both ChatGPT Plus and Google Gemini cost $20 per month. [ChatGPT has a limit of 40 messages every 3 hours](https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4), while Gemini allows 50\. A point here for Gemini.
@@ -609,6 +609,13 @@ Close
 
 ![Question on the photo taken answered by Google Gemini on phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/26-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Photo related question answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-1.png)
 
 ![Photo related question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/27-2.png)
@@ -620,13 +627,6 @@ Close
 ![Headphones recognition by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-1.png)
 
 ![Headphones recognition by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/28-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Where to buy question answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/29.png)
 
@@ -659,13 +659,6 @@ Close
 ![Voice conversations introduction page in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-1.png)
 
 ![Voice Conversation in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -725,13 +718,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pricing and Limits
 
  Both ChatGPT Plus and Google Gemini cost $20 per month. [ChatGPT has a limit of 40 messages every 3 hours](https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4), while Gemini allows 50\. A point here for Gemini.
@@ -885,6 +871,13 @@ Close
 
 ![Speech recording for conversion to text by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Speech conversion to text in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-2.png)
 
 ![Converted text from speech prompt answered by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/30-3.png)
@@ -895,6 +888,13 @@ Close
 
 ![Speech to text conversion in Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Converted text from speech prompt answered by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-2.png)
 
 ![Translation to telugu by Google Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/31-3.png)
@@ -904,13 +904,6 @@ Close
  ChatGPT has a built-in voice conversation feature. It could speak out and translate it into the language I asked for. +1 for ChatGPT.
 
 ![Voice conversations introduction page in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Voice Conversation in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/34-2.png)
 
@@ -938,18 +931,18 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tricky Question
 
  How about a tricky question, then? My question was about the birds sitting on a wire, and I wanted to test the ability to assess real-world implications. ChatGPT got this right, but Gemini is still in class.
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Graphs
 
@@ -962,6 +955,13 @@ Close
  Programming is the holy grail of AI, and bringing a layman's idea to life will be the pinnacle. When asked to write a code to delay the text input, both ChatGPT and Gemini Advanced did a wonderful job. It took a few more iterations to customize the code to fit the purpose, but it did work in the end. Each tool receives a point for this one.
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Creative Writing
 
@@ -1033,17 +1033,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-4-methods-to-record-gameplay-on-xbox-one/"><u>[Updated] 2024 Approved 4 Methods to Record Gameplay on Xbox One</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-comparing-mp4-recorders-the-latest-edition/"><u>[Updated] Comparing MP4 Recorders - The Latest Edition</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-financial-freedom-from-viewing-videos-effective-monetization-tactics-for-fb-for-2024/"><u>[Updated] Financial Freedom From Viewing Videos Effective Monetization Tactics for FB for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-hyperlapse-vs-timelapse-videos/"><u>2024 Approved Hyperlapse VS Timelapse Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/customizing-vr-with-meta-quest-3-are-prescription-compatible-lenses-a-must-for-glasses-wearers/"><u>Customizing VR with Meta Quest 3: Are Prescription-Compatible Lenses a Must for Glasses Wearers?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-apples-breakthrough-in-immersive-tech-on-vision-pro-the-moment-that-changed-everything/"><u>Discovering Apple's Breakthrough in Immersive Tech on Vision Pro - The Moment That Changed Everything</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-infinix-hot-30i-frp-by-drfone-android/"><u>Full Guide to Bypass Infinix Hot 30i FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/future-proof-workstation-discover-the-eco-friendly-power-of-asus-expertbook-p5-supporting-up-to-32gb-ram/"><u>Future-Proof Workstation: Discover the Eco-Friendly Power of ASUS ExpertBook P5, Supporting up to 32GB RAM</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Nokia C02? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/meta-quest-3-vs-apple-vision-pro-unlocking-advanced-ai-capabilities-on-your-own-terms-zdnet/"><u>Meta Quest 3 Vs. Apple Vision Pro: Unlocking Advanced AI Capabilities on Your Own Terms | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revitalizing-enterprises-how-five-companies-are-harnessing-apple-vision-pros-power/"><u>Revitalizing Enterprises: How Five Companies Are Harnessing Apple Vision Pro's Power</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unity-rolls-out-beta-access-to-developers-for-apple-vision-pro-revolutionizing-arvr-game-creation-zdnet/"><u>Unity Rolls Out Beta Access to Developers for Apple Vision Pro, Revolutionizing AR/VR Game Creation | ZDNET</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-best-8-filter-packs-for-dynamic-video-streaming/"><u>[New] 2024 Approved Best 8 Filter Packs for Dynamic Video Streaming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-essential-tactics-for-channel-spotlighting-on-youtube/"><u>[New] 2024 Approved The Essential Tactics for Channel Spotlighting on Youtube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-snapshot-success-mastering-the-art-of-xbox-one-captures-for-2024/"><u>[New] Snapshot Success Mastering the Art of Xbox One Captures for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-screen-capture-mastery-a-closer-look-at-recmeister-tech/"><u>[Updated] 2024 Approved Screen Capture Mastery A Closer Look at Recmeister Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-mpos-enabled-macs-upgraded-fedora-linux-rollout-with-one-exception-highlighted/"><u>All mPOS-Enabled Macs Upgraded: Fedora Linux Rollout, With One Exception Highlighted</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/aquatic-videography-evolved-top-camcorders-of-the-year/"><u>Aquatic Videography Evolved - Top Camcorders of the Year</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boost-your-visibility-fast-instagram-likes-and-vids-for-2024/"><u>Boost Your Visibility Fast Instagram Likes & Vids for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-finest-thanksgiving-offers-for-airpods-from-apple-ranked-by-savings-zdnet/"><u>Discover the Finest Thanksgiving Offers for AirPods From Apple, Ranked by Savings - ZDnet</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-the-frequent-problem-of-fuser-applications-crashing-on-desktops/"><u>Expert Fixes for the Frequent Problem of Fuser Applications Crashing on Desktops</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-recommendations-the-5-greatest-iphone-gps-solutions/"><u>Expert Recommendations: The 5 Greatest iPhone GPS Solutions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-effective-is-the-netgear-ex3700-as-an-ac750-wi-fi-range-amplifier-our-in-depth-review/"><u>How Effective Is the Netgear EX3700 as an AC750 Wi-Fi Range Amplifier? Our In-Depth Review</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-x100-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo X100?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/julys-must-have-laptops-exclusive-discount-roundup-by-zdnet-savings-extravaganza/"><u>July's Must-Have Laptops: Exclusive Discount Roundup by ZDNet Savings Extravaganza</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-app-store-cancellation-on-your-iphone-the-complete-walkthrough-for-handling-ios-nsubscription-services-expert-insights-from-zdnet/"><u>Mastering App Store Cancellation on Your iPhone: The Complete Walkthrough for Handling iOS Nsubscription Services – Expert Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reigning-in-chatter-mastering-gpt-assisted-dialogue-order/"><u>Reigning in Chatter: Mastering GPT-Assisted Dialogue Order</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sync-your-oura-health-insights-with-strava-a-step-by-step-guide-tech-blog/"><u>Sync Your Oura Health Insights with Strava: A Step-by-Step Guide | Tech Blog</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-basics-of-how-openais-gpt-3-utilizes-shared-links/"><u>The Basics of How OpenAI's GPT-3 Utilizes Shared Links</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-atandt-mobile-plans-and-promotions-in-may-2024-your-ultimate-guide-on-zdnet/"><u>Top AT&T Mobile Plans & Promotions in May 2024: Your Ultimate Guide on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/untruths-chatgpts-ineffectiveness-for-crypto-predictions/"><u>Untruths: ChatGPT's Ineffectiveness for Crypto Predictions</u></a></li>
 </ul></div>
 

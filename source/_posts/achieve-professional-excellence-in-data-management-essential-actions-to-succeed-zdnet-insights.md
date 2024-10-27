@@ -1,7 +1,7 @@
 ---
 title: "Achieve Professional Excellence in Data Management: Essential Actions to Succeed | ZDNet Insights"
-date: 2024-09-18 21:27:53
-updated: 2024-09-20 10:47:44
+date: 2024-10-25T16:04:37.503Z
+updated: 2024-10-26T19:26:37.889Z
 tags:
   - professional-development
 categories:
@@ -57,6 +57,13 @@ Whitcomb says EDF gives graduates in its program a career manager, who stays wit
 
 "Even now it's still useful to have her around. We catch up and it's useful having somebody who has shared experiences, good advice to give, and who understands where I'm coming from more than somebody who hasn't had that experience."
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't be scared
 
 Whitcomb says it's important young professionals don't feel too anxious about moving into a new and fast-moving area.
@@ -72,6 +79,13 @@ Young professionals will quickly learn everyone has gaps in their digital knowle
 Whitcomb says the key to success for new graduates is seeing every obstacle as an opportunity. 
 
 "Going in from square one is quite intimidating," she says. "But if you have that mindset of, 'I want to learn, I'm willing to learn, and I can think logically' then you'll be great. So, don't be put off because you don't know how to code at the start."
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Embrace the creativity
 
@@ -93,6 +107,13 @@ Whitcomb wants to help people in the department feel empowered to use the tools 
 
 "If you enjoy the logical side of things, you can bring brilliant, creative solutions together."
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Ask questions
 
 If you want to get ahead, don't be afraid to probe people, says Whitcomb: "I know everyone says this the whole time, but asking questions is the best way to learn." 
@@ -108,6 +129,13 @@ Both Bentley and EDF are keen to get their professionals to ask questions about 
 "On the flip side, if somebody asks you a question, be open to that. Sometimes, it's quite difficult to know who to ask questions. If someone asks you something, you learn yourself," she says. 
 
 "So, make sure you're asking questions and be the person other people feel they can ask questions to."
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Grab fresh opportunities
 
@@ -144,11 +172,31 @@ Whitcomb says she enjoys speaking about her work, sharing learnings, and contrib
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-culinary-craftsmanship-mastering-the-art-of-food-filmmaking-with-these-7-strategies-for-2024/"><u>[New] Culinary Craftsmanship Mastering the Art of Food Filmmaking with These 7 Strategies for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevating-your-video-content-youtube-to-igtv-transition/"><u>[Updated] Elevating Your Video Content YouTube to IGTV Transition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-experts-insight-into-morphvox-for-professional-sound-alteration/"><u>[Updated] Expert's Insight Into MorphVOX for Professional Sound Alteration</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-reclaiming-credibility-from-a-youtube-ban/"><u>[Updated] Reclaiming Credibility From a YouTube Ban</u></a></li>
+<li><a href="https://win-latest.techidaily.com/comment-clonez-vous-une-cle-usb-a-laide-dun-logiciel-gratuit-guide-pratique-et-facile-a-suivre/"><u>Comment Clonez-Vous Une Clé USB À L'aide D’un Logiciel Gratuit : Guide Pratique Et Facile À Suivre</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-methods-for-eliminating-user-accounts-in-windows-10/"><u>Comprehensive Methods for Eliminating User Accounts in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-most-effective-apple-watch-display-guard-as-recommended-by-experts-gizmodo/"><u>Discover the Most Effective Apple Watch Display Guard as Recommended by Experts | Gizmodo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovation-horizon-eclipsing-the-classic-test/"><u>Innovation Horizon: Eclipsing the Classic Test</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-for-evidence-based-therapeutic-practices/"><u>Leveraging GPT for Evidence-Based Therapeutic Practices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shaping-tomorrows-classrooms-top-8-reasons-for-embracing-ai/"><u>Shaping Tomorrow's Classrooms: Top 8 Reasons for Embracing AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-ai-search-at-bing-joining-process-explanited/"><u>Step Into AI Search at Bing: Joining Process Explanited</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-finest-ai-idea-exchanges-in-the-digital-realm/"><u>The Finest AI Idea Exchanges in the Digital Realm</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6/"><u>The Ultimate Live-Streaming Mic Guide Choosing From the Best 6</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-your-writing-potential-skip-these-pitfalls-with-chatgpt/"><u>Unleashing Your Writing Potential – Skip These Pitfalls with ChatGPT</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-will-lead-creativity-notions-gambit-against-gpt-3/"><u>Who Will Lead Creativity? Notion's Gambit Against GPT-3</u></a></li>
+</ul></div>
+

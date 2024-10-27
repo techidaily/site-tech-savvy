@@ -1,7 +1,7 @@
 ---
 title: "Stealth Job Search Strategies: Landing a New Role Without Blowing Your Current Cover"
-date: 2024-09-19 10:21:14
-updated: 2024-09-20 11:13:32
+date: 2024-10-24T19:12:29.691Z
+updated: 2024-10-26T18:07:37.557Z
 tags:
   - professional-development
 categories:
@@ -40,6 +40,13 @@ Once you know what you want, you can zero in on opportunities that seem to fit y
 You may feel tempted to hint to your coworkers about your dissatisfaction with the current situation or excitement at a promising lead. Don't do it. If word gets around your workplace that you are looking for a new job, this could create a tense situation or even get you fired.
 
 This means you should also not post to your social media accounts or LinkedIn about your job search. Being discreet will allow you to find the right replacement job without rushing.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update your resume and LinkedIn.
 
@@ -87,6 +94,13 @@ Keep in mind that you can always offer to provide references by request. You can
 
 The situation is different if you're working on a limited contract or know your employment is coming to an end soon. Even then, list only coworkers you trust and ask them before listing them.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Set up interviews during non-work hours.
 
 Over the course of your job search, you'll need to schedule interviews. Repeatedly leaving work for interviews will likely rouse suspicion, so if possible schedule interviews during non-work hours.
@@ -102,6 +116,13 @@ Set boundaries for yourself by telling possible employers which times work and w
 **SEE:** [**Your ultimate guide to preparing for a tech job interview**](https://www.zdnet.com/education/professional-development/tech-job-interview-tips/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Keep giving your current job your best effort.
 
@@ -128,6 +149,13 @@ Now that you're fully on board to start working at a better job, your next step 
 Send your letter of resignation at least two weeks before your intended final day. It should be concise and polite. Alert your current employer to your plans, wish them well, and offer to help with the transition.
 
 A good resignation letter is not only a courtesy but will allow you to leave your current employer without burning any bridges.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 11\. Start your new job with confidence.
 
@@ -158,11 +186,27 @@ A positive, proactive attitude can help you overcome[new job anxiety](https://ww
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-best-text-effects-of-psd/"><u>[Updated] Best Text Effects of PSD</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-why-the-samsung-galaxy-tab-s-7plus-is-a-powerhouse-in-the-premium-android-market/"><u>Comprehensive Review: Why the Samsung Galaxy Tab S 7+ Is a Powerhouse in the Premium Android Market</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/essential-tips-for-skyrocketing-your-instagram-followers-for-2024/"><u>Essential Tips for Skyrocketing Your Instagram Followers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-apples-new-horizon-unlimited-access-to-ai-education-for-thousands-of-alumni-and-students/"><u>Exploring Apple's New Horizon: Unlimited Access to AI Education for Thousands of Alumni and Students</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy A54 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-12-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi 12 5G Phone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-common-problems-getting-your-aol-mail-up-and-running-on-iphones-with-6-solutions/"><u>Overcoming Common Problems - Getting Your AOL Mail Up and Running on iPhones with 6 Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-revolutionary-ios-innovations-in-the-new-iphone-16-that-justify-an-upgrade-insights-from-tech-experts/"><u>Top 4 Revolutionary iOS Innovations in the New iPhone 16 That Justify an Upgrade - Insights From Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transition-from-apples-finewoven-to-high-quality-beats-leather-and-fabric-cases-exclusive-insights/"><u>Transition From Apple's FineWoven to High-Quality Beats Leather & Fabric Cases | Exclusive Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-redmi-k70-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi Redmi K70 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-5-ai-apps-designed-for-emotional-care/"><u>Unraveling 5 AI Apps Designed for Emotional Care</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-ios-175s-hidden-feature-resurrecting-deleted-photos-expert-advice-for-users-cnet/"><u>Unveiling iOS 17.5'S Hidden Feature: Resurrecting Deleted Photos - Expert Advice for Users | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vital-steps-for-a-more-innovative-and-user-friendly-chatgpt-plugin-store/"><u>Vital Steps for a More Innovative and User-Friendly ChatGPT Plugin Store</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Beyond the CV: Innovative Approaches to Hiring by Tech Industry Leaders | ZDNet"
-date: 2024-09-18 12:36:56
-updated: 2024-09-20 12:22:53
+date: 2024-10-22T17:32:26.227Z
+updated: 2024-10-26T19:03:16.515Z
 tags:
   - professional-development
 categories:
@@ -52,6 +52,13 @@ Four in ten (40%) recruiters polled said they regularly hire developers who don'
 
 Shifting the focus from resumes to skills also gives an opportunity for those with [non-standard job backgrounds to get into tech](https://www.zdnet.com/article/developer-jobs-when-it-comes-to-building-diverse-teams-employers-are-still-missing-the-mark/), says Richardson: "Which we need, frankly. There's such a mismatch between demand for developers or development skills and the supply of engineering graduates. Our forecasts are that the need for developers is going to grow about 15% year over year. It's crazy."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Not dead yet
 
 While CoderPad's research indicates skills-based hiring is becoming more popular, there remains a strong demand for CVs in the hiring process.
@@ -97,11 +104,30 @@ At the same time, the blame for poor hiring decisions usually lands at the feet 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-effortless-obs-and-zoom-stream-merge-steps-for-2024/"><u>[Updated] Effortless OBS and Zoom Stream Merge Steps for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-skype-sessions-captured-effective-freepaid-windowsmac-methods/"><u>2024 Approved Skype Sessions Captured Effective Free/Paid Windows/Mac Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bard-vs-chatgpt-vs-offline-alpaca-which-is-the-best-llm/"><u>Bard Vs. ChatGPT Vs. Offline Alpaca: Which Is the Best LLM?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-smbus-driver-fast-simple-steps-inside/"><u>Download and Update AMD SMBus Driver Fast: Simple Steps Inside</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-query-handling-the-perplexity-ai-advantage/"><u>Expert Query Handling – The Perplexity AI Advantage</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-11-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-12-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 12 Safe and Legal</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-adjusting-music-tempo-on-spotify-app/"><u>In 2024, Strategies for Adjusting Music Tempo on Spotify App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nightshade-techniques-to-safeguard-your-unique-artistic-creations/"><u>Nightshade Techniques to Safeguard Your Unique Artistic Creations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proving-the-worth-of-other-ais-for-automated-code-generation/"><u>Proving the Worth of Other AIs for Automated Code Generation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-the-website-building-process-through-chatgpts-insights/"><u>Streamline the Website Building Process Through ChatGPT's Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taking-web-pages-to-desktop-level-with-windows-guide/"><u>Taking Web Pages to Desktop Level with Windows Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-mastering-mp4-video-editing-a-step-by-step-guide-for-mac-and-windows/"><u>Updated 2024 Approved Mastering MP4 Video Editing A Step-by-Step Guide for Mac and Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/veen-from-legal-matters-to-tech-news-update-apples-generous-compensation-for-eligible-macbook-enthusiasts-via-settlement-deal/"><u>Veen From Legal Matters to Tech News Update: Apple's Generous Compensation for Eligible MacBook Enthusiasts via Settlement Deal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-ranking-of-apple-watches-for-2-in-depth-testing-and-expert-evaluations/"><u>ZDNet's Ultimate Ranking of Apple Watches for 2지년: In-Depth Testing & Expert Evaluations</u></a></li>
+</ul></div>
+

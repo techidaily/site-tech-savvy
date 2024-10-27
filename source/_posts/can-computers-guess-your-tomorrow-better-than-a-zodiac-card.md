@@ -1,7 +1,7 @@
 ---
 title: Can Computers Guess Your Tomorrow Better Than a Zodiac Card?
-date: 2024-10-14T03:01:14.469Z
-updated: 2024-10-21T03:24:25.656Z
+date: 2024-10-25T18:14:16.250Z
+updated: 2024-10-26T20:43:15.292Z
 tags:
   - chatgpt
   - open-ai
@@ -43,22 +43,21 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
  Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Choose Your ChatGPT Fortune Telling Questions Wisely
 
 ![Fortune Teller doing a Reading for a Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fortune-teller-doing-a-reading-for-a-client-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another thing we've learned from movies is that knowing the future is a dangerous thing. As a large language model which has already ingested and digested most of the internet, ChatGPT, or Agnes, as she now calls herself, could possibly make reliable predictions of when and how you're going to die. You probably don't want to know, so don't ask.
 
@@ -67,10 +66,16 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
  What follows is her prediction and how it played out in real life.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Well Did ChatGPT Predict the Future?
@@ -118,10 +123,17 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
@@ -151,18 +163,24 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-comprehensive-durecorder-manual-review/"><u>[New] In 2024, Comprehensive DuRecorder Manual Review</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-comprehensive-fs-view-strategies-for-premiere-pro/"><u>[Updated] 2024 Approved Comprehensive FS View Strategies for Premiere Pro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-gliding-giants-olympic-skate-tales/"><u>[Updated] Gliding Giants Olympic Skate Tales</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-affordable-innovative-ae-templates/"><u>[Updated] The Ultimate Guide to Affordable, Innovative AE Templates</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-suites-3d-modeling-and-animation-synergy/"><u>2024 Approved Elite Suites 3D Modeling & Animation Synergy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-max-token-limit-and-breaking-past-it/"><u>ChatGPT's Max Token Limit & Breaking Past It</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978073007-free-audio-upgrade-with-the-m-audio-fast-track-ultra-start-today/"><u>Free Audio Upgrade with the M-Audio Fast Track Ultra – Start Today!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-f34-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy F34 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-amv-mp4/"><u>Movavi를 사용한 AMV MP4 파일의 무료 온라인 변환 방법 – 비용 부여</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-price-of-love-and-tech-unveiling-the-sentiments-behind-an-apple-vision-pro-pitch-analysis-by-zdnet/"><u>The Price of Love and Tech: Unveiling the Sentiments Behind an Apple Vision Pro Pitch | Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-top-6-ai-enhancements-in-ios-18-for-iphone-plus-upcoming-innovations-from-apple-zdnet/"><u>Unveiling the Future: Top 6 AI Enhancements in iOS 18 for iPhone, Plus Upcoming Innovations From Apple - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-how-homeos-makes-a-comeback-in-apples-new-tvos-beta-version-analysis/"><u>Unveiling the Secrets: How 'homeOS' Makes a Comeback in Apple's New tvOS Beta Version | Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-chatgpt-misses-the-mark-in-coin-forecasting/"><u>Why ChatGPT Misses the Mark in Coin Forecasting</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-bite-sized-broadcasting-maintaining-quality-in-quick-posts/"><u>[New] 2024 Approved Bite-Sized Broadcasting Maintaining Quality in Quick Posts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/conic-video-titles-youtubes-most-watched-lore-for-2024/"><u>[New] Iconic Video Titles YouTube's Most-Watched Lore for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-oculus-odyssey-a-journey-through-best-vr-headsets/"><u>[New] Oculus Odyssey A Journey Through Best VR Headsets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-advanced-features-in-obs-studio-android-for-2024/"><u>[Updated] Navigating Advanced Features in OBS Studio (Android) for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-secrets-of-single-stream-success-online-broadcast-tips-and-tricks-for-2024/"><u>[Updated] Secrets of Single-Stream Success Online Broadcast Tips and Tricks for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-prime-15-web-based-editing-platforms-reviewed-all-free/"><u>2024 Approved Prime 15 Web-Based Editing Platforms Reviewed, All FREE</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-detective-blind-spots-an-urgent-warning/"><u>AI's Detective Blind Spots: An Urgent Warning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/closedchatgptqueries-anticipated-resumption/"><u>ClosedChatGPTQueries: Anticipated Resumption</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-discerning-authentic-from-fake-chatbot-interactions/"><u>Efficiently Discerning Authentic From Fake ChatBot Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ais-capacity-to-understand-emotional-nuances/"><u>Exploring AI's Capacity to Understand Emotional Nuances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/holiday-deal-alert-apple-watch-ultra-now-at-record-low-prices-find-out-how-much-you-can-save/"><u>Holiday Deal Alert: Apple Watch Ultra Now at Record Low Prices – Find Out How Much You Can Save!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-do-internet-enabled-tvs-work-and-why-you-should-consider-one/"><u>How Do Internet-Enabled TVs Work and Why You Should Consider One</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-apple-iphone-8-without-a-home-button-by-drfone-ios/"><u>How To Open Your Apple iPhone 8 Without a Home Button</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfect-your-interactions-with-these-essential-prompts/"><u>Perfect Your Interactions with These Essential Prompts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamlined-sharing-how-to-transfer-facebook-videos-effortlessly-to-email-and-chat-with-friends/"><u>Streamlined Sharing: How To Transfer Facebook Videos Effortlessly to Email and Chat with Friends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-non-apple-non-anker-magsafe-wallet-deal-of-the-year-my-comprehensive-review-zdnet/"><u>Top Non-Apple, Non-Anker MagSafe Wallet Deal of the Year: My Comprehensive Review | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-chatgpt-and-plugin-interaction-woes/"><u>Troubleshooting: ChatGPT & Plugin Interaction Woes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-wont-find-the-latest-ai-innovations-on-your-current-iphone-the-costly-secret-behind-apples-strategy/"><u>Why You Won't Find the Latest AI Innovations on Your Current iPhone - The Costly Secret Behind Apple's Strategy</u></a></li>
 </ul></div>
 

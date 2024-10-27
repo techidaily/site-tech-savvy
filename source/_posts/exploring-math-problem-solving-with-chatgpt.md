@@ -1,7 +1,7 @@
 ---
 title: Exploring Math Problem-Solving with ChatGPT
-date: 2024-10-17T19:07:32.956Z
-updated: 2024-10-21T02:41:44.099Z
+date: 2024-10-25T18:36:17.829Z
+updated: 2024-10-26T20:28:07.466Z
 tags:
   - chatgpt
   - open-ai
@@ -60,13 +60,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can ChatGPT Solve Geometry and Trigonometry Problems?
 
  Seeing as ChatGPT was able to solve arithmetic and algebra problems without error, the challenge proceeded with a few problems in geometry and trigonometry. Despite being faced with a few topics in trig—including the Pythagorean theorem, inscribed angles, and the directrix of a parabola—GPT-4 solved all problems accurately.
@@ -74,21 +67,40 @@ Close
 ![asking chatgpt to solve for the hypotenuse of a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![asking chatgpt to solve for an angle given a three sided shape inscribed within a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
@@ -107,25 +119,24 @@ Close
 
 ![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
 
 ![chatgpt gives an incorrect definition of sine after user insists that it is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can ChatGPT Solve Calculus Problems?
 
@@ -145,14 +156,14 @@ Close
 
 ![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Close
 
 ## Is ChatGPT Accurate at Solving Math Problems?
 
@@ -168,6 +179,13 @@ Close
 * ChatGPT always answers confidently. If you aren’t familiar enough with math to discern when it gives an incorrect answer but rely on it for learning, you may develop serious misunderstandings about concepts in math over time.
 * ChatGPT bends to the will of the user. Regardless of whether you intend to manipulate its answers, it may offer incorrect information to appease you if something in your response triggers it.
 * ChatGPT may not pick up on inherent errors in the information that you give it. You should reconsider using ChatGPT for math if you aren’t familiar enough with a concept because it may simply reinforce your misunderstanding.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Carefully When Solving Math Problems
 
@@ -194,21 +212,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-behind-the-scenes-mastering-cinematic-techniques-in-24/"><u>[New] Behind the Scenes Mastering Cinematic Techniques in '24</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unplugged-entertainment-essential-free-apps-for-offline-playing/"><u>[Updated] In 2024, Unplugged Entertainment Essential Free Apps for Offline Playing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-the-trap-of-false-promises-in-binggpt-crypto/"><u>Avoiding the Trap of False Promises in BingGPT Crypto</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cybercriminals-and-ai-using-gpt-to-compromise-your-finances/"><u>Cybercriminals and AI: Using GPT to Compromise Your Finances</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-videos-a-complete-shift-from-sdr-to-hdr/"><u>Elevate Your Videos A Complete Shift From SDR to HDR</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-ai-with-efficient-vector-database-architecture/"><u>Enhancing AI with Efficient Vector Database Architecture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-essay-writing-via-chatgpt/"><u>Enhancing Essay Writing via ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-the-chatgpt-widget-on-android/"><u>How to Use the ChatGPT Widget on Android</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-hues-iphone-low-light-mastery/"><u>In 2024, Harnessing Hues IPhone Low-Light Mastery</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-pcs-premiere-selection-of-ps3-game-simulations/"><u>In 2024, PC's Premiere Selection of PS3 Game Simulations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-rotation-video-setup/"><u>In 2024, Ultimate Rotation Video Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgtp-a-cybercriminals-new-weapon-against-pc-security/"><u>Is ChatGTP a Cybercriminal's New Weapon Against PC Security?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/netgear-nighthawk-x10-router-review-the-gateway-to-exceptional-wi-fi-speeds-and-performance/"><u>Netgear Nighthawk X10 Router Review - The Gateway to Exceptional Wi-Fi Speeds and Performance</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-edge-2023-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Motorola Edge 2023 Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-resource-for-toms-computing-and-gear-tests/"><u>The Ultimate Resource for Tom's Computing and Gear Tests</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-crafting-engaging-bio-stories-a-guide-to-stand-out-on-fb-for-2024/"><u>[Updated] Crafting Engaging Bio Stories – A Guide to Stand Out on FB for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-asgardian-alliance-final-stand/"><u>[Updated] In 2024, Asgardian Alliance Final Stand</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/mov/"><u>重新获取被删除的MOV文件：详细指南</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-evolution-microsofts-update-to-bing/"><u>AI Evolution: Microsoft's Update to Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-rescue-chatgpt-as-a-wilderness-survival-partner/"><u>AI Rescue: ChatGPT as a Wilderness Survival Partner?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-titans-comparing-the-strengths-of-forefront-ai-and-chatgpt/"><u>AI Titans: Comparing the Strengths of Forefront AI and ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-facilitated-path-to-your-dream-position/"><u>AI-Facilitated Path to Your Dream Position</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/budget-friendly-mobvoi-ticwatch-e2-analysis-cutting-costs-or-compromising-quality/"><u>Budget-Friendly Mobvoi TicWatch E2 Analysis: Cutting Costs or Compromising Quality?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratis-mkv-to-m4v-konvertierung-online-professionelle-dienstleistung-von-movavi/"><u>Gratis MKV-to-M4V Konvertierung Online - Professionelle Dienstleistung Von Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-dall-e-in-chatgpt-4-to-create-ai-images/"><u>How to Use DALL-E in ChatGPT-4 to Create AI Images</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/nook-glowlight-3-by-barnes-and-noble-an-in-depth-review-of-the-ideal-evening-e-book-reader/"><u>Nook GlowLight 3 by Barnes & Noble - An In-Depth Review of the Ideal Evening E-Book Reader</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-lateral-position-solved-for-devices/"><u>Optimal Lateral Position Solved for Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-five-key-shifts-from-ai-predecessor-gpt-35/"><u>The Five Key Shifts From AI Predecessor (GPT-3.5)</u></a></li>
 </ul></div>
 

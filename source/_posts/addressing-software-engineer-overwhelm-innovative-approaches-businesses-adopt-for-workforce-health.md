@@ -1,7 +1,7 @@
 ---
 title: "Addressing Software Engineer Overwhelm: Innovative Approaches Businesses Adopt for Workforce Health"
-date: 2024-09-18 22:54:31
-updated: 2024-09-20 11:36:20
+date: 2024-10-24T18:07:37.914Z
+updated: 2024-10-26T18:06:26.343Z
 tags:
   - professional-development
 categories:
@@ -45,7 +45,21 @@ Interestingly, Lessem said the study showed that, of the total who were feeling 
 
 "I think that employers need to be cognisant, particularly in tech where you have more Gen Z and millennials working in the sector, so they're even more acutely affected by the burnout."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Easing the burden
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -69,6 +83,13 @@ Stephen Street, technology evangelist at Tableau, agreed that a skill such as da
 
 "It means they're no longer doing repetitive work…but now they're working on more valuable aspects of the business, so that they feel they're contributing in a much more valued way." 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Empowering the business
 
 Finance giant NAB is one company that has recognised the importance of boosting its skills base as part of its digital transformation journey. 
@@ -89,6 +110,13 @@ According to Cammaroto, the competition for talent is so fierce these days, espe
 
 "We're also seeing increasing participation outside of traditional tech roles who are looking to join a career in tech – a trend that we're accommodating through a number of initiatives including our 'Return to Work' program. This IT-focused program encourages people who have had a two-year or longer career hiatus to return to the workforce and leverage our learning and development offerings to upskill or even retrain."
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Read more from this special report: Tech skills - Upgrade your job**
 
 * [**Software skills will get you far, but you don't have to be a coder to make it big in tech**](https://www.zdnet.com/education/professional-development/if-you-want-to-make-it-big-in-tech-these-non-tech-skills-are-essential/#link=%7B%22linkText%22:%22Software%20skills%20will%20get%20you%20far,%20but%20you%20don't%20have%20to%20be%20a%20coder%20to%20make%20it%20big%20in%20tech%22,%22target%22:%22%5Fblank%22,%22href%22:%22https://www.zdnet.com/education/professional-development/if-you-want-to-make-it-big-in-tech-these-non-tech-skills-are-essential/%22,%22role%22:%22standard%22,%22absolute%22:%22%22%7D)
@@ -103,11 +131,33 @@ According to Cammaroto, the competition for talent is so fierce these days, espe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/1723206909000-solved-wmi-provider-host-high-cpu-usage-on-windows-1111-quickly-and-easily/"><u>[Solved] WMI Provider Host: High CPU Usage on Windows 11/11 | Quickly & Easily</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-superior-sites-for-selecting-storied-soundtracks/"><u>[Updated] 2024 Approved Superior Sites for Selecting Storied Soundtracks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-renewed-view-of-sony-s3700-2023-edition/"><u>[Updated] In 2024, The Renewed View of Sony S3700 2023 Edition</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-learn-the-art-of-making-cellphone-alarms-with-trending-tiktok-music/"><u>2024 Approved Learn the Art of Making Cellphone Alarms with Trending TikTok Music</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-trustworthiness-of-independent-gpt-tools/"><u>Assessing the Trustworthiness of Independent GPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dawn-of-new-sounds-leveraging-chatgpt-in-sound-production/"><u>Dawn of New Sounds: Leveraging ChatGPT in Sound Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-ai-mastery-with-no-cost-the-copilot-advantage-in-turbo/"><u>Effortless AI Mastery with No Cost: The Copilot Advantage in Turbo</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-vivo-v29-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Vivo V29 Pro on Mac?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-se-2020-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone SE (2020) in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-13-mini-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 13 mini or iPad?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interpreting-codegpt-could-it-be-the-next-programming-hero/"><u>Interpreting CodeGPT: Could It Be the Next Programming Hero?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-upgrading-to-ios-18-safe-for-all-ipads-understanding-potential-risks-and-compatibility-issues-guide/"><u>Is Upgrading to iOS 18 Safe for All iPads? Understanding Potential Risks and Compatibility Issues Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/public-restrooms-transformed-by-innovative-tech-for-quick-health-screenings-the-latest-breakthrough/"><u>Public Restrooms Transformed by Innovative Tech for Quick Health Screenings - The Latest Breakthrough!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-bike-rides-using-adaptive-lenses-and-display-technology-insights-from-zdnets-test-run/"><u>Revolutionizing Bike Rides Using Adaptive Lenses & Display Technology, Insights From ZDNET's Test Run</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/seamless-streaming-to-mp3-top-10-online-audio-tools/"><u>Seamless Streaming to Mp3 Top 10 Online Audio Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-privacy-preventing-gpt-from-logging-dialogs/"><u>Strategies for Privacy: Preventing GPT From Logging Dialogs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-efficient-hosts-guide-to-online-meeting-planning-for-2024/"><u>The Efficient Host's Guide to Online Meeting Planning for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-true-impact-of-snapchats-my-ai-6-underrated-benefits/"><u>The True Impact of Snapchat's My AI: 6 Underrated Benefits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/top-10-mobile-photography-enhancers-ios-and-android-comparison-for-2024/"><u>Top 10 Mobile Photography Enhancers IOS & Android Comparison for 2024</u></a></li>
+</ul></div>
+

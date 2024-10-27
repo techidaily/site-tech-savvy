@@ -1,7 +1,7 @@
 ---
 title: Google Reveals 'Bard', Set for AI Battle Against ChatGPT
-date: 2024-10-17T18:06:50.511Z
-updated: 2024-10-20T18:18:49.749Z
+date: 2024-10-21T19:48:41.059Z
+updated: 2024-10-26T21:39:38.452Z
 tags:
   - chatgpt
   - open-ai
@@ -38,34 +38,15 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
 
  Unlike ChatGPT, Sundar Pichai explained that Bard will initially only be available to a few trusted testers, with plans to scale to more users. The announcement also showcased what the initial release would look like with several examples—some of which look strikingly similar to what ChatGPT would do. So, is Bard going to be just another ChatGPT?
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Google Bard Could Be Better Than ChatGPT
 
 ![An illustration of an AI bot performing meeting analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/AI-Meeting-Assistant-for-Online-Meetings-Featured-Image.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT was released on November 30, 2022, after a lengthy development period. The entire development process, including the base technology that powers it, spanned several years. At first glance, this would mean Google had less than three months to build a product to rival ChatGPT, a product built on years of evolving technology.
@@ -81,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
  In simpler terms, this would mean Google's Bard would be able to provide fresh, up-to-date responses while ChatGPT would, unfortunately, be limited to information relating to events, not beyond 2021 (ChatGPT's current data training cut-off).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Will Google Bard Work?
@@ -94,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
  However, in typical Google fashion, Google will almost certainly push to deeply integrate Bard into most of its products, including Google Search, akin to what Microsoft is trying to do with Bing and other Microsoft products using ChatGPT technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Google's Bard Demonstration Features Factual Issues
@@ -105,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
  But despite the interest and understandable hype with Google's Bard announcement, its first demonstration didn't go well. Eagle-eyed astronomers quickly pointed out that at least one of the "facts" delivered by Bard was completely wrong. For example, Bard stated that the James Webb Space Telescope "took the very pictures of a planet outside of our own solar system," but the European Very Large Telescope accomplished that accolade in 2004.
 
  Bard is still in its very early stages, but its false statement was a clear indicator of the issues of integrating conversational AI technology deeper into general internet search, where many will trust what is written.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Google's Bard AI Be Better Than ChatGPT?
 
@@ -127,22 +115,24 @@ thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/apple-reveals-how-deleted-images-return-with-ios-175-update-and-next-steps-explained-zdnet/"><u>Apple Reveals How Deleted Images Return with iOS 17.5 Update & Next Steps Explained | ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-vivo-x90s-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo X90S Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-between-web-and-ai-with-agentgpt/"><u>Bridging the Gap Between Web & AI – With AgentGPT</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capture-every-moment-essential-ways-for-google-meet-recordings/"><u>Capture Every Moment Essential Ways for Google Meet Recordings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cease-receiving-junk-text-alerts-a-user-friendly-guide-to-stop-spam-sms-on-iphones-in-just-three-steps/"><u>Cease Receiving Junk Text Alerts: A User-Friendly Guide to Stop Spam SMS on iPhones in Just Three Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-ai-slang-keywords-everyone-should-know/"><u>Demystifying AI Slang: Keywords Everyone Should Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-evolution-of-openais-gpt/"><u>Exploring the Evolution of OpenAI's GPT</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guia-maestra-como-clonar-con-exito-tu-disco-rigido-en-segundo-plano/"><u>Guía Maestra: Cómo Clonar Con Éxito Tu Disco Rigido en Segundo Plano</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-electric-vehicles-outshine-gas-guzzlers-in-terms-of-efficiency-and-power-the-reasons-behind-it/"><u>How Electric Vehicles Outshine Gas Guzzlers in Terms of Efficiency and Power - The Reasons Behind It</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-archive-your-interactive-discussions-with-ai/"><u>How to Archive Your Interactive Discussions with AI</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-take-screenshots-on-windows-11-desktop/"><u>How To Take Screenshots on Windows 11 Desktop</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/privacy-in-digital-dialogues-top-3-bot-safety-risks/"><u>Privacy in Digital Dialogues: Top 3 Bot Safety Risks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quantum-hdr-101-a-complete-breakdown/"><u>Quantum HDR 101 A Complete Breakdown</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-titans-of-tutorials-youtube-leaders-for-2024/"><u>The Titans of Tutorials YouTube Leaders for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uncover-the-truth-can-i-tell-if-my-airtag-is-monitoring-me/"><u>Uncover the Truth: Can I Tell If My AirTag Is Monitoring Me?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-from-still-to-motion-mastering-time-lapse-video-creation-with-software/"><u>Updated In 2024, From Still to Motion Mastering Time Lapse Video Creation with Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-camera-screens-at-your-fingertips-review-of-top-free-recorders/"><u>[New] 2024 Approved Camera Screens at Your Fingertips Review of Top Free Recorders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-frost-giants-redemption-gods-unleashed/"><u>[New] In 2024, Frost Giants' Redemption Gods Unleashed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-performers-in-the-world-of-live-game-broadcast-cams/"><u>[New] Top Performers in the World of Live Game Broadcast Cams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-phone-filters-and-camera-cases/"><u>[Updated] Ultimate Phone Filters & Camera Cases</u></a></li>
+<li><a href="https://win-online.techidaily.com/1726223856302-wmamov-movavi/"><u>線上無限制自由改變WMA成MOV影片 - 使用Movavi的簡單方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-governance-openai-leader-advocates-stronger-policies-impact-analysis/"><u>AI Governance: OpenAI Leader Advocates Stronger Policies (Impact Analysis)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-navigating-lg-channels-top-tips-and-crucial-facts/"><u>Comprehensive Guide to Navigating LG Channels: Top Tips and Crucial Facts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-platforms-for-ai-enhanced-storytelling/"><u>Exclusive Platforms for AI-Enhanced Storytelling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fraudulent-chromatic-plugin-grabs-facebook-authentications/"><u>Fraudulent Chromatic Plugin: Grabs FACEBOOK Authentications</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-14-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 14 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-x9b-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor X9b? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-android-update-for-vr-video-watchers/"><u>In 2024, The Essential Android Update for VR Video Watchers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-showdown-in-depth-analysis-of-ipad-pro-vs-ipad-air-to-determine-the-best-device-for-you-expert-review-by-zdnet/"><u>IPad Showdown: In-Depth Analysis of iPad Pro Vs. IPad Air to Determine the Best Device for You | Expert Review by ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-macbook-thermal-management-techniques-for-assessing-device-temperature/"><u>Mastering MacBook Thermal Management: Techniques for Assessing Device Temperature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/narrative-through-symbols-in-finance/"><u>Narrative Through Symbols in Finance</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-ai-innovation-in-classroom-and-language-skills/"><u>Navigating AI Innovation in Classroom and Language Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/respecting-your-education-skip-the-ai-crutch/"><u>Respecting Your Education: Skip the AI Crutch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergizing-tasks-through-smart-chatbot-dialogues/"><u>Synergizing Tasks Through Smart Chatbot Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-first-steps-into-ai-begin-with-our-9-communities/"><u>Your First Steps Into AI: Begin with Our 9 Communities</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ethical Engagement: ChatGPT for Emotional Support"
-date: 2024-09-18T18:34:01.515Z
-updated: 2024-09-22T18:16:22.160Z
+date: 2024-10-25T18:05:29.996Z
+updated: 2024-10-26T17:03:37.121Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,19 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 
  No, it doesn't have a framed degree hanging on its wall or years of expensive training from an Ivy League university. However, it can mimic therapeutic techniques based on your prompts. And even though it's not a real person, [ChatGPT can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), if you know how to use it correctly.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Art of Prompting for Mental Health Information
 
  Prompts are the questions or statements you feed to ChatGPT to guide its responses. They're like the steering wheel of your conversation—the more precise your directions, the more accurate your destination.
@@ -65,10 +78,16 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 ![Stoic advice provided by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-04-47-am.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Setting Healthy Boundaries With Your AI
@@ -83,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 
  Also, make sure to balance your use of AI with friends and family and if necessary, other mental health resources. ChatGPT is a supplement, not a substitute. Keep up with your real-world people and never replace them with a chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Know When to Seek Human Help
 
  While ChatGPT is a fantastic listener and can serve up some solid advice, it has its limits. It's like a Swiss Army Knife—versatile, but you wouldn't want to use it to chop down a tree. That's why it's crucial to know when to switch gears and seek help from a real human.
@@ -94,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
  Furthermore, if you're dealing with complex issues or deep-seated traumas, a trained human therapist will be able to provide a level of understanding, empathy, and care that ChatGPT can't. It's okay to need human help. It's okay to seek it, and it's okay to accept it. No algorithm can replace the nuanced understanding, the shared experiences, and the simple, comforting presence of another human being.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using ChatGPT as a Mental Health Coach
@@ -123,5 +149,18 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-painting-with-light-advanced-color-techniques/"><u>2024 Approved Painting with Light Advanced Color Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ath-m50x-audit-studio-sound-enthusiasts-pick/"><u>ATH-M50x Audit: Studio Sound Enthusiasts' Pick</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfectly-pair-audio-visual-delights-top-6-music-video-apps-for-android/"><u>In 2024, Perfectly Pair Audio-Visual Delights Top 6 Music Video Apps for Android</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximize-web-presence-efficiently-why-choose-the-powerful-cookiebot-solutions/"><u>Maximize Web Presence Efficiently: Why Choose the Powerful Cookiebot Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/power-up-any-web-session-integrating-agentgpts-ais/"><u>Power Up Any Web Session – Integrating AgentGPT's AIs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-aerospace-the-international-space-station-welcomes-its-first-metal-3d-printer-engineered-by-airbus-and-the-esa/"><u>Revolutionizing Aerospace: The International Space Station Welcomes Its First Metal 3D Printer, Engineered by Airbus and the ESA</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-ai-assessment-what-comes-after-turings-trial/"><u>The Future of AI Assessment: What Comes After Turing's Trial?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-language-tech-insight-into-bert-and-gpt/"><u>The Future of Language Tech: Insight Into BERT & GPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-ipad-gadgets-and-peripherals-2023-essentials-techradar/"><u>Top-Ranking iPad Gadgets and Peripherals: 2023 Essentials | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-selection-of-iphone-12-and-12-pro-cases-in-2-groovy-styles-check-the-list-out-here-at-zdnet/"><u>Ultimate Selection of iPhone 12 and 12 Pro Cases in 2 Groovy Styles! Check the List Out Here at ZDNET.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-your-mobile-data-footprint-tips-and-tricks/"><u>Understanding Your Mobile Data Footprint: Tips & Tricks</u></a></li>
+</ul></div>
 

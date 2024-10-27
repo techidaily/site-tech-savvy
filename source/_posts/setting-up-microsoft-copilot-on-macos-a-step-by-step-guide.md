@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Microsoft Copilot on macOS: A Step-by-Step Guide"
-date: 2024-10-16T03:07:33.573Z
-updated: 2024-10-20T22:11:39.264Z
+date: 2024-10-21T17:24:01.432Z
+updated: 2024-10-26T17:48:44.630Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 * [Getting Started With Microsoft Copilot on Your Mac](https://imp.i357552.net/jzg4rq)
 * [The Benefits of Using Copilot Over ChatGPT](https://modlily.sjv.io/aw92wr)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Mac users can install Microsoft Copilot in two ways: through the App Store on Apple silicon Macs or as a web app on Intel Macs.
@@ -39,9 +46,23 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
  Microsoft doesn't offer a native Mac app for Copilot, but Mac users can still install the popular chatbot on their computers. There are two ways to get Copilot on a Mac, and you can even launch it at the press of a button.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install Microsoft Copilot From the Mac App Store
 
 ![Microsoft Copilot on the App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-on-the-app-store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have an Apple silicon Mac, you're in luck because you can install and run the iPad version of Microsoft Copilot on your computer. Here's how:
 
@@ -54,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
  Double-click its icon to start using Copilot right away. Jump to the **Getting Started** section below to get acquainted with the app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Launch Copilot on Mac With a Keyboard Shortcut
 
  If adding Copilot to the Dock isn't convenient enough, and you'd like to launch Microsoft's AI chatbot at the press of a button, you can create a custom shortcut using the Shortcuts app in macOS:
@@ -70,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 ![Adding a new shortcut in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-a-new-shortcut-in-macos.jpg)
 3. Drag the **Open App** action from the right sidebar to the empty space on the left.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click the blue **App** field and use the search bar to find and select **Copilot**.  
 ![Creating a simple Open app shortcut to quickly open Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/creating-a-simple-open-app-shortcut-to-quickly-open-copilot.jpg)
 5. Next, switch to the **Info (i)** tab of the sidebar and click **Add Keyboard Shortcut**.  
@@ -85,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install Microsoft Copilot as a Web App on Your Mac
 
@@ -107,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
  You'll find the Copilot web app on your Dock immediately. Launch it to begin.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Getting Started With Microsoft Copilot on Your Mac
@@ -122,19 +122,19 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 ![Enabling GPT-4 in Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/enabling-gpt-4-in-copilot.jpg)
 3. You can choose from **Creative**, **Balanced**, and **Precise**. By default, it's set to **Creative**, which gets you descriptive responses. I use the **Precise** setting as I prefer concise responses with only the facts that I need.  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Changing tone in the Copilot app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/changing-tone-in-the-copilot-app.jpg)
 4. Additionally, you can click **Sign in** in the top-left corner of the window and log in with your Microsoft account. This allows you to ask more questions and have longer conversations with the AI chatbot.
 
  At this point, you're all set to use Copilot on your Mac at its full potential. If you want to make further tweaks, click the **three-line** icon in the top-left corner to access the app's settings menu. Here, you can change the theme, region and language, permissions, and privacy settings for Copilot.
 
  You can clear your Copilot search history by heading to the app's privacy settings menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Benefits of Using Copilot Over ChatGPT
 
@@ -161,22 +161,18 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-smartscreen-capture-v11-professional/"><u>[New] SmartScreen Capture V11 Professional</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-escape-from-ennui-with-humor-top-20-funny-faces-in-social-media-jail/"><u>[Updated] In 2024, Escape From Ennui with Humor Top 20 Funny Faces in Social Media Jail</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/30-blink-video-doorbell-the-top-pick-for-your-smart-home-on-amazons-prime-day-event-explore-the-best-deals-with-zdnet/"><u>$30 Blink Video Doorbell: The Top Pick for Your Smart Home on Amazon's Prime Day Event | Explore the Best Deals with ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2022s-elite-ice-guardians-a-ranking-of-ultimate-coolers-reviewed-by-zdnet/"><u>2022'S Elite Ice Guardians: A Ranking of Ultimate Coolers Reviewed by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-elite-lineup-of-automated-garden-cutters-reviewed-pro-tips-and-rankings-zdnet/"><u>2024'S Elite Lineup of Automated Garden Cutters Reviewed: Pro Tips and Rankings | ZDNET</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-13-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 13 Pro Max in Lost Mode</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/budget-friendly-power-station-enhances-cross-country-travel-experience-insights-from-zdnet/"><u>Budget-Friendly Power Station Enhances Cross-Country Travel Experience - Insights From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/colsen-table-top-fire-pit-get-yours-now-at-only-50-on-zdnet/"><u>Colsen Table-Top Fire Pit - Get Yours Now at Only $50 on ZDNet</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/descifrar-los-codigos-regionales-de-dvds-metodo-para-hacer-dvds-region-free-en-pc/"><u>Descifrar Los Códigos Regionales De DVDs: Método Para Hacer DVDs Region-Free en PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ecoflow-river-3-unleashed-the-ultimate-guide-to-the-best-budget-friendly-portable-battery-as-endorsed-on-zdnets-testing-lab/"><u>EcoFlow River 3 Unleashed: The Ultimate Guide to the Best Budget-Friendly, Portable Battery as Endorsed on ZDNET's Testing Lab</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-review-the-ultimate-2022-camping-toolkit-recommendations-by-zdnet/"><u>Expert Review: The Ultimate 2022 Camping Toolkit Recommendations by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expertly-tested-and-compared-the-foremost-portable-chargers-for-your-outdoor-adventures-detailed-analysis-by-zdnet/"><u>Expertly Tested & Compared: The Foremost Portable Chargers for Your Outdoor Adventures | Detailed Analysis by ZDNET</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-iphone-guide-to-achieving-stunning-hdr-photos/"><u>In 2024, IPhone Guide to Achieving Stunning HDR Photos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-stand-out-with-a-signature-style-a-guide-to-youtube-branding-mastery/"><u>In 2024, Stand Out with a Signature Style A Guide to YouTube Branding Mastery</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-free-dailymotion-converter-download-and-convert-videos-in-seconds-for-2024/"><u>Updated Free Dailymotion Converter Download and Convert Videos in Seconds for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/video-blogging-essentials-choosing-the-best-cameras-and-lenses-for-2024/"><u>Video Blogging Essentials Choosing the Best Cameras and Lenses for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-final-flair-free-and-paid-templates-to-express-thanks/"><u>[New] In 2024, Final Flair Free & Paid Templates to Express Thanks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-pro-tips-to-elevate-your-headline-game/"><u>[Updated] 2024 Approved Pro Tips to Elevate Your Headline Game</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-logic-pros-approach-to-softening-audio-tracks-gradually/"><u>[Updated] Logic Pro's Approach to Softening Audio Tracks Gradually</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-takes-the-ios-stage/"><u>ChatGPT Takes the iOS Stage</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/como-alterar-a-cena-no-video-profissionalmente-metodos-essenciais-para-backdrops/"><u>Como Alterar a Cena No Vídeo Profissionalmente: Métodos Essenciais Para Backdrops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-visual-glitches-solved-how-to-overcome-the-pitch-black-error/"><u>Cyberpunk 2077 Visual Glitches Solved – How to Overcome the Pitch-Black Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-steam-login-errors-on-windows-via-rust-coding/"><u>Eliminating Steam Login Errors on Windows via Rust Coding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-italys-sudden-ban-of-the-ai-giant-chatgpt/"><u>Examining Italy's Sudden Ban of the AI Giant, ChatGPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-reno-11f-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-x-fold-2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo X Fold 2 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-typing-speed-with-bing-ai-chat-on-android-mobile-phones/"><u>Master Your Typing Speed with Bing AI Chat on Android Mobile Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-and-understanding-shared-link-concept-in-gpt-3/"><u>Navigating and Understanding Shared Link Concept in GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-apple-vision-pro-price-breakdown-key-features-and-insider-tips-covered-in-depth-s-comprehensive-faq/"><u>Unveiling the Apple Vision Pro: Price Breakdown, Key Features & Insider Tips Covered in Depth 'S Comprehensive FAQ</u></a></li>
 </ul></div>
 

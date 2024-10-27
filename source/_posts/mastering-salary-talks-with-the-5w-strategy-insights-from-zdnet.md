@@ -1,7 +1,7 @@
 ---
 title: "Mastering Salary Talks with the 5W Strategy: Insights From ZDNet"
-date: 2024-09-17 17:56:58
-updated: 2024-09-20 11:35:44
+date: 2024-10-22T18:11:52.120Z
+updated: 2024-10-26T18:04:47.952Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ Here's an example: Negotiating a $40,000 salary up to $45,000 could allow you to
 
 Now that you know why you need to negotiate your salary to avoid leaving money on the table, it is important to explain your worth. Why should the company offer you more money? Why is your experience and perspective worth more? Having a compelling case –– supported with evidence and examples –– is the key to making a confident request.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Who**
 
 You will likely negotiate with a recruiter, a hiring manager, or your current manager. If you have not already, learning more about the company and who you will talk with will give you an advantage.
@@ -36,6 +43,13 @@ You will likely negotiate with a recruiter, a hiring manager, or your current ma
 LinkedIn, the popular career social networking site, is a great place to start. You can gather information about your future manager, their work, and your future teammates. You can also gain insight into what drives the interviewer and the company culture. Also, make sure to check out the company's public social media pages, YouTube channel, and website. All this information will help you learn more about the people behind your company.
 
 As [others have argued](https://greatresumesfast.com/blog/connecting-with-the-hiring-manager-on-linkedin/), it's ok to research your interviewer or recruiter. LinkedIn showcases career achievements and helps make professional connections. However, it's [generally agreed](https://www.themuse.com/advice/should-you-connect-with-the-hiring-manager-on-linkedin) that sending follow-up messages to a recruiter instead of connecting is your safest bet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **What**
 
@@ -59,6 +73,19 @@ For people seeking a raise or promotion within their current company, [experts s
 * After a big win, like completing a significant project, landing a new client, or launching a product.
 * After earning a new degree or certification, as you can demonstrate you are keeping your knowledge and skills fresh.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Where**
 
 In our context, _where_ refers to the communication medium –– in person, by phone, email, or a video call. The pandemic blurred lines between work and home life. For some people, nearly every work-related experience moved exclusively online. 
@@ -72,6 +99,13 @@ If you cannot or do not want to do a video call, [one expert](https://www.rewire
 Keep in mind that negotiation is part of the process of choosing job candidates, so you want to continue to bring your professional, hire-able self to the conversations. Asking and answering the five W's is a practical way to be sure you're bringing your best self to these negotiations and feeling confident in your request. 
 
 By understanding the value of negotiating your salary and benefits, who you will be engaging with, what to focus on, when to start the conversation, and the best way to communicate, you'll have the knowledge and power to push your career to the next level.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **This article was reviewed by Sarah Holliday, MS, GCDF** 
 
@@ -102,11 +136,29 @@ Sarah Holliday is a paid member of the Red Ventures Education freelance review n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-enhanced-viewing-experience-apply-filters-on-videos/"><u>[New] Enhanced Viewing Experience Apply Filters on Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-recording-skype-best-practices-for-pcs-and-macs/"><u>[Updated] 2024 Approved Recording Skype Best Practices for PCs & Macs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-pixel-perfection-your-path-to-exceptional-edits/"><u>[Updated] Pixel Perfection Your Path to Exceptional Edits</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-streamline-your-collection-easy-downloads-of-vimeo-video-files-mp4-for-2024/"><u>[Updated] Streamline Your Collection Easy Downloads of Vimeo Video Files (MP4) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-your-channels-first-ever-gear-guide/"><u>[Updated] Unleash Your Channels First-Ever Gear Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-to-use-imessages-on-a-windows-computer-tech-tips/"><u>Easy Steps to Use iMessages on a Windows Computer | Tech Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-the-ios-181-preview-release-leveraging-apples-new-ai-capabilities-get-started-today-zdnet/"><u>Experience the IOS 18.1 Preview Release: Leveraging Apple's New AI Capabilities | Get Started Today | ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-of-the-toshiba-55-inch-fire-tv-edition-why-its-a-prime-asset-to-any-home/"><u>Expert Review of the Toshiba 55-Inch Fire TV Edition - Why It's a Prime Asset to Any Home</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-download-to-implementation-auto-gpt/"><u>From Download to Implementation: Auto-GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-huggingchat-the-free-collaborative-ai-chat-platform/"><u>Inside HuggingChat: The Free, Collaborative AI Chat Platform</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-color-correction-with-adobes-top-luts/"><u>Pioneering Color Correction with Adobe’s Top LUTs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-magic-5-lite-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor Magic 5 Lite and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-computing-navigating-the-top-5-game-changing-ai-innovations/"><u>Revolutionizing Computing: Navigating the Top 5 Game-Changing AI Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-employment-consequence-of-adopting-chatgpt-in-businesses/"><u>The Employment Consequence of Adopting ChatGPT in Businesses</u></a></li>
+</ul></div>
+

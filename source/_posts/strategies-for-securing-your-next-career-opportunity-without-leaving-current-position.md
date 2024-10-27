@@ -1,7 +1,7 @@
 ---
 title: Strategies for Securing Your Next Career Opportunity Without Leaving Current Position
-date: 2024-09-17 18:12:16
-updated: 2024-09-20 10:24:54
+date: 2024-10-20T19:19:20.996Z
+updated: 2024-10-26T17:47:53.191Z
 tags:
   - professional-development
 categories:
@@ -63,6 +63,19 @@ Only use personal devices to visit [job search sites](https://www.zdnet.com/educ
 
 ## 5\. Prioritize networking, rather than just applying on job boards.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [10 best networking sites for tech professionals Professional networking sites for tech workers help you build connections, advance your career, and take advantage countless opportunities out there waiting for you.  Read now](https://www.zdnet.com/article/best-networking-sites-for-tech-professionals/)
@@ -103,7 +116,21 @@ Set boundaries for yourself by telling possible employers which times work and w
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Keep giving your current job your best effort.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -112,6 +139,13 @@ Set boundaries for yourself by telling possible employers which times work and w
 Avoid the temptation to slack at your current job. You don't want to get fired before you have a new job lined up. It's not a good idea to ruin a professional relationship that could help you down the line.
 
 Don't try to spite your current employer or behave immaturely. Keep doing your best work despite whatever difficulties you face. Consider it practice for your next job. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Be patient and take care of yourself while job hunting.
 
@@ -158,11 +192,33 @@ A positive, proactive attitude can help you overcome[new job anxiety](https://ww
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-reverse-a-youtube-playlist/"><u>[Updated] In 2024, How to Reverse a YouTube Playlist</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-step-up-your-slide-shows-with-these-top-10-free-resources/"><u>2024 Approved Step Up Your Slide Shows with These Top 10 Free Resources</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-automated-copywriting-tools/"><u>Advanced Automated Copywriting Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/constructing-the-ideal-setup-for-advanced-4k-video-production/"><u>Constructing the Ideal Setup for Advanced 4K Video Production</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-visuals-no-cost-with-some-color-correction-tools/"><u>Elevate Visuals No Cost with Some Color Correction Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/future-proof-smartphone-choice-the-battle-between-galaxy-s24-ultra-and-s23-ultra-unveiled/"><u>Future-Proof Smartphone Choice: The Battle Between Galaxy S24 Ultra and S23 Ultra Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/halt-comparing-digital-helpers-what-sets-them-apart/"><u>Halt Comparing Digital Helpers: What Sets Them Apart</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/harness-the-power-of-text-messaging-in-2009-understanding-client-behavior-via-massmails-data-analysis-tools/"><u>Harness the Power of Text Messaging in 2009: Understanding Client Behavior via MassMail's Data Analysis Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-honor-magic-v2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Honor Magic V2</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/huawei-users-get-ready-for-mondly/"><u>Huawei Users, Get Ready for Mondly!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximize-your-output-top-5-must-have-windows-productivity-apps/"><u>Maximize Your Output: Top 5 Must-Have Windows Productivity Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-github-initiatives-for-dynamic-chatgpt-interactions/"><u>Premier Github Initiatives for Dynamic ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/savory-secrets-for-healthy-cooking-with-ai-help/"><u>Savory Secrets for Healthy Cooking with AI Help</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-apple-vision-pro-revitalizing-corporate-worlds-a-look-at-five-thriving-businesses-and-their-journey-to-innovation/"><u>The Apple Vision Pro Revitalizing Corporate Worlds: A Look at Five Thriving Businesses and Their Journey to Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-wallets-of-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MagSafe Wallets of 2024: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-apple-studio-display-a-complete-overview-of-specs-functionalities-and-essential-insights/"><u>Unveiling the Apple Studio Display - A Complete Overview of Specs, Functionalities, and Essential Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-release-a-closer-look-at-the-next-generation-airpods-key-details-and-early-order-options/"><u>Upcoming Release: A Closer Look at the Next Generation AirPods – Key Details & Early Order Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-excellence-surpassing-ai-content-generators/"><u>Writing Excellence: Surpassing AI Content Generators</u></a></li>
+</ul></div>
+

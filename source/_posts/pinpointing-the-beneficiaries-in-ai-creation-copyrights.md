@@ -1,7 +1,7 @@
 ---
 title: Pinpointing the Beneficiaries in AI Creation Copyrights
-date: 2024-09-21T18:21:46.545Z
-updated: 2024-09-22T18:58:05.880Z
+date: 2024-10-20T23:04:47.006Z
+updated: 2024-10-26T23:15:24.089Z
 tags:
   - chatgpt
   - open-ai
@@ -60,6 +60,13 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -67,6 +74,13 @@ Close
  Although the USCO issued a copyright in September 2022, it said it did it in error. When it came to light that the comic book was produced using MidJourney AI, its copyright protection was revoked.
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
 
@@ -78,15 +92,28 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
@@ -102,13 +129,6 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  While one may argue that it's no different from a person looking at the images and using them as an inspiration, AI isn't a person—instead, it's a machine that, at least for now, has no life. Furthermore, AI consumes and spits data at inhumanly insane speeds—so much so that humans cannot compete against it.
 
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Ethics of AI
 
@@ -133,5 +153,26 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-end-game-for-youtube-content-pros-secrets-and-templates-for-2024/"><u>[New] End Game for YouTube Content Pros' Secrets & Templates for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-customize-your-screenscape-google-meets-dynamic-background-switch/"><u>[New] In 2024, Customize Your Screenscape Google Meet's Dynamic Background Switch</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[Updated] 2024 Approved From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-digital-filmmaking-recording-video-across-various-platforms-for-2024/"><u>[Updated] Digital Filmmaking Recording Video Across Various Platforms for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-elevate-your-content-game-studio-aptitude-essentials/"><u>2024 Approved Elevate Your Content Game Studio Aptitude Essentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-evaluating-sns-hdr-pros-value-and-comparisons/"><u>2024 Approved Evaluating SNS HDR Pro's Value & Comparisons</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-record-overwatch/"><u>2024 Approved How to Record Overwatch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-unveils-magical-on-device-ai-artist-replacing-dall-e-see-how-it-transforms-your-imagination-into-visuals-zdnet/"><u>Apple Unveils Magical, On-Device AI Artist Replacing DALL-E: See How It Transforms Your Imagination Into Visuals | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-efficiency-top-6-chatgpt-techniques-for-the-digital-nomad/"><u>Boosting Efficiency: Top 6 ChatGPT Techniques for the Digital Nomad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-meta-quest-3-with-apple-vision-pro-analyzing-mark-zuckerbegs-insights/"><u>Comparing Meta Quest 3 with Apple Vision Pro: Analyzing Mark Zuckerbeg’s Insights</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-disk-saturation-problems-in-windows-11-heres-how-to-fix-them/"><u>Complete Disk Saturation Problems in Windows 11? Here's How to Fix Them!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-deal-exceptional-magsafe-compatible-wallet-thats-not-from-apple-or-anker-exclusive-zdnet-insight/"><u>Discover the Ultimate Deal: Exceptional MagSafe Compatible Wallet That's Not From Apple or Anker | Exclusive ZDNET Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-macbook-upgrades-of-the-year-2024-in-depth-analysis-and-ratings/"><u>Essential MacBook Upgrades of the Year 2024: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-entertainment-showdown-google-cardboard-and-samsung-gear/"><u>In 2024, Immersive Entertainment Showdown Google Cardboard & Samsung Gear</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-subscribing-to-exclusive-apple-insights-worth-your-money-experts-predict-charges-as-high-as-20month-zdnet-analysis/"><u>Is Subscribing to Exclusive Apple Insights Worth Your Money? Experts Predict Charges as High as $20/Month - ZDNet Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prioritizing-elements-selecting-the-right-chatgpt-for-psychological-assistance/"><u>Prioritizing Elements: Selecting the Right ChatGPT for Psychological Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-chatgpt-in-a-multilingual-world/"><u>The Ultimate Guide to ChatGPT in a Multilingual World</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-13-free-dvd-conversion-tools-compatible-with-windows-and-macos/"><u>Top 13 Free DVD Conversion Tools Compatible with Windows and macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/triad-tactics-for-chatgpts-coexistence-with-wolframalpha/"><u>Triad Tactics for ChatGPT's Coexistence with WolframAlpha</u></a></li>
+</ul></div>
 

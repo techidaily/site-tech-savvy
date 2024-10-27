@@ -1,7 +1,7 @@
 ---
 title: "AI Architects at Work: Exploring the Skilled Professionals Shaping Tomorrow's Technology with ZDNet"
-date: 2024-09-19 21:44:35
-updated: 2024-09-20 11:32:37
+date: 2024-10-21T17:02:57.748Z
+updated: 2024-10-26T21:22:18.846Z
 tags:
   - professional-development
 categories:
@@ -82,11 +82,36 @@ The roles of engineers aren't going away anytime soon, "but they will most likel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/decluttering-email-made-simple-a-smart-trick-to-organize-without-rules-or-extra-accounts-learn-how/"><u>Decluttering Email Made Simple: A Smart Trick to Organize Without Rules or Extra Accounts - Learn How</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-design-the-7-essential-ways-chatgpt-shapes-video-games/"><u>Dialogue Design: The 7 Essential Ways ChatGPT Shapes Video Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-ai-advancements-on-iphones-with-ios-18-release-discover-6-key-features-and-anticipate-whats-next-insights-by-zdnet/"><u>Explore AI Advancements on iPhones with iOS 18 Release: Discover 6 Key Features & Anticipate What's Next | Insights by ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-smart-8-plus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Smart 8 Plus to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-c32-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Nokia C32 Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-view-access-for-groups-shared-stuff-for-2024/"><u>Mastering View Access for Group's Shared Stuff for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-resolving-your-discord-install-issues-effortlessly/"><u>Quick Fixes: Resolving Your Discord Install Issues Effortlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-trio-of-ais-potential-exploiting-chatgpt-wolframalpha-plugin/"><u>The Trio of AI's Potential: Exploiting ChatGPT-WolframAlpha Plugin</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-recommended-apple-macbook-models-pick/"><u>Top Recommended Apple MacBook Models Pick</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mini-tablets-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Rated Mini Tablets : Comprehensive Reviews by Tech Specialists - ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-halting-halo-infinites-frequent-crashes-on-your-windows-computer/"><u>Troubleshooting Steps for Halting Halo Infinite's Frequent Crashes on Your Windows Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-list-all-rounder-camcorders/"><u>Ultimate List All-Rounder Camcorders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ultimate-ringtone-collection-top-download-locales-for-2024/"><u>Ultimate Ringtone Collection Top Download Locales for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmask-the-hazards-of-macchatgpt-downloads/"><u>Unmask the Hazards of MacChatGPT Downloads</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

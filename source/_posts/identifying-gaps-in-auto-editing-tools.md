@@ -1,7 +1,7 @@
 ---
 title: Identifying Gaps in Auto-Editing Tools
-date: 2024-10-19T16:26:04.895Z
-updated: 2024-10-21T01:01:17.731Z
+date: 2024-10-25T16:51:53.440Z
+updated: 2024-10-26T19:30:15.095Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
  Well, there is. We could write an entire book on the difference between the two, but it won't matter much. So, if there's a difference, why is ChatGPT or any other AI tool unable to identify these differences and accurately point out AI-generated text from a human-written one? The answer lies in [how ChatGPT works and how it generates text](http://www.makeuseof.com/how-does-chatgpt-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How ChatGPT Generates Text
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 ![Artificial intelligence and puny human are shaking hands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-power-of-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you ask ChatGPT to generate text, it tries to mimic the human writing process. Firstly, the model behind ChatGPT—Generative Pre-trained Transformer (GPT)—has been trained on a large corpus of human text. Everything from emails, health articles, tech articles, high school essays, and just about any text you can find online has been fed to the model during training. So ChatGPT understands how each of these types of texts should be written.
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
  But there's a catch. Unlike how humans write, ChatGPT does not really understand what it is writing in a way that a human would. Instead, the chatbot tries to predict what would be the most plausible next word in a sentence until it completes the write-up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How ChatGPT Writes by Prediction
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
  AI chatbots like ChatGPT are designed to mimic natural human language as much as possible. So while AI text may have discernable patterns, those patterns are not so obvious even to a powerful tool like ChatGPT. This is why ChatGPT can not spot its own writing, as well as [why AI-text detector tools do not work](https://www.makeuseof.com/ai-content-detectors-dont-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Recognize Its Own Writing In the Future?
@@ -117,17 +117,20 @@ thumbnail: https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-perfecting-eq-adjustments-in-ableton/"><u>[New] Perfecting EQ Adjustments in Ableton</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-visual-identity-made-easy/"><u>[New] YouTube Visual Identity Made Easy</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-youtube-legality-taking-content-offline/"><u>2024 Approved YouTube Legality Taking Content Offline</u></a></li>
-<li><a href="https://techtrends.techidaily.com/2024s-leading-gaming-platforms-a-comprehensive-review/"><u>2024'S Leading Gaming Platforms: A Comprehensive Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogue-decisions-is-myai-or-chatgpt-better-for-snapchat/"><u>Dialogue Decisions: Is MyAI or ChatGPT Better for Snapchat?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-distinct-qualities-of-claude-pro-vs-chatgptplus/"><u>Exploring the Distinct Qualities of Claude Pro vs ChatGPT+</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-bring-out-the-splendor-in-your-iphone-reflections/"><u>In 2024, Bring Out the Splendor in Your iPhone Reflections</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-your-message-with-artificisions-ai-tech/"><u>Mastering Your Message with Artificision's AI Tech</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-motorola-g54-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Motorola G54 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-stalled-windows-updates-a-step-by-step-guide/"><u>Resolving Stalled Windows Updates: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-applications-top-6-with-chatgpts-translator-engine/"><u>Revolutionary Applications - Top 6 with ChatGPT's Translator Engine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplifying-chores-claude-vs-generative-pro-ai/"><u>Simplifying Chores: Claude Vs. Generative Pro-AI</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-vlogging-through-verbiage-a-2023-guide-to-twitter-threads/"><u>[Updated] 2024 Approved Vlogging Through Verbiage - A 2023 Guide to Twitter Threads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-voice-changer-a-detailed-manual-on-morphvox-transformation/"><u>2024 Approved The Ultimate Voice Changer A Detailed Manual on MorphVOX Transformation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craftsmanship-supremacy-outpacing-algorithmic-writers/"><u>Craftsmanship Supremacy: Outpacing Algorithmic Writers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-engagement-structuring-gpt-powered-discussions-through-organization/"><u>Enhance Engagement: Structuring GPT-Powered Discussions Through Organization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/establish-trust/"><u>Establish Trust</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ideal-extra-memory-for-sony-a7c-model-for-2024/"><u>Ideal Extra Memory for Sony A7C Model for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/kinemaster-mastery-sculpting-close-up-cinematic-brilliance-for-2024/"><u>Kinemaster Mastery Sculpting Close-Up Cinematic Brilliance for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-rotate-your-3gp-videos-with-ease-best-free-tools-of-the-year/"><u>New In 2024, Rotate Your 3GP Videos with Ease Best Free Tools of the Year</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snag-the-ultimate-deal-secure-your-apple-watch-series-10-for-just-99-by-preordering-now-at-best-buy-exclusive-tips-inside-zdnet/"><u>Snag the Ultimate Deal: Secure Your Apple Watch Series 10 for Just $99 by Preordering Now at Best Buy – Exclusive Tips Inside! | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-watching-fubotv-with-your-firestick/"><u>Step-by-Step Tutorial: Watching FuboTV with Your Firestick</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/steps-to-create-a-compelling-community-giving-event-post/"><u>Steps to Create a Compelling Community Giving Event Post</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesizing-sentences-comparing-language-bots/"><u>Synthesizing Sentences: Comparing Language Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailor-made-ai-dialogues/"><u>Tailor-Made AI Dialogues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-new-film-releases-now-available-on-blu-ray-and-dvd/"><u>Top New Film Releases Now Available on Blu-Ray and DVD</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-sticking-with-my-iphone-14-beats-the-hype-of-upgrading-to-an-iphone-16-pro-insights/"><u>Why Sticking with My iPhone 14 Beats the Hype of Upgrading to an iPhone 16 Pro - Insights</u></a></li>
 </ul></div>
 
