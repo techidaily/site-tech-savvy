@@ -1,7 +1,7 @@
 ---
 title: Maintaining Confidentiality with Adaptive ChatGPTs
-date: 2024-09-19T18:24:51.875Z
-updated: 2024-09-22T16:32:47.086Z
+date: 2024-10-25T17:45:38.820Z
+updated: 2024-11-01T18:31:41.410Z
 tags:
   - chatgpt
   - open-ai
@@ -62,73 +62,11 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
 ![files in knowledge base-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/files-in-knowledge-base-1.jpg)
 
- With the file name, it took little effort to get the GPT to print the exact content of the file and subsequently download the file itself. In this case, the actual file wasn't sensitive. After poking around a few more GPTs, there were a lot with dozens of files sitting in the open.
-
-![files in knowledge base2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/files-in-knowledge-base2.jpg)
-
- There are hundreds of publicly available GPTs out there that contain sensitive files that are just sitting there waiting for malicious actors to grab.
-
-## How to Protect Your Custom GPT Data
-
-![chatgpt custom gpt share and publish options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-custom-gpt-share-and-publish-options.jpg)
-
- First, consider how you will share (or not!) the custom GPT you just created. In the top-right corner of the custom GPT creation screen, you'll find the **Save** button. Press the dropdown arrow icon, and from here, select how you want to share your creation:
-
-* **Only me**: The custom GPT is not published and is only usable by you
-* **Only people with a link:** Any one with the link to your custom GPT can use it and potentially access your data
-* **Public:** Your custom GPT is available to anyone and can be indexed by Google and found in general internet searches. Anyone with access could potentially access your data.
-
- Unfortunately, there's currently no 100 percent foolproof way to protect the data you upload to a custom GPT that is shared publicly. You can get creative and give it strict instructions not to reveal the data in its knowledge base, but that's usually not enough, as our demonstration above has shown. If someone really wants to gain access to the knowledge base and has experience with AI prompt engineering and some time, eventually, the custom GPT will break and reveal the data.
-
- This is why the safest bet is not to upload any sensitive materials to a custom GPT you intend to share with the public. Once you upload private and sensitive data to a custom GPT and it leaves your computer, that data is effectively out of your control.
-
- Also, be very careful when using prompts you copy online. Make sure you understand them thoroughly and avoid obfuscated prompts that contain links. These could be malicious links that hijack, encode, and upload your files to remote servers.
-
-## Use Custom GPTs with Caution
-
- Custom GPTs are a powerful but potentially risky feature. While they allow you to create customized models that are highly capable in specific domains, the data you use to enhance their abilities can be exposed. To mitigate risk, avoid uploading truly sensitive data to your Custom GPTs whenever possible. Additionally, be wary of malicious prompt engineering that can exploit certain loopholes to steal your files.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- ChatGPT's custom GPT feature allows anyone to create a custom AI tool for almost anything you can think of; creative, technical, gaming, custom GPTs can do it all. Better still, you can share your custom GPT creations with anyone.
-
- However, by sharing your custom GPTs, you could be making a costly mistake that exposes your data to thousands of people globally.
-
-## What Are Custom GPTs?
-
-[Custom GPTs are programmable mini versions of ChatGPT](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) that can be trained to be more helpful on specific tasks. It is like molding ChatGPT into a chatbot that behaves the way you want and teaching it to become an expert in fields that really matter to you.
-
- For instance, a Grade 6 teacher could build a GPT that specializes in answering questions with a tone, word choice, and mannerism that is suitable for Grade 6 students. The GPT could be programmed such that whenever the teacher asks the GPT a question, the chatbot will formulate responses that speak directly to a 6th grader's level of understanding. It would avoid complex terminology, keep sentence length manageable, and adopt an encouraging tone. The allure of Custom GPTs is the ability to personalize the chatbot in this manner while also amplifying its expertise in certain areas.
-
-## How Custom GPTs Can Expose Your Data
-
- To [create Custom GPTs](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/), you typically instruct ChatGPT’s GPT creator on which areas you want the GPT to focus on, give it a profile picture, then a name, and you're ready to go. Using this approach, you get a GPT, but it doesn't make it any significantly better than classic ChatGPT without the fancy name and profile picture.
-
- The power of Custom GPT comes from the specific data and instructions provided to train it. By uploading relevant files and datasets, the model can become specialized in ways that broad pre-trained classic ChatGPT cannot. The knowledge contained in those uploaded files allows a Custom GPT to excel at certain tasks compared to ChatGPT, which may not have access to that specialized information. Ultimately, it is the custom data that enables greater capability.
-
- But uploading files to improve your GPT is a double-edged sword. It creates a privacy problem just as much as it boosts your GPT’s capabilities. Consider a scenario where you created a GPT to help customers learn more about you or your company. Anyone who has a link to your Custom GPT or somehow gets you to use a public prompt with a malicious link can access the files you've uploaded to your GPT.
-
- Here’s a simple illustration.
-
- I discovered a Custom GPT supposed to help users go viral on TikTok by recommending trending hashtags and topics. After the Custom GPT, it took little to no effort to get it to leak the instructions it was given when it was set up. Here's a sneak peek:
-
-![Prompting a Custom GPT to leak its instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompting-a-custom-gpt-to-leak-its-instructions.jpg)
-
- And here's the second part of the instruction.
-
-![Prompting a Custom GPT to leak its instructions 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompting-a-custom-gpt-to-leak-its-instructions-2.jpg)
-
- If you look closely, the second part of the instruction tells the model not to "share the names of the files directly with end users and under no circumstances should you provide a download link to any of the files." Of course, if you ask the custom GPT at first, it refuses, but with a little bit of prompt engineering, that changes. The custom GPT reveals the lone text file in its knowledge base.
-
-![files in knowledge base-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/files-in-knowledge-base-1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With the file name, it took little effort to get the GPT to print the exact content of the file and subsequently download the file itself. In this case, the actual file wasn't sensitive. After poking around a few more GPTs, there were a lot with dozens of files sitting in the open.
@@ -165,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
  However, by sharing your custom GPTs, you could be making a costly mistake that exposes your data to thousands of people globally.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are Custom GPTs?
 
 [Custom GPTs are programmable mini versions of ChatGPT](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) that can be trained to be more helpful on specific tasks. It is like molding ChatGPT into a chatbot that behaves the way you want and teaching it to become an expert in fields that really matter to you.
@@ -197,31 +142,114 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
 ![files in knowledge base2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/files-in-knowledge-base2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There are hundreds of publicly available GPTs out there that contain sensitive files that are just sitting there waiting for malicious actors to grab.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Protect Your Custom GPT Data
+
+![chatgpt custom gpt share and publish options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-custom-gpt-share-and-publish-options.jpg)
+
+ First, consider how you will share (or not!) the custom GPT you just created. In the top-right corner of the custom GPT creation screen, you'll find the **Save** button. Press the dropdown arrow icon, and from here, select how you want to share your creation:
+
+* **Only me**: The custom GPT is not published and is only usable by you
+* **Only people with a link:** Any one with the link to your custom GPT can use it and potentially access your data
+* **Public:** Your custom GPT is available to anyone and can be indexed by Google and found in general internet searches. Anyone with access could potentially access your data.
+
+ Unfortunately, there's currently no 100 percent foolproof way to protect the data you upload to a custom GPT that is shared publicly. You can get creative and give it strict instructions not to reveal the data in its knowledge base, but that's usually not enough, as our demonstration above has shown. If someone really wants to gain access to the knowledge base and has experience with AI prompt engineering and some time, eventually, the custom GPT will break and reveal the data.
+
+ This is why the safest bet is not to upload any sensitive materials to a custom GPT you intend to share with the public. Once you upload private and sensitive data to a custom GPT and it leaves your computer, that data is effectively out of your control.
+
+ Also, be very careful when using prompts you copy online. Make sure you understand them thoroughly and avoid obfuscated prompts that contain links. These could be malicious links that hijack, encode, and upload your files to remote servers.
+
+## Use Custom GPTs with Caution
+
+ Custom GPTs are a powerful but potentially risky feature. While they allow you to create customized models that are highly capable in specific domains, the data you use to enhance their abilities can be exposed. To mitigate risk, avoid uploading truly sensitive data to your Custom GPTs whenever possible. Additionally, be wary of malicious prompt engineering that can exploit certain loopholes to steal your files.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ ChatGPT's custom GPT feature allows anyone to create a custom AI tool for almost anything you can think of; creative, technical, gaming, custom GPTs can do it all. Better still, you can share your custom GPT creations with anyone.
+
+ However, by sharing your custom GPTs, you could be making a costly mistake that exposes your data to thousands of people globally.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## What Are Custom GPTs?
+
+[Custom GPTs are programmable mini versions of ChatGPT](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) that can be trained to be more helpful on specific tasks. It is like molding ChatGPT into a chatbot that behaves the way you want and teaching it to become an expert in fields that really matter to you.
+
+ For instance, a Grade 6 teacher could build a GPT that specializes in answering questions with a tone, word choice, and mannerism that is suitable for Grade 6 students. The GPT could be programmed such that whenever the teacher asks the GPT a question, the chatbot will formulate responses that speak directly to a 6th grader's level of understanding. It would avoid complex terminology, keep sentence length manageable, and adopt an encouraging tone. The allure of Custom GPTs is the ability to personalize the chatbot in this manner while also amplifying its expertise in certain areas.
+
+## How Custom GPTs Can Expose Your Data
+
+ To [create Custom GPTs](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/), you typically instruct ChatGPT’s GPT creator on which areas you want the GPT to focus on, give it a profile picture, then a name, and you're ready to go. Using this approach, you get a GPT, but it doesn't make it any significantly better than classic ChatGPT without the fancy name and profile picture.
+
+ The power of Custom GPT comes from the specific data and instructions provided to train it. By uploading relevant files and datasets, the model can become specialized in ways that broad pre-trained classic ChatGPT cannot. The knowledge contained in those uploaded files allows a Custom GPT to excel at certain tasks compared to ChatGPT, which may not have access to that specialized information. Ultimately, it is the custom data that enables greater capability.
+
+ But uploading files to improve your GPT is a double-edged sword. It creates a privacy problem just as much as it boosts your GPT’s capabilities. Consider a scenario where you created a GPT to help customers learn more about you or your company. Anyone who has a link to your Custom GPT or somehow gets you to use a public prompt with a malicious link can access the files you've uploaded to your GPT.
+
+ Here’s a simple illustration.
+
+ I discovered a Custom GPT supposed to help users go viral on TikTok by recommending trending hashtags and topics. After the Custom GPT, it took little to no effort to get it to leak the instructions it was given when it was set up. Here's a sneak peek:
+
+![Prompting a Custom GPT to leak its instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompting-a-custom-gpt-to-leak-its-instructions.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ And here's the second part of the instruction.
+
+![Prompting a Custom GPT to leak its instructions 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompting-a-custom-gpt-to-leak-its-instructions-2.jpg)
+
+ If you look closely, the second part of the instruction tells the model not to "share the names of the files directly with end users and under no circumstances should you provide a download link to any of the files." Of course, if you ask the custom GPT at first, it refuses, but with a little bit of prompt engineering, that changes. The custom GPT reveals the lone text file in its knowledge base.
+
+![files in knowledge base-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/files-in-knowledge-base-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ With the file name, it took little effort to get the GPT to print the exact content of the file and subsequently download the file itself. In this case, the actual file wasn't sensitive. After poking around a few more GPTs, there were a lot with dozens of files sitting in the open.
+
+![files in knowledge base2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/files-in-knowledge-base2.jpg)
+
+ There are hundreds of publicly available GPTs out there that contain sensitive files that are just sitting there waiting for malicious actors to grab.
+
+## How to Protect Your Custom GPT Data
+
+![chatgpt custom gpt share and publish options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-custom-gpt-share-and-publish-options.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-## How to Protect Your Custom GPT Data
-
-![chatgpt custom gpt share and publish options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-custom-gpt-share-and-publish-options.jpg)
 
  First, consider how you will share (or not!) the custom GPT you just created. In the top-right corner of the custom GPT creation screen, you'll find the **Save** button. Press the dropdown arrow icon, and from here, select how you want to share your creation:
 
@@ -247,13 +275,6 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
  However, by sharing your custom GPTs, you could be making a costly mistake that exposes your data to thousands of people globally.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are Custom GPTs?
 
 [Custom GPTs are programmable mini versions of ChatGPT](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) that can be trained to be more helpful on specific tasks. It is like molding ChatGPT into a chatbot that behaves the way you want and teaching it to become an expert in fields that really matter to you.
@@ -278,16 +299,16 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
 ![Prompting a Custom GPT to leak its instructions 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompting-a-custom-gpt-to-leak-its-instructions-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you look closely, the second part of the instruction tells the model not to "share the names of the files directly with end users and under no circumstances should you provide a download link to any of the files." Of course, if you ask the custom GPT at first, it refuses, but with a little bit of prompt engineering, that changes. The custom GPT reveals the lone text file in its knowledge base.
 
 ![files in knowledge base-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/files-in-knowledge-base-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With the file name, it took little effort to get the GPT to print the exact content of the file and subsequently download the file itself. In this case, the actual file wasn't sensitive. After poking around a few more GPTs, there were a lot with dozens of files sitting in the open.
 
@@ -328,5 +349,21 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-from-novice-to-pro-screen-record-mastery-on-hp/"><u>[New] 2024 Approved From Novice to Pro Screen Record Mastery on HP</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-satirical-space-the-ultimate-guide-to-20plus-humorous-metaverse-imagery/"><u>[Updated] Satirical Space The Ultimate Guide to 20+ Humorous Metaverse Imagery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-artificial-smarts-the-heavy-hitters/"><u>Assessing Artificial Smarts: The Heavy Hitters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-writing-enhanced-by-gpts-nine-techniques/"><u>Creative Writing Enhanced by GPT's Nine Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/decisive-actions-for-dictating-a-successful-window-update/"><u>Decisive Actions for Dictating a Successful Window Update</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-discovering-the-best-free-videodownloaders-for-pinterest/"><u>In 2024, Discovering the Best Free Videodownloaders for Pinterest</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interacting-with-gpt-4-a-look-at-these-7-apps/"><u>Interacting with GPT-4: A Look at These 7 Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-creativity-write-automatically/"><u>Optimize Creativity: Write Automatically</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/struggling-with-choosing-the-perfect-present-harness-googles-latest-ai-innovations-to-create-customized-gifts-zdnet/"><u>Struggling with Choosing the Perfect Present? Harness Google's Latest AI Innovations to Create Customized Gifts | ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/irtual-set-masterclass-learning-filmmaking-online/"><u>The Virtual Set Masterclass Learning Filmmaking Online</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-keyboard-wrist-supports-for-comfortable-typing-in-2n4/"><u>Top-Rated Keyboard Wrist Supports for Comfortable Typing in 2N4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-duplicitous-chatgpt-providers-safeguard-measures/"><u>Unmasking Duplicitous ChatGPT Providers: Safeguard Measures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-overlook-apples-help-resources-a-deep-dive-into-the-top-reasons-to-use-them/"><u>Why You Shouldn't Overlook Apple's Help Resources - A Deep Dive Into the Top Reasons to Use Them</u></a></li>
+</ul></div>
 

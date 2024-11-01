@@ -1,7 +1,7 @@
 ---
 title: "Anthropic AI: Accessing Claude 3 Prompts"
-date: 2024-09-15T16:42:12.879Z
-updated: 2024-09-22T18:59:08.388Z
+date: 2024-10-25T16:53:34.322Z
+updated: 2024-11-01T17:27:39.909Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 * [How to Use Anthropic's Prompt Library](https://propmoneyinc.pxf.io/q4jzdy)
 * [Is the Anthropic Prompt Library Any Good?](https://review-au.sjv.io/wqnrq3)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Anthropic's prompt library is a free tool with heaps of AI prompts.
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 ## What Is Anthropic's Prompt Library?
 
 ![anthropic prompt library options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Anthropic's prompt library](https://docs.anthropic.com/claude/prompt-library) is a free tool designed to make it easier to get the AI responses and output you need for the task at hand.
 
@@ -65,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 ![anthropic prompt library corporate clairvoyant option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-corporate-clairvoyant-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Using any of the prompts is simple: just copy and paste them into Claude (or another AI chatbot), tweak them to your liking, and you're good to go.
@@ -87,22 +101,16 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![claude 3 dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-dream-interpreter-prompt-library-output.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While ChatGPT 4 responded:
 
 ![chatgpt plus dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-plus-dream-interpreter-prompt-library-output.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's pretty similar, covering the same thoughts, feelings, and imagery. However, given the number of websites, blog posts, and books both tools have been trained on, those details are relatively easy to discern.
 
@@ -139,5 +147,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-enhancing-webcam-gaming-experience-and-quality-for-2024/"><u>[New] Enhancing WebCam Gaming Experience & Quality for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-minecraft-homestead-blueprint-series-for-2024/"><u>[New] Minecraft Homestead Blueprint Series for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-prowess-of-yuneecs-typhoon-uav/"><u>[Updated] Unveiling the Prowess of Yuneec's Typhoon UAV</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722896163952-audacity-lame-dll-crashes-easy-fixes-and-workarounds-you-cant-miss/"><u>Audacity Lame DLL Crashes: Easy Fixes and Workarounds You Can't Miss</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/checking-content-quality-by-gpt/"><u>Checking Content Quality by GPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-ideal-childs-ipad-expert-reviews-and-rankings-by-zdnet/"><u>Choosing the Ideal Child's iPad : Expert Reviews & Rankings by ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-tecno-camon-20-premier-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Tecno Camon 20 Premier 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/initiate-local-free-open-source-ai-emulation-on-windows/"><u>Initiate Local, Free, Open-Source AI Emulation on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/massive-discount-alert-save-up-to-700-on-the-latest-2022-ipad-pro-this-labor-day-insider-deals/"><u>Massive Discount Alert: Save Up To $700 On The Latest 2022 iPad Pro This Labor Day - Insider Deals!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-day-deals-explore-how-the-apple-watch-series-se-2nd-generation-continues-offering-a-80-discount-insights/"><u>Prime Day Deals: Explore How the Apple Watch Series SE (2Nd Generation) Continues Offering a $80 Discount - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rubber-based-linings-offer-flexibility-and-chemical-resistance-while-plastic-liners-like-ptfe-provide-excellent-performance-at-higher-temperatures/"><u>Rubber-Based Linings Offer Flexibility and Chemical Resistance, While Plastic Liners Like PTFE Provide Excellent Performance at Higher Temperatures.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-puzzle-of-ai-deciphering-black-box-algorithms/"><u>The Puzzle of AI: Deciphering Black Box Algorithms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transcend-boundaries-with-effortless-anywhere-chatgpt-usage/"><u>Transcend Boundaries with Effortless Anywhere ChatGPT Usage</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-nest-audios-charm-an-essential-addition-to-music-lovers-smart-home-collections/"><u>Unveiling Nest Audio's Charm: An Essential Addition to Music Lovers’ Smart Home Collections</u></a></li>
+</ul></div>
 

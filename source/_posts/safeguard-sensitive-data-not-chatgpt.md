@@ -1,7 +1,7 @@
 ---
 title: Safeguard Sensitive Data, Not ChatGPT
-date: 2024-09-16T18:58:05.650Z
-updated: 2024-09-22T16:28:56.844Z
+date: 2024-10-28T18:08:52.398Z
+updated: 2024-11-01T18:19:57.214Z
 tags:
   - chatgpt
   - open-ai
@@ -38,15 +38,36 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do ChatGPT Data Leaks Happen?
 
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
 
  It is highly unlikely that the employees have done this on purpose, but that’s the scary part. [Most data breaches are caused by human error](https://www.makeuseof.com/people-weakest-link-in-cybersecurity/). Often, this is because the company has failed to educate its staff about the privacy risks of using tools like AI.
 
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
 
@@ -71,12 +92,20 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ice-cream-capture-technology-reviewed-deeply/"><u>[New] 2024 Approved Ice Cream Capture Technology Reviewed Deeply</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-engaging-youtube-threads/"><u>[New] In 2024, Discover Engaging YouTube Threads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-videography-tips-optimal-sizes-and-formats/"><u>[Updated] 2024 Approved Instagram Videography Tips Optimal Sizes & Formats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-video-vanguard-vs-studio-giants/"><u>[Updated] 2024 Approved Video Vanguard VS Studio Giants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chanting-champions-confront-ai-and-in-grass-companions/"><u>Chanting Champions Confront AI & In-Grass Companions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-chat-analysis-gpt-versus-bings-bot/"><u>Comparative Chat Analysis: GPT Versus Bing's Bot</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enrich-viewers-experience-a-comprehensive-guide-to-youtube-end-screens-for-2024/"><u>Enrich Viewers' Experience A Comprehensive Guide to Youtube End Screens for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-apple-reveals-enhanced-repairability-compared-to-earlier-models-insights-from-zdnet/"><u>IPhone 16: Apple Reveals Enhanced Repairability Compared to Earlier Models - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-dilemma-demystified-in-depth-analysis-and-decision-factors-between-macbook-air-vs-macbook-pro-for-tech-savvy-users-wired/"><u>MacBook Dilemma Demystified: In-Depth Analysis & Decision Factors Between MacBook Air Vs. MacBook Pro for Tech Savvy Users | Wired</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-and-managing-google-home-via-computer-tips-and-tricks/"><u>Navigating and Managing Google Home via Computer - Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-to-cut-ties-with-chatgpt/"><u>Quick Guide to Cut Ties with ChatGPT</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-to-transferring-your-amazon-kindle-bookmarks-and-annotations-into-evernote/"><u>Step-by-Step Guide to Transferring Your Amazon Kindle Bookmarks & Annotations Into Evernote</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-the-best-magsafe-battery-packs-features-and-comparisons-zdnet/"><u>The Ultimate Guide to Choosing the Best MagSafe Battery Packs - Features & Comparisons | ZDNET</u></a></li>
+</ul></div>
 

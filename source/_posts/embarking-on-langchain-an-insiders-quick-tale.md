@@ -1,7 +1,7 @@
 ---
 title: "Embarking on LangChain: An Insider's Quick Tale"
-date: 2024-09-14T16:04:15.993Z
-updated: 2024-09-17T16:24:18.616Z
+date: 2024-10-28T16:35:55.405Z
+updated: 2024-11-01T18:05:07.496Z
 tags:
   - chatgpt
   - open-ai
@@ -56,15 +56,34 @@ thumbnail: https://thmb.techidaily.com/bbd88c517a72e9ebb4f977c94404d584a269beabb
 * **Data Passing**: Due to the general text-based nature of LLMs, it is usually tricky to pass data to the model. LangChain solves this problem by using [indexes](https://docs.langchain.com/docs/components/indexing/). Indexes enable an application to import data in variable formats and store it in a way that makes it possible to serve it row-by-row to an LLM.
 * **Responses**: LangChain provides output parser tools to give answers in a suitable format as opposed to other LLMs whose model response consists of general text. When using AI in an application, it is preferred to have a structured response that you can program against.
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Getting Started With LangChain LLM
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Setting Up Your Development Environment
@@ -91,6 +110,13 @@ from langchain.memory import ConversationBufferWindowMemory`
 
  The LangChain classes outline and execute the language model chains.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Access OpenAI API Key
 
  Next, get the OpenAI API key. To access OpenAI’s API key, you must have an OpenAI account, then move to the [OpenAI API platform](https://platform.openai.com/).
@@ -98,19 +124,6 @@ from langchain.memory import ConversationBufferWindowMemory`
  On the dashboard, click on the Profile icon. Then, click the **View API keys** button.
 
 ![OpenAI API key dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-dashboard.jpeg)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, click the **Create new secret key** button to get a new API key.
 
@@ -120,23 +133,9 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-naming.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will receive a **secret key** prompt.
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Copy and store the API key in a safe place for future use.
 
@@ -180,6 +179,19 @@ print(output)`
 
  Above is the expected output.
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Rising Influence of LLMs
 
  LLMs consumption is growing rapidly and changing how humans interact with knowledge machines. Frameworks like LangChain are at the forefront of providing developers with a smooth and simple way to serve the LLMs to applications. Generative AI models like ChatGPT, Bard, and Hugging Face are also not left behind in advancing LLM applications.
@@ -203,5 +215,20 @@ print(output)`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unveiling-the-art-of-personal-branding-mastery/"><u>[New] 2024 Approved Unveiling the Art of Personal Branding Mastery</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-rise-and-fall-a-comparative-study-on-tiktok-and-snaps-popularity/"><u>[Updated] 2024 Approved The Rise and Fall A Comparative Study on TikTok and Snap’s Popularity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-no-cost-platforms-for-watching-the-live-nba-games-top-10-recommendations/"><u>Best No-Cost Platforms for Watching the LIVE NBA Games - Top 10 Recommendations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/craft-instagram-visuals-mac-techniques-for-video-scaling-for-2024/"><u>Craft Instagram Visuals Mac Techniques for Video Scaling for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/filching-frames-from-films-for-windows-10-photos-collection-for-2024/"><u>Filching Frames From Films for Windows 10 Photos Collection for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-favorite-travel-gear-with-a-twist-iphoneipad-cases-power-chargers-and-apple-watch-straps-now-just-20-off-dont-miss-this-limited-time-offer-from-zdn181/"><u>Get Your Favorite Travel Gear with a Twist! IPhone/iPad Cases, Power Chargers & Apple Watch Straps Now Just 20% Off – Don't Miss This Limited-Time Offer From ZDNET!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-15-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 15 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-f25-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Oppo F25 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-mac-or-ipad-equipped-with-an-hidden-intelligent-audio-device-find-out-now-tech-insights/"><u>Is Your Mac or iPad Equipped with an Hidden Intelligent Audio Device? Find Out Now! | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-apple-pay-a-comprehensive-guide-to-using-it-both-in-store-and-on-the-web-benefits-explained/"><u>Mastering Apple Pay: A Comprehensive Guide to Using It Both In-Store and On the Web - Benefits Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-fixing-iphones-tackling-7-common-camera-challenges/"><u>Mastering the Art of Fixing iPhones: Tackling 7 Common Camera Challenges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-to-iphone-16-pros-and-cons-insight-experts/"><u>Upgrading to iPhone 16: Pros & Cons - Insight Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-ipad-airs-amazing-features-can-leave-even-an-ipad-pro-owner-wishing-they-switched-expert-review-by-zdnet/"><u>Why the iPad Air's Amazing Features Can Leave Even an iPad Pro Owner Wishing They Switched | Expert Review by ZDNet</u></a></li>
+</ul></div>
 

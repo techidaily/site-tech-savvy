@@ -1,7 +1,7 @@
 ---
 title: Unmasking Medical Misinformation From AI Expertise
-date: 2024-09-16T16:48:02.718Z
-updated: 2024-09-22T16:21:27.254Z
+date: 2024-10-27T17:29:06.930Z
+updated: 2024-11-01T16:59:31.390Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12
 
  When prompted, the chatbot itself will even reiterate this idea. Although [AI technology will affect the future of healthcare](https://www.makeuseof.com/ai-will-power-future-healthcare/) in a number of ways, it isn't likely to replace the human component in the near future. For the most important medical questions, continue to rely on your personal physician or healthcare provider.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Rely on Established Medical Resources
 
  Many medical resources available online provide reliable, reputable, evidence-based information. Even better, they present the facts in a straightforward way, making them more accessible to people from all sorts of backgrounds (not only medical professionals). These are some examples:
@@ -52,7 +59,21 @@ thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12
 
 ![screenshot NHS website physical activity guidelines](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-nhs-website-physical-activity-guidelines.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Those that end in .com, or commercial sites, may also provide helpful information. In many instances, however, these sites are more focused on selling you something, according to the [National Institute on Aging](https://www.nia.nih.gov/health/how-find-reliable-health-information-online). If you're trying to fact-check other information, then a nonprofit or educational site may offer more neutral facts.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Use Apps With Care
 
@@ -61,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12
  If you want to rely on an app, then evaluate the source, check out user reviews and ratings, and check for endorsements or certifications from reputable healthcare organizations.
 
  In general, health apps should complement professional medical advice—not replace it. In this instance, they may not provide the best way to fact-check information from other sources.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Take Care With Personal Sites, Influencers, and Other Individuals
 
@@ -81,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12
 
  If you’re trying to double-check information from ChatGPT or similar sources, however, then this may not be the best avenue in general.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Trust Your Gut
 
  If your AI bot presents health information that doesn’t seem quite right, then trust your gut. Although these applications are incredibly powerful, they aren’t all-knowing.
@@ -95,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12
  In addition, AI hallucination responses—in which artificially intelligent chatbots present factually incorrect information in an authoritative manner—are still an issue. While there are [ways to spot AI hallucination](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) in a chatbot's responses, it can be tricky to separate the true information from the false.
 
  In these events, take extra care to run the provided information by a trusted medical resource (or your own physician).
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Trusted Resources to Double-Check Health Information From ChatGPT
 
@@ -117,5 +131,17 @@ thumbnail: https://thmb.techidaily.com/20681dc3787d86713afd2395e0942d0819f5bca12
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-tailored-obs-tweaks-for-affordable-systems/"><u>[New] 2024 Approved Tailored OBS Tweaks for Affordable Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-role-of-b2b-relationships-in-informed-market-decisions/"><u>[New] 2024 Approved The Role of B2B Relationships in Informed Market Decisions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-streams-switching-to-av1-in-youtubes-settings/"><u>[New] In 2024, Boosting Streams Switching to AV1 in YouTube's Settings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-retract-macos-upgrade-from-sierra-to-el-capitan/"><u>[Updated] How to Retract macOS Upgrade From Sierra to El Capitan</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-comprehensive-guide-to-capturing-perfect-instagram-covers/"><u>[Updated] In 2024, The Comprehensive Guide to Capturing Perfect Instagram Covers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-macbook-pro-and-macbook-air-a-comprehensive-guide-on-selecting-the-ideal-apple-laptop/"><u>Choosing Between MacBook Pro and MacBook Air: A Comprehensive Guide on Selecting the Ideal Apple Laptop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-vivo-s18-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo S18 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peek-inside-googles-artificial-intelligence-gemini-initiative/"><u>Peek Inside Google's Artificial Intelligence Gemini Initiative</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intrigue-of-ai-hackers-focus-on-chatgpt/"><u>The Intrigue of AI: Hackers' Focus on ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-enhancements-for-selective-apple-airpod-models-in-autumn-a-look-at-3-exciting-new-features/"><u>Upcoming Enhancements for Selective Apple AirPod Models in Autumn: A Look at 3 Exciting New Features</u></a></li>
+</ul></div>
 

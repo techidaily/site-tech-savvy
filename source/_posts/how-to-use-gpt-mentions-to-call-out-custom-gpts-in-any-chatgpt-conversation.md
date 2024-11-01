@@ -1,7 +1,7 @@
 ---
 title: How to Use GPT Mentions to Call Out Custom GPTs in Any ChatGPT Conversation
-date: 2024-10-23T23:49:32.506Z
-updated: 2024-10-26T22:17:36.155Z
+date: 2024-10-27T16:43:44.181Z
+updated: 2024-11-01T16:34:33.188Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,19 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 * [What Is ChatGPT's GPT Mentions Feature?](https://appsumo.8odi.net/gmezyk)
 * [How to Use the GPT Mentions Feature](https://boody-eco-wear.pxf.io/qyo4oo)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI's ChatGPT Plus offers a new feature called GPT Mentions, allowing users to combine multiple custom GPTs in one conversation.
@@ -38,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
  OpenAI's premium version of ChatGPT, known as ChatGPT Plus, offers users a range of extra features in exchange for the monthly subscription fee. ChatGPT Plus's newest feature, GPT call-outs or mentions, may prove very useful to you if you use various GPTs within the ChatGPT interface. So, how does this feature work, and how can it benefit you?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT's GPT Mentions Feature?
@@ -72,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, you're chatting with Canva until you click "X" on the **Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
@@ -88,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
@@ -109,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, we have hotels, flights, and trails for our trip all in one chat!
@@ -136,16 +142,16 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>[New] In 2024, The Ultimate Drone Journey Full Phantom 4 Features Explored</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-secrets-unveiled-perfect-your-360-youtube-live-experience/"><u>[New] Secrets Unveiled Perfect Your 360° YouTube Live Experience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tiktok-and-twittersphere-crossover-the-viral-vids-for-2024/"><u>[Updated] TikTok and Twittersphere Crossover The Viral Vids for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/address-and-repair-the-infamous-red-screen-error-in-windows-10-system/"><u>Address and Repair the Infamous Red Screen Error in Windows 10 System</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-this-article-inroduces-10-video-special-effects-apps-for-iphone-ipad-android-to-add-special-video-effects-to-video-with-drag-n-drop/"><u>New 2024 Approved This Article Inroduces 10 Video Special Effects Apps for iPhone, iPad, Android to Add Special Video Effects to Video with Drag-N-Drop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-screenshots-on-windows-11/"><u>Step-by-Step Guide to Screenshots on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-disabling-onedrive-and-file-explorer-favorites-on-windows-11/"><u>Step-by-Step Guide: Disabling OneDrive and File Explorer Favorites on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-disabling-quicky-shortcuts-on-your-pc-using-windows-10/"><u>Step-by-Step Guide: Disabling Quicky Shortcuts on Your PC Using Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-installing-brother-printer-drivers-on-windows-8-and-newer-operating-systems/"><u>Step-by-Step Guide: Installing Brother Printer Drivers on Windows 8 and Newer Operating Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-for-finding-and-using-the-control-panel-across-different-windows-versions/"><u>Step-by-Step Tutorial for Finding and Using the Control Panel Across Different Windows Versions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-beginners-guide-to-mastering-final-cut-pro-for-2024/"><u>The Ultimate Beginner’s Guide to Mastering Final Cut Pro for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-ace-your-online-presence-youtubes-studio-command-center/"><u>[New] 2024 Approved Ace Your Online Presence YouTube's Studio Command Center</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-dissecting-splitcams-superiority-as-a-recorder-for-2024/"><u>[Updated] Dissecting SplitCam’s Superiority as a Recorder for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-essential-snaps-cutting-edge-filters-and-lenses-unveiled/"><u>[Updated] Essential Snaps Cutting-Edge Filters & Lenses Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-forefront-ai-a-comparative-analysis-with-chatgpt/"><u>Demystifying Forefront AI: A Comparative Analysis with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-insights-into-the-world-of-pc-components-by-toms-technology-hub/"><u>Expert Insights Into the World of PC Components by Tom's Technology Hub</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-the-mechanics-of-whatsapp-voice-conversations/"><u>In 2024, Understanding the Mechanics of WhatsApp Voice Conversations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/invest-wisely-why-you-shouldnt-pay-over-1000-for-a-standard-cell-phone/"><u>Invest Wisely: Why You Shouldn't Pay over $1,000 for a Standard Cell Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-routine-discovering-9-gpt-life-enhancements/"><u>Revolutionize Routine: Discovering 9 GPT Life Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-silent-threat-to-personal-information-from-chatgpt/"><u>The Silent Threat to Personal Information From ChatGPT</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-how-to-generate-speech-from-text-the-best-text-to-speech-converters-for-2024/"><u>Updated How To Generate Speech From Text | The Best Text-to-Speech Converters for 2024</u></a></li>
+<li><a href="https://win-unique.techidaily.com/wordrecente-dokumenten-ontsnappen-van-zicht-beslissingen-foutoplossession/"><u>WordRecente Dokumenten Ontsnappen Van Zicht - Beslissingen Foutoplossession</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Integrate Ubuntu in Your MacOS Workflow - A Simple Trick for Developers | ZDNET
-date: 2024-10-24T17:11:16.740Z
-updated: 2024-10-26T18:50:25.620Z
+date: 2024-10-29T16:26:44.170Z
+updated: 2024-11-01T18:57:22.780Z
 tags:
   - apple
 categories:
@@ -71,10 +71,10 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -94,10 +94,10 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -148,19 +148,22 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-beginners-guide-top-10-youtube-editing-tricks/"><u>[New] 2024 Approved Beginner's Guide Top 10 YouTube Editing Tricks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-showcase-your-brand-with-our-50-free-youtube-banners/"><u>[New] 2024 Approved Showcase Your Brand with Our 50 Free YouTube Banners!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-five-hd-recording-cards-switch-edition-for-2024/"><u>[New] Top Five HD Recording Cards, Switch Edition for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nveiling-the-future-of-vlogging-top-12-camera-innovations-for-2024/"><u>[New] Unveiling the Future of Vlogging Top 12 Camera Innovations for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-classic-questline-versus-the-dynamic-strategy/"><u>[Updated] 2024 Approved The Classic Questline versus the Dynamic Strategy</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-timelessly-taken-selfies-from-the-bygone-era/"><u>[Updated] Timelessly Taken Selfies From the Bygone Era</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-artist-copyright-issues-and-responsibilities/"><u>AI Artist: Copyright Issues & Responsibilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-7-exclusive-tools-to-surpass-chatgpt-in-coding/"><u>Discover 7 Exclusive Tools to Surpass ChatGPT in Coding</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratis-descargador-de-video-en-alta-definicion-top-lista-para-optar-a-la-excelencia/"><u>Gratis Descargador De Video en Alta Definición - Top Lista Para Optar a La Excelencia</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-convert-flawlessly-leading-software-for-high-res-videos/"><u>In 2024, Convert Flawlessly Leading Software for High-Res Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/realizing-your-audio-based-ppt-with-easy-s2t-tools-for-2024/"><u>Realizing Your Audio-Based PPT with Easy S2T Tools for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-ai-dialogue-pivotal-features-of-the-future-gpt-5/"><u>Revolutionary AI Dialogue: Pivotal Features of the Future GPT-5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-6-heavies-massive-language-models-triumph/"><u>Ultimate 6 Heavies: Massive Language Models Triumph</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-googles-new-palm-2-large-language-model/"><u>What Is Google's New PaLM 2 Large Language Model?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-winning-windows-10-tools-to-record-your-display/"><u>[New] In 2024, Winning Windows 10 Tools to Record Your Display</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twittify-your-snaps-seamless-tweeting-to-snapsharing/"><u>[New] Twittify Your Snaps Seamless Tweeting-to-Snapsharing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-achieving-perfect-synchronization-google-upload/"><u>[Updated] Achieving Perfect Synchronization Google Upload</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-charting-your-path-to-success-in-youtubes-earnings-system/"><u>[Updated] Charting Your Path to Success in YouTube's Earnings System</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-elevate-your-online-engagements-with-pc-and-phone-recordings/"><u>2024 Approved Elevate Your Online Engagements with PC & Phone Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-influence-in-code-creation/"><u>AI's Influence in Code Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-the-trustworthiness-of-chatgpt/"><u>Assessing the Trustworthiness of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-ai-barriers-the-power-of-transfer-learning/"><u>Breaking Down AI Barriers: The Power of Transfer Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-job-seeking-6-actionable-approaches/"><u>ChatGPT in Job Seeking: 6 Actionable Approaches</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/elevating-to-excellence-how-abbyy-flexicapture-transforms-yum-chinas-shared-service-center-efficiency/"><u>Elevating to Excellence: How ABBYY FlexiCapture Transforms YUM China's Shared Service Center Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-enhanced-research-methods-for-essays/"><u>GPT-Enhanced Research Methods for Essays</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-truecaller-application-a-users-guide/"><u>In-Depth Analysis of the Truecaller Application: A User's Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-obtaining-professional-photo-banners/"><u>Mastering the Art of Obtaining Professional Photo Banners</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-mov-mp4/"><u>Online MOV 파일을 MP4로 자이로드: 무료 대상 도구</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcome-body-stream-failures-chatgpts-fix-guide/"><u>Overcome Body Stream Failures: ChatGPT's Fix Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-dialogue-chatgpt-plus-now-available-in-the-us-20mo/"><u>Revolutionize Dialogue: ChatGPT Plus Now Available in the US ($20/Mo)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-prime-selection-superior-ai-driven-note-applications/"><u>The Prime Selection: Superior AI-Driven Note Applications</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "LLM Demystified: The Framework of Giant AI Tools"
-date: 2024-09-17T18:03:12.015Z
-updated: 2024-09-22T16:38:56.626Z
+date: 2024-10-27T18:49:45.076Z
+updated: 2024-11-01T18:05:49.065Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 
  Of course, having a huge database of text is one thing, but LLMs need to be trained to make sense of it to produce human-like responses. How it does this is what we cover next.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do LLMs Work?
 
  How do LLMs use these repositories to create their responses? The first step is to analyze the data using a process called deep learning.
@@ -53,6 +60,19 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
@@ -60,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
@@ -70,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 ## What Are the Limitations of LLMs?
 
 ![woman frustrated at response from computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/woman-frustrated-at-response-from-computer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  LLMs represent an impressive technological achievement. But the technology is far from perfect, and there are still plenty of limitations as to what they can achieve. Some of the more notable of these are listed below:
 
@@ -86,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
 
  Here are some of the most widely used LLMs.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. GPT
 
  Generative Pre-trained Transformer (GPT) is perhaps the most widely known LLM. GPT-3.5 powers the ChatGPT platform used for the examples in this article, while the newest version, GPT-4, is available [through a ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Microsoft also uses the latest version [in its Bing Chat platform](https://www.makeuseof.com/chatgpt-vs-bing-chat-best-generative-ai-chatbot/).
@@ -106,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
  BERT stands for Bi-directional Encoder Representation from Transformers. The bidirectional characteristics of the model differentiate [BERT from other LLMs like GPT](https://www.makeuseof.com/what-is-bert-language-model-how-differ-gpt/).
 
  Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Future of LLMs
 
@@ -150,5 +170,21 @@ thumbnail: https://thmb.techidaily.com/5dc08c7f44b75aa96c6e9b7584825b6a5a67a8f34
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-a-quick-guide-to-chroma-key-background/"><u>[New] 2024 Approved A Quick Guide to Chroma Key Background</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-superior-hd-videos-on-android-devices/"><u>[New] Unleash Superior HD Videos on Android Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-capture-dynamic-movements-ipad-timelapse-tips-for-2024/"><u>[Updated] Capture Dynamic Movements IPad Timelapse Tips for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-expertly-design-your-3d-openers-best-picks/"><u>[Updated] Expertly Design Your 3D Openers Best Picks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-navigating-classic-gaming-on-modern-computers-with-5-top-gb-advance-emulators/"><u>[Updated] Navigating Classic Gaming on Modern Computers with 5 Top GB Advance Emulators</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-virtual-reality-engineering-in-business-applications/"><u>2024 Approved Virtual Reality Engineering in Business Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-m2-powerhouse-mac-mini-hits-record-low-at-only-479-the-verge/"><u>Apple's M2 Powerhouse Mac Mini Hits Record Low at Only $479 - The Verge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-why-gpt-cant-be-tweaked-easily/"><u>Exploring Why GPT Can't Be Tweaked Easily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-redmi-note-12-pro-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi Redmi Note 12 Pro 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/switching-from-apple-vision-pro-and-meta-quest-3-discover-affordable-alternatives-with-top-notch-xr-glasses/"><u>Switching From Apple Vision Pro & Meta Quest 3: Discover Affordable Alternatives with Top-Notch XR Glasses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dos-and-donts-of-using-chatgpt-as-a-freelance-writer/"><u>The Do’s and Don’ts of Using ChatGPT as a Freelance Writer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turn-off-sticky-keys-on-windows-11-easily-with-pictures/"><u>Turn Off Sticky Keys on Windows 11 Easily [with Pictures]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-hacking-capabilities-of-chatgpt/"><u>Understanding the Hacking Capabilities of ChatGPT</u></a></li>
+</ul></div>
 

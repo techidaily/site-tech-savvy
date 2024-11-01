@@ -1,7 +1,7 @@
 ---
 title: "GPT-Powered Insights: Research and Papers"
-date: 2024-10-22T21:27:34.724Z
-updated: 2024-10-26T17:47:51.431Z
+date: 2024-10-28T17:33:56.181Z
+updated: 2024-11-01T18:39:15.928Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
  Also, ChatGPT will avoid controversial topics—even in an outline. Therefore, you might find yourself with an outline missing vital pieces of historical sections if you rely on it. This bias is one of the [major problems with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Prompt ChatGPT to Draw a Parallel Outline
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 `Create a detailed outline for an essay on <insert your essay topic here>.`
 
 ![ChatGPT's outline on the essay on the history of German Shepherds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-s-outline-on-the-essay-on-the-history-of-german-shepherds.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT’s result is far more detailed than our outline. Here, you should adopt the parts of ChatGPT’s outline you would like to integrate into your own. Combine the best of the two and flesh out an outline that will guide you best as you write.
 
@@ -74,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
  Do not just copy and paste the information it generates; the next step is a vital second part of this methodology.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Confirm the Information With a Reputable Source
 
  As you begin to write, you must check if the information you’re getting from ChatGPT is indeed correct. You must do this because [ChatGPT occasionally hallucinates](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/), coming up with its own facts and making up sources when you ask it to direct you to where it got its information. In some cases, it blatantly refuses to tell you at all where it got its data.
@@ -85,16 +85,10 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
  The bottom line is that you should use a reputable source (such as a book from an authority or an official website) to support every important statement you put down. You can also learn how to [use Google to fact-check information](https://www.makeuseof.com/google-fact-check-information/).
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Use ChatGPT for Examples and Breakdowns
@@ -104,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
  That’s really the one thing you can count on ChatGPT to do in this process. It has good skill in crafting useful examples and explaining complicated ideas in a form you can easily understand. A popular way of phrasing a prompt to make ChatGPT explain something complicated is adding “explain like I’m five” to your prompt.
 
 ![ChatGPT explaining German Shepher's hip and elbow dysplasia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-explaining-german-shepher-s-hip-and-elbow-dysplasia.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Here we used ChatGPT to break down hip and elbow dysplasia conditions in a way that is easier to understand. And it used analogies like jigsaw puzzles to paint a clearer image of what it might look like.
 
@@ -124,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 ![ChatGPT showing the user how to add citations to their essay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-showing-the-user-how-to-add-citations-to-their-essay.jpeg)
 
  If you’re having trouble with citation styles and how to integrate them into your essay, you can present your essay to ChatGPT, give it your sources, and ask it to weld them together for you.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is a Tool, Not a Solution
 
@@ -157,22 +151,22 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-engineer-ethical-emojis-on-giphy/"><u>[New] 2024 Approved Engineer Ethical Emojis on Giphy</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unveiling-the-finest-free-online-recorders-top-picks/"><u>[New] In 2024, Unveiling the Finest Free Online Recorders – Top Picks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-15-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 15 to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/assessing-djis-flight-vision-tx-headset-performance-for-2024/"><u>Assessing DJI's Flight Vision TX Headset Performance for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bot-assisted-dialogue-top-3-privacy-concerns-addressed/"><u>Bot-Assisted Dialogue: Top 3 Privacy Concerns Addressed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970729915-epson-artisan-1430-driver-download-windows-11108/"><u>Epson Artisan 1430 Driver Download – Windows 11/10/8</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/fire-up-your-choices-comparing-amazons-fire-and-samsung-tablets/"><u>Fire Up Your Choices: Comparing Amazon's Fire & Samsung Tablets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/google-news-now-refined-focused-on-you/"><u>Google News Now Refined, Focused on You</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-solo-operation-of-auto-gpt-justifiable/"><u>Is Solo Operation of Auto-GPT Justifiable?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/myths-vs-machines-exposing-9-common-misconceptions-on-ai-bots/"><u>Myths Vs. Machines: Exposing 9 Common Misconceptions on AI Bots</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/navigating-instagram-hashtags-maximizing-post-exposure-and-engagement/"><u>Navigating Instagram Hashtags Maximizing Post Exposure & Engagement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-potential-threats-of-chatgpt/"><u>Navigating the Potential Threats of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-horizons-in-language-models-googles-palm-2-revelation/"><u>New Horizons in Language Models: Google's PaLM 2 Revelation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seeking-honesty-in-chatgpts-responses/"><u>Seeking Honesty in ChatGPT's Responses</u></a></li>
-<li><a href="https://discover-data.techidaily.com/step-by-step-tutorial-saving-magic-stream-content-as-mp4-or-avi-on-macos-and-windows-systems/"><u>Step-by-Step Tutorial: Saving Magic Stream Content as MP4 or AVI on macOS and Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unbounded-gpt-openais-concern/"><u>Unbounded GPT: OpenAI's Concern?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-enhance-image-frames-leading-platforms-and-applications-2023-edition/"><u>[Updated] 2024 Approved Enhance Image Frames Leading Platforms & Applications, 2023 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-discourse-dynamics-from-prompt-to-responsive-reply/"><u>AI Discourse Dynamics: From Prompt to Responsive Reply</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-the-latest-features-google-pixel-watch-vs-apple-watch-series-9-best-choice-for-tech-enthusiasts-zdnet/"><u>Comparing the Latest Features: Google Pixel Watch Vs. Apple Watch Series 9 - Best Choice for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-testing-the-apple-studio-display-examined-is-the-500-premium-justified-for-mac-enthusiasts/"><u>Critical Testing: The Apple Studio Display Examined – Is the $500 Premium Justified for Mac Enthusiasts?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722878493947-get-ahead-of-the-curve-learn-all-about-the-rumored-google-pixel-10-and-its-expected-launch-timeline/"><u>Get Ahead of the Curve - Learn All About the Rumored Google Pixel 10 and Its Expected Launch Timeline</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-create-a-sports-youtube-channel-on-mac-in-2024/"><u>How to Create a Sports YouTube Channel on Mac, In 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-x-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone X in Lost Mode</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-mobile-photos-with-best-iphone-cameras-x-7plus/"><u>In 2024, Mastering Mobile Photos with Best iPhone Cameras (X, 7+)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-vn-video-editor-pro-apk-a-professional-level-video-editing-experience/"><u>In 2024, VN Video Editor Pro Apk A Professional-Level Video Editing Experience?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-emotional-help-ethical-chatgpt-practices/"><u>Intelligent Emotional Help: Ethical ChatGPT Practices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-service-updates-for-chatgpt/"><u>Navigating Service Updates for ChatGPT</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/no1-quick-capture-time-lapsing-system-for-2024/"><u>No.1 Quick Capture Time-Lapsing System for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stop-comparing-siri-to-chatgpt-heres-how-they-differ/"><u>Stop Comparing Siri to ChatGPT! Here's How They Differ</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mlining-video-updates-on-youtube-for-2024/"><u>Streamlining Video Updates on YouTube for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intrigue-of-ai-hackers-focus-on-chatgpt/"><u>The Intrigue of AI: Hackers' Focus on ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-journey-to-enlightened-living-embracing-chatgpts-wisdom/"><u>The Journey to Enlightened Living: Embracing ChatGPT's Wisdom</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-a15-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy A15 5G to iPhone 14/15 | Dr.fone</u></a></li>
 </ul></div>
 

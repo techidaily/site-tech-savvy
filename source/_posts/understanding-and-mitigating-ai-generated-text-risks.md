@@ -1,7 +1,7 @@
 ---
 title: Understanding and Mitigating AI-Generated Text Risks
-date: 2024-09-19T16:09:55.900Z
-updated: 2024-09-22T17:22:30.539Z
+date: 2024-10-27T16:24:27.446Z
+updated: 2024-11-01T18:12:22.731Z
 tags:
   - chatgpt
   - open-ai
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
  Another drawback of using AI to write is the increased likelihood of unintentional plagiarism.[The Guardian](https://www.theguardian.com/us-news/2023/jan/06/new-york-city-schools-ban-ai-chatbot-chatgpt) reports that one of the reasons schools in New York City banned ChatGPT is the risk of students using it to write assignments and passing them off as their work.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Algorithms Devaluing Your Content
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
  As previously stated, AI-written text may be incoherent and contain factual inconsistencies, making it unhelpful. This means if your site relied on AI content and took a hit after [Google's helpful content update](https://www.makeuseof.com/tips-to-write-for-google-helpful-content-update/) , it could be because the search engine found the content unhelpful or lacking in accuracy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Lack of Original Ideas, Creativity, and Personalization
 
  Since AI tools use existing data to generate texts, they can produce content similar to what already exists. This can be a big problem for people or brands that plan to stand out from the competition by creating original content.
@@ -68,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
  Creative content tends to be engaging and more shareable. The more your content is shared, the more you'll be able to raise awareness and build relationships with people.
 
  Thought-provoking and unique content often include personal experiences, opinions, and analysis, which are a few areas where AI falls short, at least at present.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Reputational Risk and Watered-Down Brand Voice
 
@@ -81,16 +95,16 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
  Do you want to know if a human or AI wrote what you're reading? Being able to spot AI-generated text can help you evaluate its credibility. Here are a few ways to spot AI-generated text.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Look for Repetition of Words and Phrases
 
 ![Some text illustrating repetition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ai-repetition.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Even though GPT-3 can generate coherent sentences, AI writing tools frequently appear to have difficulty producing long-form, high-quality content.
 
@@ -104,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 
 ![Gibberish text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gibberish.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  AI tools may be incapable of correctly interpreting the context of a piece of writing. This could lead to content that lacks the coherence and logical flow of human-written content.
 
  AI-generated content is sometimes characterized by grammatical mistakes, punctuation errors, and even paragraphs with a disjointed structure.
@@ -122,10 +129,10 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
 ![Some factual, dry texts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bald-eagle-facts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  An AI writing tool can quickly generate facts and simple sentences but not in-depth commentaries. So if you're reading an article and notice it's heavy on facts and light on opinions, it's likely written by a bot.
@@ -141,13 +148,6 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
  You can also use a paid or [free plagiarism checker](https://www.makeuseof.com/free-plagiarism-detection-tools-freelancers/) to see if the text is original. If it's duplicate content, it was probably written using AI.
 
  Remember, though, AI content detector tools aren't perfect and may be ineffective against new language models and small amounts of text.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AI-Generated Text: The Risks and How to Spot It
 
@@ -170,5 +170,24 @@ thumbnail: https://thmb.techidaily.com/51b5c705b272c6a35f26cbee92033b8d25124b814
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-instagrams-algorithm-unlocked-optimizing-your-reels/"><u>[New] 2024 Approved Instagram’s Algorithm Unlocked Optimizing Your Reels</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ookie-recommendations-simple-profitable-youtube-purchases-for-2024/"><u>[New] Rookie Recommendations Simple, Profitable YouTube Purchases for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-effortless-gameplay-preservation-for-overwatch/"><u>[Updated] In 2024, Effortless Gameplay Preservation for Overwatch</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-comprehensive-step-by-step-on-zooms-video-broadcasting/"><u>2024 Approved Comprehensive Step-by-Step on Zoom's Video Broadcasting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-inspired-infographics-and-data-tables/"><u>ChatGPT-Inspired Infographics and Data Tables</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-just-released-affordable-apple-10gen-ipad-for-a-steal-at-299-post-prime-day-insider-info/"><u>Get Your Hands on the Just-Released, Affordable Apple 10Gen iPad for a Steal at $299 Post-Prime Day – Insider Info !</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-visual-potential-with-hdr-technology/"><u>In 2024, Maximizing Visual Potential with HDR Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-evaluation-of-hostgator-vps-vs-shared-web-hosting-options/"><u>In-Depth Evaluation of HostGator VPS Vs. Shared Web Hosting Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/major-improvements-in-iphone-16-make-diy-repairs-simpler-insights-from-apple-tech-news/"><u>Major Improvements in iPhone 16 Make DIY Repairs Simpler - Insights From Apple | Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-choices-for-your-wrist-comparing-google-pixel-watch-with-apple-series-8-expert-analysis-at-zdnet/"><u>Smart Choices for Your Wrist: Comparing Google Pixel Watch with Apple Series 8 | Expert Analysis at ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/smartphone-fm-transmitter-tips-enjoy-local-radio-anywhere-on-iphone-or-android/"><u>Smartphone FM Transmitter Tips: Enjoy Local Radio Anywhere, On iPhone or Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dynamics-of-colossal-machine-learning-constructs/"><u>The Dynamics of Colossal Machine Learning Constructs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-ideal-iphone-16pro-case-in-2-professional-insights/"><u>Ultimate Guide to Choosing the Ideal iPhone 16/Pro Case in 2지: Professional Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-europes-ai-act-and-its-implications-for-advanced-conversational-interfaces-including-gpt-type-models/"><u>Unveiling Europe’s AI Act and Its Implications for Advanced Conversational Interfaces Including GPT-Type Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-hugging-face-and-what-is-it-used-for/"><u>What Is Hugging Face and What Is It Used For?</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-x90s-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo X90S Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-audio-device-isolation-explained/"><u>Windows Audio Device Isolation Explained</u></a></li>
+</ul></div>
 

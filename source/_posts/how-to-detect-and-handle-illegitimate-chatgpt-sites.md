@@ -1,7 +1,7 @@
 ---
 title: How to Detect and Handle Illegitimate ChatGPT Sites
-date: 2024-09-21T16:23:45.286Z
-updated: 2024-09-22T17:05:24.115Z
+date: 2024-10-29T18:13:02.728Z
+updated: 2024-11-01T16:19:03.467Z
 tags:
   - chatgpt
   - open-ai
@@ -51,6 +51,13 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 
  All are seemingly linked to ChatGPT; all are completely fake.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Website Design and Layout
 
 ![ChatGPT's homepage displayed on a laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-s-homepage-displayed-on-a-laptop-screen.jpg)
@@ -68,16 +75,10 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
  In contrast, if a website sells ChatGPT-related products, such as AI writing detection tools, premium ChatGPT prompts, courses, etc., you should check its reliability thoroughly.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Other Ways to Assess the Credibility of a Website
@@ -94,23 +95,16 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 ![official chatgpt website with https lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/official-chatgpt-website-with-https-lock.jpg)
 * Search using the website's URL on Google or any other search engine. If there are bad reviews or negative comments about the website on public forums, that's another sign it could be malicious.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * If there are no details about the company that owns the website or the site lacks important pages (like a privacy policy or contact page), it might be a scam.
 * If the website doesn't have any reviews or online presence, that suggests it's pretty new, so it's best to steer clear of it.
 
  We know criminals will try everything to trick unsuspecting users into their scams. But knowing most of the signs of a ChatGPT phishing site gives you a big advantage and boosts your security.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Should You Do if You Spot a ChatGPT Phishing Website?
@@ -118,6 +112,13 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
  If you see any signs mentioned above or the website appears suspicious at first glance, report it immediately (for example, to CISA in the USA and the NCSC in the UK—both national computer crime agencies for their respective countries). Do not use your personal information, not even to log in, and do not use credit cards or other financial information. Also, avoid downloading attachments or clicking website links.
 
  Besides that, post about the website with its URL in a public forum (somewhere like Reddit or X) and explain why you believe it is suspicious. It will prevent other users from falling victim to it and maybe encourage a security researcher to investigate it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Already Fallen Victim to a ChatGPT Phishing Website? Here's What to Do Next
 
@@ -155,5 +156,17 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-harnessing-the-power-of-photography-and-videography-a-pixiz-approach/"><u>[New] 2024 Approved Harnessing the Power of Photography & Videography A Pixiz Approach</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-expert-filmmakers-picks-best-windows-video-editors-compared/"><u>[New] Expert Filmmaker's Picks Best Windows Video Editors Compared</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>[Updated] 2024 Approved From Virality to Value Ajay’s Playbook for Profitable Content Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-affordable-flight-masters-top-drone-selections-below-500/"><u>2024 Approved Affordable Flight Masters Top Drone Selections Below $500</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-m2-powerhouse-mac-mini-hits-record-low-at-only-479-the-verge/"><u>Apple's M2 Powerhouse Mac Mini Hits Record Low at Only $479 - The Verge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-why-gpt-cant-be-tweaked-easily/"><u>Exploring Why GPT Can't Be Tweaked Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/master-seminar-script-synthesizer-for-2024/"><u>Master Seminar Script Synthesizer for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/sata-drivers-download-and-update-for-windows-easy-steps/"><u>SATA Drivers Download & Update for Windows [Easy Steps]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dos-and-donts-of-using-chatgpt-as-a-freelance-writer/"><u>The Do’s and Don’ts of Using ChatGPT as a Freelance Writer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-hacking-capabilities-of-chatgpt/"><u>Understanding the Hacking Capabilities of ChatGPT</u></a></li>
+</ul></div>
 

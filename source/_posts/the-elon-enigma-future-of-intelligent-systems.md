@@ -1,7 +1,7 @@
 ---
 title: "The Elon Enigma: Future of Intelligent Systems"
-date: 2024-10-21T18:57:33.327Z
-updated: 2024-10-26T23:38:49.351Z
+date: 2024-10-25T17:22:43.932Z
+updated: 2024-11-01T17:15:09.682Z
 tags:
   - chatgpt
   - open-ai
@@ -37,16 +37,10 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Is Elon Musk Building TruthGPT?
@@ -58,28 +52,15 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
  Elon Musk, who recently authored an open letter calling for a [moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Would TruthGPT Look Like?
 
 ![artificial brain doing data analytics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
 
@@ -89,15 +70,22 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
 
  So, is this idea of a maximum truth-seeking AI even practical?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Building TruthGPT Is a Huge Challenge
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you [understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/), it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
@@ -131,20 +119,15 @@ As the field of artificial intelligence continues to evolve at a dizzying pace, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-cost-assessment-for-producing-track-driven-videos/"><u>[New] Cost Assessment for Producing Track-Driven Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-artistic-auto-trims-best-6-mac-os-big-sur-video-editors-reviewed/"><u>[Updated] Artistic Auto-Trims Best 6 Mac OS Big Sur Video Editors Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-landscape-of-music-and-intellectual-property-on-insta/"><u>2024 Approved Exploring the Landscape of Music & Intellectual Property on Insta</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adaptive-language-learning-via-chatgpt-plus-interface/"><u>Adaptive Language Learning via ChatGPT Plus Interface</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/an-in-depth-look-at-claude-pros-differences-from-gptplusplus/"><u>An In-Depth Look at Claude Pro’s Differences From GPT++</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-crypto-dialogues-gpts-top-8-integrative-tools-revealed/"><u>Augmenting Crypto Dialogues: GPT's Top 8 Integrative Tools Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cyber-threat-alert-the-risky-side-of-google-bard-download/"><u>Cyber Threat Alert: The Risky Side of Google Bard Download</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-codegpt-the-future-of-programming-with-ai/"><u>Deciphering CodeGPT: The Future of Programming with AI?</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-11-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme 11 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-honor-magic-5-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Honor Magic 5 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-z-fold-5-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy Z Fold 5 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-8-essential-methods/"><u>Mastering GPT: 8 Essential Methods</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-7-compelling-advantages-of-implementing-aiops-in-your-it-strategy/"><u>The Definitive Guide to 7 Compelling Advantages of Implementing AIOps in Your IT Strategy</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-protective-covers-for-google-pixel-phones/"><u>Top-Rated Protective Covers for Google Pixel Phones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unraveling-the-complexity-of-youtube-analytics-analysis/"><u>[New] 2024 Approved Unraveling the Complexity of YouTube Analytics Analysis</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rafting-videos-youtube-tools-and-more-for-2024/"><u>[New] Crafting Videos YouTube Tools and More for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2024ai-ai/"><u>「2024強力AI短片制作工具列表 - AI短片创意之选」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/break-the-silence-speak-to-chatgpt/"><u>Break The Silence: Speak To ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-faux-pas-how-to-sidestep-these-blunders/"><u>ChatGPT Faux Pas: How to Sidestep These Blunders</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-iphone-xr-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From iPhone XR If Youve Tried Everything</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-spectrum-sync-master/"><u>In 2024, Spectrum Sync Master</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-mastering-ai-with-free-dall-e-3-and-bing/"><u>Step Into the Future: Mastering AI with Free DALL-E 3 & Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-7-great-replacements-for-your-searches-on-chatgpt-mobile-by-openai/"><u>The Ultimate Guide: 7 Great Replacements for Your Searches on ChatGPT Mobile by OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thin-is-in-testing-out-apples-slimmest-ipads-ever-at-an-official-store/"><u>Thin Is In: Testing Out Apple’s Slimmest iPads Ever at an Official Store</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 20 Innovative Github Dialogues with ChatGPT
-date: 2024-09-18T17:54:12.672Z
-updated: 2024-09-22T16:42:41.812Z
+date: 2024-10-29T16:39:23.076Z
+updated: 2024-11-01T18:31:27.858Z
 tags:
   - chatgpt
   - open-ai
@@ -66,26 +66,6 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 
 ![ChatGPT Writing Code Snippets for Pokemon App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-code-snippet.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Generate Text-to-Image Prompts
 
 ![Requesting ChatGPT for Midjourney Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-for-ai-art-prompt.jpg)
@@ -94,11 +74,25 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 
 ![Asking ChatGPT to Write Specific AI Art Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-specific-ai-art-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're lost for words, generate prompts with ChatGPT. It can suggest precise, vivid alternatives. You'll find it quicker and easier than running every word in your prompt through a thesaurus.
 
 ## 6\. Explain Complex Algorithms
 
 ![ChatGPT Explaining Algorithm Binary Search Simple Way](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-explaining-algorithms.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  New programmers can use ChatGPT to explain algorithms. It simplifies complex, challenging topics, making them easy to understand for beginners. The platform can also write sample code snippets.
 
@@ -152,6 +146,13 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 
 ![ChatGPT Providing Clean and Refractored Sample Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-refractoring-dirty-sample-code.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Just make sure you test the restructured codes.
 
 ## 11\. Write Cover Letters
@@ -184,11 +185,25 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 
 ![ChatGPT Providing Sample Chemical Reactions After Mixing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-chemical-formula-reactions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While simulations can't replace experiments, they're useful for researching hazardous elements that are hard to obtain. Just note that ChatGPT still observes limitations. It might not display chemical reactions involving illicit substances.
 
 ## 14\. Plan Detailed Trips
 
 ![Asking ChatGPT to be a Travel Planner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-as-travel-planner.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Use this ChatGPT prompt to create a detailed, structured travel plan. You'll produce far better results after providing personal information, like your budget, group size, and preferred transportation modes. Just asking for a travel plan outright yields generic recommendations.
 
@@ -213,10 +228,23 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 ![ChatGPT Continuing Literary Analysis of The Old Pond](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-literary-analysis-continuation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 16\. Friendly Emotional Support
@@ -226,6 +254,13 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
  We talked about financial problems in the below conversation. ChatGPT would normally list debt elimination strategies, but because of this custom prompt, it focused on providing emotional support.
 
 ![ChatGPT Providing Friendly Advice and Emotional Support](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-providing-friendly-support.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Be careful when using [ChatGPT as a mental health coach](https://www.makeuseof.com/how-use-chatgpt-safely-mental-health-coach/). AI merely scrapes information from its training datasets and presents them in natural language—it can't empathize with you.
 
@@ -238,13 +273,6 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
  ChatGPT also develops simple yet effective drills to hone your debate skills. Forming justified, logical arguments impromptu takes practice. You might stutter during debate competitions if you can't organize your thoughts quickly and efficiently.
 
 ![ChatGPT Creating Drills and Practice Rounds for Debate Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-debate-practice-rounds.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And while this prompt generates key arguments and counterarguments, only use them to jumpstart your research. Again, AI scrapes generic information from third-party sources. Research your topic in depth to form compelling arguments, justified assumptions, and convincing conclusions.
 
@@ -276,19 +304,6 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 
  To get unique results, customize this prompt based on your writing style. Specify your preferred phrasing and tone so that ChatGPT knows how to structure title suggestions appropriately.
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Creative With Your ChatGPT Prompts
 
  Feel free to modify these prompts. Even minor changes like using descriptive terms and adding detailed instructions could build new responses altogether. Keep testing various formulas until you reach your desired output.
@@ -312,5 +327,22 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leveraging-the-power-of-creative-commons-rights/"><u>[New] Leveraging the Power of Creative Commons Rights</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-spatial-symphony-with-mac-recording/"><u>2024 Approved Spatial Symphony with Mac Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-auto-tracking-cameras-for-2024/"><u>Best Auto Tracking Cameras for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/clarity-commands-best-practices-for-clear-dialogue/"><u>Clarity Commands: Best Practices for Clear Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-strategies-using-gpt-recognition-in-conversational-security/"><u>Expert Strategies: Using GPT Recognition in Conversational Security</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-finest-free-ai-creation-software/"><u>Exploring the Finest Free AI Creation Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-c67-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unparalleled-background-music-compilation/"><u>In 2024, Unparalleled Background Music Compilation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-pro-versus-macbook-air-determining-the-ideal-device-for-your-needs-digital-innovation-insights/"><u>IPad Pro Versus MacBook Air - Determining the Ideal Device for Your Needs | Digital Innovation Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-brainstorms-mindmaps-and-gpt-3-collaboration/"><u>Mastering Brainstorms: Mindmaps & GPT-3 Collaboration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-time-chatgpt-info-global-value/"><u>Real-Time ChatGPT Info, Global Value</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-auditory-branding-logo-insights-for-podcasters-for-2024/"><u>The Art of Auditory Branding Logo Insights for Podcasters for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211413069-9798893795936-the-secret-52-star-codes-of-creation-hearts/"><u>The Secret 52 Star Codes of Creation (Hearts) | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-sonos-s2-application-effortless-sound-mastery-with-hidden-drawbacks/"><u>Unveiling Sonos' S2 Application: Effortless Sound Mastery with Hidden Drawbacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unwanted-noise-getting-rid-of-prior-gpt-correspondence/"><u>Unwanted Noise: Getting Rid of Prior GPT Correspondence</u></a></li>
+</ul></div>
 

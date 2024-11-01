@@ -1,7 +1,7 @@
 ---
 title: "Investigating The Inertia: ChatGPT-4 Versus Swift GPT-3.5"
-date: 2024-09-19T19:02:41.095Z
-updated: 2024-09-22T17:20:40.425Z
+date: 2024-10-30T18:27:27.698Z
+updated: 2024-11-01T17:37:31.290Z
 tags:
   - chatgpt
   - open-ai
@@ -44,9 +44,29 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
  However, GPT-4 is by no means perfect. In fact, GPT-4's lengthy response times are causing quite a stir. So let's look into this issue and why it may be happening.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT-4 Is Slow
 
 ![loading text and bar symbol on black exterior wall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/black-wall-loading.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many noticed upon the release of GPT-4 that OpenAI's new chatbot was incredibly slow. This left scores of users frustrated, as GPT-4 was meant to be a step up from GPT-3.5, not backward. As a result, GPT-4 users have been taking to online platforms, such as Reddit and OpenAI's community board, to discuss the issue.
 
@@ -74,15 +94,22 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
  But the biggest reason GPT-4 is slow is the number of parameters GPT-4 can call upon versus GPT-3.5\. The phenomenal rise in parameters simply means it takes the newer GPT model longer to process information and respond accurately. You get better answers with increased complexity, but getting there takes a little longer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Choose GPT-3.5 Over GPT-4?
 
 ![digital graphic of openai logo on glass tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-ai-logo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So, with these issues in mind, should you use [GPT-3.5 or GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/)?
@@ -92,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
  However, you should note that GPT-4 isn't just GPT-3.5 but slower. This version of OpenAI's chatbot has numerous advantages over its predecessor. If you're looking for a more advanced AI chatbot and don't mind waiting longer for responses, it may be worth transitioning from GPT-3.5 to GPT-4\.
 
  Over time, GPT-4's delays may be lessened or entirely resolved, so patience could be a virtue here. Whether you try switching to GPT-4 now or wait a little longer to see how things play out with this version, you can still get a lot out of OpenAI's nifty little chatbot.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## GPT-4 Is More Advanced but Comes With a Lag
 
@@ -121,5 +141,20 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-the-clouds-and-crowds-stream-from-dji-to-facebook/"><u>[New] In 2024, Navigating the Clouds and Crowds Stream From DJI to Facebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-premier-2024-selection-cloud-saving-apps-for-android-users/"><u>[New] Premier 2024 Selection Cloud Saving Apps for Android Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-themes-made-easy-by-the-coolest-logo-and-icon-stores-online/"><u>[Updated] In 2024, YouTube Themes Made Easy by the Coolest Logo & Icon Stores Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-proof-file-storage-essential-cloud-services-revealed/"><u>2024 Approved Future-Proof File Storage Essential Cloud Services Revealed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-personalized-cost-free-epilogue-soundscape-creation/"><u>2024 Approved Personalized, Cost-Free Epilogue Soundscape Creation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-15-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 15 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-core-of-bert-and-gpt-nlp-approaches/"><u>Dissecting the Core of BERT and GPT NLP Approaches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-showdown-is-the-leap-to-ipad-air-5-a-must-expert-review-by-zdnet/"><u>IPad Air Showdown: Is the Leap to iPad Air 5 a Must? Expert Review by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-for-educational-papers/"><u>Navigating ChatGPT for Educational Papers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-advantages-of-ai-integration-top-uses-for-chatgpt/"><u>Strategic Advantages of AI Integration: Top Uses for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-essential-ai-capabilities-ios-must-embrace-to-match-androids-advancements-insights/"><u>Top 4 Essential AI Capabilities iOS Must Embrace to Match Android's Advancements: Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-artificial-intelligence-outshine-horoscopes/"><u>Will Artificial Intelligence Outshine Horoscopes?</u></a></li>
+</ul></div>
 

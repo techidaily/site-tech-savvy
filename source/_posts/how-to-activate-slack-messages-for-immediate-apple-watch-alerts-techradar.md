@@ -1,7 +1,7 @@
 ---
 title: How to Activate Slack Messages for Immediate Apple Watch Alerts | TechRadar
-date: 2024-10-19T17:24:49.451Z
-updated: 2024-10-26T19:01:39.090Z
+date: 2024-10-28T17:46:43.729Z
+updated: 2024-11-01T18:24:14.688Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -57,13 +64,6 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -76,16 +76,10 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
@@ -93,16 +87,10 @@ Screenshot by David Gewirtz/ZDNET
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##   
@@ -147,24 +135,18 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -205,14 +187,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-beginners-guide-to-captivating-instagram-video-audiences/"><u>[New] The Beginner's Guide to Captivating Instagram Video Audiences</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/amplify-sales-discover-the-leading-15-facebook-monitoring-tools/"><u>Amplify Sales Discover the Leading 15 Facebook Monitoring Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/playnite-enhancement-embracing-emulated-titles/"><u>Playnite Enhancement: Embracing Emulated Titles</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-video-sharing-between-devices-using-vlc-for-apple-tv-playback-made-easy/"><u>Seamless Video Sharing Between Devices: Using VLC for Apple TV Playback Made Easy</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-the-unexpected-issue-dilemma-a-guide-to-troubleshooting-on-windows-11/"><u>Solving the 'Unexpected Issue' Dilemma: A Guide to Troubleshooting on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-the-stubborn-stuck-caplock-problem-in-windows-systems/"><u>Solving the Stubborn Stuck CapLock Problem in Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-building-a-universal-linux-usb-installer-using-balenas-etcher-tool/"><u>Step-by-Step Guide to Building a Universal Linux USB Installer Using Balena's Etcher Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-verifying-java-installation-in-windows-11/"><u>Step-by-Step Guide: Verifying Java Installation in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshoot-and-solve-your-windows-security-connection-problems-tips-for-restoring-internet-access/"><u>Troubleshoot & Solve Your Windows Security Connection Problems – Tips for Restoring Internet Access</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-reveling-in-4k-an-in-depth-look-at-yis-hero-series/"><u>[Updated] Reveling in 4K An In-Depth Look at Yi’s HERO Series</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-stand-out-with-yt-shorts-essential-guidelines-to-follow/"><u>[Updated] Stand Out with YT Shorts Essential Guidelines to Follow</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-dji-inspire-1-review-insights/"><u>2024 Approved Complete DJI Inspire 1 Review Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210711727-9781454927167-a-little-bit-of-wicca/"><u>A Little Bit of Wicca | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-smart-responses-via-python-plus-gpt-3/"><u>Crafting Smart Responses via Python + GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-device-based-artificial-thinking-methods/"><u>Decoding Device-Based Artificial Thinking Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-hectic-to-harmonious-adopting-these-9-gpt-strategies/"><u>From Hectic to Harmonious: Adopting These 9 GPT Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/paving-pathways-for-the-future-top-5-advances-in-ai-tech-landscape/"><u>Paving Pathways for the Future: Top 5 Advances in AI Tech Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reconstructing-erased-ai-communication/"><u>Reconstructing Erased AI Communication</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011828001-rocket-league-not-loading-heres-how-you-can-resolve-it/"><u>Rocket League Not Loading? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scam-lives-on-unveiling-metasig-at-twitter/"><u>Scam Lives On! Unveiling Metasig at Twitter</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-steelseries-arctis-pro-headset-microphone-malfunctions/"><u>Solving the Issue: SteelSeries Arctis Pro Headset Microphone Malfunctions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/spectral-control-enhancing-image-aesthetics/"><u>Spectral Control Enhancing Image Aesthetics</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209469688-windows-10-touchpad-not-scrolling-heres-how-to-solve-it/"><u>Windows 10 Touchpad Not Scrolling? Here’s How to Solve It</u></a></li>
 </ul></div>
 

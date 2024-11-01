@@ -1,7 +1,7 @@
 ---
 title: "The Flaws of AI Chatbots: Top 8 Issues with GPT"
-date: 2024-09-20T16:56:49.127Z
-updated: 2024-09-22T17:30:59.914Z
+date: 2024-10-27T18:30:19.242Z
+updated: 2024-11-01T18:32:54.674Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
  Learning [how to use ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) is simple, and it's equally easy to be fooled into thinking that the AI system performs without any trouble. However, since its release, key problems have emerged around privacy, security, and its wider impact on people's lives, from jobs to education.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Security Threats and Privacy Concerns
 
  There are plenty of [things that you must not share with AI chatbots](https://www.makeuseof.com/things-you-must-not-share-with-ai-chatbots/), and for good reason. Writing about your financial details or confidential workplace information comes with a risk. OpenAI retains your chat history on its servers and may share this data with a select number of third-party groups.
@@ -57,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
  These changes are a great start, but the improvements should be extended to all ChatGPT users.
 
  You might not think that you would share your personal details so easily, but we're all susceptible to a slip of the tongue, and a good example of this is how a [Samsung employee shared company information with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/).
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Concerns Over ChatGPT Training and Privacy Issues
 
@@ -76,6 +90,19 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
 ![A sheep in front of a blackboard with a wrong math equation displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wrong-math-answer.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It fails at basic math, can't seem to answer simple logic questions, and will even go as far as to argue completely incorrect facts. As people across social media will attest, ChatGPT can get it wrong multiple times.
 
 [OpenAI](https://openai.com/blog/chatgpt/) knows about this limitation, writing that: "ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers." This "hallucination" of fact and fiction, as it's been referred to, is especially dangerous regarding things like medical advice or getting the facts right on key historical events.
@@ -88,21 +115,7 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
 ![Bing AI search results show hallucinations regarding an image description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-hallucinates-image-description.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can see more hilarious hallucinations in our comparison between [ChatGPT vs. Microsoft Bing AI vs. Google Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/). It's not hard to imagine people using ChatGPT to get quick facts and information, expecting those results to be true. But so far, ChatGPT can't get it right, and teaming up with an equally inaccurate Bing search engine only made things worse.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. ChatGPT Has Bias Baked Into Its System
 
@@ -118,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
  By contrast, a similar AI chatbot called Sparrow—owned by Google's parent company, Alphabet—was released in September 2022\. However, it was purposely kept behind closed doors because of similar safety concerns. Around the same time, Facebook released an AI language model called Galactica, intended to help with academic research. However, it was rapidly recalled after many people criticized it for outputting wrong and biased results related to scientific research.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. ChatGPT Might Take Jobs From Humans
 
 ![litlte girl holding hands with robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/litlte-girl-holding-hands-with-robot.jpg)
@@ -139,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
  Technological advancements have always resulted in jobs being lost, but the speed of AI advancements means multiple industries are facing rapid change. A huge cross-section of human jobs are seeing AI filtering into the workplace. Some jobs may find menial tasks being completed with the help of AI tools, while other positions may cease to exist in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT Is Challenging Education
 
  You can ask ChatGPT to proofread your writing or point out how to improve a paragraph. Or you can remove yourself from the equation entirely and ask ChatGPT to do all the writing for you.
@@ -153,6 +152,13 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
  Teachers have experimented with feeding English assignments to ChatGPT and have received answers that are better than what many of their students could do. From writing cover letters to describing major themes in a famous work of literature, ChatGPT can do it all without hesitation.
 
 ![ChatGPT explains the themes in the novel Neuromancer by William Gobson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-ai-chat-gpt-books-themes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That begs the question: if ChatGPT can write for us, will students need to learn this skill in the future? It might seem like an existential question, but since students have started using ChatGPT to help write their essays, educators will soon have to face reality.
 
@@ -171,10 +177,16 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 ![Close-up of computer code on a screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-scammers-malware.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The rate at which ChatGPT can produce information has already caused problems for Stack Exchange, a website dedicated to providing correct answers to everyday questions. Soon after ChatGPT was released, users flooded the site with answers they asked ChatGPT to generate.
@@ -182,6 +194,13 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
  Without enough human volunteers to sort through the backlog, it would be impossible to maintain a high level of quality answers. Not to mention, many of the answers were incorrect. To avoid the website being damaged, a ban was placed on all answers generated using ChatGPT.
 
  The spread of fake information is a serious concern, too. The scale at which ChatGPT can produce text, coupled with the ability to make even incorrect information sound convincingly right, makes everything on the internet questionable. It's a critical combination that amplifies [the dangers of deepfake technology](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. OpenAI Holds All the Power
 
@@ -226,5 +245,26 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-elevate-your-brand-with-these-essential-fb-strategies-for-all-for-2024/"><u>[New] Elevate Your Brand with These Essential FB Strategies (for All) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-clearview-pro-5-screen-mastery/"><u>[New] In 2024, ClearView Pro 5 - Screen Mastery</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-transition-to-hdr-a-step-forward-in-high-quality-video-for-2024/"><u>[New] Transition to HDR A Step Forward in High-Quality Video for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-crack-the-code-of-creativity-in-depth-snapchat-filters-exploration-for-2024/"><u>[Updated] Crack the Code of Creativity In-Depth Snapchat Filters Exploration for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-streamline-video-communication-learn-to-add-timely-captions-on-fb-videos/"><u>2024 Approved Streamline Video Communication Learn to Add Timely Captions on FB Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-elite-lineup-of-note-taking-tablets-comprehensive-testing-and-honest-opinions-by-zdnet/"><u>2024'S Elite Lineup of Note-Taking Tablets: Comprehensive Testing and Honest Opinions by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/algorithmic-love-scams-exposed/"><u>Algorithmic Love Scams Exposed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-unveils-the-upgraded-mac-studio-a-matured-version-of-the-classic-mac-mini-zdnet/"><u>Apple Unveils the Upgraded Mac Studio - A Matured Version of the Classic Mac Mini | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-waiting-list-growing-longer-switch-to-this-award-winning-open-source-desktop-solution/"><u>ChatGPT Waiting List Growing Longer? Switch to This Award-Winning Open Source Desktop Solution!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-interviews-with-the-power-of-chatgpt-tips/"><u>Conquer Interviews with the Power of ChatGPT Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-content-clash-notion-versus-chatgpt-battleground/"><u>Crafting Content Clash: Notion Versus ChatGPT Battleground</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-tips-for-navigating-zoom-on-windows-11/"><u>Essential Tips for Navigating Zoom on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-vpn-benefits-in-chatgpt-accessibility/"><u>Exploring VPN Benefits in ChatGPT Accessibility?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/foremost-spaces-for-ai-inspiration-trading/"><u>Foremost Spaces for AI Inspiration Trading</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-integrations-safety-concerns-addressed/"><u>GPT Integrations: Safety Concerns Addressed?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-edge-discovery-top-6-uses-for-chatgpts-innovative-code-conductor/"><u>Leading-Edge Discovery - Top 6 Uses for ChatGPT's Innovative Code Conductor</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/izing-impact-livestreaming-360-degree-video-magic-on-youtube/"><u>Maximizing Impact Livestreaming 360-Degree Video Magic on YouTube</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/mp4-mvi/"><u>MP4形式への完全ガイド: MVIファイルを高速に変換する方法</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-ion-audio-tailgater-plus-uninterrupted-boosted-bass-and-simplicity-combined/"><u>Unveiling The ION Audio Tailgater Plus: Uninterrupted Boosted Bass and Simplicity Combined!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Will Artificial Intelligence Outshine Horoscopes?
-date: 2024-09-14T16:11:08.770Z
-updated: 2024-09-17T16:29:43.669Z
+date: 2024-10-31T17:27:51.463Z
+updated: 2024-11-01T18:48:39.525Z
 tags:
   - chatgpt
   - open-ai
@@ -52,9 +52,23 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
 
  What follows is her prediction and how it played out in real life.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Well Did ChatGPT Predict the Future?
 
 ![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
 
@@ -97,10 +111,17 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
@@ -128,5 +149,20 @@ thumbnail: https://thmb.techidaily.com/ed59cfb64274f1c3cef31ec193da51a46dc4b1758
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-learn-cinematic-techniques-with-youtube-veterans-and-novices-for-2024/"><u>[Updated] Learn Cinematic Techniques with YouTube Veterans and Novices for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-speed-in-facebook-videos-the-best-tools-and-tips/"><u>[Updated] Unleashing Speed in Facebook Videos The Best Tools and Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/al-gore-or-misinformation-fact-checking-for-clarity/"><u>Al Gore or Misinformation? Fact-Checking for Clarity</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1154034-9781608681556-effortless-mind/"><u>Effortless Mind | Free Book</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/extract-and-save-fb-videos-the-cutting-edge-of-top-5/"><u>Extract and Save FB Videos The Cutting Edge of Top 5</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-from-slide-show-to-screen-share-recording-tips-for-professionals/"><u>In 2024, From Slide Show to Screen Share Recording Tips for Professionals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-how-to-record-cameras-and-monitors-together-efficiently/"><u>In 2024, How to Record Cameras & Monitors Together Efficiently</u></a></li>
+<li><a href="https://driver-error.techidaily.com/introducing-the-ultimate-portable-server-solution-packed-with-up-to-256-cores-ampere-altra-cpu-and-an-impressive-combination-of-480tb-nvme-and-4tb-ram-for-o85/"><u>Introducing the Ultimate Portable Server Solution – Packed with Up to 256 Cores, Ampere Altra CPU, and an Impressive Combination of 480TB NVMe & 4TB RAM for Optimal Performance</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimize-online-presence-through-cookiebot-power/"><u>Optimize Online Presence Through Cookiebot Power</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-fixing-a-locked-macbook-air-screen/"><u>Step-by-Step Solution: Fixing a Locked MacBook Air Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ideal-guard-for-iphone-se-unmatched-defense-with-chic-designs-cnet/"><u>The Ideal Guard for iPhone SE : Unmatched Defense with Chic Designs | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-chatgpt-integrations-for-efficient-pdf-management/"><u>Top 10 ChatGPT Integrations for Efficient PDF Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mac-computers-comprehensive-list-and-reviews-zdnet/"><u>Top Rated Mac Computers : Comprehensive List & Reviews - ZDNet</u></a></li>
+</ul></div>
 

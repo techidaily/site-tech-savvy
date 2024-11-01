@@ -1,7 +1,7 @@
 ---
 title: "The New Era of Conversational Agents: Bard Vs. Bing Chatbot"
-date: 2024-09-21T17:50:33.879Z
-updated: 2024-09-22T18:08:12.309Z
+date: 2024-10-29T16:08:49.413Z
+updated: 2024-11-01T16:07:32.566Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
@@ -64,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bing Chat vs. Google Bard: Ease of Use
 
  There is nothing complicated about either model. If you have used a messaging app, you can use these tools. However, we did notice some differences that are relevant here.
@@ -83,19 +97,19 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As both platforms are going through rapid development, the user experience will continue to improve.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
@@ -125,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
@@ -152,5 +166,22 @@ thumbnail: https://thmb.techidaily.com/272951d0a7f7a1f53c7ee474aec14f4b7a67f4906
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-a-step-by-step-journey-through-high-impact-youtube-banner-designs/"><u>[New] 2024 Approved A Step-by-Step Journey Through High-Impact YouTube Banner Designs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/6-superior-android-screen-capture-apps/"><u>6 Superior Android Screen Capture Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assisted-fantasy-crafting-a-perfect-dandd-experience-with-gpt/"><u>AI-Assisted Fantasy: Crafting a Perfect D&D Experience with GPT</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/balance-aesthetics-and-functionality-on-instagram-for-2024/"><u>Balance Aesthetics and Functionality on Instagram for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-devices-the-ultimate-guide-to-use/"><u>ChatGPT for Devices: The Ultimate Guide to Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-intelligent-agents-gpt-driven-chatgpt/"><u>Crafting Personalized Intelligent Agents: GPT-Driven ChatGPT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/efficiently-managing-your-memories-with-google-photos/"><u>Efficiently Managing Your Memories with Google Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-bypass-the-10k-char-threshold/"><u>How To Bypass the 10K Char Threshold?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-unveiling-the-top-5-ios-tools-for-psp-gameplay/"><u>In 2024, Unveiling the Top 5 iOS Tools for PSP Gameplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-excel-complexity-using-3-strategic-chatgpt-techniques/"><u>Navigate Excel Complexity Using 3 Strategic ChatGPT Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/red-carpet-rollouts-top-picks-for-iphone-filmmakers-choices/"><u>Red Carpet Rollouts Top Picks for iPhone Filmmakers' Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-apple-watch-ultra-2-how-its-features-make-it-a-top-choice-for-me-now-at-100-off-expert-review/"><u>The Apple Watch Ultra 2: How Its Features Make It a Top Choice for Me, Now at $100 Off - Expert Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unauthorized-advantages-of-ai-conversational-tools/"><u>Unauthorized Advantages of AI Conversational Tools</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210710242-9781504081047-vital-message/"><u>Vital Message | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-next-for-apple-insights-on-the-upcoming-iphone-models-release-date-and-specs/"><u>What's Next for Apple? Insights on the Upcoming iPhone Model’s Release Date and Specs</u></a></li>
+</ul></div>
 

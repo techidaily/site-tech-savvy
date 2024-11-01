@@ -1,7 +1,7 @@
 ---
 title: Secure Workout Blueprints Tailored to Your Needs
-date: 2024-10-24T21:25:54.680Z
-updated: 2024-10-26T17:36:02.361Z
+date: 2024-10-27T18:26:43.756Z
+updated: 2024-11-01T16:57:44.838Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
 ![ChatGPT workout plan for beginners prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-beginners-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For the first prompt, I asked ChatGPT to create a workout plan for beginners. The basic workout plan it generated allotted time for cardio, resistance training, warm-ups, and cool-downs.
 
  For the most part, it looks like a solid plan that you might find on any [beginner-friendly workout app](https://www.makeuseof.com/best-beginner-workout-apps-fitness-newbies/), such as the J&J Official 7 Minute Workout. There's even a note at the end to increase your duration slowly over time and stay hydrated, which is excellent advice for any athlete.
@@ -46,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
 ![ChatGPT workout plan for advanced athletes prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-advanced-athletes-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Meanwhile, a second plan for more seasoned athletes follows a similar format, including plenty of examples for cardio, core, and resistance training. Each section includes many options.
 
  For instance, you can decide to use resistance bands or weights for strength training or high-intensity interval training (HIIT) and cycling for cardio work.
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
  A note reinforcing the importance of rest and recovery helps make sure you aren't overtraining as well. Again, it's a dependable plan to increase your baseline fitness.
 
 ![Chat GPT injury recovery prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chat-gpt-injury-recovery-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  What if you are recovering from an injury? It's safest (and always recommended) to consult your doctor for any specific questions about how you can exercise with an injury or other health concern, but I wanted to see how the bot would respond.
 
@@ -71,22 +78,21 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
@@ -105,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from [top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/).
 
  What if you have more specific questions about how to perform the exercises correctly? The chatbot can help with that, too.
@@ -114,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
 
  If you ever need to double-check the way to perform a certain exercise, or simply try out a new series of strength workouts, then ChatGPT is a helpful resource. The simple, straightforward responses and training plans offer a lot of information for beginner and more experienced athletes looking to increase their strength. Just be sure to verify the information with reputable sources before you take ChatGPT's advice.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## It's Possible to Use ChatGPT to Help With Your Fitness Goals
 
@@ -145,21 +151,22 @@ thumbnail: https://thmb.techidaily.com/fa549a8f4ea78a6f19c6043f8b4168f45b8a02a01
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-flight-performance-in-djis-drone-standard-edition/"><u>[Updated] Analyzing Flight Performance in DJI's Drone Standard Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-leader-replaced-impact-on-gpts-future/"><u>AI Leader Replaced: Impact on GPT's Future</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-the-allure-of-a-chatgpt-app-factor/"><u>Bypassing the Allure of a ChatGPT App Factor</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-camera-calamities-an-experts-guide-to-zoom-display-fixes-for-desktops/"><u>Conquering Camera Calamities: An Expert's Guide to Zoom Display Fixes for Desktops</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/default-plugins-for-chatgpt-explored/"><u>Default Plugins for ChatGPT Explored</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722998832947-elden-ring-players-rejoice-multiplayer-feature-fixed/"><u>Elden Ring Players Rejoice: Multiplayer Feature Fixed</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-picks-for-leading-karaoke-machines-edition/"><u>Expert Picks for Leading Karaoke Machines Edition</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-10t-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-14-plus-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 14 Plus?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g04-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G04 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-nokia-105-classic-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Nokia 105 Classic to Another | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quintuple-facilitators-ais-acceleration-of-cybercriminal-endeavors/"><u>Quintuple Facilitators: AI's Acceleration of Cybercriminal Endeavors</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/icks-for-virtual-globe-tourists/"><u>Top Picks for Virtual Globe Tourists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-censorship-mechanisms-in-your-virtual-assistants/"><u>Understanding the Censorship Mechanisms in Your Virtual Assistants</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-vs-code-potential-with-codegpt/"><u>Unlocking VS Code Potential with CodeGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/winning-job-applications-with-advanced-ai-for-resumes/"><u>Winning Job Applications with Advanced AI for Resumes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-detailed-steps-to-using-azure-speech-recognition/"><u>[New] 2024 Approved Detailed Steps to Using Azure Speech Recognition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-selection-highest-quality-stands/"><u>[New] Prime Selection Highest Quality Stands</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-digital-content-contenders-compare-and-contrast-vimeo-youtube-plus-dailymotion/"><u>2024 Approved Digital Content Contenders Compare & Contrast Vimeo, YouTube + Dailymotion</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-find-x7-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo Find X7 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-look-at-the-most-outstanding-leds/"><u>A Look at the Most Outstanding LEDs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bard-vs-chatgpt-googles-new-ai-showdown-announced/"><u>Bard Vs. ChatGPT: Google's New AI Showdown Announced</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-google-bard-which-is-better/"><u>ChatGPT Vs. Google Bard: Which Is Better?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-troubleshooting-for-common-device-manager-codes-on-pc/"><u>Comprehensive Troubleshooting for Common Device Manager Codes on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-dilemmas-navigating-through-3-chatbot-security-risks/"><u>Digital Dilemmas: Navigating Through 3 Chatbot Security Risks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-the-power-of-automated-content-crafting/"><u>Harness the Power of Automated Content Crafting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-access-chatgpt-from-anywhere-using-chatgpt-everywhere/"><u>How to Access ChatGPT From Anywhere Using ChatGPT Everywhere</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-y36i-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo Y36i to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-resources-transformed-by-chatai/"><u>Human Resources Transformed by ChatAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/icebergs-afloat-earths-fare-takes-another-shot/"><u>Icebergs Afloat, Earth's Fare Takes Another Shot</u></a></li>
+<li><a href="https://win-popular.techidaily.com/mengatur-klik-untuk-menyetel-mematikanmemulai-program-windows-win111087-langkah-langkah-tiga-bodoh-banyak-gue-perih/"><u>Mengatur Klik Untuk Menyetel / Mematikan/Memulai Program Windows (Win11/10/8/7): Langkah-Langkah Tiga Bodoh Banyak Gue Perih.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-solar-power-in-action-the-fast-paced-world-of-flsun-s1-and-its-unique-delta-feature/"><u>Revolutionary Solar Power in Action: The Fast-Paced World of FLSun S1 and Its Unique Delta Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-guidance-in-gpt-3-a-closer-look/"><u>Tailored Guidance in GPT-3: A Closer Look</u></a></li>
 </ul></div>
 

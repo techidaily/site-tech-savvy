@@ -1,7 +1,7 @@
 ---
 title: Rethinking AI Assessment Beyond the Turing Trials
-date: 2024-09-20T16:26:02.612Z
-updated: 2024-09-22T19:05:41.058Z
+date: 2024-10-27T16:25:00.532Z
+updated: 2024-11-01T17:32:06.624Z
 tags:
   - chatgpt
   - open-ai
@@ -50,6 +50,13 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the [New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment, [GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/), but so far, there is currently no AI model that can comprehend videos like a human. [Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
@@ -58,24 +65,38 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  According to a research paper published on [PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112), the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the [visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can [identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the [thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014\.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However, [artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
 
@@ -87,23 +108,9 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes [AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  According to the AI classification framework developed by [Chris Saad](https://docsend.com/view/et7755yasfpj3iy6), the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
@@ -132,5 +139,21 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/apid-fire-guide-to-successful-double-exposures/"><u>[New] Rapid-Fire Guide to Successful Double Exposures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-step-by-step-guide-to-uploading-videos-on-youtube/"><u>[New] The Ultimate Step-by-Step Guide to Uploading Videos on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-list-10-text-effects-to-elevate-your-clips-for-2024/"><u>[Updated] The Ultimate List 10 Text Effects to Elevate Your Clips for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-apeman-c450-dash-cam-analysis-top-picks-for-savvy-shoppers/"><u>Affordable Apeman C450 Dash Cam Analysis: Top Picks for Savvy Shoppers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-iphone-14-pro-and-iphone-14-pro-max-a-comprehensive-comparison-for-your-next-smartphone-purchase-techradar/"><u>Choosing Between iPhone 14 Pro and iPhone 14 Pro Max: A Comprehensive Comparison for Your Next Smartphone Purchase | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-the-new-titans-of-wearables-apple-watch-ultra-vs-apple-watch-series-8-find-your-perfect-fit/"><u>Choosing Between the New Titans of Wearables: Apple Watch Ultra Vs. Apple Watch Series 8 – Find Your Perfect Fit!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/clear-your-path-eradicate-windows-bsod-errors/"><u>Clear Your Path: Eradicate Windows BSOD Errors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-y17s-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo Y17s without App | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-marks-major-upgrade-in-repairability-compared-to-earlier-models-according-to-apple-insights-for-consumers/"><u>IPhone 16 Marks Major Upgrade in Repairability Compared to Earlier Models, According to Apple - Insights for Consumers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-tool-from-openai-spots-fakes-in-chatgpt-outputs/"><u>New Tool From OpenAI Spots Fakes in ChatGPT Outputs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-and-simple-techniques-to-download-hundreds-on-tiktok-for-2024/"><u>Swift and Simple Techniques to Download Hundreds on TikTok for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ditors-toolkit-elevating-your-youtube-videos-via-windows-pc-for-2024/"><u>The Editor's Toolkit Elevating Your YouTube Videos via Windows PC for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-non-experts-guide-to-ai/"><u>The Non-Expert's Guide to AI</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Early Days of AI: Unraveling the Past"
-date: 2024-10-25T17:24:05.835Z
-updated: 2024-10-26T22:58:31.531Z
+date: 2024-10-28T16:14:24.629Z
+updated: 2024-11-01T16:22:09.504Z
 tags:
   - chatgpt
   - open-ai
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Technological developments accelerated during this period. The accessibility of IT resources enabled researchers to materialize theories, imagined concepts, and speculations. They were laying the foundation for cybernetics.
 
 * **1914:** Spanish civil engineer Leonardo Torres y Quevedo created El Ajedrecista, which translates to The Chess Player in English. It's an early use of automation. The Chess Player performed an endgame move using its rook and king to checkmate an opposing player.
@@ -72,6 +79,13 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 
 ![The Black First Generation iPhone on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/original-iphone-first-gen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone%5FFirst%5FGeneration%5F8GB%5F%283680455198%29.jpg)
 
  Consumers gained access to innovative, groundbreaking technologies that made their lives more convenient. They slowly adopted these new gadgets. The iPod replaced the Sony Walkman, gaming consoles put arcades out of business, and Wikipedia beat Encyclopædia Britannica.
@@ -85,28 +99,15 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
  Interestingly, despite this period featuring some of the most iconic tech from recent decades, AI wasn't fully on the radar for most consumers, with personal and home assistant tools like Siri and Alexa only appearing in the next period.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2011-2020: The Spread and Development of AI-Driven Applications
 
 ![Camera, Smartphone, Keyboard, an Laptop on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/various-gadgets-on-table.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Companies began developing stable AI-driven solutions during this period. They integrate AI into various software and hardware systems, like virtual assistants, grammar checkers, laptops, smartphones, and [augmented reality apps](https://www.makeuseof.com/tag/best-augmented-reality-apps-android/).
 
@@ -123,10 +124,10 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The great AI race has begun. Developers are releasing language models, and companies are researching ways to integrate AI with their products. At this rate, almost every consumer product will have an AI component.
@@ -135,13 +136,6 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 * **2023:** Other global tech companies followed suit. Google launched Bard, Microsoft released Bing Chat, Meta developed an open-source language model called LLaMA, and OpenAI released GPT-4, its upgraded model.
 
  There are also numerous [other AI web apps](https://www.makeuseof.com/best-ai-web-apps/) and [AI-based health apps](https://www.makeuseof.com/best-ai-apps-monitor-your-health/) available for use or in development, and so many more to come.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How AI Will Shape the Future
 
@@ -168,20 +162,17 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-learn-everything-about-3d-lut-creator-and-mobile-app/"><u>[Updated] 2024 Approved Learn Everything About 3D LUT Creator & Mobile App</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-crafting-perfect-lines-in-digital-imagery/"><u>[Updated] In 2024, Crafting Perfect Lines in Digital Imagery</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-in-depth-exploration-of-final-cut-pros-powerful-tools-and-features/"><u>[Updated] In 2024, In-Depth Exploration of Final Cut Pro’s Powerful Tools and Features</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-poco-x6-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Poco X6 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-free-streaming-apps-for-live-television-top-picks-for-your-pc-or-mac/"><u>Best Free Streaming Apps for Live Television: Top Picks for Your PC or Mac</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-logitech-momo-steering-wheel-software-driving-simulator-enthusiasts/"><u>Download the Logitech MOMO Steering Wheel Software - Driving Simulator Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-skills-using-gpt-my-bots-in-game-mastery-and-artistry/"><u>Elevate Skills: Using GPT-My Bots in Game Mastery and Artistry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-to-efficiently-deploy-chatgpt-extensions/"><u>Guide to Efficiently Deploy ChatGPT Extensions</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-game-changing-ai-to-craftsmanship/"><u>Introducing Game-Changing AI to Craftsmanship</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-best-liked-platforms-to-access-compilation-of-guitar-chord-diagrams-and-visual-themes-for-2024/"><u>New Best-Liked Platforms to Access Compilation of Guitar Chord Diagrams & Visual Themes for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/steering-clear-of-mistakes-with-ai-generators/"><u>Steering Clear of Mistakes with AI Generators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-unnoticed-artifacts-by-chatgpt/"><u>The Unnoticed Artifacts by ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/traps-in-tokens-exposing-fake-bingpt-projects/"><u>Traps in Tokens: Exposing Fake BinGPT Projects</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/understanding-du-recorder-through-this-guide/"><u>Understanding Du Recorder Through This Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-seamlessly-engage-fb-live-on-your-roku-screen-for-2024/"><u>[Updated] Seamlessly Engage FB Live on Your Roku Screen for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-quicksnap-win10-recording-master/"><u>2024 Approved QuickSnap Win10 Recording Master</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-creativity-and-ai-for-do-it-yourselfers/"><u>Bridging Creativity and AI for Do-It-Yourselfers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-the-art-of-poetry-with-chatgpt-expertise/"><u>Enhancing the Art of Poetry with ChatGPT Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-one-on-one-to-global-how-does-gemini-challenge-chatgpt/"><u>From One-on-One to Global: How Does Gemini Challenge ChatGPT?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-expert-advice-on-embedding-vimeo-content-in-ms-powerpoint/"><u>In 2024, Expert Advice on Embedding Vimeo Content in MS PowerPoint</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100t-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100t to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Xiaomi 13T? | Dr.fone</u></a></li>
+<li><a href="https://win-premium.techidaily.com/movavi-tiff/"><u>Movavi를 사용한 자이로나에서 TIFF 전환 무료 스테이징 – 제안해 주세요!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proactive-tips-to-utilize-chatgpt-plugins-effectively/"><u>Proactive Tips to Utilize ChatGPT Plugins Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-ai-driven-website-evolution/"><u>Unleashing Potential: AI-Driven Website Evolution</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-local-video-streaming-made-easy-chromecast-guide-for-windows-mac-android-and-ios-devices/"><u>Updated 2024 Approved Local Video Streaming Made Easy Chromecast Guide for Windows, Mac, Android, and iOS Devices</u></a></li>
 </ul></div>
 

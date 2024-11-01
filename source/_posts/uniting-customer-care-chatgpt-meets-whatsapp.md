@@ -1,7 +1,7 @@
 ---
 title: "Uniting Customer Care: ChatGPT Meets WhatsApp"
-date: 2024-09-17T16:51:50.472Z
-updated: 2024-09-22T16:08:39.256Z
+date: 2024-10-26T16:05:58.212Z
+updated: 2024-11-01T16:06:09.224Z
 tags:
   - chatgpt
   - open-ai
@@ -167,6 +167,13 @@ python manage.py runserver`
 
 ![Application QR code prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-qr-code.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Move to your WhatsApp mobile app and navigate to **Settings > QR code > Scan code** to add a new linked device and scan the popped QR code on your terminal.
 
  After logging in, the application will start listening to incoming messages. If someone sends a message, the received message will make a GET request to API with the message as a query parameter and send the response back to the sender on WhatsApp.
@@ -176,10 +183,10 @@ python manage.py runserver`
 ![Output of integrating chatgpt and WhatsApp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-output.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using WhatsApp Chatbot to Integrate WhatsApp With ChatGPT API
@@ -196,6 +203,13 @@ python manage.py runserver`
 
  Though this method is easier if you already have a chatbot, you should only opt for it once you’re comfortable with the risks involved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Configuring Automated Responses
 
  To get better customer service, configure automated responses to provide fast and accurate responses to customer messages. These responses will personalize the customer by name and provide relevant responses to customer queries.
@@ -206,16 +220,16 @@ python manage.py runserver`
 
  In this case, the Django REST framework provides a browsable API to help test API requests and responses.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Measuring Success and Fine-Tuning
 
  Once your WhatsApp chatbot is in deployment, it is crucial to measure its success and usage over time. This will help with fine-tuning it accordingly. Analytics tools like OpenDialog and Rasa can help to track metrics such as response time, retention rate, and customer satisfaction.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Streamline Customer Support on WhatsApp With ChatGPT Integration
 
@@ -238,5 +252,21 @@ python manage.py runserver`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/levate-your-aspects-of-sound-and-sight-in-asmr-recording/"><u>[New] Elevate Your Aspects of Sound and Sight in ASMR Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-expert-techniques-for-swift-mac-screenshotting-using-shortcuts/"><u>[Updated] 2024 Approved Expert Techniques for Swift Mac Screenshotting Using Shortcuts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-laughter-league-twitters-best-jokes/"><u>[Updated] In 2024, Laughter League Twitter's Best Jokes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/constructing-unique-instagram-post-images/"><u>Constructing Unique Instagram Post Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dispelling-fears-avoid-labeling-gpt-win-as-malware/"><u>Dispelling Fears: Avoid Labeling GPT-Win as Malware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-ais-impact-on-disinformation/"><u>Dissecting AI’s Impact on Disinformation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-draining-iphone-battery-issues-since-ios-1n-update/"><u>How to Fix Draining iPhone Battery Issues Since iOS 1N Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-anthropics-ai-for-creative-prowess/"><u>Leveraging Anthropic's AI for Creative Prowess</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-custom-chatbot-development-with-self-data/"><u>Mastering Custom ChatBot Development with Self-Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-finances-with-ai-assistants-safe-or-not/"><u>Navigating Finances with AI Assistants: Safe or Not?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resident-evil-village-pc-troubleshooting-steps-for-your-black-screen-dilemma/"><u>Resident Evil Village PC - Troubleshooting Steps for Your Black Screen Dilemma</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600612670-stellar-data-recovery-windows/"><u>Stellar Data Recovery: Windowsでのデータ復旧ソフトウェア - 本日より無料利用可能</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-safely-bypassing-drm-on-epub-pdf-and-mobi-ebooks/"><u>Step-by-Step Guide: Safely Bypassing DRM on EPUB, PDF, and MOBI eBooks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-early-days-of-ai-unraveling-the-past/"><u>The Early Days of AI: Unraveling the Past</u></a></li>
+</ul></div>
 

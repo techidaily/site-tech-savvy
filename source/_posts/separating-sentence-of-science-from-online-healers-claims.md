@@ -1,7 +1,7 @@
 ---
 title: Separating Sentence of Science From Online Healers' Claims
-date: 2024-09-19T17:31:10.152Z
-updated: 2024-09-22T16:07:48.213Z
+date: 2024-10-28T16:17:59.668Z
+updated: 2024-11-01T17:51:51.692Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
  When prompted, the chatbot itself will even reiterate this idea. Although [AI technology will affect the future of healthcare](https://www.makeuseof.com/ai-will-power-future-healthcare/) in a number of ways, it isn't likely to replace the human component in the near future. For the most important medical questions, continue to rely on your personal physician or healthcare provider.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Rely on Established Medical Resources
 
  Many medical resources available online provide reliable, reputable, evidence-based information. Even better, they present the facts in a straightforward way, making them more accessible to people from all sorts of backgrounds (not only medical professionals). These are some examples:
@@ -55,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
  Those that end in .com, or commercial sites, may also provide helpful information. In many instances, however, these sites are more focused on selling you something, according to the [National Institute on Aging](https://www.nia.nih.gov/health/how-find-reliable-health-information-online). If you're trying to fact-check other information, then a nonprofit or educational site may offer more neutral facts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Use Apps With Care
@@ -68,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
  If you want to rely on an app, then evaluate the source, check out user reviews and ratings, and check for endorsements or certifications from reputable healthcare organizations.
 
  In general, health apps should complement professional medical advice—not replace it. In this instance, they may not provide the best way to fact-check information from other sources.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Take Care With Personal Sites, Influencers, and Other Individuals
 
@@ -81,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
  If you’re trying to double-check information from ChatGPT or similar sources, however, then this may not be the best avenue in general.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Trust Your Gut
 
  If your AI bot presents health information that doesn’t seem quite right, then trust your gut. Although these applications are incredibly powerful, they aren’t all-knowing.
@@ -95,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
  In addition, AI hallucination responses—in which artificially intelligent chatbots present factually incorrect information in an authoritative manner—are still an issue. While there are [ways to spot AI hallucination](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) in a chatbot's responses, it can be tricky to separate the true information from the false.
 
  In these events, take extra care to run the provided information by a trusted medical resource (or your own physician).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Trusted Resources to Double-Check Health Information From ChatGPT
 
@@ -117,5 +131,19 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-choosing-your-stage-obs-or-twitch-pro/"><u>[New] 2024 Approved Choosing Your Stage OBS or Twitch Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-dynamic-focus-enhanced-handheld-shot-quality-for-2024/"><u>[Updated] Dynamic Focus Enhanced Handheld Shot Quality for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-watch-showdown-ultra-vs-series-8-find-your-perfect-wrist-companion-zdnet-insights/"><u>Apple Watch Showdown: Ultra Vs. Series 8 | Find Your Perfect Wrist Companion | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brief-guide-to-bavarder-setup-linux-style/"><u>Brief Guide to Bavarder Setup, Linux-Style</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-conversion-change-your-mov-files-into-webm-format-using-online-tools-movavi/"><u>Free Conversion: Change Your MOV Files Into WebM Format Using Online Tools - MOVavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/frostbite-fame-highlights-of-cold-climates-games/"><u>Frostbite Fame Highlights of Cold Climates Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-unlocked-vital-updates-you-cant-ignore/"><u>GPT Unlocked: Vital Updates You Can't Ignore!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-not-found-d3dcompiler-error-on-windows/"><u>How to Fix the Not Found D3DCOMPILER Error on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/luxury-lapping-titans-clash-samsung-galaxy-book-2-ultra-versus-apples-macbook-pro-the-exclusive-tech-face-off-digital-trends/"><u>Luxury Lapping Titans Clash: Samsung Galaxy Book 2 Ultra Versus Apple's MacBook Pro – The Exclusive Tech Face-Off | Digital Trends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/struggling-with-cellular-signal-after-ios-1721-on-iphone-try-these-solutions-zdnet/"><u>Struggling with Cellular Signal After iOS 17.2.1 on iPhone? Try These Solutions | ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-gen-marvel-all-eyes-on-apple-watch-ultra-2s-release-date-price-point-and-feature-set-rumors-decoded/"><u>The Next-Gen Marvel: All Eyes on Apple Watch Ultra 2'S Release Date, Price Point, and Feature Set – Rumors Decoded!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-advanced-productivity-features-by-combining-onlyoffice-docspace-with-the-power-of-chnaghpt-technology/"><u>Unlocking Advanced Productivity Features by Combining ONLYOFFICE DocSpace with the Power of Chnaghpt Technology</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Machine Learning Vs. Student Creativity in Essay Composition
-date: 2024-10-22T23:26:19.139Z
-updated: 2024-10-26T22:26:05.657Z
+date: 2024-10-26T16:38:38.933Z
+updated: 2024-11-01T17:59:42.953Z
 tags:
   - chatgpt
   - open-ai
@@ -56,21 +56,22 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
 
 ![chatgpt site open on desktop monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is the basic gist of [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/): when you ask ChatGPT anything, it doesn't send you to an article or a website. Instead, it goes through all its stored information and recognizes patterns based on what it has learned. From there, it will return an answer it predicts will satisfy your need.
 
  ChatGPT and generative AI generally do not analyze information for you. However, it will deliver results that previous writers have already processed. And, based on your question, it can also give you related results.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI as a Learning Tool: Harnessing ChatGPT to Improve Understanding
@@ -85,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
 
 ![was google search controversial chatgpt question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/was-google-search-controversial-chatgpt-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This result shows how AI and ChatGPT can make research faster and easier for students. And although ChatGPT did not reveal its sources, I can use its results as a springboard for further investigation.
 
  In a conversation with my colleagues, one of MUO's writers, [Garling Wu](https://www.makeuseof.com/author/garling-wu/), said this about using ChatGPT in the academe:
@@ -93,22 +101,15 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
 
  In short, AI is a powerful learning tool, but it's just a tool nonetheless. Students must still use their critical thinking to produce their final output. So, whether you're a student or a professional, you must ensure that you use ChatGPT ethically—and here are some [ways writers and editors can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI as a Cheating Tool: Making Plagiarism Much Easier and Harder to Detect
 
 ![student cheating on an exam with their phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-cheating-on-an-exam-with-their-phone-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, as with any new technology, some students misuse it. Because ChatGPT answers questions by predicting the correct response, it will paraphrase its sources. So, it's tempting for many to copy and paste what ChatGPT regurgitated from the internet.
@@ -120,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
  The problem is, with ChatGPT around, it could be challenging to assess someone's knowledge on a topic using an essay, making the whole point of essays in the first place a bit redundant. Some people could use ChatGPT to understand a topic better, while others will use it to pretend that they learned what a class was teaching, or some mix in between.
 
  Because of this, educators must find ways to make student essays more robust. For example, they can no longer assign general topics—like a book report on The Great Gatsby—because it's easy for students to ask ChatGPT or any other generative AI tool to write it for them.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Student Essays Need to Evolve to Survive AI
 
@@ -157,10 +151,10 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
 ![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Essays Can Still Gauge Student Knowledge and Competence
@@ -190,19 +184,14 @@ thumbnail: https://thmb.techidaily.com/87eef5cf587ac33a0581d68baadab4d33ca4c311a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-optimal-free-tools-5-gif-to-video-conversion-websites-without-downloads/"><u>[Updated] 2024 Approved Optimal Free Tools 5 GIF-to-Video Conversion Websites Without Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ameliorer-la-satisfaction-client-avec-lintelligence-digitale-un-guide-doptimisation/"><u>Améliorer La Satisfaction Client Avec L'intelligence Digitale : Un Guide D'optimisation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automated-marketing-solutions-optimized-with-cookiebot-technology/"><u>Automated Marketing Solutions: Optimized with Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-sites-performance-with-cookiebot-technology/"><u>Boost Your Site's Performance with Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/common-inquiries-and-concerns-regarding-artificnial-intelligence-answers-you-need/"><u>Common Inquiries and Concerns Regarding Artificnial Intelligence: Answers You Need</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-insights-optimize-your-websites-performance/"><u>Cookiebot-Driven Insights: Optimize Your Website's Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-sites-enhance-user-experience-and-tracking/"><u>Cookiebot-Enabled Sites: Enhance User Experience & Tracking</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-magic-5-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor Magic 5 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-walkthrough-for-android-audio-personalization/"><u>In 2024, The Complete Walkthrough for Android Audio Personalization</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-nhl-19-gaming-experience-and-digital-play/"><u>In-Depth Analysis: NHL '19 Gaming Experience and Digital Play</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-10t-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme 10T 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-podcast-platter-googlouds-best-series-for-2024/"><u>Premium Podcast Platter GooGloud's Best Series for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-issues-with-microsoft-edge/"><u>Troubleshooting Steps: Resolving Issues with Microsoft Edge</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/vlog-edit-mastery-harnessing-the-power-of-jump-cuts-for-2024/"><u>Vlog Edit Mastery Harnessing the Power of Jump Cuts for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-monitoring-and-measuring-igtv-video-performance-for-2024/"><u>[New] Monitoring and Measuring IGTV Video Performance for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-elevate-your-edits-a-selection-of-top-9-free-software-choices/"><u>[Updated] 2024 Approved Elevate Your Edits A Selection of Top 9 Free Software Choices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-12-flipscreen-cam-titles-for-optimal-vlogging/"><u>[Updated] In 2024, Essential 12 Flipscreen Cam Titles for Optimal Vlogging</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-claudes-superiority-four-distinct-benefits-compared-to-chatgpt/"><u>Exploring Claude's Superiority: Four Distinct Benefits Compared to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-chronicle-of-language-models-from-gpt-1-to-gpt-4/"><u>The Chronicle of Language Models From GPT-1 to GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-fallacy-of-faithfulness-in-chatgpts-summaries/"><u>The Fallacy of Faithfulness in ChatGPT's Summaries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitter-axes-checkmarks-linus-tech-tips-hacked-trojans-explained-and-the-biggest-problems-with-chatgpt/"><u>Twitter Axes Checkmarks, Linus Tech Tips Hacked, Trojans Explained, and the Biggest Problems With ChatGPT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-conversion-handbook-srt-to-various-formats-for-2024/"><u>Ultimate Conversion Handbook SRT to Various Formats for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-your-lg-devices-channel-options/"><u>Understanding Your LG Device's Channel Options</u></a></li>
 </ul></div>
 

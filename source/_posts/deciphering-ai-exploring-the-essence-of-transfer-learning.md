@@ -1,7 +1,7 @@
 ---
 title: "Deciphering AI: Exploring the Essence of Transfer Learning"
-date: 2024-09-15T16:18:56.177Z
-updated: 2024-09-17T16:16:43.648Z
+date: 2024-10-26T17:02:54.925Z
+updated: 2024-11-01T16:50:54.917Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,19 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 
  This works since cats and dogs share many traits the pre-trained model can already identify. Since the cat-classifying model can identify the various traits of a cat, such as having four legs, fur coats, and prominent snouts, the dog-classifying model can skip all the training to identify those traits and inherit them from the original model. After inheriting all those neural networks, you then cut off the last layers of the trained model used to identify the more specific traits of a cat and replace them with a dataset specific to dogs.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What AI Models Can You Use for Transfer Learning?
 
  To use transfer learning, you'll need a pre-trained model. A pre-trained model is commonly known as an AI model trained for the purpose of gaining general knowledge on a particular subject or idea. These types of pre-trained models are purposely made for people to fine-tune and make more application-specific models. Some of the most popular pre-trained models are for NLP, like [BERT and GPT](https://www.makeuseof.com/gpt-vs-bert/), and computer vision, such as VGG19 and Inceptionv3\.
@@ -45,6 +58,19 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
  Although popular, these easily fine-tunable models aren't the only ones you can use for transfer learning. You can also use models trained on tasks more specific than general object or language recognition. As long as the model has developed neural networks applicable to the model you're trying to train, you can use just about any model for transfer learning.
 
  You can get publicly available pre-trained models from places like TensorFlow Hub, Hugging Face, and the OpenAI model marketplace.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Benefits of Using AI Transfer Learning
 
@@ -57,15 +83,22 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
  Training an AI model from scratch is possible, but you need greater resources to do so.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does Transfer Learning Work?
 
 ![Transfer-Learning-Illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/final.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In essence, there are three stages when it comes to transfer learning.
 
@@ -74,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 * **Fine-Tuning:** After the pre-trained model has been frozen and the top layers removed, a new dataset is fed to the learning algorithm, which is then used to train the new model and the specifics of its application.
 
  There is more to it than the three stages, but this outline details roughly how the AI transfer learning process works, with some fine-tuning.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Limitations to AI Transfer Learning
 
@@ -115,5 +141,26 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-impact-of-authenticity-in-insta-self-portraits/"><u>[Updated] In 2024, The Impact of Authenticity in Insta Self-Portraits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-unique-audio-selections-for-video-conclusions/"><u>2024 Approved Free, Unique Audio Selections for Video Conclusions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-top-5-cozy-winter-scenes-for-video-aesthetics/"><u>2024 Approved Top 5 Cozy Winter Scenes for Video Aesthetics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-elite-lineup-of-note-taking-tablets-comprehensive-testing-and-honest-opinions-by-zdnet/"><u>2024'S Elite Lineup of Note-Taking Tablets: Comprehensive Testing and Honest Opinions by ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726220136063-jp2-jpg-movavi/"><u>網路即時免費 JP2 轉成 JPG - 利用 Movavi 影像轉換工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/algorithmic-love-scams-exposed/"><u>Algorithmic Love Scams Exposed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-unveils-the-upgraded-mac-studio-a-matured-version-of-the-classic-mac-mini-zdnet/"><u>Apple Unveils the Upgraded Mac Studio - A Matured Version of the Classic Mac Mini | ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boost-your-creativity-on-instagram-with-free-filters/"><u>Boost Your Creativity on Instagram with Free Filters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capture-perfection-dive-into-top-12-websites-offering-stock-photos-without-cost-for-2024/"><u>Capture Perfection Dive Into Top 12 Websites Offering Stock Photos Without Cost for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/clonage-dssd-parfait-pour-windows-11-10-8-and-7-solutions-logicielles-optimales-de-crucial/"><u>Clonage D'SSD Parfait Pour Windows 11, 10, 8 & 7 : Solutions Logicielles Optimales De Crucial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-interviews-with-the-power-of-chatgpt-tips/"><u>Conquer Interviews with the Power of ChatGPT Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-content-clash-notion-versus-chatgpt-battleground/"><u>Crafting Content Clash: Notion Versus ChatGPT Battleground</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/discover-the-top-12-freely-available-3d-animation-tools-of-2024/"><u>Discover the Top 12 Freely Available 3D Animation Tools of 2024!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-ssd-installation-for-sonys-next-gen-console-a-ps5-owners-manual/"><u>DIY SSD Installation for Sony's Next-Gen Console: A PS5 Owner’s Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-vpn-benefits-in-chatgpt-accessibility/"><u>Exploring VPN Benefits in ChatGPT Accessibility?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/foremost-spaces-for-ai-inspiration-trading/"><u>Foremost Spaces for AI Inspiration Trading</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-integrations-safety-concerns-addressed/"><u>GPT Integrations: Safety Concerns Addressed?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-motorola-edge-40-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Motorola Edge 40 Data? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-edge-discovery-top-6-uses-for-chatgpts-innovative-code-conductor/"><u>Leading-Edge Discovery - Top 6 Uses for ChatGPT's Innovative Code Conductor</u></a></li>
+</ul></div>
 

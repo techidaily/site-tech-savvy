@@ -1,7 +1,7 @@
 ---
 title: "AI Chatter Perfected: Discover 10 Ways to Improve ChatGPT"
-date: 2024-09-17T17:53:11.477Z
-updated: 2024-09-22T17:29:09.337Z
+date: 2024-10-30T18:37:35.336Z
+updated: 2024-11-01T18:04:11.464Z
 tags:
   - chatgpt
   - open-ai
@@ -101,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 
 ![Budget travel tips provided by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-15-08.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6 Scholar GPT
 
  Academic research is a strenuous process regardless of your experience, but AI tools can help you streamline the process and provide more context. Scholar GPT is one of those. With this GPT, you can upload research paper PDFs and links to receive analysis.
@@ -108,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 ![The Scholar GPT plugin analyzing a research paper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-25-26.png)
 
  Scholar GPT can analyze text from reputable websites, including Google Scholar and PubMed. Besides analyzing research papers, you can also ask the tool to give you the latest news in your industry. If you’d prefer to use research websites directly, start by checking out these [expert Google Scholar search tips](https://www.makeuseof.com/google-scholar-search-tips/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 Prompt Professor
 
@@ -122,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
  Prompt Professor can also provide tips on the golden rules of prompting. Moreover, if you’re new, you can get general advice on how to write a good prompt. If you want a headstart, [there are several AI prompt generators you can also try](https://www.makeuseof.com/best-ai-prompt-generators-for-any-ai-tool/).
 
 ![Room for improvement offered by the Prompt Professor custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-31-26.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8 Code Tutor
 
@@ -266,16 +287,16 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 
 ![An overview provided by the Gym, Fitness, & Training Planner custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-44-47.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Below the overview, you’ll find further details of your training plan. If you want to keep everything handy, you can also request a PDF. There are plenty of other [online sources for workout programs](https://www.makeuseof.com/best-online-sources-workout-programs/) where you can also get further help with your fitness journey.
 
 ![Gym, Fitness, & Training Planner GPT workout plan created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-45-08.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10 Resume by jobbright.ai
 
@@ -286,13 +307,6 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
  Besides analyzing your resume, you can also ask the GPT for jobs related to your skills. If you’re planning a career change, consider checking out these [tools to help you successfully pivot](https://www.makeuseof.com/tools-to-pivot-your-career/).
 
  Regardless of whether you want a new job or need to plan a big trip, ChatGPT has several custom GPTs that’ll help you achieve your desired results. The quality of your answers depends on how good your prompts are, but you can also find custom GPTs to help you in that respect. Go to Explore GPTs in ChatGPT to find these and several others.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -367,6 +381,13 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
  Academic research is a strenuous process regardless of your experience, but AI tools can help you streamline the process and provide more context. Scholar GPT is one of those. With this GPT, you can upload research paper PDFs and links to receive analysis.
 
 ![The Scholar GPT plugin analyzing a research paper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-25-26.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Scholar GPT can analyze text from reputable websites, including Google Scholar and PubMed. Besides analyzing research papers, you can also ask the tool to give you the latest news in your industry. If you’d prefer to use research websites directly, start by checking out these [expert Google Scholar search tips](https://www.makeuseof.com/google-scholar-search-tips/).
 
@@ -458,6 +479,13 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 
  The Presentation Slides GPT offers advice on keeping your audiences engaged during your presentation. When you’re ready to compile everything, consider using [the best tools that use AI to make presentations for you](https://www.makeuseof.com/tools-use-ai-to-make-presentation/).
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Math Solver
 
  While some people have no problems working out mathematical equations, it’s not simple for everyone. If you struggle with numbers but want to improve your math skills, consider using the Math Solver custom GPT.
@@ -475,13 +503,6 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
  Travel Guide is pretty good at providing an itinerary outline for you to build upon later. For example, you can use the days it gives you and then do extra research elsewhere for places to eat, where to stay, etc.
 
 ![An itinerary designed by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-13-08.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Besides planning itineraries, Travel Guide can offer budget travel tips for specific destinations. For example, we asked the Travel Guide GPT to help us visit Switzerland on a budget of 80 Swiss Francs (c. $88 per day), excluding hotels.
 
@@ -511,18 +532,18 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 
 ![Room for improvement offered by the Prompt Professor custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-31-26.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8 Code Tutor
 
  Are you new to the world of coding? If so, consider trying the Code Tutor GPT plugin. Code Tutor helps users understand different coding concepts and jargon, and it can also help you become more effective with implementation and planning processes.
 
 ![The Code Tutor Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-36-50.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Code Tutor can also help users with topics they may have for homework. The GPT often asks you to provide further context for every prompt you send, which helps it give you a more accurate answer.
 
@@ -561,5 +582,24 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-diy-youtube-thumbnails-made-simple/"><u>[New] DIY YouTube Thumbnails Made Simple</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hat-to-pick-for-your-youtube-videos-ideal-formats-explored-for-2024/"><u>[New] What to Pick for Your YouTube Videos? Ideal Formats Explored for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-simplified-approach-to-download-youtube-captions-3-proven-methods/"><u>[Updated] In 2024, Simplified Approach to Download YouTube Captions 3 Proven Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-nextgen-fidelity-upgrade-your-viewing-experience/"><u>[Updated] NextGen Fidelity Upgrade Your Viewing Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-revolutionary-recording-aids-for-a-healthy-earth-for-2024/"><u>[Updated] Revolutionary Recording Aids for a Healthy Earth for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tiktok-trends-hit-amazon-your-must-have-list-for-2024/"><u>[Updated] TikTok Trends Hit Amazon - Your Must-Have List for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-in-a-nutshell-the-video-sharing-experience-for-2024/"><u>[Updated] Vimeo in a Nutshell The Video Sharing Experience for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/activating-slack-alerts-on-an-apple-watch-a-step-by-step-guide/"><u>Activating Slack Alerts on an Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-practices-sidestepping-chatgpt-errors/"><u>Best Practices: Sidestepping ChatGPT Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cease-the-tech-parallelism-ais-true-individuality/"><u>Cease the Tech Parallelism: AI's True Individuality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-ideal-flagbearer-ipad-pro-edition-comparison-for-smart-shoppers-tech-insights/"><u>Choosing Your Ideal Flagbearer: IPad Pro Edition Comparison for Smart Shoppers | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-three-impressive-apple-watch-series-10-features-won-me-over-a-comprehensive-review-by-zdnet/"><u>How Three Impressive Apple Watch Series 10 Features Won Me Over - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/illuminating-images-techniques-in-color-science/"><u>Illuminating Images Techniques in Color Science</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Lava Yuva 2 Pro?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leap-into-advanced-communication-chrome-add-on-for-gpt/"><u>Leap Into Advanced Communication - Chrome Add-On for GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leaving-apple-for-googles-os-simplifying-your-shift-with-ios-to-android-assistance-exclusive/"><u>Leaving Apple for Google's OS: Simplifying Your Shift with iOS-to-Android Assistance Exclusive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/saving-the-day-rescue-missed-chatgpt-messages/"><u>Saving the Day: Rescue Missed ChatGPT Messages</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ten Tips to Perfect Your GPT Dialogue Experience
-date: 2024-10-24T17:00:41.461Z
-updated: 2024-10-26T16:11:18.653Z
+date: 2024-10-26T18:21:37.445Z
+updated: 2024-11-01T18:11:02.706Z
 tags:
   - chatgpt
   - open-ai
@@ -72,16 +72,10 @@ thumbnail: https://thmb.techidaily.com/4a36df74b726d386b6fa2ca30050c44f8d68c4b23
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
@@ -96,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/4a36df74b726d386b6fa2ca30050c44f8d68c4b23
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of [crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/). While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
@@ -105,32 +106,25 @@ thumbnail: https://thmb.techidaily.com/4a36df74b726d386b6fa2ca30050c44f8d68c4b23
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
@@ -141,14 +135,14 @@ thumbnail: https://thmb.techidaily.com/4a36df74b726d386b6fa2ca30050c44f8d68c4b23
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
- Loved the second set of jokes? Well, the moral of the story is to use examples more often.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -181,24 +175,18 @@ thumbnail: https://thmb.techidaily.com/4a36df74b726d386b6fa2ca30050c44f8d68c4b23
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-gopro-expertise-unleashed-livestreams-directed-at-periscope-and-facebook/"><u>[New] Gopro Expertise Unleashed Livestreams Directed at Periscope & Facebook</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-mi-11s-screen-recording-elevate-your-digital-storytelling-for-2024/"><u>[New] Mi 11'S Screen Recording Elevate Your Digital Storytelling for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-leading-chrome-voice-modifiers-select-top-5-extensions/"><u>[Updated] Leading Chrome Voice Modifiers Select Top 5 Extensions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-live-stream-perfection-ranking-the-best-recorder-gadgets-in-tech/"><u>[Updated] Live Stream Perfection Ranking the Best Recorder Gadgets in Tech</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-recording-movies-best-practices-with-windows-11/"><u>[Updated] Recording Movies Best Practices with Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-electorate-engagement-experience-top-gaming-selections/"><u>2024 Approved Electorate Engagement Experience Top Gaming Selections</u></a></li>
-<li><a href="https://article-posts.techidaily.com/command-center-conundrums-deciphering-best-cloud-solutions-for-2024/"><u>Command Center Conundrums Deciphering Best Cloud Solutions for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/convert-and-share-your-documents-as-pdfs-mastering-word-excel-and-powerpoint/"><u>Convert and Share Your Documents as PDFs: Mastering Word, Excel & PowerPoint</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-competencies-needed-for-success-in-abbyys-transportation-and-logistics-sector/"><u>Essential Competencies Needed for Success in ABBYY's Transportation and Logistics Sector</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-of-banking-how-digital-intelligence-shapes-tomorrows-leading-financial-institutions-insights-from-abbyy/"><u>Future of Banking: How Digital Intelligence Shapes Tomorrow's Leading Financial Institutions – Insights From ABBYY</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-cookiebot-technology-for-advanced-website-analytics-and-personalization/"><u>Leverage Cookiebot Technology for Advanced Website Analytics and Personalization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-cookiebot-technology-for-enhanced-search-engine-visibility-and-performance/"><u>Leveraging Cookiebot Technology for Enhanced Search Engine Visibility and Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-era-of-collaboration-as-abbyy-extends-distribution-network-with-sigma-software-ally/"><u>New Era of Collaboration as ABBYY Extends Distribution Network with Sigma Software Ally</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ntt-docomo-endorsed-abbyy-app-with-ocr-technology-for-seamless-multi-language-text-conversion/"><u>NTT DOCOMO Endorsed ABBYY App with OCR Technology for Seamless Multi-Language Text Conversion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/real-world-applications-top-7-uses-of-chatgpt-today/"><u>Real-World Applications: Top 7 Uses of ChatGPT Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategic-information-retrieval-session-elevating-company-knowledge-with-advanced-mining-methods/"><u>Strategic Information Retrieval Session: Elevating Company Knowledge with Advanced Mining Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-paperwork-into-digital-format-using-ocr-ios-solution-by-finereader-pdf-app/"><u>Transform Your Paperwork Into Digital Format Using OCR - iOS Solution by FineReader PDF App</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/transformar-video-de-formato-wmv-al-facil-y-gratuito-a-mp4-en-pcmac-o-en-linea/"><u>Transformar Vídeo De Formato WMV Al Fácil Y Gratuito a MP4 en PC/Mac O En Línea</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-why-robotic-process-automation-has-ceos-and-c-level-managers-hooked-perspectives-by-abbyy/"><u>Unpacking Why Robotic Process Automation Has CEOs and C-Level Managers Hooked - Perspectives by ABBYY</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-methods-to-access-previous-facebook-journeys-mobiledesktop/"><u>[New] Methods to Access Previous Facebook Journeys (Mobile/Desktop)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-audiovisual-harmony-merging-audio-and-visual-elements-on-youtube/"><u>[Updated] 2024 Approved Audiovisual Harmony Merging Audio and Visual Elements on YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-mastering-ps4-the-ultimate-guide-to-capturing-your-games/"><u>[Updated] In 2024, Mastering PS4 The Ultimate Guide to Capturing Your Games</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-itel-s23plus-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/astute-beginners-treatise-on-vector-types-and-software-selection/"><u>Astute Beginners' Treatise on Vector Types & Software Selection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beneath-the-surface-of-ai-exploring-black-boxes/"><u>Beneath the Surface of AI: Exploring Black Boxes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-stellar-cvs-integrating-chatgpt-insights/"><u>Crafting Stellar CVs - Integrating ChatGPT Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-myth-real-vs-imitation-gpt-binco-tokens/"><u>Decoding the Myth: Real vs Imitation GPT-Binco Tokens</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-best-practices-boosting-your-game-videos-with-tags/"><u>In 2024, Best Practices Boosting Your Game Videos with Tags</u></a></li>
+<li><a href="https://win-help.techidaily.com/1728492354421-iphone/"><u>IPhoneが認識しない状況を、一人でも簡単に解決方法</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/superior-avi-media-player-ideal-for-all-devices-for-2024/"><u>Superior AVI Media Player - Ideal for All Devices for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-gpt-challenge-se-dominance/"><u>Will GPT Challenge SE Dominance?</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ffmpeg4/"><u>ビデオファイルのオーディオ抽出入門：FFmpeg使い方4通り</u></a></li>
 </ul></div>
 

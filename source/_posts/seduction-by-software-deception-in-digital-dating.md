@@ -1,7 +1,7 @@
 ---
 title: "Seduction by Software: Deception in Digital Dating"
-date: 2024-09-20T17:01:45.918Z
-updated: 2024-09-22T16:10:55.191Z
+date: 2024-10-29T17:40:09.583Z
+updated: 2024-11-01T17:31:56.718Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,19 @@ thumbnail: https://thmb.techidaily.com/9c252b23b1e3ad8357c15bea477480a8c23a36edb
 
 ![Various Messaging Apps on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/messaging-apps-on-phone.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Bots are spreading like wildfire online. [Imperva](https://www.imperva.com/resources/resource-library/reports/2023-imperva-bad-bot-report/) reports that bad bots made up 30 percent of automated web traffic in 2022\. You’ll find one within seconds of swiping through Tinder matches.
 
  One of the reasons for this sudden spike in bots is the proliferation of generative AI tools. They churn out bots in bulk. Just input the right prompt, and your tool will present a complete, efficient code snippet for bot generation.
@@ -52,7 +65,21 @@ thumbnail: https://thmb.techidaily.com/9c252b23b1e3ad8357c15bea477480a8c23a36edb
 
 ![Creating a Fake Profile With a Stolen Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fake-profile-on-bumble.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Using Stolen Images to Create a Profile on Bumble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uploading-stolen-images-on-bumble.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -64,13 +91,6 @@ Close
 
  Unfortunately, AI images are hard to detect. Your best bet would be to do a [reverse image search](https://www.makeuseof.com/tag/reverse-image-search-apps/) and sift through relevant results.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Building Deceptively Authentic-Looking Profiles
 
  Bots approach victims en masse. So romance scammers who prefer a targeted scheme create just one or two authentic-looking profiles. They’ll use AI to seem convincing. Generative AI tools can compose authentic-looking descriptions that sound natural and genuine; bad grammar will no longer be an issue.
@@ -78,6 +98,13 @@ Close
  Here’s ChatGPT suggesting some hobbies to list on a dating profile.
 
 ![Asking ChatGPT to Write Hobbies for a Dating Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-suggesting-good-hobbies.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And here’s ChatGPT writing an entire biography for your dating profile.
 
@@ -107,13 +134,6 @@ Close
 
  You have no control over what scammers do. To protect your accounts, make sure you [create a truly secure password](https://www.makeuseof.com/what-makes-a-password-truly-secure/) comprising special characters, alphanumeric combinations, and 14+ characters.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Imitating Real People With Voice Cloning
 
  AI voice generators started as a cool toy. Users would turn sample tracks of their favorite artists into covers or even new songs. Take Heart on My Sleeve as an example. TikTok user [Ghostwriter977](https://www.tiktok.com/@ghostwriter977) made a super-realistic song imitating Drake and The Weeknd, although neither artist sang it.
@@ -123,16 +143,10 @@ Close
  Protect yourself from AI voice clone scams by studying how synthesized outputs sound. Explore these generators. They merely create near-identical clones—you’ll still spot some imperfections and inconsistencies.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Yourself Against AI Dating Scammers
@@ -158,5 +172,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-tallying-up-mr-beasts-billions/"><u>[New] 2024 Approved Tallying Up Mr. Beast's Billions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-list-top-7-android-apps-blocking-intrusive-ads/"><u>2024 Approved The Ultimate List Top 7 Android Apps Blocking Intrusive Ads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-the-future-of-web-interactions-with-ai-and-chatgpt/"><u>Building the Future of Web Interactions with AI and ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-next-smartphone-iphone-14-pro-or-14-pro-max-a-comparative-guide-by-zdnet/"><u>Choosing Your Next Smartphone: IPhone 14 Pro or 14 Pro Max - A Comparative Guide by ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-150-2023-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia 150 (2023) to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m3-macbook-pro-now-supports-multi-monitor-setups-just-like-the-air-model-discover-how-with-insights-from-zdnet/"><u>M3 MacBook Pro Now Supports Multi-Monitor Setups, Just Like the Air Model! Discover How with Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-energy-efficiency-enable-and-optimize-low-power-mode-on-macos-monterey-expert-tips-from-zdnet/"><u>Mastering Energy Efficiency: Enable and Optimize Low Power Mode on macOS Monterey - Expert Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-level-gaming-unveiling-microsofts-acquisition-of-blizzards-creative-vision-exclusive-interview/"><u>Next Level Gaming: Unveiling Microsoft's Acquisition of Blizzard's Creative Vision [Exclusive Interview]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/october-prime-gaming-deals-of-2024-save-big-now-before-theyre-gone-huge-discounts-up-to-1k-exclusive/"><u>October Prime Gaming Deals of 2024: Save Big Now Before They're Gone! Huge Discounts up to $1K Exclusive</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-invisible-gpu-adapter-errors/"><u>Overcome Invisible GPU Adapter Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smooth-sailing-avoiding-pitfalls-in-chatgpt-sign-in/"><u>Smooth Sailing: Avoiding Pitfalls in ChatGPT Sign-In</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-debate-continues-why-apple-says-no-to-iphone-cases-and-whos-taking-notes-zdnet/"><u>The Debate Continues: Why Apple Says No to iPhone Cases and Who's Taking Notes - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-affordable-prefab-homes-priced-below-50000-a-closer-look-at-house-in-a-box-solutions-techradar/"><u>Top 5 Affordable Prefab Homes Priced Below $50,000: A Closer Look at House-in-a-Box Solutions | TechRadar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformacion-gratuita-de-imagenes-nef-a-formato-lineal-movavi/"><u>Transformación Gratuita De Imágenes NEF a Formato Lineal - Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-establishing-an-oculus-medium-meta-quest-2-user-id/"><u>Ultimate Tutorial: Establishing an Oculus Medium (Meta) Quest 2 User ID</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/workplace-changes-can-gpt-replace-humans/"><u>Workplace Changes: Can GPT Replace Humans?</u></a></li>
+</ul></div>
 

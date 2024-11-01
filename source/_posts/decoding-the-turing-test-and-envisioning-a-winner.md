@@ -1,7 +1,7 @@
 ---
 title: Decoding the Turing Test & Envisioning a Winner
-date: 2024-09-16T16:27:24.620Z
-updated: 2024-09-17T16:22:52.141Z
+date: 2024-10-25T16:46:59.385Z
+updated: 2024-11-01T18:09:27.505Z
 tags:
   - chatgpt
   - open-ai
@@ -59,24 +59,18 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Eugene Goostman
 
@@ -87,16 +81,10 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Google's LaMBDA
@@ -117,11 +105,25 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -148,5 +150,21 @@ thumbnail: https://thmb.techidaily.com/e696268502b283ed640a05098ec06b8044deb546b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-crafting-immersive-video-experiences-using-captivate/"><u>[Updated] 2024 Approved Crafting Immersive Video Experiences Using Captivate</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-perfect-your-audio-visual-journey-with-these-6-apps-for-2024/"><u>[Updated] Perfect Your Audio Visual Journey with These 6 Apps for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-apps-for-language-education-2024-edition/"><u>Best Free Apps for Language Education, 2024 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-history-gone-how-to-retrieve-your-lost-chatgpt-history/"><u>ChatGPT History Gone: How to Retrieve Your Lost ChatGPT History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-apples-enchanting-new-ai-the-seamless-on-device-image-generator-surpassing-dall-e-zdnet-insights/"><u>Discover Apple's Enchanting New AI: The Seamless, On-Device Image Generator Surpassing DALL-E | ZDNET Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-sound-blaster-z-drivers-for-windows-10-with-one-click/"><u>Download the Sound Blaster Z Drivers for Windows 10 with One Click</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-logitech-brio-webcam-up-and-running-on-windows-os-1087/"><u>Get Your Logitech BRIO Webcam Up and Running on Windows OS (10/8/7)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-powered-insights-research-and-papers/"><u>GPT-Powered Insights: Research and Papers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-convert-your-m3u8-streams-to-mp4-4-simple-methods/"><u>How to Convert Your M3U8 Streams to MP4: 4 Simple Methods</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-8-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone 8 Online</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-realme-narzo-n53-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Realme Narzo N53 FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-breath-monitoring-apples-potential-addition-of-respiratory-features-to-vision-pro-insights/"><u>Revolutionary Breath Monitoring: Apple's Potential Addition of Respiratory Features to Vision Pro - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-models-a-comprehensive-guide/"><u>Top-Ranking Mac Models : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-wallet-picks-in-depth-analysis-by-tech-experts/"><u>Top-Rated MagSafe Wallet Picks : In-Depth Analysis by Tech Experts</u></a></li>
+</ul></div>
 

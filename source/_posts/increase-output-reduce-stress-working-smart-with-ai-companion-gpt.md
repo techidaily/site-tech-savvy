@@ -1,7 +1,7 @@
 ---
 title: "Increase Output, Reduce Stress: Working Smart with AI Companion GPT"
-date: 2024-10-21T18:25:07.773Z
-updated: 2024-10-26T21:06:26.623Z
+date: 2024-10-28T18:33:21.886Z
+updated: 2024-11-01T17:03:21.756Z
 tags:
   - chatgpt
   - open-ai
@@ -56,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
  Tip: Avoid giving long-winded and complicated instructions to get the best results. Keep each request as simple and as straightforward as possible.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Ask ChatGPT for Writing Assistance
 
  ChatGPT is not just a task manager; it’s also a versatile writing assistant. Whether you need help crafting a compelling email, polishing a report, or generating creative content, ChatGPT can lend a virtual hand.
@@ -74,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 ![interacting with chatgpt to help write a resume summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t185502-413.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We added “Let me know what details you need” in our prompt to help ChatGPT come up with the best answer. ChatGPT gives results based on what it knows. If you want the outcome to be more specific, provide it with solid information.
@@ -103,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
 ![chatgpt summary of an email using bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t190106-778.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Other email prompts you can use:
 
 * “ChatGPT, compose an email to \[recipient\] regarding our meeting tomorrow and include the agenda.”
@@ -118,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 ![conversation with ChatGPT about HIPAA privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t190351-135.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As of this writing, ChatGPT can provide information up to its last knowledge update in September 2021\. [Forbes](https://www.forbes.com.au/news/innovation/chatgpt-removes-september-2021-knowledge-cutoff/) reports that Open AI will soon remove the knowledge cut-off restriction for all users. However, the timeline for this update is still unclear.
@@ -133,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 * “I’m trying to understand \[topic\]. Can you provide an overview?”
 * "Can you teach me how to \[skill\]?"
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Ask ChatGPT for Personalized Recommendations
 
  Sometimes, you need a quick work break to recharge. ChatGPT can be your go-to source for personalized recommendations in various areas of interest.
@@ -142,19 +149,6 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
  In this example, we asked ChatGPT for a good sitcom to watch over the weekend. We mentioned sitcoms we enjoyed before to help it understand our preferences.
 
 ![conversation with ChatGPT asking for sitcom recommendations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t191243-497.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We used the following prompt for this example: “I want to watch a good sitcom this weekend. I enjoyed Friends and The Big Bang Theory. Can you give other recommendations?” ChatGPT gave ten sitcoms that fit our bill for a good weekend laugh.
 
@@ -191,22 +185,22 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-revolutionize-your-sales-approach-with-the-best-15-social-media-analyzers-for-2024/"><u>[New] Revolutionize Your Sales Approach with the Best 15 Social Media Analyzers for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-essential-2023-social-media-video-exploration-for-2024/"><u>[New] The Essential 2023 Social Media Video Exploration for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-driveease-expert-analysis/"><u>[Updated] 2024 Approved DriveEase Expert Analysis</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-lasting-freedom-how-to-banish-youtube-shorts-permanently/"><u>2024 Approved Lasting Freedom How To Banish YouTube Shorts Permanently</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/active-life-companion-an-in-depth-analysis-of-the-samsung-galaxy-fit/"><u>Active Life Companion: An In-Depth Analysis of the Samsung Galaxy Fit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beneath-the-surface-a-deep-dive-into-gpts-code-comprehension/"><u>Beneath the Surface: A Deep Dive Into GPT's Code Comprehension</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/critical-examination-of-the-conceptual-parallels-between-traditional-libraries-and-online-information-systems/"><u>Critical Examination of the Conceptual Parallels Between Traditional Libraries and Online Information Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-and-bing-chat-face-off-for-ultimate-ai-conversation/"><u>GPT and Bing Chat Face-Off for Ultimate AI Conversation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-your-writings-new-best-friend/"><u>GPT-4: Your Writing's New Best Friend</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-the-art-of-instagram-metrics-analysis-your-ultimate-ig-guide/"><u>In 2024, Mastering the Art of Instagram Metrics Analysis – Your Ultimate IG Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-intelligence-evaluation-beyond-the-classic-trial/"><u>Redefining Intelligence Evaluation Beyond the Classic Trial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-combined-legal-wave-by-artists-against-ai-giants/"><u>The Combined Legal Wave by Artists Against AI Giants</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-key-to-unprecedented-visuals-harnessing-microsofts-copilot-abilities/"><u>The Key to Unprecedented Visuals: Harnessing Microsoft's Copilot Abilities</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208426611-troubleshoot-and-solve-the-0x887a0006-glitch-in-no-time/"><u>Troubleshoot and Solve the 0X887A0006 Glitch in No Time</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-selective-ai-apps-for-writers/"><u>Unleashing Potential: Selective AI Apps for Writers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-potential-4-ways-to-overcome-gpt-3-holds/"><u>Unlock the Potential: 4 Ways to Overcome GPT-3 Holds</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-xs-max-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone XS Max Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-10-most-susbcribed-youtuber-in-the-world/"><u>[New] 2024 Approved 10 Most Susbcribed YouTuber in the World</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-cozy-up-your-videos-best-winter-bgs-revealed/"><u>[New] Cozy Up Your Videos Best Winter Bg's Revealed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fix-slowly-loading-youtube-content-on-mobile-for-2024/"><u>[New] Fix Slowly Loading YouTube Content on Mobile for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-detailed-analysis-and-overview-of-du-recorders-capabilities/"><u>[New] In 2024, Detailed Analysis and Overview of Du Recorder’s Capabilities</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-innovative-snapchat-techniques-for-lens-makers/"><u>[New] Innovative Snapchat Techniques for Lens Makers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-secure-footage-leading-stabilizers-on-youtube/"><u>[Updated] Secure Footage Leading Stabilizers on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-interactive-voice-turning-prompts-into-meaningful-exchanges/"><u>AI's Interactive Voice: Turning Prompts Into Meaningful Exchanges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-dungeon-architects-tools-gpt-generative-ai-in-character-design/"><u>Mastering Dungeon Architects' Tools: GPT, Generative AI in Character Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-advanced-fabrication-with-ai-powered-chatgpt/"><u>Pioneering Advanced Fabrication with AI-Powered ChatGPT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/slow-iphones-demystified-6-reasons-and-fix-it-tips/"><u>Slow iPhones Demystified: 6 Reasons and Fix-It Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-solution-to-shell32dll-errors-not-found-on-your-pc/"><u>The Definitive Solution to 'Shell32.dll' Errors Not Found on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-hpe-and-amd-team-up-to-create-el-capitan-the-fastest-ever-supercomputer-upon-completion/"><u>The Future Is Now: HPE and AMD Team Up to Create El Capitan, The Fastest-Ever Supercomputer Upon Completion</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-zte-frp-by-drfone-android/"><u>The Updated Method to Bypass ZTE FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-three-ai-battles-chatgpt-microsoft-bing-ai-and-google-bard/"><u>Top Three AI Battles: ChatGPT, Microsoft Bing AI, and Google Bard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trio-showdown-gpt-microsofts-bing-ai-and-googles-bard-conquerors/"><u>Trio Showdown: GPT, Microsoft's Bing AI & Google's Bard Conquerors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truthcoin-exposed-fact-or-fiction/"><u>TruthCoin Exposed: Fact or Fiction?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-6-budget-friendly-ai-companions-to-sora/"><u>Uncover 6 Budget-Friendly AI Companions to Sora</u></a></li>
 </ul></div>
 

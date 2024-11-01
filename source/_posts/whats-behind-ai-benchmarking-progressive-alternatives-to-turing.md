@@ -1,7 +1,7 @@
 ---
 title: "What's Behind AI Benchmarking: Progressive Alternatives to Turing?"
-date: 2024-10-19T19:01:26.753Z
-updated: 2024-10-26T23:20:44.736Z
+date: 2024-10-27T17:48:28.083Z
+updated: 2024-11-01T16:21:59.980Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
  However, the current AI models like ChatGPT-4 and Google Bard haven't yet advanced to a point they can consistently pass the Turing test. In fact, if you're familiar with AI, you can [spot AI-generated text](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The 5 Best Turing Test Alternatives
 
  It's possible that [future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
@@ -50,22 +57,21 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the [New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment, [GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/), but so far, there is currently no AI model that can comprehend videos like a human. [Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The Visual Turing Test
@@ -73,10 +79,16 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  According to a research paper published on [PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112), the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the [visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
@@ -105,16 +117,16 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  According to the AI classification framework developed by [Chris Saad](https://docsend.com/view/et7755yasfpj3iy6), the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance, [ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/), describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -141,19 +153,24 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/apture-the-essence-of-your-favorite-series-with-these-extractors/"><u>[New] Capture the Essence of Your Favorite Series with These Extractors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-beginners-bane-the-top-8-youtube-errors-you-shouldnt-commit/"><u>[Updated] In 2024, Beginner's Bane The Top 8 Youtube Errors You Shouldn't Commit</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-ultimate-gaming-experience-picking-the-best-vr-headset/"><u>[Updated] Ultimate Gaming Experience Picking the Best VR Headset</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/6-ways-content-writers-can-outperform-ai-writing-tools/"><u>6 Ways Content Writers Can Outperform AI Writing Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-halts-global-delivery-and-inspects-all-shipped-ryzen-9000-units-following-unexplained-quality-flags-eyeing-an-august-release/"><u>AMD Halts Global Delivery & Inspects All Shipped Ryzen 9000 Units Following Unexplained Quality Flags, Eyeing an August Release</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/false-chatgpt-addon-subverts-facebook-logons/"><u>False ChatGPT Addon: Subverts Facebook Logons</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-pro-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi 13T Pro Phone without PIN</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-audio-artistry-using-chatgpt-in-digital-production/"><u>Innovating Audio Artistry: Using ChatGPT in Digital Production</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-a60-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from A60</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergy-of-gpt-and-cryptocurrency-discussions/"><u>Synergy of GPT and Cryptocurrency Discussions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/takeoff-triumphs-comparing-copilots-foundations/"><u>Takeoff Triumphs: Comparing CoPilot's Foundations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/triple-pathways-to-augmenting-chatgpt-with-wolframalpha/"><u>Triple Pathways to Augmenting ChatGPT with WolframAlpha</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-overcome-windows-update-error-0x80070002-effortlessly/"><u>Troubleshoot and Overcome Windows Update Error 0X80070002 Effortlessly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-snapshots-of-success-jake-pauls-youtube-milestones/"><u>[New] 2024 Approved Snapshots of Success Jake Paul’s YouTube Milestones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-epic-zombie-battles-our-favorites-revealed/"><u>[New] Epic Zombie Battles Our Favorites Revealed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-simplifying-screen-views-during-google-meet-chats/"><u>[New] Simplifying Screen Views During Google Meet Chats</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-how-to-download-vimeo-video-to-mp4/"><u>[Updated] In 2024, How To Download Vimeo Video to MP4</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-switching-mac-screenshot-types-easily/"><u>[Updated] In 2024, Switching Mac Screenshot Types Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-finding-your-ideal-recorder-macos-for-2024/"><u>[Updated] The Ultimate Guide to Finding Your Ideal Recorder (MacOS) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-mathematics-problem-solving/"><u>AI and Mathematics Problem-Solving</u></a></li>
+<li><a href="https://facebook.techidaily.com/cultivating-a-dynamic-social-media-space-with-ripl/"><u>Cultivating a Dynamic Social Media Space with Ripl</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expert-tips-for-smooth-video-trimming-in-photos-for-2024/"><u>Expert Tips for Smooth Video Trimming in Photos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/familys-handbook-understanding-gpt-and-generative-tech/"><u>Family's Handbook: Understanding GPT & Generative Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-penmanship-over-artificial-craftsmanship/"><u>Masterful Penmanship Over Artificial Craftsmanship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-careers-realistic-or-virtual/"><u>Prompt Engineering Careers: Realistic or Virtual?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/resolving-the-windows-11-cant-start-issue-a-step-by-step-guide/"><u>Resolving the 'Windows 11 Can't Start' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-content-generation-for-presentations-via-chatgpt/"><u>Streamlining Content Generation for Presentations via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-engaging-presentation-content-with-ai-assistance/"><u>Tailoring Engaging Presentation Content with AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ai-revolution-in-business-thriving-strategies-at-work/"><u>The AI Revolution in Business: Thriving Strategies at Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voice-activated-intelligence-chatgpts-command-responsive-prowess/"><u>Voice Activated Intelligence: ChatGPT's Command-Responsive Prowess</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-teachers-should-embrace-not-dread-ai-8-insights/"><u>Why Teachers Should Embrace, Not Dread AI (8 Insights)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209982994-9781071528815-44oh44o844ks44oz44gu56cu5lu5pef6kgm/"><u>メーガンの研修旅行 | Free Book</u></a></li>
 </ul></div>
 

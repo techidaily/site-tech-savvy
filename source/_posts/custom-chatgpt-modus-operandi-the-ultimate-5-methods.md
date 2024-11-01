@@ -1,7 +1,7 @@
 ---
 title: "Custom ChatGPT Modus Operandi: The Ultimate 5 Methods"
-date: 2024-09-11T16:20:16.719Z
-updated: 2024-09-17T16:40:35.470Z
+date: 2024-10-27T18:15:43.089Z
+updated: 2024-11-01T17:24:57.465Z
 tags:
   - chatgpt
   - open-ai
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 
  Anyone can use ChatGPT's custom instruction feature to personalize the responses they get from ChatGPT while making sure the instructions are used across all chat sessions, and there are a few different ways you can use them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Specify Safety and Age-Restriction Rules
 
 ![A woman and an access restricted sign](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/access-control-policies.jpg)
@@ -77,13 +84,6 @@ Please use the key=>value pair provided to determine how to structure your respo
 
 Whenever I reach out for help regarding a resume, I need you to refer to the information provided at "<https://www.makeuseof.com/how-to-write-cv-for-tech-job/>" to guide our interaction. Based on the insights from that page, you should pose a series of eight targeted questions to me. My responses to these questions will be the foundation upon which you will construct a professional and effective resume tailored to a technology role. This specific procedure should be activated only when I'm seeking assistance with a tech-related resume. Moreover, I would like our exchange to be sequential, where you will present each subsequent question only after I have provided a thorough answer to the one preceding it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Specify Your Writing Style
 
  While capable of producing quality writing, ChatGPT's write-ups often lack a consistent personal voice and style. If you use ChatGPT primarily or frequently for creating write-ups and need the chatbot to maintain a consistent style across all sessions, custom instructions might be your way out.
@@ -97,10 +97,17 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
 ![Personal preference Map in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/personal-preference-map-in-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Provide Data for Personalized Responses
@@ -114,16 +121,17 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
 2. You can make it respond in a way that aligns with your profession.  
 ![Setting preferred ways to respond in ChatGPT Custom Instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/setting-preferred-ways-to-respond-in-chatgpt-custom-instructions.jpg)
 3. You can also make it respond to specific professional requirements.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Setting preferred ways to respond using ChatGPT Custom Instructions feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/setting-preferred-ways-to-respond-using-chatgpt-custom-instructions-feature.jpg)
 
  These are just three quick examples to get the ball rolling, but there are countless ways you can adapt ChatGPT custom instructions to your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make the Best of Custom Instructions
 
@@ -144,5 +152,21 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-a-compreranly-approach-to-high-quality-ps3-video-capture/"><u>[New] 2024 Approved A Compreranly Approach to High-Quality PS3 Video Capture</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/chieving-prominence-in-online-gaming-content-for-2024/"><u>[New] Achieving Prominence in Online Gaming Content for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-profit-strategies-in-youtube-marketing/"><u>2024 Approved Profit Strategies in YouTube Marketing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-ignores-iphone-protection-are-consumers-hearing-the-message-zdnet/"><u>Apple Ignores iPhone Protection: Are Consumers Hearing the Message? - ZDNet</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/best-alternatives-to-gt-recovery-on-windows-explored-reviews-and-choices-analyzed/"><u>Best Alternatives to GT Recovery on Windows Explored: Reviews and Choices Analyzed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-iphone-14-pro-and-iphone-14-pro-max-a-comprehensive-comparison-for-your-next-smartphone-purchase-techradar/"><u>Choosing Between iPhone 14 Pro and iPhone 14 Pro Max: A Comprehensive Comparison for Your Next Smartphone Purchase | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defending-against-data-exposure-from-personalized-ai/"><u>Defending Against Data Exposure From Personalized AI</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/detailed-examination-panorama-lens-revolution-by-samsung-for-2024/"><u>Detailed Examination Panorama Lens Revolution by Samsung for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-marks-major-upgrade-in-repairability-compared-to-earlier-models-according-to-apple-insights-for-consumers/"><u>IPhone 16 Marks Major Upgrade in Repairability Compared to Earlier Models, According to Apple - Insights for Consumers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-tool-from-openai-spots-fakes-in-chatgpt-outputs/"><u>New Tool From OpenAI Spots Fakes in ChatGPT Outputs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-based-gaming-xbox-one-controller-tips/"><u>PC-Based Gaming: Xbox One Controller Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/shift-gaming-hours-xbox-sxxb1-time-zone-update/"><u>Shift Gaming Hours: Xbox SX/XB1 Time Zone Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-non-experts-guide-to-ai/"><u>The Non-Expert's Guide to AI</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-redmi-k70-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Redmi K70</u></a></li>
+</ul></div>
 

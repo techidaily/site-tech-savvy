@@ -1,7 +1,7 @@
 ---
 title: "Bartending Benchmarks: ChatGPT’s Performance"
-date: 2024-10-24T16:51:57.897Z
-updated: 2024-10-26T19:05:37.653Z
+date: 2024-10-25T17:18:10.236Z
+updated: 2024-11-01T16:46:46.539Z
 tags:
   - chatgpt
   - open-ai
@@ -36,19 +36,6 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
  As long as your prompts are sound, the AI chatbot should deliver. So, let's test that theory.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Testing ChatGPT's Abilities as a Bartender
 
  I started out with a simple request before moving on to more difficult requests. And the results were interesting, to say the least. I have paraphrased the prompts used as there was often a back-and-forth needed to get ChatGPT to deliver.
@@ -65,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
 ![ultimate-old-fashioned-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/ultimate-old-fashioned-cocktail.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I did follow up by asking for some tweaks I could make, resulting in some ideas for variations on the Old-Fashioned for another time. This included using maple syrup instead of simple syrup (as Canadians do), using flavored whiskies rather than straight bourbon or rye, and adding smoked ingredients such as oak chips.
 
 ### Prompt 3: "Please Tweak a Classic Cocktail to Make It Even Better."
@@ -77,14 +71,14 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
 ![pina-colada-with-a-twist-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pina-colada-with-a-twist-cocktail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prompt 4: "Please Create a New, Wholly Original Cocktail."
 
@@ -101,16 +95,10 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
@@ -122,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## So, Is ChatGPT Good at Making Cocktails?
@@ -135,16 +123,10 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
  Every single one of its combinations worked in broad terms. There wasn't a single blend of ingredients that it suggested that led me to throw the cocktail down the sink. And that is a great start. As someone who has experimented with combining flavors, I can tell you that it's very easy to get cocktails wrong.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Three Big Takeaways From This Experiment
@@ -182,22 +164,16 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-practices-in-finding-quality-photo-and-video-banners/"><u>[New] Best Practices in Finding Quality Photo & Video Banners</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-effortlessly-download-your-favorite-youtube-playlists/"><u>[New] In 2024, Effortlessly Download Your Favorite YouTube Playlists</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-budding-builders-simple-stylish-mc-habitats/"><u>[Updated] 2024 Approved Budding Builders Simple, Stylish MC Habitats</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-finding-the-right-sound-for-movie-previews-for-2024/"><u>[Updated] Finding the Right Sound for Movie Previews for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-calm-cursor-3-pathways-to-mellow-watching-videos-on-youtube-57-chars/"><u>[Updated] In 2024, Calm Cursor 3 Pathways to Mellow Watching Videos on YouTube (57 Chars)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-soft-melodies-pcos-guide-for-2024/"><u>[Updated] Mastering Soft Melodies PC/OS Guide for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfect-pieces-captivating-collages/"><u>[Updated] Perfect Pieces, Captivating Collages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyys-innovative-identity-verification-system-minimizes-fraud-and-streamlines-client-enrollment-process/"><u>ABBYY's Innovative Identity Verification System Minimizes Fraud & Streamlines Client Enrollment Process</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ameliorez-la-securisation-de-vos-processus-dacquisition-de-documents-avec-tangro-renforce-et-abbyy/"><u>Améliorez La Sécurisation De Vos Processus D'acquisition De Documents Avec Tangro® Renforce Et ABBYY</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automatisierung-im-zeitalter-von-low-no-code-and-process-intelligence-erkenntnisse-aus-der-woche-der-shared-services-and-outsourcing-2021/"><u>Automatisierung Im Zeitalter Von Low-/No-Code & Process Intelligence - Erkenntnisse Aus Der Woche Der Shared Services & Outsourcing 2021</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/browse-with-confidence-on-websites-optimized-with-cookiebot-technology/"><u>Browse with Confidence on Websites Optimized with Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprendre-lintelligence-de-processus-comment-la-donnees-favorisent-lamelioration-des-performances/"><u>Comprendre L'Intelligence De Processus : Comment La Données Favorisent L'Amélioration Des Performances</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprendre-les-process-mining-et-le-task-mining-pour-une-meilleure-analyse-des-procedes-metier-un-qanda-dabbyy-avec-nelsonhall/"><u>Comprendre Les Process Mining Et Le Task Mining Pour Une Meilleure Analyse Des Procédés Métier : Un Q&A D'ABBYY Avec NelsonHall</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/continued-two-figure-expansion-abbyys-successful-annual-performance-over-three-years/"><u>Continued Two-Figure Expansion: ABBYY's Successful Annual Performance Over Three Years</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-real-time-voice-to-action-no-price-tag/"><u>In 2024, Real-Time Voice to Action, No Price Tag</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyycro-adrian-jones/"><u>インテリジェント プロセッシングオートメーション産業の成長戦略、ABBYY社CRO Adrian Jonesが推進</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bard-transforms-ai-at-google-io-showcasing-seven-new-features/"><u>Bard Transforms AI at Google I/O, Showcasing Seven New Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/como-transformar-tus-videos-en-formato-mxf-al-estandar-mov-quicktime-gratuitamente-o-mediante-soluciones-pagas/"><u>Cómo Transformar Tus Vídeos en Formato MXF Al Estándar MOV (QuickTime) Gratuitamente O Mediante Soluciones Pagas</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-nvidia-geforce-rtx-2n60-super-drivers-for-windows-1011-systems/"><u>Download Updated NVIDIA GeForce RTX 2N60 Super Drivers for Windows 10/11 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy XCover 6 Pro Tactical Edition Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-max-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro Max To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-users-rejoice-chatgpt-now-available/"><u>IPhone Users Rejoice! ChatGPT Now Available</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/recognizing-pretend-predictions-a-guide-to-authentic-vs-fake-ai-analysis/"><u>Recognizing Pretend Predictions: A Guide to Authentic Vs. Fake AI Analysis</u></a></li>
+<li><a href="https://win-unique.techidaily.com/seamless-auto-save-funktion-wahrend-des-systemabsturzes-fur-windows-11-8-und-7/"><u>Seamless Auto-Save Funktion Während Des Systemabsturzes Für Windows 11, 8 Und 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silvermans-fight-tech-giants-accused-of-stifling-ai-driven-creativity/"><u>Silverman's Fight: Tech Giants Accused of Stifling AI-Driven Creativity</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/transform-cleaning-routines-this-prime-day-unveiling-narwals-advanced-robotic-vacuums-and-automatic-mops-at-irresistible-prices/"><u>Transform Cleaning Routines This Prime Day – Unveiling Narwal's Advanced Robotic Vacuums and Automatic Mops at Irresistible Prices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-creativity-and-saving-time-10-ai-enhanced-pdfs/"><u>Unleashing Creativity & Saving Time: 10 AI-Enhanced PDFs</u></a></li>
 </ul></div>
 

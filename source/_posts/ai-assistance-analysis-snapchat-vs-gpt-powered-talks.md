@@ -1,7 +1,7 @@
 ---
 title: "AI Assistance Analysis: Snapchat vs GPT-Powered Talks"
-date: 2024-10-20T21:34:36.306Z
-updated: 2024-10-26T22:15:07.179Z
+date: 2024-10-29T16:38:59.859Z
+updated: 2024-11-01T16:27:18.646Z
 tags:
   - chatgpt
   - open-ai
@@ -52,6 +52,13 @@ Close
 
 ![ChatGPT's 500-word essay on the Tabula Rasa theory of psychology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-s-500-word-essay-on-the-tabula-rasa-theory-of-psychology.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, ChatGPT, while being less chatty and bubbly, is the bookworm among the pair. ChatGPT can help you to do research and compile essays effortlessly. It can cook up coherent essays and brainstorm theses based on your prompts.
 
  But you should be careful because ChatGPT sometimes “hallucinates” facts. You should still Google certain facts you’re not sure about to make sure it’s accurate. And that’s just one of the [major problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/).
@@ -62,7 +69,27 @@ Close
 
 ![My AI coming up with a word game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-coming-up-with-a-word-game.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![My AI giving a quick random fact about the shortest war in history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-giving-a-quick-random-fact-about-the-shortest-war-in-history.jpeg)
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![My AI suggesting the 20 questions game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-suuggesting-the-20-questions-game.jpeg)
 
@@ -74,41 +101,21 @@ Close
 
  However, if your game is a big, complicated idea, then it’s a better option to use ChatGPT. It seems to have a more robust data pool and a better ability to retain information. You can play a [detailed text-based RPG on ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-as-an-interactive-rpg/) using our complex prompt to test out the breadth of ChatGPT’s abilities as a game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Work or Professional Help: ChatGPT vs. My AI
 
  ChatGPT is the AI to go to for professional assistance. Open a new browser tab and keep ChatGPT open as you go about your business. The AI could be useful for simulations, simple questions you don’t need to Google, math problems, coding, translations, and many, many more.
 
 ![ChatGPT displaying a Python code for calculating the price of goods](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-displaying-a-python-code-for-calculating-the-price-of-goods.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  My AI doesn’t give detailed answers to questions the way ChatGPT does, so it’s still not a good idea to use it—even after opening [Snapchat in your browser](https://www.makeuseof.com/how-to-use-snapchat-on-web/).
 
  ChatGPT also has the advantage of being able to format its output. It can create numbered lists, and even place its output inside code blocks, making it more presentable for people who need to see it like that. ChatGPT’s generated code also has more notes and better explanations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Directions and Local Navigation: ChatGPT vs. My AI
@@ -117,13 +124,6 @@ Close
 
 ![My AI pointing out a nearby taco place](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-pointing-out-a-nearby-taco-place-1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![My AI pointing out the nearest stadium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-pointing-out-the-nearest-stadium.jpeg)
 
 Close
@@ -131,16 +131,10 @@ Close
  Feel free to ask My AI questions like where the nearest parks or stadiums are, and to give you a description of them. But please, check again with your map to ensure you’re actually going the right way.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Natural Language Chats: ChatGPT vs. My AI
@@ -155,6 +149,13 @@ Close
 
 ![My AI commenting on Stoicism](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-commenting-on-stoicism.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  My AI responses seem like a more summarized version of ChatGPT’s.
 
 ## Personalized Recommendations: ChatGPT vs. My AI
@@ -164,13 +165,6 @@ Close
  While you can prompt it to give you a recommendation, sometimes My AI would go out of its way to recommend something for you during a conversation. Because it also uses Snap Maps, it can also point out hotspots and places you might enjoy based on reviews, how active it’s been on the map, and your distance.
 
  But it doesn’t end at restaurants, coffee shops, bars and the like; My AI can also recommend things to do based on your interests, such as hiking, shopping, or attending concerts. These are things that ChatGPT can’t compete with till it has access to your location and the internet.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## My AI Is a Mobile-Friendly Alternative to ChatGPT
 
@@ -195,19 +189,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-art-of-digitalizing-ps3-gamesplay/"><u>[New] In 2024, The Art of Digitalizing PS3 Gamesplay</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-celebrated-colours-top-instagram-filters/"><u>[Updated] Celebrated Colours Top Instagram Filters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-brand-expression-made-simple-affordable-personalized-logo-templates-free/"><u>2024 Approved Brand Expression Made Simple Affordable Personalized Logo Templates (Free)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-beginners-pathway-to-fashionable-snaps-and-lenses/"><u>2024 Approved The Beginner's Pathway to Fashionable Snaps & Lenses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-ground-without-gpt-innovative-ai-for-code-autonomy/"><u>Breaking Ground Without GPT: Innovative AI for Code Autonomy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cha-ching-better-ai-talks-10-customizations-for-chatgpts-growth/"><u>Cha-Ching Better AI Talks: 10 Customizations for ChatGPT's Growth</u></a></li>
-<li><a href="https://win-lab.techidaily.com/come-collegare-e-sincronizzare-file-tra-diverse-macchine-usando-windows-guida-per-windows-111087/"><u>Come Collegare E Sincronizzare File Tra Diverse Macchine Usando Windows: Guida per Windows 11/10/8/7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-powered-content-is-it-ses-kryptonite/"><u>GPT-Powered Content: Is It SE's Kryptonite?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723207306476-navigating-windows-10s-file-explorer-with-ease-helpful-hints-inside/"><u>Navigating Windows 10'S File Explorer with Ease – Helpful Hints Inside</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-the-silicon-sea-7-anticipated-shifts-in-security/"><u>Safeguarding the Silicon Sea: 7 Anticipated Shifts in Security</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/setting-up-a-liberated-chatgpt-on-pcs/"><u>Setting Up a Liberated ChatGPT on PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-cyber-defense-insights-into-7-phenomena/"><u>The Future of Cyber Defense: Insights Into 7 Phenomena</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/unlock-the-magic-of-stories-in-fb-free-cross-platform-tools/"><u>Unlock the Magic of Stories in FB – Free, Cross-Platform Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-macs-top-mp4-cutters-for-youtube-success/"><u>[Updated] 2024 Approved Mac's Top MP4 Cutters for YouTube Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-list-of-the-best-marriage-videos-celebrations-captured-online-8-for-2024/"><u>[Updated] A List of the Best Marriage Videos - Celebrations Captured Online (8) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-zoom-for-broadcasts-bridging-the-gap-to-fb-live/"><u>2024 Approved ZOOM for Broadcasts Bridging the Gap to FB Live</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/amd-zen-amo-upgraded-ayaneo-am01-the-new-minimalist-macintosh-inspired-pc/"><u>AMD Zen Amo Upgraded Ayaneo AM01: The New Minimalist Macintosh-Inspired PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-video-converter-software-compilation-of-the-top-11-picking-for-mac-windows-and-online-use/"><u>Best Free Video Converter Software: Compilation of the Top 11 Picking for MAC, WINDOWS and ONLINE Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-on-guard-protecting-privacy-against-3-main-risks/"><u>Chatbots on Guard: Protecting Privacy Against 3 Main Risks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/five-easy-steps-to-enhance-freelancing-with-chatgpt/"><u>Five Easy Steps to Enhance Freelancing with ChatGPT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-asus-rog-phone-7-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Asus ROG Phone 7 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfect-pair-codegpts-integration-into-visual-studio-code/"><u>Perfect Pair: CodeGPT's Integration Into Visual Studio Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skeptics-playlist-free-pc-games-reviewed/"><u>Skeptic's Playlist: Free PC Games Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-linguistics-at-your-fingertips-with-palm-2/"><u>The Future of Linguistics at Your Fingertips with PaLM 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unique-excel-skills-no-chatgpt-has/"><u>The Unique Excel Skills No ChatGPT Has</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-golden-rule-for-profit-partnership/"><u>YouTube's Golden Rule for Profit Partnership</u></a></li>
 </ul></div>
 

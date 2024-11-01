@@ -1,7 +1,7 @@
 ---
 title: "Inside Google's Visionary Approach to Language Models: PaLM 2"
-date: 2024-09-18T18:00:52.059Z
-updated: 2024-09-22T16:55:59.105Z
+date: 2024-10-31T16:23:20.861Z
+updated: 2024-11-01T17:25:48.218Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ While OpenAI is leading the way for generative AI development, many have accused
 
  With Gecko able to process around 20 tokens per second—tokens are the values assigned to real words for use by generative AI models—it looks likely to be a game-changer for mobile deployable AI tools.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## PaLM 2 Training Data
 
  Google wasn't exactly forthcoming with PaLM 2's training data, understandable given it was just released. But Google's [PaLM 2 Report](https://ai.google/static/documents/palm2techreport.pdf) \[PDF\] did say that it wanted PaLM 2 to have a deeper understanding of mathematics, logic, and science, and that a large part of its training corpus focused on these topics.
@@ -51,6 +58,13 @@ While OpenAI is leading the way for generative AI development, many have accused
  Another significant boost to PaLM 2 is its language training data. Google has trained PaLM 2 in over 100 languages to give it greater depth and contextual understanding and increase its translation capabilities.
 
  But it's not just spoken languages. Linking to Google's demand for PaLM 2 to deliver better scientific and mathematical reasoning, the LLM has also been trained in more than 20 programming languages, which makes it a phenomenal asset for programmers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## PaLM 2 Is Already Powering Google Services—But Still Requires Fine Tuning
 
@@ -65,10 +79,10 @@ While OpenAI is leading the way for generative AI development, many have accused
  No matter how much researchers attempt to cleanse LLM training data, it's inevitable some will slip through. The next phase is to continue training PaLM 2 to reduce those toxic responses.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It's a Boom Period for Large Language Models
@@ -92,5 +106,26 @@ While OpenAI is leading the way for generative AI development, many have accused
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-cutting-edge-8-innovative-open-source-video-meeting-systems/"><u>[New] In 2024, The Cutting Edge 8 Innovative Open Source Video Meeting Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-accessing-global-hitters-the-1-6-short-video-downloaders-for-2024/"><u>[Updated] Accessing Global Hitters The #1-#6 Short Video Downloaders for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-easy-onboarding-for-webinar-logging-in-microsoft-operating-systems-for-2024/"><u>[Updated] Easy Onboarding for Webinar Logging in Microsoft Operating Systems for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chanting-champions-confront-ai-and-in-grass-companions/"><u>Chanting Champions Confront AI & In-Grass Companions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-chat-analysis-gpt-versus-bings-bot/"><u>Comparative Chat Analysis: GPT Versus Bing's Bot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-quests-and-characters-chatgpts-role-in-interactive-storytelling/"><u>Crafting Quests and Characters: ChatGPT's Role in Interactive Storytelling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-how-these-7-apps-master-gpt-4s-ai/"><u>Demystifying How These 7 Apps Master GPT-4's AI</u></a></li>
+<li><a href="https://fox-access.techidaily.com/efficient-techniques-for-srt-files-on-twitter-facebook-for-2024/"><u>Efficient Techniques for SRT Files on Twitter, Facebook for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-the-fun-with-smoother-gameplay-a-guide-to-improve-frame-rates-and-decrease-latency-issues-in-fall-guys/"><u>Elevate the Fun with Smoother Gameplay - A Guide to Improve Frame Rates and Decrease Latency Issues in Fall Guys</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-perfect-your-movie-watching-with-added-captions-on-windows-media-player/"><u>In 2024, Perfect Your Movie Watching with Added Captions on Windows Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-apple-reveals-enhanced-repairability-compared-to-earlier-models-insights-from-zdnet/"><u>IPhone 16: Apple Reveals Enhanced Repairability Compared to Earlier Models - Insights From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210273253-9781922380418-karma-couples-2nd-ed/"><u>Karma Couples (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-dilemma-demystified-in-depth-analysis-and-decision-factors-between-macbook-air-vs-macbook-pro-for-tech-savvy-users-wired/"><u>MacBook Dilemma Demystified: In-Depth Analysis & Decision Factors Between MacBook Air Vs. MacBook Pro for Tech Savvy Users | Wired</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-to-cut-ties-with-chatgpt/"><u>Quick Guide to Cut Ties with ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplifying-server-management-a-guide-to-inviting-bots-to-discord/"><u>Simplifying Server Management: A Guide to Inviting Bots to Discord</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-the-best-magsafe-battery-packs-features-and-comparisons-zdnet/"><u>The Ultimate Guide to Choosing the Best MagSafe Battery Packs - Features & Comparisons | ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-a24s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy A24s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-androids-journey-with-bing-and-ai/"><u>Unlocking the Potential: Android's Journey with Bing and AI</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-baldurs-gate-3-failing-to-load-here-are-the-answers/"><u>Why Is Baldur's Gate 3 Failing to Load? Here Are the Answers</u></a></li>
+</ul></div>
 

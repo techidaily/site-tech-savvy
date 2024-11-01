@@ -1,7 +1,7 @@
 ---
 title: How to Tap Into Anthropic's AI Creative Store
-date: 2024-09-19T17:29:43.960Z
-updated: 2024-09-22T18:27:45.309Z
+date: 2024-10-25T16:18:29.671Z
+updated: 2024-11-01T18:27:13.920Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 * [What Is Anthropic's Prompt Library?](https://bluettieu.pxf.io/nlgoka)
 * [How to Use Anthropic's Prompt Library](https://propmoneyinc.pxf.io/q4jzdy)
 * [Is the Anthropic Prompt Library Any Good?](https://review-au.sjv.io/wqnrq3)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -52,19 +59,6 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 
  It's a nice touch for those who spend time perfecting their prompt prowess and want to share these tips with the world.
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Anthropic's Prompt Library
 
  As said, Anthropic has covered a vast number of subjects in its prompt library. The prompts take different formats depending on the subject matter.
@@ -73,11 +67,32 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
 
 ![anthropic prompt library dream interpreter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-dream-interpreter-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Whereas the Corporate Clairvoyant prompt features a user input designed to analyze and summarize a report, highlighting important features.
 
 ![anthropic prompt library corporate clairvoyant option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-corporate-clairvoyant-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Using any of the prompts is simple: just copy and paste them into Claude (or another AI chatbot), tweak them to your liking, and you're good to go.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is the Anthropic Prompt Library Any Good?
 
@@ -92,19 +107,6 @@ thumbnail: https://thmb.techidaily.com/d2c52f6827b7d364ed0cc4d3f212393bb0ad8a3a9
  Anthropic's Claude 3 responded:
 
 ![claude 3 dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-dream-interpreter-prompt-library-output.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While ChatGPT 4 responded:
 
@@ -145,5 +147,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-cross-device-media-sharing-made-simple-with-iphones/"><u>[New] Cross-Device Media Sharing Made Simple with iPhones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-maximize-content-by-merging-apple-music-to-videos/"><u>2024 Approved Maximize Content by Merging Apple Music to Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-turn-your-vlogs-into-tunes-with-an-insta-mp3-conversion-hack/"><u>2024 Approved Turn Your Vlogs Into Tunes with an Insta-Mp3 Conversion Hack</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-office-performance-7-strategies-for-leveraging-chatgpt-wisely/"><u>Boost Office Performance: 7 Strategies for Leveraging ChatGPT Wisely</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-unbeatable-features-in-these-non-apple-rechargeable-trackers-smart-choices-for-your-wallet/"><u>Discover Unbeatable Features in These Non-Apple Rechargeable Trackers - Smart Choices for Your Wallet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easy-video-editing-software-for-windows-microsoft-video-editor-review-for-2024/"><u>Easy Video Editing Software for Windows Microsoft Video Editor Review for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-online-safety-combining-chatgpt-with-a-vpn/"><u>Enhancing Online Safety: Combining ChatGPT with a VPN?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c110-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia C110 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-it-time-for-an-update-a-detailed-analysis-of-apple-watch-series-10-vs-series-8-tech-insights/"><u>Is It Time for an Update? A Detailed Analysis of Apple Watch Series 10 Vs. Series 8 | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-assistive-technology-apple-unveils-eye-control-capabilities-for-ios-devices-learn-how/"><u>Revolutionizing Assistive Technology: Apple Unveils Eye-Control Capabilities for iOS Devices - Learn How</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Asus ROG Phone 8 | Dr.fone</u></a></li>
+</ul></div>
 

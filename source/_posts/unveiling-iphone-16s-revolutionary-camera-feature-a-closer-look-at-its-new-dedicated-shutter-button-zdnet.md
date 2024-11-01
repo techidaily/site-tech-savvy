@@ -1,7 +1,7 @@
 ---
 title: "Unveiling iPhone 16'S Revolutionary Camera Feature: A Closer Look at Its New Dedicated Shutter Button | ZDNET"
-date: 2024-10-19T19:41:05.572Z
-updated: 2024-10-26T23:10:39.478Z
+date: 2024-10-25T18:09:37.797Z
+updated: 2024-11-01T16:52:26.970Z
 tags:
   - apple
 categories:
@@ -47,10 +47,10 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -66,10 +66,16 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -116,22 +122,20 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-preeminent-6-networks-driving-biz-innovation/"><u>[New] In 2024, Preeminent 6 Networks Driving Biz Innovation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sleek-design-and-stunning-video-quality-in-sony-xperia-xz/"><u>2024 Approved Sleek Design and Stunning Video Quality in Sony Xperia XZ</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-televised-content-ease-youtube-loop-integration-guide/"><u>2024 Approved Televised Content Ease YouTube Loop Integration Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-creativity-unintended-consequences/"><u>Artificial Creativity: Unintended Consequences?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-output-with-chatgpt-strategy-tips/"><u>Boosting Output with ChatGPT Strategy Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-your-dream-job-with-ai-help/"><u>Discover Your Dream Job with AI Help</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-solutions-for-fixing-the-bad-pool-header-error-and-restoring-stability-in-windows-pressure-a-detailed-tutorial/"><u>Effective Solutions for Fixing the Bad Pool Header Error and Restoring Stability in Windows Pressure: A Detailed Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-workflow-expert-tips-on-integrating-chatgpt-in-daily-life/"><u>Elevate Your Workflow: Expert Tips on Integrating ChatGPT in Daily Life</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/entering-the-realm-of-langchain-and-llm/"><u>Entering the Realm of LangChain & LLM</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-90-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor 90 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-15-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 15 Pro without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-selective-sharpening-photo-editing-techniques/"><u>In 2024, Mastering Selective Sharpening Photo Editing Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-camcorders-transforming-podcast-engagement-for-2024/"><u>Optimal Camcorders Transforming Podcast Engagement for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-resistance-top-8-compelling-arguments-for-embracing-ai-in-teaching/"><u>Overcoming Resistance: Top 8 Compelling Arguments for Embracing AI in Teaching</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sam-altman-steps-down-how-for-gpt/"><u>Sam Altman Steps Down; How for GPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-duality-of-ais-influence-on-writing-artistry/"><u>The Duality of AI's Influence on Writing Artistry</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-doom-eternal-game-crashes-and-stability-problems/"><u>Ultimate Guide: Resolving DOOM Eternal Game Crashes & Stability Problems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-navigating-the-world-of-instagram-story-highlights/"><u>2024 Approved Navigating the World of Instagram Story Highlights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unpacking-history-with-youtube-student-edition-top-10/"><u>2024 Approved Unpacking History with YouTube – Student Edition (Top 10)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/change-network-from-public-to-private-in-windows-10-easily/"><u>Change Network From Public to Private in Windows 10 Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-unleashed-revolutionizing-task-management/"><u>ChatGPT Unleashed: Revolutionizing Task Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converting-text-to-tunes-employing-chatgpt-for-audio-crafting/"><u>Converting Text to Tunes: Employing ChatGPT for Audio Crafting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-visual-mastery-to-professional-standards/"><u>Elevating Visual Mastery to Professional Standards</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-with-freshly-released-killer-wireless-driver-version-1535-download/"><u>Ensure Optimal Performance with Freshly Released Killer Wireless Driver Version 1535 Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/four-horizontal-sectors-regulating-the-future-of-ai/"><u>Four Horizontal Sectors Regulating the Future of AI</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovos-ultimate-guide-to-updating-and-securing-your-windows-710-bluetooth-drivers-trustworthy-download-options/"><u>Lenovo's Ultimate Guide to Updating and Securing Your Windows 7/10 Bluetooth Drivers - Trustworthy Download Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-treacherous-waters-of-fraudgpt-interaction/"><u>Navigating the Treacherous Waters of FraudGPT Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-frontiers-in-programming-top-alternatives-to-chatgpt/"><u>New Frontiers in Programming: Top Alternatives to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/priorities-for-a-smooth-ai-conversation-experience/"><u>Priorities for a Smooth AI Conversation Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-do-it-yourself-with-upcoming-ai/"><u>Reimagining Do-It-Yourself with Upcoming AI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-unrecognized-logitech-keyboards-on-windows-11/"><u>Troubleshooting Guide: Fixing Unrecognized Logitech Keyboards on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Honor 100 Pro | Dr.fone</u></a></li>
 </ul></div>
 

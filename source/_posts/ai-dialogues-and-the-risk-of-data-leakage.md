@@ -1,7 +1,7 @@
 ---
 title: AI Dialogues and the Risk of Data Leakage
-date: 2024-09-13T16:22:04.171Z
-updated: 2024-09-17T16:34:44.681Z
+date: 2024-10-26T16:42:17.214Z
+updated: 2024-11-01T18:22:08.949Z
 tags:
   - chatgpt
   - open-ai
@@ -54,15 +54,36 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 
  OpenAI [uses cookies to track your browsing activity](https://www.makeuseof.com/a-beginners-guide-to-cookies/) both in the chat window and on its site. It claims to use this information for analytics and to find out exactly how you interact with ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Information That You Put Into the Chat
 
 ![A conversation with ChatGPT in which it says OpenAI stores the text of conversations.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-issues-does-it-keep-logs.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT records and stores transcripts of your conversations. This means any information you put into the chat, including personal information, is logged. It’s easy to fall into the trap of accidentally giving ChatGPT your private details without realizing it until it’s too late, especially if you use it to proofread personal or professional documents.
 
  Using ChatGPT for your work gets a little more dangerous because it will store confidential information that you type in about the company you work for, your employees, and your clients. For example, if you use it to collate feedback and organize it into a report, you might unknowingly give it your customers’ contact details.
 
  The privacy policy states that if you intend to enter personal data into the chat, you need to provide the people involved with adequate privacy notices. You also need to obtain their consent, and be able to show OpenAI that you are processing this data within the law. Further, if you’re entering information defined as private [according to GDPR](https://www.makeuseof.com/what-is-gdpr/), you must contact OpenAI to execute its Data Processing Addendum.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does ChatGPT Record Your Conversations?
 
@@ -74,23 +95,9 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 
  In an [OpenAI announcement](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) made at the time, it was stated that, when chat history is disabled, the company only retains conversations for 30 days. After 30 days, the conversations are deleted permanently. Conversations are only reviewed when they need to be monitored for abuse and inappropriate behavior.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Who Can See My ChatGPT Data?
 
 ![A conversation with ChatGPT in which it admits AI trainers can see our logs.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-issues-who-can-see-our-conversations-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your personal information is available to a surprising number of people and entities. In its privacy policy, OpenAI states that it shares this data with:
 
@@ -121,10 +128,16 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
  It's more than likely that governments across the globe will launch similar investigations into ChatGPT in the future, and it remains to be seen if this will have an impact on OpenAI's approach to user privacy.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT: Friend or Foe?
@@ -152,5 +165,19 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-innovating-with-color-a-complete-look-at-ps-3d-luts/"><u>[New] Innovating with Color A Complete Look at PS 3D LUTs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-kinemaster-pro-guide-crafting-uninterrupted-storytelling/"><u>[New] Kinemaster Pro Guide Crafting Uninterrupted Storytelling</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-masterful-content-creation-and-branding-via-top-5-youtube-strategies/"><u>[New] Masterful Content Creation and Branding via #Top 5 YouTube Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-creating-your-first-home-theater-disc-with-mac/"><u>[Updated] In 2024, Creating Your First Home Theater Disc with Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apex-selection-of-qi-chargers-in-depth-analysis-by-technology-gurus-cnet/"><u>Apex Selection of Qi Chargers : In-Depth Analysis by Technology Gurus - CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-vision-of-a-domestic-robotic-helper-shaping-our-homes-with-ai/"><u>Apple's Vision of a Domestic Robotic Helper - Shaping Our Homes with AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-infiltration-despite-advanced-tech/"><u>Content Infiltration Despite Advanced Tech</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-murky-waters-of-ai-and-privacy-concerns/"><u>Navigating the Murky Waters of AI and Privacy Concerns</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/peak-computing-powerhouses-the-best-on-the-market/"><u>Peak Computing Powerhouses - The Best On the Market</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ling-the-process-making-high-impact-educational-videos-on-youtube/"><u>Unveiling the Process Making High-Impact Educational Videos on YouTube</u></a></li>
+</ul></div>
 

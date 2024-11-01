@@ -1,7 +1,7 @@
 ---
 title: Navigating the EU's AI Act & Chatbots Like ChatGPT
-date: 2024-09-11T16:03:35.942Z
-updated: 2024-09-17T16:37:52.067Z
+date: 2024-10-26T18:32:12.967Z
+updated: 2024-11-01T18:50:52.529Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
 ![wooden court hammer on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/court-hammer-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While the EU AI Act is still in the works, there are concerns over how it will affect AI researchers, developers, and users within the EU.
 
  On the [official Artificial Intelligence Act website](https://www.artificial-intelligence-act.com/), a scope is laid out for the act, including:
@@ -61,9 +68,23 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
  Evidently, the scope is large, spanning the AI industry. Thousands of AI organizations may be affected by this act, including ChatGPT creator, OpenAI. This has led to contention between the EU and OpenAI CEO Sam Altman. In fact, Altman has threatened to pull OpenAI, and therefore ChatGPT, out of the EU because of it. So, why has he made such a striking statement?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Is Sam Altman Threatening to Pull ChatGPT From the EU?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
 
@@ -76,10 +97,10 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Interestingly, this threat came shortly after [Altman advocated for further AI regulation within the US](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/) to mitigate the risks of AI development. We'll leave how that looks up to you.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The EU's AI Act Could Alter AI Development
@@ -101,5 +122,19 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-bytes.techidaily.com/a-beginners-guide-to-forex-trading-with-mt4copier-demystifying-currency-exchange-mechanics/"><u>A Beginner's Guide to Forex Trading with MT4copier - Demystifying Currency Exchange Mechanics</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-xiaomi-13t-pro-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Xiaomi 13T Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/buy-these-three-new-apple-devices-announced-at-wwdc-today-plus-your-guide-on-how-and-where-to-pre-order-them-tech-insights/"><u>Buy These Three New Apple Devices Announced at WWDC Today - Plus, Your Guide on How and Where to Pre-Order Them | Tech Insights</u></a></li>
+<li><a href="https://techtrends.techidaily.com/develop-a-personalized-ai-chat-assistant-on-your-device-leveraging-nvidias-cutting-edge-rtx-gpus/"><u>Develop a Personalized AI Chat Assistant on Your Device Leveraging NVIDIA's Cutting-Edge RTX GPUs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/dive-into-the-world-of-time-lagged-footage-with-these-android-tips/"><u>Dive Into the World of Time-Lagged Footage with These Android Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oppo-a1-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Oppo A1 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-se-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone SE without Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mirage-gpt-modifier-exfiltrates-fb-accounts/"><u>Mirage GPT Modifier: Exfiltrates FB Accounts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-6-titans-massive-mlm-models-unveiled/"><u>Premier 6 Titans: Massive MLM Models Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/puzzling-the-digital-sphere-join-4-ai-enhanced-crime-games/"><u>Puzzling the Digital Sphere: Join 4 AI-Enhanced Crime Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/sound-sculpting-on-android-the-7-ultimate-audio-editing-apps/"><u>Sound Sculpting on Android The 7 Ultimate Audio Editing Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-creativity-with-anthropics-claude-3/"><u>Unleashing Creativity with Anthropic's Claude 3</u></a></li>
+</ul></div>
 

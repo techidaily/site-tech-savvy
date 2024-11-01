@@ -1,7 +1,7 @@
 ---
 title: "Debunking AI Myths: Inadequate Cryptocurrency Expertise"
-date: 2024-09-17T17:20:50.645Z
-updated: 2024-09-22T18:38:44.527Z
+date: 2024-10-26T17:18:05.018Z
+updated: 2024-11-01T16:27:36.789Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
 
 ![bitcoin logo at the end of warped tunnel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The huge success of ChatGPT, as well as the release of [similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/), has brought the concern of hallucination into the limelight.
 
 [AI hallucination](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) occurs when an AI system gives a confident response, but the response itself is false and goes against its training data. In other words, it does not provide the expected response. This can happen in a number of scenarios and is possible in ChatGPT.
@@ -50,9 +57,29 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to [BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/), ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
 
@@ -61,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
  Because ChatGPT knows nothing about your financial circumstances, delivering personalized financial advice is tough. How much you have to spend, your preferred platforms, your spending habits, how much you can afford to lose, and the profit you're looking to make must all be considered, and this may end up being too much for ChatGPT.
 
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Relies Heavily on Historical Data
 
@@ -74,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
  The crypto market is tied to the traditional market in ways you'd never expect. If something big goes wrong in the traditional financial industry, chances are the ripples will be felt by the crypto industry. After all, people use traditional money to buy crypto, so it's natural for the two markets to interlink.
@@ -92,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
  Once supply exceeds demand, prices drop. Now, the coin you bought is only worth $70\. The next day, it may be worth less, and this is all because of a traditional market issue.
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Revolutionary but Far From Perfect
 
@@ -119,5 +139,23 @@ thumbnail: https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-how-to-easily-disableremove-youtube-shorts-permanently/"><u>[New] How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-comprehensive-guide-camstudio-recording-tool/"><u>[New] In 2024, Comprehensive Guide CamStudio Recording Tool</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-affordable-wireless-charging-pads-for-modern-phones-for-2024/"><u>[Updated] Affordable Wireless Charging Pads for Modern Phones for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-prime-selection-the-best-12-pc-games-for-click-enthusiasts/"><u>[Updated] Prime Selection The Best 12 PC Games for Click Enthusiasts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-softer-sounds-guide-for-pcos-users/"><u>[Updated] Softer Sounds Guide for PC/OS Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordably-powerful-the-compact-8-in-1-adapter-that-exceeds-expectations-insights-from-zdnet/"><u>Affordably Powerful: The Compact 8-in-1 Adapter That Exceeds Expectations - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-expression-explore-5-innovative-ai-text-engines/"><u>Elevate Expression: Explore 5 Innovative AI Text Engines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-software-and-services-for-both-windows-and-mac-os-expert-picks-top-11-list/"><u>Essential Software and Services for Both Windows & Mac OS: Expert Picks Top 11 List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-the-issue-of-fluid-found-inside-iphone-charger-point-available-solutions-explored/"><u>Fixing the Issue of Fluid Found Inside iPhone Charger Point: Available Solutions Explored.</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-motorola-moto-g73-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Motorola Moto G73 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-intervention-can-ai-transform-therapy/"><u>Innovative Intervention: Can AI Transform Therapy?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/restoring-lost-footage-a-step-by-step-guide-to-retrieving-deleted-video-content-on-your-ipad/"><u>Restoring Lost Footage: A Step-by-Step Guide to Retrieving Deleted Video Content on Your iPad</u></a></li>
+<li><a href="https://fox-links.techidaily.com/swap-periscope-for-success-best-replacements-for-iphoneandroid-for-2024/"><u>Swap Periscope for Success Best Replacements for iPhone/Android for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-why-select-microsoft-copilot-over-chatgpts-alternatives/"><u>Unveiling: Why Select Microsoft CoPilot Over ChatGPT's Alternatives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-i-couldnt-resist-unboxing-apples-affordable-17-usb-c-earpods-on-prime-day-zdnet-insights/"><u>Why I Couldn't Resist: Unboxing Apple's Affordable $17 USB-C EarPods on Prime Day | ZDNET Insights</u></a></li>
+</ul></div>
 

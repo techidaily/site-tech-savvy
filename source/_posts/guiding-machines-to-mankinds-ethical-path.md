@@ -1,7 +1,7 @@
 ---
 title: Guiding Machines to Mankind's Ethical Path
-date: 2024-10-19T22:45:02.498Z
-updated: 2024-10-26T22:09:37.151Z
+date: 2024-10-25T18:29:34.062Z
+updated: 2024-11-01T16:18:36.380Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
  If an AI system were to surpass human intelligence without the proper safeguards, the result could be catastrophic. Such systems could assume control of physical resources as many tasks are achieved better or more efficiently. Since AI systems are designed to achieve maximum efficiency, losing control could lead to severe consequences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Does the AI Control Problem Apply?
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A great example of this is the [Tesla Full-Self Driving (FSD) suite](https://www.makeuseof.com/what-is-tesla-fsd-how-does-it-work/). While the car can drive itself, it requires a human to have their hands on the steering wheel, ready to take control of the car should the system malfunction. However, as these AI systems get more reliable, even the most alert human's attention will begin to vary, and dependency on the autonomous system will increase.
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
  So what happens when cars start driving at speeds humans can't keep up with? We'll end up surrendering control to the car's autonomous systems, meaning an AI system will be in control of your life, at least until you reach your destination.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can the AI Control Problem Be Solved?
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
  The DCAF approach always puts a human operator at the helm of an automated system, ensuring that their input controls the most important parts of the system's decision-making process. If a system is engaging enough for a human operator to pay attention constantly, the control problem can be solved.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can We Ever Truly Control AI?
@@ -115,14 +115,19 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-concepts-to-recordings-a-step-by-step-guide-for-podcast-writers/"><u>[New] In 2024, From Concepts to Recordings A Step-by-Step Guide for Podcast Writers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-strategically-use-tags-for-youtube-success/"><u>[New] In 2024, How to Strategically Use Tags for YouTube Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-leaders-aid-in-evaluating-teacher-ready-ai-tools/"><u>Academic Leader's Aid in Evaluating Teacher-Ready AI Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-knowledge-highway-traversing-through-transfer-learning-techniques/"><u>AI's Knowledge Highway: Traversing Through Transfer Learning Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-if-top-tier-ai-prompts-merit-their-price/"><u>Assessing If Top-Tier AI Prompts Merit Their Price</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-marvelous-evaluation-and-replacement-insight/"><u>In 2024, Marvelous Evaluation & Replacement Insight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-troubleshooting-steps-for-gpt-streaming-errors/"><u>Quick Troubleshooting Steps for GPT Streaming Errors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-5-game-ready-keyboards-under-100-a-comparison/"><u>Top 5 Game-Ready Keyboards Under $100 – A Comparison</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-10-layouts-ae-text-edition/"><u>[New] Premier 10 Layouts AE Text Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enjoy-your-content-youtube-shorts-are-shown-again/"><u>[Updated] In 2024, Enjoy Your Content – YouTube Shorts Are Shown Again</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-integrate-titles-and-descriptions-into-your-youtube-video/"><u>[Updated] In 2024, How to Integrate Titles and Descriptions Into Your YouTube Video</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-simple-guide-how-to-download-your-favorite-party-tunes/"><u>1. Simple Guide: How to Download Your Favorite Party Tunes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-stress-with-5-chatbot-tech-solutions/"><u>Breaking Down Stress with 5 Chatbot Tech Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-education-with-ai-the-top-5-ways-to-use-chatgpt-in-schools/"><u>Empowering Education with AI: The Top 5 Ways to Use ChatGPT in Schools</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-x90s-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo X90S Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-vs-code-top-10-chatgpt-integrations/"><u>Maximizing VS Code: Top 10 ChatGPT Integrations</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/movavi-mpeg-4-to-avi/"><u>Movavi: 원탁해 무료 인터넷 공간의 MPEG-4 to AVI 전환</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-tips-for-quality-animation-in-movie-maker-for-2024/"><u>Quick Tips for Quality Animation in Movie Maker for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/secure-stylish-and-smart-choose-from-these-5-recorders/"><u>Secure, Stylish and Smart - Choose From These 5 Recorders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-computers-be-counted-on-for-consolidating-cash/"><u>Should Computers Be Counted on for Consolidating Cash?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-unfolds-the-significance-of-transfer-learning-in-ai/"><u>The Future Unfolds: The Significance of Transfer Learning in AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-learning-creating-with-gpts-my-bot-technology/"><u>The Ultimate Guide: Learning, Creating with GPT's My Bot Technology</u></a></li>
 </ul></div>
 

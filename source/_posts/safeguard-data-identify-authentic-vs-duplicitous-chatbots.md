@@ -1,7 +1,7 @@
 ---
 title: "Safeguard Data: Identify Authentic Vs. Duplicitous ChatBots"
-date: 2024-09-18T18:44:53.500Z
-updated: 2024-09-22T16:04:18.763Z
+date: 2024-10-31T18:15:17.329Z
+updated: 2024-11-01T16:22:57.148Z
 tags:
   - chatgpt
   - open-ai
@@ -44,21 +44,22 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. chatgpt-go.online
@@ -68,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
@@ -79,23 +87,9 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
@@ -108,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -134,5 +135,21 @@ thumbnail: https://thmb.techidaily.com/519b3f4f99f21bc6077dc8413643f3b96c2bf221a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-iphones-best-camera-combo-utilities/"><u>[New] IPhone's Best Camera Combo Utilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/alexa-showdown-deciding-between-echo-pop-and-echo-dot-a-comprehensive-guide-for-your-perfect-smart-speaker-zdnet/"><u>Alexa Showdown: Deciding Between Echo Pop and Echo Dot - A Comprehensive Guide for Your Perfect Smart Speaker [ZDNet]</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-getting-banned-handling-the-persistent-dota-2-valve-anti-cheat-concerns/"><u>Avoid Getting Banned: Handling the Persistent Dota 2 Valve Anti-Cheat Concerns</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-simulation-comparing-metaverse-and-virtual-realitys-6-traits/"><u>Beyond Simulation: Comparing Metaverse and Virtual Reality's 6 Traits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/break-the-silence-speak-to-chatgpt/"><u>Break The Silence: Speak To ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-faux-pas-how-to-sidestep-these-blunders/"><u>ChatGPT Faux Pas: How to Sidestep These Blunders</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-depths-of-star-wars-squadrons-a-riveting-interstellar-experience-unveiled/"><u>Exploring the Depths of Star Wars: Squadrons – A Riveting Interstellar Experience Unveiled</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Xiaomi Redmi K70?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-reno-10-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Reno 10 5G Phones with/without a PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-portfolio-cutting-edge-cardboard-vr-game-listings/"><u>In 2024, Premium Portfolio Cutting-Edge Cardboard VR Game Listings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-nutrition-with-chatgpt-help/"><u>Personalized Nutrition with ChatGPT Help</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-your-inbox-chaos-with-this-one-simple-email-hack-no-rule-juggling-needed-techwise/"><u>Simplify Your Inbox Chaos with This One Simple Email Hack – No Rule Juggling Needed! | TechWise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-mastering-ai-with-free-dall-e-3-and-bing/"><u>Step Into the Future: Mastering AI with Free DALL-E 3 & Bing</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/transformando-o-manuseio-do-seu-disco-rapido-dicas-para-gerar-uma-imagem-perfeita-com-windows-11-metodos-livres/"><u>Transformando O Manuseio Do Seu Disco Rápido: Dicas Para Gerar Uma Imagem Perfeita Com Windows 11 – Métodos Livres</u></a></li>
+</ul></div>
 

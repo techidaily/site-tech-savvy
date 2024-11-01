@@ -1,7 +1,7 @@
 ---
 title: "Government's Role: Supervising AI Through Four Lenses"
-date: 2024-09-20T17:38:25.174Z
-updated: 2024-09-22T16:14:27.670Z
+date: 2024-10-27T18:45:42.514Z
+updated: 2024-11-01T18:08:11.112Z
 tags:
   - chatgpt
   - open-ai
@@ -45,9 +45,23 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 
  These questions and a few others formed the crux of [why ChatGPT was temporarily banned in Italy](https://www.makeuseof.com/why-has-italy-banned-chatgpt/). Unless these concerns are addressed, the artificial intelligence space might be a wild west for data privacy, and Italy's ban might turn out to be a template for bans by other countries worldwide.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Development of an Ethical AI Framework
 
 ![binary code background showing a woman face to face with a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  AI companies frequently boast about their commitment to ethical guidelines in developing AI systems. At least on paper, they are all proponents of responsible AI development. In the media, Google execs have emphasized how the company takes AI safety and ethics seriously. Similarly, "Safe and ethical AI" is a mantra for OpenAI's CEO, Sam Altman. These are quite applaudable.
 
@@ -65,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 
 ![engineer monitoring ssh logins on linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/engineer_monitoring_ssh_logins.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Owing to its potential impact on human civilization, discussion around AI safety typically draws parallel to the risk of a health crisis or a nuclear disaster. Avoiding potential nuclear incidents necessitates a dedicated agency like the US's NRC (Nuclear Regulatory Commission). Avoiding the risk of dangerous health crises necessitates the establishment of the FDA (Food and Drug Administration)
 
  Similarly, to ensure that things don't go wrong in the AI space, a dedicated agency akin to the FDA and the NRC is necessary as AI continues to make aggressive inroads into all areas of our life. Unfortunately, the issue of in-country AI regulation is a tricky one. The work of any dedicated regulatory agency is likely to be agonizingly hard without cross-border cooperation. Just like the US's NRC (Nuclear Regulatory Commission) needs to work hand in hand with the International Atomic Energy Agency (IAEA) to be at its best, any dedicated in-country AI regulatory agency would also need an international analog.
@@ -76,22 +97,15 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 * Overseeing the ethical review process of AI projects
 * Collaboration and cross-country cooperation on AI safety and ethics
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Addressing Copyright and Intellectual Property Concerns
 
 ![An illustration of copyright thief](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/copyright-protected-illustration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Existing copyright laws and legal frameworks crumble in the face of Artificial Intelligence. The way AI tools, especially generative AI tools, are designed makes them seem like a publicly endorsed copyright infringement machine that you can't do anything about.
@@ -130,5 +144,26 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-defeat-synthetic-followers-for-true-popularity-peak/"><u>[New] In 2024, Defeat Synthetic Followers for True Popularity Peak</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-video-snatchers-for-optimal-use-in-win11/"><u>[Updated] Best Video Snatchers for Optimal Use in Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-multimedia-browsing-in-chrome-using-pip/"><u>[Updated] Streamline Your Multimedia Browsing in Chrome Using PIP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-error-0x800700e1-on-modern-windows/"><u>Addressing Error 0X800700E1 on Modern Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/break-the-silence-speak-to-chatgpt/"><u>Break The Silence: Speak To ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-faux-pas-how-to-sidestep-these-blunders/"><u>ChatGPT Faux Pas: How to Sidestep These Blunders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-selection-of-18-premium-deals-for-high-performance-laptops-this-prime-day-insider-tips-on-hp-apple-and-razer-from-zdnets-tech-experts.50/"><u>Discover the Ultimate Selection of 18 Premium Deals for High-Performance Laptops This Prime Day: Insider Tips on HP, Apple, and Razer From ZDNet's Tech Experts</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/guia-paso-a-paso-transferir-datos-de-un-ssd-pequeno-a-uno-mayor-con-windows-11/"><u>Guía Paso a Paso: Transferir Datos De Un SSD Pequeño a Uno Mayor Con Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-nutrition-with-chatgpt-help/"><u>Personalized Nutrition with ChatGPT Help</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-steadicams-to-elevate-uav-video-production-quality/"><u>Prime Steadicams to Elevate UAV Video Production Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/section-2b-five-facts-to-remember/"><u>Section 2B: Five Facts to Remember</u></a></li>
+<li><a href="https://video-capture.techidaily.com/share-your-memories-guide-on-sending-videos-from-facebook-directly-to-emails-and-messaging-pals/"><u>Share Your Memories: Guide on Sending Videos From Facebook Directly to Emails & Messaging Pals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-your-inbox-chaos-with-this-one-simple-email-hack-no-rule-juggling-needed-techwise/"><u>Simplify Your Inbox Chaos with This One Simple Email Hack – No Rule Juggling Needed! | TechWise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-mastering-ai-with-free-dall-e-3-and-bing/"><u>Step Into the Future: Mastering AI with Free DALL-E 3 & Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-conversation-machines-creating-your-own-gpt/"><u>Tailored Conversation Machines: Creating Your Own GPT</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-buying-a-google-pixel-n-n-4a-5g-reasons-why-its-worth-your-money/"><u>The Ultimate Guide to Buying a Google Pixel N N 4a 5G - Reasons Why It's Worth Your Money!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thin-is-in-testing-out-apples-slimmest-ipads-ever-at-an-official-store/"><u>Thin Is In: Testing Out Apple’s Slimmest iPads Ever at an Official Store</u></a></li>
+</ul></div>
 

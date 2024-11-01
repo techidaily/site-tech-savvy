@@ -1,7 +1,7 @@
 ---
 title: "The Menace of FraudGPT: Securing Your Cyber Domain"
-date: 2024-09-16T18:49:38.226Z
-updated: 2024-09-22T16:20:06.550Z
+date: 2024-10-31T18:11:17.353Z
+updated: 2024-11-01T17:56:31.147Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/27ed488072176012a10baf6e8c8b898cb859756da
 
  To better picture the tool, you can think of FraudGPT as ChatGPT but for fraud. But how exactly does FraudGPT work, and how are cybercriminals using it?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Does FraudGPT Work?
 
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
 
@@ -55,6 +69,13 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  If tools like ChatGPT can help cyber criminals commit crimes despite all efforts to make these AI chatbots safe, now think of the power a tool like FraudGPT could bring, considering it was specifically fine-tuned on malicious materials to make it suitable for cybercrime. It's like the evil twin of ChatGPT put on steroids.
 
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Can You Protect Yourself From FraudGPT?
 
@@ -74,10 +95,10 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay Informed to Protect Yourself
@@ -103,5 +124,21 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/2024-approved-laughlens-engine/"><u>2024 Approved LaughLens Engine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-quick-dive-into-apple-vision-pro-experience-my-key-findings-after-a-weekend-with-it-tech-analysis/"><u>A Quick Dive Into Apple Vision Pro Experience – My Key Findings After a Weekend with It | Tech Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-explores-breath-monitoring-feature-in-new-vision-pro-glasses-tech-news/"><u>Apple Explores Breath Monitoring Feature in New Vision Pro Glasses | Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-legal-challenge-by-doj-potential-consequences-for-iphone-enthusiasts-and-app-creators-tech-insight/"><u>Apple Legal Challenge by DOJ: Potential Consequences for iPhone Enthusiasts & App Creators | Tech Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-latest-laptops-showdown-comparing-the-new-macbook-air-with-m3-chipset-against-its-predecessor-the-macbook-air-with-m2-tech-advice/"><u>Apple's Latest Laptops Showdown: Comparing the New MacBook Air with M3 Chipset Against Its Predecessor, the MacBook Air with M2 | Tech Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722896424975-choosing-the-right-motherboard-here-are-7-key-criteria/"><u>Choosing the Right Motherboard? Here Are 7 Key Criteria!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cyber-shifts-and-sways-prognosticating-top-7-trends/"><u>Cyber Shifts and Sways: Prognosticating Top 7 Trends</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/encompassing-activity-survey/"><u>Encompassing Activity Survey</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-find-n3-by-drfone-android/"><u>How to Bypass FRP on Oppo Find N3?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-word-2021-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in Word 2021</u></a></li>
+<li><a href="https://app-tips.techidaily.com/overwhelmed-tech-experts-the-bright-side-revealed-zdnet-insights/"><u>Overwhelmed Tech Experts: The Bright Side Revealed | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smartphone-evolution-the-top-8-android-and-ios-ai-apps/"><u>Smartphone Evolution: The Top 8 Android & iOS AI Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722889018832-top-10-surprisingly-popular-sites-you-might-not-know-about-yet/"><u>Top 10 Surprisingly Popular Sites You Might Not Know About Yet!</u></a></li>
+</ul></div>
 

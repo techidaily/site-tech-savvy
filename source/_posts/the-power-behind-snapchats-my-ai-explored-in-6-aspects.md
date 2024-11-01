@@ -1,7 +1,7 @@
 ---
 title: The Power Behind Snapchat's My AI Explored in 6 Aspects
-date: 2024-09-19T16:49:01.733Z
-updated: 2024-09-22T18:25:35.406Z
+date: 2024-10-30T17:29:17.388Z
+updated: 2024-11-01T18:45:54.905Z
 tags:
   - chatgpt
   - open-ai
@@ -68,9 +68,23 @@ Close
 
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Snapchat’s Location Services Are Wholly Utilized
 
@@ -81,28 +95,15 @@ Close
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to > **Settings** \> **Privacy Controls** \> **My Location**. Toggle the Ghost Mode button to hide your location.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. My AI Solves Intermediate Word Problems Correctly
 
@@ -112,14 +113,20 @@ Close
 
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -132,6 +139,13 @@ Close
  These incidents shouldn’t have happened in the first place, but in fairness to Snapchat, it quickly resolved My AI’s security issues. The company enforced stricter guidelines shortly after these reports.
 
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try Snapchat’s New AI Assistant
 
@@ -156,5 +170,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-efficient-screenshot-with-audio-layered/"><u>[Updated] In 2024, Efficient Screenshot With Audio Layered</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-zoom-meetings-for-beginners-a-comprehensive-introduction-guide/"><u>2024 Approved Zoom Meetings for Beginners A Comprehensive Introduction Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/an-unforgettable-experience-my-top-rated-series-viewing-through-apple-vision-pro-a-mix-of-wonder-and-fatigue/"><u>An Unforgettable Experience: 'My Top-Rated Series' Viewing Through Apple Vision Pro - A Mix of Wonder & Fatigue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-tech-evolution-showcases-iphone-16-as-a-repair-revolution-surpassing-past-versions-explore-the-advancements-with-zdnet/"><u>Apple's Tech Evolution Showcases iPhone 16 as a Repair Revolution, Surpassing Past Versions. Explore the Advancements with ZDNet.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-basic-discovering-pros-and-cons-of-chatgpt-plus/"><u>Beyond Basic - Discovering Pros and Cons of ChatGPT Plus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-correcting-latest-game-sounds-problems-quickly/"><u>Expert Tips for Correcting Latest Game Sounds Problems Quickly</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/grabacion-digital-libre-online-convertidor-mp4-a-mp3-sin-costo-por-adobe-premiere-movavi/"><u>Grabación Digital Libre Online: Convertidor MP4 a MP3 Sin Costo Por Adobe Premiere - Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/icloud-integration-seamless-collaboration-on-apple-pages-documents-a-comprehensive-guide/"><u>ICloud Integration: Seamless Collaboration on Apple Pages Documents - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-reno-8t-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo Reno 8T 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-it-time-to-switch-analyzing-performance-differences-between-m3-and-m1-macbook-pro-models-zdnet/"><u>Is It Time to Switch? Analyzing Performance Differences Between M3 & M1 MacBook Pro Models | ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-temporal-and-spatial-shifts-in-filmmaking/"><u>Mastering Temporal & Spatial Shifts in Filmmaking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-and-improved-features-rollout-for-certain-apple-airpods-models-this-autumn-revealed-zdnet/"><u>New and Improved Features Rollout for Certain Apple AirPods Models This Autumn Revealed | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/piloting-progress-from-copilot-to-proco-innovation/"><u>Piloting Progress: From Copilot to Proco Innovation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rest-avoid-activities-that-may-aggrave-the-injury-or-cause-further-damage-to-the-affected-area-allowing-the-body-time-to-rest-promotes-proper-healing/"><u>Rest: Avoid Activities that May Aggrave the Injury or Cause Further Damage to the Affected Area. Allowing the Body Time to Rest Promotes Proper Healing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-srt-file-integration-on-digital-platforms-for-2024/"><u>Streamlining SRT File Integration on Digital Platforms for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-digital-debate-chatgpt-versus-bings-bot-dialogues/"><u>The Digital Debate: ChatGPT Versus Bing's Bot Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-enhancements-apple-set-to-update-budget-friendly-series-se-smartwatch-exclusive-details-inside/"><u>Upcoming Enhancements: Apple Set to Update Budget-Friendly Series SE Smartwatch - Exclusive Details Inside!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whynosubscriptions-eager-for-gpt-resumption/"><u>WhyNoSubscriptions: Eager for GPT Resumption</u></a></li>
+</ul></div>
 

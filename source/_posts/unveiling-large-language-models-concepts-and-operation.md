@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Large Language Models: Concepts & Operation"
-date: 2024-10-21T22:08:58.142Z
-updated: 2024-10-26T22:21:45.110Z
+date: 2024-10-29T16:20:14.072Z
+updated: 2024-11-01T16:36:51.064Z
 tags:
   - chatgpt
   - open-ai
@@ -53,26 +53,40 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
 ![Screenshot of question about bats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-bats.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, it isn't infallible, and as this example shows, sometimes you will need to supply additional information to get the desired response.
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
  But LLMs go deeper than this. They can also tailor replies to suit the emotional tone of the input. When combined with contextual understanding, the two facets are the main drivers that allow LLMs to create human-like responses.
 
  To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Are the Limitations of LLMs?
 
@@ -102,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
  This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. BERT
@@ -113,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
  BERT stands for Bi-directional Encoder Representation from Transformers. The bidirectional characteristics of the model differentiate [BERT from other LLMs like GPT](https://www.makeuseof.com/what-is-bert-language-model-how-differ-gpt/).
 
  Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Future of LLMs
 
@@ -133,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 4. **Greater Integration**: LLMs could become personal digital assistants. Think of Siri on steroids, and you get the idea. LLMs could become virtual assistants that help you with everything from suggesting meals to dealing with your correspondence.
 
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
 
@@ -166,18 +166,19 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-ignite-customer-interest-and-increase-revenue-top-15-tools-for-fb-data-analysis-for-2024/"><u>[New] Ignite Customer Interest & Increase Revenue Top 15 Tools for FB Data Analysis for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-path-to-ethical-expansion-youtube-traffic-enhancement/"><u>[New] In 2024, The Path to Ethical Expansion YouTube Traffic Enhancement</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-characters-that-captivate-key-growth-strategies/"><u>[Updated] In 2024, Characters That Captivate Key Growth Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-iphones-a-compreenas-guide-to-storing-and-sharing-gifs/"><u>[Updated] In 2024, IPhones A Compreenas Guide to Storing & Sharing GIFs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accelerate-your-gaming-experience-with-top-extensions/"><u>Accelerate Your Gaming Experience with Top Extensions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/bass-brilliance-recording-review/"><u>Bass Brilliance Recording Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-ipad-chatgpt-problems-9-techniques-to-try/"><u>Bypassing iPad ChatGPT Problems: 9 Techniques to Try</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-just-got-ios-friendly/"><u>ChatGPT Just Got iOS-Friendly!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-the-auto-gpt-installer/"><u>Navigate the Auto-GPT Installer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-gpt-tailor-your-own-model/"><u>New GPT: Tailor Your Own Model</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prevent-bot-data-exposure-with-caution/"><u>Prevent Bot Data Exposure with Caution</u></a></li>
-<li><a href="https://techidaily.com/remove-motorola-edge-40-neo-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola Edge 40 Neo unlock screen</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-conversion-guide-top-8-picks-for-avi-enthusiasts/"><u>YouTube Conversion Guide Top 8 Picks for AVI Enthusiasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>[New] In 2024, Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quintessential-underwater-accessories-for-gopro/"><u>[New] Quintessential Underwater Accessories for Gopro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-in-depth-evaluation-gopro-slr4-silver-hero4-model/"><u>2024 Approved In-Depth Evaluation GoPro SLR4 Silver HERO4 Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-iphones-how-does-the-iphone-15-pro-elevate-the-standard-set-by-its-predecessor-gadget-pulse/"><u>Comparing iPhones: How Does the iPhone 15 Pro Elevate the Standard Set by Its Predecessor? | Gadget Pulse</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-ais-future-openai-leader-demands-robust-regulations/"><u>Crafting AI's Future: OpenAI Leader Demands Robust Regulations</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-hp-notebook-efficient-screen-capture-strategies/"><u>In 2024, HP Notebook Efficient Screen Capture Strategies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-s23-fe-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy S23 FE? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-apple-watch-endurance-discover-how-simple-tweaks-can-prolong-battery-life/"><u>Maximize Apple Watch Endurance - Discover How Simple Tweaks Can Prolong Battery Life!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/memetic-magic-unlock-with-kapwing-creator-for-2024/"><u>Memetic Magic – Unlock with Kapwing Creator for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outmaneuvering-gpt-avoidance-of-conversational-recordings/"><u>Outmaneuvering GPT: Avoidance of Conversational Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shielding-against-unauthorized-ai-interaction-leaks/"><u>Shielding Against Unauthorized AI Interaction Leaks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-fortnite-sound-problem-step-by-step-instructions-for-optimal-game-experience/"><u>Solve Your Fortnite Sound Problem: Step-by-Step Instructions for Optimal Game Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-skip-gpt-on-mac-avoid-potential-pitfalls/"><u>Why Skip GPT on Mac?: Avoid Potential Pitfalls</u></a></li>
 </ul></div>
 

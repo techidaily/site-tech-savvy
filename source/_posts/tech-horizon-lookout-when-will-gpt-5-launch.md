@@ -1,7 +1,7 @@
 ---
 title: "Tech Horizon Lookout: When Will GPT-5 Launch?"
-date: 2024-10-20T18:53:47.426Z
-updated: 2024-10-26T23:50:07.505Z
+date: 2024-10-26T17:30:14.996Z
+updated: 2024-11-01T17:21:25.388Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
  Here's a video of Altman's discussion below:
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is GPT-5 Coming?
@@ -54,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
@@ -80,16 +74,22 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5\.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4\.
 
@@ -98,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5\.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -129,21 +129,24 @@ thumbnail: https://thmb.techidaily.com/9cc1ab34a2708ce6599562965ce7d038d6461c86c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-skincare-and-sensational-looks/"><u>[New] In 2024, Skincare and Sensational Looks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-leveraging-obs-for-top-notch-social-media-streaming/"><u>[Updated] 2024 Approved Leveraging OBS for Top-Notch Social Media Streaming</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-prime-movie-reel-revelations-pack/"><u>[Updated] 2024 Approved Prime Movie Reel Revelations Pack</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbeyy-and-fronteo/"><u>ABBEYY & FRONTEO連携による法令理解向上戦略</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-achieves-soc-2-compliance-bolsters-trust-in-transactional-processes/"><u>ABBYY Achieves SOC #2 Compliance, Bolsters Trust in Transactional Processes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-privacy-and-data-handling-guidelines/"><u>ABBYY Privacy & Data Handling Guidelines</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/act-fast-overcoming-paperwork-hurdles-in-the-insurance-industry/"><u>Act Fast! Overcoming Paperwork Hurdles in the Insurance Industry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/"><u>ANNUALEMENT, ABBYY Intègre Deux Personnalités Prestigieuses À Son Organe Dirigeant</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automated-data-capture-solutions-efficiently-managed-with-cookiebot/"><u>Automated Data Capture Solutions: Efficiently Managed with Cookiebot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automated-with-cookiebot-enhancing-digital-marketing-efforts/"><u>Automated with Cookiebot: Enhancing Digital Marketing Efforts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/fuse-fast-edits-for-stunning-windows-photos/"><u>Fuse Fast Edits for Stunning Windows Photos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-versatile-kootek-laptop-thermal-management-pad/"><u>In-Depth Analysis of the Versatile Kootek Laptop Thermal Management Pad</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfecting-soundtracks-top-10-microphones/"><u>Perfecting Soundtracks Top 10 Microphones</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/procuring-growls-and-whispers-audio-packages/"><u>Procuring Growls and Whispers Audio Packages</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-transforming-your-physical-computer-into-a-virtual-machine-on-windows/"><u>Step-by-Step Guide: Transforming Your Physical Computer Into a Virtual Machine on Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/trouble-free-gaming-mastering-the-art-of-resolving-xbox-one-signal-issues/"><u>Trouble-Free Gaming: Mastering the Art of Resolving Xbox One Signal Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-prime-guidelines-youtube-respect-and-usage/"><u>[New] 2024 Approved Prime Guidelines YouTube Respect & Usage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-broadcast-battleground-which-wins-obs-or-twitch-in-2024/"><u>[New] Broadcast Battleground Which Wins, OBS or Twitch, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-top-editor-secrets-unlocked-in-canva-photo-editing-for-2024/"><u>[New] Top Editor Secrets Unlocked in Canva Photo Editing for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ace-your-screens-the-premium-guide-to-androids-top-8-capture-apps/"><u>[Updated] In 2024, Ace Your Screens The Premium Guide to Android’s Top 8 Capture Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-for-audio-editors-using-garageband/"><u>[Updated] The Ultimate Guide for Audio Editors Using GarageBand</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-make-the-most-out-of-spotifys-advertising-features/"><u>2024 Approved How to Make the Most Out of Spotify's Advertising Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-unveiled-the-basics-simplified/"><u>AI Unveiled: The Basics Simplified</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-data-sharing-by-opting-out-of-chatgpt/"><u>Avoid Data Sharing by Opting Out of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-efficiency-the-ultimate-guide-to-using-chatgpt-effectively/"><u>Boosting Efficiency: The Ultimate Guide to Using ChatGPT Effectively</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-spark-go-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-exquisite-samsung-galaxy-s10-the-epitome-of-luxury-phones/"><u>In-Depth Evaluation of the Exquisite Samsung Galaxy S10: The Epitome of Luxury Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpts-plugin-for-wolfram-alpha-triad/"><u>Leveraging ChatGPT's Plugin for Wolfram Alpha Triad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-clean-up-the-route-to-fresh-gpt-dialogues/"><u>Simplifying Clean-Up: The Route to Fresh GPT Dialogues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-to-solving-missing-sound-device-problems-in-windows-xpvista710/"><u>Step-by-Step Guide to Solving Missing Sound Device Problems in Windows (XP/Vista/7/10)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-best-4-ai-writing-companions-for-every-wordsmith/"><u>The Best 4 AI Writing Companions for Every Wordsmith</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-editors-guide-to-responsible-ai-engagement/"><u>The Editor's Guide to Responsible AI Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/toms-tech-gear-comprehensive-hardware-reviews/"><u>Tom's Tech Gear - Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-immutable-chatgpt-principle/"><u>Understanding the Immutable ChatGPT Principle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-quoras-poe-access/"><u>Unlocking Potential with Quora's POE Access</u></a></li>
 </ul></div>
 

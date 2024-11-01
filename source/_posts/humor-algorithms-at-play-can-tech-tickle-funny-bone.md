@@ -1,7 +1,7 @@
 ---
 title: "Humor Algorithms at Play: Can Tech Tickle Funny Bone?"
-date: 2024-10-22T19:06:57.258Z
-updated: 2024-10-26T17:33:04.369Z
+date: 2024-10-25T18:07:45.431Z
+updated: 2024-11-01T18:21:47.491Z
 tags:
   - chatgpt
   - open-ai
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
 * **Joke Two:** A man walks into a bar with a piece of asphalt under his arm. He says to the bartender, "I'll take a beer and one for the road."
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Can ChatGPT Do?
@@ -59,16 +59,10 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
 ![Screenshot of ChatGPT Knock Knock Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-knock-knock-joke.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is an evolving technology that has limitations. It is unlikely to replace stand-up comedians anytime soon. But is it a useful tool for comedy? Let's discuss some of the ways that AI can be used in comedy.
@@ -83,15 +77,22 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
 * **Joke Four:** Knock Knock! _Who's there?_ Boo. _Boo who_? Don't cry, it's just a computer program making jokes!
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Can't ChatGPT Do?
 
 ![Screenshot ChatGPT Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-chatgpt-joke.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When it comes to comedy and laughter, there is still plenty that AI can't do. For instance, human nature means that we often laugh at things that shouldn't be funny. A browse through "fail videos" on YouTube illustrates this point perfectly.
 
@@ -123,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
 * **Joke Seven:** There are 10 types of people in the world: Those that understand binary numbers and those that don't!
 * **Joke Eight:** Why did the computer go to the doctor? Because it had a virus!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Last Laugh
 
  AI is many things, but we struggled to get it to make us laugh. Getting it to generate jokes was no laughing matter! The humor was flat without the subtlety at the heart of much great comedy. For the record, joke numbers one, three, six, and seven were human-generated, and the others were AI-generated.
@@ -155,24 +149,17 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-advancing-zoom-clarity-in-online-gatherings-google-meet/"><u>[Updated] Advancing Zoom Clarity in Online Gatherings (Google Meet)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-no-limit-visual-capturer-device-for-2024/"><u>[Updated] No-Limit Visual Capturer Device for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-effortlessly-record-voices-using-windows-11-techniques/"><u>2024 Approved How to Effortlessly Record Voices Using Windows 11 Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-securing-your-speech-on-the-ipad/"><u>2024 Approved Securing Your Speech on the iPad</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoid-superfluous-extensions-for-optimal-chatgpt-performance/"><u>Avoid Superfluous Extensions for Optimal ChatGPT Performance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/big-news-apple-developers-enhance-your-code-with-our-newly-upgraded-complimentary-ai-integration/"><u>Big News Apple Developers: Enhance Your Code with Our Newly Upgraded Complimentary AI Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breakthrough-in-spreadsheet-tasks-with-chatgpt-and-excel/"><u>Breakthrough in Spreadsheet Tasks With ChatGPT & Excel</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deleting-spotify-likes-how-to-manually-dislike-every-song-youve-ever-added/"><u>Deleting Spotify Likes: How to Manually Dislike Every Song You've Ever Added</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-participate-in-openais-bounty-for-detecting-system-errors/"><u>How to Participate in OpenAI’s Bounty for Detecting System Errors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-aural-enhancements-with-video-editing-on-win11/"><u>In 2024, Aural Enhancements with Video Editing on Win11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-imagery-unleashed-dall-e-iiis-new-prompt-paradigm/"><u>Innovative Imagery Unleashed: DALL-E III’s New Prompt Paradigm</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-solitude-gpt-powered-social-platforms/"><u>Redefining Solitude: GPT-Powered Social Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sam-altmans-exit-what-it-means-for-gpt/"><u>Sam Altman's Exit - What It Means for GPT?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-dell-p2715q-review-a-4k-visual-revolution-unfolds/"><u>The Dell P2715Q Review A 4K Visual Revolution Unfolds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-zenith-of-bots-beyond-chatgpt/"><u>The Zenith of Bots Beyond ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trailblazing-with-tech-top-6-innovations-from-code-conductor/"><u>Trailblazing with Tech - Top 6 Innovations From Code Conductor</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-your-images-into-nfts-the-best-generators-listed-for-2024/"><u>Transform Your Images Into NFTs - The Best Generators Listed for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/your-private-space-in-a-public-domain-the-top-3-bot-privacy-risks/"><u>Your Private Space in a Public Domain: The Top 3 Bot Privacy Risks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-instantly-start-youtube-videos-on-your-facebook-timeline/"><u>[New] 2024 Approved Instantly Start YouTube Videos on Your Facebook Timeline</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-redefining-the-silver-screen-virtual-reality-cinema/"><u>2024 Approved Redefining the Silver Screen Virtual Reality Cinema</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-practices-in-selecting-premium-hdr-cameras/"><u>Best Practices in Selecting Premium HDR Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-tricks-how-to-tell-them-apart/"><u>ChatBot Tricks: How to Tell Them Apart</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-for-premium-mac-boosters-a-comprehensive-review-from-zdnet/"><u>Expert Picks for Premium Mac Boosters - A Comprehensive Review From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-tool-or-trap-for-disinformation/"><u>Generative AI: Tool or Trap for Disinformation?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-google-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Google Through Google Earth?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-gt-neo-5-se-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme GT Neo 5 SE with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-your-identity-with-meta-in-the-usa/"><u>Secure Your Identity with Meta in the USA</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stay-alert-ais-limited-trustworthiness-for-secrecy/"><u>Stay Alert: AI's Limited Trustworthiness for Secrecy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/taking-on-an-entire-workday-with-apple-vision-pro-a-comprehensive-review/"><u>Taking on an Entire Workday with Apple Vision Pro: A Comprehensive Review</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877200-9781609255787-the-diary-of-a-drug-fiend/"><u>The Diary of a Drug Fiend | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Beating Anxiety with Innovative 5 Chatbot Therapy
-date: 2024-09-18T16:31:25.045Z
-updated: 2024-09-22T16:52:05.284Z
+date: 2024-10-29T17:41:37.416Z
+updated: 2024-11-01T16:27:49.636Z
 tags:
   - chatgpt
   - open-ai
@@ -42,11 +42,25 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 
 ![SommerAI is trained on CBT and SFBT models of psychological treatment to provide mental health through a chat bot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-sommer-ai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sommer is a ChatGPT-based app that uses two evidence-backed and methodical types of mental health treatment, CBT and SFBT. [Cognitive behavioral therapy (CBT)](https://www.makeuseof.com/cbt-apps-improve-mental-health/) focuses on identifying and overcoming harmful thought patterns by analyzing past events. Solution-focused Brief Therapy (SFBT) is a short-term, goal-oriented therapeutic process where instead of identifying causes for the current problem, the objective is to find solutions in actionable and practical ways. Sommer uses NASA's psychological research on these two methods to create a trained ChatGPT-like therapist.
 
  After logging in with your Google account, you'll have to pick which type of therapy you want to try. Then, start a new chat and answer the questions that SommerAI asks. The more detailed and communicative you are, the better the bot responds. Your chats are saved in your account, so when you revisit it later, you can choose to start a new chat for a new topic or revisit that topic and take the conversation further; in the latter, the AI should perform better as it has more data from the past chat.
 
  Apart from these two main chat therapy bots, SommerAI also offers **Healthy Nuggets**. These small actions, habits, or exercises will boost your mental health.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Mindsum Bot
 
@@ -63,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
 ![JungGPT is an empathetic therapist chatbot that feels like you're talking to a friend](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-junggpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of all the therapist chatbots we tested for this article, JungGPT felt the most natural. It uses casual language and reframes what you've written while offering empathy and asking a question that could take you to the next step in resolving the situation. The whole process makes it feel like you're talking to a friend.
@@ -76,10 +90,16 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
  When we signed up and tested JungGPT, it was as simple as using any ChatGPT-like AI chatbot. The site notes that the free plan has limited messaging, but we didn't hit those restrictions in our usage. The premium plan costs $7 per month for unlimited messaging.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lotus
@@ -113,5 +133,24 @@ thumbnail: https://thmb.techidaily.com/a6447bd693f6fb9dde0232f0bf2efa222cd309687
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ransforming-doubt-into-action-channeling-vlogger-excellence/"><u>[New] Transforming Doubt Into Action Channeling Vlogger Excellence</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-explore-like-a-pro-with-tomtoms-actioncam-2023/"><u>[Updated] Explore Like a Pro with TomTom's ActionCam 2023</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-discover-the-ultimate-multi-functional-qi2-charger-perfect-for-apple-devices-and-more-a-zdnet-review/"><u>1. Discover the Ultimate Multi-Functional Qi2 Charger: Perfect for Apple Devices and More - A ZDNet Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-words-how-chatgpt-grasps-human-syntax/"><u>Beyond Words: How ChatGPT Grasps Human Syntax</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-tricks-how-to-tell-them-apart/"><u>ChatBot Tricks: How to Tell Them Apart</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-tool-or-trap-for-disinformation/"><u>Generative AI: Tool or Trap for Disinformation?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-v30-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme V30 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/open-your-imagination-mastering-the-use-of-free-dall-e-3-via-bing/"><u>Open Your Imagination: Mastering the Use of Free DALL-E 3 via Bing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oneplus-12-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your OnePlus 12 Phone Now with These Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-skypes-unresponsiveness-effective-tips-and-techniques/"><u>Resolving Skype's Unresponsiveness: Effective Tips and Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stay-alert-ais-limited-trustworthiness-for-secrecy/"><u>Stay Alert: AI's Limited Trustworthiness for Secrecy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/taking-on-an-entire-workday-with-apple-vision-pro-a-comprehensive-review/"><u>Taking on an Entire Workday with Apple Vision Pro: A Comprehensive Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tips-labeling-footage-with-text-via-photos-app-win-11-for-2024/"><u>Tips Labeling Footage with Text via Photos App (Win 11) for 2024</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-13-pro-max-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 13 Pro Max Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/trim-excess-space-on-win-10-display/"><u>Trim Excess Space on WIN 10 Display</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-gptzeros-strategy-for-identifying-machine-learning-outputs/"><u>Understanding GPTZero's Strategy for Identifying Machine Learning Outputs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-rotate-videos-in-a-flash-a-step-by-step-guide/"><u>Updated In 2024, Rotate Videos in a Flash A Step-by-Step Guide</u></a></li>
+</ul></div>
 

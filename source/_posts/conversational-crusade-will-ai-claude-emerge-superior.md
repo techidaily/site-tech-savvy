@@ -1,7 +1,7 @@
 ---
 title: "Conversational Crusade: Will AI Claude Emerge Superior?"
-date: 2024-09-18T16:27:46.098Z
-updated: 2024-09-22T18:45:05.390Z
+date: 2024-10-25T17:41:28.246Z
+updated: 2024-11-01T18:38:12.551Z
 tags:
   - chatgpt
   - open-ai
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
  Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Math Skills
 
  Even if you never plan to use ChatGPT or Claude AI to solve your Algebra homework, their mathematical abilities have far-reaching implications. For AI chatbots, math is the key to understanding real-world logic, identifying flawed thinking, and admitting mistakes.
@@ -74,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
@@ -89,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
  So, we asked both ChatGPT and Claude AI to "write a rhyming rap about growing cucumbers as a farmer and becoming a millionaire from it." ChatGPT went first, and as expected, it produced some exciting lyrics.
 
 ![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
 
@@ -108,31 +129,24 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -155,5 +169,22 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-expressive-storytelling-with-snapchats-in-your-face-gifs-for-2024/"><u>[New] Expressive Storytelling with Snapchat's In-Your-Face GIFs for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-quietude-kingdoms-ultimate-zen-pc-games/"><u>[New] In 2024, Quietude Kingdoms Ultimate Zen PC Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elite-list-top-10-zero-dollar-videochats-with-desktops/"><u>[Updated] 2024 Approved Elite List Top 10 Zero-Dollar Videochats with Desktops</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782416-9781591439714-14-steps-to-awaken-the-sacred-feminine/"><u>14 Steps to Awaken the Sacred Feminine | Free Book</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/behind-the-scenes-a-tech-savvy-approach-to-messenger-downloads/"><u>Behind the Scenes A Tech-Savvy Approach to Messenger Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-history-gone-how-to-retrieve-your-lost-chatgpt-history/"><u>ChatGPT History Gone: How to Retrieve Your Lost ChatGPT History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-apples-enchanting-new-ai-the-seamless-on-device-image-generator-surpassing-dall-e-zdnet-insights/"><u>Discover Apple's Enchanting New AI: The Seamless, On-Device Image Generator Surpassing DALL-E | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-humble-clips-to-groundbreaking-innovations-paperclip-optimization-via-ai/"><u>From Humble Clips to Groundbreaking Innovations: Paperclip Optimization via AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-powered-insights-research-and-papers/"><u>GPT-Powered Insights: Research and Papers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-a1x-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo A1x 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-breath-monitoring-apples-potential-addition-of-respiratory-features-to-vision-pro-insights/"><u>Revolutionary Breath Monitoring: Apple's Potential Addition of Respiratory Features to Vision Pro - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-models-a-comprehensive-guide/"><u>Top-Ranking Mac Models : A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-wallet-picks-in-depth-analysis-by-tech-experts/"><u>Top-Rated MagSafe Wallet Picks : In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/twicedllikey/"><u>TWICEの新シングル「ハート・シェイカー」DLガイド：LIKEY含む完全版入手方法</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-strategies-to-overcome-continuous-windows-10-startup-issues/"><u>Winning Strategies to Overcome Continuous Windows 10 Startup Issues</u></a></li>
+</ul></div>
 

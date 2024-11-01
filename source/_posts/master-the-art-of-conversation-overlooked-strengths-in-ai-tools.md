@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Conversation: Overlooked Strengths in AI Tools"
-date: 2024-09-17T16:42:19.185Z
-updated: 2024-09-22T17:07:31.709Z
+date: 2024-10-30T18:18:35.291Z
+updated: 2024-11-01T17:07:09.226Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/cfe1e4fd673ca5fb5a36d3dc03d18f188db631104
 
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2  Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs. [ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -61,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/cfe1e4fd673ca5fb5a36d3dc03d18f188db631104
 
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
 
  Part of ChatGPT's Memory is the supposition you're talking to it about anything and everything. It gives an example of "You mention that you have a toddler and that she loves jellyfish. When you ask ChatGPT to help create her birthday card, it suggests a jellyfish wearing a party hat." That's cute, no doubt, but it's not the sort of information most folks are providing to ChatGPT regularly (at least, I assume not).
@@ -69,18 +83,18 @@ thumbnail: https://thmb.techidaily.com/cfe1e4fd673ca5fb5a36d3dc03d18f188db631104
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024\.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
 
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 
@@ -94,18 +108,18 @@ thumbnail: https://thmb.techidaily.com/cfe1e4fd673ca5fb5a36d3dc03d18f188db631104
 
  The only real downside to the ChatGPT Plus free trial is that anyone taking it has to sign up for an account using a credit or debit card—which means the card will be charged straight away when the trial ends.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5  Shared Links
 
  If the person you invite to trial ChatGPT is put off by the credit card sign-up, you could share your ChatGPT conversation with them instead. [ChatGPT's shared links launched in May 2023](https://www.makeuseof.com/what-are-chatgpt-shared-links-how-do-they-work/) and offer a way for ChatGPT users to share conversations outside the confines of the web interface or the smartphone app.
 
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
 
@@ -126,5 +140,24 @@ thumbnail: https://thmb.techidaily.com/cfe1e4fd673ca5fb5a36d3dc03d18f188db631104
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-capturing-top-notch-audio-without-microphone-dependency-for-2024/"><u>[New] Capturing Top-Notch Audio Without Microphone Dependency for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-master-device-agnostic-recording-techniques-for-youtube-live-streams/"><u>[New] Master Device-Agnostic Recording Techniques for YouTube Live Streams</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-bright-horizons-pioneering-light-in-video-production-for-2024/"><u>[Updated] Bright Horizons Pioneering Light in Video Production for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2023-roundup-premier-professionals-360-cameras/"><u>2023 Roundup Premier Professionals’ 360 Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/data-dominance-5-picks-for-efficient-gpt-3-data-handling/"><u>Data Dominance: 5 Picks for Efficient GPT-3 Data Handling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-cybersecurity-of-ai-dialogues/"><u>Deciphering the Cybersecurity of AI Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/divergence-of-ai-the-powerful-and-the-passive/"><u>Divergence of AI: The Powerful and the Passive</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/excellent-voice-capture-gadgets-top-7-list-2023/"><u>Excellent Voice Capture Gadgets, Top 7 List 2023</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-powered-idea-generation-for-fictional-worlds/"><u>GPT-Powered Idea Generation for Fictional Worlds</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/how-to-use-aomei-pxe-boot-software-comprehensive-faqs-and-guide/"><u>How To Use Aomei PXE Boot Software: Comprehensive FAQs and Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-365-packaged-in-apples-new-vision-pro-get-access-to-word-excel-on-day-one-exclusive/"><u>Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive</u></a></li>
+<li><a href="https://discover-great.techidaily.com/reducing-file-sizes-a-step-by-step-guide-to-compress-videos-using-windows-media-player/"><u>Reducing File Sizes: A Step-by-Step Guide to Compress Videos Using Windows Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snapchat-and-skype-an-ai-expertise-showdown/"><u>Snapchat and Skype: An AI Expertise Showdown</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-correcting-missing-d3dx9nine-library-issues/"><u>Step-by-Step Guide: Correcting Missing D3dx9_nine Library Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thin-is-in-a-firsthand-look-at-the-slimmest-ever-ipads-from-apple-is-less-really-more-at-just-008-inches/"><u>Thin Is In: A Firsthand Look at the Slimmest Ever iPads From Apple - Is Less Really More at Just 0.08 Inches?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-full-chatgpt-capabilities-on-pc/"><u>Unlock Full ChatGPT Capabilities on PC</u></a></li>
+</ul></div>
 

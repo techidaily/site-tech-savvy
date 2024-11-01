@@ -1,7 +1,7 @@
 ---
 title: "Journey Through OpenAI: From Concept to Creative Execution"
-date: 2024-09-20T17:54:33.793Z
-updated: 2024-09-22T18:04:45.991Z
+date: 2024-10-29T16:20:54.263Z
+updated: 2024-11-01T18:05:50.007Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,19 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
  You can even improve the model's performance by supplying parameters like temperature, presence-penalty, frequency-penalty, and more. If you've ever used ChatGPT, you already know how OpenAI's chat completion model work.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Text Completion
 
  The text completion API provides conversational, text insertion, and text completion functionalities based on advanced GPT-3.5 models.
@@ -62,19 +75,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 ![Text completion model test via CLI more complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/text-completion-model-test-via-cli-more-complete.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Speech-to-Text
 
  You can transcribe and translate audio speech using the OpenAI transcription and translation endpoints. The speech-to-text endpoints are based on the Whisper v2-large model, developed through large-scale weak supervision.
@@ -82,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  However, OpenAI says there's no difference between its Whisper model and the one in open-source. So it offers endless opportunities for integrating a multilingual transcriber and translator AI into your app at scale.
 
  The endpoint usage is simple. All you have to do is to supply the model with an audio file and call the **openai.Audio.translate** or **openai.Audio.transcribe** endpoint to translate or transcribe it respectively. These endpoints accept a maximum file size of 25 MB and support most audio file types, including mp3, mp4, MPEG, MPGA, m4a, wav, and webm.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Text Comparison
 
@@ -113,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 ![OpenAI code completion command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-code-completion-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image Generation
@@ -133,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 ![Image generation test for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/image-generation-test-for-openai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the OpenAI API
 
 ![OpenAI API secret key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-api-secret-key-page.jpg)
@@ -146,10 +146,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 5. Present data (user requests and model responses) in a visually appealing UI, and your app is ready for real-world use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Can You Create With the OpenAI API?
@@ -162,6 +162,13 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 4. Fix subtitles and translations for videos, audio, and live conversations using the speech-to-text model endpoint.
 5. Identify negative sentiments in your app using the OpenAI embedding model endpoint.
 6. Create programming language-specific code completion plugins for code editors and integrated development environments (IDEs).
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Build Endlessly With the OpenAI APIs
 
@@ -186,5 +193,18 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-flawless-loops-on-youtube-with-these-tips/"><u>[New] Unlock Flawless Loops on YouTube with These Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-office-performance-7-strategies-for-leveraging-chatgpt-wisely/"><u>Boost Office Performance: 7 Strategies for Leveraging ChatGPT Wisely</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-online-safety-combining-chatgpt-with-a-vpn/"><u>Enhancing Online Safety: Combining ChatGPT with a VPN?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-best-backgrounds-for-live-streaming/"><u>In 2024, Best Backgrounds for Live Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heaviest-inflight-lifters-unveiled-top-10-list/"><u>In 2024, Heaviest Inflight Lifters Unveiled - Top 10 List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-it-time-for-an-update-a-detailed-analysis-of-apple-watch-series-10-vs-series-8-tech-insights/"><u>Is It Time for an Update? A Detailed Analysis of Apple Watch Series 10 Vs. Series 8 | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-assistive-technology-apple-unveils-eye-control-capabilities-for-ios-devices-learn-how/"><u>Revolutionizing Assistive Technology: Apple Unveils Eye-Control Capabilities for iOS Devices - Learn How</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/srt-conversion-compendium-for-media-professionals/"><u>SRT Conversion Compendium for Media Professionals</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-upgrading-your-nvidia-graphics-drivers/"><u>Step-by-Step Instructions for Upgrading Your NVIDIA Graphics Drivers</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/the-essential-guide-to-converting-high-resolution-images-transitioning-from-4k-to-full-hd-quality/"><u>The Essential Guide to Converting High-Resolution Images: Transitioning From 4K to Full HD Quality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/time-lapse-wizardry-harnessing-gopros-potential-for-2024/"><u>Time-Lapse Wizardry Harnessing GoPro's Potential for 2024</u></a></li>
+</ul></div>
 

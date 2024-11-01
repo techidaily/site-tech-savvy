@@ -1,7 +1,7 @@
 ---
 title: "Turing's Gambit: Seeking Artificial Superiority"
-date: 2024-09-19T17:37:22.181Z
-updated: 2024-09-22T16:29:45.691Z
+date: 2024-10-25T16:23:48.329Z
+updated: 2024-11-01T18:03:30.781Z
 tags:
   - chatgpt
   - open-ai
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
@@ -73,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Google's LaMBDA
 
  So Eugene Goostman may not have passed the Turing test, but how about Google's LaMDA?
@@ -84,16 +98,10 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Advancement of Computer Intelligence
@@ -111,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
@@ -142,5 +150,20 @@ thumbnail: https://thmb.techidaily.com/4dbb96e84abbbc08787367a1af5777cd4560a19b1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-record-steam-gameplay-for-2024/"><u>[Updated] How to Record Steam Gameplay for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-macrofocusadvance-magnify-and-resize-pristine-pics/"><u>2024 Approved MacroFocusAdvance Magnify & Resize Pristine Pics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-television-transformation-via-social-media-platforms-like-fb-live/"><u>2024 Approved Television Transformation via Social Media Platforms Like FB Live</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-note-visibility-for-effective-productivity/"><u>Boost Note Visibility for Effective Productivity</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bypass-spotifys-predicted-podcast-selections-for-2024/"><u>Bypass Spotify's Predicted Podcast Selections for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/cting-video-ranking-algorithms-on-youtube-for-2024/"><u>Dissecting Video Ranking Algorithms on YouTube for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-gt-5-240w-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme GT 5 (240W) Device SIM</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-text-input-functionality-implementing-bing-ai-chat-for-android-users/"><u>Elevate Text Input Functionality: Implementing Bing AI Chat for Android Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-vpns-influence-gpt-point-to-point-engagement/"><u>How VPNs Influence GPT' Point-to-Point Engagement?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-instagram-orchestra-capturing-harmony-on-social-media/"><u>In 2024, Instagram Orchestra Capturing Harmony on Social Media</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-oppo-a59-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo A59 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/linkedin-prowess-leveraging-chatgpt-for-a-competitive-edge-in-employment-searches/"><u>LinkedIn Prowess: Leveraging ChatGPT for a Competitive Edge in Employment Searches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-your-chatgpt-experience-on-macos/"><u>Optimizing Your ChatGPT Experience on macOS</u></a></li>
+</ul></div>
 

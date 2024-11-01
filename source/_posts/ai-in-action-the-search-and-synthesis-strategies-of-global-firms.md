@@ -1,7 +1,7 @@
 ---
 title: "AI in Action: The Search and Synthesis Strategies of Global Firms"
-date: 2024-09-17T18:22:23.734Z
-updated: 2024-09-22T17:17:12.076Z
+date: 2024-10-26T18:49:16.220Z
+updated: 2024-11-01T18:30:55.348Z
 tags:
   - chatgpt
   - open-ai
@@ -40,9 +40,23 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
  But generative AI search aims to use that kind of output generation to replace all, or most, of the currently searched queries through regular search engines. And it aims to do a lot more. It's, essentially, putting the capabilities of ChatGPT, and all its power, at the fingertips of most regular users.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Is Generative AI Search Different From Regular Search?
 
 ![openai chatgpt logo on code background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/openai-chatgpt-logo-on-code-background-feature.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are a few ways in which generative AI search is vastly different from regular search.
 
@@ -53,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
  Generative AI search wants to be the next step forward in this direction. Instead of pulling up millions of search results, your query gets fed through an AI that will try to help you the best way it can. If you have a question, it'll pull up information from its pool of knowledge to answer it, and if you want it to help you out with something, it will try and do so to the best of its ability. Basically, it's ChatGPT, except it looks like a browser.
 
  It has a few challenges ahead, and it might not replace regular search engines entirely as they will still have their purpose, but it might become a nice compliment that will make them way more useful whenever the technology is mature and released.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Companies Are Using Generative AI Search?
 
@@ -66,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
  Google, on the other hand, is also coming up with new AI features of its own. Google launched its [ChatGPT-like chatbot called Bard](http://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) , but eventually, the company wants to bring AI features into its main products as well. This includes the company's regular search experience, where AI-generated answers will complement, not replace, regular search results.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## When Will I Be Able to Use Generative AI Search?
 
  Right now, you're able to play around with ChatGPT. It's been doing some amazing things, and [you can ask it to come up with answers to your questions](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) now. It has a few limitations—it is, of course, a product in testing, its data range is limited to the end of 2021 (at the time of writing), and it might occasionally say inaccurate or false things. But it's a fun product to play around with.
@@ -80,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
  As for actual AI-powered search engines, you can now join the waitlist for "the new Bing" at Microsoft's website. As for Google, there's no waitlist, but the company might eventually open up its work on AI sometime over the next few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generative AI Search is Great
@@ -103,5 +117,22 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-professionals-picks-best-editors-for-online-streams/"><u>[New] In 2024, Professionals' Picks Best Editors for Online Streams</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-snapshot-sentence-maker/"><u>[New] In 2024, Snapshot Sentence Maker</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unraveling-video-opposites-a-comprehensible-guide-for-instavids/"><u>[New] Unraveling Video Opposites A Comprehensible Guide for InstaVids</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-high-impact-hairstyle-ideas-for-2024/"><u>[Updated] High-Impact Hairstyle Ideas for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-soundtracks-for-snickers-ringtones-best-online-sources/"><u>[Updated] In 2024, Soundtracks for Snickers Ringtones' Best Online Sources</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-is-now-available-on-android/"><u>ChatGPT Is Now Available on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-favorite-travel-gear-with-a-twist-iphoneipad-cases-power-chargers-and-apple-watch-straps-now-just-20-off-dont-miss-this-limited-time-offer-from-zdn181/"><u>Get Your Favorite Travel Gear with a Twist! IPhone/iPad Cases, Power Chargers & Apple Watch Straps Now Just 20% Off – Don't Miss This Limited-Time Offer From ZDNET!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lost-in-translation-no-videos-on-a6400/"><u>In 2024, Lost in Translation No Videos on A6400</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-nikon-d500-4k-performance/"><u>In 2024, The Ultimate Guide to Nikon D500 4K Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-pro-vs-iphone-14-pro-assessing-the-value-of-upgrading-insights/"><u>IPhone 16 Pro Vs. IPhone 14 Pro: Assessing the Value of Upgrading - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-pro-vs-iphone-14-pro-should-you-consider-the-newest-model-insights/"><u>IPhone 16 Pro Vs. IPhone 14 Pro: Should You Consider the Newest Model? Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/pixelpatchwork-android-and-ios-instagram-collage-for-2024/"><u>PixelPatchwork Android & iOS Instagram Collage for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-iphones-full-potential-with-the-latest-ios-16-public-beta-installation-steps-and-considerations-zdnet-exclusive/"><u>Unlock Your iPhone's Full Potential with the Latest iOS 16 Public Beta - Installation Steps and Considerations | ZDNET Exclusive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-to-iphone-16-pros-and-cons-insight-experts/"><u>Upgrading to iPhone 16: Pros & Cons - Insight Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Poco X5 Pro | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Shielding Against Unauthorized AI Interaction Leaks
-date: 2024-10-23T23:34:13.051Z
-updated: 2024-10-26T20:40:59.034Z
+date: 2024-10-30T18:41:29.181Z
+updated: 2024-11-01T18:16:20.460Z
 tags:
   - chatgpt
   - open-ai
@@ -60,19 +60,19 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
@@ -99,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
  Anonymization is not foolproof since data can be de-anonymized. Understand [de-anonymization and how to prevent it](https://www.makeuseof.com/what-is-de-anonymization/) before utilizing any of these techniques. Evaluate the risks before you release anonymized data.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Limit Access to Sensitive Data
 
  Limiting access to sensitive work data is crucial when workers are allowed to use ChatGPT. If you’re working in a leadership role, restrict access to sensitive information to authorized personnel who require it for their specific roles.
@@ -106,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
  Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Be Wary of Third-Party Apps
@@ -117,19 +124,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 [Whether third-party ChatGPT apps and browser extensions are safe](https://www.makeuseof.com/third-party-chatgpt-apps-browser-extensions-safe/) is an important question to ask. Before using any of these apps for work, carefully vet and scrutinize them. Make sure that they’re not collecting and retaining information for questionable purposes.
 
  Don’t install shady apps that ask for random permissions on your phone. Verify their data handling practices to check if they align with your organization’s privacy standards.
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly for Work
 
@@ -154,19 +148,22 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-no-longer-a-mystery-shorts-now-showing-up/"><u>[Updated] No Longer a Mystery Shorts Now Showing Up</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-strategies-to-quicken-vimeo-videos/"><u>[Updated] Strategies to Quicken Vimeo Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-clear-up-cloudy-captures-uncover-the-best-10-web-enhancers-ranked/"><u>2024 Approved Clear Up Cloudy Captures Uncover the Best 10 Web Enhancers Ranked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-reality-through-artificial-dreams/"><u>Decoding Reality Through Artificial Dreams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-winchatgpt-app-claims-and-deceptions/"><u>Demystifying WinChatGPT App Claims and Deceptions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/elite-e-learning-platforms-beyond-udemy-explored-for-2024/"><u>Elite E-Learning Platforms Beyond Udemy Explored for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-unlimited-the-mass-adoption-guide/"><u>GPT-4 Unlimited: The Mass Adoption Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-odt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to insert sign in .odt file</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/human-resources-elevated-leveraging-gpt-prompts/"><u>Human Resources Elevated: Leveraging GPT Prompts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/optimized-avi-file-shrinker-high-quality-compression-reduction-tool/"><u>Optimized AVI File Shrinker: High-Quality Compression Reduction Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-path-to-a-perfect-life-integrating-chatgpt-techniques/"><u>The Path to a Perfect Life: Integrating ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-every-aspect-of-living-with-the-help-of-ai-insights/"><u>Upgrade Every Aspect of Living with the Help of AI Insights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-simplified-video-transferring-techniques-for-youtube-enthusiasts/"><u>[New] 2024 Approved Simplified Video Transferring Techniques for YouTube Enthusiasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-sonic-showcase-latest-features/"><u>[New] In 2024, Sonic Showcase Latest Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eamless-screen-stretch-cycle-youtube-on-television-display-for-2024/"><u>[New] Seamless Screen Stretch Cycle YouTube on Television Display for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-whats-encrypted-exploring-the-role-of-facebooks-blue-icon-in-2024/"><u>[New] What's Encrypted Exploring the Role of Facebook's Blue Icon, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-finding-your-perfect-match-premium-videographer-recruitment/"><u>2024 Approved Finding Your Perfect Match Premium Videographer Recruitment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessing-bings-powerful-ai-search-step-by-step/"><u>Accessing Bing's Powerful AI Search: Step-by-Step</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-access-the-internet-on-another-device-via-iphone-fix-ipadiphone-tethering-now/"><u>Can’t Access the Internet on Another Device via iPhone? Fix iPad/iPhone Tethering Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-compilation-of-20-best-github-chatgpt-sessions/"><u>Comprehensive Compilation of 20 Best Github ChatGPT Sessions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-responsive-bots-the-job-of-todays-engineers/"><u>Crafting Responsive Bots: The Job of Today's Engineers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/cutting-edge-tips-for-figma-background-removal/"><u>Cutting-Edge Tips for Figma Background Removal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-insights-into-motherboards-cpus-and-more-join-toms-technology-journey/"><u>Expert Insights Into Motherboards, CPUs & More: Join Tom's Technology Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-open-and-use-the-windows-terminal-in-quake-mode/"><u>How to Open and Use the Windows Terminal in Quake Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-the-volume-mixer-in-windows-11/"><u>How to Open the Volume Mixer in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-investment-examining-the-pros-of-chatgpt-premium/"><u>Inside Investment: Examining the Pros of ChatGPT Premium</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peek-into-googles-future-understanding-its-gemini-artificial-intelligence-project/"><u>Peek Into Google’s Future - Understanding Its Gemini Artificial Intelligence Project</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rectifying-chatgpt-errors-plugin-integration-gone-wrong/"><u>Rectifying ChatGPT Errors: Plugin Integration Gone Wrong</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-finest-small-tablets-of-2024-as-tested-by-tech-gurus-insights/"><u>Ultimate Guide to Choosing the Finest Small Tablets of 2024, as Tested by Tech Gurus | Insights</u></a></li>
 </ul></div>
 

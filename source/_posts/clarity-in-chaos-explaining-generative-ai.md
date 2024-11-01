@@ -1,7 +1,7 @@
 ---
 title: "Clarity in Chaos: Explaining Generative AI"
-date: 2024-09-20T17:09:15.009Z
-updated: 2024-09-22T16:17:19.525Z
+date: 2024-10-29T16:17:15.039Z
+updated: 2024-11-01T18:50:51.883Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
  One of the most fascinating aspects of using a [generative AI tool like ChatGPT or Google's Bard AI](https://www.makeuseof.com/chatgpt-vs-google-bard/) is the ability of these tools to generate content that matches your request. You ask ChatGPT to write a poem in the style of William Shakespeare, and you get something strikingly similar to Shakespeare's work. You ask it to create a speech in the style of Donald Trump, and you'd get something that impressively mimics the tone of the former US president. So, how is this possible? How is generative AI able to pull off such a fascinating feat?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Generative AI Works
 
  The working mechanism of a generative AI model involves a complex interplay of various deep-learning techniques and algorithms. The exact details of how a generative model works depend on its goals and the underlying architecture. For instance, a generative model for generating audio snippets will have a different working mechanism from one meant for generating videos or text.
@@ -55,10 +62,10 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 ![chatgpt 4 answer question on number of data points june 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-4-answer-question-on-number-of-data-points-june-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  GPT, developed by OpenAI, is among the most recognizable names in the generative AI space. Its popularity hinges on its effectiveness as a conversational AI model and the viral success of the ChatGPT chatbot, which uses GPT as its underlying technology. It is a large language model designed to generate human-like text when prompted. Typical of any generative AI model, [all iterations of the GPT model](https://www.makeuseof.com/gpt-models-explained-and-compared/) have been trained on a massive amount of diverse text data.
@@ -68,16 +75,10 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  PaLM, an experimental large language model by Google, is a powerful generative AI model capable of performing a large range of tasks like creative writing, code generation, language translation, and a number of other text-based natural language tasks. Like GPT, PaLM was trained on a large corpus of text data sourced from a wide array of sources across the web. It is [the AI model that powers Google's Bard AI](https://www.makeuseof.com/what-is-google-palm-2/).
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Music Language Model (MusicLM)
@@ -90,13 +91,6 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
  Beyond generative AI models, you'll also find generative AI products like Midjourney, DALL-E image generator, Stable Diffusion image generator, Hugging Chat, and several other impressive AI products powered by generative AI models.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Has Generative AI Exploded In Popularity?
 
  On 30th November 2022, OpenAI CEO Sam Altman announced the launch of ChatGPT in a tweet. Despite being OpenAI's CEO, Altman was relatively unknown in the larger internet community, and his tweet came with little to no fanfare.
@@ -106,6 +100,19 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  While ChatGPT has been the tip of the spear in propelling the hype around generative AI, it didn't do it alone. 2022 will be remembered as the year generative AI tools went mainstream. From conversational AI chatbots to code and art generators, the second half of 2022 was the first time multiple AI tools that had both mass appeal and practical day-to-day uses had hit the market. With these tools came the popularity of its underlying technology—generative AI.
 
  Generative AI tools such as Bing AI, Google's Bard, DALL-E, ChatGPT, and Midjourney have seamlessly woven themselves into the fabric of our daily lives, constantly presenting us with their remarkable creations. Whether it's the captivating write-ups crafted by ChatGPT or the astonishingly lifelike images conjured by Midjourney, generative AI has become an ever-present companion, accompanying us day in and day out. This is the genesis of the recent popularity of generative AI.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Embrace Generative AI
 
@@ -126,5 +133,18 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-reclaiming-acoustics-lost-in-social-media-videos/"><u>[New] In 2024, Reclaiming Acoustics Lost in Social Media Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-innovative-5-websites-eclipsing-twitter/"><u>[Updated] 2024 Approved Innovative 5 Websites Eclipsing Twitter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-prompt-injection-paves-way-for-ai-abuse/"><u>How Prompt Injection Paves Way for AI Abuse</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-c210-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia C210 To Phone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-note-50-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme Note 50 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leap-into-advanced-communication-chrome-add-on-for-gpt/"><u>Leap Into Advanced Communication - Chrome Add-On for GPT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/level-up-your-gaming-with-the-latest-geforce-rtx-2080-ti-graphics-card-drivers/"><u>Level Up Your Gaming with the Latest GeForce RTX 2080 Ti Graphics Card Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-3-in-the-development-of-web-interfaces/"><u>Mastering GPT-3 in the Development of Web Interfaces</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-audacity-for-top-notch-audio-recording/"><u>Navigating Audacity for Top-Notch Audio Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-guide-to-choosing-an-iphone-ecase-for-your-latest-model-uncover-why-you-need-one-now/"><u>The Essential Guide to Choosing an iPhone eCase for Your Latest Model - Uncover Why You Need One Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-of-gpt-3-at-openai-sandbox/"><u>Unlocking the Secrets of GPT-3 at OpenAI Sandbox</u></a></li>
+</ul></div>
 

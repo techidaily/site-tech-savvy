@@ -1,7 +1,7 @@
 ---
 title: "Silicon Smile Stimulators: Can Giggle Codecs Engage Emotion?"
-date: 2024-10-24T20:42:40.385Z
-updated: 2024-10-26T23:50:51.051Z
+date: 2024-10-30T18:48:40.873Z
+updated: 2024-11-01T17:19:57.739Z
 tags:
   - chatgpt
   - open-ai
@@ -47,22 +47,15 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
 * **Joke One:** A snake walks into a bar – The barman says to it, "how did you do that?"
 * **Joke Two:** A man walks into a bar with a piece of asphalt under his arm. He says to the bartender, "I'll take a beer and one for the road."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Can ChatGPT Do?
 
 ![Screenshot of ChatGPT Knock Knock Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-knock-knock-joke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is an evolving technology that has limitations. It is unlikely to replace stand-up comedians anytime soon. But is it a useful tool for comedy? Let's discuss some of the ways that AI can be used in comedy.
@@ -77,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
 * **Joke Four:** Knock Knock! _Who's there?_ Boo. _Boo who_? Don't cry, it's just a computer program making jokes!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Can't ChatGPT Do?
@@ -88,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
 ![Screenshot ChatGPT Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-chatgpt-joke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When it comes to comedy and laughter, there is still plenty that AI can't do. For instance, human nature means that we often laugh at things that shouldn't be funny. A browse through "fail videos" on YouTube illustrates this point perfectly.
@@ -106,6 +99,19 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
 
 * **Joke Five:** Why don't scientists trust atoms? Because they make up everything!
 * **Joke Six:** I saw this advert in a window that said: "Television for sale, $1, volume stuck on full." I thought, "I can't turn that down."
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Future of AI In Comedy?
 
@@ -149,18 +155,17 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-binge-worthy-vids-the-most-shared-content-on-fb-featured-here/"><u>[New] 2024 Approved Binge-Worthy Vids! The Most Shared Content on FB Featured Here</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-mastering-the-art-of-embedding-youtube-playlist-content/"><u>[Updated] In 2024, Mastering the Art of Embedding YouTube Playlist Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simplified-techniques-for-browsing-youtube-comments/"><u>2024 Approved Simplified Techniques for Browsing YouTube Comments</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-on-hardware-fundamentals-and-operation/"><u>Artificial Intelligence on Hardware: Fundamentals and Operation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-magic-demystifying-its-code-translation-capabilities/"><u>ChatGPT's Magic: Demystifying Its Code Translation Capabilities</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effortlessly-unify-pictures-of-the-same-individual-from-different-albums-using-iphonemac/"><u>Effortlessly Unify Pictures of the Same Individual From Different Albums Using iPhone/Mac</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-xr-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-big-brains-thoughts-on-ai/"><u>Inside the Big Brains' Thoughts on AI</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/lens-clarity-not-cloudiness-anti-fog-tips-for-gopro/"><u>Lens Clarity, Not Cloudiness Anti-Fog Tips for GoPro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-common-users-guide-to-task-ai-choices/"><u>The Common User's Guide to Task AI Choices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/threads-in-time-looms-guide-to-capturing-moments/"><u>Threads in Time Loom’s Guide to Capturing Moments</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-gpt-on-pc-the-freedomgpt-way/"><u>Unleashing GPT on PC: The FreedomGPT Way</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unlocking-yesteryears-visions-with-reverse-scans-in-social-media-world-facebook-for-2024/"><u>Unlocking Yesteryear's Visions with Reverse Scans in Social Media World (Facebook) for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-enjoy-infinite-fun-top-10-offline-ios-games-unplugged/"><u>[New] In 2024, Enjoy Infinite Fun - Top 10 Offline iOS Games Unplugged</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-art-of-instagram-videography-capturing-attention/"><u>[Updated] In 2024, The Art of Instagram Videography Capturing Attention</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-cd-manipulation-with-wmp/"><u>[Updated] Streamlining Cd Manipulation with WMP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-honor-magic-5-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Honor Magic 5?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-reactivate-a-frozen-chatgpt-on-iphones/"><u>How to Reactivate a Frozen ChatGPT on iPhones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-oppo-find-n3-flip-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Oppo Find N3 Flip.</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-lava-blaze-pro-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Lava Blaze Pro 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-m54-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy M54 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-magical-movies-on-a-budget-with-chatgpt-assisted-scripts/"><u>Making Magical Movies on a Budget with ChatGPT-Assisted Scripts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pitting-two-titans-of-chatbots-gpt-and-huggingchat/"><u>Pitting Two Titans of ChatBots: GPT & HuggingChat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-webp-to-jpegpng-conversion-with-dall-e-3/"><u>Simplifying WebP to JPEG/PNG Conversion with DALL-E 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-tabletop-experience-with-gpt-powered-imagination-boosting/"><u>Transformative Tabletop Experience with GPT-Powered Imagination Boosting</u></a></li>
 </ul></div>
 

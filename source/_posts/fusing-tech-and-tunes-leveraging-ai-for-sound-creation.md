@@ -1,7 +1,7 @@
 ---
 title: "Fusing Tech and Tunes: Leveraging AI for Sound Creation"
-date: 2024-10-25T18:33:11.977Z
-updated: 2024-10-26T23:23:31.043Z
+date: 2024-10-28T17:00:39.068Z
+updated: 2024-11-01T17:21:55.608Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
  In the title of each track is the name of the plugin type we used, such as distortion or delay, plus the keywords we used in the prompt i.e., dense, watery, psychedelic, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Prompt Format
 
  There are numerous ways you can ask [ChatGPT](https://chat.openai.com/) to help you craft a sound. After successive experiments, we came up with the following prompt format that is concise, while producing all the necessary information.
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
  Keep in mind that every plugin is unique and will have different types of controls with various names. So fill in the blank part of the prompt with a list of parameters that matches the plugin you are using.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Applying the Settings to Your Plugin
@@ -87,19 +94,6 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
  It may be tiring to hear, but nonetheless true.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tips and Tricks
 
  In addition to the basic prompt format that we've outlined, there are a few extra things you can experiment with. These tips and tricks will help you play with, or expand on, ChatGPT's responses.
@@ -111,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 ![A table produced by ChatGPT including recommended audio settings plus explanations.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-table-explanation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Follow-Up Questions
@@ -129,14 +123,14 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
 ![Screenshot of ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-variations.jpg)
 
- Additionally, look for a couple of arrows near the top left-hand side of ChatGPT's response. You can use them to move back and forth between the different results.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Additionally, look for a couple of arrows near the top left-hand side of ChatGPT's response. You can use them to move back and forth between the different results.
 
 ## ChatGPT: An Unsuspecting Music Production Tool
 
@@ -163,17 +157,22 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-does-the-law-apply-to-video-sharing-on-facebook-for-2024/"><u>[Updated] How Does the Law Apply to Video Sharing on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-best-practices-for-filming-and-sharing-immersive-content-on-fb/"><u>[Updated] In 2024, Best Practices for Filming and Sharing Immersive Content on FB</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-influencer-growth-on-instagram-top-5-steps-with-real-success/"><u>[Updated] In 2024, Navigating Influencer Growth on Instagram Top 5 Steps with Real Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44cm44ox44ot44k744k544oe44kk44ol44oz44kw44gu6kmz57sw6kej6kqs77ya44gp44gg44gx44gm6yen6kab44gl77yf44cn/"><u>「プロセスマイニングの詳細解説：どうして重要か？」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-abbyy-flexicapture-enhances-trn-groups-invoicing-efficiency-through-automation/"><u>1. ABBYY FlexiCapture Enhances TRN Group's Invoicing Efficiency Through Automation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-enhanced-traffic-insights-with-our-state-of-the-art-cookiebot-technology/"><u>1. Enhanced Traffic Insights with Our State-of-the-Art Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-blog-the-five-biggest-challenges-facing-developers-with-receipt-ocr-technology/"><u>ABBYY Blog: The Five Biggest Challenges Facing Developers with Receipt OCR Technology</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-play-games-using-airpods-on-a-nintendo-switch-heres-why/"><u>Can You Play Games Using AirPods on a Nintendo Switch? Here's Why!</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/guia-paso-a-paso-para-recuperar-datos-de-un-iphone-sin-respaldo/"><u>Guía Paso a Paso Para Recuperar Datos De Un iPhone Sin Respaldo</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-tecno-phantom-v-fold-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Tecno Phantom V Fold IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-are-you-looking-for-a-video-dubbing-software-for-pc-with-a-free-download-option-here-is-a-detailed-comparison-of-the-6-best-video-dubbing-software-f/"><u>Updated Are You Looking for a Video Dubbing Software for PC with a Free Download Option? Here Is a Detailed Comparison of the 6 Best Video Dubbing Software for PC for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-abbyy2020/"><u>デジタルインテリジェンスとその6つの魅力的な物語 - ABBYYブログで読むべき2020年</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems/"><u>[New] 2024 Approved A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-10-must-have-terraria-extensions-for-2024/"><u>[New] Top 10 Must-Have Terraria Extensions for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-explore-these-ten-booming-youtube-sources-to-uplift-yourself/"><u>[Updated] In 2024, Explore These Ten Booming YouTube Sources to Uplift Yourself</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-jest-jamboree-utilizing-comic-tools-for-free/"><u>[Updated] In 2024, Jest Jamboree Utilizing Comic Tools for Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exceeding-chatgpts-maximum-characters-how/"><u>Exceeding ChatGPT's Maximum Characters: How?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-claude-pros-features-against-gptplusplus/"><u>Exploring Claude Pro's Features Against GPT+Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-master-gpts-text-limit-bounds/"><u>How to Master GPT’s Text Limit Bounds?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-excel-complexities-with-chatgpt-support/"><u>Navigating Excel Complexities with ChatGPT Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-of-bots-is-ai-claude-the-future-star/"><u>New Era of Bots: Is AI Claude the Future Star?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-to-joining-the-ai-world-of-bing-search/"><u>Quick Guide to Joining the AI World of Bing Search</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectify-fixing-windows-compatibility-for-jetpro400-printer-driver/"><u>Rectify: Fixing Windows Compatibility for JetPro400 Printer Driver</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sham-chatgpt-tool-snatches-fb-login-data/"><u>Sham ChatGPT Tool: Snatches FB Login Data</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/transferring-tunes-three-methods-for-uploading-your-music-from-iphone-or-pc-to-icloud/"><u>Transferring Tunes: Three Methods for Uploading Your Music From iPhone or PC to iCloud</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-predictive-ai-a-simplified-overview/"><u>Understanding Predictive AI - A Simplified Overview</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-seo-guide-for-beginners-who-want-more-views/"><u>YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
 </ul></div>
 

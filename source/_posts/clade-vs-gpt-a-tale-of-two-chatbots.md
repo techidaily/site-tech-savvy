@@ -1,7 +1,7 @@
 ---
 title: "Clade vs GPT: A Tale of Two Chatbots"
-date: 2024-10-22T21:57:19.469Z
-updated: 2024-10-26T17:29:48.535Z
+date: 2024-10-27T17:35:15.722Z
+updated: 2024-11-01T18:43:22.896Z
 tags:
   - chatgpt
   - open-ai
@@ -66,29 +66,9 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 
 ![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Moving on, we asked both chatbots to solve **8/a-1 = 20/3a-1**, a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of **\-3** at the first attempt.
 
@@ -99,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Creativity
 
@@ -115,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 ![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
@@ -142,16 +129,10 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
@@ -159,6 +140,13 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -183,21 +171,18 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-convert-subtitles-effortlessly-top-8-best-converters-from-sub-to-srt-format/"><u>[New] Convert Subtitles Effortlessly - Top 8 Best Converters From SUB to SRT Format</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-nimbusaieditor-soaring-edits-to-new-heights/"><u>[New] NimbusAiEditor Soaring Edits to New Heights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-screens-ever-the-ultimate-top-ten/"><u>2024 Approved Best Screens Ever – The Ultimate Top Ten</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/a-step-by-step-approach-to-professional-ps4-gaming-recordings-for-2024/"><u>A Step-by-Step Approach to Professional PS4 Gaming Recordings for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/biz-prowess-boosted-new-era-of-communication-with-gpt-and-whisper/"><u>Biz Prowess Boosted: New Era of Communication with GPT & Whisper</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypass-expense-with-gpt-4-essential-methods-uncovered/"><u>Bypass Expense with GPT-4: Essential Methods Uncovered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/code-crafting-conundrum-github-copilot-versus-gpt-3/"><u>Code Crafting Conundrum: GitHub Copilot Versus GPT-3?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-harmonies-with-ai-chatgpt-for-daw-users/"><u>Crafting Harmonies with AI - ChatGPT for DAW Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-activate-moonlight-setting-in-your-iphone-effortlessly/"><u>How To Activate Moonlight Setting In Your iPhone Effortlessly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-13t-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi 13T Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transition-smoothly-with-chromes-picture-in-picture/"><u>In 2024, Transition Smoothly with Chrome’s Picture In Picture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scriptwriting-simplified-chatgpts-creative-methodologies/"><u>Scriptwriting Simplified: ChatGPT's Creative Methodologies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-insidious-art-of-online-manipulation/"><u>The Insidious Art of Online Manipulation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-infinix-note-30-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Infinix Note 30 Pro for Streaming | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-5-methods-downscaling-4k-footage-to-1080p-using-your-computer-or-web-services/"><u>Top 5 Methods: Downscaling 4K Footage to 1080P Using Your Computer or Web Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-chatgpts-potential-with-plugins/"><u>Unlocking ChatGPT's Potential with Plugins</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-preserving-every-moment-of-your-switch-gaming/"><u>[New] 2024 Approved Preserving Every Moment of Your Switch Gaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-instagram-incorporating-music-in-videos-and-stories/"><u>[New] In 2024, Mastering Instagram Incorporating Music in Videos & Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-a-noiseless-presence-on-social-video-platforms/"><u>[Updated] 2024 Approved Achieving a Noiseless Presence on Social Video Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-your-favorite-top-10-youtube-and-facebooks-music-gems/"><u>2024 Approved Your Favorite Top 10 YouTube & Facebook's Music Gems</u></a></li>
+<li><a href="https://win-online.techidaily.com/baixe-o-disco-de-inicializacao-do-linux-bootavel-do-aomei-backupper/"><u>Baixe O Disco De Inicialização Do Linux Bootável Do AOMEI Backupper</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enabled-personalization-boosting-your-websites-seo-performance/"><u>Cookiebot-Enabled Personalization: Boosting Your Website's SEO Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioning-an-ai-enhanced-future-of-emotional-wellness-care/"><u>Envisioning an AI-Enhanced Future of Emotional Wellness Care</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-idea-to-interface-building-web-applications-with-gpt-3/"><u>From Idea to Interface: Building Web Applications with GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-free-software-for-ai-image-fabrication/"><u>Premier Free Software for AI Image Fabrication</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-information-on-claude-3s-functions/"><u>The Essential Information on Claude 3'S Functions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-leap-in-ai-beyond-turings-vision/"><u>The Next Leap in AI: Beyond Turing's Vision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-codegpt-ais-role-in-software-creation/"><u>Understanding CodeGPT: AI’s Role in Software Creation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-f25-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo F25 Pro 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

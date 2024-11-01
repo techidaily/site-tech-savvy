@@ -1,7 +1,7 @@
 ---
 title: "Future Foresight: Defying Turing's Experiment"
-date: 2024-10-22T18:24:55.836Z
-updated: 2024-10-26T21:52:15.768Z
+date: 2024-10-25T16:25:45.360Z
+updated: 2024-11-01T18:10:55.721Z
 tags:
   - chatgpt
   - open-ai
@@ -59,15 +59,22 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
@@ -79,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
  Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Google's LaMBDA
 
@@ -106,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ChatGPT
@@ -119,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
@@ -152,20 +152,22 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-elevate-engagement-mastering-the-art-of-looped-videos-for-ig-for-2024/"><u>[New] Elevate Engagement Mastering the Art of Looped Videos for IG for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoid-common-pitfalls-with-these-6-inessential-gpt-tools/"><u>Avoid Common Pitfalls with These 6 Inessential GPT Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-health-crafting-achievable-objectives/"><u>ChatGPT & Health: Crafting Achievable Objectives</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-instructions-for-transmitting-oral-notes-with-iphones-built-in-tools-and-apps/"><u>Effortless Instructions for Transmitting Oral Notes with iPhone's Built-In Tools and Apps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-microsoft-edge-browser-crashes-on-windows-10-a-step-by-step-guide/"><u>Fixing Microsoft Edge Browser Crashes on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-wellness-experiences-top-7-smart-plugins/"><u>Innovate Wellness Experiences: Top 7 Smart Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-chatgpt-my-bots-for-gameplay-visuals-plus-more/"><u>Leverage ChatGPT My Bots for Gameplay, Visuals, Plus More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-truth-in-ai-medical-advice-fact-checking-techniques/"><u>Mastering Truth in AI Medical Advice: Fact-Checking Techniques</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>New In 2024, In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/smoothing-playback-the-truth-behind-frozen-photo-booth-videos-for-2024/"><u>Smoothing Playback The Truth Behind Frozen Photo Booth Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-why-relying-solely-on-chatgpt-is-misguided-for-writers/"><u>The Hidden Dangers: Why Relying Solely on ChatGPT Is Misguided for Writers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-medicine-through-conversational-ai/"><u>Transforming Medicine Through Conversational AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-language-processing-vs-learning-techniques/"><u>Unpacking Language Processing vs Learning Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-innovative-techniques-for-compelling-youtube-beginnings/"><u>[New] Innovative Techniques for Compelling YouTube Beginnings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-mirroring-mastery-the-craft-of-comical-mocks/"><u>[New] Mirroring Mastery The Craft of Comical Mocks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionize-your-podcasts-rankings-with-effective-seo-methods/"><u>[New] Revolutionize Your Podcast's Rankings with Effective SEO Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-modern-courtship-landscape/"><u>AI and the Modern Courtship Landscape</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/detailed-guide-to-screen-record-skype-via-obs/"><u>Detailed Guide to Screen Record Skype via OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guiding-kids-through-ai-dialogues-safely-the-top-5-advice/"><u>Guiding Kids Through AI Dialogues Safely: The Top 5 Advice</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-reno-10-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mobile-optimization-techniques-for-chatgpt/"><u>Mobile Optimization Techniques for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-your-files-better-with-ai-powered-chat-tools/"><u>Navigate Your Files Better with AI-Powered Chat Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-new-era-with-powerdirector-app-2024-edition/"><u>Navigating the New Era with PowerDirector App 2024 Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-auditory-functionality-updating-drivers-in-win11/"><u>Revamp Auditory Functionality – Updating Drivers in Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speculating-on-the-future-gpt-5s-expected-release/"><u>Speculating on the Future: GPT-5's Expected Release?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/symbolic-financial-guidance/"><u>Symbolic Financial Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-enigma-of-codegpt-writing-codes-without-humans/"><u>The Enigma of CodeGPT: Writing Codes without Humans?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210772145-9798987754238-the-greater-purpose/"><u>The Greater Purpose | Free Book</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-new-era-of-youtube-branding-best-titles-for-video-content-creators-limit-it-to-156-characters/"><u>The New Era of YouTube Branding Best Titles for Video Content Creators (Limit It to 156 Characters)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thwarting-artistic-mimicry-nightshades-guide-in-the-age-of-ai/"><u>Thwarting Artistic Mimicry: Nightshade's Guide in the Age of AI</u></a></li>
 </ul></div>
 

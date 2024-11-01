@@ -1,7 +1,7 @@
 ---
 title: "TruthCoin: Reliable or Risky Venture?"
-date: 2024-09-11T16:33:33.289Z
-updated: 2024-09-17T16:28:44.455Z
+date: 2024-10-31T17:47:24.676Z
+updated: 2024-11-01T17:28:45.864Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ Close
 
  Now, the second TruthGPT Coin has linked itself to [Elon Musk's TruthGPT AI project](https://www.makeuseof.com/what-is-truthgpt/) to gain a semblance of legitimacy, though it notes that TruthGPT Coin is a community effort and isn't affiliated with Musk. It doesn't feature any Musk imagery but talks about him throughout the site and claims to use artificial intelligence to "seek out and evaluate information in order to arrive at the most accurate and reliable understanding of the world."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is TruthGPT Coin a Scam?
 
  The allegations levied against TruthGPT Coin certainly make it appear so.
@@ -61,6 +68,13 @@ Close
  According to [Decrypt](https://decrypt.co/138785/texas-cease-and-desist-ai-scams-fake-elon-musk-truthgpt-coin), other state regulators are backing Texas' cease and desist order, including the Alabama Securities Commission, the Montana State Auditor, the Kentucky Department of Financial Institutions, and the New Jersey Securities Bureau.
 
  The TruthGPT Coin entry on [CoinMarketCap](https://coinmarketcap.com/currencies/truthgpt/) also suggests something fishy is going on. It currently displays a banner informing would-be users that, "According to [Gopluslabs](https://gopluslabs.io/token-security/1/0xaf75d880b3128981d1fed3292fc02e3fb37acd53), the smart contract of the following asset can be modified by the contract creator (for example: disable selling, change fees, mint new tokens, or transfer tokens). Please exercise caution before taking any action and DYOR."
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Watch Out for Scam Tokens Involving ChatGPT, AI, and Elon Musk
 
@@ -87,12 +101,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-cut-the-cost-not-your-content-quality-try-these-top-8-free-tools/"><u>[New] Cut The Cost, Not Your Content Quality - Try These Top 8 Free Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-advanced-tips-for-zoom-meetings-on-chromebooks/"><u>[New] In 2024, Advanced Tips for Zoom Meetings on ChromeBooks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-innovative-no-cost-solutions-for-modern-photography-enhancements/"><u>[Updated] 2024 Approved Innovative No-Cost Solutions for Modern Photography Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-fans-rejoice-lg-tvs-receive-a-revolutionary-audio-upgrade-to-boost-your-viewing-pleasure-as-reported-by-zdnet/"><u>Apple Fans Rejoice: LG TVs Receive a Revolutionary Audio Upgrade to Boost Your Viewing Pleasure, as Reported by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-quests-and-characters-chatgpts-role-in-interactive-storytelling/"><u>Crafting Quests and Characters: ChatGPT's Role in Interactive Storytelling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exciting-new-update-alert-unveiling-essential-safety-communications-on-your-iphone-with-the-latest-ios-18-upgrade-discover-more-without-ai/"><u>Exciting New Update Alert! Unveiling Essential Safety Communications on Your iPhone with the Latest iOS 18 Upgrade - Discover More Without AI!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-browser-leader-challenged-by-apples-intriguing-new-advertisement-discover-more-on-zdnet/"><u>Global Browser Leader Challenged by Apple's Intriguing New Advertisement - Discover More on ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-dilemma-demystified-in-depth-analysis-and-decision-factors-between-macbook-air-vs-macbook-pro-for-tech-savvy-users-wired/"><u>MacBook Dilemma Demystified: In-Depth Analysis & Decision Factors Between MacBook Air Vs. MacBook Pro for Tech Savvy Users | Wired</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/neueste-fortschritte-in-der-formularerfassung-erleben-sie-die-innovation-von-abbyy-bei-der-pruffirma-in-duderstadt/"><u>Neueste Fortschritte in Der Formularerfassung: Erleben Sie Die Innovation Von ABBYY Bei Der Prüffirma in Duderstadt</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-download-vllo-for-mac-and-get-alternatives/"><u>New Download VLLO for Mac and Get Alternatives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/simplify-zoom-a-comprehensive-guide-to-blurry-borders/"><u>Simplify Zoom A Comprehensive Guide to Blurry Borders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-the-best-magsafe-battery-packs-features-and-comparisons-zdnet/"><u>The Ultimate Guide to Choosing the Best MagSafe Battery Packs - Features & Comparisons | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-creative-chatgpt-side-chrome-extension-advantage/"><u>Unlock Your Creative ChatGPT Side - Chrome Extension Advantage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-androids-journey-with-bing-and-ai/"><u>Unlocking the Potential: Android's Journey with Bing and AI</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winter-wonderland-windows-celebrate-the-holiday-season/"><u>Winter Wonderland Windows: Celebrate the Holiday Season</u></a></li>
+</ul></div>
 

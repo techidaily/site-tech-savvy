@@ -1,7 +1,7 @@
 ---
 title: "GPT's Thresholds: What It Can't Understand"
-date: 2024-09-16T18:25:52.211Z
-updated: 2024-09-22T17:46:57.392Z
+date: 2024-10-29T18:27:01.003Z
+updated: 2024-11-01T16:37:40.354Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
  Evidently, there are some boundaries that ChatGPT is designed not to cross. But how do these boundaries affect your experience? What questions and topics does ChatGPT avoid, and what can it not do?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Provide Recent Information
 
  ChatGPT was trained on huge amounts of data, but this data only led up to September 2021\. ChatGPT has no access to information beyond this point in time, meaning it cannot answer questions on events that took place in recent years.
@@ -53,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  As you can see below, when ChatGPT was asked to list the biggest events of 2022, it confirmed that providing real-time data was not something it could do.
 
 ![chatgpt conversation screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-2022-request.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're looking for recent news, weather updates, and other real-time data, ChatGPT won't be of much use. [Other AI chatbots like Claude](https://www.makeuseof.com/what-is-claude-ai-why-use-it/) have been trained with more recent information, but you still won't be able to access data less than a few months old.
 
@@ -65,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  Since this story emerged, others have tried using ChatGPT to write malware, sometimes successfully. This fact alone has raised concerns about how AI can be abused for malicious purposes.
 
  However, the current versions of ChatGPT only seem to be able to write simple malware programs, which can also be buggy at times. But regardless of this, [the chatbot can be exploited for malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/).
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Invade Personal Privacy or Security
 
@@ -97,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  Additionally, ChatGPT will not engage with any prompts that promote harm to the user or others.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Provide Its Own Opinion
@@ -113,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
 
 ![chatgpt opinion request screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-opinion-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
 
 ## 7\. Look Up Web Results
@@ -131,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
  ChatGPT Plus is a paid subscription that costs $20 monthly. If you use ChatGPT a lot and want access to all the service's features, you may want to consider upgrading to Plus.
 
  At the time of writing, ChatGPT's browsing feature is disabled but is expected to return in the future.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Isn't an All-in-One Solution
 
@@ -160,5 +167,20 @@ thumbnail: https://thmb.techidaily.com/7839baf4c4540572c890f045a91dd3063abe0e773
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-enhancing-lighting-and-shadows-in-obs-video/"><u>[New] 2024 Approved Enhancing Lighting and Shadows in OBS Video</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-find-facebook-recently-watched-videos/"><u>[New] In 2024, How to Find Facebook Recently Watched Videos?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-digital-chronicles-recording-and-preserving-your-roblox-playthroughs-on-macos/"><u>[Updated] In 2024, Digital Chronicles Recording and Preserving Your Roblox Playthroughs on MacOS</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1-academic-boost-effective-study-techniques-for-enhanced-learning/"><u>1. Academic Boost: Effective Study Techniques for Enhanced Learning</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/1-step-by-step-guide-converting-and-sharing-your-avchd-mts-videos-on-youtube/"><u>1. Step-by-Step Guide: Converting and Sharing Your AVCHD MTS Videos on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-writing-enhanced-by-gpts-nine-techniques/"><u>Creative Writing Enhanced by GPT's Nine Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/data-dominance-5-picks-for-efficient-gpt-3-data-handling/"><u>Data Dominance: 5 Picks for Efficient GPT-3 Data Handling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-cybersecurity-of-ai-dialogues/"><u>Deciphering the Cybersecurity of AI Dialogues</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/effortless-guide-downloading-and-enjoying-high-quality-mkv-films-using-5kplayer/"><u>Effortless Guide: Downloading & Enjoying High-Quality MKV Films Using 5KPlayer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/lost-footage-immediate-removal-impacts/"><u>Lost Footage Immediate Removal Impacts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-sticking-with-your-old-phone-means-losing-out-discover-the-benefits-of-switching-to-iphone-15-insights-from-apple/"><u>Why Sticking with Your Old Phone Means Losing Out: Discover the Benefits of Switching to iPhone 15 - Insights From Apple</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-overlook-apples-help-resources-a-deep-dive-into-the-top-reasons-to-use-them/"><u>Why You Shouldn't Overlook Apple's Help Resources - A Deep Dive Into the Top Reasons to Use Them</u></a></li>
+</ul></div>
 

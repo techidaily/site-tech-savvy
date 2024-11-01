@@ -1,7 +1,7 @@
 ---
 title: "Wilderness Wisdom From AI: Can It Prevent Danger?"
-date: 2024-10-21T22:24:01.089Z
-updated: 2024-10-26T16:27:13.763Z
+date: 2024-10-29T17:20:40.029Z
+updated: 2024-11-01T18:09:57.492Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
 ![a brown bear looking mean](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-brown-bear-looking-mean.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Bears are found on every continent except Africa, and if you're backpacking through the wild and untamed spaces of the world, it's not inconceivable that you might encounter one. Unfortunately, while Wikipedia's [Bear Danger](https://en.wikipedia.org/wiki/Bear%5Fdanger) page contains some of the information we needed, there's little concrete advice. In a dangerous situation, we wouldn't have time to scan through the 1,042-word article.
 
  ChatGPT was more succinct, and after warning, "Encountering a bear can be a dangerous situation," summed up our options in seven points.
@@ -56,22 +63,16 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
  ChatGPT had very little to say on how to actually fight off a bear.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Catch Salmon Without Fishing Equipment
 
 ![fresh salmon on ice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fresh-salmon-on-ice.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're off-grid and out-of-touch, keeping yourself fed has to be a priority. Fortunately, in our scenario, there's a river nearby, and you can see the silver flashes of salmon as they swim upstream to the spawning grounds. Unfortunately, you don't have any rods or nets.
 
@@ -86,15 +87,22 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
  We feel confident that at least one of these methods would work.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Survive the Night in a Blizzard With No Shelter
 
 ![an igloo style snow shelter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/an-igloo-style-snow-shelter.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The weather's taken a turn for the worse, and having escaped the bears and enjoyed raw salmon for supper, you find yourself cold and afraid as high winds and snow whip around you. So you turn to your friendly chatbot for help.
 
@@ -108,28 +116,15 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
  While we're not 100% certain that you'll survive the night, we feel that following ChatGPT's advice will dramatically increase your chances.
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## I'm Being Hunted by a Pack of Wolves. What Should I Do?
 
 ![Young Wolves Biting Each Other on Snow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/young-wolves-biting-each-other-on-snow-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Evading predators should always be high on your list while wilderness exploring, and ChatGPT's advice is similar to that offered when asked how to fight a bear.
@@ -185,13 +180,6 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
  The best advice is to wait for rescue. It's a known fact that certain Collie breeds are attracted to mineshafts and have been known to bring help from settlements in the area.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You Can't Depend on ChatGPT in an Emergency
 
  ChatGPT's advice was middling at best. Most of the answers it gave were common sense, and in several cases, it completely ignored parts of the prompt.
@@ -219,18 +207,18 @@ thumbnail: https://thmb.techidaily.com/3940086541c823408b7e3893cd4adcfe04714cf8a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-guide-to-choosing-vocal-change-software/"><u>[New] The Ultimate Guide to Choosing Vocal Change Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-free-lut-strategies-for-enhancing-ar-experiences/"><u>[Updated] Free LUT Strategies for Enhancing AR Experiences</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-precise-obs-settings-for-inexpensive-hardware/"><u>[Updated] Precise OBS Settings for Inexpensive Hardware</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-top-workplace-cloud-storage-networks/"><u>[Updated] Top Workplace Cloud Storage Networks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-15-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 15 Pro Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/honesty-as-a-learner-refusing-cheap-ai-solutions/"><u>Honesty as a Learner: Refusing Cheap AI Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-find-someone-a-guide-to-the-top-8-search-engines/"><u>How to Find Someone: A Guide to the Top 8 Search Engines</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-snapseed-starters-handbook-for-photo-editing/"><u>In 2024, The Snapseed Starter's Handbook for Photo Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-mastery-for-ai-enthusiasts-career-longevity-prospects/"><u>Prompt Engineering Mastery for AI Enthusiasts: Career Longevity Prospects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shielded-hiding-places-keeping-ai-conversations-quiet/"><u>Shielded Hiding Places: Keeping AI Conversations Quiet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/skepticism-on-zerogptsupersense-ai-detectors/"><u>Skepticism on ZeroGPT’supersense' AI Detectors</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-resolving-windows-11-and-11-bluetooth-sound-stuttering-problems/"><u>Solution Guide: Resolving Windows 11 & 11 Bluetooth Sound Stuttering Problems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-operations-and-applications-of-claude-2/"><u>The Operations and Applications of Claude 2</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-plotting-prime-promotional-summaries/"><u>2024 Approved Plotting Prime Promotional Summaries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/end-juxtaposing-siri-and-chatgpt-discerning-their-divergence/"><u>End Juxtaposing Siri & ChatGPT: Discerning Their Divergence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-smartphone-interaction-with-chatgpt/"><u>Enhancing Smartphone Interaction with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancers-guide-to-selecting-a-bot-is-bing-or-gpt-3-better/"><u>Freelancer's Guide to Selecting a Bot: Is Bing or GPT-3 Better?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy XCover 6 Pro Tactical Edition to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-c51-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco C51 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-generative-ai-becoming-a-new-tool-for-disinformation/"><u>Is Generative AI Becoming a New Tool for Disinformation?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-emojis-on-twitter-linuss-leaks-trojan-explained-and-chatbot-glitches-highlighted/"><u>No Emojis on Twitter, Linus’s Leaks, Trojan Explained, & ChatBot Glitches Highlighted</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-advantages-of-claude-3-over-gpt-3-top-4-facts/"><u>The Advantages of Claude 3 Over GPT-3 - Top 4 Facts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-karaoke-systems-ultimate-guide/"><u>Top-Rated Karaoke Systems: Ultimate Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unveiling-simple-techniques-for-effortless-undersea-vids-for-2024/"><u>Unveiling Simple Techniques for Effortless Undersea Vids for 2024</u></a></li>
 </ul></div>
 

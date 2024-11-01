@@ -1,7 +1,7 @@
 ---
 title: Excel Mastery Boosted by These ChatGPT Methods
-date: 2024-09-21T16:53:03.681Z
-updated: 2024-09-22T16:09:40.068Z
+date: 2024-10-30T17:03:43.876Z
+updated: 2024-11-01T18:20:59.904Z
 tags:
   - chatgpt
   - open-ai
@@ -75,12 +75,27 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 
 ![Excel macro example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/excel-macro-example-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have the required macro, let’s implement and run it:
 
 1. Press the **Alt** \+ **F11** keys on your keyboard to open the Visual Basic Editor.
 2. In the following window, navigate to **Insert** \> **Module**.  
 ![Insert a module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/inssert-module.jpg)
 3. Here, enter the code that you copied from ChatGPT earlier.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Close the dialog and clicking on **File** \> **Save as**.
 5. Expand the Save as type dropdown and choose **Excel Macro-Enabled Workbook**.
 6. Click **Save** to save the macro file.  
@@ -93,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
  This macro will now filter your data to show only the sales for the targeted region.
 
 ![Macro result in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/macro-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use ChatGPT to Automate Sending Emails
 
@@ -109,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
  Additionally, you can use ChatGPT to troubleshoot issues in Excel by providing it with the details of the error you are encountering. While there are a number of [things ChatGPT can't do in Excel](https://www.makeuseof.com/things-to-do-excel-chatgpt-cant/) yet, it's a great tool that can help you become a spreadsheet pro.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT to the Rescue
@@ -136,5 +158,19 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-10-secrets-from-pros-for-stellar-youtubers-music-videos/"><u>[New] 2024 Approved Top 10 Secrets From Pros for Stellar Youtubers' Music Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-fifa-highlights-and-trends-charting-on-youtube/"><u>[Updated] FIFA Highlights & Trends Charting on YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-truthgpt-coin-a-promising-investment/"><u>Is TruthGPT Coin a Promising Investment?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/key-divergences-between-gpt-and-bert-a-comprehensive-breakdown-of-two-leading-algorithms/"><u>Key Divergences Between GPT and BERT: A Comprehensive Breakdown of Two Leading Algorithms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peak-add-ons-maximizing-your-gpt-interaction-with-vs-code/"><u>Peak Add-Ons: Maximizing Your GPT Interaction with VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-work-and-adventures-the-three-new-features-upgrading-your-favorite-ar-glasses-insights-from-zdnet/"><u>Revolutionizing Work and Adventures: The Three New Features Upgrading Your Favorite AR Glasses | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shop-our-handpicked-selection-of-travelers-essentials-iphone-cases-portable-chargers-and-apple-watch-bands-with-a-sweet-20-discount-today/"><u>Shop Our Handpicked Selection of Traveler's Essentials: IPhone Cases, Portable Chargers & Apple Watch Bands with a Sweet 20% Discount Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-navigation-ais-emergence-on-digital-landscapes/"><u>Smart Navigation: AI's Emergence on Digital Landscapes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-the-silent-problem-restoring-audio-in-windows-media-player/"><u>Solve the Silent Problem: Restoring Audio in Windows Media Player</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tale-architecting-network-for-2024/"><u>Top Tale Architecting Network for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-picks-our-selection-of-best-traffic-enhancement-apps/"><u>Ultimate Picks: Our Selection of Best Traffic Enhancement Apps</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Apple Unveils Easier iPhone 16 Repairs - What's New & Why It Matters for Tech Enthusiasts | ZDNet
-date: 2024-10-21T22:15:05.188Z
-updated: 2024-10-26T22:06:34.698Z
+date: 2024-10-26T16:24:57.126Z
+updated: 2024-11-01T17:24:26.399Z
 tags:
   - apple
 categories:
@@ -45,10 +45,16 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +66,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,16 +83,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -131,16 +131,18 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/"><u>[New] Engaging Recorders Within Huawei Mate and P-Series for Video Capture</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unleashing-creativity-advanced-obs-techniques-explained/"><u>[Updated] In 2024, Unleashing Creativity Advanced OBS Techniques Explained</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-heirloom-next-level-ai-conversations/"><u>ChatGPT's Heirloom: Next-Level AI Conversations</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-ios-video-recorders-reviewed/"><u>Essential iOS Video Recorders Reviewed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/finding-your-niche-making-money-with-video-content-for-2024/"><u>Finding Your Niche Making Money with Video Content for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-genre-to-plot-gpts-top-9-writing-guidance-for-books/"><u>From Genre to Plot: GPT's Top 9 Writing Guidance for Books</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-pictures-to-possibilities-8-ways-chatgpt-shines-visually/"><u>From Pictures to Possibilities: 8 Ways ChatGPT Shines Visually</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-breakthrough-techniques-in-iphone-hdr-image-making/"><u>In 2024, Breakthrough Techniques in iPhone HDR Image Making</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-4-immediate-chatgpt-integration-tips/"><u>Mastering GPT-4: Immediate ChatGPT Integration Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-apis-explained-actions-and-applications/"><u>OpenAI APIs Explained: Actions and Applications</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-how-to-optimize-video-production-with-adobe-presenter/"><u>[Updated] In 2024, How to Optimize Video Production with Adobe Presenter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-musical-talent-with-magix-studio/"><u>[Updated] Unleashing Musical Talent with Magix Studio</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/battle-of-the-readers-which-is-superior-ipad-kindle-or-nook/"><u>Battle of the Readers: Which Is Superior - iPad, Kindle, or Nook?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-standard-features-and-applications/"><u>ChatGPT’s Standard Features and Applications</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/curated-collection-best-free-footage-websites-ranked-for-2024/"><u>Curated Collection Best Free Footage Websites Ranked for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-your-communication-master-chatgpt/"><u>Empower Your Communication: Master ChatGPT</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-full-scale-examination-unboxing-the-dji-phantom-4/"><u>In 2024, Full-Scale Examination Unboxing the DJI Phantom 4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-the-ai-revolution-with-gpt-3-and-python/"><u>Leading the AI Revolution with GPT-3 & Python</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-the-marketplace-30-advanced-fb-techniques-explored/"><u>Mastering the Marketplace 30 Advanced FB Techniques Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-ai-platforms-accelerating-cyber-search-success/"><u>Prime AI Platforms Accelerating Cyber Search Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-dangers-in-automated-psychological-assistance/"><u>Understanding Dangers in Automated Psychological Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-imagination-gpt-dall-e-in-crafting-dandd-characters/"><u>Unleashing Imagination: GPT, DALL-E in Crafting D&D Characters</u></a></li>
 </ul></div>
 

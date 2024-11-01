@@ -1,7 +1,7 @@
 ---
 title: Expert Guide to CodeGPT Integration in VS Code
-date: 2024-09-16T16:50:03.390Z
-updated: 2024-09-22T17:32:35.932Z
+date: 2024-10-31T18:27:14.795Z
+updated: 2024-11-01T17:07:28.985Z
 tags:
   - chatgpt
   - open-ai
@@ -78,9 +78,23 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![CodeGPT chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-chat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then input your request and click **Send**. In this case, the request is for a simple calculator. CodeGPT will process your request and generate your code in the chat window.
 
 ![CodeGPT code generation in the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-code-generation-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click on the "insert code" arrow to automatically paste the code into your script. As you can see, this method is more tidy. The generated code is as shown below:
 
@@ -129,20 +143,14 @@ else:
 
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  CodeGPT will explain what the code does on the chat window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Documenting Your Code Using CodeGPT
 
@@ -171,10 +179,10 @@ def divide(x, y):
  These are clear and correct inline comments.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Understanding How Generative AI Works
@@ -198,5 +206,26 @@ def divide(x, y):
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-one-step-guide-to-simultaneous-cam-plus-screen-recording/"><u>[New] 2024 Approved One Step Guide to Simultaneous Cam + Screen Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-wise-approach-to-organize-youtube-content-into-chapters/"><u>[New] Step-Wise Approach to Organize YouTube Content Into Chapters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-escape-the-top-chart-unexpected-flick-winners/"><u>[Updated] 2024 Approved Escape the Top Chart Unexpected Flick Winners</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-art-of-kinemaster-use-top-10-alternative-online-games-ranked/"><u>2024 Approved Unveiling the Art of KineMaster Use Top 10 Alternative Online Games Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-job-market-the-evolutionary-leap/"><u>AI-Powered Job Market – The Evolutionary Leap</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clade-vs-gpt-a-tale-of-two-chatbots/"><u>Clade vs GPT: A Tale of Two Chatbots</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/complete-directors-guide-to-powerdirector-24-software/"><u>Complete Director's Guide to PowerDirector '24 Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-tempo-detection-top-free-tools-unveiled/"><u>Cutting-Edge Tempo Detection Top Free Tools Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-to-terminate-your-iphones-app-store-subscriptions-in-ios-15-tips/"><u>Easy Steps to Terminate Your iPhone's App Store Subscriptions in iOS 15 - Tips !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-real-time-gpt-disruptions-quickly/"><u>Fixing Real-Time GPT Disruptions Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-unlocked-vital-updates-you-cant-ignore/"><u>GPT Unlocked: Vital Updates You Can't Ignore!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y100-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y100 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/luxury-lapping-titans-clash-samsung-galaxy-book-2-ultra-versus-apples-macbook-pro-the-exclusive-tech-face-off-digital-trends/"><u>Luxury Lapping Titans Clash: Samsung Galaxy Book 2 Ultra Versus Apple's MacBook Pro – The Exclusive Tech Face-Off | Digital Trends</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overhaul-black-screen-in-win11-after-update-fall/"><u>Overhaul Black Screen in Win11 After Update Fall</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snag-the-apple-10gen-ipad-for-only-299-exclusive-post-amazon-prime-deals/"><u>Snag the Apple 10Gen iPad for Only $299 - Exclusive Post-Amazon Prime Deals !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/struggling-with-cellular-signal-after-ios-1721-on-iphone-try-these-solutions-zdnet/"><u>Struggling with Cellular Signal After iOS 17.2.1 on iPhone? Try These Solutions | ZDNET</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/top-5-instagram-strategies-for-aspiring-influencers-real-success-stories-for-2024/"><u>Top 5 Instagram Strategies for Aspiring Influencers Real Success Stories for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/top-subcontracting-partners-for-expert-abbyy-solutions/"><u>Top Subcontracting Partners for Expert ABBYY Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-this-iphone-case-surpasses-physical-keyboards-with-its-remarkable-qualities/"><u>Why This iPhone Case Surpasses Physical Keyboards with Its Remarkable Qualities</u></a></li>
+</ul></div>
 

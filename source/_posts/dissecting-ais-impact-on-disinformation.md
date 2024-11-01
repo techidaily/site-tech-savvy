@@ -1,7 +1,7 @@
 ---
 title: Dissecting AI’s Impact on Disinformation
-date: 2024-10-23T21:43:01.477Z
-updated: 2024-10-26T22:14:32.085Z
+date: 2024-10-25T17:37:33.110Z
+updated: 2024-11-01T16:56:41.271Z
 tags:
   - chatgpt
   - open-ai
@@ -43,16 +43,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
@@ -69,26 +63,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -101,6 +82,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 * **Targeted personalization**: Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -119,10 +107,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by [The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -159,19 +147,19 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-strategies-for-incorporating-secondary-shots-in-filmmaking/"><u>[New] In 2024, Strategies for Incorporating Secondary Shots in Filmmaking</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ransform-into-a-youtuber-best-tutorials-for-novices/"><u>[New] Transform Into a YouTuber Best Tutorials for Novices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-guide-to-writing-successful-vlogging-scripts/"><u>[Updated] A Guide to Writing Successful Vlogging Scripts</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-seamless-social-circulation-sharing-your-journey-through-video-on-facebook/"><u>2024 Approved Seamless Social Circulation Sharing Your Journey Through Video on Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-free-from-gpts-maximum-word-count/"><u>Breaking Free From GPT's Maximum Word Count</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/disinformation-in-the-age-of-ai-generation/"><u>Disinformation in the Age of AI Generation</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-croatia-7-advantages-in-learning-its-language/"><u>Embrace Croatia: 7 Advantages in Learning Its Language</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-agentgpt-to-deploy-ai-agents-from-your-browser/"><u>How to Use AgentGPT to Deploy AI Agents From Your Browser</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/italys-blitzban-of-chatgpt-what-triggered-it/"><u>Italy's Blitzban of ChatGPT: What Triggered It?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/poetic-warriors-and-gpt-ewes-bards-ballad-battle-with-woolly-allies/"><u>Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-realme-narzo-n53-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Realme Narzo N53 Black and White | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-note-30-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Note 30 Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-tasks-utilize-8-crafted-ai-services/"><u>Revolutionize Tasks: Utilize 8 Crafted AI Services</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016427916-the-ultimate-fix-for-immersive-game-audio-on-discord-now-explained/"><u>The Ultimate Fix for Immersive Game Audio on Discord – Now Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-dual-domain-delight-posting-videos-across-social-platforms-for-2024/"><u>[New] Dual-Domain Delight Posting Videos Across Social Platforms for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-harmonious-hubs-your-guide-to-posting-audio-on-youtube/"><u>[New] In 2024, Harmonious Hubs Your Guide to Posting Audio on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-pitfalls-solutions-to-6-recurrent-chatgpt-mistakes/"><u>Avoiding Pitfalls: Solutions to 6 Recurrent ChatGPT Mistakes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-chatbots-the-ai-revolution/"><u>Demystifying Chatbots: The AI Revolution</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ntaneous-video-downloader-selection-guide/"><u>Instantaneous Video Downloader Selection Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outmaneuvering-fraudgpts-deception-be-vigilant-online/"><u>Outmaneuvering FraudGPT's Deception - Be Vigilant Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safety-advisory-chatgpt-for-windowsnot-a-security-risk/"><u>Safety Advisory: ChatGPT for Windows—Not a Security Risk</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/space-data-refresh-the-sql-guidebook/"><u>Space Data Refresh: The SQL Guidebook</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/swift-snapfile-reinstatement-guide/"><u>Swift Snapfile Reinstatement Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphones-audio-problem-a-guide-to-repairing-the-microphone/"><u>Troubleshooting Your iPhone's Audio Problem: A Guide to Repairing the Microphone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-the-power-of-books-with-these-best-ai-based-reading-platforms/"><u>Unleash the Power of Books with These Best AI-Based Reading Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-functionality-the-7-gpt-4-app-innovators/"><u>Unraveling the Functionality: The 7 GPT-4 App Innovators</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728503988755-win10117/"><u>Win10/11の秘密兵器:消えたフォルダを7つの魔法で取り戻せ！</u></a></li>
 </ul></div>
 

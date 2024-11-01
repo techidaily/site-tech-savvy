@@ -1,7 +1,7 @@
 ---
 title: Content Design Powered by Canva & GPT's Batch Capabilities
-date: 2024-10-24T17:12:45.539Z
-updated: 2024-10-26T22:45:25.107Z
+date: 2024-10-29T16:28:47.105Z
+updated: 2024-11-01T17:58:53.335Z
 tags:
   - chatgpt
   - open-ai
@@ -47,36 +47,15 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have a programmer’s mind, you can [use the GPT for Sheets and Docs extension](https://www.makeuseof.com/how-use-chatgpt-google-sheets/), or you can copy and paste your content into any spreadsheet program—like Microsoft Excel or Google Sheets. Then open a blank page.
 
  Highlight all the text from ChatGPT and copy it using **Cmd** \+ **C** on Mac or **Ctrl** \+ **V** on Windows. Back on your spreadsheet, select box **A2**. Leave the top row empty for now, you’re going to add labels to it later.
 
  Paste your content into A2 by using **Cmd** \+ **V** on Mac or **Ctrl** \+ **V** on Windows. Despite selecting only one box, each line of text will be input into a new row.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Tidy Up the Content
 
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
 
@@ -84,15 +63,22 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
  You can add more elements if required, but for most social media posts, you don’t want to overcrowd information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Label Your Columns
 
 ![Google Sheets with Quotes and Attribution labels.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/labelledgoogledocs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now it’s time to put labels in the first row. This allows Canva to attribute your spreadsheet values to its bulk creation system later.
@@ -102,19 +88,6 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 ## 5\. Save Your Sheet as a CSV File
 
 ![Google Sheets saving options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saveas-csv.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  CSV stands for Comma-Separated Values which allows your content to be saved in a structured table ready for input into other programs.
 
@@ -126,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
 ![Create a Design options in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-design-canva.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Head to [Canva](https://www.canva.com) and choose a size for your bulk designs. Whether you’re using a pre-made template, or designing from a blank page, make sure your design isn’t overcrowded and that there will be enough space for your text.
 
  If you’ve already [made and published Canva templates](https://www.makeuseof.com/canva-how-to-create-publish-templates/), choose one of those, or if you’re designing from scratch, you could [use Canva’s Brand Kit feature](https://www.makeuseof.com/canva-how-to-use-brand-kit-feature/) to incorporate your branding into your design. Both of those features require a Canva Pro subscription or the free trial.
@@ -140,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
@@ -158,13 +124,34 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
  If you want different designs for the same content, you can create more than one template design here. Select **Add a page** beneath your artboard to add a new design.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Bulk Create Your Content
 
 ![Bulk Create app in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-app-canva.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select **Apps** on Canva’s left-hand menu and type “Bulk Create” in the search bar. Select the **Bulk Create** app.
 
 ![Canva Bulk Create options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-csv.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select **Upload CSV** and find your saved CSV file to open. Canva will identify your two sections of content and separate them, in this case, into a section of Quote content and another of Attribution content.
 
@@ -180,6 +167,13 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After generation, your designs appear on their own page in a new tab. Scroll to view them all. If you applied Bulk Create to more than one design, you’ll have alternate designs for each set of text.
 
  Now comes the most laborious part of bulk creation. Go through each design to review and edit it. Although they’ve each been created under the same parameters, some text may not fit correctly or in aesthetically pleasing ways. Resize or move the text to best fit each design.
@@ -190,16 +184,16 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re happy with how everything looks, it’s time to save your designs. Go to **Share** \> **Download** and choose the best format for your designs. PNG is what we recommend for the best quality, but some social media applications might not accept PNGs, or perhaps another format works better for your designs.
 
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
 
@@ -226,24 +220,24 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-metaverse-vs-multiverse-what-are-the-differences-complete-guide/"><u>[New] Metaverse Vs. Multiverse What Are the Differences [Complete Guide]</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-smooth-ocean-footage-proven-film-makers-methods/"><u>[New] Unlocking Smooth Ocean Footage Proven Film-Maker's Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-iconic-imagery-stories-a-peek-inside/"><u>[Updated] Iconic Imagery Stories A Peek Inside</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1724312964380-ai-ocrabbyy/"><u>AI-OCRを活用した第一生命保険のオフィスプロセス最適化:ABBYY製品が切り開く新時代 - 業界ニュースと展望</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automated-marketing-campaigns-with-cookiebot-a-seamless-solution/"><u>Automated Marketing Campaigns with Cookiebot: A Seamless Solution</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-site-engagement-with-cookiebot-technology-a-smart-marketing-solution/"><u>Boost Site Engagement with Cookiebot Technology - A Smart Marketing Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-shipping-operations-how-top-transit-companies-enhance-productivity-using-abbyys-smart-ocr-technology/"><u>Boost Your Shipping Operations: How Top Transit Companies Enhance Productivity Using ABBYY's Smart OCR Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-integration-elevating-your-websites-user-experience-through-smart-data-utilization/"><u>Cookiebot Integration: Elevating Your Website's User Experience Through Smart Data Utilization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-driven-analytics-enhancing-your-data-insights/"><u>Cookiebot-Driven Analytics: Enhancing Your Data Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-abbyys-advanced-content-intelligence-spotlight-at-the-london-ai-summit-conference/"><u>Discover ABBYY's Advanced Content Intelligence: Spotlight at the London AI Summit Conference</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-your-sites-performance-through-intelligent-data-analysis-tech/"><u>Enhance Your Site's Performance Through Intelligent Data Analysis Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-invalid-onedrive-tags-steps-for-windows-users/"><u>Fixing Invalid OneDrive Tags: Steps for Windows Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/guide-to-top-templates-for-youtube-previews/"><u>Guide to Top Templates for YouTube Previews</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/how-to-resolve-windows-11-boot-issues-using-startup-repair-and-bootrec-tools/"><u>How to Resolve Windows 11 Boot Issues Using Startup Repair and Bootrec Tools</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-camera-woes-over-obs-now-functioning/"><u>In 2024, Camera Woes Over OBS Now Functioning</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-printer-conflicts-in-windows-11/"><u>Resolving Printer Conflicts in Windows 11</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-essential-sound-editing-apps-for-mobile-iphone-and-ipad-edition-2023-edition/"><u>Updated 2024 Approved Essential Sound Editing Apps for Mobile IPhone & iPad Edition, 2023 Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visionary-image-design-the-best-open-tools/"><u>Visionary Image Design: The Best Open Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-enhance-creativity-and-quality-in-live-video-recording-using-logitech-cam/"><u>[Updated] 2024 Approved Enhance Creativity and Quality in Live Video Recording Using Logitech Cam</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-achieving-video-popularity-mastering-youtube-thumbnail-selection-for-2024/"><u>[Updated] Achieving Video Popularity Mastering YouTube Thumbnail Selection for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-fb-lives-dual-screen-dynamics-essential-insights/"><u>[Updated] In 2024, Navigating FB Live's Dual-Screen Dynamics Essential Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-sony-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Sony</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/come-clonare-il-tuo-sistema-operativo-su-una-chiavetta-usb-con-facilita/"><u>Come Clonare Il Tuo Sistema Operativo Su Una Chiavetta USB Con Facilità</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comprehensive-guide-steps-to-set-up-and-take-down-programs/"><u>Comprehensive Guide: Steps to Set Up & Take Down Programs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-dialogue-with-chatgpt-and-macsynchrony/"><u>Enhancing Dialogue with ChatGPT & MacSynchrony</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-ai-guidance-top-7-strategies-explored/"><u>Essential AI Guidance: Top 7 Strategies Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fake-gpt-enhancement-swipes-facebook-account-details/"><u>Fake GPT Enhancement: Swipes Facebook Account Details</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-efficient-is-ai-at-tailoring-drinks/"><u>How Efficient Is AI at Tailoring Drinks?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-lava-yuva-2-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Lava Yuva 2 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/how-to-locate-recently-downloaded-content-on-windows-systems-10-8-and-7/"><u>How to Locate Recently Downloaded Content on Windows Systems (10, 8, & 7)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-se-2022-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone SE (2022)? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/into-new-realms-the-5-pivotal-points-of-gpt-4/"><u>Into New Realms: The 5 Pivotal Points of GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pivotal-8-gpt-instances-for-cutting-down-screen-distractions/"><u>Pivotal 8 GPT Instances for Cutting Down Screen Distractions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proactive-measures-for-authentic-ai-app-consumption/"><u>Proactive Measures for Authentic AI App Consumption</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/refining-ai-communication-top-prompting-methods-for-better-outputs/"><u>Refining AI Communication: Top Prompting Methods for Better Outputs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-motorola-g24-power-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Motorola G24 Power Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-ai-chatbot-censorship-and-how-does-it-affect-you/"><u>What Is AI Chatbot Censorship and How Does It Affect You?</u></a></li>
 </ul></div>
 

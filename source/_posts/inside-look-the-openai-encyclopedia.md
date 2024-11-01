@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: The OpenAI Encyclopedia"
-date: 2024-09-19T17:39:00.492Z
-updated: 2024-09-22T18:14:23.991Z
+date: 2024-10-28T16:49:09.894Z
+updated: 2024-11-01T17:27:08.135Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
  The for-profit subsidiary began in 2019 with OpenAI Limited Partnership, as the company wanted to attract funding for its research.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## OpenAI’s Main Projects and Achievements
 
 [OpenAI announced](https://openai.com/our-structure) its goal of $1 billion in donations but has only received a little over $130 million so far.
@@ -76,29 +83,22 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
 ![codex js sandbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/codex-js-sandbox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Released in 2021, Codex was based on the language model GPT-3 family—an AI model that can generate code. It could create code that is as good, or even better, than those written by human programmers.
 
  Codex was able to generate code in various programming languages, including Python and Java. It could also translate over 200 languages, text, and code, and even translate between different programming languages.
 
  Though Codex was a nifty service, it was shut down in March 2023, with OpenAI recommending that users opt for ChatGPT instead.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Challenges and Controversies Faced by OpenAI
 
  OpenAI was founded to advance AI research and prevent its monopolization. But the research company faces challenges on different fronts.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Regulatory Issues
 
@@ -108,38 +108,39 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
 
  OpenAI has begun creating regulatory measures trying to prevent these scenarios. But some of these measures have also prevented the use of the models, even within normal parameters.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Secrecy vs. Openness
 
  OpenAI’s mission is to make AI accessible to all. Initially, they stuck to their mantra, publishing all of their research and advancements.
 
  However, as AI advances, so do its applications and chances of being used for malicious purposes. This has led OpenAI to try to find a balance between hiding and sharing research, despite the former going against their mission.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Ethical Issues
 
  There have been cases where [OpenAI’s models have shown biased content](https://www.makeuseof.com/does-chatgpt-lie/) due to the type of training data they were built with. Addressing this problem is complicated as it will need a lot of fine-tuning and comprehensive data selection. And even at that, it would be almost impossible to eradicate biased results.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Competition
 
  OpenAI has numerous for-profit competitors, such as DeepMind (a subsidiary of Alphabet Inc.) and NVIDIA Corporation, which is also developing AI solutions. For OpenAI to remain at the forefront, there must be continued innovations and collaborations. This has led them to move from their non-profit declaration to a hybrid that welcomes funding.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does the Future Look Like for OpenAI?
@@ -163,5 +164,18 @@ thumbnail: https://thmb.techidaily.com/55d1895b35f08f3d82ecb412a2b84639eef0d00ef
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-down-barriers-to-affordable-editing-power/"><u>[New] Breaking Down Barriers to Affordable Editing Power</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-expert-teamblend-strategies-for-clear-conference-shots/"><u>[Updated] In 2024, Expert Teamblend Strategies for Clear Conference Shots</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-2023s-best-web-based-recording-tech-handpicked/"><u>2024 Approved 2023'S Best Web-Based Recording Tech Handpicked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-automate-home-appliances-seamlessly/"><u>Can ChatGPT Automate Home Appliances Seamlessly?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/could-chatgpt-be-a-new-technique-for-digital-theft-against-banks/"><u>Could ChatGPT Be a New Technique for Digital Theft Against Banks?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repairs-get-your-corsair-void-mic-working-again/"><u>DIY Repairs: Get Your Corsair Void Mic Working Again</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-latest-chatgpt-for-android-users/"><u>Explore the Latest: ChatGPT for Android Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-ultrawide-hp-monitor-37-wqhdplus-ips-display-without-the-premium-price-of-oled/"><u>Professional Ultrawide HP Monitor: 37 WQHD+ IPS Display without the Premium Price of OLED</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/storing-chatgpt-chats-a-complete-guide/"><u>Storing ChatGPT Chats: A Complete Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-critical-error-that-plagued-the-recent-ipad-debut-expert-tips-on-how-apple-can-correct-it-zdnet-insights/"><u>The Critical Error that Plagued the Recent iPad Debut: Expert Tips on How Apple Can Correct It | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-advanced-features-simplifying-the-upgrade-process-for-your-apple-watch-insights/"><u>Unlocking Advanced Features: Simplifying the Upgrade Process for Your Apple Watch | Insights</u></a></li>
+</ul></div>
 

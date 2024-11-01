@@ -1,7 +1,7 @@
 ---
 title: Mastering AI Language with Personalized Techniques
-date: 2024-09-19T19:10:12.112Z
-updated: 2024-09-22T18:56:28.774Z
+date: 2024-10-29T18:01:49.825Z
+updated: 2024-11-01T16:03:19.363Z
 tags:
   - chatgpt
   - open-ai
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 
  Both options require a different approach, which you can check out below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Training ChatGPT With Samples of Your Work
 
  To train ChatGPT with samples of your work, head over to ChatGPT and use the prompt below, immediately followed by a sample of your written work that best captures your writing style.
@@ -64,6 +71,13 @@ Unify all the extracted writing styles and present them in a clear detailed form
 Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, explanation style, and other stylistic elements in order to mimic the unique style of the author of the text below. Use the same stylistic elements to write an article on the topic: "Some article topic goes here." [Paste the sample here]
 
  Also, for the best results, we recommend using GPT-4 and, specifically, the GPT-4 Code Interpreter plugin for the task. You'll be able to work with more text or even, ideally, stack several articles in a text or word file and ask ChatGPT to analyze the content for its writing style.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Training ChatGPT Using a Personal Preference Map (PPM)
 
@@ -87,6 +101,13 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
 
  Another advantage of using a PPM is the flexibility and portability it offers. You can easily tweak the writing style with precision by hanging a few words. You can also use the PPM in a different AI chatbot like Claude AI or Google Bard. We used the PPM above [on the Claude AI chatbot](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/) and asked it to give it a topic to write. It was able to replicate as many of the stylistic elements used by the target author as possible.
@@ -94,16 +115,16 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make ChatGPT Work for You
@@ -127,5 +148,24 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-illustrators-toolkit-making-text-pop-in-3d/"><u>2024 Approved The Illustrator's Toolkit Making Text Pop in 3D</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/an-examination-of-the-public-domain-the-free-to-access-digital-information-landscape/"><u>An Examination of the Public Domain: The Free-to-Access Digital Information Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-massive-ai-learning-initiative-opens-doors-for-countless-learners-and-graduates/"><u>Apple's Massive AI Learning Initiative Opens Doors for Countless Learners & Graduates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-perfect-tablet-m1-vs-m2-ipad-pro-find-your-ideal-tech-companion-with-expert-insights/"><u>Choosing the Perfect Tablet: M1 Vs. M2 iPad Pro - Find Your Ideal Tech Companion with Expert Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-the-chargetech-27000mah-battery-ultimate-energy-storage-solution/"><u>Comprehensive Evaluation: The ChargeTech 27000mAh Battery - Ultimate Energy Storage Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-12-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 12 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-oneplus-11r-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From OnePlus 11R To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-itel-p55-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Itel P55 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-c33-2023-phone-by-drfone-android/"><u>How to Reset a Locked Realme C33 2023 Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-difficult-workplace-dialogue-via-chatgpt/"><u>Navigating Difficult Workplace Dialogue via ChatGPT</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209824473-9781644618127-rituals-of-white-magic/"><u>Rituals of white magic | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-and-individualize-your-macos-sonoma-menu-experience-top-strategies/"><u>Simplify & Individualize Your MacOS Sonoma Menu Experience - Top Strategies</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/taming-the-inactive-gpu-fan-beast/"><u>Taming the Inactive GPU Fan Beast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-power-of-chatgpt-for-modern-professionals/"><u>Transformative Power of ChatGPT for Modern Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-deal-top-non-apple-non-anker-magsafe-wallet-in-testing-now-at-a-steep-discount/"><u>Unbeatable Deal: Top Non-Apple, Non-Anker MagSafe Wallet in Testing Now at a Steep Discount</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voice-activation-for-chatgpt-android-edition/"><u>Voice Activation for ChatGPT – Android Edition</u></a></li>
+</ul></div>
 

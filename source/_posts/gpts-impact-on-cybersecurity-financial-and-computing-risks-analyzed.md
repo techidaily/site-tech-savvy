@@ -1,7 +1,7 @@
 ---
 title: "GPT's Impact on Cybersecurity: Financial and Computing Risks Analyzed"
-date: 2024-10-25T23:23:49.512Z
-updated: 2024-10-26T16:10:52.827Z
+date: 2024-10-28T16:25:52.775Z
+updated: 2024-11-01T16:38:56.572Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with [a successful phishing attack](http://www.makeuseof.com/what-is-phishing/). Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -106,20 +106,24 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/ai-boost-for-hr-routine-challenges/"><u>AI Boost for HR Routine Challenges</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-lexicon-breaking-down-complex-words/"><u>Artificial Intelligence Lexicon: Breaking Down Complex Words</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bots-banter-beyond-boundaries-will-it-make-us-merry/"><u>Bot's Banter Beyond Boundaries: Will It Make Us Merry?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-imo-app-overview-a-user-friendly-guide/"><u>Comprehensive Imo App Overview: A User-Friendly Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-the-finest-ai-powered-note-taking-software/"><u>Explore the Finest AI-Powered Note-Taking Software</u></a></li>
-<li><a href="https://article-files.techidaily.com/how-asmr-can-boost-your-health-and-happiness-for-2024/"><u>How ASMR Can Boost Your Health & Happiness for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-asus-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Asus Phone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-chatgpt-safe-6-cybersecurity-risks-of-openais-chatbot/"><u>Is ChatGPT Safe? 6 Cybersecurity Risks of OpenAI's Chatbot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/language-architecture-showdown-deciphering-gpt-and-bert-mechanics/"><u>Language Architecture Showdown: Deciphering GPT and BERT Mechanics</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-top-rated-avi-editor-for-windows-8-advanced-video-editing-features-for-2024/"><u>New Top-Rated AVI Editor for Windows 8 Advanced Video Editing Features for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/propel-your-mobile-search-the-impactful-usage-of-ai-in-bing-app/"><u>Propel Your Mobile Search: The Impactful Usage of AI in Bing App</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-out-of-memory-in-red-dead-redemption-2-by-expanding-your-pagefile/"><u>Resolve 'Out of Memory' In Red Dead Redemption 2 by Expanding Your Pagefile</u></a></li>
-<li><a href="https://network-issues.techidaily.com/revitalizing-zoom-a-step-by-step-fix-guide/"><u>Revitalizing Zoom: A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-development-with-ai/"><u>Revolutionizing Development with AI</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-meizu-21-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Meizu 21 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-handheld-stabilizers-to-elevate-your-vlogging-game/"><u>[New] Top Handheld Stabilizers to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-guide-for-effortless-youtube-playlist-downloads/"><u>[Updated] 2024 Approved How-To Guide for Effortless YouTube Playlist Downloads</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevate-video-creation-with-windows-xp-edition/"><u>[Updated] In 2024, Elevate Video Creation with Windows XP Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-speed-up-instagram-videos-on-desktop-effective-techniques/"><u>2024 Approved Speed Up Instagram Videos on Desktop Effective Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieving-optimal-health-through-chatgpt-strategies/"><u>Achieving Optimal Health Through ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-rivalry-unveiled-comparing-forefront-ai-and-the-chatgpt-model/"><u>AI Rivalry Unveiled: Comparing Forefront AI and the ChatGPT Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-is-gemini-more-effective-than-chatgpt/"><u>AI Showdown: Is Gemini More Effective Than ChatGPT?</u></a></li>
+<li><a href="https://discover-great.techidaily.com/claim-your-money-winning-spot-in-the-latest-digiarty-youtube-raffle/"><u>Claim Your Money-Winning Spot in the Latest DigiArty YouTube Raffle!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-your-ai-conversationist-from-gpt-to-chatgpt/"><u>Crafting Your AI Conversationist: From GPT to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/facilitating-online-discussions-with-ai-powered-tools/"><u>Facilitating Online Discussions with AI-Powered Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-tecno-spark-20-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Tecno Spark 20? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-cutting-edge-tech-to-record-your-remote-gatherings/"><u>In 2024, Cutting-Edge Tech to Record Your Remote Gatherings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligence-in-machines-the-extremes/"><u>Intelligence in Machines: The Extremes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-chatgpt-management-with-folders/"><u>Mastering the Art of ChatGPT Management with Folders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-digital-marketplaces-for-ai-creativity/"><u>Prime Digital Marketplaces for AI Creativity</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-12-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 12 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-language-experience-why-claude-3-is-better-than-gpt-3/"><u>Transform Your Language Experience: Why Claude 3 Is Better Than GPT-3</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-epic-and-steam-step-by-step-guide/"><u>Uniting Epic & Steam: Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-transform-your-video-footage-shape-size-and-more/"><u>Updated Transform Your Video Footage Shape, Size, and More</u></a></li>
 </ul></div>
 

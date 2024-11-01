@@ -1,7 +1,7 @@
 ---
 title: "Enhanced AI Communication: Responding with Purpose to Prompts"
-date: 2024-09-21T16:32:53.607Z
-updated: 2024-09-22T17:31:52.612Z
+date: 2024-10-28T17:28:10.240Z
+updated: 2024-11-01T18:15:10.683Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
  ChatGPT's new text-to-speech model is only available to Plus and Enterprise subscribers using the official Android and iOS apps and is expected to roll out within the next two weeks (starting from September 25, 2023). Furthermore, the new voice feature is limited to English to begin with, though we would expect this to change rapidly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT Can Recognize and Analyze Images and Photographs
 
  The second part of OpenAI's ChatGPT update is the ability to analyze and talk images uploaded to the tool. The visual image analysis option was featured in the GPT-4 update videos but hasn't been discussed much since that time ([ChatGPT Code Interpreter aside](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/)).
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
  Calling it "similar to Google Lens" does it an injustice, really. The ability to chat back and forth about the image to gain more information and context makes it extremely useful for a broad range of settings. However, it's important to note the fine print, with OpenAI making it clear that it has limited ChatGPT's "ability to analyze and make direct statements about people" for privacy and accuracy reasons. Still, could an OpenAI-powered "Who Is This" tool be in the works for the future? (Let's hope not!)
 
  Like the new text-to-speech model, OpenAI will roll out image recognition in the next two weeks, though it will be available on all platforms, not just the ChatGPT app.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Privacy, Security, and Other Issues
 
@@ -61,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
  Given this is the tip of the iceberg, expect pushback against ChatGPT's newfound voice, especially once there is a predictable uptick in unsavory headlines claiming ChatGPT is being used to commit fraud and so on.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## OpenAI Is Making ChatGPT the Go-To AI App
@@ -90,5 +104,20 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-maximizing-screen-space-the-art-of-close-up-views/"><u>[New] In 2024, Maximizing Screen Space The Art of Close Up Views</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unleashing-potential-combining-zoom-and-google-mail/"><u>[New] In 2024, Unleashing Potential Combining Zoom & Google Mail</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-binocular-vision-the-leading-digital-photo-enhancements/"><u>[Updated] Binocular Vision The Leading Digital Photo Enhancements</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578225825-2022-speak-anywhere-for-a-bargain-priced-language-bundle/"><u>2022: Speak Anywhere for a Bargain-Priced Language Bundle!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boosting-video-quality-in-zoom-with-advanced-effects/"><u>2024 Approved Boosting Video Quality in Zoom With Advanced Effects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claim-mastery-with-claude-leveraging-artificial-intelligence-in-business/"><u>Claim Mastery with Claude: Leveraging Artificial Intelligence in Business</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-device-based-artificial-thinking-methods/"><u>Decoding Device-Based Artificial Thinking Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-battery-preservation-with-macos-montereys-low-power-feature-detailed-guide-by-zdnet/"><u>Effortless Battery Preservation with macOS Monterey's Low Power Feature | Detailed Guide by ZDNET</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-a18-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Oppo A18 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/journey-to-joyful-nutritious-dining-with-gpt-guidance/"><u>Journey to Joyful, Nutritious Dining With GPT Guidance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-poco-c50-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Poco C50 Phone Network-Ready</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whats-behind-ai-benchmarking-progressive-alternatives-to-turing/"><u>What's Behind AI Benchmarking: Progressive Alternatives to Turing?</u></a></li>
+</ul></div>
 

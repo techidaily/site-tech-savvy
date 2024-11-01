@@ -1,7 +1,7 @@
 ---
 title: Newcomers' Guide to LangChain Tech
-date: 2024-09-19T17:28:16.977Z
-updated: 2024-09-22T17:49:11.476Z
+date: 2024-10-25T18:50:06.482Z
+updated: 2024-11-01T17:53:53.330Z
 tags:
   - chatgpt
   - open-ai
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Setting Up Your Development Environment
 
  First, [create a virtual environment](https://www.makeuseof.com/create-manage-python-virtual-environments/) and install the dependencies below:
@@ -75,16 +82,10 @@ thumbnail: https://thmb.techidaily.com/ab712e6369c11731fb797565c1d31f34a50ed98f4
  The command above installs the packages and creates a virtual environment.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Import the Installed Dependencies
@@ -97,13 +98,6 @@ from langchain.memory import ConversationBufferWindowMemory`
 
  The LangChain classes outline and execute the language model chains.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Access OpenAI API Key
 
  Next, get the OpenAI API key. To access OpenAI’s API key, you must have an OpenAI account, then move to the [OpenAI API platform](https://platform.openai.com/).
@@ -112,23 +106,9 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-dashboard.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click the **Create new secret key** button to get a new API key.
 
 ![OpenAI API key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-page.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Enter the requested name of the API key.
 
@@ -137,6 +117,19 @@ from langchain.memory import ConversationBufferWindowMemory`
  You will receive a **secret key** prompt.
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Copy and store the API key in a safe place for future use.
 
@@ -180,6 +173,13 @@ print(output)`
 
  Above is the expected output.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Rising Influence of LLMs
 
  LLMs consumption is growing rapidly and changing how humans interact with knowledge machines. Frameworks like LangChain are at the forefront of providing developers with a smooth and simple way to serve the LLMs to applications. Generative AI models like ChatGPT, Bard, and Hugging Face are also not left behind in advancing LLM applications.
@@ -203,5 +203,24 @@ print(output)`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-photo-and-film-capture-apps-iphone-and-android-edition/"><u>[New] 2024 Approved Essential Photo & Film Capture Apps IPhone & Android Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-how-to-use-9gag-to-create-meme/"><u>[New] How to Use 9GAG to Create Meme</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-industry-leaders-top-notch-free-presentation-resources/"><u>[Updated] Industry Leaders Top-Notch, Free Presentation Resources</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2022s-most-durable-iphone-se-skins-and-covers-enhance-your-phones-safety-zdnet/"><u>2022'S Most Durable iPhone SE Skins and Covers: Enhance Your Phone’s Safety | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-hub-unveils-tailored-gpt-marketplace-your-guide/"><u>AI Hub Unveils Tailored GPT Marketplace – Your Guide!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-evaluating-the-benefits-of-chatgpt-vs-hugbingchat/"><u>AI Showdown: Evaluating the Benefits of ChatGPT Vs. HugbingChat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-freedom-vs-tech-titans-sarah-silverman-and-co-challenge-openaimeta/"><u>Creative Freedom Vs. Tech Titans: Sarah Silverman and Co. Challenge OpenAI/Meta</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/everyones-gain-from-updated-chatgpt-data/"><u>Everyone's Gain From Updated ChatGPT Data</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-asus-rog-phone-8-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Asus ROG Phone 8 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-xr-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone XR</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://techtrends.techidaily.com/july-2024-updated-d-link-default-credentials-guide/"><u>July 2024 Updated D-Link Default Credentials Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-vs-apple-comparing-the-latest-smartwatches-choosing-between-a-pixel-watch-and-an-apple-watch-series-8/"><u>Pixel Vs. Apple: Comparing the Latest Smartwatches - Choosing Between a Pixel Watch and an Apple Watch Series 8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-browsing-ai-in-microsofts-bing/"><u>Revolutionizing Browsing: AI in Microsoft's Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthetic-sentience-showdown-advanced-gemini-vs-gptplusplus/"><u>Synthetic Sentience Showdown: Advanced Gemini Vs GPT++</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-benefits-of-switching-to-iphone-15-youre-not-experienncing-yet-uncovered/"><u>The Benefits of Switching to iPhone 15 You're Not Experienncing Yet Uncovered</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-edit-like-a-pro-video-file-editing-on-mac-os-x-yosemite-made-easy/"><u>Updated In 2024, Edit Like a Pro Video File Editing on Mac OS X Yosemite Made Easy</u></a></li>
+</ul></div>
 

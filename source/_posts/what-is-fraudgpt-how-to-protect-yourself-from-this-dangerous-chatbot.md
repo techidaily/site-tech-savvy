@@ -1,7 +1,7 @@
 ---
 title: What Is FraudGPT? How to Protect Yourself From This Dangerous Chatbot
-date: 2024-09-20T17:05:42.548Z
-updated: 2024-09-22T17:56:43.743Z
+date: 2024-10-25T17:45:44.229Z
+updated: 2024-11-01T16:22:34.945Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
  To better picture the tool, you can think of FraudGPT as ChatGPT but for fraud. But how exactly does FraudGPT work, and how are cybercriminals using it?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Does FraudGPT Work?
 
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
 
@@ -56,9 +70,23 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Can You Protect Yourself From FraudGPT?
 
 ![worrying about red flags online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/thinking-person-using-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Despite being a new kind of tool, the threat posed by FraudGPT is not fundamentally different. You could say it introduces more automation and efficiency to already established methods of executing cybercrime.
 
@@ -72,13 +100,6 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 * Shred documents containing personally identifying or financial information when no longer needed.
 
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stay Informed to Protect Yourself
 
@@ -103,5 +124,26 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-gopro-match-up-ultimate-buyers-analysis/"><u>[Updated] 2024 Approved Gopro Match-Up Ultimate Buyer's Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-achieve-more-views-tailoring-and-scaling-youtube-images-for-2024/"><u>[Updated] Achieve More Views Tailoring and Scaling YouTube Images for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-high-quality-tablets-for-2ebyuary-2024-in-depth-analysis-and-ratings-zdnet/"><u>Affordable High-Quality Tablets for 2Ebyuary 2024 - In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-unveils-top-ai-innovations-at-wwdc-why-they-might-not-excite-you-after-all-and-thats-a-good-thing-tech-news/"><u>Apple Unveils Top AI Innovations at WWDC: Why They Might Not Excite You After All - And That's a Good Thing | Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-mac-studio-over-the-m4-mac-mini-in-autumn-a-detailed-look-at-what-sways-my-decision/"><u>Choosing the Mac Studio Over the M4 Mac Mini in Autumn – A Detailed Look at What Sways My Decision</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-latest-innovations-in-visionos-2-revealed-at-apples-wwdc-insights-and-surprises/"><u>Exploring the Latest Innovations in VisionOS 2 Revealed at Apple's WWDC - Insights and Surprises!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-windows-10-how-to-exit-perpetual-airplane-mode/"><u>Fixing Windows 10: How to Exit Perpetual Airplane Mode</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-zero-5g-2023-turbo-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Zero 5G 2023 Turbo?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inverted-screen-changing-video-ordering/"><u>In 2024, Inverted Screen Changing Video Ordering</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-art-of-perfection-in-tiktok-production-with-designed-video-templates/"><u>In 2024, The Art of Perfection in TikTok Production with Designed Video Templates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-13-and-15-pro-discontinued-top-alternatives-for-your-next-smartphone-purchase/"><u>IPhone 13 & 15 Pro Discontinued – Top Alternatives for Your Next Smartphone Purchase</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/journey-through-verse-integrating-chatgpts-insights/"><u>Journey Through Verse: Integrating ChatGPT's Insights</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/les-10-meilleures-outils-de-montage-video-pour-le-commandement-central-dapplications/"><u>Les 10 Meilleures Outils De Montage Vidéo Pour Le Commandement Central D'Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserve-anonymity-how-to-withdraw-from-gpt/"><u>Preserve Anonymity: How to Withdraw From GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-intelligence-innovators-views-on-artificial-intelligence/"><u>The Future of Intelligence: Innovators' Views on Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-text-files-with-ais-chatgpt-pairings/"><u>Transform Your Text Files with AI's ChatGPT Pairings</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y55s-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726029295396-mp3/"><u>ビットレートを自由に変更できるMP3ファイルエディタ・専門サイト紹介</u></a></li>
+</ul></div>
 

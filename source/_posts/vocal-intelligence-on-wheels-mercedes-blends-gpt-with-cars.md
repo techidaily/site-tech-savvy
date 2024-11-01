@@ -1,7 +1,7 @@
 ---
 title: "Vocal Intelligence on Wheels: Mercedes Blends GPT with Cars"
-date: 2024-09-18T16:55:20.184Z
-updated: 2024-09-22T18:50:58.367Z
+date: 2024-10-26T18:39:08.502Z
+updated: 2024-11-01T16:34:32.999Z
 tags:
   - chatgpt
   - open-ai
@@ -44,11 +44,25 @@ Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1
 
  Beyond that, you can use [ChatGPT plug-ins](https://www.makeuseof.com/best-chatgpt-plugins/) to order food, find the best ticket prices, write emails, or [send a messages on Slack](https://www.makeuseof.com/what-is-slack/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other Automakers Could Follow Suit
 
  Mercedes-Benz is not the only automaker to consider integrating ChatGPT into its cars. According to [Reuters](https://www.reuters.com/business/autos-transportation/gm-explores-using-chatgpt-vehicles-2023-03-10/), General Motors is also looking at introducing a virtual assistant powered by ChatGPT. This could be part of its strategy after [ditching Android Auto and Apple CarPlay](https://www.makeuseof.com/gm-to-drop-android-auto-apple-carplay/).
 
  It's worth noting that even without ChatGPT voice assistant integrated into your car’s infotainment system, you can still talk to ChatGPT driving if you’re connected to Apple CarPlay and Siri. This would be a good way to mimic Mercedes' native integration of the chatbot if you own a vehicle from another brand.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Could Redefine Virtual Assistants in Vehicles
 
@@ -73,12 +87,21 @@ Image Credit: [Mercedes-Benz](https://media.mercedes-benz.com/article/323212b5-1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-comprehensive-guide-free-and-paid-tools-for-noise-reduction/"><u>[New] 2024 Approved Comprehensive Guide Free & Paid Tools for Noise Reduction</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-quick-guide-off-instagrams-igtv-for-2024/"><u>[New] Quick Guide Off Instagram's IGTV for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-effortless-guide-to-designing-youtube-follow-links/"><u>2024 Approved Effortless Guide to Designing YouTube Follow Links</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-s18-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo S18 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/android-ready-the-chatgpt-revolution/"><u>Android-Ready: The ChatGPT Revolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-powered-solutions-for-holistic-healthcare/"><u>ChatGPT-Powered Solutions for Holistic Healthcare</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dawn-of-digital-symphony-chatgpts-role-in-sound-design/"><u>Dawn of Digital Symphony: ChatGPT's Role in Sound Design</u></a></li>
+<li><a href="https://facebook.techidaily.com/deconstructing-facebooks-foundational-organizational-plan/"><u>Deconstructing Facebook's Foundational Organizational Plan</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-approaches-to-bypass-resistant-pin-locks-on-pcs/"><u>Effective Approaches to Bypass Resistant PIN Locks on PCs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/getting-your-microsoft-surface-pro-back-online-with-these-wi-fi-fix-tips/"><u>Getting Your Microsoft Surface Pro Back Online with These Wi-Fi Fix Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/groundbreaking-ai-technologies-for-superior-browsing/"><u>Groundbreaking AI Technologies for Superior Browsing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-close-up-views-in-google-meet/"><u>Mastering Close-Up Views in Google Meet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-study-habits-five-key-uses-for-chatgpt-in-education/"><u>Revolutionizing Study Habits: Five Key Uses for ChatGPT in Education</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-document-digitization-how-chatgpt-reads-pdfs/"><u>Streamlining Document Digitization: How ChatGPT Reads PDFs</u></a></li>
+</ul></div>
 

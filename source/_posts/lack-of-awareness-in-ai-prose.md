@@ -1,7 +1,7 @@
 ---
 title: Lack of Awareness in AI Prose
-date: 2024-09-16T18:51:54.039Z
-updated: 2024-09-22T16:32:39.016Z
+date: 2024-10-27T17:12:02.655Z
+updated: 2024-11-01T18:33:27.245Z
 tags:
   - chatgpt
   - open-ai
@@ -44,15 +44,36 @@ thumbnail: https://thmb.techidaily.com/8d42a5be41c7b4a2ee5933ca8170ed38361404ba7
 
  Well, there is. We could write an entire book on the difference between the two, but it won't matter much. So, if there's a difference, why is ChatGPT or any other AI tool unable to identify these differences and accurately point out AI-generated text from a human-written one? The answer lies in [how ChatGPT works and how it generates text](http://www.makeuseof.com/how-does-chatgpt-work/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How ChatGPT Generates Text
 
 ![Artificial intelligence and puny human are shaking hands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-power-of-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you ask ChatGPT to generate text, it tries to mimic the human writing process. Firstly, the model behind ChatGPT—Generative Pre-trained Transformer (GPT)—has been trained on a large corpus of human text. Everything from emails, health articles, tech articles, high school essays, and just about any text you can find online has been fed to the model during training. So ChatGPT understands how each of these types of texts should be written.
 
  If you ask ChatGPT to write an email to your boss, it knows how an email of that nature should look because it has been trained on similar emails—probably thousands of them. Similarly, if you ask it to write a high school essay, it also knows how a high school essay should sound. ChatGPT will try to write whatever you want it to write in a way a human would.
 
  But there's a catch. Unlike how humans write, ChatGPT does not really understand what it is writing in a way that a human would. Instead, the chatbot tries to predict what would be the most plausible next word in a sentence until it completes the write-up.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How ChatGPT Writes by Prediction
 
@@ -67,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/8d42a5be41c7b4a2ee5933ca8170ed38361404ba7
  AI chatbots like ChatGPT are designed to mimic natural human language as much as possible. So while AI text may have discernable patterns, those patterns are not so obvious even to a powerful tool like ChatGPT. This is why ChatGPT can not spot its own writing, as well as [why AI-text detector tools do not work](https://www.makeuseof.com/ai-content-detectors-dont-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Recognize Its Own Writing In the Future?
@@ -94,5 +115,22 @@ thumbnail: https://thmb.techidaily.com/8d42a5be41c7b4a2ee5933ca8170ed38361404ba7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-beyond-boundaries-how-to-validate-your-tiktok-video-rights-for-2024/"><u>[New] Beyond Boundaries How to Validate Your TikTok Video Rights for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero-11-and-max-360-comparing-the-bests-in-gopros-world/"><u>2024 Approved Hero 11 and Max 360 Comparing the Bests in GoPro's World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-the-latest-rivals-googles-pixel-watch-vs-apple-watch-series-9-invest-wisely-in-your-next-upgrade/"><u>Comparing the Latest Rivals: Google's Pixel Watch Vs. Apple Watch Series 9 - Invest Wisely in Your Next Upgrade!</u></a></li>
+<li><a href="https://facebook.techidaily.com/ephemeral-messaging-in-fb-messenger/"><u>Ephemeral Messaging in FB Messenger</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-problem-solving-heartstones-audio-troubles/"><u>Fixing the Silent Problem: Solving Heartstone's Audio Troubles</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-detection-and-access-for-unresponsive-wd-my-passport-ultra-in-windows-systems/"><u>How to Enable Detection and Access for Unresponsive WD My Passport Ultra in Windows Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-11x-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme 11X 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-14-pro-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 14 Pro Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-elon-enigma-future-of-intelligent-systems/"><u>The Elon Enigma: Future of Intelligent Systems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tongue-triumphs-perfect-your-accent-with-twisters/"><u>Tongue Triumphs: Perfect Your Accent With Twisters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-miniature-tablet-computers-thoroughly-assessed-by-tech-gurus-zdnet/"><u>Top-Rated Miniature Tablet Computers - Thoroughly Assessed by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-stealthy-smart-lock-apps-seamlessly-integrate-with-iphones-find-your-perfect-match/"><u>Top-Rated Stealthy Smart Lock Apps Seamlessly Integrate with iPhones - Find Your Perfect Match!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-new-possibilities-apple-integrates-iphones-with-third-party-nfc-services-for-enhanced-user-experience-tech-insights/"><u>Unlocking New Possibilities: Apple Integrates iPhones with Third-Party NFC Services for Enhanced User Experience | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-turing-test-future-of-ai-triumphs/"><u>Unraveling the Turing Test: Future of AI Triumphs?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-true-cost-benefit-ratio-in-high-grade-ai-inputs/"><u>Unveiling the True Cost-Benefit Ratio in High-Grade AI Inputs</u></a></li>
+</ul></div>
 

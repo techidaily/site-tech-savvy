@@ -1,7 +1,7 @@
 ---
 title: "Crafting Personalized Intelligent Agents: GPT-Driven ChatGPT"
-date: 2024-10-23T19:14:10.785Z
-updated: 2024-10-26T20:29:44.704Z
+date: 2024-10-30T17:00:06.637Z
+updated: 2024-11-01T18:32:18.593Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
  At the time of writing, "Create a GPT" is still in beta. This means not all features are fully online, and the product isn't finished. Bear this in mind while building your GPT and prepare to encounter issues. Also, it's possible that your finished GPT may be erased when a future update comes knocking.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Give Your GPT a Primary Description and a Picture
 
  For the sake of this piece, we'll be demonstrating how to build a Dungeons and Dragons 5th Edition dungeon master.
@@ -52,8 +45,29 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 1. Now that you're in the GPT Builder, the first question you'll get is what you want to make. You can keep this first part short and sweet and input a single sentence. In this case, we said, "Make a Dungeons & Dragons 5e dungeon master who oversees D&D campaigns."  
 ![Primary description for a D&D GPT in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/primary-description-for-a-d-d-gpt-in-gpt-builder.jpg)
 2. Next, give your GPT a name. ChatGPT will suggest one for you, but you can still type in anything you want.
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can manually change the image, name, description, and instructions for your GPT by clicking**Configure** . Click the profile picture to change it, and edit the details in the**Name** **Description** and**Instructions** fields to change them without typing prompts.
 
@@ -62,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
  At this stage, your GPT wants to know how it should address users. Direct it to the tone and style you want it to adopt. Here, we said, "5e Dungeon Master should use a wise, sagely tone. Use language and style commonly used in high-fantasy settings," which fits quite nicely into the fantasy nature of D&D.
 
 ![GPT Builder setting the tone and language for The 5e Dungeon Master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-builder-setting-the-tone-and-language-for-the-5e-dungeon-master-gpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  But, of course, if you are making a more professional GPT, ensure it uses professional language.
 
@@ -77,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/e0dd15b42e7cb5414bdb7af5c281fcfdfef62e342
 
  If you find that it's not fulfilling your instructions as well as you want, go back to the**Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Upload Files as a Knowledge Base
 
  In addition to backing up your GPT with rules, you can also upload files you would like your GPT to draw information from. In our case, we uploaded copies of the Player's Handbook by Jeremy Crawford and the Dungeon Master's Guide. Both are essential D&D books.
@@ -96,10 +110,10 @@ Here's how to upload source documents to your custom GPT:
 ![GPT Knowledge source documents uploading in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-knowledge-source-documents-uploading-in-gpt-builder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
@@ -130,18 +144,18 @@ Here's how to upload source documents to your custom GPT:
 4. **Optional:** Scroll down and enter an authentication method and privacy policy.
 5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Go back when you're finished.
 
  If you don't enter a valid privacy policy, you won't be allowed to share your GPT with the public.
 
  Currently, you seem to be able to add only one action at a time. If you click the**Examples** dropdown menu, you'll see a few examples of schemas OpenAI has added to aid in creating your own schema.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Configure Conversation Starters
 
@@ -152,26 +166,13 @@ Go back when you're finished.
 3. Click the**X** next to a conversation starter block to remove it.  
 ![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can add more conversation starters as required.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Save and Publish Your GPT
@@ -205,20 +206,16 @@ You can add more conversation starters as required.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-best-80s-movie-magic-for-contemporary-edits/"><u>[New] In 2024, Best 80S Movie Magic for Contemporary Edits</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-optimizing-gameplay-streamlining-your-minecraft-recording-experience-on-mac/"><u>[New] In 2024, Optimizing Gameplay Streamlining Your Minecraft Recording Experience on Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-smart-shopping-for-action-cameras-optimal-under-100-lists/"><u>[New] Smart Shopping for ACTION Cameras Optimal Under $100 Lists</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/create-professional-quality-dvds-with-winx-media-center-the-best-free-dvd-author-and-editor-for-pcs-running-windows-10-or-11/"><u>Create Professional Quality DVDs with WinX Media Center - The Best FREE DVD Author & Editor for PCs Running Windows 10 or 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/impart-rotational-luminosity-modification-in-photoshopping-for-2024/"><u>Impart Rotational Luminosity Modification in Photoshopping for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/investigating-ai-in-the-creation-of-malicious-software/"><u>Investigating AI in the Creation of Malicious Software</u></a></li>
-<li><a href="https://techidaily.com/leveraging-cookiebot-technology-for-advanced-website-customization-and-analytics/"><u>Leveraging Cookiebot Technology for Advanced Website Customization and Analytics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/llama-2-revolutionizing-workflows-and-task-management/"><u>Llama 2: Revolutionizing Workflows and Task Management</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/real-life-tests-of-chatgpts-potential/"><u>Real-Life Tests of ChatGPT's Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-communication-via-chatgpts-api/"><u>Seamless Communication via ChatGPT's API</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swiftly-dismantle-your-chatgpt-account/"><u>Swiftly Dismantle Your ChatGPT Account</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-accessible-ai-frontier-gpt-4-for-everyone/"><u>The Accessible AI Frontier: GPT-4 for Everyone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transform-your-webm-files-to-ogv-at-no-cost-use-our-step-by-step-guide-online/"><u>Transform Your WebM Files to OGV at No Cost - Use Our Step-by-Step Guide Online!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uncovering-gpts-standard-tools-and-capabilities/"><u>Uncovering GPT's Standard Tools & Capabilities</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-eliminating-errors-utilizing-photoshops-eraser-feature/"><u>[New] In 2024, Eliminating Errors Utilizing Photoshop's Eraser Feature</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ranking-the-best-third-place-recording-tools-for-ipad-for-2024/"><u>[New] Ranking the Best Third-Place Recording Tools for iPad for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-creating-compelling-instagram-story-collections-for-2024/"><u>[Updated] Creating Compelling Instagram Story Collections for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/data-dominance-5-picks-for-efficient-gpt-3-data-handling/"><u>Data Dominance: 5 Picks for Efficient GPT-3 Data Handling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-cybersecurity-of-ai-dialogues/"><u>Deciphering the Cybersecurity of AI Dialogues</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-do-you-upgrade-old-minecraft-video-card-drivers-heres-the-solution/"><u>How Do You Upgrade Old Minecraft Video Card Drivers? Here's the Solution</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-earning-potential-unlocked-profitable-strategies-for-youtube-on-fb/"><u>In 2024, Earning Potential Unlocked Profitable Strategies for YouTube on FB</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-batch-background-erasure-in-affinity-photo/"><u>In 2024, Mastering Batch Background Erasure in Affinity Photo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-365-packaged-in-apples-new-vision-pro-get-access-to-word-excel-on-day-one-exclusive/"><u>Microsoft 365 Packaged in Apple's New Vision Pro: Get Access to Word, Excel on Day One | Exclusive</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thin-is-in-a-firsthand-look-at-the-slimmest-ever-ipads-from-apple-is-less-really-more-at-just-008-inches/"><u>Thin Is In: A Firsthand Look at the Slimmest Ever iPads From Apple - Is Less Really More at Just 0.08 Inches?</u></a></li>
 </ul></div>
 

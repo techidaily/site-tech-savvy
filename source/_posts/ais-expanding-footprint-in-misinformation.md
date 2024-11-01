@@ -1,7 +1,7 @@
 ---
 title: AI's Expanding Footprint in Misinformation
-date: 2024-09-18T17:51:19.184Z
-updated: 2024-09-22T17:52:11.879Z
+date: 2024-10-27T18:48:09.242Z
+updated: 2024-11-01T17:34:09.957Z
 tags:
   - chatgpt
   - open-ai
@@ -42,9 +42,23 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -58,6 +72,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -68,13 +89,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 * **Targeted personalization**: Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -92,6 +106,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by [The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -102,13 +123,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -131,5 +145,19 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-all-encompassing-iptv-access-strategies-for-2024/"><u>[New] All-Encompassing IPTV Access Strategies for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-innovative-classroom-strategies-using-video-for-immersive-learning-for-2024/"><u>[New] Innovative Classroom Strategies Using Video for Immersive Learning for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-streamlining-your-ps3-gaming-archive/"><u>[New] Streamlining Your PS3 Gaming Archive</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/five-enhanced-beams-for-safer-journeys/"><u>Five Enhanced Beams for Safer Journeys</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-htc-u23-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your HTC U23 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-mac-or-ipad-equipped-with-an-hidden-intelligent-audio-device-find-out-now-tech-insights/"><u>Is Your Mac or iPad Equipped with an Hidden Intelligent Audio Device? Find Out Now! | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-apple-pay-a-comprehensive-guide-to-using-it-both-in-store-and-on-the-web-benefits-explained/"><u>Mastering Apple Pay: A Comprehensive Guide to Using It Both In-Store and On the Web - Benefits Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-windows-movie-maker-a-step-by-step-guide-for-windows-8-users/"><u>Mastering Windows Movie Maker A Step-by-Step Guide for Windows 8 Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-iphone-file-deletion-top-software-solutions-for-wiping-personal-information/"><u>Secure iPhone File Deletion: Top Software Solutions for Wiping Personal Information</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-spectacular-now-rewind-and-relive-with-our-enthralling-ripped-dvd-collection/"><u>The Spectacular Now - Rewind and Relive with Our Enthralling 'Ripped' DVD Collection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-creative-chatgpt-side-chrome-extension-advantage/"><u>Unlock Your Creative ChatGPT Side - Chrome Extension Advantage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-ipad-airs-amazing-features-can-leave-even-an-ipad-pro-owner-wishing-they-switched-expert-review-by-zdnet/"><u>Why the iPad Air's Amazing Features Can Leave Even an iPad Pro Owner Wishing They Switched | Expert Review by ZDNet</u></a></li>
+</ul></div>
 

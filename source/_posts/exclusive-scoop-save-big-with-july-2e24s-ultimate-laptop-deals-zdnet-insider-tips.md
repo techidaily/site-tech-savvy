@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Scoop: Save Big with July 2E24's Ultimate Laptop Deals - ZDNet Insider Tips"
-date: 2024-10-23T21:43:29.245Z
-updated: 2024-10-26T18:03:22.435Z
+date: 2024-10-31T18:24:16.148Z
+updated: 2024-11-01T18:28:01.421Z
 tags:
   - apple
 categories:
@@ -96,19 +96,26 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Low-Blue-Processor-Ethernet-Bluetooth%2Fdp%2FB0CVN88CFX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceb7848ef-d3c6-41bd-9378-7a9264428dbf%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternative laptop deals
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Amazon laptop deals
 
@@ -158,6 +165,13 @@ Another deal we like the look of is $74 off a Lenovo V15 Series laptop. This mod
 
 [Apple MacBook Air, 2023, refurbished, 13.3-inch deal for $340 (save $660) $340 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-geek-squad-certified-refurbished-macbook-air-13-3-display-intel-core-i5-8gb-memory-128gb-flash-storage-silver%2F6530194.p&publisher%5Fslug=zdnet&article%5Fname=the%20best%20laptop%20deals%20of%20july%202024&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Flaptop-deals%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these laptop deals?
 
 We searched for laptop deals at retailers like Amazon, Walmart, and Best Buy, and also at the websites of leading manufacturers like Lenovo, HP, Dell, Apple, Acer, and Asus. We also used various price trackers to ensure that a claimed deal wasn't spurious.
@@ -179,23 +193,9 @@ The right specs depend on your needs and how you intend to use your new laptop -
 * **Storage**: For those that focus on lighter laptop use, 256GB of SSD storage will be plenty of space for your laptop. However, if you need more storage for high-resolution photos, videos, or more, you'll want to opt for 512GB of storage or even 1TB.
 * **RAM**: In conjunction with the CPU, RAM is used to help the computer multi-task and is vital to running programs. ZDNET expert Adrian Kingsley-Hughes breaks down [RAM needs here](https://www.zdnet.com/article/how-much-ram-does-your-windows-10-pc-need/), but at minimum, especially for working, you should opt for around 8GB, and gamers will potentially want more.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Do I need a gaming laptop or a "regular" laptop?
 
 Again, it depends on your needs. Those who _aren't_ gamers can opt for a regular laptop with high specs, but content creators or those who work with heavy editing software should opt for a designer's laptop or a gaming laptop. Not because, of course, you want to have the best gaming specs on the side, but because those laptops come with powerful CPUs, GPUs, and high RAM to handle the heavy requirements that software needs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much should I pay for a good laptop?
 
@@ -215,10 +215,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best deals by category
@@ -271,22 +271,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-10-must-have-strategies-for-podcast-visuals-excellence/"><u>[New] 10 Must-Have Strategies for Podcast Visuals Excellence</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-infusing-realism-in-spark-ar-worlds-via-application-of-luts/"><u>[New] Infusing Realism in Spark AR Worlds via Application of LUTs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebooks-easy-path-uploading-videos-via-pc-and-android-devices/"><u>[Updated] 2024 Approved Facebook's Easy Path Uploading Videos via PC and Android Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/articulating-imagination-chatgpts-creative-edge/"><u>Articulating Imagination: ChatGPT's Creative Edge</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/astounding-revelation-communicate-with-ai-powered-gpt/"><u>Astounding Revelation: Communicate with AI-Powered GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-on-bilingual-ai-help-should-you-use-bing-or-chatgpt-10-factors/"><u>Deciding on Bilingual AI Help: Should You Use Bing or ChatGPT? 10 Factors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dodge-these-pitfalls-chatgpt-mobile-downloads/"><u>Dodge These Pitfalls: ChatGPT Mobile Downloads</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-smartphone-management-with-samsungs-mode-and-routine-features-on-your-galaxy-device/"><u>Effortless Smartphone Management with Samsung's Mode & Routine Features on Your Galaxy Device</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-monterey-upgrade-benefits/"><u>Evaluating Monterey Upgrade Benefits</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-c50-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-download-and-install-llama-2-locally/"><u>How to Download and Install Llama 2 Locally</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-digital-space-with-impactful-fb-giveaway-posts/"><u>In 2024, Navigating the Digital Space with Impactful FB Giveaway Posts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/masterful-story-structures-with-ais-assistive-chatgpt/"><u>Masterful Story Structures with AI's Assistive ChatGPT</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/skype-audio-archive-mp3-techniques-free-edition/"><u>Skype Audio Archive MP3 Techniques, Free Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strengthening-support-bonding-chatgpt-with-whatsapp/"><u>Strengthening Support: Bonding ChatGPT with WhatsApp</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-missing-volume-icon-in-windows-10-a-step-by-step-guide-with-images/"><u>Troubleshooting the Missing Volume Icon in Windows 10: A Step-by-Step Guide with Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visionaries-collide-blizzards-tech-allegiance-with-microsoft-redefines-ai-horizons-interview-special/"><u>Visionaries Collide: Blizzard's Tech Allegiance with Microsoft Redefines AI Horizons [Interview Special]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-secrets-to-never-ending-snaps-on-snapchat/"><u>[New] 2024 Approved The Secrets to Never-Ending Snaps on Snapchat</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/avigate-to-visibility-a-compreayer-of-youtube-live-imagery-standards/"><u>[New] Navigate to Visibility A Compreayer of YouTube Live Imagery Standards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ingenious-ai-photo-masterclass/"><u>[Updated] Ingenious AI Photo Masterclass</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-craft-of-online-title-perfection/"><u>2024 Approved Mastering the Craft of Online Title Perfection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-unveiled-six-techniques-for-novelists/"><u>ChatGPT Unveiled: Six Techniques for Novelists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-creators-vs-computational-composition-six-winning-strategies/"><u>Content Creators Vs. Computational Composition: Six Winning Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-fixes-how-to-overcome-fortnite-login-issues-instantly/"><u>Easy Fixes: How to Overcome Fortnite Login Issues Instantly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-elite-video-influencers/"><u>In 2024, Elite Video Influencers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intels-serial-interface-driver-free-download-and-quick-install-steps/"><u>Intel's Serial Interface Driver: Free Download and Quick Install Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/investigating-truthgpts-tokens-validity/"><u>Investigating TruthGPT's Tokens Validity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speak-and-listen-androids-guide-to-chatgpt-voicecontrol/"><u>Speak and Listen: Android’s Guide to ChatGPT VoiceControl</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-use-of-gpt-3-with-practical-plugins/"><u>Streamline Your Use of GPT-3 With Practical Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-enthusiasts-handbook-for-openai-api-mastery/"><u>The Enthusiast’s Handbook for OpenAI API Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-chatgpts-output-to-match-personal-nuance/"><u>Transforming ChatGPT's Output to Match Personal Nuance</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-royalty-free-video-heaven-top-download-sites/"><u>Updated In 2024, Royalty-Free Video Heaven Top Download Sites</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210207169-9780593139493-your-intuition-led-you-here/"><u>Your Intuition Led You Here | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: My AI Encounters vs Bing's Virtual Assistant
-date: 2024-10-22T20:38:13.118Z
-updated: 2024-10-26T21:23:18.658Z
+date: 2024-10-25T17:27:10.898Z
+updated: 2024-11-01T17:43:30.181Z
 tags:
   - chatgpt
   - open-ai
@@ -33,10 +33,10 @@ Snapchat My AI and Bing Chat on Skype are more distinct than users think. Yes, t
  Meanwhile, Bing Chat on Skype uses the more advanced GPT-4 language model. It carries the same technology as its web version. You might encounter some limitations, but it still composes accurate outputs that flow smoothly. Expect more detailed answers as it can call upon more data points than GPT-3.5\.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Functionality
@@ -48,6 +48,19 @@ Snapchat My AI and Bing Chat on Skype are more distinct than users think. Yes, t
 ![Feeding Bing Chat on Skype an Essay Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-skype-essay-prompt.jpg)
 
 ![Bing Chat on Skype Writing an Essay About Bees](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-skype-essay-writing.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -87,13 +100,6 @@ Close
 
 ![Bing AI Can't Detect Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-gas-stations.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
 ## 4\. Data Accuracy
@@ -106,13 +112,6 @@ Close
 
 ![Bing Chat on Skype Answering Question About the Winter Olympics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-on-olympics-questions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  My AI has limited datasets. Since it’s based on ChatGPT, its knowledge cuts off after 2021\.
@@ -121,6 +120,13 @@ Close
 
 ![Snapchat My AI Can't Answer Question About Real World Events](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-and-real-world-events.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Snapchat My AI is also prone to [AI hallucinations](https://www.makeuseof.com/how-to-use-snapchat-ai-chatbot/). Users could trick it into believing made-up statements since the platform can’t access real-time information.
@@ -128,6 +134,13 @@ Close
  In this conversation, we tricked My AI into thinking Miley Cyrus headlined at Coachella in 2023, even though she didn’t.
 
 ![Snapchat My AI Can't Answer Real World Questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-incorrect-answer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Snapchat My AI Demonstrates AI Hallucination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-hallucination.jpg)
 
@@ -142,10 +155,10 @@ Close
 ![Asking Snapchat My AI a Statistics and Probability Question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-snapchat-my-ai-about-math.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Trying to Confuse Snapchat My AI About Math](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-and-math.jpg)
@@ -159,6 +172,13 @@ Close
 ![Asking Bing Chat on Skype a Question About Statistics and Probability](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-bing-chat-on-skype-about-math.jpg)
 
 ![Bing Chat on Skype Answering Statistics Question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-answering-math-on-skype.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Trying to Confuse Bing Chat on Skype About Math](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-and-math.jpg)
 
@@ -187,10 +207,10 @@ Close
 ![Asking Bing Chat About AI While Roleplaying Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-bing-chat-on-roleplay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Bing Chat on Skype Discussing its Token Limit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-token-limit.jpg)
@@ -198,13 +218,6 @@ Close
 Close
 
  Just note that Bing has a lower token limit. It automatically starts afresh after 20 turns—you can also start new conversations manually by typing “newtopic.”
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Security Restriction
 
@@ -225,10 +238,10 @@ Close
 ![Bing AI on Skype Talking About AI Learning Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-on-skype-and-learning-models.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -248,13 +261,6 @@ Close
  If you don’t see the Bing profile yet, [sign up for the new AI-powered Bing](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) first.
 
 ![Message Saying You Can Use Bing on Skype](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-welcome-on-skype.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  My AI started as an experimental Snapchat Plus-exclusive feature in February 2023\. The chatbot just appeared in users’ chat windows.
 
@@ -283,24 +289,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ace-google-call-best-screen-saver-bgs-list/"><u>[New] 2024 Approved Ace Google Call Best Screen Saver BGs List</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-easy-media-sharing-on-twitter-no-retweets-required/"><u>[New] In 2024, Easy Media Sharing on Twitter - No Retweets Required</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effortless-resolution-of-macs-green-screen-problem-for-youtubers/"><u>[New] In 2024, Effortless Resolution of Mac's Green Screen Problem for YouTubers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-perfecting-ultimate-canon-sequence-crafts/"><u>[New] Perfecting Ultimate Canon Sequence Crafts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-what-to-do-when-you-spot-your-own-face-during-a-call/"><u>2024 Approved What to Do When You Spot Your Own Face During a Call?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-essential-tricks-for-a-better-windows-11-search/"><u>5 Essential Tricks for a Better Windows 11 Search</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/challenger-ai-how-claude-eclipses-chatgpt-in-4-major-ways/"><u>Challenger AI - How Claude Eclipses ChatGPT in 4 Major Ways</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/detecting-phony-chatgpt-services-and-acting-promptly/"><u>Detecting Phony ChatGPT Services and Acting Promptly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-why-ios-gets-the-preferential-treatment-in-gpt/"><u>Discovering Why iOS Gets the Preferential Treatment in GPT</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y100a-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-comprehensively-understanding-youtubes-aspect-ratio-ecosystem/"><u>In 2024, Comprehensively Understanding YouTube's Aspect Ratio Ecosystem</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Itel P55 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-the-turing-test-outdated-5-turing-test-alternatives/"><u>Is the Turing Test Outdated? 5 Turing Test Alternatives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-ai-ethics-conduct/"><u>Mastering the Art of AI Ethics Conduct</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-net-selections-personalized-alarm-rhythm-files-for-2024/"><u>Prime Net Selections Personalized Alarm Rhythm Files for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/subscriberlull-when-will-gpt-converse-again/"><u>SubscriberLull: When Will GPT Converse Again?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-driven-tickles-ais-role-in-humor-development/"><u>Tech-Driven Tickles: AI's Role in Humor Development</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-of-relying-on-text-ai-bots/"><u>The Hidden Dangers of Relying on Text AI Bots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-implications-of-gpt-on-malware-development/"><u>Unveiling the Implications of GPT on Malware Development</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-jest-jamboree-utilizing-comic-tools-for-free/"><u>[New] Jest Jamboree Utilizing Comic Tools for Free</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-top-15-hilarious-youtube-hubs-for-your-next-vacation/"><u>[Updated] 2024 Approved Top 15 Hilarious YouTube Hubs for Your Next Vacation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unleashing-creativity-with-aes-best-text-presets/"><u>[Updated] 2024 Approved Unleashing Creativity with AE's Best Text Presets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/auditory-anatomy-understanding-video-audio-for-ig-feeds-for-2024/"><u>Auditory Anatomy Understanding Video Audio for IG Feeds for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bartending-benchmarks-chatgpts-performance/"><u>Bartending Benchmarks: ChatGPT’s Performance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descargar-y-convertir-videos-mov-a-formato-mp4-gratuitamente-con-online-movie-converter/"><u>Descargar Y Convertir Videos MOV a Formato MP4 Gratuitamente Con Online Movie Converter</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-6-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-tones-integrating-chatgpt-with-daws-for-sound/"><u>From Text to Tones: Integrating ChatGPT with DAWs for Sound</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-bard-the-next-challenger-to-dominant-chatgpt/"><u>Google's 'Bard': The Next Challenger to Dominant ChatGPT</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y27-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo Y27 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/memorial-day-sale-save-60-on-the-apple-watch-se-a-standout-pick-of-2023-revealed-by-zdnet/"><u>Memorial Day Sale: Save $60 on the Apple Watch SE - A Standout Pick of 2023 Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-importance-of-safeguarding-artificial-intelligence-data-on-apples-cloud-platform-cybersecurity-focus/"><u>The Importance of Safeguarding Artificial Intelligence Data on Apple's Cloud Platform | Cybersecurity Focus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-the-best-portable-tablets-comprehensive-expert-testing-zdnet/"><u>The Ultimate Guide to the Best Portable Tablets : Comprehensive Expert Testing | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-chatgpt-on-terminal-exploring-shellgpt-techniques/"><u>Unleash ChatGPT on Terminal: Exploring ShellGPT Techniques</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210533110-9781250285287-whats-your-fcking-destiny/"><u>What's Your F*cking Destiny? | Free Book</u></a></li>
 </ul></div>
 

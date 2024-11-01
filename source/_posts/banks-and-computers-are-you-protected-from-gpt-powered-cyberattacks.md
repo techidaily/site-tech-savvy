@@ -1,7 +1,7 @@
 ---
 title: "Banks & Computers: Are You Protected From GPT-Powered Cyberattacks?"
-date: 2024-09-18T17:49:10.147Z
-updated: 2024-09-22T18:47:25.359Z
+date: 2024-10-31T17:44:43.900Z
+updated: 2024-11-01T17:43:12.953Z
 tags:
   - chatgpt
   - open-ai
@@ -42,9 +42,29 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with [a successful phishing attack](http://www.makeuseof.com/what-is-phishing/). Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -57,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
  For phishing, it’s mostly about volume. ChatGPT can help boost phishing campaigns as it can quickly pump out huge amounts of natural-sounding texts that are tailored to specific audiences.
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
 
@@ -83,12 +110,19 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-adding-value-instructional-design-of-youtube-alerts-and-annotations/"><u>[Updated] 2024 Approved Adding Value Instructional Design of YouTube Alerts & Annotations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-video-intro-templates-you-need-to-download/"><u>2024 Approved Free Video Intro Templates You Need to Download</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-basic-talk-unused-ai-elements-in-conversation-tools/"><u>Beyond Basic Talk: Unused AI Elements in Conversation Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-latest-updates-global-perks/"><u>ChatGPT's Latest Updates: Global Perks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722963328511-comprehensive-startech-usb-to-vga-solution-free-driver-downloads/"><u>Comprehensive StarTech USB-to-VGA Solution - FREE Driver Downloads!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-the-affordable-20-anker-power-bank-overcomes-common-issues-with-portable-chargers-insights-from-zdnet/"><u>How the Affordable $20 Anker Power Bank Overcomes Common Issues with Portable Chargers | Insights From ZDNet</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-12-pro-max-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 12 Pro Max GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-x5-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco X5 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/microsoft-edges-disruptive-onboarding-message-in-the-recent-windows-enhancement/"><u>Microsoft Edge's Disruptive Onboarding Message in the Recent Windows Enhancement</u></a></li>
+<li><a href="https://common-error.techidaily.com/pasting-difficulty-on-microsofts-win-11/"><u>Pasting Difficulty on Microsoft's Win 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securely-sync-and-save-your-iphone-information-on-icloud-and-mac-expert-tips-for-a-hassle-free-backup-process/"><u>Securely Sync & Save Your iPhone Information on iCloud and Mac: Expert Tips for a Hassle-Free Backup Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-europes-ai-act-and-its-implications-for-advanced-conversational-interfaces-including-gpt-type-models/"><u>Unveiling Europe’s AI Act and Its Implications for Advanced Conversational Interfaces Including GPT-Type Models</u></a></li>
+</ul></div>
 

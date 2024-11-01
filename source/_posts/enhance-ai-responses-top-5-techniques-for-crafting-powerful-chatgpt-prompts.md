@@ -1,7 +1,7 @@
 ---
 title: "Enhance AI Responses: Top 5 Techniques for Crafting Powerful ChatGPT Prompts"
-date: 2024-09-16T17:24:27.857Z
-updated: 2024-09-22T18:29:00.743Z
+date: 2024-10-27T17:24:28.577Z
+updated: 2024-11-01T17:20:47.337Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
 ![QuickRef's ChatGPT cheat sheet offers free examples and templates of prompts for ChatGPT across various categories and uses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-quickref-cheat-sheets.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  QuickRef is a website with cheat sheets for different apps or programming languages, like Google Search, Sheets, Excel, JavaScript, Python, etc. These are added mainly by regular users from the community. The latest cheat sheet in its impressive lineup is ChatGPT, with a series of prompts and tips for the AI. You won't learn the process of PE here, but it's a good reference when you're stuck.
 
  QuickRef's ChatGPT cheat sheet is divided into several categories: General, Coding, Email, Spreadsheets, Social Media, Reading, Design, Analyzing Data, Paid ads, Amazon FBA, Writing / Blogging, Teachers / Course Creators, YouTube, and Research. Each prompt has a basic headline telling you what it will do, followed by the prompt you can copy-paste into ChatGPT.
@@ -59,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
  The third video, titled Advanced ChatGPT Guide, is the one you want to pay particular attention to if you want to understand advanced prompts. Twarog goes into details of prompt engineering with a series of examples. Even if the examples aren't what you want to do with ChatGPT, go through these as an exercise to truly understand the finer points of composing a prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4. Micah Johns
@@ -76,10 +83,16 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
  Micah's larger [How to Use ChatGPT playlist](https://www.youtube.com/playlist?list=PLRc1YiX2Z0mpeXlmv6n7ZsVPVn-2etOua) has several other real-world applications for ChatGPT. For example, you'll learn how to write a 5-page essay in 10 minutes with AI or make your superhero comic with ChatGPT and Midjourney, one of the [best free AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/) .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5. Learn Prompting
@@ -91,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
  The course is entirely text-based, with chapters that take you through different aspects of AI prompting. Schulhoff defines PE as "How to talk to AI to get it to do what you want." The Basics and Intermediate chapters will take you through the founding principles of PE with theory, tricks and tips, and examples.
 
  The course then goes into advanced practices like applied prompting (contributed by users), fine-tuning, images, and more, where you'll learn techniques like Chain of Thought, Self Consistency, etc. It might sound like a lot of jargon, but it'll be clear and easy to understand if you go through the course step-by-step.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Learning ChatGPT With a Personal Project
 
@@ -109,5 +129,22 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-thumbnail-and-banner-strategies-for-online-success/"><u>[New] 2024 Approved Thumbnail & Banner Strategies for Online Success</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-beginners-guide-to-elevating-auditory-experiences-on-youtube-for-2024/"><u>[New] A Beginner's Guide to Elevating Auditory Experiences on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-downloading-your-youtube-watch-lists-step-by-step/"><u>[New] Downloading Your YouTube Watch Lists Step by Step</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-shadowlessedit-advanced-background-removal-app/"><u>[New] ShadowLessEdit Advanced Background Removal App</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-cutting-edge-broadcasting-dslr-use-for-facebook-live-on-pcmac/"><u>[Updated] 2024 Approved Cutting-Edge Broadcasting DSLR Use for Facebook Live on PC/Mac</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-quick-guide-to-influential-instagram-hashtags/"><u>[Updated] Quick Guide to Influential #Instagram Hashtags</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-quick-dive-into-apple-vision-pro-experience-my-key-findings-after-a-weekend-with-it-tech-analysis/"><u>A Quick Dive Into Apple Vision Pro Experience – My Key Findings After a Weekend with It | Tech Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-explores-breath-monitoring-feature-in-new-vision-pro-glasses-tech-news/"><u>Apple Explores Breath Monitoring Feature in New Vision Pro Glasses | Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/camera-face-off-showdown-who-wins-between-pixel-eby-9-pro-xl-and-iphone-15-pro-stunning-conclusions-revealed-zdnet/"><u>Camera Face-Off Showdown: Who Wins Between Pixel Eby 9 Pro XL and iPhone 15 Pro? Stunning Conclusions Revealed | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cyber-shifts-and-sways-prognosticating-top-7-trends/"><u>Cyber Shifts and Sways: Prognosticating Top 7 Trends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-your-voice-five-strategies-to-manage-chatgpt/"><u>Leverage Your Voice: Five Strategies to Manage ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-in-bing-easy-user-signup/"><u>Leveraging AI in Bing: Easy User Signup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smartphone-evolution-the-top-8-android-and-ios-ai-apps/"><u>Smartphone Evolution: The Top 8 Android & iOS AI Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-discord-js-errors-quickly-and-effortlessly/"><u>Troubleshooting and Resolving Discord JS Errors Quickly & Effortlessly</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-harnessing-audacity-for-zero-cost-audio-capture-from-pc-speakers/"><u>Updated In 2024, Harnessing Audacity for Zero-Cost Audio Capture From PC Speakers</u></a></li>
+</ul></div>
 

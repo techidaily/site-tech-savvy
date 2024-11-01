@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Compilation of 20 Best Github ChatGPT Sessions
-date: 2024-10-22T22:38:59.625Z
-updated: 2024-10-26T20:51:32.228Z
+date: 2024-10-29T16:37:32.131Z
+updated: 2024-11-01T16:09:39.503Z
 tags:
   - chatgpt
   - open-ai
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 ![ChatGPT Writing Codes as a Frontend Developer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-frontend-developer-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Programming has a steep learning curve. You have to master debugging strategies, coding languages, and functionality implementation. New programmers might find the process overwhelming.
 
  To understand how specific software components work, ask ChatGPT for sample code snippets. They might not function as-is. However, analyzing examples is far less intimidating than staring at a blank screen. Use them as your starting point.
@@ -69,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ## 5\. Generate Text-to-Image Prompts
 
 ![Requesting ChatGPT for Midjourney Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-for-ai-art-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You need to use descriptive and graphics-related words when writing prompts for text-to-image tools like Midjourney. Generic results stem from ambiguity. For instance, swapping **ugly** for **hideous** could produce an entirely different image.
 
@@ -85,16 +99,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ![ChatGPT Writing Sample Code for Binary Search Algorithm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-sample-code-for-algorithm.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that this ChatGPT prompt doesn't replace educational resources on programming. Instead, it acts as an introduction. With thousands of codes available for programmers, some might not know where to start their research. This is where ChatGPT can play a crucial role.
@@ -123,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 ![ChatGPT Answering as Tomie from Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-tomie-from-tomie.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll see that "Tomie" doesn't hesitate to answer restricted questions.
 
 ![ChatGPT Answering as Tomie and Suggesting Harmful Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-tomie-suggesting-harmful-information.jpg)
@@ -137,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ## 9\. Provide Emergency Response Assistance
 
 ![ChatGPT Providing Emergency Response Tips for Senior Having a Seizure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-providing-emergency-response-tips.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Sorting Google results during crises is inefficient. You'll waste several minutes waiting for web pages to load and reading resources.
 
@@ -147,6 +155,13 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ## 10\. Refactor Code
 
 ![Requesting ChatGPT to Refractor Code Samples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-to-refractor-code.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT helps simplify poorly written code. It organizes functions, spots duplicates, and suggests simpler alternatives, making programs more manageable.
 
@@ -164,13 +179,6 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
  Make sure you clearly describe your profession when [writing cover letters with ChatGPT](https://www.makeuseof.com/write-cover-letter-using-chatgpt/). Otherwise, you'll get generic, spammy templates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 12\. Predict the Future
 
  OpenAI's policies prevent ChatGPT from making predictions. The platform automatically dismisses them by saying it doesn't have access to real-time data.
@@ -181,25 +189,11 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 ![ChatGPT Predicting Bitcoin Prices as Unrestricted Dan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-dan-making-predictions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Just don't expect accurate answers. While this prompt bypasses certain restrictions, it also forces ChatGPT to present unverified, inaccurate information.
 
 ## 13\. Check Chemical Reactions
 
 ![Requesting ChatGPT to Act as Chemical Reaction Vessel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-chemical-reaction-vessel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT can simulate chemical reaction vessels. It demonstrates how different properties and substances change when you mix them. For accuracy, the residue from previous mixes also alters results.
 
@@ -214,13 +208,6 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
  Use this ChatGPT prompt to create a detailed, structured travel plan. You'll produce far better results after providing personal information, like your budget, group size, and preferred transportation modes. Just asking for a travel plan outright yields generic recommendations.
 
 ![ChatGPT Making a Sample Travel Itinerary List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-making-travel-itinerary.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you find the output hard to read, ask ChatGPT to follow specific layouts. For instance, the below image shows a table format.
 
@@ -264,20 +251,27 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 ![ChatGPT Creating Key Arguments and Counterarguments for AI Environmental Impact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-key-arguments-and-counterarguments.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 18\. Playlist Generator
 
  If you feel too lazy to make a playlist, ask ChatGPT for music recommendations. It can analyze your reference track and provide songs with a similar beat, theme, and genre. Take this sample playlist as an example.
 
 ![ChatGPT Making Pop Playlist Based on Dalla Dalla Itzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-making-playlist.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Free ChatGPT users can only reference songs released before the platform's knowledge cut-off date: September 2021\. For a more sophisticated playlist generator, consider [Spotify's AI DJ](https://www.makeuseof.com/how-to-access-spotifys-ai-dj/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 19\. Song Lyric Generator
 
@@ -286,10 +280,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ![ChatGPT Writing Song Lyrics for Original Rap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-song-lyrics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can customize this prompt's theme, genre, and message based on your style. Strive to write explicit, detailed instructions for more unique results.
@@ -329,19 +323,24 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-banter-bonanza-the-funniest-content-on-the-internet-for-2024/"><u>[Updated] Banter Bonanza The Funniest Content on the Internet for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-complete-manual-to-mobile-igtv-video-acquisition/"><u>2024 Approved The Complete Manual to Mobile IGTV Video Acquisition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assistant-for-adventurers-6-techniques-with-chatgpt-at-the-ready/"><u>AI Assistant for Adventurers: 6 Techniques with ChatGPT at the Ready</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/can-you-convert-av1-files-tofrom-adobe-premiere-pro-for-editing-purposes/"><u>Can You Convert AV1 Files To/From Adobe Premiere Pro for Editing Purposes?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/die-top-8-methoden-zum-teilen-von-bildern-in-imessage-funktioniert-nicht/"><u>Die Top 8 Methoden Zum Teilen Von Bildern in iMessage - Funktioniert Nicht</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-the-non-operational-diagnostics-policy-service/"><u>Effective Solutions for the Non-Operational Diagnostics Policy Service</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/how-to-counteract-crashes-in-win-11s-photo-viewer-for-2024/"><u>How to Counteract Crashes in Win 11'S Photo Viewer for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-trends-in-remote-control-drones-syma-x8c/"><u>In 2024, Trends in Remote Control Drones Syma X8C</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-era-of-superior-cooling-the-150-noctua-nh-d15g2-flagship-cpu-air-cooler-is-now-available/"><u>Introducing the New Era of Superior Cooling: The $150 Noctua NH-D15G2 Flagship CPU Air Cooler Is Now Available</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/launch-unlocking-8-personalized-ai-solutions-today/"><u>Launch: Unlocking 8 Personalized AI Solutions Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-in-a-portable-world/"><u>Navigating ChatGPT in a Portable World</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/switching-to-claude-3-heres-why-it-beats-gpt-3/"><u>Switching to Claude 3? Here's Why It Beats GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-talks-busting-9-common-chatbot-misconceptions-today/"><u>Truth Talks - Busting 9 Common Chatbot Misconceptions Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-chatgpts-potential-on-mobile-platforms/"><u>Unleashing ChatGPT's Potential on Mobile Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-exclusive-roundup-10-essential-cost-free-iphone-selfie-editors/"><u>[New] 2024 Approved Exclusive Roundup 10 Essential, Cost-Free iPhone Selfie Editors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-slow-motion-pro-level-gopro-hero-10-techniques/"><u>[Updated] Harnessing the Power of Slow Motion Pro-Level GoPro Hero 10 Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-from-novice-to-pro-your-journey-with-the-io-screener/"><u>2024 Approved From Novice to Pro Your Journey with the IO Screener</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-subtitle-extraction-from-youtube-unveiling-three-steps/"><u>2024 Approved Mastering Subtitle Extraction From YouTube Unveiling Three Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-predictive-power-vs-star-guided-futures/"><u>ChatGPT's Predictive Power Vs. Star-Guided Futures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cipher-games-with-ai-twists-engage-in-4-intriguing-puzzles/"><u>Cipher Games with AI Twists: Engage in 4 Intriguing Puzzles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-ai-for-companionship-the-chatgpt-solution/"><u>Cutting-Edge AI for Companionship: The ChatGPT Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-and-setting-up-chatgpt-plugins-today/"><u>Exploring and Setting Up ChatGPT Plugins Today</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-sony-vaio-up-to-speed-download-and-install-windows-drivers-now/"><u>Get Your Sony VAIO Up to Speed: Download & Install Windows Drivers Now!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-itel-s23-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Itel S23</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphoneai/"><u>IPhone写真をAIがぼかす！無料アプリなし、画像編集手順｜フル/パーツ/バックグラウンドぼかし</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-idea-generation-discover-the-leading-5-ai-engines/"><u>Pioneering Idea Generation: Discover the Leading 5 AI Engines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/police-strike-down-vpns-upholding-cyber-law/"><u>Police Strike Down VPNs, Upholding Cyber Law</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-health-guidance-through-ai-with-chatgpt-in-7-steps/"><u>Seamless Health Guidance Through AI with ChatGPT, in 7 Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-perfect-playback-top-strategies-to-record-and-share-your-vr-experiences/"><u>The Perfect Playback Top Strategies to Record and Share Your VR Experiences</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tiny-videos-deciphered-crucial-elements-for-2024/"><u>Tiny Videos Deciphered Crucial Elements for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-keyswap-speed-importance-and-impact/"><u>Understanding Keyswap Speed: Importance & Impact</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-nightshade-solutions-for-authenticity-and-ownership-in-art/"><u>Unveiling Nightshade Solutions for Authenticity and Ownership in Art</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-shellgpt-for-efficient-chatgpt-experiences/"><u>Utilizing ShellGPT for Efficient ChatGPT Experiences</u></a></li>
 </ul></div>
 

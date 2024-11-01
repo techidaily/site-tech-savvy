@@ -1,7 +1,7 @@
 ---
 title: Simple AI Explanation Guide
-date: 2024-09-16T18:08:23.566Z
-updated: 2024-09-22T16:36:25.709Z
+date: 2024-10-26T18:08:59.946Z
+updated: 2024-11-01T18:06:38.641Z
 tags:
   - chatgpt
   - open-ai
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
 ![chatgpt read aloud feature smartphone screen with chatgpt logo blur](https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  Artificial intelligence (AI) is a branch of computer science aiming to build machines capable of mimicking human intelligence. It involves creating algorithms that allow computers to learn from and make decisions or predictions based on data rather than following only explicitly programmed instructions.
@@ -71,10 +64,16 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
  Deep learning, a further subset of machine learning, uses artificial neural networks to make decisions and predictions. It is designed to mimic how a human brain learns and makes decisions.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Natural Language Processing (NLP)
@@ -102,26 +101,32 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  However, despite many advancements, AI still does not possess the full spectrum of human cognitive abilities, and we are still far from achieving [true artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/). The current AI technologies are task-specific and cannot understand context outside their specific programming.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Is AI Being Used Today?
 
  AI has potential and applications that stretch far beyond the tech realm alone.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Chatbots
 
 ![chatgpt dalle logo creation on smartphone screen](https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc239157d241009df908a14c3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Gavin Phillips/MakeUseOf
@@ -131,6 +136,19 @@ Gavin Phillips/MakeUseOf
  ChatGPT's capabilities form a long list, including fact-checking, checking spelling and grammar, creating schedules, writing resumes, and even translating languages.
 
  HuggingChat, Claude, and Gemini (formerly Bard) are other examples of AI chatbots. These services all differ in certain ways. Some are free, some are paid, some specialize in certain areas, while others are better with general tasks.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Data Analysis
 
@@ -155,16 +173,16 @@ Gavin Phillips/MakeUseOf
 ![microsoft image creator purple sunset on moon example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-image-creator-purple-sunset-on-moon-example.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
+<span id="1983553">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Microsoft Image Creator/MakeUseOf
@@ -202,5 +220,24 @@ Microsoft Image Creator/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-transformative-strategies-for-impartiating-patient-narratives/"><u>[New] Transformative Strategies for Impartiating Patient Narratives</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-11-proven-steps-to-amplify-your-fb-video-campaigns/"><u>[Updated] 11 Proven Steps to Amplify Your FB Video Campaigns</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-enhancing-instagram-video-visibility/"><u>[Updated] 2024 Approved Enhancing Instagram Video Visibility</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>[Updated] Twitch Vs. YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-without-accounts-innovative-applications/"><u>ChatGPT Without Accounts: Innovative Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-dialogue-dominance-enhanced-gemini-vs-plus-chatgpt/"><u>Decoding Dialogue Dominance: Enhanced Gemini Vs. Plus-ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-workings-of-these-gpt-4-powered-apps/"><u>Decoding the Workings of These GPT-4 Powered Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/exclusive-guide-to-outstanding-sandbox-games-for-2024/"><u>Exclusive Guide to Outstanding Sandbox Games for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-on-the-newest-iphone-15-unmatched-performance-that-attracts-both-novices-and-pro-enthusiasts-review/"><u>Expert Advice on the Newest iPhone 15: Unmatched Performance That Attracts Both Novices and 'Pro' Enthusiasts Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-origins-of-the-2024-crowdstrike-windows-crisis-insights-and-lessons-from-a-retrospective-analysis-zdnet/"><u>Exploring the Origins of the 2024 CrowdStrike-Windows Crisis: Insights and Lessons From a Retrospective Analysis | ZDNET</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-guide-to-effective-instagram-tagging-with-these-top-25-hashes/"><u>In 2024, The Ultimate Guide to Effective Instagram Tagging with These Top 25 Hashes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/leadership-and-division-the-top-6-in-tech-world/"><u>Leadership and Division: The Top 6 in Tech World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/musk-discloses-grok-intelligence-deciphering-its-meaning-and-fees/"><u>Musk Discloses Grok Intelligence - Deciphering Its Meaning and Fees</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-the-ultimate-guide-to-cutting-edge-hardware/"><u>Tom's Tech Insights: The Ultimate Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/user-anonymity-on-the-line-with-chatgpt/"><u>User Anonymity on the Line with ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-latest-mac-studio-has-held-off-my-upgrade-to-a-new-m1-max-mac-mini-insights-for-tech-enthusiasts/"><u>Why the Latest Mac Studio Has Held Off My Upgrade to a New M1 Max Mac Mini: Insights for Tech Enthusiasts</u></a></li>
+</ul></div>
 

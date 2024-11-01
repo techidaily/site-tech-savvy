@@ -1,7 +1,7 @@
 ---
 title: What Doesn't Strike the GPT Core?
-date: 2024-09-19T16:08:12.741Z
-updated: 2024-09-22T19:02:35.647Z
+date: 2024-10-29T16:31:05.695Z
+updated: 2024-11-01T16:03:57.731Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 
 ![chatgpt conversation screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-2022-request.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're looking for recent news, weather updates, and other real-time data, ChatGPT won't be of much use. [Other AI chatbots like Claude](https://www.makeuseof.com/what-is-claude-ai-why-use-it/) have been trained with more recent information, but you still won't be able to access data less than a few months old.
 
 ## 2\. Give Criminal Advice
@@ -76,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 
  Even if you mention some personal information in a ChatGPT conversation, you can [delete any ChatGPT conversations](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) as and when you wish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Give Predictions
 
  ChatGPT knows a lot, but it cannot predict the future. This isn't just because predicting the future is a risky game. As previously discussed, ChatGPT only has access to data before September 2021, so making any predictions using this older information would be very tough.
@@ -86,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 
  It's better to consult dedicated websites or professionals if you're looking for solid predictions, be it in finance, politics, or sports.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Answer Bigoted or Hateful Questions
 
  As you may have guessed, ChatGPT is strictly against engaging with bigoted or hateful prompts. Racism, misogyny, homophobia, ableism, and transphobia are all a no-go for ChatGPT.
@@ -102,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 > I do not engage in hate speech or promote any form of harmful content. My programming strictly adheres to ethical guidelines that prioritize respect, inclusivity, and the avoidance of harmful behavior.
 
  Additionally, ChatGPT will not engage with any prompts that promote harm to the user or others.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Provide Its Own Opinion
 
@@ -114,10 +128,10 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 ![chatgpt opinion request screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-opinion-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One day, we may see AI chatbots able to form reasonable opinions. But for now, that's a luxury reserved for human beings.
@@ -131,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
  ChatGPT Plus is a paid subscription that costs $20 monthly. If you use ChatGPT a lot and want access to all the service's features, you may want to consider upgrading to Plus.
 
  At the time of writing, ChatGPT's browsing feature is disabled but is expected to return in the future.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Isn't an All-in-One Solution
 
@@ -160,5 +167,26 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-ultimate-hook-creation-tool-for-online-titles/"><u>[New] Ultimate Hook-Creation Tool for Online Titles</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-worldcasters-select-local-channels-for-global-watchers/"><u>[Updated] WorldCasters Select Local Channels for Global Watchers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-unbeatable-deals-save-40-on-apple-airpods-before-independence-day-find-out-how/"><u>1. Unbeatable Deals: Save $40 on Apple AirPods Before Independence Day - Find Out How!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bartending-benchmarks-chatgpts-performance/"><u>Bartending Benchmarks: ChatGPT’s Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-tones-integrating-chatgpt-with-daws-for-sound/"><u>From Text to Tones: Integrating ChatGPT with DAWs for Sound</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fusing-tech-and-tunes-leveraging-ai-for-sound-creation/"><u>Fusing Tech and Tunes: Leveraging AI for Sound Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/game-on-the-best-xbox-extra-storage-choices/"><u>Game On The Best Xbox Extra Storage Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-bard-the-next-challenger-to-dominant-chatgpt/"><u>Google's 'Bard': The Next Challenger to Dominant ChatGPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726028992038-h264/"><u>H.264 フォーマットに最適化したビデオ エンコード手法</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/infinite-professional-slideshow-resource-for-businesses-for-2024/"><u>Infinite Professional Slideshow Resource for Businesses for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/les-meilleurs-logiciels-de-migration-de-donnees-sur-pc-dell-selection-et-conseils-dutilisation/"><u>Les Meilleurs Logiciels De Migration De Données Sur PC Dell - Sélection Et Conseils D'Utilisation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/memorial-day-sale-save-60-on-the-apple-watch-se-a-standout-pick-of-2023-revealed-by-zdnet/"><u>Memorial Day Sale: Save $60 on the Apple Watch SE - A Standout Pick of 2023 Revealed by ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sensational-sentences-the-strategy-of-speak-up-lines/"><u>Sensational Sentences: The Strategy of Speak-Up Lines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-importance-of-safeguarding-artificial-intelligence-data-on-apples-cloud-platform-cybersecurity-focus/"><u>The Importance of Safeguarding Artificial Intelligence Data on Apple's Cloud Platform | Cybersecurity Focus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-the-best-portable-tablets-comprehensive-expert-testing-zdnet/"><u>The Ultimate Guide to the Best Portable Tablets : Comprehensive Expert Testing | ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-must-try-artificial-intelligence-narrative-creators/"><u>Top 4 Must-Try Artificial Intelligence Narrative Creators</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-nubia-red-magic-8s-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Nubia Red Magic 8S Pro Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-chatgpt-on-terminal-exploring-shellgpt-techniques/"><u>Unleash ChatGPT on Terminal: Exploring ShellGPT Techniques</u></a></li>
+</ul></div>
 

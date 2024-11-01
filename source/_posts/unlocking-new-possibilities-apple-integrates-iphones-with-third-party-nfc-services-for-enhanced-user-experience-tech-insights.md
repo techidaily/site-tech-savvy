@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Possibilities: Apple Integrates iPhones with Third-Party NFC Services for Enhanced User Experience | Tech Insights"
-date: 2024-10-19T23:57:12.577Z
-updated: 2024-10-26T16:57:49.872Z
+date: 2024-10-27T17:38:11.201Z
+updated: 2024-11-01T18:56:23.011Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -56,10 +56,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -70,6 +70,13 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -77,10 +84,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -88,13 +95,6 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,24 +130,17 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mastering-whatsapps-call-conversation-strategy/"><u>[Updated] 2024 Approved Mastering WhatsApp's Call Conversation Strategy</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-a-comparative-review-sns-hdr-pro-and-other-editors-for-2024/"><u>[Updated] A Comparative Review SNS HDR Pro and Other Editors for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-masterful-iphone-images-through-strategic-leading-lines/"><u>[Updated] Masterful iPhone Images Through Strategic Leading Lines</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-filmmakers-edge-mastering-kinemasters-zoom-functionality/"><u>[Updated] The Filmmaker's Edge Mastering Kinemaster's Zoom Functionality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-innovation-duels-googles-gemini-vs-openais-chatgpt/"><u>AI Innovation Duels: Google's Gemini Vs. OpenAI’s ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/defining-intelligence-will-ai-beat-human-judges/"><u>Defining Intelligence: Will AI Beat Human Judges?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/echoing-futures-next-generation-of-ai-talks/"><u>Echoing Futures: Next Generation of AI Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-llama-2s-features-and-applications/"><u>Exploring Llama 2'S Features and Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-separate-worlds-of-nlp-ml/"><u>Exploring the Separate Worlds of NLP, ML</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-zte-nubia-flip-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on ZTE Nubia Flip 5G?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-honor-90-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-making-of-ai-interactions-is-it-an-employable-skill/"><u>The Making of AI Interactions: Is It an Employable Skill?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rise-of-virtual-therapy-top-5-bot-innovations/"><u>The Rise of Virtual Therapy: Top 5 Bot Innovations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-for-optimizing-your-digital-television-signal-using-interior-antennas/"><u>The Ultimate Guide for Optimizing Your Digital Television Signal Using Interior Antennas</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-htc-u23-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About HTC U23 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-water-resistant-smartwatch-models-in-depth-analysis-and-reviews-by-experts-techradar/"><u>Top Rated Water-Resistant Smartwatch Models - In-Depth Analysis & Reviews by Experts | TechRadar</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unifying-nvidia-geforce-and-windows-platforms/"><u>Unifying Nvidia GeForce & Windows Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-intrinsic-intelligence-implementations-in-hardware/"><u>Unraveling Intrinsic Intelligence Implementations in Hardware</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-cgps-accuracy-in-medical-dialogues/"><u>Unveiling CGP's Accuracy in Medical Dialogues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-seamlessly-embedding-youtube-subtitles-an-easy-to-follow-guide/"><u>[Updated] Seamlessly Embedding YouTube Subtitles An Easy-to-Follow Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-strategic-use-of-slug-lines-in-blogging-for-2024/"><u>[Updated] Strategic Use of Slug Lines in Blogging for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-to-crafting-your-own-insta-tones/"><u>2024 Approved Step-By-Step Guide to Crafting Your Own Insta Tones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-samsung-galaxy-a51-5g-analysis-unbeatable-value-in-the-5g-realm/"><u>Comprehensive Samsung Galaxy A51 5G Analysis: Unbeatable Value in the 5G Realm</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-selection-of-18-premium-deals-for-high-performance-laptops-this-prime-day-insider-tips-on-hp-apple-and-razer-from-zdnets-tech-experts.50/"><u>Discover the Ultimate Selection of 18 Premium Deals for High-Performance Laptops This Prime Day: Insider Tips on HP, Apple, and Razer From ZDNet's Tech Experts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-htc-u23-pro-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost HTC U23 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-nutrition-with-chatgpt-help/"><u>Personalized Nutrition with ChatGPT Help</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/section-2b-five-facts-to-remember/"><u>Section 2B: Five Facts to Remember</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-your-inbox-chaos-with-this-one-simple-email-hack-no-rule-juggling-needed-techwise/"><u>Simplify Your Inbox Chaos with This One Simple Email Hack – No Rule Juggling Needed! | TechWise</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-online-dailymotion-downloader-and-converter/"><u>Updated Free Online Dailymotion Downloader and Converter</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-merge-your-videos-for-free-the-best-web-based-tools-for-2024/"><u>Updated Merge Your Videos for Free The Best Web-Based Tools for 2024</u></a></li>
 </ul></div>
 

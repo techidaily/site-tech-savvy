@@ -1,7 +1,7 @@
 ---
 title: Effortless Battery Preservation with macOS Monterey's Low Power Feature | Detailed Guide by ZDNET
-date: 2024-10-22T17:03:48.113Z
-updated: 2024-10-26T17:13:57.601Z
+date: 2024-10-25T17:59:13.558Z
+updated: 2024-11-01T17:45:59.166Z
 tags:
   - apple
 categories:
@@ -28,15 +28,28 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -48,10 +61,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -61,13 +74,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -85,6 +91,13 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -98,13 +111,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,17 +154,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-full-analysis-compreenaside-with-camstudio-screencap/"><u>[New] 2024 Approved Full Analysis Compreenaside with CamStudio Screencap</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-instagram-reel-creation-guide/"><u>[New] Instagram Reel Creation Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovative-ways-to-document-your-digital-collaboration-sessions/"><u>[Updated] In 2024, Innovative Ways to Document Your Digital Collaboration Sessions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-optimization-for-streamlined-hr-tasks/"><u>AI Optimization for Streamlined HR Tasks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-culinary-classroom-for-healthy-eating/"><u>ChatGPT's Culinary Classroom for Healthy Eating</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/closing-credits-creations-affordable-premium-and-more/"><u>Closing Credits Creations Affordable, Premium & More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-dataset-to-dialogue-building-a-unique-bot/"><u>From Dataset to Dialogue: Building a Unique Bot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-grind-dissecting-chatgpt-4s-slow-shift-from-35/"><u>GPT's Grind: Dissecting ChatGPT-4's Slow Shift From 3.5</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-tecno-spark-20-proplus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Spark 20 Pro+ in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-image-editing-remove-background-in-picsart-guide/"><u>Navigating Image Editing Remove Background in Picsart Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/perfecting-videos-a-premier-editor-for-vimeo-professionals-for-2024/"><u>Perfecting Videos A Premier Editor for Vimeo Professionals for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/should-you-trust-ai-like-chatgpt-and-bard-for-financial-advice/"><u>Should You Trust AI Like ChatGPT and Bard for Financial Advice?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-complete-screencast-process-methodical-instructional-video/"><u>[New] In 2024, Complete Screencast Process Methodical Instructional Video</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-sharing-guide-for-tiktok-content/"><u>[Updated] 2024 Approved Twitter Sharing Guide for TikTok Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-guide-to-free-image-editor-apps/"><u>2024 Approved The Ultimate Guide to Free Image Editor Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-ai-communicator-showdown-gpt-or-bing-leads/"><u>Best AI Communicator Showdown - GPT or Bing Leads?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-chatgpt-for-enhanced-emotional-health-and-wellness/"><u>Choosing ChatGPT for Enhanced Emotional Health and Wellness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-insights-into-advantages-threats/"><u>Dissecting AI: Insights Into Advantages, Threats</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-infinix-gt-10-pro-device-sim-by-drfone-android/"><u>Easily Unlock Your Infinix GT 10 Pro Device SIM</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-your-browsing-experience-with-agentgpt-agents/"><u>Empower Your Browsing Experience with AgentGPT Agents</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excel-evolution-unlocked-by-integrating-ai-ingenuity-of-chatgpt/"><u>Excel Evolution Unlocked by Integrating AI Ingenuity of ChatGPT</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-se-2020-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-itel-a60-by-drfone-android/"><u>In 2024, How to Bypass FRP on Itel A60?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-cable-modem-and-wireless-router-bundles-of-2024-a-comparative-review/"><u>Leading Cable Modem and Wireless Router Bundles of 2024: A Comparative Review</u></a></li>
+<li><a href="https://discover-data.techidaily.com/tour-de-controle-pour-lintegration-et-le-partage-en-direct-des-donnees-dans-office-pour-windows-11/"><u>Tour De Contrôle Pour L'Intégration Et Le Partage en Direct Des Données Dans Office Pour Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-of-stories-top-4-innovative-ai-narrators/"><u>Unveiling the Future of Stories: Top 4 Innovative AI Narrators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-chatgpt-with-extensions/"><u>Unveiling the Power of ChatGPT with Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/write-less-achieve-more-with-ai-assistants/"><u>Write Less, Achieve More with AI Assistants</u></a></li>
 </ul></div>
 

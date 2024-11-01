@@ -1,7 +1,7 @@
 ---
 title: "Unleash ChatGPT on Terminal: Exploring ShellGPT Techniques"
-date: 2024-10-20T16:30:13.518Z
-updated: 2024-10-26T20:07:48.985Z
+date: 2024-10-25T16:26:14.642Z
+updated: 2024-11-01T16:39:32.400Z
 tags:
   - chatgpt
   - open-ai
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![Ubuntu terminal window code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-virtual-environment-module-in-ubuntu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Set Up the Virtual Environment
 
  Once you've installed the virtual environment, you can set it up, so that it can facilitate ShellGPT's commands seamlessly.
@@ -121,17 +114,10 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-virtual-environment-for-shellgpt-in-ubuntu-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Generate an OpenAPI Key
@@ -150,15 +136,22 @@ thumbnail: https://thmb.techidaily.com/e0aa0dfacb5bc4ee1d37cc4f4885664e2981c05a1
 
 ![OpenAI's secret key website page with an open dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/generate-api-secret-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To establish a connection on your Ubuntu machine, create an environment variable with the **export** command:
 
 `export OPENAI_API_KEY=<paste key details here>`
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add and Verify the API Key Into a Virtual Environment Variable
@@ -183,10 +176,10 @@ export OPENAI_API_KEY=<paste key details here>`
 ![List of variables in a linux terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-secret-key-in-env-list.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Your **OPENAI\_API\_KEY** environment variable should be listed in the output.
@@ -202,10 +195,16 @@ export OPENAI_API_KEY=<paste key details here>`
  Let the installation finish; meanwhile, you can check out some interesting ways to use the AI tool via your terminal window.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using ShellGPT for Running Queries via the Terminal
@@ -217,16 +216,17 @@ export OPENAI_API_KEY=<paste key details here>`
 ![Ubuntu terminal interface with a query response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-query-reponse.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using ShellGPT for Generating Code
@@ -266,21 +266,20 @@ export OPENAI_API_KEY=<paste key details here>`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-source-unlimited-stock-media-from-top-tier-4-youtube-channels/"><u>[New] 2024 Approved Source Unlimited Stock Media From Top-Tier 4 YouTube Channels</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-expert-tips-for-enhancing-youtube-videos-through-seo-mastery-for-2024/"><u>[New] Expert Tips for Enhancing YouTube Videos Through SEO Mastery for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-fb-video-experience-the-top-10-listed-tools/"><u>[New] FB Video Experience The Top 10 Listed Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-pure-portrayals-on-platforms-your-guide-to-authentic-snapshots/"><u>[New] In 2024, Pure Portrayals on Platforms Your Guide to Authentic Snapshots</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-excellent-collection-advanced-webcam-supports/"><u>[Updated] Excellent Collection Advanced Webcam Supports</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-optimal-settings-for-recording-movs-on-windows-11-systems/"><u>2024 Approved Optimal Settings for Recording MOVs on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-financial-expertise-with-abbyys-content-intelligence-for-accounting-professionals/"><u>Elevate Your Financial Expertise with ABBYY's Content Intelligence for Accounting Professionals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-online-presence-innovative-solutions-from-cookiebots-expertise/"><u>Elevate Your Online Presence: Innovative Solutions From Cookiebot's Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-website-engagement-using-cookiebots-innovative-solutions/"><u>Elevate Your Website Engagement Using Cookiebot's Innovative Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-user-experience-with-cookiebots-advanced-tracking-and-privacy-tools/"><u>Enhance User Experience with Cookiebot's Advanced Tracking & Privacy Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-conversion-rates-with-leadboxes-cookiebot-technology/"><u>Enhanced Conversion Rates with LeadBoxes' Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-online-performance-through-advanced-analytics-harness-the-potential-of-our-cookiebot-solution/"><u>Enhanced Online Performance Through Advanced Analytics: Harness the Potential of Our Cookiebot Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-user-experience-with-the-assistance-of-cookiebot-technology/"><u>Enhanced User Experience with the Assistance of Cookiebot Technology</u></a></li>
-<li><a href="https://article-posts.techidaily.com/giggle-graphics-humorhub-for-2024/"><u>Giggle Graphics HumorHub for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-how-you-interact-9-critical-benefits-of-opting-for-chatgpt-plus-today/"><u>Transform How You Interact: 9 Critical Benefits of Opting for ChatGPT Plus Today!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ukranian-language-skills-upgrade-in-minutes-a-day-106-chars/"><u>Ukranian Language Skills Upgrade in Minutes a Day (106 Chars)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-advanced-methods-for-effortless-recording-of-your-google-classes/"><u>[New] 2024 Approved Advanced Methods for Effortless Recording of Your Google Classes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-small-business-video-marketing-playbook/"><u>[New] In 2024, The Small Business Video Marketing Playbook</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-transcoding-ttml-and-ssa-into-easy-to-use-srt-format-for-2024/"><u>[Updated] Transcoding TTML & SSA Into Easy-to-Use SRT Format for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unlocking-user-generated-content-harnessing-community-influence/"><u>2024 Approved Unlocking User-Generated Content Harnessing Community Influence</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-y28-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo Y28 5G</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ices-pathway-to-writing-youtube-video-plans/"><u>A Novice's Pathway to Writing YouTube Video Plans</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adapting-chatgpt-for-enhanced-therapeutic-dialogue/"><u>Adapting ChatGPT for Enhanced Therapeutic Dialogue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479736151-beta-blocker-metabolism-is-often-mediated-by-liver-enzymes-with-genetic-variations-affecting-drug-levels/"><u>Beta Blocker Metabolism Is Often Mediated by Liver Enzymes, with Genetic Variations Affecting Drug Levels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-top-10-cost-free-srt-file-conversion-tools/"><u>Discover Top 10 Cost-Free Srt File Conversion Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-your-designs-incorporating-3d-text-psx/"><u>In 2024, Revolutionize Your Designs Incorporating 3D Text PSX</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-assistance-in-academic-analysis/"><u>Intelligent Assistance in Academic Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-auto-gpt-effective-standalone/"><u>Is Auto-GPT Effective Standalone?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plan-pack-and-proceed-the-ultimate-guide-to-7-free-ai-powered-apps/"><u>Plan, Pack, and Proceed – The Ultimate Guide to 7 Free, AI-Powered Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-blueprint-for-eliminating-unwanted-chatgpt-data/"><u>The Blueprint for Eliminating Unwanted ChatGPT Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-psychological-implications-of-ai-deployment/"><u>The Psychological Implications of AI Deployment</u></a></li>
 </ul></div>
 

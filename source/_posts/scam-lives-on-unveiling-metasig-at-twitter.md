@@ -1,7 +1,7 @@
 ---
 title: Scam Lives On! Unveiling Metasig at Twitter
-date: 2024-10-24T20:57:16.641Z
-updated: 2024-10-26T22:50:22.077Z
+date: 2024-10-27T18:35:23.776Z
+updated: 2024-11-01T18:57:09.545Z
 tags:
   - chatgpt
   - open-ai
@@ -54,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -124,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -166,18 +160,22 @@ thumbnail: https://thmb.techidaily.com/0de73caf3bb5c02daed1ee386cf09afb53bbd23f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-audio-capture-guide-best-ten-for-spotify-enthusiasts/"><u>[New] 2024 Approved Ultimate Audio Capture Guide Best Ten for Spotify Enthusiasts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-high-fidelity-android-3d-player/"><u>[New] High-Fidelity Android 3D Player</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unpacking-the-benefits-of-lgs-4k-sync-monitors/"><u>[Updated] Unpacking the Benefits of LG's 4K Sync Monitors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-your-browsing-interactions-the-7-chrome-ai-boosters/"><u>Enhance Your Browsing Interactions: The 7 Chrome AI Boosters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-started-with-chatgpts-enhanced-tools/"><u>Getting Started with ChatGPT's Enhanced Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-edge-40-neo-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-steps-for-iphone-screen-shotting/"><u>In 2024, Essential Steps for iPhone Screen Shotting</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interpreting-sentiments-the-rise-of-emotive-computation/"><u>Interpreting Sentiments: The Rise of Emotive Computation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-ai-write-like-you-tailoring-techniques-for-text/"><u>Making AI Write Like You: Tailoring Techniques for Text</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revised-google-news-feed-for-informed-users/"><u>Revised Google News Feed for Informed Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shield-up-dont-surrenderflee-googles-bard-app/"><u>Shield Up, Don't Surrender—Flee Google's Bard App!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-swiftly-excise-your-youtube-comment-spam/"><u>[New] 2024 Approved How to Swiftly Excise Your Youtube Comment Spam</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androidiphones-best-free-imagery-modification-apps-ranked/"><u>Android/iPhone's Best FREE Imagery Modification Apps Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-hugging-face-functions-and-usage/"><u>Demystifying Hugging Face: Functions and Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-dialogue-with-siri-assisted-chatgpt/"><u>Enhancing Dialogue with Siri-Assisted ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fake-chatgpt-chrome-extension-steals-facebook-logins/"><u>Fake ChatGPT Chrome Extension Steals Facebook Logins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-to-play-6-exciting-chatgpt-designed-games/"><u>Get Ready to Play: 6 Exciting ChatGPT-Designed Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-write-persuasive-proposals-with-chatgpt/"><u>How to Write Persuasive Proposals With ChatGPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-s24-ultra-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy S24 Ultra to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/initially-released-voice-controlled-ar-experience/"><u>Initially Released Voice-Controlled AR Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/modern-vr-equipment-overview/"><u>Modern VR Equipment Overview</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-era-of-employment-gpts-replacement-potential/"><u>New Era of Employment: GPT's Replacement Potential?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/parent-endorsed-premium-kids-tablets-review-expert-advice-on-tech-for-your-child-as-featured-in-zdnet/"><u>Parent-Endorsed Premium Kids’ Tablets Review - Expert Advice on Tech for Your Child, as Featured in ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-vs-basic-gpts-payoff-scale/"><u>Premium Vs. Basic: GPT's Payoff Scale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dark-side-of-conversational-bots-unveiling-the-8-critical-shortfalls/"><u>The Dark Side of Conversational Bots: Unveiling the 8 Critical Shortfalls</u></a></li>
+<li><a href="https://media-tips.techidaily.com/topfreier-mkv-player-fur-windows-11-professionelle-mkv-datei-wiedergabe-mit-einfachem-start/"><u>Topfreier MKV Player Für Windows 11: Professionelle MKV Datei Wiedergabe Mit Einfachem Start</u></a></li>
+<li><a href="https://facebook.techidaily.com/tracing-back-finding-former-job-references-on-fb/"><u>Tracing Back: Finding Former Job References on FB</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-get-lumafusion-for-mac-explore-the-best-video-editing-alternatives-for-2024/"><u>Updated Get Lumafusion for Mac Explore the Best Video Editing Alternatives for 2024</u></a></li>
 </ul></div>
 
