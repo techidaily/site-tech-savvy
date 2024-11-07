@@ -1,7 +1,7 @@
 ---
 title: Layman's Guide to AI World
-date: 2024-09-16T16:25:54.086Z
-updated: 2024-09-17T16:04:52.597Z
+date: 2024-11-05T23:13:16.263Z
+updated: 2024-11-07T12:01:56.503Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 * [How Is AI Being Used Today?](https://aligracehair.sjv.io/y209r3)
 * [The Future of AI](https://mindmanager.sjv.io/anq2nj)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI is like teaching computers to learn like humans by looking at data and making decisions, but it lacks common sense and emotions.
@@ -49,27 +56,27 @@ thumbnail: https://thmb.techidaily.com/802eeff691c55a6d5d09cbae446dc45a39ed24ae9
 
  But even with all this, computers still can't fully think or understand like humans. Modern AI systems don't have common sense, emotions, or consciousness.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI in More Detail
 
 ![chatgpt read aloud feature smartphone screen with chatgpt logo blur](https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  Artificial intelligence (AI) is a branch of computer science aiming to build machines capable of mimicking human intelligence. It involves creating algorithms that allow computers to learn from and make decisions or predictions based on data rather than following only explicitly programmed instructions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Machine Learning (ML)
 
@@ -78,10 +85,10 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
  Deep learning, a further subset of machine learning, uses artificial neural networks to make decisions and predictions. It is designed to mimic how a human brain learns and makes decisions.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Natural Language Processing (NLP)
@@ -109,19 +116,6 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  However, despite many advancements, AI still does not possess the full spectrum of human cognitive abilities, and we are still far from achieving [true artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/). The current AI technologies are task-specific and cannot understand context outside their specific programming.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Is AI Being Used Today?
 
  AI has potential and applications that stretch far beyond the tech realm alone.
@@ -145,16 +139,10 @@ Gavin Phillips/MakeUseOf
  AI systems can more effectively detect trends, patterns, and inconsistencies than a typical computer (or human, for that matter). For example, an AI system could more distinctly highlight less obvious user habits or preferences for social media platforms, allowing it to show more personalized advertisements.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Production and Design
@@ -208,5 +196,24 @@ Microsoft Image Creator/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-explore-deep-with-these-immersive-vr-clips/"><u>[New] In 2024, Explore Deep with These Immersive VR Clips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-the-art-of-video-production-initial-setup/"><u>[Updated] 2024 Approved Mastering the Art of Video Production Initial Setup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-melodic-matchmaking-complementary-soundtracks-for-boxings/"><u>[Updated] Melodic Matchmaking Complementary Soundtracks for Boxings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/androids-finest-moba-battles-compilation-10-edition/"><u>Android's Finest MOBA Battles Compilation (#10 Edition)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ces-202n4s-audio-innovations-ranked-discover-the-leading-tech-in-this-comprehensive-review-by-zdnet/"><u>CES 202N4's Audio Innovations Ranked! Discover the Leading Tech in This Comprehensive Review by ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-discovering-your-pcs-installed-software-on-windows/"><u>Comprehensive Guide: Discovering Your PC's Installed Software on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/echo-showdown-picking-between-the-echo-pop-or-echo-dot-for-optimal-alexa-experience-techreview/"><u>Echo Showdown: Picking Between the Echo Pop or Echo Dot for Optimal Alexa Experience | TechReview</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-amazon-echo-studio-assessment-continues-to-lead-as-the-premier-ai-powered-sound-experience/"><u>Exclusive Amazon Echo Studio Assessment: Continues to Lead as the Premier AI-Powered Sound Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-premium-alternatives-to-bose-and-sony-a-detailed-look-at-the-best-soundbars-on-the-market-zdnet/"><u>Exploring Premium Alternatives to Bose & Sony: A Detailed Look at the Best Soundbars on the Market | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-high-end-to-superior-how-switching-to-a-jbl-changed-my-audio-experience-a-surprising-review-by-zdnet/"><u>From High-End to Superior: How Switching to a JBL Changed My Audio Experience | A Surprising Review by ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-poco-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Poco Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/octobers-most-sought-after-amazon-echo-offers-unbeatable-black-friday-prices-guaranteed/"><u>October's Most Sought-After Amazon Echo Offers – Unbeatable Black Friday Prices Guaranteed!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/secrets-of-successful-online-entrepreneurs-on-fb-for-2024/"><u>Secrets of Successful Online Entrepreneurs on FB for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-wireless-speakers-the-ultimate-guide-by-zdnet/"><u>Top Rated Wireless Speakers: The Ultimate Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mobile-sound-systems-expert-picks-by-zdnet/"><u>Top-Rated Mobile Sound Systems - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-expert-picks-best-voice-isolation-technologies-for-music-creators/"><u>Updated In 2024, Expert Picks Best Voice Isolation Technologies for Music Creators</u></a></li>
+</ul></div>
 

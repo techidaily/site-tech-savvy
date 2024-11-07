@@ -1,7 +1,7 @@
 ---
 title: "Breaking Barriers: Generating Originality via Microsoft's Copilot"
-date: 2024-10-26T17:52:53.109Z
-updated: 2024-11-01T19:09:08.635Z
+date: 2024-11-02T00:40:59.622Z
+updated: 2024-11-07T07:03:06.155Z
 tags:
   - chatgpt
   - open-ai
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 
  That's right; you can use Microsoft Copilot to generate free AI images using DALL-E 3, and it's incredibly simple to do.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Microsoft Copilot Image Creator?
 
  The [Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/) first announced that AI image creation would be coming to Copilot on 21 March 2023\. At the time, Copilot was still called Bing AI Chat prior to its November 2023 name change.
@@ -58,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
  There are two "versions" of Copilot Image Creator, though they both work similarly. You can access the Copilot Image Creator directly from Microsoft Copilot within the Edge browser, which is an exclusive Edge feature. However, not wanting to cut potential users out, you can also access it in any browser by heading to the [Copilot Image Creator](https://copilot.microsoft.com/). I'll cover the differences between each option below, but both AI image creation tools follow the same premise: you input your words, and the AI tool turns them into unique images.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Microsoft Copilot Image Generator
@@ -69,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
  Microsoft's Copilot Image Creator uses DALL-E 3 to create AI images. DALL-E 3 is the same AI text-to-image you'll find on ChatGPT Plus, OpenAI's premium $20 subscription tier. So here's the rub: you can use the same DALL-E 3 image creation tool with Copilot without paying a penny.
 
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only [reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Microsoft Copilot Image Creator in Edge
 
@@ -90,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, from there, I selected the image I wanted to use, pressed the "expand" icon in the bottom right corner, and selected **Landscape**. Copilot auto-magically adjusted the original image into a 2:1 1792x1024, finally fulfilling my original request.
@@ -104,6 +90,13 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Microsoft Copilot Image Creator in Any Browser
 
  If you don't use Edge, you can use Copilot Image Creator in any browser with its dedicated site. The Copilot Image Creator site is mostly the same but with a couple of differences.
@@ -111,6 +104,13 @@ Close
  First up, the website version doesn't feature on-page AI editing like the Edge Copilot Image Creator. You can open any image you create in Microsoft Designer, but at the time of writing, this photo editor doesn't feature AI editing tools to change ratios, apply unique styles, and so on.
 
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.
 
@@ -145,14 +145,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-essential-guide-to-earnings-monetizing-content-on-vimeo/"><u>[New] 2024 Approved The Essential Guide to Earnings Monetizing Content on Vimeo</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-bring-your-vision-to-life-youtube-trailers-using-filmoras-magic/"><u>[New] Bring Your Vision to Life YouTube Trailers Using Filmora's Magic</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-ultimate-mic-selection-for-online-talent/"><u>[Updated] 2024 Approved Ultimate Mic Selection for Online Talent</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cambie-sus-archivos-png-por-jpg-sin-coste-soluciones-en-linea-de-movavi/"><u>Cambie Sus Archivos PNG Por JPG Sin Coste: Soluciones en Línea De Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-film-preview-spectacles/"><u>Elite Film Preview Spectacles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-online-omzettingsdienst-mp4-naar-vob-movavi/"><u>Gratis Online Omzettingsdienst MP4 Naar VOB - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movaviopusflac/"><u>Movaviで簡単フリーOPUSからFLACへの変換 - 無料!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/steps-to-reduce-100-drive-consumption-in-windows-11/"><u>Steps to Reduce 100% Drive Consumption in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-16-reliable-iso-tools-compatible-with-both-windows-and-macos/"><u>Top 16 Reliable ISO Tools Compatible with Both Windows & macOS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-embrace-the-pause-button-3-techniques-for-decelerating-youtube-video-playback-59-chars-slight-overage-with-rich-content-justification/"><u>[New] 2024 Approved Embrace the Pause Button 3 Techniques for Decelerating YouTube Video Playback (59 Chars, Slight Overage with Rich Content Justification)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-guide-to-utilizing-zero-cost-clocks/"><u>[New] 2024 Approved The Ultimate Guide to Utilizing Zero-Cost Clocks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elite-hd-visual-snapshot-solutions/"><u>[New] Elite HD Visual Snapshot Solutions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-curating-soundscapes-a-detailed-look-at-youtube-playlists/"><u>[Updated] In 2024, Curating Soundscapes A Detailed Look at YouTube Playlists</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastering-playlist-conversion-5-preferred-tools-for-youtube-streams/"><u>[Updated] In 2024, Mastering Playlist Conversion 5 Preferred Tools for YouTube Streams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dji-visuals-unlocked-20-free-color-filters-with-pay-option/"><u>DJI Visuals Unlocked 20 Free Color Filters with Pay Option</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gameplay-enhancement-the-art-of-scripting-with-chatgpt/"><u>Gameplay Enhancement: The Art of Scripting with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-does-edge-ai-translate-into-practical-application/"><u>How Does Edge AI Translate Into Practical Application?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-aid-creation-simplified-the-best-7-cybernetic-tools/"><u>Masterful Aid Creation Simplified: The Best 7 Cybernetic Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/six-strategies-for-succeeding-in-a-world-led-by-algorithms/"><u>Six Strategies for Succeeding in a World Led by Algorithms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speaking-smarter-will-claude-conquer-chatgpts-realm/"><u>Speaking Smarter: Will Claude Conquer ChatGPT's Realm?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ubuntu-meets-ai-automating-with-auto-gpt/"><u>Ubuntu Meets AI: Automating with Auto-GPT</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unexpected-laptop-screen-shutdown-what-to-do/"><u>Unexpected Laptop Screen Shutdown - What to Do?</u></a></li>
 </ul></div>
 

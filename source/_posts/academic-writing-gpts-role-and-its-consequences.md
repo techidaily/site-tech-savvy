@@ -1,7 +1,7 @@
 ---
 title: "Academic Writing : GPT's Role and Its Consequences"
-date: 2024-10-27T17:17:43.808Z
-updated: 2024-11-01T18:06:36.428Z
+date: 2024-11-05T03:11:28.570Z
+updated: 2024-11-07T06:39:45.544Z
 tags:
   - chatgpt
   - open-ai
@@ -40,18 +40,18 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 
  So, for many professors, the student essay is an excellent tool for developing critical thinking. It's also not as taxing for the students since most essays are take-home assignments.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Libraries, Internet Search, and Analytical Thinking vs. ChatGPT
 
  Before the proliferation of the internet, students had to exert double effort to research and write their essays. So, their critical and analytical thinking skills are exercised in multiple ways—searching for related literature to their topic, analysis of existing data, and how they write and present and their learnings.
 
 ![a library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-library.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When online search peaked, research became much easier for students. They no longer had to go through tons of books, magazines, and articles across different libraries—type in some choice keywords and separate the wheat from the chaff in the results.
 
@@ -102,10 +102,16 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
  Because of this, educators must find ways to make student essays more robust. For example, they can no longer assign general topics—like a book report on The Great Gatsby—because it's easy for students to ask ChatGPT or any other generative AI tool to write it for them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Student Essays Need to Evolve to Survive AI
@@ -120,22 +126,15 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 
 ![news and current affairs on a newspaper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/news-and-current-affairs-on-a-newspaper.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The free version of ChatGPT, the most popular generative AI today, is only updated up to September 2021 at the time of writing. So, it would help to ask essay questions relating to events that happened in the past three months.
 
  However, students with access to ChatGPT Plus or GPT-4 get a fully updated version of ChatGPT. So, as part of checking essays, the teacher should also quiz the student on what they wrote.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Students Should Present Their Essays as Reports
@@ -144,24 +143,25 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 
  This ensures that the students are truly knowledgeable in their assigned topic. And to further the discussion, the professor should encourage the student audience to ask questions. This will help the reporting student or group and the rest of the class think analytically.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Essays Should Be Written Offline During Class or Exams
 
  If an essay is the best way to determine a student's understanding of a topic, then it should be limited in the classroom during on-paper exams. That way, the student must rely solely on their knowledge to explain a topic.
 
 ![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Essays Can Still Gauge Student Knowledge and Competence
 
@@ -190,20 +190,24 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/2024-approved-upconversion-unveiled-sdr-to-hdri-a-complete-guide/"><u>2024 Approved Upconversion Unveiled SDR to HDRI - A Complete Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2024s-elite-range-of-suspended-audio-systems/"><u>2024'S Elite Range of Suspended Audio Systems</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/png-to-jpeg-movavi/"><u>無償のオンライン画像変換: PNG to JPEG - Movaviの簡単方法</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dissecting-the-dynamics-of-aurora-high-quality-outputs/"><u>Dissecting the Dynamics of Aurora High-Quality Outputs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-the-dark-screen-dilemma-on-dell-notebooks/"><u>Expert Tips for Fixing the Dark Screen Dilemma on Dell Notebooks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-conversion-of-vob-format-video-files-online-with-movavi/"><u>Free Conversion of VOB Format Video Files - Online with Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-online-konvertereen-cr2-naar-bmp-met-movavi-professioneel-image-converter/"><u>Gratis Online Konvertereen CR2 Naar BMP Met Movavi - Professioneel Image Converter</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-black-ops-4s-frame-rate-dips-and-steady-your-gameplay/"><u>How To Overcome Black Ops 4'S Frame Rate Dips & Steady Your Gameplay</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-download-screen-recorder-pro-for-windows-10/"><u>In 2024, Download Screen Recorder Pro for Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/online-tool-for-gratis-conversion-from-3gp-video-codec-to-3g2-swiftconvert/"><u>Online Tool for Gratis Conversion From 3GP Video Codec to 3G2 - SwiftConvert</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformar-snd-a-lineal-libre-de-costo-con-movavi-guia-completa/"><u>Transformar SND a Lineal Libre De Costo Con Movavi - Guía Completa</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-make-a-movie-online-for-free-top-9-options/"><u>Updated 2024 Approved Make a Movie Online for Free Top 9 Options</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Xiaomi 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726226278698-m4b-wav/"><u>무료 M4B WAV 변환 - 웨이비 라이브록과 중요성을 위해 최고의 도구</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-recording-methods-for-environmentally-friendly-screens-for-2024/"><u>[New] Best Recording Methods for Environmentally Friendly Screens for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-sound-clarity-for-youtube-audiences/"><u>[Updated] Mastering Sound Clarity for YouTube Audiences</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-professional-post-processing-how-to-erase-image-borders-easily/"><u>[Updated] Professional Post-Processing How to Erase Image Borders Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reducing-sound-levels-gradually-with-easy-steps-in-lumafusion/"><u>2024 Approved Reducing Sound Levels Gradually with Easy Steps in Lumafusion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-mastering-the-art-of-dating/"><u>ChatGPT's Role in Mastering the Art of Dating</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatutor-4-essential-gpt-accuracy-verification-for-teachers/"><u>ChaTutor 4: Essential GPT Accuracy Verification for Teachers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoy-endless-tunes-with-our-picks-top-7-free-music-apps-for-all-ios-and-android-users/"><u>Enjoy Endless Tunes with Our Picks: Top 7 Free Music Apps for All iOS & Android Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-register-for-chatgpt-telegram-whatsapp-and-other-services-without-a-phone-number/"><u>How to Register for ChatGPT, Telegram, WhatsApp and Other Services Without a Phone Number</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-achieve-cinematic-quality-with-sims-4-recordings/"><u>In 2024, Achieve Cinematic Quality with Sims 4 Recordings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-assessing-instagrams-selfie-validation/"><u>In 2024, Assessing Instagram's Selfie Validation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-rx-fanfare-update-pack/"><u>In 2024, RX Fanfare Update Pack</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/insta-pros-guide-accelerate-your-path-to-social-media-stardom/"><u>Insta Pro's Guide Accelerate Your Path to Social Media Stardom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-an-informed-ai-selection-comparing-bing-chat-to-chatgpt/"><u>Making an Informed AI Selection: Comparing Bing Chat to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-and-openai-artists-group-takes-stand-for-creative-rights/"><u>Meta & OpenAI: Artists' Group Takes Stand for Creative Rights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/regaining-control-over-your-chatgpt-experience/"><u>Regaining Control Over Your ChatGPT Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-chatgptplus-experience-transforming-how-we-learn-languages/"><u>The ChatGPT+ Experience: Transforming How We Learn Languages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-folklore-merging-human-art-with-machine-learning/"><u>The Future of Folklore: Merging Human Art with Machine Learning</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-12-mini-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 12 mini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-modifying-gpt-is-a-complex-task/"><u>Why Modifying GPT Is a Complex Task</u></a></li>
 </ul></div>
 

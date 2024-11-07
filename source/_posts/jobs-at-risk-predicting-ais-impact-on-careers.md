@@ -1,7 +1,7 @@
 ---
 title: "Jobs at Risk: Predicting AI's Impact on Careers?"
-date: 2024-09-13T16:10:13.129Z
-updated: 2024-09-17T16:01:34.339Z
+date: 2024-11-03T23:27:02.168Z
+updated: 2024-11-07T06:53:28.504Z
 tags:
   - chatgpt
   - open-ai
@@ -44,9 +44,23 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
 
  These examples might make you think there’s [no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/). However, that’s not an accurate assumption.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will ChatGPT Replace Programmers?
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
 
@@ -63,16 +77,10 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some [criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/), ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -86,16 +94,10 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
  Elsewhere, people are explicitly [formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and [spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
@@ -117,5 +119,26 @@ The world can’t stop talking about ChatGPT. Once people learn how to use ChatG
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-premier-10-layouts-ae-text-edition-for-2024/"><u>[New] Premier 10 Layouts AE Text Edition for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-new-wave-comparing-the-m3-and-m1-macbook-pro-for-your-next-upgrade/"><u>Apple’s New Wave: Comparing the M3 and M1 MacBook Pro for Your Next Upgrade</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/benevolent-algorithms-is-ai-truly-sensitive-to-human-feelings/"><u>Benevolent Algorithms: Is AI Truly Sensitive to Human Feelings?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clueing-into-claude-pros-strengths-against-chatgptplus/"><u>Clueing Into Claude Pro's Strengths Against ChatGPT+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cold-blobs-and-mythical-cooling-what-science-says/"><u>Cold Blobs and Mythical Cooling: What Science Says</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/directing-car-alterations-with-gpt-involvement/"><u>Directing Car Alterations with GPT Involvement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/end-the-nuisance-of-spam-texting-on-ios-devices-a-quick-and-effortless-3-step-solution-from-zdnet/"><u>End the Nuisance of Spam Texting on iOS Devices: A Quick & Effortless 3-Step Solution From ZDNET.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-gaming-with-newest-geforce-rtx-3080-driver-optimized-for-windows-11-8-and-7/"><u>Enhance Gaming with Newest GeForce RTX 3080 Driver - Optimized for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/face-flaunting-visual-guidebook/"><u>Face Flaunting Visual Guidebook</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-itbm-driver-not-available-error-easily/"><u>Fix ITBM Driver Not Available Error. Easily!</u></a></li>
+<li><a href="https://facebook.techidaily.com/interweaving-your-digital-presence-link-accounts-through-xbox/"><u>Interweaving Your Digital Presence: Link Accounts Through Xbox</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/learn-the-art-of-skype-voice-recording-in-mp3-free-for-2024/"><u>Learn the Art of Skype Voice Recording in MP3 (Free) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-ios-n-contact-poster-creation-and-distribution-with-namedrop-feature/"><u>Master the Art of iOS N Contact Poster Creation & Distribution with NameDrop Feature</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-fixes-for-madden-22-issues-in-minutes/"><u>Master the Fixes for Madden 22 Issues in Minutes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-cross-platform-messaging-sending-and-receiving-imessages-from-your-windows-computer/"><u>Mastering Cross-Platform Messaging: Sending & Receiving iMessages From Your Windows Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mlb-the-show-19-stunning-visuals-and-unexpected-rpg-features-in-depth-review/"><u>MLB The Show 19: Stunning Visuals & Unexpected RPG Features – In-Depth Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-cut-film-highlights/"><u>Prime Cut Film Highlights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476397229-struggling-with-control-center-on-iphone-try-these-eight-methods-to-resolve-it/"><u>Struggling With Control Center on iPhone? Try These Eight Methods to Resolve It.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-business-perspective-5-main-arguments-against-ais-invasion/"><u>The Business Perspective: 5 Main Arguments Against AI's Invasion</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Turing Test Defined & Chances for a New Champion
-date: 2024-09-12T16:06:39.259Z
-updated: 2024-09-17T16:32:20.802Z
+date: 2024-11-01T23:13:52.388Z
+updated: 2024-11-07T12:28:13.045Z
 tags:
   - chatgpt
   - open-ai
@@ -63,7 +63,21 @@ thumbnail: https://thmb.techidaily.com/ddb387910e1ac858898cd3858da4a32a6126aed23
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the last ten years, there have been two main claims that the Turing Test has been passed.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Eugene Goostman
 
@@ -72,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/ddb387910e1ac858898cd3858da4a32a6126aed23
  Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Google's LaMBDA
 
@@ -92,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/ddb387910e1ac858898cd3858da4a32a6126aed23
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ChatGPT
@@ -103,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/ddb387910e1ac858898cd3858da4a32a6126aed23
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -136,5 +150,26 @@ thumbnail: https://thmb.techidaily.com/ddb387910e1ac858898cd3858da4a32a6126aed23
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-essentials-in-composing-a-compelling-trailer-score/"><u>[New] 2024 Approved Essentials in Composing a Compelling Trailer Score</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-ideal-video-maker-apps-for-novice-iphone-and-android-users/"><u>[Updated] 2024 Approved Ideal Video Maker Apps for Novice iPhone and Android Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-your-podcasts-rss-feed-a-step-by-step-guide-for-2024/"><u>Crafting Your Podcast's RSS Feed A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-your-own-camera-obscura-a-safe-way-to-enjoy-the-solar-eclipse-tips-and-tricks/"><u>Creating Your Own Camera Obscura: A Safe Way to Enjoy the Solar Eclipse - Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/day-two-highlights-from-ces-2023-top-tech-innovations-unveiled-zdnets-exclusive-coverage/"><u>Day Two Highlights From CES 2023: Top Tech Innovations Unveiled - ZDNet's Exclusive Coverage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-top-contender-for-wyze-camera-lovers-how-the/"><u>Discovering the Top Contender for Wyze Camera Lovers: How The</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-labor-day-offer-secure-your-home-for-under-80-with-blinks-multi-cam-floodlight-setup/"><u>Exclusive Labor Day Offer! Secure Your Home for Under $80 with Blink's Multi-Cam Floodlight Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-review-the-ultimate-guide-to-the-jackery-explorer-1500-pro-a-top-tier-portable-charger/"><u>Expert Review: The Ultimate Guide to the Jackery Explorer 1500 Pro - A Top-Tier Portable Charger!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-extraordinary-heat-defying-abilities-of-a-sturdy-android-device-overshadowing-the-mundane-iphone/"><u>Explore the Extraordinary Heat-Defying Abilities of a Sturdy Android Device, Overshadowing the Mundane iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-flight-to-frame-editing-drones-into-art/"><u>From Flight to Frame Editing Drones Into Art</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-more-bang-for-your-buck-how-the-ring-spotlight-cam-pro-outperforms-expectations-on-sale-this-labor-day-zdnet-insight/"><u>Get More BANG FOR YOUR BUCK: How the Ring Spotlight Cam Pro Outperforms Expectations on Sale This Labor Day | ZDNET Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-for-a-classic-bbq-and-sports-viewing-with-walmarts-discounted-outdoor-tv-sets-this-memorial-day-detailed-review-on-zdnet/"><u>Get Ready for a Classic BBQ & Sports Viewing with Walmart's Discounted Outdoor TV Sets This Memorial Day - Detailed Review on ZDNET!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-master-your-labor-day-celebration-expert-advice-and-ideas-from-zdnet-to-make-it-a-hit/"><u>How To Master Your Labor Day Celebration: Expert Advice and Ideas From ZDNET to Make It a Hit!</u></a></li>
+<li><a href="https://games-able.techidaily.com/incorporating-safety-in-family-steam-playtime/"><u>Incorporating Safety in Family Steam Playtime</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-quality-4k-panels-for-expert-colour-correction-for-2024/"><u>Premier Quality 4K Panels for Expert Colour Correction for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolving-audio-driver-issues-in-win10/"><u>Resolving Audio Driver Issues in Win10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsung-galaxy-z-flip-6-price-release-date-features-and-news/"><u>Samsung Galaxy Z Flip 6: Price, Release Date, Features, and News</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visual-storytelling-at-its-best-the-quintessential-5-techniques/"><u>Visual Storytelling at Its Best The Quintessential 5 Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-walmartplus-deserves-your-attention-heres-the-proof/"><u>Why Walmart+ Deserves Your Attention - Here's the Proof</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT: Understanding Token Cap, How High Can We Go?"
-date: 2024-09-15T16:35:59.214Z
-updated: 2024-09-17T16:06:02.207Z
+date: 2024-10-31T06:59:01.671Z
+updated: 2024-11-06T23:57:44.824Z
 tags:
   - chatgpt
   - open-ai
@@ -64,11 +64,25 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Free vs. Paid Tokens
 
  To give you a flavor of what's what within the ChatGPT application, OpenAI offers you a free limited token subscription. If you want to experiment with the ChatGPT API, use the free $5 credit, which is valid for three months. Once the limit is exhausted (or the trial period is up), you can pay-as-you-go, which increases the maximum quota to $120\.
 
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
@@ -83,19 +97,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 ## ChatGPT Token Pricing Structure
 
 ![Set of black opened envelope and cash dollars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-karolina-grabowska-4386370.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are a few different application models available, which you can choose based on your requirements:
 
@@ -112,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 | GPT-4 32k context | $0.06                                | $0.12                                     |
 
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Maximum Token Limits
 
@@ -136,10 +144,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Learn to Control Your ChatGPT Prompts for Best Results
@@ -167,5 +175,24 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-trivia-treasures-2024-best-general-knowledge-streaming-sites/"><u>[New] Trivia Treasures 2024 Best General Knowledge Streaming Sites</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-navigating-the-social-media-watersheds-of-your-interest-space/"><u>[Updated] In 2024, Navigating the Social Media Watersheds of Your Interest Space</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-save-on-soccer-spectacles-live-tape-trim-for-free/"><u>[Updated] In 2024, Save on Soccer Spectacles - Live, Tape, Trim for Free</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-novices-guide-to-changing-fb-photo/"><u>A Novice's Guide to Changing FB Photo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/audiophiles-guide-to-picking-the-perfect-vinyl-speakers-insider-tips-and-ratings-by-zdnet-professionals/"><u>Audiophile's Guide to Picking the Perfect Vinyl Speakers: Insider Tips and Ratings by ZDNet Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-outstanding-audio-the-top-non-bose-non-jbl-bluetooth-speaker-with-impressive-volume-levels-insights-from-zdnets-reviews/"><u>Discovering Outstanding Audio: The Top Non-Bose, Non-JBL Bluetooth Speaker with Impressive Volume Levels - Insights From ZDNet's Reviews</u></a></li>
+<li><a href="https://facebook.techidaily.com/dissecting-the-economic-value-of-metas-endorsement/"><u>Dissecting the Economic Value of Meta's Endorsement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/efficient-conversion-from-h264-to-h265-without-sacrificing-video-quality-or-increasing-file-size/"><u>Efficient Conversion From H.264 To H.265 Without Sacrificing Video Quality or Increasing File Size</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-the-power-of-sound-with-razer-leviathan-v2-a-detailed-review-tech-innovation-hub/"><u>Experience the Power of Sound with Razer Leviathan V2 - A Detailed Review | Tech Innovation Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-evaluation-marshall-active-noise-cancellation-features-on-techreviewzdnetcom/"><u>Expert Evaluation: Marshall Active Noise Cancellation Features on TechReviewZDNet.com</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/just-released-discover-whats-new-in-amazon-kids-with-our-latest-post-on-zdnet/"><u>Just Released! Discover What's New in Amazon Kids with Our Latest Post on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unbelievable-soundbar-swap-why-i-traded-up-for-a-jbl-and-what-you-need-to-know-expert-insights/"><u>The Unbelievable Soundbar Swap: Why I Traded Up for a JBL and What You Need to Know | Expert Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-affordable-bluetooth-speakers-below-100-reviewed-by-tech-experts-gadgetzdnet/"><u>Top 5 Affordable Bluetooth Speakers Below $100 Reviewed by Tech Experts - GadgetZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-headphones-for-your-turntable-industry-experts-picks-techradar/"><u>Top-Rated Headphones for Your Turntable: Industry Experts' Picks | TechRadar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fps-problems-and-hitching-performance-on-windows-cod-mow-2/"><u>Troubleshooting FPS Problems and Hitching Performance on Windows - COD: MoW 2</u></a></li>
+</ul></div>
 

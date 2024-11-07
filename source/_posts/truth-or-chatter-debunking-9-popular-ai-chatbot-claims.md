@@ -1,7 +1,7 @@
 ---
 title: Truth or Chatter? Debunking 9 Popular AI Chatbot Claims
-date: 2024-09-15T16:02:29.941Z
-updated: 2024-09-17T16:29:25.816Z
+date: 2024-11-06T10:10:40.936Z
+updated: 2024-11-07T10:58:21.347Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 
  It is complex, it is clever, and to some extent, you could argue the presence of intelligence—but not sentience. Any “intelligence” present in these tools is created by training them on massive amounts of data. In this sense, they are more akin to an incredibly powerful and flexible database than a sentient being.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Chatbots Can Handle Any Type of Task or Request
 
  While chatbots can be considered as something of a technological Swiss army knife, there are distinct limitations as to what they can achieve. This is apparent when working with complex or highly-specialized topics. But even simple tasks can throw them.
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
  We asked it: "What large language model does Google Bard use?"
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, just to be clear, there are known limitations to ChatGPT and the age of the data it can reference. That question was deliberately set up to expose this. However, we asked Bard the same question when [comparing Google Bard vs. ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/), and it got it wrong too:
 
@@ -63,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
 ![Screenshot of ChatGPT answering threat to humanity question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-threat-to-humanity-question.jpg)
 
  But it would say that. Wouldn't it?
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. AI Chatbots Are Infallible
 
@@ -102,24 +109,24 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
  However, for the moment at least, the potential for biased responses is an unresolved issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## 8\. Chatbots Are Actually Real Humans
-
-![Picture of mechanical typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/picture-of-mechanical-typewriter.jpg)
-
-<!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
   <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+## 8\. Chatbots Are Actually Real Humans
+
+![Picture of mechanical typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/picture-of-mechanical-typewriter.jpg)
+
  Perhaps the most ludicrous myth is that behind every AI chatbot is a real human. This one is treading a delicate line between conspiracy theory and myth, we won’t dwell on this one other than to say that it's nonsense.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. AI Chatbots Can Program Themselves
 
@@ -128,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
  While AI chatbots utilize machine learning techniques to improve their performance, they do not possess the ability to program themselves autonomously.
 
  The training process could be likened to the testing process of non-AI software. Training involves predefining their objectives, designing their architecture, and teaching them to generate responses based on the data in the relevant LLM. This entire progress still requires human intervention and programming expertise.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI Chatbots: Separating Fact From Fiction
 
@@ -154,5 +168,20 @@ thumbnail: https://thmb.techidaily.com/66474ad3ea796bd372c3cdc425ee2c1b3cee0dd88
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-secure-video-communication-made-simple-with-top-10-safe-apps-on-mobile-devices-for-2024/"><u>[New] Secure Video Communication Made Simple with Top 10 Safe Apps on Mobile Devices for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-phonesnapshot-protocols-expert-tips-for-mobile-capture-on-snapchat/"><u>[Updated] 2024 Approved Phonesnapshot Protocols Expert Tips for Mobile Capture on Snapchat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-storycraft-mastering-plot-and-prose-with-chatgpt/"><u>AI-Driven Storycraft: Mastering Plot and Prose with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-meta-quest-experience-with-apples-3d-spatial-content-step-by-step-guide-to-viewing/"><u>Enhance Your Meta Quest Experience with Apple's 3D Spatial Content - Step-by-Step Guide to Viewing</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/enhancing-public-services-how-artificial-intelligence-elevates-agency-operations/"><u>Enhancing Public Services: How Artificial Intelligence Elevates Agency Operations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-scoop-june-2024s-must-have-discounts-at-best-buy-featured/"><u>Exclusive Scoop: June 2024'S Must-Have Discounts at Best Buy, Featured</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gtx-1650-super-graphics-card-drivers-download-and-update-guide-for-windows-11/"><u>GTX 1650 Super Graphics Card Drivers Download and Update Guide for Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-budgetclouds-vault-spaceful-large-data-sanctuary/"><u>In 2024, BudgetCloud's Vault Spaceful Large Data Sanctuary</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-customization-of-ios-18-control-center-on-iphones-a-step-by-step-guide-techadvisor/"><u>Mastering the Customization of iOS 18 Control Center on iPhones: A Step-by-Step Guide - TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/propel-chatgpt-forward-top-9-must-have-plugins-here/"><u>Propel ChatGPT Forward: Top 9 Must-Have Plugins Here</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/verstehen-sie-die-unterschiede-effiziente-datensicherungsmethoden-inkrementell-und-differentiell/"><u>Verstehen Sie Die Unterschiede: Effiziente Datensicherungsmethoden - Inkrementell Und Differentiell</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/video-creation-journey-from-adobe-premiere-to-youtube-for-2024/"><u>Video Creation Journey From Adobe Premiere to YouTube for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-pivot-to-claude-transforming-businesses-with-innovative-ai/"><u>Why Pivot to Claude: Transforming Businesses with Innovative AI</u></a></li>
+</ul></div>
 

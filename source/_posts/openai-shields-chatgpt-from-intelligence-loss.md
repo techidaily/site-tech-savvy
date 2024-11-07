@@ -1,7 +1,7 @@
 ---
 title: OpenAI Shields ChatGPT From Intelligence Loss
-date: 2024-10-27T17:34:58.743Z
-updated: 2024-11-01T16:38:26.773Z
+date: 2024-11-03T19:02:53.016Z
+updated: 2024-11-07T10:51:30.536Z
 tags:
   - chatgpt
   - open-ai
@@ -37,16 +37,10 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
  Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stanford Study Suggests ChatGPT Drop Off
@@ -62,22 +56,15 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 ![chatgpt study answers changing chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 ![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
@@ -88,10 +75,10 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  The report explains that ChatGPT's large language model chain of thought "did not work" when presented with the questions in June. Conversation drift has always been a notable issue with LLMs, but the extreme variance in responses suggests performance issues and changes to ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is ChatGPT Getting Worse? OpenAI Says No
@@ -103,6 +90,13 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  Furthermore, Welinder later pointed to OpenAI's releases for ChatGPT and the constant stream of updates the company has delivered throughout 2023\.
 
  Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can OpenAI Restore ChatGPT to Its Original State?
 
@@ -129,14 +123,20 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-cross-into-the-world-of-shared-tiktok-experiences/"><u>[New] Cross Into the World of Shared TikTok Experiences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rectify-zero-error-hypervisor-not-found-in-sandbox-mode/"><u>How to Rectify Zero Error: Hypervisor Not Found in Sandbox Mode</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-se-2020-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone SE (2020) Activation Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-with-personalized-zen-routines/"><u>Integrating ChatGPT with Personalized Zen Routines</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pivotal-scene-choices-for-editors/"><u>Pivotal Scene Choices for Editors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reassessing-paperclips-through-ais-lens-of-innovation/"><u>Reassessing Paperclips Through AI's Lens of Innovation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/reviewers-guide-to-yuneec-typhoon-h-performance-for-2024/"><u>Reviewer’s Guide to Yuneec Typhoon H Performance for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-new-frontier-advanced-chatbot-innovation/"><u>The New Frontier: Advanced Chatbot Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unseen-linguist-how-gpt-deciphers-human-communication/"><u>Unseen Linguist: How GPT Deciphers Human Communication</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-6-best-apps-to-remove-objects-from-photo-on-iphone/"><u>[New] 6 Best Apps to Remove Objects From Photo on iPhone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-secure-and-upgrade-your-video-conferences-top-10-recorder-choices/"><u>[New] In 2024, Secure and Upgrade Your Video Conferences - Top 10 Recorder Choices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos/"><u>[New] Tailored Touch-Up Top 6 Apps to Exclude Unwanted Elements From Photos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-recollect-rivals-mobile-battlegrounds-in-samsungs/"><u>[Updated] 2024 Approved Recollect Rivals Mobile Battlegrounds in Samsungs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-nord-n30-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/code-creation-contenders-github-copilot-vs-chatgpts-skills/"><u>Code Creation Contenders: GitHub Copilot Vs. ChatGPT's Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-free-twitter-stream-linuss-hidden-tech-trojans-explained-and-ai-chatbot-woes/"><u>Emoji-Free Twitter Stream, Linus's Hidden Tech, Trojans Explained, & AI ChatBot Woes.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-digital-self-portrait-designing-your-animated-profile/"><u>In 2024, Digital Self-Portrait Designing Your Animated Profile</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mapping-out-instagram-deactivations/"><u>In 2024, Mapping Out Instagram Deactivations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-codegpt-integration-with-vs-code/"><u>Mastering CodeGPT: Integration with VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-career-goals-with-chatgpt/"><u>Maximizing Career Goals with ChatGPT</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-cutting-edge-editing-40-final-cut-pro-x-keyboard-shortcuts-you-need-for-2024/"><u>New Cutting-Edge Editing 40 Final Cut Pro X Keyboard Shortcuts You Need for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overreliance-on-algorithms-in-patient-care-might-lead-to-wrong-treatment/"><u>Overreliance on Algorithms in Patient Care Might Lead to Wrong Treatment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/say-goodbye-to-a-messy-inbox-with-this-simple-technique-no-need-for-rigid-filters-or-separate-email-addresses/"><u>Say Goodbye to a Messy Inbox with This Simple Technique: No Need for Rigid Filters or Separate Email Addresses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-choosing-a-camera-gimbal-for-drone-photographers/"><u>The Ultimate Guide To Choosing A Camera Gimbal For Drone Photographers</u></a></li>
 </ul></div>
 

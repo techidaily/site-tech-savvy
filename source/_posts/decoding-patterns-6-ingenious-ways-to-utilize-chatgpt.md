@@ -1,7 +1,7 @@
 ---
 title: "Decoding Patterns: 6 Ingenious Ways to Utilize ChatGPT"
-date: 2024-09-12T16:20:21.541Z
-updated: 2024-09-17T16:24:52.325Z
+date: 2024-11-06T09:10:32.826Z
+updated: 2024-11-07T03:17:59.542Z
 tags:
   - chatgpt
   - open-ai
@@ -58,11 +58,32 @@ CALCULATE(
 
 ![A prompt response from ChatGPT about a debugging task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image1-v1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. To Interpret Data and Explain Complex Code
 
 ![A prompt from ChatGPT that displays the explaination of a code block](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image6-v1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. To Write, Edit and Generate Codes, Formula, and Syntax
 
@@ -90,13 +111,6 @@ else:
 
 ![A prompt that display clearly written code by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image4-v1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Learning New Skills
 
  We have an article on how you can [add a static date and time in Google Sheets](https://www.makeuseof.com/add-static-date-time-google-sheets/). You can use ChatGPT to learn more about this topic or how to do something similar in a different application. For example, how to add a static date and time in Tableau.
@@ -104,13 +118,6 @@ else:
 ![A prompt that show how to add a static date and time in Tableau.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image5-v1.jpg)
 
  By writing a prompt, you can learn about new features and skills, or how to use a specific function in your favorite analytical tool.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Document Your Codes
 
@@ -261,10 +268,10 @@ ORDER BY e.employee_id;`
 ![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Data Analysts Can Use ChatGPT in Their Work
@@ -290,5 +297,26 @@ ORDER BY e.employee_id;`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-canva-skills-purging-images-of-their-surroundings/"><u>[New] Canva Skills Purging Images of Their Surroundings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-speak-with-ease-simple-pubg-sound-tweaks/"><u>[New] Speak with Ease Simple PUBG Sound Tweaks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tial-guides-to-the-top-10-student-focused-history-vlogs/"><u>Essential Guides to the Top 10 Student-Focused History Vlogs</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-v30-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 15 Pro Max Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max Passcode Screen?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-7-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 7 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-the-enhanced-airpods-4-from-apple-now-with-find-my-technology-and-usb-c-charging-options-tech-insights-on-zdnet/"><u>Introducing the Enhanced AirPods 4 From Apple: Now with Find My Technology and USB-C Charging Options | Tech Insights on ZDNET</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/perfecting-youtube-videos-through-enhancement-tips-for-2024/"><u>Perfecting YouTube Videos Through Enhancement Tips for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-performing-e-readers-reviewed-beyond-remarkable-and-kindle/"><u>Top Performing E-Readers Reviewed: Beyond Remarkable and Kindle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-common-mozilla-firefox-errors-reboot-strategies-by-zdnet-experts/"><u>Troubleshooting Common Mozilla Firefox Errors – Reboot Strategies by ZDNet Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-to-resolve-line-artifacts-on-your-tv-display-unit/"><u>Troubleshooting Techniques to Resolve Line Artifacts on Your TV Display Unit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-joining-the-ranks-of-top-writers-email-lists-tech-insights/"><u>Ultimate Guide: Joining the Ranks of Top Writers' Email Lists | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-gmail-without-ads-discover-the-simple-method-and-its-unexpected-limitation-digitalwise-tips/"><u>Unlocking Gmail Without Ads? Discover the Simple Method & Its Unexpected Limitation | DigitalWise Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-success-elite-leaders-reveal-crucial-professional-growth-strategies-from-spin-the-wheel/"><u>Unlocking Success: Elite Leaders Reveal Crucial Professional Growth Strategies From 'Spin the Wheel'</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-features-a-guide-to-libreoffices-innovative-page-numbering-tool/"><u>Unveiling the Features: A Guide to LibreOffice's Innovative Page Numbering Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-new-bookable-appointment-feature-in-google-calendar-a-game-changer-reviewed-by-zdnet/"><u>Unveiling the New Bookable Appointment Feature in Google Calendar: A Game-Changer Reviewed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wireless-free-wi-fi-boost-set-up-your-house-network-using-non-ethernet-solutions-zdnet/"><u>Wireless-Free Wi-Fi Boost: Set Up Your House Network Using Non-Ethernet Solutions | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-presents-your-perfect-match-a-comprehensive-guide-to-the-best-free-note-taking-for-mac-users/"><u>ZDNet Presents: Your Perfect Match - A Comprehensive Guide to the Best Free Note-Taking for Mac Users</u></a></li>
+</ul></div>
 

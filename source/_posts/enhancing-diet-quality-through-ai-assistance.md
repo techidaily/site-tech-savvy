@@ -1,7 +1,7 @@
 ---
 title: Enhancing Diet Quality Through AI Assistance
-date: 2024-09-14T16:31:46.963Z
-updated: 2024-09-17T16:29:34.686Z
+date: 2024-10-31T11:13:12.441Z
+updated: 2024-11-07T02:40:39.192Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 * How long do you want the cooking time to be for each meal?
 * How much do you want the cost per meal to be if you're cooking on a budget?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT to Determine Your TDEE and BMR
 
 ![ChatGPT AI chatbot online tool TDEE BMR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tdee-bmr.jpg)
@@ -56,28 +63,28 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 
  BMR is the energy your body uses while at rest. Knowing these numbers is important to your particular goals. All you have to do is type "**How do I calculate my TDEE and BMR?**" into ChatGPT, and it automatically generates the needed equations and formulas.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT to Create a Healthy Meal Plan
 
  Now is the time you can start playing around with ChatGPT and see how it can help you come up with some healthy meal plan ideas. Remember to include all the details of your meal plan in your prompts. ChatGPT can give you a better response if you’re more in-depth about what you're asking for.
 
  In addition, you can even ask ChatGPT to include a full grocery list of all the ingredients you need as well as the measurements for each item.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Meal Plan Example Prompts for ChatGPT
 
 ![chatgpt AI chatbot online tool meal plan example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-meal-plan-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here are some examples of prompts you can type into ChatGPT to help you build a healthy meal plan. A healthy meal plan is different for everyone, so always add as many or as few details as you want.
@@ -85,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
 * Five-day vegan meal plan for weight loss that serves two adults with three meals per day, has a 30-minute cook time, costs $10 per meal, and contains 1800 calories per day.
 * Two-week vegetarian meal plan that caters to nut allergies, serves one, and includes three meals per day. No more than one hour of cooking time with an included grocery list.
 * One-week meal plan with three meals, one snack, and no dietary restrictions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Problems With ChatGPT Meal Plans
 
@@ -102,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/7b383aed23b1ada69f4ef595191e5a033238c1b3d
  Additionally, ChatGPT doesn't work too well if you want to save money or [live a zero-waste lifestyle](https://www.makeuseof.com/zero-waste-youtube-channels/). You can ask ChatGPT to create a month-long meal plan, for instance, but it doesn't automatically share ingredients across multiple recipes.
 
  This can result in spending an enormous amount of money on groceries and lots of extra unused ingredients.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Better Meal Planning Alternatives to ChatGPT
 
@@ -127,14 +134,14 @@ Close
 
 ![Eat this much meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-meal-plan.jpg)
 
-![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
 
 Close
 
@@ -161,5 +168,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-25-popular-tiktok-creators-with-anime-flair/"><u>[New] 2024 Approved 25 Popular TikTok Creators with Anime Flair</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-animated-text-tips-free-inclusion-techniques/"><u>[Updated] Animated Text Tips Free Inclusion Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-review-the-full-picture-of-facetunes-new-features/"><u>[Updated] In-Depth Review The Full Picture of Facetune's New Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-phantom-taps-rising-reports-of-unresponsive-interactions-on-apple-watch-solutions-explored-tech-insights/"><u>1. 'Phantom Taps': Rising Reports of Unresponsive Interactions on Apple Watch – Solutions Explored | Tech Insights</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1725288157525-windows-10cd/"><u>最新Windows 10マシンから簡単な方法で高品質CD制作へ！</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/assemble-visual-media-for-queue-upgrade-for-2024/"><u>Assemble Visual Media for Queue Upgrade for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-pro-unveiled-a-comparative-study-with-chatgptplus/"><u>Claude Pro Unveiled: A Comparative Study with ChatGPT+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancers-vs-ai-bots-navigating-between-bing-chat-and-gpt-3/"><u>Freelancers Vs. AI Bots: Navigating Between Bing Chat and GPT-3</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-realtek-hd-audio-controller-wont-launch-complete-solution/"><u>How to Fix Realtek HD Audio Controller Won't Launch – Complete Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mind-blowing-news-speak-to-the-ai-gpt/"><u>Mind-Blowing News: Speak To The AI GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-case-for-claude-3-top-4-benefits-over-chatgpt/"><u>The Case for Claude 3: Top 4 Benefits Over ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-teacher-ai-alliance-top-8-advantages-of-embracing-technology/"><u>The Teacher-AI Alliance: Top 8 Advantages of Embracing Technology</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-features-of-the-nokia-31-your-ultimate-entry-level-smartphone-choice/"><u>Unveiling the Features of the Nokia 3.1 - Your Ultimate Entry-Level Smartphone Choice</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Dissecting Dialogues: Unveiling Truth About AI Bot Capabilities"
-date: 2024-09-13T16:34:31.504Z
-updated: 2024-09-17T16:33:38.556Z
+date: 2024-11-01T17:03:06.206Z
+updated: 2024-11-07T08:46:00.220Z
 tags:
   - chatgpt
   - open-ai
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Chatbots may be clever, but they aren’t capable of any type of task and will sometimes fail on the simplest of questions.
 
 ## 3\. Chatbots Are a Threat to Humanity
@@ -63,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 ![Screenshot of ChatGPT answering threat to humanity question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-threat-to-humanity-question.jpg)
 
  But it would say that. Wouldn't it?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. AI Chatbots Are Infallible
 
@@ -85,6 +85,19 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
 
  Human interaction is a complex and multileveled process that involves such elements as empathy, critical thinking, emotional understanding, and intuition. None of these attributes are present in generative AI chatbots.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. AI Generative Chatbots Are Only Good for Text Interactions
 
  This one has at least a ring of truth about it. However, advancements have been made in the field of AI generative chatbots to expand their capabilities beyond just text.
@@ -92,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
  Recent developments have introduced multimodal chatbots that can handle not only text but also incorporate other interactions such as images, videos, and even voice commands.
 
  The speed at which these tools are developing is part of the reason behind this myth. The boundaries of what this technology can do are being pushed at a rapid pace and the initial iterations that were primarily text-based are already considered old-fashioned.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Chatbots Will Always Provide Unbiased Responses
 
@@ -109,17 +115,37 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
  However, for the moment at least, the potential for biased responses is an unresolved issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Chatbots Are Actually Real Humans
 
 ![Picture of mechanical typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/picture-of-mechanical-typewriter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Perhaps the most ludicrous myth is that behind every AI chatbot is a real human. This one is treading a delicate line between conspiracy theory and myth, we won’t dwell on this one other than to say that it's nonsense.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. AI Chatbots Can Program Themselves
 
@@ -154,5 +180,22 @@ thumbnail: https://thmb.techidaily.com/3299531766a0d348d78dd04349d2683155a00d71b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-color-depth-from-rgb-to-srgb/"><u>[New] Color Depth From Rgb to Srgb</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-elevating-video-quality-with-captivating-soundtracks/"><u>2024 Approved Elevating Video Quality with Captivating Soundtracks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-installation-instructions-for-snapchat-on-a-mac/"><u>2024 Approved Installation Instructions for Snapchat on a Mac</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-multilingual-maven-writes-on-cutting-edge-video-translators-ranked-23/"><u>2024 Approved The Multilingual Maven’ Writes On Cutting-Edge Video Translators Ranked 23</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/begin-a-journey-through-ai-on-bing-enrollment-steps/"><u>Begin a Journey Through AI on Bing: Enrollment Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-8-gpt-suggestions-for-sharpening-focus-in-a-digital-age/"><u>Critical 8 GPT Suggestions for Sharpening Focus in a Digital Age</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-full-features-sony-fdr-x1000-model-for-2024/"><u>Exploring the Full Features Sony FDR-X1000 Model for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-civi-3frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Civi 3FRP Lock</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-the-facebook-flip-when-to-follow-when-not-to-unfollow/"><u>Mastering the Facebook Flip: When to Follow, When Not to Unfollow</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/politeness-in-digital-dialogue-ai-engagement-guidelines/"><u>Politeness in Digital Dialogue: AI Engagement Guidelines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ai-revolution-in-web-search-redefining-how-users-interact-with-online-content/"><u>The AI Revolution in Web Search: Redefining How Users Interact with Online Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-big-reason-to-choose-apples-iphone-16-pro-instead-of-the-max-model-this-year-exclusive-findings/"><u>The Big Reason to Choose Apple's iPhone 16 Pro Instead of the Max Model This Year - Exclusive Findings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-4-reasons-im-holding-onto-my-iphone-14-instead-of-switching-to-an-iphone-16-pro/"><u>The Top 4 Reasons I'm Holding Onto My iPhone 14 Instead of Switching to an iPhone 16 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-critical-errors-in-using-the-apple-vision-pro-protect-your-investment/"><u>Top 3 Critical Errors in Using the Apple Vision Pro - Protect Your Investment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-bots-are-winning-the-rise-of-conversational-ai/"><u>Why Bots Are Winning: The Rise of Conversational AI</u></a></li>
+</ul></div>
 

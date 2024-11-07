@@ -1,7 +1,7 @@
 ---
 title: Questioning the Benefit of AI-Driven Chat Bots
-date: 2024-09-13T16:15:49.560Z
-updated: 2024-09-17T16:07:10.879Z
+date: 2024-11-06T13:23:32.234Z
+updated: 2024-11-06T21:30:15.155Z
 tags:
   - chatgpt
   - open-ai
@@ -36,9 +36,23 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 
  When put in messaging apps, the amount of harm it can do is even greater since people might use it to (intentionally or unintentionally) spread misinformation among their contacts and on social media, proliferate propaganda, and foster echo chambers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. People Don't Like Talking to Bots
 
 ![Small orange and silver robot sitting on carpeted floor with a laptop in front of it.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-robot-working-on-laptop-computer-artificial-intelligence-concept-3d-rendering-generative-ai)
 
@@ -60,6 +74,13 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
  Up until AI tools allow you the option to train their language model based on your chat history, they will not be able to replicate your unique dialect and eccentricities. That said, this challenge is not that hard to solve, so we might see it being implemented soon.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Writing Good Prompts Takes Time
 
 ![Man Texting on Mobile Phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/man-mobile.jpg)
@@ -69,13 +90,6 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
  This process makes sense when you want to write long-form content but is extremely inefficient when writing multiple, short responses in an informal conversation.
 
  The time it might take to refine your prompts and get useable responses will be, in most cases, more than the time it would've taken you if you just wrote the messages yourself.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. AI May Produce Offensive Results
 
@@ -91,13 +105,6 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
  In some cases, it was genuinely funny and played along with my sarcasm. But in other cases, it either defaulted back to an unfunny cookie-cutter response or simply refused to participate in the conversation altogether, saying that as it's just a LLM, it can't help me with my query.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reliance on AI May Lead to Poor Communication
 
  Another subtle yet substantial problem with integrating generative AI into messaging apps is how it can affect our ability to communicate. If we increasingly rely on AI to converse with each other, it may hinder our ability to [train our emotional intelligence](https://www.makeuseof.com/ways-increase-your-emotional-intelligence/) and social skills.
@@ -105,16 +112,10 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
  The point here is that the more we outsource our social needs to AI, the worse we will get at communicating ideas through organic means. In other words, the more you use AI to talk to your contacts, the more likely you may be to degrade the quality of your relationships.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Not Everything Needs to Have AI
@@ -140,5 +141,22 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-how-to-handle-previewed-activities-on-facebook/"><u>[New] How to Handle Previewed Activities on Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nderstanding-youtube-shorts-revenue-strategy-for-2024/"><u>[New] Understanding YouTube Shorts Revenue Strategy for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-warping-writings-a-visual-medias-secret-weapon/"><u>[Updated] 2024 Approved Warping Writings A Visual Media's Secret Weapon</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proven-techniques-in-the-art-of-srt-file-making/"><u>[Updated] Proven Techniques in the Art of SRT File Making</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-streamlining-content-sharing-between-pc-and-iphone-for-2024/"><u>[Updated] Streamlining Content Sharing Between PC and iPhone for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-leading-list-for-best-vector-resources-for-2024/"><u>[Updated] The Leading List for Best Vector Resources for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/defending-your-videos-against-youtube-copyright-strikes/"><u>Defending Your Videos Against YouTube Copyright Strikes</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/maximize-mac-capacity-in-minutes-essential-techniques-for-swiftly-clearing-disk-space/"><u>Maximize Mac Capacity in Minutes: Essential Techniques for Swiftly Clearing Disk Space</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-moto-g14-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Moto G14 has been deleted</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-picks-for-ultimate-tech-presents-at-best-buy-zdnet-insights/"><u>Top Picks for Ultimate Tech Presents at Best Buy | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-ar-eyewear-choose-the-optimal-picks-according-to-zdnet/"><u>Top-Ranked AR Eyewear - Choose the Optimal Picks According to ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-gadget-game-secure-iphone-ipad-watch-airpods-and-mac-at-the-cost-of-one-leading-visionpro/"><u>Transform Your Gadget Game: Secure iPhone, iPad, Watch, AirPods, and Mac at the Cost of One Leading VisionPro!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-interaction-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-handbook-for-enhanced-ux-zdnet-insights/"><u>Transforming Interaction with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Handbook for Enhanced UX | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-handbook-zdnet/"><u>Transforming UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Handbook | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vr-tech-comparison-apples-vision-pro-vs-meta-quest-understanding-the-differences-in-tracking-space/"><u>VR Tech Comparison: Apple's Vision Pro Vs. Meta Quest - Understanding the Differences in Tracking Space</u></a></li>
+</ul></div>
 

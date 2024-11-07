@@ -1,7 +1,7 @@
 ---
 title: Game Development Transformed by AI-Driven Innovations
-date: 2024-09-12T16:05:56.022Z
-updated: 2024-09-17T16:11:53.827Z
+date: 2024-11-06T00:49:15.470Z
+updated: 2024-11-07T04:47:32.546Z
 tags:
   - chatgpt
   - open-ai
@@ -44,19 +44,33 @@ thumbnail: https://thmb.techidaily.com/bf1aa2624ef83ca4793045372b8a4d65e582b5345
 
  Of course, all of this assumes that the issue of AI being trained on unwitting creatives’ work has been solved. Currently, the two biggest barriers to this technology becoming widely used are related to public image and legality. Right now, most AI is trained on work without the original creator's permission, and thanks to this, much AI-driven work isn't exactly well-received online.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How AI Could Oversaturate Video Games
 
 ![A chart showing the number of games relased on Steam each year from 2006 to 2023. The chart shows a huge increase in released games from 2014-2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chart-showing-increased-in-games-released-on-steam-each-year-steam-db.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While it’s true that AI will help more people make video games, it could also lead to a huge glut in the market, and that has caused some problems for the games industry in the past. With AI assistance, it will become even easier for low-effort developers to churn out low-quality, low-price games as a quick scam. This has already been an issue in previous years, with 2017 seeing Valve remove 173 asset flip games from the storefront as reported by [Gamesindustry.biz](https://www.gamesindustry.biz/valve-removes-173-asset-flipping-games-from-steam).
 
  AI assistants could make these games easier to produce and make it harder to detect such games, as AI-generated content can at least appear marginally different from bundles of pre-bought assets currently used. When you add the ability for the incredibly young and inexperienced to make a game because they feel like it, it’s not hard to see why the introduction of AI assistants would make some people nervous.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Another Gaming Explosion
@@ -78,10 +92,10 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
  On top of that, the games industry should not wait until legislation is imposed upon it by the government. Self-imposed codes and standards are an important part of any industry, from the Comic Code Authority to the ESRB; these self-policing policies are an important part of a healthy industry. People in positions of power within the industry need to start thinking about how we restrict the power that AI has over creative human expression now and not when it's too late.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Could AI Be the Future of Gaming?
@@ -105,5 +119,23 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-from-copycat-to-originalist-crafting-funny-relatable-memes/"><u>[New] 2024 Approved From Copycat to Originalist Crafting Funny, Relatable Memes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-to-become-a-travel-vlogger-the-ultimate-guide-of-travel-vlogging/"><u>[Updated] How To Become A Travel Vlogger | The Ultimate Guide of Travel Vlogging</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-and-sharing-custom-contact-flyers-in-ios-17-using-namedrop-a-step-by-step-guide/"><u>Crafting and Sharing Custom Contact Flyers in iOS 17 Using NameDrop: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-latest-enhancements-of-visionos-2-revealed-at-apples-wwdc-insights-and-intrigue/"><u>Exploring the Latest Enhancements of VisionOS 2 Revealed at Apple's WWDC - Insights and Intrigue!</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s21-fe-5g-2023-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S21 FE 5G (2023) in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-hacks-to-dodge-digital-lessons-at-home/"><u>In 2024, Hacks to Dodge Digital Lessons at Home</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-poco-c65-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Poco C65 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unlock-creative-potential-the-ultimate-list-of-affects-extensions/"><u>In 2024, Unlock Creative Potential The Ultimate List of Affects Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-call-recording-explained-compliance-and-instructions-for-each-us-state/"><u>IPhone Call Recording Explained: Compliance and Instructions for Each US State</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-considerations-in-employing-chatgpt-for-therapy-support-systems/"><u>Key Considerations in Employing ChatGPT for Therapy Support Systems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-audio-anonymization-in-multimedia-a-step-by-step-approach-updated/"><u>New In 2024, Audio Anonymization in Multimedia A Step-by-Step Approach (Updated)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-6-titan-pioneers-lmg-excellence-showcase/"><u>Premier 6 Titan Pioneers: LMG Excellence Showcase</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prompt-crafting-the-workforce-behind-ais-responsiveness/"><u>Prompt Crafting: The Workforce Behind AI's Responsiveness</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-pick-for-cost-conscious-car-owners-the-apeman-c450-dashcam-uncovered/"><u>Top Pick for Cost-Conscious Car Owners: The Apeman C450 Dashcam Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-apples-labeling-is-your-device-considered-vintage-or-obsolete-a-deep-dive/"><u>Understanding Apple's Labeling: Is Your Device Considered 'Vintage' Or 'Obsolete'? A Deep Dive</u></a></li>
+</ul></div>
 

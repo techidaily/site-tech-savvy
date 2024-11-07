@@ -1,7 +1,7 @@
 ---
 title: "Claim Your Prize: Participate in OpenAI's Innovative Error Tracking Mission"
-date: 2024-09-14T16:38:34.576Z
-updated: 2024-09-17T16:12:32.839Z
+date: 2024-11-05T17:35:42.280Z
+updated: 2024-11-06T18:54:58.791Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -58,9 +65,23 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Here, you must fill in the following information:
 
@@ -79,16 +100,10 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -98,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
  These include server-side injection, server security misconfiguration, [cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage, [cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -129,5 +137,24 @@ thumbnail: https://thmb.techidaily.com/d0e21788f29958fdaba0fdac4398d13da91770825
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/emystifying-youtubes-video-editing-power-for-2024/"><u>[New] Demystifying YouTube's Video Editing Power for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adopting-the-future-of-conversational-ai-four-points-for-claude-3/"><u>Adopting the Future of Conversational AI: Four Points for Claude 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-eyes-ai-integration-in-domestic-robots-spotlighting-two-upcoming-innovations/"><u>Apple Eyes AI Integration in Domestic Robots, Spotlighting Two Upcoming Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auditory-commands-for-optimized-chatgpt-engagement/"><u>Auditory Commands for Optimized ChatGPT Engagement</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/classic-1980s-visual-elements-in-editing-workflow/"><u>Classic 1980S Visual Elements in Editing Workflow</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/experience-the-future-of-communication-mondlys-phrases/"><u>Experience the Future of Communication: Mondly’s Phrases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-the-latest-update-ios-18-is-here-installation-instructions-and-eligible-iphone-devices-techzdnet/"><u>Get the Latest Update: IOS 18 Is Here! Installation Instructions and Eligible iPhone Devices | TechZDNET</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/holy-stone-racing-delight-a-kid-friendly-remote-control-toy-reviewed-for-families-seeking-fun-and-adventure/"><u>Holy Stone Racing Delight - A Kid-Friendly Remote Control Toy Reviewed for Families Seeking Fun and Adventure</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-a15-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy A15 4G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-14-pro-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 14 Pro without Apple ID?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-live-streaming-made-simple-mastering-ps4-captures-using-obs/"><u>In 2024, Live Streaming Made Simple Mastering PS4 Captures Using OBS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-expertise-with-proton-vpn-plugin-for-browsers/"><u>Privacy Expertise with Proton VPN Plugin for Browsers</u></a></li>
+<li><a href="https://games-able.techidaily.com/reactive-vs-proactive-game-play-address-the-top-10-causes-of-crashes/"><u>Reactive vs Proactive Game Play: Address the Top 10 Causes of Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/set-up-llama-2-on-your-device-a-comprehensive-tutorial/"><u>Set Up Llama 2 on Your Device: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/speech-recognition-a-game-changer-for-visual-presentations-for-2024/"><u>Speech Recognition A Game Changer for Visual Presentations for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-best-iphoneipad-vpn-providers-expert-reviews-and-ratings-zdnet/"><u>Ultimate Guide to Choosing the Best iPhone/iPad VPN Providers: Expert Reviews and Ratings | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-in-depth-analysis-microsoft-surface-pro-8-the-ultimate-device-for-professionals/"><u>ZDNet's In-Depth Analysis: Microsoft Surface Pro 8 - The Ultimate Device for Professionals</u></a></li>
+</ul></div>
 

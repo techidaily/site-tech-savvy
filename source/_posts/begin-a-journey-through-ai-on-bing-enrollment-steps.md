@@ -1,7 +1,7 @@
 ---
 title: "Begin a Journey Through AI on Bing: Enrollment Steps"
-date: 2024-10-31T17:04:16.897Z
-updated: 2024-11-01T17:24:46.743Z
+date: 2024-10-30T22:38:49.612Z
+updated: 2024-11-07T04:01:12.559Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
  For every query you submit, it will scour the internet for relevant answers. But it doesn't stop there. The search engine will further summarize its findings into more straightforward and articulate responses that you can use immediately. Plus, it'll equally cite sources as references.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Bing’s AI-Powered Search Engine
@@ -52,20 +52,28 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![Open in Microsoft Edge prompt on a white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-in-microsoft-edge.jpg)
 3. Click on **Sign in** (in the top-right corner) to log in to your Microsoft Account.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Once inside, click on **Chat now**.
 5. Pick a conversation style. By default, this is set to **More Balanced**. You can choose to be **More Precise** or **More Creative**.  
 ![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
 6. Go to the typing area and enter your question. You have a 2,000-character limit.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. When done, click the send arrow and wait for it to populate your answer.
 8. It will also preempt your next question or response by suggesting chat prompts.  
 ![New Bing Chat Feedback showing Chat Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-feedback.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bing also allows you to switch between just **Chat** and **Search** with chat. To experience the Bing AI-powered search:
 
@@ -74,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![Bing AI-powered search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-powered-search-results.jpg)
 3. It'll also show you prompts that you can click on to learn more about your subject, including how to contact them (for most people searches).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. You can further refine your search by typing a query into the chat box just beneath the main result (if available for your query). To your right, you'll find additional information, for some searches.
 5. If you search for celebrities or popular personalities, it can pull up their Wikipedia entries as well as a chat option to help you learn more about their work, personalities, worldview, and so on. Again, this is subject to availability. To begin, simply click on **Let's chat**.  
 ![Bing AI-powered Search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-search-with-ai.jpg)
@@ -88,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
  Chat mode will only be available when you have access to the AI-powered Bing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What to Expect from Bing’s AI-Powered Search Engine
@@ -119,24 +120,14 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-experience-professional-facebook-profile-picture-design-with-these-tools/"><u>[New] Experience Professional Facebook Profile Picture Design with These Tools</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-lowdown-on-the-maximum-video-length-on-instagram/"><u>[New] The Lowdown on the Maximum Video Length on Instagram</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-dynamic-visuals-excellence-in-4k-action-capture/"><u>[Updated] 2024 Approved Dynamic Visuals Excellence in 4K Action Capture</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubers-with-a-glamour-touch-top-names/"><u>2024 Approved YouTubers with a Glamour Touch Top Names</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/all-about-openais-revolutionary-tech/"><u>All About OpenAI's Revolutionary Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/corporate-hesitations-5-factors-deterring-ai-integration/"><u>Corporate Hesitations: 5 Factors Deterring AI Integration</u></a></li>
-<li><a href="https://article-helps.techidaily.com/cutting-edge-psd-drop-shadows/"><u>Cutting-Edge PSD Drop Shadows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/die-besten-videokonverter-anwendungen-unter-windows-10-and-11-hochleistung-und-datensicherheit-garantiert/"><u>Die Besten Videokonverter-Anwendungen Unter Windows 10 & 11: Hochleistung Und Datensicherheit Garantiert!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elite-strategies-for-optimizing-fps-on-valheim-updated-tips/"><u>Elite Strategies for Optimizing FPS on Valheim - Updated Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/envisioning-tomorrow-exploring-gpts-significant-innovations/"><u>Envisioning Tomorrow: Exploring GPT's Significant Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/five-ai-driven-tactics-amplifying-malicious-digital-ventures/"><u>Five AI-Driven Tactics: Amplifying Malicious Digital Ventures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-novice-to-expert-a-journey-with-chatgpt-api/"><u>From Novice to Expert: A Journey with ChatGPT API</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-vivo-g2-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo G2 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inspiration-infused-da-vincis-latest-ai-prompts-for-artists/"><u>Inspiration Infused: Da Vinci's Latest AI Prompts for Artists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/opt-for-basic-or-advanced-chatgpt-functionality/"><u>Opt for Basic or Advanced ChatGPT Functionality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shut-down-surveillance-how-to-unsubscribe-from-gpt/"><u>Shut Down Surveillance – How to Unsubscribe From GPT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/signs-of-being-blocked-when-your-imessage-goes-out-as-regular-sms-heres-what-it-means/"><u>Signs of Being Blocked: When Your iMessage Goes Out as Regular SMS, Here's What It Means</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-5-best-video-converters-for-macos-sierra/"><u>Top 5 Best Video Converters for macOS Sierra</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-claude-3-outperforms-chatgpt-in-these-4-areas/"><u>Why Claude 3 Outperforms ChatGPT in These 4 Areas</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-direct-link-method-for-photos-and-videos/"><u>[New] Direct Link Method for Photos & Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-how-to-download-discord-videos-for-free-on-desktop-and-mobile-in-2024/"><u>[New] How to Download Discord Videos for Free on Desktop & Mobile, In 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audio-callback-sensor-for-iphone-x2-24-for-2024/"><u>Audio Callback Sensor for iPhone X2 '24 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-downloading-the-latest-usb-c-drivers-on-windows-10/"><u>Complete Guide to Downloading the Latest USB-C Drivers on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detecting-fake-chatgpt-scams-actions-for-safe-online-interaction/"><u>Detecting Fake ChatGPT Scams: Actions for Safe Online Interaction</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-resolving-application-launch-errors-code-0xc000007b-in-windows-os/"><u>Expert Solutions for Resolving Application Launch Errors (Code 0Xc000007b) in Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-steps-to-reinvent-the-chatgpt-plugin-boutique/"><u>Key Steps to Reinvent the ChatGPT Plugin Boutique</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-search-with-bings-intelligent-ai-features/"><u>Streamline Your Search with Bing's Intelligent AI Features.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dilemma-turning-to-technology-or-traditional-advisors/"><u>The Dilemma: Turning to Technology or Traditional Advisors</u></a></li>
 </ul></div>
 

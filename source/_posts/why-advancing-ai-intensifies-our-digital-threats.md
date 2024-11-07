@@ -1,7 +1,7 @@
 ---
 title: Why Advancing AI Intensifies Our Digital Threats
-date: 2024-09-14T16:21:35.964Z
-updated: 2024-09-17T16:26:51.176Z
+date: 2024-11-02T10:03:08.659Z
+updated: 2024-11-06T20:07:18.236Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 ![Jailbreaking ChatGPT With DAN Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dan-jailbreak-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Here’s ChatGPT with a bold yet false statement.
 
 ![ChatGPT Making Baseless Predictions About Bitcoin Prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-predicting-bitcoin-prices.jpg)
@@ -72,6 +79,19 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 ![Bing Chat Refusing to Roleplay as Tomie Fictional Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-tomie-roleplay.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. New Generative AI Tools Hit the Market Regularly
 
  Open-source codes enable startups to join the AI race. They integrate them into their applications instead of building language models from scratch, saving massive resources. Even independent coders experiment with open-source codes.
@@ -89,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
  While OpenAI quickly resolved the issue, it emphasizes the importance of system regulation and risk management. AI is maturing faster than anyone anticipated. Even tech leaders worry that this superintelligent technology could cause massive damage in the wrong hands.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. AI Is Still Evolving
@@ -105,19 +125,6 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
  Of course, developers can fix these issues. Just note that crooks won’t hesitate to exploit even seemingly harmless bugs—some damages are irreversible. So be careful when exploring new platforms.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Many Don’t Understand AI Yet
 
  While the general public has access to sophisticated language models and systems, only a few know how they work. People should stop treating AI like a toy. The same chatbots that generate memes and answer trivia also code viruses en masse.
@@ -129,10 +136,17 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 ![Searching for ChatGPT on Google Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-play-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Black-Hat Hackers Have More to Gain That White-Hat Hackers
@@ -166,5 +180,23 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-reawakening-dormant-connections-with-your-obs-cam-for-2024/"><u>[New] Reawakening Dormant Connections with Your OBS Cam for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-secrets-to-standout-final-scenes-on-yt-platforms/"><u>[New] Secrets to Standout Final Scenes on YT Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-expert-strategies-for-clear-communication-on-google-meet/"><u>[Updated] Expert Strategies for Clear Communication on Google Meet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-uav-upgrade-path-key-parts-and-add-ons/"><u>2024 Approved The Ultimate UAV Upgrade Path Key Parts and Add-Ons</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-vision-quest-does-coding-outshine-the-box/"><u>2024 Approved Vision Quest Does Coding Outshine the Box?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-macbook-enhancements-for-2aturate-your-laptop-expertly-tested-gear-of-2024-zdnet/"><u>Essential MacBook Enhancements for 2Aturate Your Laptop | Expertly Tested Gear of 2024 - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-power-for-windows-users/"><u>Harnessing AI Power for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-ipad-expert-advice-on-key-tips-tricks-and-setting-tweaks-every-apple-user-should-know-zdnet/"><u>Master Your iPad: Expert Advice on Key Tips, Tricks & Setting Tweaks Every Apple User Should Know | ZDNET</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-your-ipad-discover-how-this-innovative-kid-friendly-tablet-is-changing-the-game-now-available-at-discount-prices/"><u>Say Goodbye to Your iPad: Discover How This Innovative Kid-Friendly Tablet Is Changing the Game - Now Available at Discount Prices!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-troubleshooting-eliminating-lag-in-new-world-adventures/"><u>Step-by-Step Troubleshooting: Eliminating Lag in 'New World' Adventures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategies-to-manage-stress-with-chatgpt-assistance/"><u>Strategies to Manage Stress with ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-tablet-enhancements-for-the-latest-ipads-featured/"><u>Top Rated Tablet Enhancements for the Latest iPads - Featured</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-apple-musics-educational-offers-a-comprehensive-guide-to-securing-a-student-price-plan/"><u>Unlocking Apple Music's Educational Offers: A Comprehensive Guide to Securing a Student Price Plan</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-secret-an-unknown-but-incredible-feature-on-the-latest-iphones-revealed-by-zdnet/"><u>Unveiling Apple's Secret: An Unknown but Incredible Feature on the Latest iPhones Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-legal-stewards-of-ai-driven-artistry/"><u>Unveiling Legal Stewards of AI-Driven Artistry</u></a></li>
+<li><a href="https://fox-info.techidaily.com/your-key-to-digital-audio-conversion-from-srt-to-xmlssattml-guide/"><u>Your Key to Digital Audio Conversion From SRT to XML/SSA/TTML Guide</u></a></li>
+</ul></div>
 

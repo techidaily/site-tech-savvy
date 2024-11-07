@@ -1,7 +1,7 @@
 ---
 title: "Unlocking AI: Installing ChatGPT on Windows"
-date: 2024-10-31T17:17:32.115Z
-updated: 2024-11-01T17:02:21.855Z
+date: 2024-11-03T04:54:43.184Z
+updated: 2024-11-06T23:50:09.059Z
 tags:
   - chatgpt
   - open-ai
@@ -58,15 +58,22 @@ thumbnail: https://thmb.techidaily.com/2749ec4be60f0504bc654efda73e1c73772893136
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
 3. Click **Uninstall** again to confirm the action.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add ChatGPT as a Windows App Using Chrome
 
@@ -78,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/2749ec4be60f0504bc654efda73e1c73772893136
 3. Select **More Tools** and then **Create Shortcut**.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Enter a name in the **Create shortcut** popup.  
@@ -96,10 +103,16 @@ thumbnail: https://thmb.techidaily.com/2749ec4be60f0504bc654efda73e1c73772893136
 ![uninstall chrome shortcut chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chrome-shortcut-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Press the **Win** key and type **ChatGPT**.
@@ -135,13 +148,6 @@ thumbnail: https://thmb.techidaily.com/2749ec4be60f0504bc654efda73e1c73772893136
 
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press **Win + I** to open **Settings**.
 2. Next, open the **Apps** tab and click **Installed Apps**.
 3. Search for the ChatGPT app, click the **three-dots** menu next to the app name and select **Uninstall**.
@@ -175,19 +181,17 @@ thumbnail: https://thmb.techidaily.com/2749ec4be60f0504bc654efda73e1c73772893136
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-step-into-the-stream-a-guide-to-roku-and-facebook-live-broadcasts-for-2024/"><u>[New] Step Into the Stream A Guide to ROKU & Facebook Live Broadcasts for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-stunning-photography-10-top-grid-software/"><u>[Updated] 2024 Approved Stunning Photography 10 Top Grid Software</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-seamless-integration-using-your-switch-pro-controller-to-dominate-on-steam/"><u>[Updated] Seamless Integration Using Your Switch Pro Controller to Dominate on Steam</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transcoding-excellence-from-xml-ssa-to-srt-mastery/"><u>2024 Approved Transcoding Excellence From XML, SSA to SRT Mastery</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/a-comprehensible-guide-to-screen-recording-on-the-mi-11/"><u>A Comprehensible Guide to Screen Recording on the Mi 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-lava-blaze-2-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Lava Blaze 2 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-safely-get-your-favorite-shows-on-chia-anime-downloaded/"><u>How to Safely Get Your Favorite Shows on Chia Anime Downloaded!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-successfully-transform-cda-files-into-mp3-format-debunking-the-myth-of-instant-conversion/"><u>How To Successfully Transform CDA Files Into MP3 Format - Debunking The Myth of Instant Conversion</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/iphones-approach-to-high-dynamic-range-photography-for-2024/"><u>IPhone's Approach to High Dynamic Range Photography for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mka/"><u>MKAオーディオファイルの再生手順とトラブルシューティング</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mkvdvd/"><u>MKVフォーマットへのDVD変換手順</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp42/"><u>MP4形式への画面収録ファイル変換手法、2通り教えます！</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-cat-s42-durable-device-evaluation-robust-shield-vs-limited-velocity/"><u>Samsung Cat S42 Durable Device Evaluation: Robust Shield vs Limited Velocity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-instagram-hidden-tips-and-tricks/"><u>2024 Approved Top Instagram Hidden Tips and Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-ai-prompt-elite-cost-in-light-of-benefits/"><u>Evaluating AI Prompt Elite Cost in Light of Benefits</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-8-plus-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 8 Plus Activation Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hyper-personalized-sites-with-advanced-ai-search/"><u>Hyper-Personalized Sites with Advanced AI Search</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-dialogues-ai-showdown-between-gpt-and-bard/"><u>Intelligent Dialogues: AI Showdown Between GPT and Bard</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leading-online-course-sites-a-list-of-the-10-best-educational-resources/"><u>Leading Online Course Sites: A List of the 10 Best Educational Resources</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-flawless-computer-fixes/"><u>Leveraging AI for Flawless Computer Fixes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/samurai-spirit-explored-in-top-10-gaming-worlds-for-2024/"><u>Samurai Spirit, Explored in Top 10 Gaming Worlds for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-compatibility-get-the-newest-scansnap-driver-updates-for-windows-devices/"><u>Seamless Compatibility: Get the Newest ScanSnap Driver Updates for Windows Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/survival-guide-for-ai-dominated-professions-six-essentials/"><u>Survival Guide for AI-Dominated Professions: Six Essentials</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-6-solutions-to-overcome-werfaultexe-crashing-in-windows/"><u>Top 6 Solutions to Overcome werFault.exe Crashing in Windows</u></a></li>
 </ul></div>
 

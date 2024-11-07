@@ -1,7 +1,7 @@
 ---
 title: "Debunking 7 Myths: AI in Text Conversations"
-date: 2024-10-27T17:32:45.820Z
-updated: 2024-11-01T17:02:10.284Z
+date: 2024-11-04T04:50:52.388Z
+updated: 2024-11-06T16:08:56.207Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
  When put in messaging apps, the amount of harm it can do is even greater since people might use it to (intentionally or unintentionally) spread misinformation among their contacts and on social media, proliferate propaganda, and foster echo chambers.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. People Don't Like Talking to Bots
@@ -71,30 +71,31 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
 ![Man Texting on Mobile Phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/man-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Getting desired results from an AI chatbot heavily depends on the quality of your prompt. If you write a bad prompt, you're going to get a bad response and will have to refine the prompt until you get a satisfactory result.
 
  This process makes sense when you want to write long-form content but is extremely inefficient when writing multiple, short responses in an informal conversation.
 
  The time it might take to refine your prompts and get useable responses will be, in most cases, more than the time it would've taken you if you just wrote the messages yourself.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. AI May Produce Offensive Results
 
  Aside from accuracy, bias is one of the [biggest problems with generative AI](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). Some people perceive AI as unbiased since it doesn't have its own motives. However, the people behind these AI tools are ultimately humans with their own biases.
 
  In other words, bias is baked into the system. AI doesn't inherently understand what's considered offensive and what's not, so it might, for instance, be trained to be biased against certain groups of people or certain cultures—hence producing offensive results in the process.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. AI May Not Understand Sarcasm or Humor
 
@@ -103,10 +104,10 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 ![Google Bard chatbot attempting to be sarcastic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-bard-chatbot-attempting-to-be-sarcastic.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In some cases, it was genuinely funny and played along with my sarcasm. But in other cases, it either defaulted back to an unfunny cookie-cutter response or simply refused to participate in the conversation altogether, saying that as it's just a LLM, it can't help me with my query.
@@ -116,13 +117,6 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
  Another subtle yet substantial problem with integrating generative AI into messaging apps is how it can affect our ability to communicate. If we increasingly rely on AI to converse with each other, it may hinder our ability to [train our emotional intelligence](https://www.makeuseof.com/ways-increase-your-emotional-intelligence/) and social skills.
 
  The point here is that the more we outsource our social needs to AI, the worse we will get at communicating ideas through organic means. In other words, the more you use AI to talk to your contacts, the more likely you may be to degrade the quality of your relationships.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Not Everything Needs to Have AI
 
@@ -149,24 +143,20 @@ Image Credit: graphicsstudio/[Vecteezy](https://www.vecteezy.com/photo/22254572-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-iphone-photo-blurring-4-techniques-explored/"><u>[New] 2024 Approved Mastering iPhone Photo Blurring 4 Techniques Explored</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-seamless-time-lapse-production-using-advanced-gopro-software/"><u>[New] In 2024, Seamless Time Lapse Production Using Advanced GoPro Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-navigating-instagram-blocking-basics/"><u>[New] Navigating Instagram Blocking Basics</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-sending-past-moments-via-snapchat-camera-roll-guide/"><u>[New] Sending Past Moments via Snapchat Camera Roll Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-strategies-to-boost-your-facebook-pages-popularity-meter/"><u>[Updated] 2024 Approved Strategies to Boost Your Facebook Page's Popularity Meter</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-capturing-the-horizon-expert-techniques-in-drone-filmmaking/"><u>[Updated] Capturing the Horizon Expert Techniques in Drone Filmmaking</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-starting-points-for-motion-visual-creation/"><u>[Updated] Starting Points for Motion Visual Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-web-innovations-a-step-by-step-guide/"><u>ChatGPT Web Innovations: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/early-warning-signs-of-rogue-chatgpt-services/"><u>Early Warning Signs of Rogue ChatGPT Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-how-chatgpt-might-infringe-on-user-data-sovereignty/"><u>Evaluating How ChatGPT Might Infringe on User Data Sovereignty</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-the-conceptualization-of-the-internet-as-a-ubiquitous-costless-knowledge-repository/"><u>Evaluating the Conceptualization of the Internet as a Ubiquitous, Costless Knowledge Repository</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instant-itineraries-top-7-ai-driven-free-travel-planner-tools/"><u>Instant Itineraries: Top 7 AI-Driven, Free Travel Planner Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-craft-with-these-top-4-ai-story-weavers/"><u>Master Your Craft with These Top 4 AI Story Weavers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-your-guide-to-tactile-roleplay-games/"><u>Mastering ChatGPT: Your Guide to Tactile Roleplay Games</u></a></li>
-<li><a href="https://article-files.techidaily.com/storytelling-on-screen-crafting-compelling-narratives-for-instareels/"><u>Storytelling on Screen Crafting Compelling Narratives for InstaReels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-advances-in-artificial-linguistic-systems-gpt-1-to-4/"><u>Unveiling the Advances in Artificial Linguistic Systems (GPT-1 to 4)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-openais-shap-e-and-what-can-it-do/"><u>What Is OpenAI's Shap-E, and What Can It Do?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-selecting-androids-best-youtube-video-extractors/"><u>[New] Selecting Android's Best YouTube Video Extractors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-selecting-the-best-equipment-for-expeditions/"><u>[Updated] 2024 Approved Selecting the Best Equipment for Expeditions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimize-your-iphones-camera-for-perfection/"><u>[Updated] Optimize Your iPhone's Camera for Perfection</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726228211376-movavi-ogv-mov/"><u>移動維體驗！用 Movavi 無限量力地自由變更 OGV 到 MOV 格式</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-apples-vision-pro-beta-features-early-with-testflight-the-complete-guide/"><u>Access Apple's Vision Pro Beta Features Early with TestFlight – The Complete Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-tablet-showdown-of-2024-in-depth-analysis-and-ratings-by-industry-experts-cnet/"><u>Affordable Tablet Showdown of 2024: In-Depth Analysis and Ratings by Industry Experts | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolution-in-bing-thanks-to-microsoft/"><u>AI Revolution in Bing, Thanks to Microsoft</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/blockade-techniques-against-chatgpt-saving-conversations/"><u>Blockade Techniques Against ChatGPT Saving Conversations</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/business-video-editing-solutions-with-movavi-professional-kopen/"><u>Business Video Editing Solutions with Movavi - Professional Kopen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-perfect-iphone-a-comprehensive-guide-to-the-new-iphone-models-regular-plus-pro-pro-max/"><u>Choosing Your Perfect iPhone: A Comprehensive Guide to the New iPhone Models (Regular, Plus, Pro, Pro Max)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-witwizards-your-go-to-meme-app/"><u>In 2024, WitWizards Your Go-To Meme App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scam-alert-fake-gpt-programs-may-lead-to-privacy-breaches/"><u>Scam Alert: Fake GPT Programs May Lead to Privacy Breaches!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-gen-iphone-experience-with-ios-18-exploring-six-innovative-artificial-intelligence-features-and-whats-on-the-horizon-gadgetguru/"><u>The Next-Gen iPhone Experience with iOS ˈ18: Exploring Six Innovative Artificial Intelligence Features and What's on the Horizon | GadgetGuru</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-v27-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo V27 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-info.techidaily.com/wie-man-das-problem-mit-dem-uninitialisierten-datentrager-in-windows-11-beamt-professionelle-losungsmethode/"><u>Wie Man Das Problem Mit Dem Uninitialisierten Datenträger in Windows 11 Beamt – Professionelle Lösungsmethode</u></a></li>
 </ul></div>
 

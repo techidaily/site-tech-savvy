@@ -1,7 +1,7 @@
 ---
 title: Elevate AI Responses to Peak Performance with These 5 Proven Techniques
-date: 2024-09-11T16:06:37.305Z
-updated: 2024-09-17T16:01:28.904Z
+date: 2024-10-31T01:21:23.802Z
+updated: 2024-11-06T20:48:45.739Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
  Akin has also written a free (or pay-what-you-want) ebook for beginners called [The Art of ChatGPT Prompting](https://fka.gumroad.com/l/art-of-chatgpt-prompting) . It takes you step-by-step through the ChatGPT process of understanding what the AI does, why prompts are essential, and the principles of good PE. Akin also shares his "Act as…" hack for making ChatGPT behave the way you want without overloading it with too much information.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2. QuickRef ChatGPT Cheat Sheets
 
 ![QuickRef's ChatGPT cheat sheet offers free examples and templates of prompts for ChatGPT across various categories and uses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-quickref-cheat-sheets.jpg)
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
  The third video, titled Advanced ChatGPT Guide, is the one you want to pay particular attention to if you want to understand advanced prompts. Twarog goes into details of prompt engineering with a series of examples. Even if the examples aren't what you want to do with ChatGPT, go through these as an exercise to truly understand the finer points of composing a prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4. Micah Johns
 
  Twarog's series is definitely the best if you want to deep-dive into how ChatGPT works and its advanced uses. But if you're only going to use it for more practical day-to-day stuff for your job or hobbies, the YouTube series by Micah Johns is a more beginner-friendly way to learn PE for ChatGPT.
@@ -68,28 +82,21 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
  Micah's larger [How to Use ChatGPT playlist](https://www.youtube.com/playlist?list=PLRc1YiX2Z0mpeXlmv6n7ZsVPVn-2etOua) has several other real-world applications for ChatGPT. For example, you'll learn how to write a 5-page essay in 10 minutes with AI or make your superhero comic with ChatGPT and Midjourney, one of the [best free AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/) .
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5. Learn Prompting
 
 ![Learn Prompting is a free online course for beginner, intermediate, or advanced AI users to learn all aspects of prompt engineering](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-learn-prompting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Learn Prompting is a free online course to understand how to write prompts for any AI app, not just ChatGPT. Sander Schulhoff, a computer science student at the University of Maryland, designed it. It caters to a range of users, from complete novices to those with domain expertise or programming knowledge.
@@ -97,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
  The course is entirely text-based, with chapters that take you through different aspects of AI prompting. Schulhoff defines PE as "How to talk to AI to get it to do what you want." The Basics and Intermediate chapters will take you through the founding principles of PE with theory, tricks and tips, and examples.
 
  The course then goes into advanced practices like applied prompting (contributed by users), fine-tuning, images, and more, where you'll learn techniques like Chain of Thought, Self Consistency, etc. It might sound like a lot of jargon, but it'll be clear and easy to understand if you go through the course step-by-step.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Learning ChatGPT With a Personal Project
 
@@ -115,5 +129,22 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-beam-your-best-achieving-hd-quality-with-fb-live/"><u>[New] Beam Your Best Achieving HD Quality with FB Live</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-crafting-a-verified-instagram-account-essential-actions-for-rapid-follower-expansion/"><u>[New] Crafting a Verified Instagram Account Essential Actions for Rapid Follower Expansion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-master-photo-editing-seamless-integration-of-timestamps/"><u>[New] In 2024, Master Photo Editing Seamless Integration of Timestamps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-pathway-autoplay-youtube-videos-within-fb-networks/"><u>[New] The Ultimate Pathway Autoplay YouTube Videos Within FB Networks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-tips-for-risk-free-youtube-video-mp4-downloading/"><u>[Updated] 2024 Approved Tips for Risk-Free YouTube Video MP4 Downloading</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-devotees-rejoice-discover-the-new-complimentary-lg-tv-audio-upgrade/"><u>Apple Devotees Rejoice: Discover the New Complimentary LG TV Audio Upgrade</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-game-changing-20-anker-charger-feature-highlighted-in-zdnets-latest-review/"><u>Discover the Game-Changing $20 Anker Charger Feature Highlighted in ZDNet's Latest Review!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/framework-of-flawed-intelligence-policy/"><u>Framework of Flawed Intelligence: Policy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/prime-day-special-save-70-on-meta-quest-3-with-limited-time-discount-exclusive-tips-from-zdnet/"><u>Prime Day Special: Save $70 on Meta Quest 3 with Limited-Time Discount - Exclusive Tips From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/safeguard-your-conversations-disable-chatgpts-memory-feature/"><u>Safeguard Your Conversations: Disable ChatGPT's Memory Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safety-assessment-for-gpt-browser-integrations/"><u>Safety Assessment for GPT Browser Integrations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-spectrum-of-ai-accessibility-community-to-individual-models/"><u>The Spectrum of AI Accessibility: Community to Individual Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-vanguard-verdict-which-ai-tops-gemini-or-plush-chatgpt/"><u>The Vanguard Verdict: Which AI Tops, Gemini or Plush ChatGPT?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/twitch-troubles-no-more-fixing-the-infamous-error-4000-issue/"><u>Twitch Troubles No More: Fixing the Infamous Error 4000 Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-innovative-perspective-the-fascinating-appeal-of-wearable-goggles-according-to-top-experts-zdnet/"><u>Unveiling Apple's Innovative Perspective: The Fascinating Appeal of Wearable Goggles According to Top Experts | ZDNet</u></a></li>
+</ul></div>
 

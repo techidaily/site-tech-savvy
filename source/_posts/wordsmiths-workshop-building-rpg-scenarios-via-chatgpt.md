@@ -1,7 +1,7 @@
 ---
 title: "Wordsmith's Workshop: Building RPG Scenarios via ChatGPT"
-date: 2024-09-12T16:14:30.291Z
-updated: 2024-09-17T16:01:05.340Z
+date: 2024-11-05T17:08:13.412Z
+updated: 2024-11-07T07:46:32.838Z
 tags:
   - chatgpt
   - open-ai
@@ -84,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
 > 4\. Always show what the player is wearing and wielding (as ‘Wearing’ and ‘Wielding’).
@@ -114,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -135,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
 
@@ -169,13 +176,6 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -194,9 +194,23 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that [GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -319,5 +333,21 @@ thumbnail: https://thmb.techidaily.com/7b81e5a1677e5963f8851410568bf197590afb572
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-10-customizable-tikfilters-for-unique-content/"><u>[New] In 2024, Top 10 Customizable TikFilters for Unique Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-xr-solutions-overcome-apples-exclusivity-for-visionpro-users-a-tech-revelation-by-zdnet/"><u>Affordable XR Solutions Overcome Apple's Exclusivity for VisionPro Users - A Tech Revelation by ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipating-apple-vision-pros-arrival-in-feb-how-it-reimagines-shopping-with-unprecedented-sophistication-zdnet-exclusive/"><u>Anticipating Apple Vision Pro's Arrival in Feb: How It Reimagines Shopping with Unprecedented Sophistication | ZDNet Exclusive</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convert-swf-media-player-formats-to-high-quality-m4v-streaming-without-cost-explore-the-easy-solution-now/"><u>Convert Swf Media Player Formats to High-Quality M4v Streaming without Cost - Explore the Easy Solution Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-why-quest-3-outshines-its-rivals-in-user-preference-among-meta-vr-devices/"><u>Exploring Why Quest 3 Outshines Its Rivals in User Preference Among Meta VR Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-5-on-the-horizon-four-major-features-awaited-by-tech-enthusiasts/"><u>GPT-5 on the Horizon: Four Major Features Awaited by Tech Enthusiasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-huawei-nova-y71-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Huawei Nova Y71 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-11-pro-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 11 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/panorama-pixels-cutting-edge-photo-assembler/"><u>Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-ivision-a-strategic-guide-for-apples-critical-actions/"><u>Reviving iVision: A Strategic Guide for Apple's Critical Actions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-xr-glasses-provide-cost-effective-relief-from-apple-vision-pro-fomo-unveiling-the-savvy-choice-by-zdnet/"><u>Revolutionary XR Glasses Provide Cost-Effective Relief From Apple Vision Pro FOMO | Unveiling the Savvy Choice by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-linking-oculus-quest-2-and-smartphones-for-seamless-use/"><u>Step-by-Step Tutorial: Linking Oculus Quest 2 and Smartphones for Seamless Use</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-cant-i-access-the-recently-released-diablo-ii-reboot/"><u>Troubleshooting Guide: Why Can't I Access the Recently Released Diablo II Reboot?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Everyday Hero: Claudio's Challenge to GPT"
-date: 2024-09-12T16:06:11.061Z
-updated: 2024-09-17T16:25:56.739Z
+date: 2024-11-04T02:12:35.445Z
+updated: 2024-11-07T00:39:34.098Z
 tags:
   - chatgpt
   - open-ai
@@ -98,16 +98,16 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
 
  Lastly, ChatGPT does not support use via a VPN, which can be tricky if you're a regular VPN user or want to get around your region's geo-restrictions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Claude's Pros and Cons
 
  So, how does Claude compare to ChatGPT?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Claude's Pros
 
@@ -134,16 +134,10 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude: a Direct Comparison
@@ -151,16 +145,10 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Creative Abilities
@@ -175,7 +163,21 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
 
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Mathematical Abilities
 
@@ -185,16 +187,16 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
 
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When given the same problem, Claude gave us the following response:
 
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
 
@@ -213,13 +215,6 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
 > Flowers bloom in spring, but they also bloom in summer. The grass beyond the meadow is green. The aroma of the tree bark makes for a rich atmosphere.
 
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT and Claude May Become Close Rivals
 
@@ -240,5 +235,24 @@ thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-insta-authenticity-your-selfie-verification-journey-for-2024/"><u>[New] Unlocking Insta Authenticity Your Selfie Verification Journey for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-crafting-captivating-captions-a-triad-of-tips-for-insta-videos/"><u>[Updated] In 2024, Crafting Captivating Captions A Triad of Tips for Insta Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-emojis-the-real-meaning-you-may-not-know/"><u>[Updated] In 2024, Snapchat Emojis The Real Meaning You May Not Know</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-progressive-visual-prelude/"><u>[Updated] Progressive Visual Prelude</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-oneplus-open-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked OnePlus Open Phone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-enhanced-overclocking-with-xpgs-innovative-dual-fan-cooler-and-integrated-loop-suitable-for-cpus-up-to-280w/"><u>Experience Enhanced Overclocking with XPG's Innovative Dual-Fan Cooler and Integrated Loop - Suitable for CPUs up to 280W</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy M14 5G?</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-composure-post-high-living-days-for-windows-users/"><u>Regaining Composure Post-High Living Days, for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shop-the-best-deals-for-apple-airtag-bundles-and-score-a-24-discount-at-walmart-during-labor-day-promo-cnet/"><u>Shop the Best Deals for Apple AirTag Bundles & Score a $24 Discount at Walmart During Labor Day Promo | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speeding-up-file-searches-on-google-drive-essential-tips-and-tricks/"><u>Speeding Up File Searches on Google Drive: Essential Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/starting-fresh-top-5-tactics-for-an-unforgettable-debut-in-your-new-role-zdnet/"><u>Starting Fresh: Top 5 Tactics for an Unforgettable Debut in Your New Role | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-digital-workspace-discover-how-arcs-air-traffic-control-organizes-browsing-like-never-before-zdnet/"><u>Streamline Your Digital Workspace: Discover How Arc's 'Air Traffic Control' Organizes Browsing Like Never Before | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-majority-leaders-commit-to-expanding-telework-opportunities-within-two-years-a-study-by-zdnet/"><u>The Future Is Now: Majority Leaders Commit to Expanding Telework Opportunities Within Two Years - A Study by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/time-saving-triad-top-3-free-chrome-extensions-from-zdnet/"><u>Time-Saving Triad: Top 3 Free Chrome Extensions From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-strategies-for-advancing-your-career-path-toward-chief-information-officer-cio-success-insights-from-zdnet/"><u>Top 5 Strategies for Advancing Your Career Path Toward Chief Information Officer (CIO) Success: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-strategies-for-declining-useless-meeting-invites-tech-insights/"><u>Top 5 Strategies for Declining Useless Meeting Invites | Tech Insights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ate-buyers-guide-top-gpus-for-youtube-streamers-for-2024/"><u>Ultimate Buyer's Guide Top GPUs for YouTube Streamers for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cautionary Tales in the Age of Digital Psychiatry
-date: 2024-10-30T16:20:50.359Z
-updated: 2024-11-01T17:16:04.551Z
+date: 2024-11-04T03:42:29.751Z
+updated: 2024-11-06T22:38:38.590Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
  When it comes to mental health treatment, avoid disreputable sources altogether. Managing mental conditions can already be challenging. Having to fact-check advice puts you under unnecessary stress. Instead, focus on your recovery.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. AI Has Limited Real-World Knowledge
 
  Most generative tools have limited real-world knowledge. For instance, OpenAI only trained ChatGPT on information up until 2021\. The below screenshot of a conversation shows its struggle to pull recent reports on anxiety disorder.
@@ -43,15 +50,28 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 ![ChatGPT Can't Tell What Percentage of the Population has Anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-on-anxiety-disorder-statistics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Considering these constraints, an over-reliance on AI chatbots leaves you prone to outdated, ineffective advice. Medical innovations occur frequently. You need professionals to guide you through new treatment programs and recent findings.
 
  Likewise, ask about disproven methods. Blindly following controversial, groundless practices based on alternative medicine may worsen your condition. Stick to evidence-based options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Security Restrictions Prohibit Certain Topics
 
@@ -60,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
  Although beneficial, guidelines also impede functionality and versatility. Take Bing AI as an example. Its rigid restrictions prevent it from discussing sensitive matters.
 
  However, you should be free to share your negative thoughts—they’re a reality for many. Suppressing them may just cause more complications. Only guided, evidence-based treatment plans will help patients overcome unhealthy coping mechanisms.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. AI Can’t Prescribe Medication
 
@@ -88,19 +101,6 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
 ![ChatGPT Gives Generic Advice on Panic Attack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-panic-attack-advice.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A professional counselor or therapist would go beyond what AI suggests. You can use AI output as a starting point to better understand academic journals and research papers, but be sure to do deeper research or consult a professional.
 
 ## 6\. Self-Diagnoses Are Rarely Accurate
@@ -113,20 +113,13 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
 ![ChatGPT Can't Determine Your Disease Based on Symptoms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-explaining-anxiety-symptoms.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As a general rule, avoid self-diagnosis altogether. Getting on the wrong treatment plan or overlooking symptoms will cause more complications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. AI Has No Access to Your Medical Records
@@ -137,18 +130,18 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
 ![Sharing Finance Problems With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/telling-chatgpt-about-finance-problems.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With enough context, AI could start providing personalized plans. The problem is that generative AI tools have token limits—they only remember a finite amount of data.
 
 ![ChatGPT Addressing the Root Cause of Finance-Related Anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-finance-related-anxiety.jpg)
 
  The exact limits vary per platform. Bing Chat starts new chats after 20 turns, while ChatGPT remembers the last 3,000 words of conversations. But either way, neither tool will accommodate all your medical records. At best, generative AI tools can only string together select information, such as recent diagnoses or your current emotions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Machines Can’t Empathize With You
 
@@ -173,6 +166,13 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
  Many find the process overwhelming. And that’s why you should seek help from educated, empathetic professionals instead of advanced language models.
 
  Look for people who’ll support you throughout your journey. They should track your progress, assess which treatment plans work, address persistent symptoms, and analyze your mental health triggers.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You Can’t Replace Consultations With AI Chatbots
 
@@ -199,21 +199,18 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-mp3-conversion-from-youtube-for-mac-users/"><u>[New] 2024 Approved Effortless MP3 Conversion From YouTube for Mac Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-approach-stitching-gopro-sequences-in-holoscopic-clips/"><u>[New] Innovative Approach Stitching GoPro Sequences in Holoscopic Clips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advantages-why-upgrading-to-chatgpt-plus/"><u>Advantages: Why Upgrading to ChatGPT Plus?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-code-unveiling-6-transformative-uses-for-chatgpts-ai/"><u>Beyond Code: Unveiling 6 Transformative Uses for ChatGPT's AI</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-honor-magic5-ultimate-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Honor Magic5 Ultimate by Name | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How can I get more stardust in pokemon go On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-ai-companion-gpt-for-enhanced-productivity/"><u>Introducing AI Companion, GPT for Enhanced Productivity</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-the-art-of-embedding-subtitles-into-mp4-movies-a-comprehensive-tutorial/"><u>Mastering the Art of Embedding Subtitles Into MP4 Movies – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pro-pilots-choice-the-top-5-drone-picks-of-the-year/"><u>Pro Pilot's Choice The Top 5 Drone Picks of the Year</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/quick-content-in-a-facebook-frame-for-2024/"><u>Quick Content in a Facebook Frame for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-psychological-support-through-ai-tech-advancements/"><u>Reimagining Psychological Support Through AI Tech Advancements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/silverman-and-peers-target-openaimeta-for-creative-liberty/"><u>Silverman and Peers Target OpenAI/Meta for Creative Liberty</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-employer-retribution-for-chatgpt-use-in-work/"><u>Understanding Employer Retribution for ChatGPT Use in Work</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-caution-is-key-in-ai-the-top-6-concerns/"><u>Why Caution Is Key in AI: The Top 6 Concerns</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagrams-ultimate-guide-to-the-best-grid-software-of-the-year/"><u>[New] 2024 Approved Instagram's Ultimate Guide to the Best Grid Software of the Year</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-lut-basics-for-enhanced-visual-effects-in-ae-for-2024/"><u>[Updated] LUT Basics for Enhanced Visual Effects in AE for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adaptive-wellness-tools-select-8-gpt-integrations/"><u>Adaptive Wellness Tools: Select 8 GPT Integrations</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-14-design-techniques-for-text-animation-for-2024/"><u>Advanced 14 Design Techniques for Text Animation for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hidden-gems-in-the-world-of-google-podcasts/"><u>Hidden Gems in the World of Google Podcasts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-6s-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 6s After Forgetting the Passcode?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-through-clouds-and-controllers-a-critical-look-at-microsofts-best-flight-simulator-fsx-gold-edition/"><u>Navigating Through Clouds and Controllers: A Critical Look at Microsoft's Best Flight Simulator, FSX Gold Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/radial-magic-transforming-ordinary-photos-into-art-for-2024/"><u>Radial Magic Transforming Ordinary Photos Into Art for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-a-steal-apple-m2-macbook-air-now-just-800-before-october-deals-kick-off-shoppers-alert/"><u>Score a Steal: Apple M2 MacBook Air Now Just $800 Before October Deals Kick Off - Shoppers Alert!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-websites-and-artificial-intelligence/"><u>The Intersection of Websites and Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-benefits-of-using-apple-pages-why-you-need-this-app-on-your-device/"><u>Top 5 Benefits of Using Apple Pages: Why You Need This App on Your Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/true-academic-success-beyond-chatgpts-capabilities/"><u>True Academic Success Beyond ChatGPT's Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-vision-intelligent-home-assistants-on-tomorrows-horizon-insights-and-predictions/"><u>Unveiling Apple's Vision: Intelligent Home Assistants on Tomorrow’s Horizon | Insights and Predictions</u></a></li>
 </ul></div>
 

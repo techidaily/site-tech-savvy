@@ -1,7 +1,7 @@
 ---
 title: Elevating ChatGPT's Performance with These Seven Tactics
-date: 2024-10-29T17:49:51.838Z
-updated: 2024-11-01T18:17:00.504Z
+date: 2024-10-31T21:06:36.356Z
+updated: 2024-11-07T09:42:45.252Z
 tags:
   - chatgpt
   - open-ai
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 
  The only limit is your imagination, and it's a fun thing to try too.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Define Your Communication Channel and Target Audience
 
  If you are looking for ChatGPT to produce some creative writing, then you can achieve far more impressive results by giving it relevant information. In this instance, you can refine the output by supplying information about the intended use of the output and some demographics of the target audience.
@@ -68,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
  The response was a numbered list of seven items you would need to get started. This is fine, but it isn’t going to set YouTube alight. Now, we refined the prompt to cover the output type and the main target audience.
 
 ![Screenshot of ChatGPT response to refined needlework prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-response-to-refined-needlework-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The generated response was much more precisely tailored to suit the required output.
 
@@ -90,18 +76,25 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 
 ![Screenshot of ChatGPT prompt for headings and subheadings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-ot-chatgpt-prompt-for-headings-and-subheadings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, we can chain our prompts to generate content for each heading. In this case, we asked for a short paragraph and three bullet points, and we also asked for the inclusion of some keywords. As you can see the response remembered that the content was for a Michigan-based company.
 
 ![Screenshot of follow up question to ChatGPT homepage headers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-follow-up-question-to-chatgpt-homepage-headers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Using the chaining technique allows you to precisely tailor responses for more relevant results.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Format Your Output in Markdown
 
@@ -114,15 +107,28 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 ![Screenshot of ChatGPT response to basic solar system article request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-response-to-basic-solar-system-article-request.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, we reframed the question to output the result in markdown language and to include headings and a table summarizing some of the information:
 
 ![Screenshot of ChatGPT using Markup language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-using-markup-language.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The output included a heading and subheading for each planet as we requested.
 
@@ -133,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 ![Screenshout of ChatGPT Table of information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshout-of-chatgpt-table-of-information.jpg)
 
  This is a powerful way to get better-formatted output, it also works well when used in conjunction with chained prompts.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Use ChatGPT to Generate Its Own Prompts
 
@@ -147,10 +160,10 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 ![Screenshot of ChatGPT generating prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-generating-prompts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once ChatGPT has created relevant prompts, you can use the prompt simply by referring to its number:
@@ -158,17 +171,10 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 ![Screenshot of ChatGPT exanding on a numbered prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-exanding-on-a-numbered-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Let Your Personality Shine by Adding Some Character to the Response
@@ -187,13 +193,6 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 
  Now, while it may not have your audience rolling on the floor in laughter, it is a far more interesting reply than the previous one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Chain-of-Thought Prompting
 
  Chain-of-Thought (CoT) prompting could be likened to a student in an exam showing their workings. It involves starting with a seed question or idea and then using the model's responses to further refine and develop the topic.
@@ -207,6 +206,13 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 ![Screenshot of CoT ChatGPT Answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-cot-chatgpt-answer.jpg)
 
  As you can see, ChatGPT will respond and show the chain of thought that generated the correct answer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using Prompt Techniques to Improve the Response From ChatGPT
 
@@ -233,24 +239,21 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-diy-instagram-videos-simple-steps-to-success-for-2024/"><u>[New] DIY Instagram Videos Simple Steps to Success for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-from-standard-to-spectacular-your-guide-to-choosing-a-high-res-screen/"><u>[New] From Standard to Spectacular Your Guide to Choosing a High-Res Screen</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-enhancing-click-through-rates-with-three-distinct-writing-models-for-ads/"><u>[New] In 2024, Enhancing Click-Through Rates with Three Distinct Writing Models for Ads</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-savory-storytelling-in-video-cooking-top-7-insights/"><u>[New] Savory Storytelling in Video Cooking - Top 7 Insights</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-amateurs-to-aviators-9-top-rated-drone-editors-reviewed/"><u>[Updated] From Amateurs to Aviators 9 Top-Rated Drone Editors Reviewed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capture-video-like-a-pro-on-modern-laptops/"><u>[Updated] In 2024, Capture Video Like a Pro on Modern Laptops</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/8-superior-replacements-for-chatgpt-a-mobile-guide/"><u>8 Superior Replacements for ChatGPT: A Mobile Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/building-worlds-chatgpt-in-roleplay-gaming/"><u>Building Worlds: ChatGPT in Roleplay Gaming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-ai-unveiling-transfer-learning-mechanisms/"><u>Demystifying AI: Unveiling Transfer Learning Mechanisms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-discourse-divergence-what-sets-gpt-and-bingbot-apart/"><u>Digital Discourse Divergence: What Sets GPT and BingBot Apart?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/driver-unloaded-without-cancelling-pending-operations-solved/"><u>Driver Unloaded without Cancelling Pending Operations [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-presentation-quality-harnessing-the-potential-of-chatgpt/"><u>Enhancing Presentation Quality: Harnessing the Potential of ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-rearranged-letters-in-windows-system/"><u>Eradicating Rearranged Letters in Windows System</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-revolutionize-video-creation-make-edit-and-share-on-the-go/"><u>In 2024, Revolutionize Video Creation Make, Edit & Share on the Go</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-conversations-just-add-chatgpt-and-android/"><u>Mastering Conversations - Just Add ChatGPT & Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-deadlines-with-the-assistance-of-chatgpt/"><u>Mastering Deadlines with the Assistance of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-gpt-chat-sharing-a-step-by-step-guide/"><u>Maximizing GPT-Chat Sharing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smart-owners-integrating-these-pioneering-five-ai-solutions/"><u>Smart Owners: Integrating These Pioneering Five AI Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ai-compliance-frameworks/"><u>Understanding AI Compliance Frameworks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-youtube-presence-filmmaking-with-filmora/"><u>[New] In 2024, Elevate Your YouTube Presence Filmmaking with Filmora</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-quality-video-uplift-immaculate-resolution/"><u>[New] Top Quality Video Uplift Immaculate Resolution</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-free-mp4-screen-capture-toolkit-released-for-2024/"><u>[Updated] Free MP4 Screen Capture Toolkit Released for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-from-still-to-moving-webcam-capture-basics-for-mac/"><u>2024 Approved From Still to Moving Webcam Capture Basics for Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-mastering-magix-video-pro-x/"><u>A Step-by-Step Guide to Mastering Magix Video Pro X</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-features-of-ios-181-beta-version-and-get-early-access-through-apples-latest-innovation/"><u>Discover the Features of iOS 18.1 Beta Version & Get Early Access Through Apple's Latest Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-of-siris-intelligence-boosted-by-apples-innovation-significant-revisions-expected-zdnet-report/"><u>Future of Siri's Intelligence Boosted by Apple’s Innovation; Significant Revisions Expected - ZDNet Report</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-role-in-software-safety-a-debate/"><u>GPT's Role in Software Safety: A Debate</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-techniques-to-secure-updated-epson-driver-software-installation-on-your-windows-1n-device/"><u>Latest Techniques to Secure Updated Epson Driver Software Installation on Your Windows 1N Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-bings-ai-features-for-android-users/"><u>Navigating Bing's AI Features for Android Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ownership-patterns-for-art-from-algorithms/"><u>Ownership Patterns for Art From Algorithms</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-6-plus-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 6 Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/siri-gets-smarter-with-apples-latest-ai-advancements-major-updates-coming-insights/"><u>Siri Gets Smarter with Apple's Latest AI Advancements: Major Updates Coming - Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-transcribing-with-googles-speech-api/"><u>Step-by-Step Guide to Transcribing with Google's Speech API</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-vpn-providers-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranked VPN Providers : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-iphone-16-promises-improved-ease-of-repair-says-apple-exclusive-insights/"><u>Upcoming iPhone 16 Promises Improved Ease of Repair, Says Apple Exclusive Insights</u></a></li>
 </ul></div>
 

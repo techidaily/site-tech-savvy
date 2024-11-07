@@ -1,7 +1,7 @@
 ---
 title: The Algorithmic Illusion of Affection
-date: 2024-09-15T16:02:10.162Z
-updated: 2024-09-17T16:09:13.402Z
+date: 2024-10-31T17:47:48.625Z
+updated: 2024-11-07T09:14:04.903Z
 tags:
   - chatgpt
   - open-ai
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/f60b5cb5d31f0db6c00b1faa5bbb82ce655e5c5fa
 
 ![Creating a Fake Profile With a Stolen Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fake-profile-on-bumble.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Using Stolen Images to Create a Profile on Bumble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uploading-stolen-images-on-bumble.jpg)
 
 Close
@@ -60,21 +67,22 @@ Close
 
 ![Generating Three Images from One Image of a Girl](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ai-generated-image-of-girls-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Yes, they have flaws. But note that we used a free tool running an outdated text-to-image model. Scammers produce more realistic output with sophisticated iterations. They can quickly render hundreds of customized, manipulated photos from just a few samples.
 
  Unfortunately, AI images are hard to detect. Your best bet would be to do a [reverse image search](https://www.makeuseof.com/tag/reverse-image-search-apps/) and sift through relevant results.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Building Deceptively Authentic-Looking Profiles
@@ -86,10 +94,10 @@ Close
 ![Asking ChatGPT to Write Hobbies for a Dating Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-suggesting-good-hobbies.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And here’s ChatGPT writing an entire biography for your dating profile.
@@ -99,13 +107,6 @@ Close
  Since this process consumes so much time, it also requires a bigger payoff. So, scammers tend to ask for more. Once they earn your trust, they’ll ask for help with various “problems,” like hospital bills, loan payments, or tuition fees. Some will even claim to visit you if you shoulder their ticket.
 
  These cybercriminals are skilled at manipulating victims. The best tactic is to avoid engaging with them right from the get-go. Don’t let them say anything. Otherwise, you might gradually fall for their deception and gaslighting methods.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Exploiting Deepfake Technology for Sexual Extortion
 
@@ -126,6 +127,13 @@ Close
  In romance scams, hackers often integrate language models with password cracking. AI’s NLP and machine learning capabilities enable brute-force hacking systems to produce password combinations quickly and efficiently. They could even make informed predictions if provided with enough context.
 
  You have no control over what scammers do. To protect your accounts, make sure you [create a truly secure password](https://www.makeuseof.com/what-makes-a-password-truly-secure/) comprising special characters, alphanumeric combinations, and 14+ characters.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Imitating Real People With Voice Cloning
 
@@ -158,5 +166,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-chromium-os-built-in-video-capturer/"><u>[New] 2024 Approved Chromium OS Built-In Video Capturer</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-premiere-video-editing-options-for-app-developers/"><u>[New] 2024 Approved Premiere Video Editing Options for App Developers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-ethical-approaches-to-extract-mp4-from-youtube/"><u>[New] Ethical Approaches to Extract MP4 From YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-iphotovidsyncer-seamless-imageplusvideo-playback/"><u>[Updated] 2024 Approved IPhotoVidSyncer Seamless Image+Video Playback</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-video-potential-the-creme-de-la-creme-browser-recorders-for-2024/"><u>[Updated] Unlocking Video Potential The Crème De La Crème Browser Recorders for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-concentration-effective-strategies-for-enhanced-productivity-when-telecommuting-insights-from-zdnet/"><u>Boosting Concentration: Effective Strategies for Enhanced Productivity When Telecommuting - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-unknown-emerging-job-positions-in-the-ai-era-deciphering-their-elusive-titles-on-zdnet/"><u>Exploring the Unknown: Emerging Job Positions in the AI Era - Deciphering Their Elusive Titles on ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-and-easy-guide-to-installing-intel-82579v-drivers-start-today/"><u>Free & Easy Guide to Installing Intel 82579V Drivers – Start Today</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-music/"><u>How to recover old music from your Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-write-a-winning-cybersecurity-resume-dos-and-donts-revealed-by-zdnet-experts/"><u>How to Write a Winning Cybersecurity Resume: Dos and Don'ts Revealed by ZDNet Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instant-activation-of-google-keyboard-shortcuts-in-macos-tips-and-tricks-showcased-by-zdnet/"><u>Instant Activation of Google Keyboard Shortcuts in macOS: Tips and Tricks Showcased by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kickstart-your-journey-into-artificial-intelligence-discover-the-top-5-essential-steps-zdnet/"><u>Kickstart Your Journey Into Artificial Intelligence: Discover the Top 5 Essential Steps | ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macx-dvd-ripper-pro-pro-version-windows-11/"><u>MacX DVD Ripper Pro (Pro Version) - パーフェクトなWindows 11対応リッピングガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-undercover-job-hunt-a-guide-for-prospective-employees-seeking-new-opportunures/"><u>Navigating the Undercover Job Hunt: A Guide for Prospective Employees Seeking New Opportunures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riding-the-wave-of-change-how-ai-will-phase-out-certain-careers-yet-spark-opportunities-in-novel-domains-zdnet/"><u>Riding the Wave of Change: How AI Will Phase Out Certain Careers Yet Spark Opportunities in Novel Domains | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-your-dream-position-in-technology-at-microsoft-strategies-from-zdnet/"><u>Securing Your Dream Position in Technology at Microsoft - Strategies From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-pay-transparency-understanding-its-impact-on-your-career-zdnet-insights/"><u>Upcoming Pay Transparency: Understanding Its Impact on Your Career | ZDNet Insights</u></a></li>
+</ul></div>
 

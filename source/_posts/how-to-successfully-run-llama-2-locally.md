@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Run Llama 2 Locally
-date: 2024-09-12T16:40:11.777Z
-updated: 2024-09-17T16:13:29.997Z
+date: 2024-11-01T04:50:00.678Z
+updated: 2024-11-07T05:14:09.493Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,19 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
  Now that you have Desktop development with C++ installed, it's time to download the Text-Generation-WebUI one-click installer.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Install Text-Generation-WebUI
 
  The Text-Generation-WebUI one-click installer is a script that automatically creates the required folders and sets up the Conda environment and all necessary requirements to run an AI model.
@@ -61,6 +74,14 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
    * for Linux, **start\_linux** shell script.  
    ![Select operating system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/4-select-operating-system.jpg)
 3. Your anti-virus might create an alert; this is fine. The prompt is just an [antivirus false positive](https://www.makeuseof.com/what-is-antivirus-false-result/) for running a batch file or script. Click on **Run anyway**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. A terminal will open and start the setup. Early on, the setup will pause and ask you what GPU you are using. Select the appropriate type of GPU installed on your computer and hit enter. For those without a dedicated graphics card, select **None (I want to run models in CPU mode)**. Keep in mind that running on CPU mode is much slower when compared to running the model with a dedicated GPU.  
 ![Selecting GPU hardware installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/5-select-gpu-settings.jpg)
 5. Once the setup is complete, you can now launch Text-Generation-WebUI locally. You can do so by opening your preferred web browser and entering the provided IP address on the URL.  
@@ -69,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 ![Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/7-text-generation-webui-view.jpg)
 
  However, the program is only a model loader. Let's download Llama 2 for the model loader to launch.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 3: Download the Llama 2 Model
 
@@ -105,25 +119,25 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
 ![Downloading Llama 2 model of your preference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/8-download-llama-2-model.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the download is finished, place the model in **text-generation-webui-main** \> **models**.
 
 ![Placing Llama 2 model to model folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/9-place-model-to-model-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now that you have your model downloaded and placed in the model folder, it's time to configure the model loader.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 4: Configure Text-Generation-WebUI
 
@@ -137,6 +151,13 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 ![Testing Llama 2 locally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/12-testing-llama-2-locally.jpg)
 
  Congratulations, you've successfully loaded Llama2 on your local computer!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try Out Other LLMs
 
@@ -159,5 +180,20 @@ Now that you have your model downloaded and placed in the model folder, it's tim
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-future-of-virtual-showrooms/"><u>[New] The Future of Virtual Showrooms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-tools-free-online-youtuber-starters-for-2024/"><u>[Updated] Essential Tools Free Online Youtuber Starters for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-master-6-innovative-apps-for-instagram-reels-for-2024/"><u>[Updated] Master 6 Innovative Apps for Instagram Reels for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>In 2024, Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/legally-safe-chants-and-tunes-the-ultimate-meditation-list/"><u>Legally Safe Chants & Tunes - The Ultimate Meditation List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pedagogic-practices-with-a-focus-on-visual-materials-for-2024/"><u>Pedagogic Practices with a Focus on Visual Materials for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-your-mac-ignore-chatgpt-apps/"><u>Protecting Your Mac? Ignore ChatGPT Apps!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/running-chatgpt-with-windows-sdk/"><u>Running ChatGPT with Windows SDK</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-your-inbox-with-one-simple-email-hack-no-extra-accounts-needed/"><u>Simplify Your Inbox with One Simple Email Hack – No Extra Accounts Needed,</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-personal-fitness-chatgpts-guide-to-objectives/"><u>Tailoring Personal Fitness: ChatGPT's Guide to Objectives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/techniques-to-keep-gpt-from-documenting-private-chats/"><u>Techniques to Keep GPT From Documenting Private Chats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-storytelling-that-bots-cant-emulate/"><u>The Art of Storytelling that Bots Can't Emulate</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-list-of-8-reliable-iphone-smsmms-backup-software-solutions-stellar-alternatives/"><u>Ultimate List of 8 Reliable iPhone SMS/MMS Backup Software Solutions | Stellar Alternatives</u></a></li>
+</ul></div>
 

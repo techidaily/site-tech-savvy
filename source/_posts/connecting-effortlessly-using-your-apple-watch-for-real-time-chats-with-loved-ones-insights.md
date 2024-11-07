@@ -1,7 +1,7 @@
 ---
 title: "Connecting Effortlessly: Using Your Apple Watch for Real-Time Chats with Loved Ones - Insights"
-date: 2024-10-30T19:02:15.279Z
-updated: 2024-11-01T16:48:08.306Z
+date: 2024-11-02T19:41:52.716Z
+updated: 2024-11-06T20:58:15.221Z
 tags:
   - apple
 categories:
@@ -31,10 +31,16 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -46,6 +52,19 @@ To update watchOS, open the Watch app on your iPhone. Go to General, select Soft
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
 
@@ -69,24 +88,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -104,13 +117,6 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -120,10 +126,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -168,22 +174,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhancing-video-quality-with-right-lighting/"><u>[New] 2024 Approved Enhancing Video Quality with Right Lighting</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-3-free-video-players-face-off-vlc-vs-mpc-showdown/"><u>[New] 2024 Approved Top 3 FREE Video Players Face Off VLC Vs. MPC Showdown</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-navigating-through-ioss-recording-software-landscape/"><u>[New] Navigating Through iOS's Recording Software Landscape</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-simplified-guide-uploading-urls-to-instagram-media/"><u>[Updated] In 2024, Simplified Guide Uploading URLs to Instagram Media</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-seamless-guide-converting-high-definition-4k-videos-into-full-hd-1080p/"><u>1. Seamless Guide: Converting High-Definition 4K Videos Into Full HD (1080P)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advance-your-wellness-journey-with-leading-8-plugins/"><u>Advance Your Wellness Journey with Leading 8 Plugins</u></a></li>
-<li><a href="https://discover-help.techidaily.com/easy-step-by-step-guide-to-mastering-winxdvd-the-ultimate-practical-handbook/"><u>Easy Step-by-Step Guide to Mastering WinXDVD: The Ultimate Practical Handbook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-data-retrieval-tool-restore-lost-data-from-honor-magic-5-lite-by-fonelab-android-recover-data/"><u>Honor Data Retrieval tool – restore lost data from Honor Magic 5 Lite</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-asus-rog-phone-8-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Asus ROG Phone 8 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-ai-dialogues-crafting-bespoke-chatgpt/"><u>Innovate AI Dialogues: Crafting Bespoke ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mindful-mental-aid-responsible-ai-in-counseling/"><u>Mindful Mental Aid: Responsible AI in Counseling</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mp4wmv-in-windows-10/"><u>MP4ファイルをWMVに高画質で変換する方法 in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/real-gpt-tips-to-dodge-scammers/"><u>Real GPT Tips to Dodge Scammers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategic-planning-achieving-wellness-with-ai/"><u>Strategic Planning: Achieving Wellness with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-legal-holder-who-owns-ai-generated-works/"><u>The Legal Holder: Who Owns AI-Generated Works?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-advanced-features-with-9-superior-chatgpt-pluses/"><u>Unlock Advanced Features with 9 Superior ChatGPT Pluses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/which-ai-tool-leads-for-coding-github-copilot-or-gpt-3-examined/"><u>Which AI Tool Leads for Coding? GitHub Copilot or GPT-3 Examined</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-360-vs-vr-film-explained/"><u>[New] In 2024, Unveiling 360° Vs. VR Film Explained</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-filmoquery-your-guide-to-video-editing-insights/"><u>[Updated] 2024 Approved FilmoQuery Your Guide to Video Editing Insights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-from-facebook-to-the-friends-inbox-sharing-videos-through-whatsapp-for-2024/"><u>[Updated] From Facebook to the Friend's Inbox Sharing Videos Through WhatsApp for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-the-complete-guide-to-mastering-slow-time-on-tiktok/"><u>2024 Approved The Complete Guide to Mastering Slow Time on TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-double-edged-sword-in-software-development/"><u>AI's Double-Edged Sword in Software Development</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-11-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 11? 5 Tips You Must Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-it-possible-to-sideload-third-party-applications-onto-your-iphone-without-unlocking-the-device/"><u>Is It Possible to Sideload Third-Party Applications Onto Your iPhone Without Unlocking the Device?</u></a></li>
+<li><a href="https://win-web3.techidaily.com/mastering-mbr-partition-rescue-across-windows-versions-win11-win10-win8-win7-tutorials/"><u>Mastering MBR Partition Rescue Across Windows Versions | Win11, Win10, Win8, Win7 Tutorials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/orchestrating-ai-harmony-with-human-intentions/"><u>Orchestrating AI: Harmony with Human Intentions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplified-explanation-for-interacting-with-shared-chatgpt-links/"><u>Simplified Explanation for Interacting with Shared ChatGPT Links</u></a></li>
 </ul></div>
 

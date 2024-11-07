@@ -1,7 +1,7 @@
 ---
 title: "Beyond Belief: Deciphering Nine Widely Held AI Bot Assumptions"
-date: 2024-09-14T16:11:01.897Z
-updated: 2024-09-17T16:21:33.764Z
+date: 2024-11-05T07:48:10.058Z
+updated: 2024-11-07T08:05:17.762Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, just to be clear, there are known limitations to ChatGPT and the age of the data it can reference. That question was deliberately set up to expose this. However, we asked Bard the same question when [comparing Google Bard vs. ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/), and it got it wrong too:
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
@@ -62,13 +69,20 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
 
 ![Screenshot of ChatGPT answering threat to humanity question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-threat-to-humanity-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  But it would say that. Wouldn't it?
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI Chatbots Are Infallible
@@ -93,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
 
  The speed at which these tools are developing is part of the reason behind this myth. The boundaries of what this technology can do are being pushed at a rapid pace and the initial iterations that were primarily text-based are already considered old-fashioned.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Chatbots Will Always Provide Unbiased Responses
 
  Unfortunately, this is not the case. The potential for biased responses is always there with AI chatbots. The root of the problem can be traced back to the LLMs. The vast amount of data that chatbots reference does, inevitably, contain bias. These biases can include gender, race, nationality, and broader societal biases.
@@ -101,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
 
  However, for the moment at least, the potential for biased responses is an unresolved issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Chatbots Are Actually Real Humans
 
 ![Picture of mechanical typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/picture-of-mechanical-typewriter.jpg)
@@ -115,10 +129,16 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
  Perhaps the most ludicrous myth is that behind every AI chatbot is a real human. This one is treading a delicate line between conspiracy theory and myth, we won’t dwell on this one other than to say that it's nonsense.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. AI Chatbots Can Program Themselves
@@ -154,5 +174,24 @@ thumbnail: https://thmb.techidaily.com/d8a8986ffc64f5b9f1ed82907df05cfbb6ea0430e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-prolific-performance-our-picks-for-top-8-workflow-planners/"><u>[New] 2024 Approved Prolific Performance Our Picks for Top 8 Workflow Planners</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-discovering-top-tools-the-2023-guide-to-browser-capture-tech-for-2024/"><u>[New] Discovering Top Tools The 2023 Guide to Browser Capture Tech for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/acer-aspire-c27-the-ultimate-blend-of-efficiency-and-functionality-in-a-low-profile-desktop/"><u>Acer Aspire C27: The Ultimate Blend of Efficiency and Functionality in a Low-Profile Desktop</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-tips-correcting-the-orientation-of-your-display/"><u>ASUS Laptop Tips: Correcting the Orientation of Your Display</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-giants-like-sony-and-jbl-find-out-which-speaker-delivers-unparalleled-immersion/"><u>Beyond Giants Like Sony and JBL, Find Out Which Speaker Delivers Unparalleled Immersion!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-perfect-apple-smart-speaker-a-detailed-comparison-between-homepod-and-homepod-mini/"><u>Choosing the Perfect Apple Smart Speaker: A Detailed Comparison Between HomePod and HomePod Mini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experts-choice-a-ranking-of-top-smart-home-innovations-for-2n24-detailed-testing-and-analysis-zdnet/"><u>Experts' Choice: A Ranking of Top Smart Home Innovations for 2N24 - Detailed Testing & Analysis | ZDNET</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-7-plus-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 7 Plus</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-13ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 13/iPad/iPod</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-art-of-audio-mastery-with-iphones-voice-recording/"><u>In 2024, The Art of Audio Mastery with iPhone's Voice Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-living-space-on-a-budget-with-the-30-echo-dot-offer-smart-home-upgrade-tips-by-zdnet/"><u>Revolutionize Your Living Space on a Budget with the $30 Echo Dot Offer – Smart Home Upgrade Tips by ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/sweet-release-from-social-media-shackles-deleting-your-company-page/"><u>Sweet Release From Social Media Shackles: Deleting Your Company Page</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-bookshelf-speaker-picks-a-zdnet-guide/"><u>Top-Rated Bookshelf Speaker Picks - A ZDNet Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-kiddo-audio-gear-curated-by-experts/"><u>Ultimate Guide to the Finest Kiddo Audio Gear , Curated by Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/using-ai-chatgpt-to-boost-sheet-productivity/"><u>Using AI: ChatGPT to Boost Sheet Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-expert-picks-leading-wi-fi-audio-devices-reviewed-for-home-and-office-use/"><u>ZDNet's Expert Picks: Leading Wi-Fi Audio Devices Reviewed for Home and Office Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-selection-leading-audio-enhancers-for-2aster-years/"><u>ZDNet's Ultimate Selection: Leading Audio Enhancers for 2Aster Years</u></a></li>
+</ul></div>
 

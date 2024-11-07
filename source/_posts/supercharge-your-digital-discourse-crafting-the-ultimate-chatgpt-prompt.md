@@ -1,7 +1,7 @@
 ---
 title: "Supercharge Your Digital Discourse: Crafting the Ultimate ChatGPT Prompt"
-date: 2024-09-15T16:28:09.043Z
-updated: 2024-09-17T16:30:00.178Z
+date: 2024-10-31T08:54:14.603Z
+updated: 2024-11-07T02:19:26.932Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/25f844691822ba4cb5e360ab99f911dddda24c96d
 
 ![QuickRef's ChatGPT cheat sheet offers free examples and templates of prompts for ChatGPT across various categories and uses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-quickref-cheat-sheets.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  QuickRef is a website with cheat sheets for different apps or programming languages, like Google Search, Sheets, Excel, JavaScript, Python, etc. These are added mainly by regular users from the community. The latest cheat sheet in its impressive lineup is ChatGPT, with a series of prompts and tips for the AI. You won't learn the process of PE here, but it's a good reference when you're stuck.
 
  QuickRef's ChatGPT cheat sheet is divided into several categories: General, Coding, Email, Spreadsheets, Social Media, Reading, Design, Analyzing Data, Paid ads, Amazon FBA, Writing / Blogging, Teachers / Course Creators, YouTube, and Research. Each prompt has a basic headline telling you what it will do, followed by the prompt you can copy-paste into ChatGPT.
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/25f844691822ba4cb5e360ab99f911dddda24c96d
 
  The third video, titled Advanced ChatGPT Guide, is the one you want to pay particular attention to if you want to understand advanced prompts. Twarog goes into details of prompt engineering with a series of examples. Even if the examples aren't what you want to do with ChatGPT, go through these as an exercise to truly understand the finer points of composing a prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4. Micah Johns
 
  Twarog's series is definitely the best if you want to deep-dive into how ChatGPT works and its advanced uses. But if you're only going to use it for more practical day-to-day stuff for your job or hobbies, the YouTube series by Micah Johns is a more beginner-friendly way to learn PE for ChatGPT.
@@ -68,28 +82,21 @@ thumbnail: https://thmb.techidaily.com/25f844691822ba4cb5e360ab99f911dddda24c96d
 
  Micah's larger [How to Use ChatGPT playlist](https://www.youtube.com/playlist?list=PLRc1YiX2Z0mpeXlmv6n7ZsVPVn-2etOua) has several other real-world applications for ChatGPT. For example, you'll learn how to write a 5-page essay in 10 minutes with AI or make your superhero comic with ChatGPT and Midjourney, one of the [best free AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/) .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5. Learn Prompting
 
 ![Learn Prompting is a free online course for beginner, intermediate, or advanced AI users to learn all aspects of prompt engineering](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-learn-prompting.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Learn Prompting is a free online course to understand how to write prompts for any AI app, not just ChatGPT. Sander Schulhoff, a computer science student at the University of Maryland, designed it. It caters to a range of users, from complete novices to those with domain expertise or programming knowledge.
@@ -97,6 +104,19 @@ thumbnail: https://thmb.techidaily.com/25f844691822ba4cb5e360ab99f911dddda24c96d
  The course is entirely text-based, with chapters that take you through different aspects of AI prompting. Schulhoff defines PE as "How to talk to AI to get it to do what you want." The Basics and Intermediate chapters will take you through the founding principles of PE with theory, tricks and tips, and examples.
 
  The course then goes into advanced practices like applied prompting (contributed by users), fine-tuning, images, and more, where you'll learn techniques like Chain of Thought, Self Consistency, etc. It might sound like a lot of jargon, but it'll be clear and easy to understand if you go through the course step-by-step.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Start Learning ChatGPT With a Personal Project
 
@@ -115,5 +135,26 @@ thumbnail: https://thmb.techidaily.com/25f844691822ba4cb5e360ab99f911dddda24c96d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-essential-top-rated-virtual-world-films/"><u>[Updated] In 2024, Essential Top-Rated Virtual World Films</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-adding-dimension-incor-written-by-john-doe-for-tech-today-magazine-february-15-2023/"><u>2024 Approved Adding Dimension Incor Written by John Doe for Tech Today Magazine, February 15, 2023</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-bandw-vibrancy-ps-grading-hacks-for-2024/"><u>Boost B&W Vibrancy PS Grading Hacks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ecoflow-river-n-a-top-choice-amongst-beginners-portable-power-units-according-to-my-testing-zdnet-insights/"><u>EcoFlow River N: A Top Choice Amongst Beginner's Portable Power Units, According to My Testing - ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/electrify-your-security-grab-the-deal-on-blinks-4-camera-setup-and-floodlight-mount-at-only-80-for-labor-day-sale/"><u>Electrify Your Security: Grab the Deal on Blink's 4-Camera Setup & Floodlight Mount at Only $80 for Labor Day Sale!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-analysis-the-ultimate-guide-to-the-best-portable-power-banks-of-2024-zdnet/"><u>Expert Analysis: The Ultimate Guide to the Best Portable Power Banks of 2024 | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-leading-small-footprint-dwellings-of-202n-innovative-and-contemporary-tiny-homes-reviewed/"><u>Exploring the Leading Small Footprint Dwellings of 202N: Innovative & Contemporary Tiny Homes Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-ultimate-solar-charging-devices-of-2024-our-latest-rankings/"><u>Exploring the Ultimate Solar Charging Devices of 2024: Our Latest Rankings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-top-security-cameras-how-the-waterproof-blink-mini-2-outshines-competitors-in-the-wyze-cam-series-expert-review-by-zdnet/"><u>Exploring Top Security Cameras: How the Waterproof Blink Mini 2 Outshines Competitors in the Wyze Cam Series | Expert Review by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fatherly-bbq-delights-discover-the-ultimate-outdoor-kitchen-gift-picks-with-zdnet/"><u>Fatherly BBQ Delights: Discover the Ultimate Outdoor Kitchen Gift Picks with ZDNet</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/guide-complet-a-la-restauration-de-votre-pc-avec-windows-10-ou-11-4-strategies-efficaces/"><u>Guide Complet À La Restauration De Votre PC Avec Windows 10 Ou 11 : 4 Stratégies Efficaces</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-the-ring-spotlight-cam-pro-surprised-me-beyond-expectations-a-deep-dive-featured-on-zdnet/"><u>How The Ring Spotlight Cam Pro Surprised Me Beyond Expectations - A Deep Dive Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-plan-a-memorable-labor-day-celebration-expert-advice-from-zdnet/"><u>How to Plan a Memorable Labor Day Celebration - Expert Advice From ZDNet.</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-poco-f5-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Poco F5 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-immediate-collage-making-for-social-sharing/"><u>Mastering Immediate Collage Making for Social Sharing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210560211-9781739695118-the-caribbean-contribution-stories-from-notting-hill-methodist-church/"><u>The Caribbean Contribution - Stories from Notting Hill Methodist Church | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-guide-to-restoring-soundscape-on-your-quieted-laptop/"><u>The Definitive Guide to Restoring Soundscape on Your Quieted Laptop</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-step-by-step-map-to-enjoy-harry-potter-on-screen-perfectly-in-order/"><u>Your Step-By-Step Map to Enjoy Harry Potter on Screen Perfectly in Order</u></a></li>
+</ul></div>
 

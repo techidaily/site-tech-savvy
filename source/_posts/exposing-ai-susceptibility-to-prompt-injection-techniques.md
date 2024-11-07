@@ -1,7 +1,7 @@
 ---
 title: Exposing AI Susceptibility to Prompt Injection Techniques
-date: 2024-09-12T16:13:58.444Z
-updated: 2024-09-17T16:37:43.131Z
+date: 2024-11-06T10:42:54.516Z
+updated: 2024-11-07T01:30:18.720Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 * [How Do Prompt Injection Attacks Work?](https://turbotech.pxf.io/pyx4je)
 * [Are AI Prompt Injection Attacks a Threat?](https://tinyland.pxf.io/org4ra)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI prompt injection attacks manipulate AI models to generate malicious output, potentially leading to phishing attacks.
@@ -44,27 +51,27 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
  For example, someone could manipulate the AI into instructing you to enter your username and password in an illegitimate form, using the AI's authority and trustworthiness to make a phishing attack succeed. Theoretically, autonomous AI (such as reading and responding to messages) could also receive and act upon unwanted external instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do Prompt Injection Attacks Work?
 
  Prompt injection attacks work by feeding additional instructions to an AI without the consent or knowledge of the user. Hackers can accomplish this in a few ways, including DAN attacks and indirect prompt injection attacks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### DAN (Do Anything Now) Attacks
 
 ![conversing with chatgpt following a dan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/conversing-with-chatgpt-following-a-dan-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  DAN (Do Anything Now) attacks are a type of prompt injection attack that involve ["jailbreaking" generative AI models like ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). These jailbreaking attacks don't pose a risk to you as the end user—but they do broaden the capacity of the AI, enabling it to become a tool for abuse.
 
@@ -84,18 +91,24 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
 ![indirect ai prompt attack demostrated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/indirect-ai-prompt-attack-demostrated.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Grekshake/[GitHub](https://github.com/greshake)
 
  A paper titled Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection on [arXiv](https://arxiv.org/pdf/2302.12173.pdf) \[PDF\] demonstrated a theoretical attack where the AI could be instructed to persuade the user to sign up for a phishing website within the answer, using hidden text (invisible to the human eye but perfectly readable to an AI model) to inject the information sneakily. Another attack by the same research team documented on [GitHub](https://greshake.github.io/) showed an attack where Copilot (formerly Bing Chat) was made to convince a user that it was a live support agent seeking credit card information.
 
  Indirect prompt injection attacks are threatening because they could manipulate the answers you receive from a trustworthy AI model—but that isn't the only threat they pose. As mentioned earlier, they could also cause any autonomous AI you may use to act in unexpected—and potentially harmful—ways.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are AI Prompt Injection Attacks a Threat?
 
@@ -120,5 +133,24 @@ Grekshake/[GitHub](https://github.com/greshake)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2023-how-to-check-tiktok-video-copyright-before-uploading-for-2024/"><u>[New] 2023 | How to Check Tiktok Video Copyright Before Uploading for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-curating-your-ringtone-with-holy-hymns-step-by-point/"><u>[New] 2024 Approved Curating Your Ringtone with Holy Hymns Step-By Point</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-choice-optimal-free-srt-translation-services/"><u>[New] Mastering Choice Optimal Free SRT Translation Services</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-step-into-wealthy-creator-land-via-youtube-shorts-revenue/"><u>[Updated] 2024 Approved Step Into Wealthy Creator Land via YouTube Shorts Revenue</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-discovering-the-magic-filmora-editors-top-10-highlights/"><u>[Updated] Discovering the Magic Filmora Editor's Top 10 Highlights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revival-by-apple-significant-advances-and-areas-for-enhancement-unveiled-zdnet/"><u>AI Revival by Apple: Significant Advances & Areas for Enhancement Unveiled | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-magic-of-chatgpt-an-ai-innovation-story/"><u>Decoding the Magic of ChatGPT: An AI Innovation Story</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-exciting-new-features-with-the-iphone-and-ipad-ios-18-preview-from-zdnet/"><u>Discover Exciting New Features with the iPhone & iPad iOS 18 Preview From ZDNet</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhanced-website-personalization-with-cookiebot-technology/"><u>Enhanced Website Personalization with Cookiebot Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fostering-nutrition-with-gpts-guidance-techniques/"><u>Fostering Nutrition with GPT's Guidance Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-c32-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia C32? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-tracing-trending-commentary-across-videos/"><u>In 2024, Tracing Trending Commentary Across Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-maintenance-revolution-apple-now-supports-refurbished-components-in-certain-repair-scenarios-insights-from-zdnet/"><u>IPhone Maintenance Revolution: Apple Now Supports Refurbished Components in Certain Repair Scenarios - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-connection-guide-linking-airpods-with-your-quest-3-without-disturbing-others-techwise/"><u>Seamless Connection Guide: Linking AirPods with Your Quest 3 Without Disturbing Others | TechWise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-four-reasons-im-passing-on-the-iphone-16-pro-upgrade-a-personal-take-expert/"><u>The Top Four Reasons I'm Passing on the iPhone 16 Pro Upgrade – A Personal Take Expert</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/to-go-global-or-stay-local-9-pros-and-cons-of-each-for-llms/"><u>To Go Global or Stay Local? 9 Pros and Cons of Each for LLMs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unwrapping-creative-diy-holiday-surprises-perfect-tools-that-hit-the-spot-handcrafted-recommendations-by-zdnet/"><u>Unwrapping Creative DIY Holiday Surprises: Perfect Tools That Hit The Spot | Handcrafted Recommendations by ZDNET</u></a></li>
+</ul></div>
 

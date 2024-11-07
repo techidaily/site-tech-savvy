@@ -1,7 +1,7 @@
 ---
 title: Tactics for Unmasking Fake Bots in ChatGPT Exchange
-date: 2024-09-11T16:03:28.017Z
-updated: 2024-09-17T16:00:28.228Z
+date: 2024-11-01T03:43:25.475Z
+updated: 2024-11-06T17:37:53.934Z
 tags:
   - chatgpt
   - open-ai
@@ -53,18 +53,18 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
  So, how can you use this?
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
@@ -73,15 +73,22 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, you're chatting with Canva until you click "X" on the **Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
@@ -102,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, we have hotels, flights, and trails for our trip all in one chat!
@@ -127,5 +134,21 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-high-performance-gpus-for-4k-vision/"><u>[New] 2024 Approved High-Performance GPUs for 4K Vision</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-from-viewer-to-voyager-in-depth-guide-for-captivating-live-tv-on-your-pc/"><u>[New] In 2024, From Viewer to Voyager In-Depth Guide for Captivating Live TV on Your PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-leveraging-zoom-features-for-improved-tiktok-videos/"><u>[New] In 2024, Leveraging Zoom Features for Improved TikTok Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-synchronized-intro-editing-across-all-your-devices-this-year/"><u>[New] Synchronized Intro Editing Across All Your Devices This Year</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-undead-unleashed-discovering-the-ultimate-zombie-games/"><u>[Updated] 2024 Approved Undead Unleashed Discovering the Ultimate Zombie Games</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-your-blueprint-to-youtube-success-top-tips-for-outstanding-shorts/"><u>[Updated] 2024 Approved Your Blueprint to Youtube Success Top Tips for Outstanding Shorts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-transforming-viewership-a-proven-guide-to-implementing-youtubes-featured-listings/"><u>2024 Approved Transforming Viewership A Proven Guide to Implementing Youtube's Featured Listings</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-blaze-2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Blaze 2 Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-sidestep-errors-for-effective-chatgpt-usage/"><u>How to Sidestep Errors for Effective ChatGPT Usage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-insightful-evaluation-androids-photography-tool-lightroom/"><u>In 2024, Insightful Evaluation Android's Photography Tool, Lightroom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scam-alert-be-wary-of-chatbots/"><u>Scam Alert! Be Wary of ChatBots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spontaneous-decision-making-my-impromptu-apple-watch-buyout-during-an-amazon-promotion-explained-by-zdnet/"><u>Spontaneous Decision-Making: My Impromptu Apple Watch Buyout During an Amazon Promotion, Explained by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-fitness-is-here-discover-how-airpods-pro-3-elevate-your-workout-game-with-advanced-heart-rate-tracking-a-zdnet-review/"><u>The Future of Fitness Is Here: Discover How AirPods Pro 3 Elevate Your Workout Game with Advanced Heart Rate Tracking – A ZDNET Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-typing-with-bing-ai-on-android-an-easy-guide-to-implementation/"><u>Transforming Typing with Bing AI on Android: An Easy Guide to Implementation</u></a></li>
+</ul></div>
 

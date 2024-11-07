@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Online Experience: Agents via AgentGPT"
-date: 2024-10-30T16:44:51.691Z
-updated: 2024-11-01T17:43:14.141Z
+date: 2024-11-01T23:03:04.756Z
+updated: 2024-11-07T02:33:18.748Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 
  To ensure you don't miss out on anything important, let's talk about the features, settings, and general usage of AgentGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Access AgentGPT
 
  You can get AgentGPT in two ways. For those looking to try out the platform without installation, you simply have to visit [AgentGPT](https://agentgpt.reworkd.ai/). More advanced users can go to the [official AgentGPT GitHub](https://github.com/reworkd/AgentGPT) to download and install AgentGPT on their local system.
@@ -47,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 * **No Account:** You can deploy agents as normal but with limited tokens and without the ability to save agents and manage accounts.
 * **With Account:** Allows you to deploy agents with limited tokens, manage accounts, and save deployed agents.
 * **With Account and API Key:** Provides features to deploy agents with set tokens, manage accounts, save deployed agents, set agent focus level, and set the maximum number of loops.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use AgentGPT
 
@@ -78,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
  Now, before clicking that deploy agent button, let's first configure our agent.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Configure Agent
@@ -91,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
  Configure your agent by clicking on **Settings,** located on the lower left of the screen. Here you will see all the basic settings.
 
 ![Basic settings in AgentGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/basic-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From here, you can set and configure your API, preferred language, model, and execution mode. Make sure to choose the latest model of GPT, as this will provide a better-performing agent. In terms of mode, you can either choose between **Automatic Mode** or **Pause Mode**. Automatic Mode allows your agent to continue executing tasks until it is finished, while Pause Mode makes your agent pause for every step it takes.
 
@@ -121,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 
  As you can see, our Deal Finder agent successfully provided us with a promo code, a free shipping voucher, and a bundle offer!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Limitations of AgentGPT
 
  Although AgentGPT gave us a usable output, it does have a few limitations. Firstly, AgentGPT is harder to direct as you cannot provide human input when the agent is running. Also, since you can only direct the agent by giving it a goal, you'll have to be very good at prompting your goal on your first try. Otherwise, your agent will only continue operating until it finishes or you make it stop.
@@ -130,10 +130,16 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
  Lastly, GPT-3.5 limits the potential of AgentGPT. Although [GPT-4 is the next version from GPT-3.5](http://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/), there are significant differences between the two models. This limits AgentGPT to using only text as inputs and outputs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Future of AgentGPT
@@ -159,19 +165,21 @@ thumbnail: https://thmb.techidaily.com/d4a38ebeef7fcde8439a2a50391d7bd9b46cb2287
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-best-free-introduction-software-for-youtubers/"><u>[New] In 2024, Best Free Introduction Software for Youtubers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-perfecting-your-fisheye-lens-techniques-stepwise/"><u>2024 Approved Perfecting Your Fisheye Lens Techniques Stepwise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024-mp4-top-10/"><u>2024 유티뷰어 MP4 추출을 위한 지난해의 가장 좋은 사이트 TOP 10 - 상세</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726225142689-wav-mp4-movavi/"><u>網路直接免費 WAV 到 MP4 轉換 - 使用 Movavi 音頻/影片編輯器</u></a></li>
-<li><a href="https://win-tips.techidaily.com/how-to-save-and-enjoy-slutload-episodes-with-ease/"><u>How to Save and Enjoy SlutLoad Episodes with Ease</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-v29e-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo V29e Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-visual-capture-specialists-top-10-tools/"><u>In 2024, Visual Capture Specialists' Top 10 Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavis-gratuit-online-fluxo-de-conversao-convertendo-arquivos-flv-para-formatos-ogv-e-mais/"><u>Movavi's Gratuit Online Fluxo De Conversão: Convertendo Arquivos FLV Para Formatos OGV E Mais!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726226990540-mpegvob-movavi/"><u>MPEG/VOBファイルを手っ取り早く無料で綺麗に変換 - Movavi</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/palette-proficiency-expertise-through-experience/"><u>Palette Proficiency Expertise Through Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-d3dx933dll-file-not-detected-a-comprehensive-guide/"><u>Solving the d3dx9_33.dll File Not Detected: A Comprehensive Guide</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ultimate-selection-of-secure-android-app-protectors-find-out-which-ones-rank-the-highest/"><u>Ultimate Selection of Secure Android App Protectors – Find Out Which Ones Rank the Highest</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-full-potential-of-your-asrock-ab35cu-motherboard-free-driver-downloads-and-easy-installation-tutorial-for-windows/"><u>Unlock Full Potential of Your ASRock AB35cu Motherboard: Free Driver Downloads and Easy Installation Tutorial for Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44ov44oq44o844gq44kq44oz44op44kk44oz5b2i5byp5asj5oplusbic0g44og44o844oq44o044kj44gr44ki44kl5yuv55s744gu6ieq55sx57eo6zug/"><u>フリーなオンライン形式変換 - ムーバヴィによる動画の自由編集</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-webcam-tripods-flex-neck-and-stands/"><u>[Updated] Best Webcam Tripods, Flex-Neck and Stands</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-speed-maximization-mastery-selecting-winning-converters-for-os-xwin-srt/"><u>[Updated] Speed Maximization Mastery Selecting Winning Converters for OS X/Win SRT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/academic-innovation-lab-assessing-chatgpts-effectiveness/"><u>Academic Innovation Lab: Assessing ChatGPT's Effectiveness</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-you-need-to-know-about-amds-graphics-lineup-rx-7800-and-7700xt/"><u>All You Need to Know About AMD's Graphics Lineup: RX 7800 & 7700XT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-basics-top-5-neglected-chatgpt-capabilities/"><u>Beyond Basics: Top 5 Neglected ChatGPT Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-mobvoi-ticwatch-pro-standout-smartwatch-for-staying-connected-anywhere/"><u>Comprehensive Review of Mobvoi Ticwatch Pro: Standout Smartwatch for Staying Connected Anywhere</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-digital-subtitle-producer/"><u>In 2024, Digital Subtitle Producer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-12-pro-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 12 Pro With 7 Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sharpen-the-right-way-selective-blurring-insights/"><u>In 2024, Sharpen the Right Way Selective Blurring Insights</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-oppo-find-x7-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sculpting-screens-top-30-imaginative-directions-with-dall-e-iii/"><u>Sculpting Screens: Top 30 Imaginative Directions with DALL-E III</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/secrets-for-successful-live-streams-on-youtube-with-a-tiny-fanbase-for-2024/"><u>Secrets for Successful Live Streams on YouTube with a Tiny Fanbase for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesizing-fun-and-technology-with-ai-gaming-advancements/"><u>Synthesizing Fun and Technology with AI Gaming Advancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-giant-tells-all-on-truthgpt/"><u>Tech Giant Tells All on TruthGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-reasons-giving-ios-an-edge-in-chatgpt-realm/"><u>Top 6 Reasons: Giving iOS an Edge in ChatGPT Realm</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-chatbots-in-human-like-discussions/"><u>Understanding Chatbots in Human-Like Discussions</u></a></li>
 </ul></div>
 

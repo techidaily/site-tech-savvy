@@ -1,7 +1,7 @@
 ---
 title: "Benevolent Algorithms: Is AI Truly Sensitive to Human Feelings?"
-date: 2024-10-31T18:42:12.506Z
-updated: 2024-11-01T18:38:00.684Z
+date: 2024-11-02T02:57:15.085Z
+updated: 2024-11-07T01:37:10.940Z
 tags:
   - chatgpt
   - open-ai
@@ -41,22 +41,15 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
  The nuances of human emotions are where the challenges arise. To address these challenges, emotion AI uses a range of techniques.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does Emotion AI Work?
 
  Similar to how AI chatbots rely on [huge databases called large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLMs) to generate responses, emotional AI also relies on a massive dataset. The main difference is the form of the data.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Gathering the Data
 
@@ -67,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 * **Physiological data**: Metrics like heart rate and body temperature can be measured to determine the emotional state of volunteer participants.
 
  The collected data can then be used to determine human emotional states. It is worth noting that not all emotional AI models will use the same type of data. For example, a call center will have little use for visual and physiological data. Whereas in healthcare, the inclusion of physiological data is incredibly useful.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Emotional Recognition
 
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
  The specifics of how emotional AI works vary depending on the purpose of the application. However, most emotional AI models will rely on at least one of the listed techniques.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3: Generating a Response
@@ -91,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
  The final step is for the AI model to respond appropriately to its determined emotional state. How this response manifests itself depends on the purpose of the AI. It could be in the form of warning a call center operative that their next caller is upset, or it could be personalizing the content of an app.
 
  The full spectrum of uses for this technology will be massive, and organizations are already putting it to various uses.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Are the Applications of Emotional AI?
 
@@ -122,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 * **Emotional manipulation**: Scammers could use emotional AI to play on people's feelings with malicious intent.
 
  These concerns are genuine, and a concerted effort to address them is the key to unlocking the full benefits of emotional AI.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Don't Know Whether to Laugh or Cry
 
@@ -148,20 +148,18 @@ thumbnail: https://thmb.techidaily.com/1fa3b9714516519d17cdc00ae160f98cb4b200553
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-elevate-your-characters-audio-presence-in-free-fire-naturally/"><u>[New] How to Elevate Your Character's Audio Presence in Free Fire, Naturally</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-inside-look-how-youtube-funds-are-transforming-content-creation/"><u>[Updated] In 2024, Inside Look How YouTube Funds Are Transforming Content Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-5-iphones-for-podcast-aficionados/"><u>2024 Approved Premier 5 iPhones for Podcast Aficionados</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automating-intelligence-installing-auto-gpt/"><u>Automating Intelligence: Installing Auto-GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-interactive-exchanges-advance-ai-learning-in-chatgpt-ecosystem/"><u>Can Interactive Exchanges Advance AI Learning in ChatGPT Ecosystem?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/challenge-the-chatgpt-token-count-norms/"><u>Challenge the ChatGPT Token Count Norms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/correcting-contact-details-in-protonvpn-extension/"><u>Correcting Contact Details in ProtonVPN Extension</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enabling-the-text-to-speech-functionality-in-siri-across-ios-and-macos-platforms/"><u>Enabling the Text-to-Speech Functionality in Siri Across iOS and macOS Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-internal-speakers-glitches-for-a-better-gaming-experience-resident-evil-village-edition/"><u>Fixing Internal Speakers Glitches for a Better Gaming Experience - Resident Evil Village Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-huawei-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Huawei</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 without Passcode or Face ID</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-professionals-guide-to-4k-monitors-spotlight-on-bl2711u-by-benq/"><u>In 2024, The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ</u></a></li>
-<li><a href="https://common-error.techidaily.com/instant-remedies-mend-your-google-hangouts-microphone-without-hassle/"><u>Instant Remedies: Mend Your Google Hangouts Microphone Without Hassle</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quit-juxtaposing-ai-pros-and-cons-insightful-observations/"><u>Quit Juxtaposing AI Pros & Cons: Insightful Observations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-allure-of-gpt-to-malicious-actors/"><u>The Allure of GPT to Malicious Actors</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-which-ios-app-crushes-in-video-editing-cameo-or-filmorago/"><u>[New] 2024 Approved Which iOS App Crushes in Video Editing? Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-drones-in-a-rivalry-dji-inspire-one-vs-gopro-karma-x/"><u>[New] Drones in a Rivalry DJI Inspire One Vs GoPro Karma X</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-how-to-seamlessly-incorporate-video-tracks-in-youtube-lists/"><u>[Updated] 2024 Approved How to Seamlessly Incorporate Video Tracks in YouTube Lists</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlimited-outro-options-at-no-expense-online/"><u>[Updated] Unlimited Outro Options at No Expense Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-pay-later-debts-now-reflect-on-experian-reports-what-you-need-to-know/"><u>Apple Pay Later Debts Now Reflect on Experian Reports - What You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-6-motivations-for-investing-in-an-apple-watch-expertly-detailled-by-wearable-specialist-at-zdnet/"><u>Discover the Ultimate 6 Motivations for Investing in an Apple Watch, Expertly Detailled by Wearable Specialist at ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhanced-luxury-rings-newest-100-doorbell-dazzles-with-top-tier-upgrades/"><u>Enhanced Luxury: Ring's Newest $100 Doorbell Dazzles with Top-Tier Upgrades</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-own-gpt-models/"><u>Master Your Own GPT Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reigning-in-chatter-mastering-gpt-assisted-dialogue-order/"><u>Reigning in Chatter: Mastering GPT-Assisted Dialogue Order</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sync-your-oura-health-insights-with-strava-a-step-by-step-guide-tech-blog/"><u>Sync Your Oura Health Insights with Strava: A Step-by-Step Guide | Tech Blog</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-enchantment-with-economy-smart-light-strips-vs-philips-hue-luxury/"><u>Unleash Enchantment with Economy Smart Light Strips Vs. Philips Hue Luxury</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-variations-how-ipad-mini-stacks-up-against-ipad-air/"><u>Unveiling Variations: How iPad Mini Stacks Up Against iPad Air</u></a></li>
 </ul></div>
 

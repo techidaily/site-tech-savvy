@@ -1,7 +1,7 @@
 ---
 title: Diving Into LangChain's World
-date: 2024-10-29T16:58:32.836Z
-updated: 2024-11-01T16:10:33.414Z
+date: 2024-10-31T02:50:02.178Z
+updated: 2024-11-06T20:42:38.805Z
 tags:
   - chatgpt
   - open-ai
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
  Developed by Harrison Chase in late 2022, the LangChain framework offers an innovative approach to LLMs. The process starts by preprocessing the dataset texts by breaking it down into smaller parts or summaries. The summaries are then embedded in a vector space. The model receives a question, searches the summaries, and provides the appropriate response.
 
  LangChain’s preprocessing method is a critical feature that is unavoidable as LLMs become more powerful and data-intensive. This method is mainly used in code and semantic search cases because it provides real-time collection and interaction with the LLMs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## LangChain LLM vs. Other Language Models
 
@@ -92,40 +99,33 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-dashboard.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, click the **Create new secret key** button to get a new API key.
 
 ![OpenAI API key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-page.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Enter the requested name of the API key.
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-naming.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will receive a **secret key** prompt.
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Copy and store the API key in a safe place for future use.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Developing an Application Using LangChain LLM
 
@@ -168,10 +168,10 @@ print(output)`
  Above is the expected output.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Rising Influence of LLMs
@@ -199,18 +199,17 @@ print(output)`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-riches-with-best-hash-tags-tips/"><u>[New] 2024 Approved YouTube Riches with Best Hash Tags Tips</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastering-pubg-sounds-simple-tips/"><u>[New] In 2024, Mastering PUBG Sounds Simple Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-defeating-dissidence-a-guide-for-content-makers/"><u>[Updated] Defeating Dissidence A Guide for Content Makers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-ultimate-list-of-free-vfx-websites/"><u>[Updated] In 2024, The Ultimate List of FREE VFX Websites</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-online-presence-the-revolutionary-power-of-cookiebot-integration/"><u>Boost Your Online Presence: The Revolutionary Power of Cookiebot Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-stream-avi-videos-using-your-chromecast-device-top-3-methods/"><u>How to Stream AVI Videos Using Your Chromecast Device - Top 3 Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-transfer-videos-compatible-with-apple-products/"><u>How to Transfer Videos Compatible with Apple Products</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-meizu-21-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Meizu 21 Phones with/without a PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-infinix-note-30-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Infinix Note 30 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-multiple-m4v-videos-into-a-single-file-without-compromising-on-clarity/"><u>Integrating Multiple M4V Videos Into a Single File Without Compromising on Clarity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/itunes-mp32024/"><u>ITunes MP3添付障害への回答術：2024年版ガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-youtube-content-downloads-top-6-reliable-strategies-revealed/"><u>Mastering YouTube Content Downloads: Top 6 Reliable Strategies Revealed!</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-tv-deactivation-made-easy/"><u>[New] Instagram TV Deactivation Made Easy</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-enhance-team-engagement-with-microsoft-teams-snap-camera-feature/"><u>[Updated] 2024 Approved Enhance Team Engagement with Microsoft Teams' Snap Camera Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choose-the-ultimate-smartwatch-for-your-needs-in-depth-analysis-of-2024s-finest-models/"><u>Choose the Ultimate Smartwatch for Your Needs: In-Depth Analysis of 2024'S Finest Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-talk-directly-to-chatgpt/"><u>Discover: Talk Directly to ChatGPT!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oneplus-11r-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on OnePlus 11R</u></a></li>
+<li><a href="https://discover-data.techidaily.com/resolving-common-issues-how-to-get-your-youtube-app-running-smoothly-again-on-ios-devices/"><u>Resolving Common Issues: How to Get Your YouTube App Running Smoothly Again on iOS Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/secrets-of-efficient-virtual-seminar-capture-for-2024/"><u>Secrets of Efficient Virtual Seminar Capture for 2024</u></a></li>
+<li><a href="https://discover-data.techidaily.com/section-4a-advanced-topics-non-linear-scaling-and-fractal-geometry-in-models/"><u>Section 4A: Advanced Topics - Non-Linear Scaling and Fractal Geometry in Models</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-upgrading-intel-uhd-graphics-software-for-windows-users/"><u>Step-by-Step Guide: Upgrading Intel UHD Graphics Software for Windows Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/thrilling-team-shooter-breakdown-the-excitement-of-playing-overwatch/"><u>Thrilling Team Shooter Breakdown: The Excitement of Playing Overwatch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-11-must-have-windows-and-macos-tools-from-your-favorite-tech-source-on-zdnet/"><u>Top 11 Must-Have Windows & macOS Tools From Your Favorite Tech Source on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-apple-pay-later-transactions-now-reflected-on-experian-credit-reports-what-you-need-to-know/"><u>Upcoming Apple Pay Later Transactions Now Reflected on Experian Credit Reports: What You Need to Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Refine Your AI Talks: Innovative Prompts for Better Outputs"
-date: 2024-09-11T16:13:26.262Z
-updated: 2024-09-17T16:05:13.639Z
+date: 2024-11-01T06:26:43.408Z
+updated: 2024-11-07T12:48:18.554Z
 tags:
   - chatgpt
   - open-ai
@@ -76,9 +76,23 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
 ![Screenshot of ChatGPT prompt for headings and subheadings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-ot-chatgpt-prompt-for-headings-and-subheadings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, we can chain our prompts to generate content for each heading. In this case, we asked for a short paragraph and three bullet points, and we also asked for the inclusion of some keywords. As you can see the response remembered that the content was for a Michigan-based company.
 
 ![Screenshot of follow up question to ChatGPT homepage headers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-follow-up-question-to-chatgpt-homepage-headers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Using the chaining technique allows you to precisely tailor responses for more relevant results.
 
@@ -93,22 +107,15 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 ![Screenshot of ChatGPT response to basic solar system article request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-response-to-basic-solar-system-article-request.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, we reframed the question to output the result in markdown language and to include headings and a table summarizing some of the information:
 
 ![Screenshot of ChatGPT using Markup language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-using-markup-language.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The output included a heading and subheading for each planet as we requested.
 
@@ -118,7 +125,21 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
 ![Screenshout of ChatGPT Table of information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshout-of-chatgpt-table-of-information.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is a powerful way to get better-formatted output, it also works well when used in conjunction with chained prompts.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Use ChatGPT to Generate Its Own Prompts
 
@@ -129,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 ![Screenshot of ChatGPT answering question about creating prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-answering-question-about-creating-prompts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT then asked us for more detail about the purpose of the prompts. Obviously, the more detail you provide here, the more accurate the response will be. But for the sake of brevity, we kept it short and sweet.
@@ -144,10 +165,10 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 ![Screenshot of ChatGPT exanding on a numbered prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-exanding-on-a-numbered-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Let Your Personality Shine by Adding Some Character to the Response
@@ -164,13 +185,6 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
 ![Screenshot of lighthearted ChatGPT response on Fiscal Procurement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-lighthearted-chatgpt-response-on-fiscal-procurement.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, while it may not have your audience rolling on the floor in laughter, it is a far more interesting reply than the previous one.
 
 ## 7\. Chain-of-Thought Prompting
@@ -180,6 +194,13 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
  For instance, if we ask ChatGPT a simple question with a numeric answer we get this response. The first question is the seed question and lays out to ChatGPT the format of the response we expect.
 
 ![Screenshot of CoT Basic Answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-cot-basic-answer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now we can repeat the process and add some detail to the seed question:
 
@@ -210,5 +231,21 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-ultimate-video-booster-guide-uncovering-the-top-20-tips/"><u>[New] 2024 Approved The Ultimate Video Booster Guide - Uncovering the Top 20 Tips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-elevate-your-tiktok-videos-with-compelling-captions/"><u>[New] In 2024, Elevate Your TikTok Videos with Compelling Captions</u></a></li>
+<li><a href="https://win-info.techidaily.com/come-generare-immagini-di-sistema-su-windows-server-2011-due-approcci-alternativi-esplorati/"><u>Come Generare Immagini Di Sistema Su Windows Server #2011: Due Approcci Alternativi Esplorati</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-redefines-large-language-models-launch-of-palm-2/"><u>Google Redefines Large Language Models: Launch of PaLM 2</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-dynamic-content-presentation-via-fb-slideshows/"><u>In 2024, Dynamic Content Presentation via FB Slideshows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-motorola-moto-g04-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Motorola Moto G04 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mind-blowing-news-speak-to-the-ai-gpt/"><u>Mind-Blowing News: Speak To The AI GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-realm-of-ai-crafting-prompts-and-career-stability/"><u>Navigating the Realm of AI: Crafting Prompts & Career Stability</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-nvidia-high-definition-audio-challenges-expert-tips-for-bringing-back-system-sounds/"><u>Overcoming NVIDIA High Definition Audio Challenges: Expert Tips for Bringing Back System Sounds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-case-for-claude-3-top-4-benefits-over-chatgpt/"><u>The Case for Claude 3: Top 4 Benefits Over ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-comprehve-guide-to-high-performance-pc-parts-by-toms-tech-team/"><u>The Compreh#ve Guide to High-Performance PC Parts by Tom's Tech Team</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-and-impact-of-artificial-intelligence/"><u>The Essence & Impact of Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-teacher-ai-alliance-top-8-advantages-of-embracing-technology/"><u>The Teacher-AI Alliance: Top 8 Advantages of Embracing Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-smartwatches-comprehensive-reviews-and-comparisons-by-tech-experts-zdnet/"><u>Top-Rated Smartwatches - Comprehensive Reviews & Comparisons by Tech Experts | ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Transforming Bibliophiles' Habit with the Best AI Book Suggestion Tools
-date: 2024-10-31T16:30:40.057Z
-updated: 2024-11-01T18:57:56.875Z
+date: 2024-11-02T02:37:17.615Z
+updated: 2024-11-07T07:06:55.144Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ Author Screenshot by Mihir Patkar - No attribution required
 
 ![Sona is an AI book recommendation engine by the makers of Read This Twice that makes AI prompt results easy to read](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-read-this-twice-sona.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Author Screenshot by Mihir Patkar - No attribution required
 
  Sona is a "book-loving AI assistant" from one of our [favorite new book recommendation sites](https://www.makeuseof.com/new-book-recommendation-apps-sites/), Read This Twice. Read This Twice collects which titles celebrities and influential personalities have said everyone should read, with rankings for the most commonly recommended reads.
@@ -47,13 +54,6 @@ Author Screenshot by Mihir Patkar - No attribution required
  You can write long and specific prompts, and Sona's recommendations improve if you add more details about what you're looking for. The results are a long scroll with two columns of recommendations, showing you the book cover, title, author, and description. Among the AI-powered book recommendation apps, it's the quickest way to browse the many suggested titles.
 
  However, in the results, Sona disappointingly doesn't rely on Read This Twice's core expertise by showing which books are recommended by someone influential. There is a workaround to that, though. If you register on the site, you'll be able to add these books to your personal library and go there to see who has promoted the book.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Next Three Books
 
@@ -86,6 +86,13 @@ Author Screenshot by Mihir Patkar - No attribution required
 
  Whenever you add or remove a personal favorite, Readow will update the results with 30 book recommendations. You can like books from the recommendations to add them to your favorites or delete them from the recommendations to indicate to the AI that it shouldn't suggest similar titles.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. BooksAI
 
 ![Search for a book or look through celebrity recommendations to generate a summary of any book with BooksAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-1.jpg)
@@ -94,28 +101,15 @@ Author Screenshot by Mihir Patkar - No attribution required
 
 ![BooksAI can summarize a book without spoilers, or give a detailed summary broken down by chapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Author Screenshot by Mihir Patkar - No attribution required
 
 ![BooksAI uses ChatGPT to summarize any book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Author Screenshot by Mihir Patkar - No attribution required
@@ -131,10 +125,10 @@ Close
 **Download:** BooksAI for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030240/https://play.google.com/store/apps/details?id=com.books.ai.books%5Fai) | [iOS](https://apps.apple.com/us/app/booksai-ai-book-summaries/id6450773082) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Give Serendipity a Chance
@@ -158,18 +152,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-how-to-use-zoom-in-gmail/"><u>[New] 2024 Approved How to Use Zoom in Gmail</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-convert-and-save-webcam-images-in-vlc-for-2024/"><u>[New] Convert and Save Webcam Images in VLC for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1716068869298-new-in-2024-mastering-movie-capture-pc-mac-and-mobile-devices/"><u>[New] In 2024, Mastering Movie Capture PC, Mac & Mobile Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-vimeo-video-on-instagram-feed-for-2024/"><u>[Updated] Mastering Vimeo Video on Instagram Feed for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-crafting-silent-scenes-audio-fade-techniques-in-adobe-premiere-pro/"><u>2024 Approved Crafting Silent Scenes Audio Fade Techniques in Adobe Premiere Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-control-in-ai-alignment-quest/"><u>Crafting Control in AI Alignment Quest</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creative-journey-combining-mindmaps-and-chatai/"><u>Creative Journey: Combining Mindmaps & ChatAI</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-to-sidestep-slips-with-synthetic-data/"><u>Strategies to Sidestep Slips with Synthetic Data</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-power-of-perception-iconic-podcast-design-tips/"><u>The Power of Perception Iconic Podcast Design Tips</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-free-gif-animation-creators/"><u>Updated 2024 Approved Top Free GIF Animation Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-gpt-4-in-chatgpt-conversations-today/"><u>Utilizing GPT-4 in ChatGPT Conversations Today</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-practices-for-designing-compelling-youtube-video-thumbnails/"><u>[New] In 2024, Best Practices for Designing Compelling YouTube Video Thumbnails</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-innovating-in-the-digital-age-making-stellar-fb-reels-on-youtube-for-2024/"><u>[New] Innovating in the Digital Age Making Stellar FB Reels on YouTube for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-integrating-obs-recording-capabilities-into-zoom-sessions/"><u>[Updated] 2024 Approved Integrating OBS Recording Capabilities Into Zoom Sessions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-the-art-of-filters-on-instagram-your-2023-manual/"><u>2024 Approved Mastering the Art of Filters on Instagram Your 2023 Manual</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/cookiebot-revolutionizing-personalized-engagement-and-retargeting/"><u>Cookiebot: Revolutionizing Personalized Engagement and Retargeting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-googles-gemini-the-projects-core-objectives-and-workings/"><u>Delving Into Google's Gemini: The Project’s Core Objectives and Workings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-detecting-and-eliminating-mobile-spyware-a-guide-by-zdnet/"><u>Effective Strategies for Detecting & Eliminating Mobile Spyware: A Guide by ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-to-resolve-error-messages-in-fortnite-on-windows-1011-systems/"><u>Expert Tips to Resolve Error Messages in Fortnite on Windows 10/11 Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-pip-feature-a-comprehensive-guide/"><u>In 2024, Harnessing PIP Feature A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-iphone-x-animoji-your-comprehensive-users-manual/"><u>In 2024, Mastering iPhone X Animoji Your Comprehensive User's Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intro-to-langchain-a-light-on-large-model-logic/"><u>Intro to LangChain: A Light on Large Model Logic</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/october-marks-new-launch-date-for-apples-ai-capabilities-industry-updates-covered-by-zdnet/"><u>October Marks New Launch Date for Apple's AI Capabilities; Industry Updates Covered by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pathways-through-ai-your-openai-primer/"><u>Pathways Through AI: Your OpenAI Primer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-your-control-experience-on-iphone-with-ios-18-expert-tips-and-tricks/"><u>Personalizing Your Control Experience on iPhone with iOS 18: Expert Tips and Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shave-minutes-off-your-workday-with-these-plugins/"><u>Shave Minutes Off Your Workday With These Plugins</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-guide-solving-non-syncing-icloud-reminders-across-iphone-ipad-and-mac-devices/"><u>Troubleshooting Guide: Solving Non-Syncing iCloud Reminders Across iPhone, iPad & Mac Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-exclusive-apples-phase-out-of-apple-pay-later-and-anticipation-for-a-replacement-service/"><u>ZDNet Exclusive: Apple's Phase-Out of Apple Pay Later & Anticipation for a Replacement Service</u></a></li>
 </ul></div>
 

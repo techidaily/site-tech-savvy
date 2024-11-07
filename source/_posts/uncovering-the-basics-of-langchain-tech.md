@@ -1,7 +1,7 @@
 ---
 title: Uncovering The Basics of LangChain Tech
-date: 2024-09-13T16:23:51.916Z
-updated: 2024-09-17T16:31:54.809Z
+date: 2024-11-01T10:39:36.237Z
+updated: 2024-11-06T18:47:01.058Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 
  LangChain’s preprocessing method is a critical feature that is unavoidable as LLMs become more powerful and data-intensive. This method is mainly used in code and semantic search cases because it provides real-time collection and interaction with the LLMs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## LangChain LLM vs. Other Language Models
 
  The following comparative overview aims to highlight the unique features and capabilities that set LangChain LLM apart from other existing language models in the market:
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 ## Getting Started With LangChain LLM
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Setting Up Your Development Environment
 
@@ -99,43 +99,30 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-dashboard.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click the **Create new secret key** button to get a new API key.
 
 ![OpenAI API key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-page.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Enter the requested name of the API key.
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-naming.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will receive a **secret key** prompt.
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Copy and store the API key in a safe place for future use.
@@ -178,6 +165,13 @@ print(output)`
 
 ![Output of developing an application using LangChain](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-output.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Above is the expected output.
 
 ## The Rising Influence of LLMs
@@ -203,5 +197,24 @@ print(output)`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-perfecting-your-sims-4-live-action/"><u>[New] 2024 Approved Perfecting Your Sims 4 Live Action</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-ensuring-total-sound-from-partially-muted-fb-media/"><u>[New] Ensuring Total Sound From Partially Muted FB Media</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-elevate-your-cinematography-essential-gear-for-yi-4k/"><u>[New] In 2024, Elevate Your Cinematography - Essential Gear for YI 4K</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-simple-tale-creation-guide/"><u>[New] Simple Tale Creation Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-techniques-for-youtube-to-mp4-conversion/"><u>[Updated] Top 10 Techniques for YouTube to MP4 Conversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/180-sale-alert-why-the-arlo-pro-5s-might-become-your-top-choice-in-security-cameras-a-zdnet-review/"><u>$180 Sale Alert! Why the Arlo Pro 5S Might Become Your Top Choice in Security Cameras - A ZDNet Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-free-screen-capture-solutions-top-5-recommendations-for-windows/"><u>2024 Approved Free Screen Capture Solutions – Top 5 Recommendations for Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-aviary-nutrition-devices-expert-picks-for-smart-bird-feeders-techbirdreviews/"><u>Advanced Aviary Nutrition Devices: Expert Picks for Smart Bird Feeders | TechBirdReviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-energy-solution-how-one-budget-friendly-power-station-transformed-my-cross-country-adventure-insights-for-travelers/"><u>Affordable Energy Solution: How One Budget-Friendly Power Station Transformed My Cross-Country Adventure - Insights for Travelers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-power-station-test-review-perfect-companion-for-your-next-road-trip-zdnet/"><u>Affordable Power Station Test Review: Perfect Companion for Your Next Road Trip | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-complet-pour-configurer-et-utiliser-handbrake-sur-les-systemes-dexploitation-windows-7-8-10-and-vista/"><u>Guide Complet Pour Configurer Et Utiliser HandBrake Sur Les Systèmes D'Exploitation Windows 7, 8, 10 & Vista</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m34-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M34 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/prime-captures-of-apples-hd-video-screenshots-under-156-chars/"><u>Prime Captures of Apple's HD Video Screenshots (Under 156 Chars)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unexpected-delight-my-experience-with-the-ring-spotlight-cam-pro/"><u>Unexpected Delight: My Experience with the Ring Spotlight Cam Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-halloweens-most-thrilling-animatronics-of-202best-animated-horror-inventions-zdnet/"><u>Unveiling Halloween's Most Thrilling Animatronics of 202([[Best Animated Horror Inventions | ZDNET]]))</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/up-to-40-off-indefinite-offer-on-durable-anker-power-station-in-anticipation-of-upcoming-harsh-weather-tech-news-by-zdnet/"><u>Up to 40% Off Indefinite Offer on Durable Anker Power Station in Anticipation of Upcoming Harsh Weather - Tech News by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wyzecams-superior-substitute-discover-why-the-waterproof-blink-mini-amoost-unbeatable-in-home-surveillance/"><u>WyzeCam's Superior Substitute: Discover Why The Waterproof Blink Mini Amoost Unbeatable in Home Surveillance</u></a></li>
+</ul></div>
 

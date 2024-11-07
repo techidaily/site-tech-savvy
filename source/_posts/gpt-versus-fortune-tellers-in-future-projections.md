@@ -1,7 +1,7 @@
 ---
 title: GPT Versus Fortune Tellers in Future Projections
-date: 2024-09-10T16:19:22.837Z
-updated: 2024-09-17T16:00:13.203Z
+date: 2024-11-01T03:15:25.257Z
+updated: 2024-11-07T11:25:01.289Z
 tags:
   - chatgpt
   - open-ai
@@ -42,9 +42,23 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
  Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Choose Your ChatGPT Fortune Telling Questions Wisely
 
 ![Fortune Teller doing a Reading for a Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fortune-teller-doing-a-reading-for-a-client-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another thing we've learned from movies is that knowing the future is a dangerous thing. As a large language model which has already ingested and digested most of the internet, ChatGPT, or Agnes, as she now calls herself, could possibly make reliable predictions of when and how you're going to die. You probably don't want to know, so don't ask.
 
@@ -52,9 +66,29 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
  What follows is her prediction and how it played out in real life.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Well Did ChatGPT Predict the Future?
 
 ![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
 
@@ -96,19 +130,6 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
 
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
 
  Horoscopes contain the details you want them to contain, and if you're looking for deeper meaning, you'll find it simply because you want to find it. You could read the horoscope for any of the star signs and find a meaning attached because the writing is meant to be general and apply to as many people as possible.
@@ -134,5 +155,18 @@ thumbnail: https://thmb.techidaily.com/2205900e82610c2779399ae469623ae027920f8a8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-boosting-youtube-interaction-with-emojis/"><u>[New] 2024 Approved Boosting YouTube Interaction with Emojis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-avoiding-miscommunication-on-google-meet-best-practices-for-2024/"><u>[New] Avoiding Miscommunication on Google Meet Best Practices for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unveiling-the-top-gopro-models-max-vs-hero-11-for-2024/"><u>[Updated] Unveiling the Top GoPro Models Max Vs. Hero 11 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-sonic-surround-without-the-big-names-how-a-lesser-known-brand-outperforms-sony-and-bose-insights-from-zdnets-testing/"><u>Best Sonic Surround Without the Big Names: How a Lesser-Known Brand Outperforms Sony and Bose - Insights From ZDNet's Testing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-vizio-and-jbl-unveiling-the-best-immersive-soundbar-ive-ever-tested-for-audiophiles-zdnet-review/"><u>Beyond Vizio and JBL: Unveiling the Best Immersive Soundbar I've Ever Tested for Audiophiles | ZDNET Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compact-handheld-bluetooth-speaker-delivers-impressive-bass-quality-exclusive-review-by-zdnet/"><u>Compact Handheld Bluetooth Speaker Delivers Impressive Bass Quality: Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-guide-to-converting-your-vhs-tapes-into-digital-formats-using-a-computer/"><u>Easy Guide to Converting Your VHS Tapes Into Digital Formats Using a Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-review-2024s-leading-bookshelf-sound-solutions-as-ranked-by-gizmohub/"><u>Expert Review: 2024'S Leading Bookshelf Sound Solutions as Ranked by GizmoHub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-premium-quality-sound-with-yamahas-budget-friendly-bar-for-only-half-of-a-1000-jbl-price-expert-insights-from-zdnet/"><u>Get Premium Quality Sound with Yamaha's Budget-Friendly Bar for Only Half of a $1,000 JBL Price - Expert Insights From ZDNET</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/minisculecam-record-evaluation-and-comparisons-for-2024/"><u>MinisculeCam Record Evaluation & Comparisons for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-common-isdonedll-isarcextract-failures/"><u>Overcoming Common ISDone.dll (ISArcExtract) Failures</u></a></li>
+</ul></div>
 

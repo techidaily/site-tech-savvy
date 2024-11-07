@@ -1,7 +1,7 @@
 ---
 title: "Anticipating the Arrival: My Insightful Encounter with Early Orders for Apple Vision Pro - Indications of Improved Future Releases"
-date: 2024-10-29T18:46:40.506Z
-updated: 2024-11-01T17:47:26.186Z
+date: 2024-11-05T05:54:35.662Z
+updated: 2024-11-07T09:06:56.552Z
 tags:
   - apple
 categories:
@@ -50,6 +50,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Keyboard passthrough
 
 Working in any of the virtual environments (I prefer Mount Hood) is great, but the immersive environment occludes my keyboard. The Digital Crown allows users to open the side view of the virtual space, but the center is still blocked. 
@@ -67,10 +74,10 @@ That precludes using the Vision Pro's mirror-to-Apple TV feature to help a perso
 Look, I get the whole piracy thing. But limiting even a single screenshot is overkill. Apple, please fix this. It makes it much harder to help you sell your products. Shutting down the ability to mirror any Apple TV+ content from the Vision Pro to the Apple TV is baffling. I, for example, subscribe to the Apple One Premier plan, which allows us to use Family Sharing to share among up to five people. So why is Apple blocking this capability on the Vision Pro? 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  5\. More native spatial apps
@@ -87,13 +94,6 @@ Apple currently allows just a few fully immersive environments. While the surfac
 
 I'd love to see more immersive environments for the Vision Pro. There is a category of long-running videos on YouTube called "ambience videos." They consist of cozy animated scenes with some background music like [this serene coffee shop](https://www.youtube.com/watch?v=W5qamfXh3Q4&t=11737s). How nice would it be to set up work virtually in a coffee shop like this, chill, and be productive? I can see a great app market for well-designed third-party ambience environments. Heck, I'd pay a couple of bucks to work in a selection of charming coffee shops! 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  7\. Larger play space boundary
 
 Right now, Apple limits the [total physical play space for virtual experiences to a 1.5-meter boundary](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences) around the initial position of the wearer's head. As a person moves closer to the bounds of that boundary, the virtual world recedes and environment passthrough is activated. 
@@ -105,13 +105,6 @@ For many folks, that roughly 5-foot boundary is plenty. My space doesn't even co
 There's more flexibility on the Quest 3\. Using a [fairly dangerous optional setting](https://www.youtube.com/watch?v=mHOHZc24zqk), the Quest 3 allows the boundary to be completely removed. A safer approach is [what this YouTuber does](https://www.youtube.com/watch?v=GhxQs%5F508Lc) to allow for his entire apartment to be included in his Quest 3 play space. 
 
 Maybe, with VisionOS 2.0, Apple will allow for some flexibility in play space boundary size. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  8\. VR controller support
 
@@ -131,22 +124,29 @@ While many reviewers have described the Vision Pro's hand and eye tracking as "m
 
 This needs to improve, and I hope to see an upgrade in VisionOS 2.0\. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  10\. Find My support
 
 It's weird, but there's no Find My app for the Apple Vision Pro. You can't even download it. It's just not there. Now, given [how important it is to be able to use AirPods with the Vision Pro](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/) when around family members, I would think Find My (which regularly helps me find one or the other of my dropped AirPods) would be a necessity. But it's not available. 
 
 Even cooler would be a heads-up display version of Find My that puts an arrow in your field of view as you look for what's missing. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bonus: Better personas
 
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
 
@@ -186,20 +186,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-best-editors-on-smartphones-for-dji-footage-excellence/"><u>[New] 2024 Approved Best Editors on Smartphones for DJi Footage Excellence</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-beat-junkies-essentials-online-cost-free-software/"><u>[Updated] Beat Junkies' Essentials Online, Cost-Free Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-online-webinar-conduct-with-youtube/"><u>[Updated] In 2024, Free Online Webinar Conduct with YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-digesting-the-public-perspective-on-vllo/"><u>2024 Approved Digesting the Public Perspective on VLLO</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-sony-xperia-1-v-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crackdown-chronicles-police-vs-privacy-tools/"><u>Crackdown Chronicles: Police Vs. Privacy Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embarking-on-langchain-an-insiders-quick-tale/"><u>Embarking on LangChain: An Insider's Quick Tale</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-efficiency-in-hr-with-ai-prompts/"><u>Enhancing Efficiency in HR with AI Prompts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-break-free-from-conventions-advanced-distortion-art-in-photoshop/"><u>In 2024, Break Free From Conventions Advanced Distortion Art in Photoshop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-microsoft-copilot-for-mac-users-installation-and-tips/"><u>Mastering Microsoft Copilot for Mac Users: Installation & Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-gaming-displays-of-2024-affordable-options-and-ultra-hd-curves/"><u>Top Rated Gaming Displays of 2024: Affordable Options & Ultra HD Curves</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truthcoin-reliable-or-risky-venture/"><u>TruthCoin: Reliable or Risky Venture?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-choosing-the-most-ergonomic-keyboards-this-year/"><u>Ultimate Guide: Choosing the Most Ergonomic Keyboards This Year</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unverified-wisdom-why-you-shouldnt-trust-chatgpt-for-health/"><u>Unverified Wisdom: Why You Shouldn't Trust ChatGPT for Health</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/visual-storytelling-support-center/"><u>Visual Storytelling Support Center</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-your-youtube-shorts-earnings-potential/"><u>2024 Approved Unlock Your YouTube Shorts Earnings Potential</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/appleoutlookmac/"><u>Appleマシン上のOutlookコネクティビティを利用して、連絡先データをMac上のアプリケーションにインポートする方法。</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-guide-viewing-apples-immersive-spatial-vids-on-your-meta-quest-3/"><u>Effortless Guide: Viewing Apple's Immersive Spatial Vids on Your Meta Quest 3</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-internet-experience-why-updating-your-google-chrome-browser-soon-is-essential/"><u>Enhance Your Internet Experience: Why Updating Your Google Chrome Browser Soon Is Essential</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-redmi-13c-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi Redmi 13C 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-the-biggest-breakthroughs-in-augmented-reality-ar-and-virtual-reality-vr-at-ces-202e-key-takeaways-from-the-event-techzoo/"><u>In-Depth: The Biggest Breakthroughs in Augmented Reality (AR) & Virtual Reality (VR) at CES 202E - Key Takeaways From the Event | TechZoo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pre-order-your-apple-vision-pro-starting-jan-19-available-in-store-on-feb-2nd-details-inside-tech-news/"><u>Pre-Order Your Apple Vision Pro Starting Jan 19: Available In-Store on Feb 2Nd - Details Inside | Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protect-your-virtual-reality-assets-from-metas-purge-a-comprehensive-guide-for-oculus-users/"><u>Protect Your Virtual Reality Assets From Meta's Purge - A Comprehensive Guide for Oculus Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-2-technological-milestones-of-2023-a-landmark-year-surpassing-the-last-ten-years-zdnet/"><u>The Top 2 Technological Milestones of 2023: A Landmark Year Surpassing the Last Ten Years | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-12-no-cost-movie-streaming-applications-you-cant-miss/"><u>Top 12 No-Cost Movie Streaming Applications You Can't Miss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-dvd-video-software-purchase-faqs-essential-answers-for-informed-shopping-decisions/"><u>WinX DVD Video Software Purchase FAQs: Essential Answers for Informed Shopping Decisions</u></a></li>
 </ul></div>
 

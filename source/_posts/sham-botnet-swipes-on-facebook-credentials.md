@@ -1,7 +1,7 @@
 ---
 title: "Sham Botnet: Swipes on FACEBOOK Credentials"
-date: 2024-10-29T16:18:22.455Z
-updated: 2024-11-01T17:42:00.778Z
+date: 2024-11-03T05:57:49.338Z
+updated: 2024-11-06T21:44:17.239Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably [sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Thousands of Facebook Accounts May Have Been Compromised
@@ -54,10 +54,10 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Malicious App Has Been Removed from Chrome
@@ -65,10 +65,10 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -92,22 +92,19 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instaflash-compile-your-pics-fast/"><u>[New] InstaFlash Compile Your Pics Fast</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unearthing-old-facebook-tales-an-easy-to-follow-device-method/"><u>[New] Unearthing Old Facebook Tales An Easy-to-Follow Device Method</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-quality-streaming-balancing-webcam-and-gaming-recordings/"><u>[Updated] 2024 Approved Quality Streaming Balancing Webcam & Gaming Recordings</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-social-media-sphere-speaking-up-to-fans/"><u>[Updated] 2024 Approved The Social Media Sphere Speaking Up to Fans</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-introductory-walkthrough-how-to-employ-mobizen-screensaver-tools/"><u>[Updated] Introductory Walkthrough How to Employ Mobizen Screensaver Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/flawless-content-creation-the-4-biggest-mistakes-to-dodge-using-chatgpt/"><u>Flawless Content Creation - The 4 Biggest Mistakes to Dodge Using ChatGPT</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-camon-20-pro-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Camon 20 Pro 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/platform-pioneers-clash-in-a-battle-of-chatbots/"><u>Platform Pioneers Clash in a Battle of Chatbots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preventing-predictable-problems-with-generative-tech/"><u>Preventing Predictable Problems with Generative Tech</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/solid-features-in-bose-wireless-headphone-exploration/"><u>Solid Features in Bose Wireless Headphone Exploration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-transforming-dall-e-webp-to-jpegpng/"><u>Step by Step: Transforming DALL-E WebP to JPEG/PNG</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/subtlety-matters-fading-out-sounds-in-logic-pro/"><u>Subtlety Matters Fading Out Sounds in Logic Pro</u></a></li>
-<li><a href="https://win-docs.techidaily.com/top-8-creative-sparking-mind-mapping-books-enhance-ideas-and-unleash-innovation/"><u>Top 8 Creative Sparking Mind Mapping Books: Enhance Ideas and Unleash Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-power-of-individualized-chatgpt-commands/"><u>Unlocking the Power of Individualized ChatGPT Commands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-enigma-of-chatbots-debunking-9-popular-beliefs/"><u>Unraveling the Enigma of Chatbots: Debunking 9 Popular Beliefs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voiceactivated-ai-on-mobile-try-chatgpt-with-android/"><u>VoiceActivated AI on Mobile? Try ChatGPT with Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zerogpt-and-detectors-can-they-be-trusted-completely/"><u>ZeroGPT & Detectors: Can They Be Trusted Completely?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-rapid-fire-rise-to-fame-with-customizable-tiktok-templates/"><u>[New] 2024 Approved Rapid-Fire Rise to Fame with Customizable TikTok Templates</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-quiet-quality-of-comfort-asmr-expert-choices/"><u>[New] 2024 Approved The Quiet Quality of Comfort ASMR Expert Choices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-leading-12-free-video-trimming-apps-for-android-users/"><u>[New] Leading 12 Free Video Trimming Apps for Android Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-simplified-mac-imaging-mastering-5-easy-screenshot-methods-for-2024/"><u>[New] Simplified Mac Imaging Mastering 5 Easy Screenshot Methods for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-explore-our-collection-50plus-unique-free-youtube-banner-ads/"><u>[Updated] 2024 Approved Explore Our Collection 50+ Unique, Free YouTube Banner Ads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-boost-your-video-skills-using-adobe-connect-for-editing-techniques/"><u>[Updated] In 2024, Boost Your Video Skills Using Adobe Connect for Editing Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-merry-media-archive-inspector/"><u>2024 Approved Merry Media Archive Inspector</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-state-of-the-art-ais-palm-2-vs-gpt-4/"><u>Exploring State-of-the-Art AIs: PaLM 2 Vs. GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-ai-enhanced-functionality-to-sheet-workflows/"><u>Introducing AI-Enhanced Functionality to Sheet Workflows</u></a></li>
+<li><a href="https://facebook.techidaily.com/reflections-on-a-life-with-less-social-media/"><u>Reflections on a Life with Less Social Media</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-transfer-of-images-from-google-photos-to-icloud-a-step-by-step-guide/"><u>Seamless Transfer of Images From Google Photos to iCloud: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/staying-serene-in-meetings-master-the-art-of-quieting-others-in-google-video-conversations/"><u>Staying Serene in Meetings Master the Art of Quieting Others in Google Video Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/switching-from-apple-vision-pro-and-meta-quest-3-the-more-affordable-alternative-xr-glasses-reviewed-by-tech-expert/"><u>Switching From Apple Vision Pro & Meta Quest 3: The More Affordable Alternative XR Glasses Reviewed by Tech Expert</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-amazing-savings-on-amazon-exclusive-offers-in-august-2024-zdnet/"><u>Top Amazing Savings on Amazon - Exclusive Offers in August 2024 | ZDNet</u></a></li>
 </ul></div>
 

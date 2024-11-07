@@ -1,0 +1,107 @@
+---
+title: "Upcoming Benefits: Exclusive New Functions for Specific Models of Apple's AirPods in the Autumn - A Closer Look by ZDNet"
+date: 2024-10-31T21:50:15.636Z
+updated: 2024-11-07T03:04:20.908Z
+tags:
+  - apple
+categories:
+  - tech
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
+---
+
+## Upcoming Benefits in Selected Apple AirPod Models Set to Launch This Autumn: A Closer Look
+
+![AirPods Pro 2](https://www.zdnet.com/a/img/resize/e975fb7fa5fa9c06ae5c0c86ff2043bba68e6590/2023/09/10/f87eda0e-6717-4b19-8829-170e2c098428/airpods-pro-2.jpg?auto=webp&precrop=2048,1150,x0,y95&width=1280)
+
+Jason Hiner/ZDNET
+
+At [WWDC 2024](https://www.zdnet.com/article/live-updates-everything-apple-announced-at-wwdc-2024-including-ios-18-siri-ai-more/), Apple announced new software features for its flagship earbuds, the [AirPods Pro (2nd generation)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-airpods-pro-2nd-generation-with-magsafe-case-usbc-white%2F6447382.p%3FskuId%3D6447382&publisher%5Fslug=zdnet&article%5Fname=3%20useful%20features%20coming%20to%20apple%20airpods%20this%20fall%20%28but%20only%20for%20these%20models%29&article%5Furl=https%3A%2F%2Fwww.zdnet.com%2Farticle%2F3-useful-features-coming-to-apple-airpods-this-fall-but-only-for-these-models%2F&exclusive=1&u1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), the MagSafe and USB-C versions included. The software updates are baked into [iOS 18](https://www.zdnet.com/article/ios-18-the-biggest-iphone-changes-apple-announced-at-wwdc-2024/) and include features involving Siri and enhancements to voice isolation.
+
+In addition to [Apple giving Siri conversational context](https://www.zdnet.com/article/live-updates-everything-apple-announced-at-wwdc-2024-including-ios-18-siri-ai-more/) \-- thanks to its generative AI upgrades -- Siri will soon better understand users wearing AirPods Pro. When iOS 18 is released this fall, users will be able to respond to Siri announcements via head nods.
+
+**Also: [Everything Apple announced at WWDC 2024, including iOS 18, Siri, AI, and more](https://www.zdnet.com/article/live-updates-everything-apple-announced-at-wwdc-2024-including-ios-18-siri-ai-more/)**
+
+This feature is called Siri Interactions, and Apple says these gestures will be helpful in environments where users want privacy instead of saying a response to Siri out loud. When I wear my AirPods, I raise my voice so Siri can register my command; I'm curious to see how well this feature works.
+
+Also, Apple announced improvements to AirPods Pro call quality with a feature called Voice Isolation. Powered by Apple Intelligence -- the company's brand of [generative AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) \-- the feature can selectively and intelligently cancel unwanted noises and preserve or amplify wanted noises. 
+
+#### Newsletters
+
+ZDNET Tech Today
+
+ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked about stories, five days a week.
+
+ Subscribe
+
+[See all](https://www.zdnet.com/newsletters/)
+
+For example, during a call, AI can detect and dampen sounds such as wind or other background noise and keep them out of the microphones. On the other hand, AI can detect and amplify your voice so the person on the other end of the call can hear you clearly, even in crowded areas. 
+
+Siri Interactions and Voice Isolation are available only on the AirPods Pro 2 because these are Apple's only headphones with the advanced H2 chip. But other AirPods wearers aren't missing out on all the fun, as AirPods Pro, along with AirPods (3rd generation) and AirPods Max, are receiving an update to Personalized Spatial Audio.
+
+**Also: [What is Apple Intelligence: How the iPhone's on-device and cloud-based AI will work](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
+
+Mobile gaming apps are an integral part of Apple's App Store and the mobile app industry as a whole, as improvements to smartphone processors allow today's handsets to handle more intensive graphics and video than ever before. 
+
+To add a layer of immersion to the mobile gaming experience, Apple is bringing spatial audio with dynamic head tracking when iOS users play video games. Apple says gamers wearing AirPods can enjoy "the best wireless audio latency Apple has ever delivered for mobile gaming," but it's unclear how short the delay is.
+
+These software features will be available when iOS 18 rolls out this fall. Unlike your other Apple devices, AirPods cannot be updated manually. However, AirPods updates are rolled into iOS updates, so once you update your iPhone, your AirPods should update as well.
+
+#### Featured
+
+[Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)](https://www.zdnet.com/article/why-im-recommending-the-standard-iphone-16-over-the-pro-this-year-and-im-not-alone/ "Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)")
+
+[Is OneDrive messing with your files? How to get your Windows storage under control](https://www.zdnet.com/article/is-onedrive-messing-with-your-files-how-to-get-your-windows-storage-under-control/ "Is OneDrive messing with your files? How to get your Windows storage under control")
+
+[Best early Prime Day deals under $50 to shop in October 2024](https://www.zdnet.com/article/best-early-prime-day-deals-under-50/ "Best early Prime Day deals under $50 to shop in October 2024")
+
+[Rust in Linux now: Progress, pitfalls, and why devs and maintainers need each other](https://www.zdnet.com/article/rust-in-linux-now-progress-pitfalls-and-why-devs-and-maintainers-need-each-other/ "Rust in Linux now: Progress, pitfalls, and why devs and maintainers need each other")
+
+* [Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)](https://www.zdnet.com/article/why-im-recommending-the-standard-iphone-16-over-the-pro-this-year-and-im-not-alone/ "Why I'm recommending the standard iPhone 16 over the Pro this year (and I'm not alone)")
+* [Is OneDrive messing with your files? How to get your Windows storage under control](https://www.zdnet.com/article/is-onedrive-messing-with-your-files-how-to-get-your-windows-storage-under-control/ "Is OneDrive messing with your files? How to get your Windows storage under control")
+* [Best early Prime Day deals under $50 to shop in October 2024](https://www.zdnet.com/article/best-early-prime-day-deals-under-50/ "Best early Prime Day deals under $50 to shop in October 2024")
+* [Rust in Linux now: Progress, pitfalls, and why devs and maintainers need each other](https://www.zdnet.com/article/rust-in-linux-now-progress-pitfalls-and-why-devs-and-maintainers-need-each-other/ "Rust in Linux now: Progress, pitfalls, and why devs and maintainers need each other")
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/conclusionconclusion/"><u>[Conclusion](#conclusion)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-jotunheim-odyssey-warriors-of-yggdrasil/"><u>[New] In 2024, Jotunheim Odyssey Warriors of Yggdrasil</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-motion-survey-2023/"><u>[Updated] Complete Motion Survey 2023</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-simple-way-to-control-comment-functionality-in-youtube/"><u>[Updated] The Simple Way to Control Comment Functionality in YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-use-zoom-for-win10-pc/"><u>2024 Approved How to Use Zoom for Win10 PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-the-best-free-screen-recorders-on-windows-10/"><u>2024 Approved Unlocking the Best Free Screen Recorders on Windows 10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-critical-eye-on-cosmic-conspiracies-by-aminy/"><u>A Critical Eye on Cosmic Conspiracies by Aminy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-chatgpts-truthfulness-claims/"><u>Examining ChatGPT's Truthfulness Claims</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-2-guidelines-sidestep-mistakes-quickly/"><u>GPT-2 Guidelines: Sidestep Mistakes Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-quoras-poe-to-access-ai-chatbots-and-llms/"><u>How to Use Quora's Poe to Access AI Chatbots and LLMs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ideal-chatgpt-query-templates-from-githubs-best-list/"><u>Ideal ChatGPT Query Templates From GitHub's Best List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-plot-development-with-chatgpts-nine-insights/"><u>Innovative Plot Development with ChatGPT's Nine Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-written-layers-four-tips-to-read-pdfs-via-chatgpt/"><u>Leveraging AI' Written Layers: Four Tips to Read PDFs via ChatGPT</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/secure-your-files-advanced-backup-solutions-via-linea-de-comandos-and-batch-scripts-using-aomei-software/"><u>Secure Your Files: Advanced Backup Solutions via Línea De Comandos & Batch Scripts Using AOMEI Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-mods-elevating-your-interaction-with-chatgpt-and-vs-code/"><u>Top 6 Mods: Elevating Your Interaction with ChatGPT & VS Code</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-nubia-z50-ultra-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Nubia Z50 Ultra IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-paperclip-predicament-ties-to-ai/"><u>Unraveling the Paperclip Predicament: Ties to AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-human-touch-matters-in-therapy-more-than-computerized-care/"><u>Why Human Touch Matters in Therapy, More Than Computerized Care</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211011929-9781088263945-witchcraft-therapy/"><u>Witchcraft Therapy | Free Book</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

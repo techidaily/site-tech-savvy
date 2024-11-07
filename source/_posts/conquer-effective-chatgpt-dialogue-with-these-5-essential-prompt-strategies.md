@@ -1,7 +1,7 @@
 ---
 title: Conquer Effective ChatGPT Dialogue with These 5 Essential Prompt Strategies
-date: 2024-10-28T17:05:22.741Z
-updated: 2024-11-01T16:25:27.049Z
+date: 2024-10-31T20:04:39.415Z
+updated: 2024-11-07T06:47:05.266Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
  Akin has also written a free (or pay-what-you-want) ebook for beginners called [The Art of ChatGPT Prompting](https://fka.gumroad.com/l/art-of-chatgpt-prompting) . It takes you step-by-step through the ChatGPT process of understanding what the AI does, why prompts are essential, and the principles of good PE. Akin also shares his "Act as…" hack for making ChatGPT behave the way you want without overloading it with too much information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2. QuickRef ChatGPT Cheat Sheets
 
 ![QuickRef's ChatGPT cheat sheet offers free examples and templates of prompts for ChatGPT across various categories and uses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-quickref-cheat-sheets.jpg)
@@ -49,28 +56,40 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
  Multiple words or phrases of each prompt are replaceable to customize it for your query. The must-fill parts are marked in brackets for you to replace the original text, while optional replacements are colored red or blue.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3. Adrian Twarog
 
 ![Adrian Twarog's "Ultimate ChatGPT Resource Guide" is the best free series of YouTube lessons to learn how to write ChatGPT prompts and then use it in advanced applications, or even to make your own ChatGPT clone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-adrian-twarog.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  YouTuber Adrian Twarog has quite a following for his how-to and tutorial videos on myriad topics like web development, apps, and AI. He deep-dived into the system and has already made videos on creating a ChatGPT clone or making your Discord bot with the OpenAI models. Naturally, this requires understanding the core principles of how ChatGPT works, and he's imparting all that knowledge in a series of YouTube videos.
 
  In the Ultimate ChatGPT Resource Guide, Twarog explains what ChatGPT is in a quick five-minute video before moving on to a 35-minute crash course on how to use ChatGPT. In the second video, Twarog covers a lot on how to use prompts, focusing on use-case scenarios like summarization, templates, short stories, JavaScript, resumes, and blogging or editing. You'll need to go through both of these to understand the basics before moving on in the series.
 
  The third video, titled Advanced ChatGPT Guide, is the one you want to pay particular attention to if you want to understand advanced prompts. Twarog goes into details of prompt engineering with a series of examples. Even if the examples aren't what you want to do with ChatGPT, go through these as an exercise to truly understand the finer points of composing a prompt.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4. Micah Johns
 
@@ -81,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
  If any of these isn't worth your time, you can skip ahead in the timestamps on the video or browse the whole course as a series of individual videos on each topic. Once you're done with the 40-minute course, check out the longer 100-minute course that includes 20 advanced ChatGPT projects, such as Python scripting, JSON generation, medical study comprehension, and more.
 
  Micah's larger [How to Use ChatGPT playlist](https://www.youtube.com/playlist?list=PLRc1YiX2Z0mpeXlmv6n7ZsVPVn-2etOua) has several other real-world applications for ChatGPT. For example, you'll learn how to write a 5-page essay in 10 minutes with AI or make your superhero comic with ChatGPT and Midjourney, one of the [best free AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5. Learn Prompting
 
@@ -100,16 +112,16 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
  The course then goes into advanced practices like applied prompting (contributed by users), fine-tuning, images, and more, where you'll learn techniques like Chain of Thought, Self Consistency, etc. It might sound like a lot of jargon, but it'll be clear and easy to understand if you go through the course step-by-step.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Learning ChatGPT With a Personal Project
@@ -131,22 +143,21 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unveiling-the-dynamics-an-in-depth-look-at-luminances-hdr/"><u>[New] 2024 Approved Unveiling the Dynamics An In-Depth Look at Luminance's HDR</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unlock-the-full-potential-of-game-recordings-in-w11-for-2024/"><u>[New] Unlock the Full Potential of Game Recordings in W11 for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unveiling-6-video-techniques-that-grab-eyes/"><u>[Updated] 2024 Approved Unveiling 6 Video Techniques That Grab Eyes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mixed-reality-shopping-showcase/"><u>[Updated] Mixed Reality Shopping Showcase</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-swift-image-polishing-the-best-ios-tools-for-removing-obstructions/"><u>[Updated] Swift Image Polishing The Best iOS Tools for Removing Obstructions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-phone-apps-that-change-your-speech-for-2024/"><u>[Updated] The Ultimate Guide to Phone Apps That Change Your Speech for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-convert-mov-files-to-gifs-instantly-a-user-friendly-online-tool/"><u>1. Convert MOV Files to GIFs Instantly: A User-Friendly Online Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-windows-movie-maker-in-depth-analysis-and-insights-explore-the-rise-and-fall/"><u>1. Windows Movie Maker: In-Depth Analysis & Insights - Explore the Rise and Fall</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-10-best-online-vimeo-video-downloaders/"><u>2024 Approved 10 Best Online Vimeo Video Downloaders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movaiff-movavi-online-converter/"><u>無料で行うMOVファイルからAIFF変換ツール - Movavi Online Converter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-video-color-grading-tools-top-5-free-applications-for-ios-and-android-devices/"><u>Best Video Color Grading Tools: Top 5 Free Applications for iOS and Android Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decouvrez-les-principaux-portails-dimages-prepayes-classement-des-options-francaises-parmi-les-meilleures/"><u>Découvrez Les Principaux Portails D'Images Prépayés : Classement Des Options Françaises Parmi Les Meilleures</u></a></li>
-<li><a href="https://extra-support.techidaily.com/kinemaster-app-for-android-a-comprehensive-insight-review-for-2024/"><u>KineMaster App for Android A Comprehensive Insight Review for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/kostenloos-omheen-m4v-in-flv-vuurgrens-movavi-convertor/"><u>Kostenloos Omheen - M4V in FLV Vuurgrens Movavi Convertor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-online-a-solucao-perfeita-para-m4r-to-mp3-graca-gratuita/"><u>Movavi Online, a Solução Perfeita Para M4R to MP3 Graça Gratuita!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-your-creativity-running-video-editing-apps-from-any-platform-on-chromebook/"><u>New 2024 Approved Unleash Your Creativity Running Video Editing Apps From Any Platform on Chromebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-vob-videos-to-wmv-file-type-at-no-cost-using-movavis-web-service/"><u>Transform Your VOB Videos to WMV File Type at No Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-3-copywriting-structure-for-facebook-ads/"><u>[New] 2024 Approved 3 Copywriting Structure for Facebook Ads</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-lightning-fast-windowed-image-viewer/"><u>[New] In 2024, Lightning-Fast Windowed Image Viewer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigate-the-excellent-world-of-top-vr-cycling/"><u>2024 Approved Navigate the Excellent World of Top VR Cycling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/big-names-in-tech-shaping-the-future-of-ai/"><u>Big Names in Tech: Shaping the Future of AI</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-your-online-presence-with-manycam-the-ultimate-live-video-and-webcam-solution/"><u>Enhancing Your Online Presence with ManyCam - The Ultimate Live Video and Webcam Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gateway-to-anywheres-gpt-chatgpt-everywhere/"><u>Gateway to Anywhere's GPT: ChatGPT Everywhere</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-xs-max-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone XS Max Data Completely | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-circumvent-common-fails-with-chatgpt-in-writing/"><u>How to Circumvent Common Fails with ChatGPT in Writing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-poco-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Poco</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-thriving-in-the-digital-space-crafting-high-impact-fb-videos/"><u>In 2024, Thriving in the Digital Space Crafting High-Impact FB Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-bot-discussions-private-and-safe/"><u>Keep Bot Discussions Private & Safe</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speculating-on-language-models-the-future-of-gpt-5/"><u>Speculating on Language Models: The Future of GPT-5?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-recommended-mac-software-insights-from-zdnet/"><u>Top Recommended Mac Software - Insights From ZDNet</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/transforma-tus-discos-de-dvd-sin-costo-alguno-al-estandar-de-video-mas-eficiente-y-de-alta-calidad-hevch2e-265-en-formato-mp4/"><u>Transforma Tus Discos De DVD Sin Costo Alguno Al Estándar De Vídeo Más Eficiente Y De Alta Calidad, HEVC/H.2e 265 en Formato MP4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-fake-tech-real-versus-sham-chatgpt-tools/"><u>Unraveling Fake Tech: Real Versus Sham ChatGPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gpts-shortcomings-8-key-problems/"><u>Unveiling GPT's Shortcomings: 8 Key Problems</u></a></li>
 </ul></div>
 

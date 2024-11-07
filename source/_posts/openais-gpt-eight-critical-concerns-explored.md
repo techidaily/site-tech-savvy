@@ -1,7 +1,7 @@
 ---
 title: "OpenAI's GPT: Eight Critical Concerns Explored"
-date: 2024-09-16T16:35:08.805Z
-updated: 2024-09-17T16:16:59.926Z
+date: 2024-11-05T09:26:37.862Z
+updated: 2024-11-06T18:15:49.344Z
 tags:
   - chatgpt
   - open-ai
@@ -76,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
 
 ![A sheep in front of a blackboard with a wrong math equation displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wrong-math-answer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It fails at basic math, can't seem to answer simple logic questions, and will even go as far as to argue completely incorrect facts. As people across social media will attest, ChatGPT can get it wrong multiple times.
 
 [OpenAI](https://openai.com/blog/chatgpt/) knows about this limitation, writing that: "ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers." This "hallucination" of fact and fiction, as it's been referred to, is especially dangerous regarding things like medical advice or getting the facts right on key historical events.
@@ -95,7 +88,21 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
 
 ![Bing AI search results show hallucinations regarding an image description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-hallucinates-image-description.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can see more hilarious hallucinations in our comparison between [ChatGPT vs. Microsoft Bing AI vs. Google Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/). It's not hard to imagine people using ChatGPT to get quick facts and information, expecting those results to be true. But so far, ChatGPT can't get it right, and teaming up with an equally inaccurate Bing search engine only made things worse.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. ChatGPT Has Bias Baked Into Its System
 
@@ -126,10 +133,10 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
  Technological advancements have always resulted in jobs being lost, but the speed of AI advancements means multiple industries are facing rapid change. A huge cross-section of human jobs are seeing AI filtering into the workplace. Some jobs may find menial tasks being completed with the help of AI tools, while other positions may cease to exist in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT Is Challenging Education
@@ -140,6 +147,13 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
 
 ![ChatGPT explains the themes in the novel Neuromancer by William Gobson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-ai-chat-gpt-books-themes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That begs the question: if ChatGPT can write for us, will students need to learn this skill in the future? It might seem like an existential question, but since students have started using ChatGPT to help write their essays, educators will soon have to face reality.
 
  Unsurprisingly, students are already experimenting with AI. [The Stanford Daily](https://stanforddaily.com/2023/01/22/scores-of-stanford-students-used-chatgpt-on-final-exams-survey-suggests/) reports that early surveys show a significant number of students have used AI to assist with assignments and exams.
@@ -147,10 +161,10 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
  In the short term, schools and universities are updating their policies and ruling whether students can or cannot use AI to help them with an assignment. It's not only English-based subjects that are at risk either; ChatGPT can help with any task involving brainstorming, summarizing, or drawing analytical conclusions.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. ChatGPT Can Cause Real-World Harm
@@ -163,18 +177,18 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
 
 ![Close-up of computer code on a screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-scammers-malware.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The rate at which ChatGPT can produce information has already caused problems for Stack Exchange, a website dedicated to providing correct answers to everyday questions. Soon after ChatGPT was released, users flooded the site with answers they asked ChatGPT to generate.
 
  Without enough human volunteers to sort through the backlog, it would be impossible to maintain a high level of quality answers. Not to mention, many of the answers were incorrect. To avoid the website being damaged, a ban was placed on all answers generated using ChatGPT.
 
  The spread of fake information is a serious concern, too. The scale at which ChatGPT can produce text, coupled with the ability to make even incorrect information sound convincingly right, makes everything on the internet questionable. It's a critical combination that amplifies [the dangers of deepfake technology](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. OpenAI Holds All the Power
 
@@ -189,13 +203,6 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
  While OpenAI considers safety a high priority, there is a lot that we don't know about how the models themselves work, for better or worse. At the end of the day, the only choice we have is to unquestioningly trust that OpenAI will research, develop, and use ChatGPT responsibly.
 
  Whether we agree with its methods or not, it's worth remembering that OpenAI is a private company that will continue developing ChatGPT according to its own goals and ethical standards.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tackling AI's Biggest Problems
 
@@ -226,5 +233,26 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-quality-matters-the-advantages-and-disadvantages-of-different-fps-for-2024/"><u>[New] Quality Matters The Advantages & Disadvantages of Different FPS for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-recording-your-browsers-video-call-for-2024/"><u>[Updated] Recording Your Browser's Video Call for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2023s-ultimate-guide-to-portable-audio-devices-zdnet-reviews-and-comparisons/"><u>2023'S Ultimate Guide to Portable Audio Devices: ZDNet Reviews and Comparisons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-picks-by-tech-pros-insights-from-zdnet/"><u>2024'S Ultimate Picks by Tech Pros | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/amazons-latest-update-introducing-enhanced-ai-english-courses-tailored-for-the-hispanic-community-dive-into-learning-with-alexa/"><u>Amazon's Latest Update: Introducing Enhanced AI English Courses Tailored for the Hispanic Community - Dive Into Learning with Alexa!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/better-surround-sound-adventures-the-unexpected-joy-of-ditching-a-high-end-soundbar-for-jbl/"><u>Better Surround Sound Adventures: The Unexpected Joy of Ditching a High-End Soundbar for JBL</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compact-bluetooth-speaker-delivers-rich-immersive-audio-experience-tiny-size-with-full-bodied-sounds/"><u>Compact Bluetooth Speaker Delivers Rich, Immersive Audio Experience - Tiny Size with Full-Bodied Sounds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-top-audio-quality-the-ultimate-non-bose-non-jbl-bluetooth-speaker-that-delivers-powerful-sound/"><u>Discovering Top Audio Quality: The Ultimate Non-Bose, Non-JBL Bluetooth Speaker That Delivers Powerful Sound</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-steps-for-uploading-your-old-vhs-tapes-onto-dvds-using-a-computer/"><u>Easy Steps for Uploading Your Old VHS Tapes Onto DVDs Using a Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-audio-player-for-the-whole-family-sets-sale-price-at-only-100-save-on-amazons-prime-day-deal/"><u>Essential Audio Player for the Whole Family Sets Sale Price at Only $100 - Save on Amazon's Prime Day Deal.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-samsung-un6e-55un8000fxza-overpriced-and-underwhelming-smart-tv/"><u>Expert Analysis of Samsung UN6e 55UN8000FXZA - Overpriced and Underwhelming Smart TV</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-13-pro-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 13 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-xiaomi-redmi-note-13-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Xiaomi Redmi Note 13 Pro 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximizing-student-benefits-how-to-claim-a-reduced-price-on-youtube-premium-access/"><u>Maximizing Student Benefits: How to Claim a Reduced Price on YouTube Premium Access</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-like-a-pro-with-these-top-5-iphone-gps-app-recommendations/"><u>Navigate Like a Pro with These Top 5 iPhone GPS App Recommendations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-black-friday-bargains-prime-days-finest-amazon-echo-deals-gone-but-not-forgotten-wired/"><u>Unbeatable Black Friday Bargains: Prime Day's Finest Amazon Echo Deals Gone But Not Forgotten | Wired</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-potential-in-instagram-engagement-with-advanced-data-tools/"><u>Unlocking Potential in Instagram Engagement with Advanced Data Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reviews-immersive-soundscape-in-a-compact-wireless-speaker-minimal-distortion-and-maximum-performance/"><u>ZDNet Reviews: Immersive Soundscape in a Compact Wireless Speaker - Minimal Distortion & Maximum Performance</u></a></li>
+</ul></div>
 

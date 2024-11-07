@@ -1,7 +1,7 @@
 ---
 title: "Inside Outlook: How Does Predictive AI Work?"
-date: 2024-09-10T16:06:46.210Z
-updated: 2024-09-17T16:15:38.768Z
+date: 2024-11-02T16:06:05.556Z
+updated: 2024-11-07T11:02:53.654Z
 tags:
   - chatgpt
   - open-ai
@@ -46,18 +46,24 @@ thumbnail: https://thmb.techidaily.com/3631238ca7c06e0c64e4d00a9d13c9e8220b196fb
 
  Once predictive AI models have gathered the information they need, users can make decisions and conduct further research if necessary.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Examples of Predictive AI
 
  Predictive AI is already used in multiple industries, and you may even have experienced this technology in action yourself. For example, companies use predictive AI to detect potential data breaches, and smartphone providers can help you type more accurately.
 
  Below are some of the best examples of predictive AI in action.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Predictive Text
 
@@ -67,9 +73,29 @@ Close
 
  Besides analyzing your past typing habits, predictive text can also use the context of your conversations or documents to provide better typing and spelling recommendations. You can [disable inline predictive text on your Mac](https://www.makeuseof.com/disable-inline-predictive-text-on-mac/) if you own an Apple computer, and it's also possible to [turn on predictive text suggestions on Android](https://www.makeuseof.com/how-to-turn-on-predictive-text-android/).
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Identifying Potential Security Threats
 
 ![facebook unusual login email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/facebook-unusual-login.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Cybersecurity is one of the most important areas in which predictive AI is prominent, and [predictive analytics can help solve cybercrime in many ways](https://www.makeuseof.com/predictive-analytics-combat-cybercrime/). One example where you may have experienced predictive AI in security is when signing into an account or trying to use your bank card in an unfamiliar location.
 
@@ -83,13 +109,6 @@ Close
 
  If you use your smartphone, you'll often see that recommendations for opening apps and other actions change depending on your habits at each time of the day. Apps also use your consumption behaviors to deliver better recommendations; for example, [Spotify uses AI](https://www.makeuseof.com/how-spotify-uses-ai/) to recommend (and create) playlists.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Economic Projections
 
  Predictive AI is also prominent in the world of finance, and it can help economists consider how financial markets will change over time. For example, based on historical data and current global affairs, predictive AI can determine whether certain currency exchange rates will increase or decrease. Since predictive AI is also good at identifying consumer behaviors, it's possible to use the tool to determine how industry trends will change.
@@ -97,10 +116,10 @@ Close
  This technology can also predict stock market movements and cryptocurrency price changes. If you plan on trading with AI, it's worth checking out these [AI-based crypto tools](https://www.makeuseof.com/top-ai-based-crypto-tools/) as a starting point.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Weather Forecasts
@@ -114,19 +133,6 @@ Close
  Companies use predictive AI to make better decisions and projections for the coming year. Since predictive AI is very good at measuring consumer behaviors, businesses can accurately determine the success of their current products and offerings over 6-12 months. To fill gaps in the market, they can also use the information they gather to launch and test new products.
 
  With predictive AI, businesses can also decide what to include in advertising campaigns. Moreover, they can determine where they should allocate their budgets more effectively. We've written a round-up of [essential AI tools for business owners to know about](https://www.makeuseof.com/ai-tools-for-business-owners/) if you're interested in learning more.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Is Predictive AI Different From Generative AI?
 
@@ -151,5 +157,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unlock-your-creative-potential-with-the-premier-free-software-lineup-on-mac/"><u>[New] 2024 Approved Unlock Your Creative Potential with the Premier Free Software Lineup on Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effortlessly-pinning-friends-on-snapchat-with-confidence/"><u>[New] In 2024, Effortlessly Pinning Friends on Snapchat with Confidence</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-elevate-collaborative-workflow-enhancing-zoom-use-in-gmail-mail/"><u>[New] In 2024, Elevate Collaborative Workflow Enhancing Zoom Use in Gmail Mail</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leveraging-spotifys-advertising-mechanisms/"><u>2024 Approved Leveraging Spotify's Advertising Mechanisms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-walk-of-shadows-the-ultimate-list-of-greatest-zombie-games/"><u>2024 Approved Walk of Shadows The Ultimate List of Greatest Zombie Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-code-warfare-the-ethical-crossroads/"><u>AI and Code Warfare: The Ethical Crossroads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/aoc-e1659fwu-driver-update-for-windows-117/"><u>AOC E1659FWU Driver Update for Windows 11/7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craftsmanship-meets-technology-expert-ai-use-in-bing-for-android/"><u>Craftsmanship Meets Technology: Expert AI Use in Bing for Android</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-guide-to-reconnecting-your-chromecast-for-smooth-streaming/"><u>Effortless Guide to Reconnecting Your Chromecast for Smooth Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expertly-selected-and-testing-ultimate-ranking-for-apple-watch-band-options/"><u>Expertly Selected & Testing: Ultimate Ranking for Apple Watch Band Options</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-x50iplus-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor X50i+ Unlock Without Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/on-site-ai-management-via-agentgpt/"><u>On-Site AI Management via AgentGPT</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/transfer-your-data-swiftly-mastering-the-icloud-move-between-iphones-pre-and-post-setup/"><u>Transfer Your Data Swiftly: Mastering the iCloud Move Between iPhones Pre and Post Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-boundaries-in-the-world-of-professional-writing/"><u>Understanding AI Boundaries in the World of Professional Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-enhanced-iphone-content-tools-in-ios-18-a-revolution-for-iphone-14-users-zdnets-analysis/"><u>Unveiling Enhanced iPhone Content Tools in iOS 18 - A Revolution for iPhone 14 Users | ZDNet's Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-claude-the-ultimate-ai-for-professionals/"><u>Unveiling the Power of Claude: The Ultimate AI for Professionals</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Deciding Between Top Wearables: In-Depth Analysis of Samsung Galaxy and Apple Watch Ultra for Your Next Purchase | CNET"
-date: 2024-10-26T18:31:06.037Z
-updated: 2024-11-01T17:37:02.931Z
+date: 2024-11-01T17:01:41.560Z
+updated: 2024-11-07T04:11:56.554Z
 tags:
   - apple
 categories:
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Security and privacy implications
@@ -79,10 +79,10 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## App Store changes
@@ -94,6 +94,13 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Reduction in App Store fees:** Antitrust rulings may require Apple to reduce its upfront commission and yearly subscription fee, which could negatively impact its revenue. However, this may lead to lower app prices for consumers and increased developer earnings.
 * **Competitive app marketplace:** If iOS is opened to third-party app stores, it could break Apple's monopoly on app distribution and create a more competitive environment where different app marketplaces fight for developer and consumer attention.
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
 
@@ -118,13 +125,6 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Integration of open source applications:** Easier installation and use of open source software on iOS devices, broadening the range of available tools and apps.
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Regulatory and industry-wide impact
 
 The Justice Department's lawsuit against Apple could set a precedent that could significantly impact not just the company but also the entire tech industry. The regulatory impact of this lawsuit could lead to more stringent oversight, which could affect Apple's operational flexibility and potentially reshape the digital market. A successful antitrust action against Apple could also set legal precedents for other tech giants, leading to a more globally consistent regulatory framework. 
@@ -136,10 +136,10 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -178,24 +178,16 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-prolific-strategies-for-broadcasting-fb-videos-on-whatsapp/"><u>[Updated] 2024 Approved Prolific Strategies for Broadcasting FB Videos on WhatsApp</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-free-premiere-pro-templates-2023/"><u>Best Free Premiere Pro Templates 2023</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/charting-the-course-for-success-via-chatgpt-and-whisper-apis/"><u>Charting the Course for Success via ChatGPT & Whisper APIs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-user-data-safety-assessed/"><u>ChatGPT: User Data Safety Assessed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-superiority-of-googles-gemini-vs-chatgpt/"><u>Exploring the Superiority of Google's Gemini Vs. ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fact-seeker-no-windows-gpt-client-is-not-malware/"><u>Fact Seeker: No, Windows GPT Client Is Not Malware</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-resume-craft-with-chatgpt/"><u>Mastering Resume Craft with ChatGPT</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-virtual-identity-your-metaverse-persona-creation-companion-for-2024/"><u>Mastering Virtual Identity Your Metaverse Persona Creation Companion for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/metaviews-analyzing-6-in-depth-metaverse-scenarios/"><u>Metaviews Analyzing 6 In-Depth Metaverse Scenarios</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-divide-and-conquer-the-best-free-wmv-video-splitters/"><u>New In 2024, Divide and Conquer The Best Free WMV Video Splitters</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overcoming-amd-radeon-r9-hurdles-with-ease-on-win11/"><u>Overcoming AMD Radeon R9 Hurdles with Ease on Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/select-the-best-additions-to-your-ps-vr2/"><u>Select the Best Additions to Your PS VR2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-ai-deployment-auto-gpt/"><u>The Ultimate Guide to AI Deployment (Auto-GPT)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-free-easy-to-use-artificial-intelligence-tools/"><u>Top 6 Free, Easy-to-Use Artificial Intelligence Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unanswerable-enquiries-and-boundaries-for-gpt-3/"><u>Unanswerable Enquiries & Boundaries for GPT-3</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-150-2023-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from 150 (2023).</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/uninterrupted-book-escapes-while-traveling-try-the-new-kobo-clara-hd/"><u>Uninterrupted Book Escapes While Traveling? Try the New Kobo Clara HD!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-premier-6-giant-ai-language-models/"><u>Unveiling the Premier 6 Giant AI Language Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-claude-3-trumps-chatgpt-a-breakdown-into-four-points/"><u>Why Claude 3 Trumps ChatGPT: A Breakdown Into Four Points</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastering-netflixs-innovative-split-screen-tech/"><u>[New] In 2024, Mastering Netflix's Innovative Split Screen Tech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-prime-voice-recorders-for-online-use/"><u>[New] In 2024, Prime Voice Recorders for Online Use</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-catalina-to-big-sur-a-comprehensive-mac-os-shift-guide-for-2024/"><u>[Updated] From Catalina to Big Sur A Comprehensive Mac OS Shift Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/a-thorough-insight-into-androids-lightroom-application/"><u>A Thorough Insight Into Android's Lightroom Application</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-efficiency-on-the-go-explore-the-latest-upgrades-in-our-favorite-ar-glasses-for-productivity-and-travel/"><u>Boost Your Efficiency on the Go – Explore The Latest Upgrades in Our Favorite AR Glasses for Productivity and Travel</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-unresponsive-serial-ports-on-windows-os/"><u>Fixing Unresponsive Serial Ports on Windows OS</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-gpt-enhanced-text-processing-software/"><u>Introducing GPT-Enhanced Text Processing Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pushing-the-limits-of-story-creation-with-these-4-ais/"><u>Pushing the Limits of Story Creation with These 4 AIs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-setup-fresh-intel-ac-31n-wireless-card-driver-installation-steps/"><u>Quick Setup: Fresh Intel AC 31N Wireless Card Driver Installation Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mini-computers-comprehensive-reviews-by-tech-experts/"><u>Top-Ranking Mini Computers : Comprehensive Reviews by Tech Experts</u></a></li>
 </ul></div>
 

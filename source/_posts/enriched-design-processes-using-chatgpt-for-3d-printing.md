@@ -1,7 +1,7 @@
 ---
 title: Enriched Design Processes Using ChatGPT for 3D Printing
-date: 2024-09-13T16:20:24.267Z
-updated: 2024-09-17T16:13:49.964Z
+date: 2024-11-01T17:07:25.087Z
+updated: 2024-11-07T04:47:37.327Z
 tags:
   - chatgpt
   - open-ai
@@ -58,6 +58,13 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
  While ChatGPT certainly has the ability to create STL files of greater complexity, OpenAI can’t dedicate the resources required for this sort of operation to free users. This is still an excellent tool for those who would like to build an understanding of how STL files work, though.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Generate 3D Model Scripts for CAD Software With ChatGPT
 
  Many 3D modeling tools have the ability to generate 3D models using scripts. This isn’t always the most effective way to make 3D models when you have to write the script yourself, but ChatGPT can generate the script for you.
@@ -68,18 +75,25 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
 ![ChatGPT generated Blender Python script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-cube-python.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have your script copied, you can load up Blender and head to the Scripting workspace. By default, you should see a script console on the left of the screen. Paste the ChatGPT-generated script into the console pane and hit the **Enter** key to see your 3D model appear in the 3D workspace.
 
 ![Blender script generated cube](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/blender-script-generated-cube.jpg)
 
- Like when generating an STL file with ChatGPT, there are limitations in place that mean that the chatbot won’t try to create scripts that are too time-consuming. Thankfully, though, you can find paid services around the web that expand ChatGPT’s script-writing abilities. You can [learn how to access GPT-4](https://www.makeuseof.com/how-to-use-gpt4/) to enhance your 3D printing even further.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Like when generating an STL file with ChatGPT, there are limitations in place that mean that the chatbot won’t try to create scripts that are too time-consuming. Thankfully, though, you can find paid services around the web that expand ChatGPT’s script-writing abilities. You can [learn how to access GPT-4](https://www.makeuseof.com/how-to-use-gpt4/) to enhance your 3D printing even further.
 
 ## How Else Can ChatGPT Help With 3D Printing?
 
@@ -91,10 +105,10 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 * **3D Printer Settings**: [Choosing the correct settings for the material you are 3D printing with](https://www.makeuseof.com/fdm-3d-printer-settings-and-what-they-do/) is a challenge, especially when you encounter defects and issues with your prints. You can use ChatGPT to troubleshoot your 3D printer settings and help you choose the best ones for your prints.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Getting the Most Out of ChatGPT for 3D Printing
@@ -118,5 +132,24 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-stage-talent-video-download-permission-form/"><u>[New] Stage Talent Video Download Permission Form</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-aspect-ratios-for-professional-videos/"><u>[Updated] In 2024, Mastering Aspect Ratios for Professional Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exceptional-deal-the-near-perfect-arlo-pro-just-at-180-offers-optimal-home-surveillance/"><u>Exceptional Deal: The Near-Perfect Arlo Pro 지스로, Just at $180 Offers Optimal Home Surveillance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unmatched-illumination-the-enhanced-govee-outdoor-lighting-setup-for-a-vibrant-evening-ambiance-zdnet/"><u>Experience Unmatched Illumination: The Enhanced Govee Outdoor Lighting Setup for a Vibrant Evening Ambiance | ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-download-hp-officejet-pro-9015-printer-drivers-compatible-with-windows-1087/"><u>Find and Download HP OfficeJet Pro 9015 Printer Drivers: Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/fix-your-ruined-memories-for-free-ultimate-guide-to-download-photo-repair-solution/"><u>Fix Your Ruined Memories for Free: Ultimate Guide to Download Photo Repair Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-viewing-options-witness-the-april-8th-lunar-eclipse-with-googles-live-stream-zdnet/"><u>Free Viewing Options: Witness the April 8Th Lunar Eclipse with Google's Live Stream | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-plan-perfect-labor-day-celebrations-expert-advice-and-strategies-by-zdnet-experts/"><u>How to Plan Perfect Labor Day Celebrations: Expert Advice & Strategies by ZDNET Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/illuminate-your-yard-with-the-brightest-govee-led-permanent-lights-upgrade-your-outdoors-this-saturday/"><u>Illuminate Your Yard with the Brightest Govee LED Permanent Lights - Upgrade Your Outdoors This Saturday!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-14-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi 14 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-sony-reigning-supremely-with-their-latest-summer-ready-portable-speakers-our-in-depth-analysis-zdnet/"><u>Is Sony Reigning Supremely with Their Latest Summer-Ready Portable Speakers? Our In-Depth Analysis | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-deal-alert-snag-the-blink-outdoor-4-camera-system-and-floodlight-combo-at-an-unbeatable-price-of-80/"><u>Labor Day Deal Alert: Snag the Blink Outdoor 4-Camera System & Floodlight Combo at an Unbeatable Price of $80!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-exclusive-snag-the-blink-mini-2-security-camera-at-a-whopping-25-off-unmatched-deal-of-the-season/"><u>Labor Day Exclusive: Snag the Blink Mini 2 Security Camera at a Whopping 25% Off - Unmatched Deal of the Season!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003669713-resolve-microsoft-edge-stability-issues-in-windows-11-with-these-tips/"><u>Resolve Microsoft Edge Stability Issues in Windows 11 with These Tips!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-asus-frp-by-drfone-android/"><u>The Updated Method to Bypass Asus FRP</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-unsupported-hardware-message-and-software-solutions/"><u>Troubleshooting Guide: Unsupported Hardware Message & Software Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangling-the-mystery-of-freezing-falls-in-fallout-3-for-windows-users/"><u>Untangling the Mystery of Freezing Falls in Fallout 3 for Windows Users</u></a></li>
+</ul></div>
 

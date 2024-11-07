@@ -1,7 +1,7 @@
 ---
 title: Building Compelling D&D Figures Using GPT and Generative AI
-date: 2024-09-12T16:13:23.082Z
-updated: 2024-09-17T16:17:55.702Z
+date: 2024-10-31T22:05:10.805Z
+updated: 2024-11-06T21:50:18.419Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  In our example, we’ll be creating a two-handed weapon-wielding Dragonborn Paladin for the Lost Mine of Phandelver adventure.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### For Background and Backstory
 
  Since ChatGPT is familiar with any popular D&D 5e module or adventure, you can save a lot of time by asking your questions directly to the chat instead of googling it. This way, you have a good lore-friendly way to tie in your new character. In our case, we asked it to briefly describe the Lost Mine of Phandelver and the lore surrounding the Sword Coast.
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
 ![D&D character Anomander Rake's physical description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/d-d-character-anomander-rake-s-physical-description.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### To Determine Character Traits and NPC Attributes
 
  As an extension of the character’s description, you can ask ChatGPT to create your character’s traits and then use them as is or as inspiration for how your character would behave. Anomander Rake, as a Dragonborn Paladin of Justice, is a determined devout with a strong sense of righteousness with the fatal flaw of being adamantly stubborn. ChatGPT helped us come up with that.
@@ -63,10 +77,16 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  However, while generating attributes for an NPC, you should remember to tell ChatGPT to balance it according to the level of the players who will be facing the NPC. As the dungeon master, you should still make sure it’s balanced, but it would do a fairly decent job of trying to balance it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use DALL-E 2 to Create D&D Characters
@@ -78,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  And here is the result: "Create an image of a male Chromatic Dragonborn Paladin named Anomander Rake. He stands tall at 6 and a half feet with a strong and muscular build. His scales are obsidian black, with occasional iridescent sheen. He has piercing gold-colored eyes and a prominent brow ridge. A pair of curving horns extend from the sides of his head, shimmering with a dark bronze to fiery red gradient. Between the horns, there is a crest of shorter spines. He wears a suit of polished plate armor with engravings representing his devotion to Bahamut. A flowing crimson cape, emblazoned with the emblem of the Order of the Silver Wing, trails behind him. He wields a mighty warhammer with a polished steel head and a leather-wrapped grip. Show him emanating an aura of strength, righteousness, and determination."
 
  The prompt might be too long for DALL-E 2, but you can still ask ChatGPT to shorten it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### To Create a Character Image
 
@@ -92,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  If you're unhappy with the results, you can keep clicking**Generate** to create more images. If there’s an image close to what you want, click it and select**Variations** so that DALL-E can create more like that. If you find something you like, select it and click the**Download** button (represented by a download arrow) on the top right of the image. All your previously generated images are saved on the right menu, so don’t worry about losing them.
 
 All images you download from DALL-E have watermarks.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use AI to Enhance All Facets of Your Game
 
@@ -119,5 +139,24 @@ All images you download from DALL-E have watermarks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-explore-the-ultimate-selection-of-free-slide-show-designs/"><u>[New] 2024 Approved Explore the Ultimate Selection of Free Slide Show Designs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-mouse-recorders-to-use/"><u>[Updated] Best Mouse Recorders to Use</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-immediate-ios-screen-playback-guide/"><u>[Updated] Immediate iOS Screen Playback Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveil-the-secrets-of-adventure-with-these-vids-for-2024/"><u>[Updated] Unveil the Secrets of Adventure with These Vids for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-ordinary-to-extraordinary-with-engaging-tiktok-unboxings/"><u>2024 Approved Transforming Ordinary to Extraordinary with Engaging TikTok Unboxings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-alternative-to-sony-and-bose-best-immersive-soundbar-reviewed-by-tech-gurus-at-zdnet/"><u>Discover the Ultimate Alternative to Sony & Bose: Best Immersive Soundbar Reviewed by Tech Gurus at ZDnet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-excellent-alternatives-to-bose-and-jbl-in-bluetooth-speakers-that-deliver-the-bass-tested-by-zdnet/"><u>Discovering Excellent Alternatives to Bose and JBL in Bluetooth Speakers That Deliver the Bass | Tested by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-amazons-echo-studio-the-current-king-of-connected-audio-devices-a-comprehvew-from-zdnet/"><u>Evaluating Amazon's Echo Studio: The Current King of Connected Audio Devices - A Comprehvew From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-the-leading-outdoor-audio-devices-for-your-adventures-zdnet/"><u>Expert Picks: The Leading Outdoor Audio Devices for Your Adventures (ZDNET)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Without iTunes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-art-of-assault-in-real-time-rivalry/"><u>In 2024, The Art of Assault in Real-Time Rivalry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-special-upgrade-to-the-newest-echo-show-8-and-enjoy-a-sizzling-30-off-smart-home-essentials-by-zdnet/"><u>Labor Day Special: Upgrade to the Newest Echo Show 8 and Enjoy a Sizzling 30% Off | Smart Home Essentials by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-music-experience-with-the-soul-s-storm-max-durable-high-quality-sound-and-vivid-led-light-show-zdnet-analysis/"><u>Maximize Your Music Experience with the Soul S-Storm Max: Durable, High-Quality Sound & Vivid LED Light Show | ZDNET Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sonos-era-100-vs-sonos-one-showdown-the-ultimate-guide-to-choosing-the-right-smart-speaker-for-your-home-techadvisor/"><u>Sonos Era 100 Vs. Sonos One Showdown: The Ultimate Guide to Choosing the Right Smart Speaker for Your Home | TechAdvisor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-starting-zoom-chats-on-android-for-2024/"><u>The Ultimate Guide to Starting Zoom Chats on Android for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tier-non-brand-name-alternative-discovering-exceptional-portable-speaker-performance-beyond-bose-and-sony/"><u>Top-Tier Non-Brand Name Alternative: Discovering Exceptional Portable Speaker Performance Beyond Bose and Sony</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-review-guide-for-choosing-the-longer-lasting-ring-doorbell-system/"><u>Ultimate Review Guide for Choosing the Longer Lasting Ring Doorbell System</u></a></li>
+</ul></div>
 

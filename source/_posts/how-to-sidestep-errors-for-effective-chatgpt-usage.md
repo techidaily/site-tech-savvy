@@ -1,7 +1,7 @@
 ---
 title: How to Sidestep Errors for Effective ChatGPT Usage
-date: 2024-10-31T16:09:15.317Z
-updated: 2024-11-01T18:46:03.789Z
+date: 2024-11-01T21:55:18.746Z
+updated: 2024-11-07T00:55:03.920Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 
  If you're learning to use ChatGPT for content creation, include [what AI hallucination is and how you can spot it](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) in your list of topics to master. More importantly, don't disregard human judgment and creativity. Remember, AI should augment your thinking and not replace it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't Ask ChatGPT for Research Links
 
  You'd likely be disappointed if you asked ChatGPT for internet links to research sources. ChatGPT will give you links, but they will be the wrong ones or not necessarily the best ones on the web.
@@ -55,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
  To test, we asked ChatGPT to give us JSTOR research paper links on British young adult fantasy writers who have written coming-of-age stories. The AI gave us five resources with titles, volume numbers, page numbers, and authors.
 
 ![ChatGPT giving JSTOR links to wrong resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-46.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  At first glance, the list looks credible. The JSTOR articles have impressive-sounding titles like "Constructing Hybrid Identity: Race and Nation in Sally Green's Half Bad Trilogy." But a Google search would quickly show that most links lead to the wrong JSTOR articles. One of the links led to a 404 landing page.
 
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
  ChatGPT responded with a list of five works, complete with the author's names and summaries. However, we couldn't find any of the works it listed online.
 
 ![ChatGPT responding to request for a literature review](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-49-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To better understand the information, we asked for links. This time, ChatGPT refused, saying it was only an AI language model without web browsing capabilities. However, it gave bibliographic information, which we couldn't verify online despite the works being supposedly written between 2004-2018\.
 
@@ -96,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 ![ChatGPT giving advice on workplace burnout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  But no matter how compassionate it sounds, ChatGPT isn't human. What sounds like human-generated sentences are only the results of ChatGPT predicting the next word or "token" in the sequence based on its training data. It isn't a sentient being with a will and mind of its own as you do.
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
  That said, ChatGPT can't substitute for human relationships and collaboration in the workplace. As the [Work and Well-being Initiative at Harvard University](https://workwellbeinginitiative.org/module-4-moderating-work-demands#:~:text=The%20evidence%20shows%20that%20positive,harmful%20effects%20of%20workplace%20stress.&text=Positive%20relationships%20at%20work%20are%20also%20good%20for%20the%20bottom%20line.) says, these human connections benefit you, helping improve your well-being and protecting you against workplace stress.
 
  Learning to work with the latest tech tools is important, but interacting with your team is also essential. Instead of relying on ChatGPT to replicate social connections, build your interrelational skills, interact with co-workers, and find the best people you can work with.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Don't Feed ChatGPT Ineffective Prompts
 
@@ -125,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 
 ![ChatGPT giving a wrong answer to a prompt asking for a summary of Eric Allen's article on Hackernoon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-44.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To help ChatGPT, we copy-pasted the article in parts and asked for a summary after each upload. This time, ChatGPT was able to accomplish the task accurately. At one point, it gave us a comment instead of a summary, but we redirected it using another prompt.
 
 ![Conversation with ChatGPT asking to summarize a blog on Hackernoon by Eric Allen, which was uploaded in parts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-43.jpg)
@@ -132,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
  This example was a learn-by-doing experiment on how to use ChatGPT to summarize long and technical articles effectively. However, you can now access many internet resources and [learn prompting techniques to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/).
 
  Using recommended prompts is not a fail-safe method against hallucinations, but it can help you deliver accurate results. You can also review the [best ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) for more information on prompting techniques.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Maximize ChatGPT Capabilities, but Be Mindful of Its Limits
 
@@ -165,19 +165,20 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-best-gamification-tools-and-apps-on-a-budget/"><u>2024 Approved Best Gamification Tools & Apps on a Budget</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elevate-your-teams-presence-blur-backdrops-with-expertise/"><u>2024 Approved Elevate Your Teams Presence Blur Backdrops with Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030304182-mp4/"><u>動画ファイルMP4におけるプロパティ設定と修正手順解説</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028362684-ts/"><u>高度なテクニックで「TSファイル」から明瞭に分離された音声解析: 第一・第二方法解説</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/econolights-studiokit-unbox-guide/"><u>EconoLights StudioKit Unbox Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/ensure-smooth-sleep-automated-power-management-on-w11/"><u>Ensure Smooth Sleep: Automated Power Management on W11</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/free-dvd-to-mp3-converter-2020-how-to-effortlessly-transform-your-audio-cds-into-digital-files/"><u>Free DVD to MP3 Converter 2020: How to Effortlessly Transform Your Audio CDs Into Digital Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027605305-mkv/"><u>MKVファイルを携帯電話画面に表示する方法とトラブルシューティング</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/navigating-new-skies-with-syma-x5c-an-experts-take-for-novices-for-2024/"><u>Navigating New Skies with Syma X5C – An Expert’s Take for Novices for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-s23-tactical-edition-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy S23 Tactical Edition Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unifying-visual-experience-in-iphone-recording-for-2024/"><u>Unifying Visual Experience in iPhone Recording for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028495556-youtube/"><u>YouTube画面の拡張 - ビデオ画像サイズを効果的に増やすテクニック</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726027237111-youtube/"><u>YouTubeビデオの向き変更に必要な簡単ガイド - どのようにすれば実現できますか？</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-easy-steps-to-master-volume-control-transitions/"><u>[New] In 2024, Easy Steps to Master Volume Control Transitions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevating-shorts-visibility-a-thumbnail-transformation-journey-for-2024/"><u>[Updated] Elevating Shorts Visibility A Thumbnail Transformation Journey for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-muse-discovering-the-5-best-writing-helpers/"><u>Artificial Muse: Discovering the 5 Best Writing Helpers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-apples-enhanced-airpods-line-up-top-4-newest-innovations-unveiled/"><u>Explore Apple's Enhanced AirPods Line-Up: Top 4 Newest Innovations Unveiled!</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-90-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor 90 Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-apple-airtags-on-sale-save-24-now-during-walmarts-labor-day-promotion-insights-from-zdnet/"><u>Get Apple AirTags on Sale: Save $24 Now During Walmart’s Labor Day Promotion - Insights From ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-writing-with-simple-keyboard-shortcuts/"><u>Mastering the Art of Writing ♥ with Simple Keyboard Shortcuts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-online-video-smoothers-our-top-picks/"><u>New Free Online Video Smoothers Our Top Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ordinary-operations-outcome-choosing-your-bot-buddy/"><u>Ordinary Operations Outcome: Choosing Your Bot Buddy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthetic-strokes-chatgpts-impact-on-digital-imagery/"><u>Synthetic Strokes: ChatGPT's Impact on Digital Imagery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essentials-of-time-stamped-photography-for-2024/"><u>The Essentials of Time-Stamped Photography for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-macbook-models-of-2024-unveiled/"><u>Top-Rated Apple MacBook Models of 2024 - Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-power-solutions-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Rated MagSafe Power Solutions : Comprehensive Testing & Reviews by Tech Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-exclusive-get-ready-for-the-new-airpods-preorder-information-launch-date-sneak-peek-and-essential-tips-covered/"><u>ZDNet Exclusive: Get Ready for the New AirPods! Preorder Information, Launch Date Sneak Peek, and Essential Tips Covered!</u></a></li>
 </ul></div>
 

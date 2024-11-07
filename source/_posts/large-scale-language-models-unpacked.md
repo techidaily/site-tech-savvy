@@ -1,7 +1,7 @@
 ---
 title: Large-Scale Language Models Unpacked
-date: 2024-10-27T17:13:29.385Z
-updated: 2024-11-01T18:46:50.581Z
+date: 2024-11-05T16:41:27.976Z
+updated: 2024-11-06T20:00:43.874Z
 tags:
   - chatgpt
   - open-ai
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
@@ -67,16 +74,16 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 
  To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are the Limitations of LLMs?
 
 ![woman frustrated at response from computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/woman-frustrated-at-response-from-computer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  LLMs represent an impressive technological achievement. But the technology is far from perfect, and there are still plenty of limitations as to what they can achieve. Some of the more notable of these are listed below:
 
@@ -98,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
  Generative Pre-trained Transformer (GPT) is perhaps the most widely known LLM. GPT-3.5 powers the ChatGPT platform used for the examples in this article, while the newest version, GPT-4, is available [through a ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Microsoft also uses the latest version [in its Bing Chat platform](https://www.makeuseof.com/chatgpt-vs-bing-chat-best-generative-ai-chatbot/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. LaMDA
@@ -115,16 +122,10 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
  Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Future of LLMs
@@ -139,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 4. **Greater Integration**: LLMs could become personal digital assistants. Think of Siri on steroids, and you get the idea. LLMs could become virtual assistants that help you with everything from suggesting meals to dealing with your correspondence.
 
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
 
@@ -172,22 +166,24 @@ thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-securing-every-frame-best-practices-for-vimeo-record-use-for-2024/"><u>[New] Securing Every Frame Best Practices for Vimeo Record Use for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-streamline-a-barrage-of-tiktok-drafts-with-editing-skills/"><u>[Updated] Streamline a Barrage of TikTok Drafts with Editing Skills</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-state-of-the-art-devices-for-online-live-shows/"><u>2024 Approved State-of-the-Art Devices for Online Live Shows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-a1-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-and-complete-guide-to-screen-record-videos-across-multiple-electronics/"><u>Easy and Complete Guide to Screen Record Videos Across Multiple Electronics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-transforming-images-into-audio-files-with-simple-steps/"><u>Effortless Conversion: Transforming Images Into Audio Files with Simple Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-downloads-master-the-art-of-acquiring-cricket-videos-instantly/"><u>Effortless Downloads: Master the Art of Acquiring Cricket Videos Instantly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-guide-how-to-stream-video-in-flv-format-with-vlc-media-player/"><u>Effortless Guide: How to Stream Video in FLV Format with VLC Media Player</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ethical-strategies-for-recording-online-meetings-on-zoom-discover-5-techniques/"><u>Ethical Strategies for Recording Online Meetings on Zoom – Discover 5 Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-tips-for-installing-grindhouse-wizard-on-kodi-achieving-optimal-performance-with-nexus-matrix-and-leia-mods/"><u>Expert Tips for Installing Grindhouse Wizard on Kodi: Achieving Optimal Performance with Nexus, Matrix and Leia Mods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/flac-to-aac-conversion-made-simple/"><u>FLAC to AAC Conversion Made Simple - スムーズにオーディオフォーマットを切り替える</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-methods-to-elevate-the-acoustics-in-your-videos-the-ultimate-trickbook/"><u>Free Methods to Elevate the Acoustics in Your Videos - The Ultimate Trickbook!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-drivers-for-razer-blade-17-seamless-update-process-on-various-windows-platforms/"><u>Latest Drivers for Razer Blade 17: Seamless Update Process on Various Windows Platforms</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-itel-p40-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Itel P40 Screen | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-improbable-rise-of-gamefi-in-mainstream-gaming/"><u>The Improbable Rise of GameFi in Mainstream Gaming</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-persistent-problems-with-iphone-13-solutions-revealed/"><u>Top 6 Persistent Problems with iPhone 13: Solutions Revealed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-illuminating-shadows-iphone-photo-magic-for-2024/"><u>[New] Illuminating Shadows IPhone Photo Magic for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-social-media-savvy-how-to-successfully-post-videos-on-fb-for-2024/"><u>[New] Social Media Savvy How to Successfully Post Videos on FB for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-high-revenue-streaming-star-across-the-globe-for-2024/"><u>[Updated] High Revenue Streaming Star Across the Globe for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-discovering-if-muted-on-snapstreak/"><u>[Updated] In 2024, Discovering If Muted on Snapstreak</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-about-the-apple-vision-pro-a-comprehensive-breakdown-of-costs-specs-and-real-world-performance/"><u>All About the Apple Vision Pro: A Comprehensive Breakdown of Costs, Specs & Real-World Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-intelligence-vs-the-latest-tech-why-the-iphone-16-may-not-be-worth-it-insights-from-zdnet/"><u>Apple Intelligence Vs. The Latest Tech: Why the iPhone 16 May Not Be Worth It - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-insights-elevating-soundscapes-in-daws/"><u>ChatGPT Insights: Elevating Soundscapes in DAWs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/content-encryption-barrier-gone-fixing-the-lock-on-steam-files/"><u>Content Encryption Barrier Gone! Fixing the Lock on Steam Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delayed-launch-apples-ai-capabilities-now-set-for-release-in-oct-insights-from-zdnet/"><u>Delayed Launch: Apple's AI Capabilities Now Set for Release in Oct - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-development-blending-chatgpt-and-vs-code-ideas/"><u>Enhanced Development: Blending ChatGPT & VS Code Ideas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-creme-de-la-creme-of-computers-in-2er-2024-a-head-to-head-comparison-between-apple-and-others/"><u>Exploring the Crème De La Crème of Computers in 2Er 2024: A Head-to-Head Comparison Between Apple and Others</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/harnessing-instagram-video-potential-crafting-a-strong-marketing-strategy/"><u>Harnessing Instagram Video Potential Crafting a Strong Marketing Strategy</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/israel-exploration-hacks-essential-insights-and-expressions/"><u>Israel Exploration Hacks: Essential Insights & Expressions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-complexities-of-chatgpt-in-professional-writing/"><u>Navigating the Complexities of ChatGPT in Professional Writing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012033927-pc-gamers-rejoice-detroit-become-human-now-plays-smoothly-no-more-pc-crashes/"><u>PC Gamers Rejoice: Detroit: Become Human Now Plays Smoothly, No More PC Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/profitable-conversations-and-computer-assembly-tips/"><u>Profitable Conversations & Computer Assembly Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-35-tablet-bargains-unmissable-prime-day-202-offers-check-them-out-now-on-zdnet/"><u>Top 35 Tablet Bargains: Unmissable Prime Day 202# Offers - Check Them Out Now on ZDNet!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-of-the-best-avchd-video-editing-software-for-2024/"><u>Updated The Best of the Best AVCHD Video Editing Software for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Moto G14 | Dr.fone</u></a></li>
 </ul></div>
 

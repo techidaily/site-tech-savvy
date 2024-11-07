@@ -1,7 +1,7 @@
 ---
 title: "AI's Leap Forward: What to Expect in GPT-5's Update"
-date: 2024-10-29T17:43:08.000Z
-updated: 2024-11-01T18:41:11.079Z
+date: 2024-11-02T03:28:31.974Z
+updated: 2024-11-07T03:58:37.359Z
 tags:
   - chatgpt
   - open-ai
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 
  These all point to one exciting reality: GPT-5 is coming! That said, quite a lot of things are speculations at this point. But there are a few things we hope to see and are fairly confident of seeing in the model. Here are some of them:
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. More Multimodality
 
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
@@ -64,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
  With GPT-4 already adept at handling image inputs and outputs, improvements covering audio and video processing are the next milestone for OpenAI, and GPT-5 is a good place to start. Google is already making serious headway with this sort of multimodality with its Gemini AI model. It would be uncharacteristic of OpenAI not to respond. But, of course, don't take our word for it. In his [Unconfuse Me podcast](https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/f0d6c3f0-00cc-4ab6-93cc-7f1d7fd3246e/Unconfuse-Me-with-Bill-Gates-episode-6-TGN-transcript.pdf) \[PDF transcript\], Bill Gates asked OpenAI CEO Sam Altman what milestones he foresaw for the GPT series in the next two years. His first answer? Video Processing.
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Larger and More Efficient Context Window
 
@@ -82,16 +82,10 @@ Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766
 ![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
@@ -107,13 +101,6 @@ Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-cana
  GPT Agents promises specialized expert bots coordinated by, hopefully, GPT-5 capable of self-prompting and tackling all subsets of a complex task autonomously. Emphasis on "self-prompting" and "autonomous."
 
  So, if GPT-5 ships with GPT Agents, you could ask it to "build a portfolio website for Maxwell Timothy" rather than just "write me a code for the homepage." GPT-5 would then theoretically be able to self-prompt by invoking expert AI agents to handle the various subtasks needed to build a website. It might invoke one GPT to scrap the web for information on Maxwell Timothy, another agent to write the code for different pages, another agent to generate and optimize images, and even another AI agent to deploy the site, all without the need for repeated human prompting.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Less Hallucination
 
@@ -170,16 +157,10 @@ Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. GPT Agents
@@ -223,16 +204,10 @@ Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-cana
  Still, no matter the due date, there are a few key features we want to see when GPT-5 launches.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is OpenAI's GPT-5?
@@ -249,29 +224,22 @@ Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-cana
 
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
 
  With GPT-4 already adept at handling image inputs and outputs, improvements covering audio and video processing are the next milestone for OpenAI, and GPT-5 is a good place to start. Google is already making serious headway with this sort of multimodality with its Gemini AI model. It would be uncharacteristic of OpenAI not to respond. But, of course, don't take our word for it. In his [Unconfuse Me podcast](https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/f0d6c3f0-00cc-4ab6-93cc-7f1d7fd3246e/Unconfuse-Me-with-Bill-Gates-episode-6-TGN-transcript.pdf) \[PDF transcript\], Bill Gates asked OpenAI CEO Sam Altman what milestones he foresaw for the GPT series in the next two years. His first answer? Video Processing.
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Larger and More Efficient Context Window
 
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
@@ -285,6 +253,13 @@ Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766
 
 ![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 
  Perhaps one of the most exciting possibilities of a GPT-5 release is the debut of GPT Agents. While the term "game-changer" has probably been overused in AI, GPT agents would truly be game-changers in every practical sense. But just how game-changing would this be?
@@ -321,13 +296,6 @@ Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-cana
 
  Still, no matter the due date, there are a few key features we want to see when GPT-5 launches.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is OpenAI's GPT-5?
 
  GPT-5 is the highly anticipated successor to OpenAI's GPT-4 AI model, widely expected to be the most powerful generative model in the market. While there is currently no official release date for GPT-5, there are indications it could be released as early as the summer of 2024\. Very little detail about the model is known at this time, but several things can be said with some amount of certainty:
@@ -348,9 +316,23 @@ Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-cana
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Larger and More Efficient Context Window
 
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
@@ -405,18 +387,22 @@ Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-cana
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-building-a-vimeo-portfolio-from-the-ground-up-for-2024/"><u>[New] Building a Vimeo Portfolio From the Ground Up for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-exclusive-techniques-to-maximize-windows-11/"><u>[New] In 2024, Exclusive Techniques to Maximize Windows 11</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-clear-sound-recording-without-mic-techniques/"><u>[Updated] Mastering Clear Sound Recording Without Mic Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-screen-readers-digest-recorder-evaluation/"><u>[Updated] The Screen Reader's Digest Recorder Evaluation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-setup-how-to-fast-track-your-pioneer-dj-ddj-sx2-download/"><u>Effortless Setup – How to Fast Track Your Pioneer DJ DDJ-SX2 Download</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-tips-for-successfully-starting-saints-row-pc-version-without-errors/"><u>Essential Tips for Successfully Starting Saints Row PC Version Without Errors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-download-instant-linksys-wrt1900ac6100-ac800-wifi-router-firmware-update/"><u>Quick Download: [INSTANT] Linksys WRT1900AC6100 AC800 WiFi Router Firmware Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-converting-flac-audio-to-aac-with-ease-for-windows-macos-and-web-applications/"><u>Step-by-Step Tutorial: Converting FLAC Audio to AAC with Ease for Windows, MacOS & Web Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-selection-of-4-free-and-easy-avi-file-format-changers-for-pcs-and-macs/"><u>The Ultimate Selection of 4 Free and Easy AVI File Format Changers for PCs & Macs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-youtube-editing-apps-and-software-recommendations/"><u>Top 10 YouTube Editing Apps & Software Recommendations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-instagram-reels-audio-extractors-choose-the-best-one/"><u>Top 4 Instagram Reels Audio Extractors - Choose the Best One!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-windows-applications-for-optimal-video-compression/"><u>Top Rated Window's Applications for Optimal Video Compression</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-find-the-forgotten-top-10-innovative-facebook-memes/"><u>[New] In 2024, Find the Forgotten Top 10 Innovative Facebook Memes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-five-protocols-for-documenting-youtube-live-broadcasts-for-2024/"><u>[New] Top Five Protocols for Documenting YouTube LIVE Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-insightful-recap-updated-sony-bdp-s3700-features/"><u>[Updated] Insightful Recap Updated Sony BDP-S3700 Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-seamless-live-broadcasting-on-facebook-a-simple-guide/"><u>2024 Approved Seamless Live Broadcasting on Facebook A Simple Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/autonomy-in-speech/"><u>Autonomy in Speech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/from-screenshot-to-ringtone-your-guide-to-tiktok-song-selection-for-2024/"><u>From Screenshot to Ringtone Your Guide to TikTok Song Selection for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-activatedeactivate-on-screen-keyboard-functionality-on-windows-11-pcs/"><u>Guide to Activate/Deactivate On-Screen Keyboard Functionality on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-did-crowdstrikes-windows-meltdown-event-unfold-a-historical-analysis-revealed/"><u>How Did CrowdStrike's Windows Meltdown Event Unfold ? A Historical Analysis Revealed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-openais-customizable-cutting-edge-gpt-stores/"><u>Introducing OpenAI's Customizable, Cutting-Edge GPT Stores!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-special-save-big-and-grab-the-new-apple-pencil-for-only-95-the-perfect-time-to-upgrade-with-zdnet-deals/"><u>Labor Day Special! Save Big and Grab the New Apple Pencil for Only $95 - The Perfect Time to Upgrade with ZDNet Deals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/langchain-an-easy-entry-point-for-newcomers/"><u>LangChain: An Easy Entry Point for Newcomers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/presidents-day-special-offer-save-200-on-the-latest-macbook-pro-with-apple-silicon-m3-pro-chipset-available-now-at-zdnet/"><u>President's Day Special Offer: Save $200 on the Latest MacBook Pro with Apple Silicon - M3 Pro Chipset, Available Now at ZDNet!</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-honor-play-8t-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Honor Play 8T</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ai-facilitated-journey-of-my-podcast-creation/"><u>The AI-Facilitated Journey of My Podcast Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-productivity-apps-for-ipad-streamline-your-task-management-and-boost-efficiency-insights-from-zdnet/"><u>Top Productivity Apps for iPad: Streamline Your Task Management & Boost Efficiency - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-explores-potential-apple-pencil-style-for-new-vision-pro-gamepad-insights-from-latest-patent/"><u>ZDNet Explores Potential Apple Pencil Style for New Vision Pro Gamepad: Insights From Latest Patent</u></a></li>
 </ul></div>
 

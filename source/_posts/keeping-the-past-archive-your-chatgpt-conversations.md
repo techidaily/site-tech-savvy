@@ -1,7 +1,7 @@
 ---
 title: "Keeping the Past: Archive Your ChatGPT Conversations"
-date: 2024-10-31T18:04:44.523Z
-updated: 2024-11-01T16:29:44.128Z
+date: 2024-10-31T18:11:03.613Z
+updated: 2024-11-07T09:23:51.744Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 3. Finally, click the checkmark to save the new title.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Save Your ChatGPT Conversations to a TXT File
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 ![Conversation history highlight ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/conversation-history-highlight-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Start highlighting the chat texts from the top using your cursor.
@@ -76,33 +76,19 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 ![ChatGPT conversation saving options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-saving-options.jpg)
 4. If you've copied it to the clipboard, paste the text into a plain textfile on your local drive and save it as a **.txt**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. **To download each conversation as an image**, select **Download as Images.** The extension opens a new browser tab containing images of the chosen conversation. Click the download icon in the top-right corner of an image to save it as a PNG.  
 ![ChatGPT conversation as image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-as-image.jpg)
 6. **To download the entire conversation as HTML** instead, select **Download as Images.** Once the new tab loads with your chat images, right-click the page and select **Save as**. Select a preferred location on your local drive and click **Save**. You can open the downloaded HTML using any web browser.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatGPT conversation as HTML](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-as-html.jpg)
 7. **For PDF**, select **Download as Images.** Right-click the page and click **Print** this time. Click **Print** and select a destination folder. Then click **Save** to download the chat as a PDF.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ChatGPT conversation as PDF](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-conversation-as-pdf.jpg)
 
@@ -117,24 +103,40 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 4. Click **Export** to the right of **Export data**.  
 ![ChatGPT settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-settings-menu.jpg)
 5. From the pop-up, click **Confirm export**; this sends a download link to your registered email address.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Export confirmation modal in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/export-confirmation-modal-in-chatgpt.jpg)
 6. Check your email for the download link and click **Download data export** to download your ChatGPT conversation history to your device's local storage as a zipped folder.  
 ![OpenAI email download data export](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/openai-email-download-data-export.jpg)
 7. Once you [unzip the file](https://www.makeuseof.com/unzip-files-windows-10/), you can view a human-readable format of your conversation history by opening the HTML version in the browser. For more technical use cases, you can open the JSON formats.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT history unzipped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-history-unzipped.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Clear ChatGPT Conversations
 
  Your purpose for backing up your conversations with ChatGPT might be to clear existing conversations. To do this:
 
 ![Clear conversation option ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/clear-conversation-option-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Click your profile icon at the bottom left of the ChatGPT chat menu.
 2. Select **Clear conversations** \> **Confirm clear conversations**. This clears your entire conversation history, and you can start afresh.
@@ -160,19 +162,20 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-beyond-basic-editing-innovative-use-of-luts-for-photography/"><u>[Updated] Beyond Basic Editing Innovative Use of LUTs for Photography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-crafting-engaging-vids-with-template-magic-for-2024/"><u>[Updated] Crafting Engaging Vids with Template Magic for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-great-debate-continues-is-bandicam-or-camtasia-better/"><u>2024 Approved The Great Debate Continues Is Bandicam or Camtasia Better?</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/1728477882079-hdd/"><u>簡單直接免費外部HDD到別台機複製功能</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-speech-power-with-these-7-ai-devices/"><u>Boost Your Speech Power with These 7 AI Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-role-of-shap-in-machine-learning-clarity/"><u>Decoding the Role of SHAP in Machine Learning Clarity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/direct-vs-supplemental-which-gpt-suits-you/"><u>Direct Vs. Supplemental: Which GPT Suits You?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/826832--divine-therapy-and-addiction/"><u>Divine Therapy and Addiction | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-f15-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy F15 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-s17t-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo S17t to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-a-standalone-chatgpt-sufficient-or-do-plugins-matter/"><u>Is a Standalone ChatGPT Sufficient, or Do Plugins Matter?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/plagiarism-proof-gpt-source-examination/"><u>Plagiarism Proof: GPT Source Examination</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/source-verification-in-ai-conversation-models/"><u>Source Verification in AI Conversation Models</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-eye-catching-text-in-media/"><u>Top 10 Eye-Catching Text in Media</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-evolution-how-does-transfer-learning-impact-it/"><u>AI's Evolution: How Does Transfer Learning Impact It?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bert-and-gpt-demystified-nlp-model-showdown-explained/"><u>BERT & GPT Demystified: NLP Model Showdown Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conceptual-canvas-chatai-and-brainstraning-techniques/"><u>Conceptual Canvas: ChatAI & Brainstraning Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-hubs-for-ai-prompt-sharing/"><u>Cutting-Edge Hubs for AI Prompt Sharing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-online-dialogues-ai-enforced-language-barriers-explained/"><u>Decoding Online Dialogues: AI-Enforced Language Barriers Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essence-of-turing-test-and-possibility-to-surpass/"><u>Essence of Turing Test and Possibility to Surpass</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-vivo-v29-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Vivo V29</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-iphone-camera-not-auto-focusing-woes/"><u>In 2024, Navigating iPhone Camera Not Auto-Focusing Woes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essence-of-e-story-creation-techniques/"><u>In 2024, The Essence of E-Story Creation Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-freebie-animation-tools/"><u>In 2024, The Ultimate Guide to Freebie Animation Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-create-movies-online-for-free-top-9-tools/"><u>New In 2024, Create Movies Online for Free Top 9 Tools</u></a></li>
+<li><a href="https://win-popular.techidaily.com/risoluzione-di-problemi-con-la-migr/"><u>Risoluzione Di Problemi Con La Migr</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-tablet-experience-discover-why-the-zagg-pro-stylus-2-is-an-essential-accessory-for-every-ipad-owner/"><u>Upgrade Your Tablet Experience: Discover Why the ZAGG Pro Stylus 2 Is an Essential Accessory for Every iPad Owner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verifying-virtual-medicine-tips-for-chatgpt-and-ai-sources/"><u>Verifying Virtual Medicine: Tips for ChatGPT and AI Sources</u></a></li>
 </ul></div>
 

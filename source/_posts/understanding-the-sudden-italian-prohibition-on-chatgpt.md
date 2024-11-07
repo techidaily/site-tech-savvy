@@ -1,7 +1,7 @@
 ---
 title: Understanding the Sudden Italian Prohibition on ChatGPT
-date: 2024-09-14T16:15:21.120Z
-updated: 2024-09-17T16:17:51.534Z
+date: 2024-10-31T21:19:58.441Z
+updated: 2024-11-07T03:36:48.068Z
 tags:
   - chatgpt
   - open-ai
@@ -48,15 +48,22 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
  Asides from the breach of its privacy laws, the GDPD claims that there is no legal justification for OpenAI's massive collection and processing of personal data to train ChatGPT's algorithms. According to the Italian regulator, ChatGPT's information doesn't always match factual circumstances, so OpenAI can use falsified personal data.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. A Lack of Easily-Accessible and Transparent Information
 
  In addition, the Italian regulator pointed out that OpenAI doesn't inform users whose data it collects. This is another clear violation of the EU's privacy laws.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Lack of Age Verification Systems
@@ -64,16 +71,10 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
  The GDPD announced that ChatGPT exposes inappropriate information to users under 13 because it lacks appropriate age detection mechanisms. This underage exposure violates the EU's GDPR, which states that individuals must clearly consent to the processing of their personal data. As underage individuals, they are not to consent on their behalf.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Risk of Data Breaches
@@ -81,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
  While citing a data breach reported on March 20th, 2023, the Italian regulator raised concerns about the chatbot's risk of data breaches. [Europol's announcement](https://www.europol.europa.eu/publications-events/publications/chatgpt-impact-of-large-language-models-law-enforcement) of the potential of criminals using ChatGPT to commit fraud and cybercrime likely fostered these concerns.
 
  Data breaches also infringe on the country's privacy laws—all data processors must implement appropriate security measures.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Italy's ChatGPT Ban Could Be a Template for Other EU Countries
 
@@ -107,5 +115,26 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unveiling-the-power-of-the-participant-grids-in-google-meet/"><u>[New] 2024 Approved Unveiling the Power of the Participant Grids in Google Meet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-amplify-your-photography-with-these-top-notch-pixlr-tricks/"><u>[New] Amplify Your Photography with These Top-Notch Pixlr Tricks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-proven-pathway-to-pure-sound/"><u>[Updated] 2024 Approved Proven Pathway to Pure Sound</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-beginners-handbook-for-pc-users-initiating-a-tiktok-broadcast-for-2024/"><u>[Updated] Beginner's Handbook for PC Users - Initiating a TikTok Broadcast for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unrivaled-4k-gaming-laptops-the-best-of-both-worlds/"><u>[Updated] In 2024, Unrivaled 4K Gaming Laptops - The Best of Both Worlds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-speak-the-code-vr-lingo-essentials/"><u>2024 Approved Speak the Code VR Lingo Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-basic-chatgpt-against-web-integrated-plugins/"><u>Assessing Basic ChatGPT Against Web-Integrated Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-look-at-oculus-meta-quest-3-vs-apple-vision-pro-was-mark-zuckenberg-on-target-zdnet-coverage/"><u>Comparative Look at Oculus Meta Quest 3 Vs. Apple Vision Pro - Was Mark Zuckenberg on Target? | ZDNET Coverage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-fixes-to-enhance-wi-fi-connectivity-with-driver-updates-in-windows-11-and-10/"><u>Easy Fixes to Enhance Wi-Fi Connectivity with Driver Updates in Windows 11 & 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-unveiled-decrypting-the-algorithm-of-conversation/"><u>GPT Unveiled: Decrypting the Algorithm of Conversation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12t-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Redmi Note 12T Pro Phone Without Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-the-latest-upgrades-to-apples-airpods-lineup-discover-the-four-key-advancements-zdnet-news/"><u>Introducing the Latest Upgrades to Apple's AirPods Lineup - Discover the Four Key Advancements | ZDNET News</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-offline-hp-printer-woes/"><u>Overcoming Offline HP Printer Woes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-pump-routines-via-ai-assistance/"><u>Personalized Pump Routines via AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-your-mac-ignore-chatgpt-apps/"><u>Protecting Your Mac? Ignore ChatGPT Apps!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revealing-artificial-intelligences-secrets-through-transfer-learning/"><u>Revealing Artificial Intelligence's Secrets Through Transfer Learning</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-tallying-selections-with-excels-formulas/"><u>Step-by-Step Guide: Tallying Selections with Excel's Formulas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-iphone-compatibility-with-apples-latest-ios-prise-ios-18-supported-and-unsupported-devices/"><u>Understanding iPhone Compatibility with Apple's Latest iOS Prise - iOS 18 Supported and Unsupported Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-gpt-4-three-costless-entry-methods/"><u>Unlocking GPT-4: Three Costless Entry Methods</u></a></li>
+</ul></div>
 

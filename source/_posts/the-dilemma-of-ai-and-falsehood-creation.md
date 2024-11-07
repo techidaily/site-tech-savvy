@@ -1,7 +1,7 @@
 ---
 title: The Dilemma of AI and Falsehood Creation
-date: 2024-09-14T16:10:40.154Z
-updated: 2024-09-17T16:01:07.885Z
+date: 2024-11-04T22:52:58.723Z
+updated: 2024-11-06T23:59:05.667Z
 tags:
   - chatgpt
   - open-ai
@@ -58,6 +58,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -69,6 +76,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -78,16 +92,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  It's crucial, then, to be able to [identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -99,10 +107,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by [The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -137,5 +145,26 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-affordable-mcb-theme-images-for-channels/"><u>[New] Affordable MCB Theme Images for Channels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-catch-the-flame-ideas-for-unbroken-snapstreaks-for-2024/"><u>[New] Catch the Flame - Ideas for Unbroken Snapstreaks for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-digital-sound-capturing-101-your-path-to-proficiency/"><u>[New] In 2024, Digital Sound Capturing 101 Your Path to Proficiency</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-guide-to-no-cost-high-quality-srt-editors/"><u>[New] In 2024, The Ultimate Guide to No-Cost, High-Quality Srt Editors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-complete-evaluation-of-theta-s-360-vr-camera/"><u>[New] The Complete Evaluation of Theta S 360° VR Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-runners-digital-dream-top-virtual-reality-walkers/"><u>[New] The Runner's Digital Dream Top Virtual Reality Walkers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-guide-to-streamlining-console-game-recording/"><u>2024 Approved Guide to Streamlining Console Game Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-quick-stitching-together-synchronizing-obs-and-zoom/"><u>2024 Approved Quick Stitching Together Synchronizing OBS and Zoom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenger-emerges-googles-gemini-rises-against-openais-chatgpt/"><u>Challenger Emerges: Google's Gemini Rises Against OpenAI’s ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crack-the-case-with-ai-indulge-in-4-intriguing-online-puzzles/"><u>Crack the Case with AI: Indulge in 4 Intriguing Online Puzzles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-apples-top-4-persuasive-factors-why-you-cant-resist-the-latest-ipad-air-techinsights/"><u>Discover Apple's Top 4 Persuasive Factors: Why You Can’t Resist the Latest iPad Air | TechInsights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-online-experience-agents-via-agentgpt/"><u>Elevate Your Online Experience: Agents via AgentGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-conversation-to-completion-who-leads/"><u>From Conversation to Completion: Who Leads?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-of-wireless-audio-a-detailed-comparison-of-apples-new-airpods-offerings-explained/"><u>Future of Wireless Audio: A Detailed Comparison of Apple's New AirPods Offerings Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reliable-re-boot-methods-your-explore-experience-win-11/"><u>Reliable Re-Boot Methods: Your Explore Experience, Win 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spotlight-on-truthful-ios-chatbot-developments/"><u>Spotlight on Truthful iOS ChatBot Developments</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-deal-with-uninitialized-disks-on-windows-pcs/"><u>Steps to Deal with Uninitialized Disks on Windows PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-mobile-phones-endorsed-editors-authentic-reviews-and-testimonials/"><u>Top Mobile Phones Endorsed Editors - Authentic Reviews & Testimonials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-generative-ai-breaking-it-down/"><u>What Is Generative AI? Breaking It Down</u></a></li>
+</ul></div>
 

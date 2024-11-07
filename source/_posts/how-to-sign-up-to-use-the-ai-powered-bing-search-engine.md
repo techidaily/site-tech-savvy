@@ -1,7 +1,7 @@
 ---
 title: How to Sign Up to Use the AI-Powered Bing Search Engine
-date: 2024-09-11T16:19:16.386Z
-updated: 2024-09-17T16:06:48.637Z
+date: 2024-11-02T07:21:59.579Z
+updated: 2024-11-07T07:38:07.250Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/8fe4d84aaa35fa17a267dd739fedd96f93a66f985
 
  For every query you submit, it will scour the internet for relevant answers. But it doesn't stop there. The search engine will further summarize its findings into more straightforward and articulate responses that you can use immediately. Plus, it'll equally cite sources as references.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Bing’s AI-Powered Search Engine
 
  At launch, you needed to join a waitlist in order to try Bing's AI-powered search engine, but it's now available for everyone. Here's how to use it:
@@ -52,15 +59,43 @@ thumbnail: https://thmb.techidaily.com/8fe4d84aaa35fa17a267dd739fedd96f93a66f985
 8. It will also preempt your next question or response by suggesting chat prompts.  
 ![New Bing Chat Feedback showing Chat Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-feedback.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Bing also allows you to switch between just **Chat** and **Search** with chat. To experience the Bing AI-powered search:
 
 1. Go to the top of the page and click on **Search**, next to **Chat**.
 2. Clear the search box of any pre-filled query and enter yours. It'll return a search result box similar to [Google's Featured Snippets](https://www.makeuseof.com/what-are-google-featured-snippets/).  
 ![Bing AI-powered search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-powered-search-results.jpg)
 3. It'll also show you prompts that you can click on to learn more about your subject, including how to contact them (for most people searches).
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. You can further refine your search by typing a query into the chat box just beneath the main result (if available for your query). To your right, you'll find additional information, for some searches.
 5. If you search for celebrities or popular personalities, it can pull up their Wikipedia entries as well as a chat option to help you learn more about their work, personalities, worldview, and so on. Again, this is subject to availability. To begin, simply click on **Let's chat**.  
 ![Bing AI-powered Search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-search-with-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Chat mode will only be available when you have access to the AI-powered Bing.
 
@@ -87,12 +122,21 @@ thumbnail: https://thmb.techidaily.com/8fe4d84aaa35fa17a267dd739fedd96f93a66f985
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-naming-your-podcast-to-perfection-stepwise-guidance-plus-top-ideas-list/"><u>[New] Naming Your Podcast to Perfection Stepwise Guidance + Top Ideas List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-the-capabilities-of-sj-cam-s6/"><u>[Updated] Exploring the Capabilities of SJ-CAM S6</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-and-marital-bonds-the-unexpected-question-from-a-tech-sales-rep-insights-zdnet/"><u>Apple Vision Pro and Marital Bonds: The Unexpected Question From a Tech Sales Rep - Insights [ZDNet]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-future-of-technology-unveiling-apples-vision-pro-concept-prototype-and-its-staggering-possibilities-zdnet/"><u>Discovering the Future of Technology: Unveiling Apple's Vision Pro Concept Prototype and Its Staggering Possibilities | ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/framework-for-alerting-misuse-of-facebook-by-youngsters/"><u>Framework for Alerting Misuse of Facebook by Youngsters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-the-power-of-ai-transform-your-workflows-with-chatgpt-and-excel-tips/"><u>Harnessing the Power of AI: Transform Your Workflows with ChatGPT and Excel Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-servers-not-available-error-in-destiny-2-expert-tips-and-fixes/"><u>Overcoming 'Servers Not Available' Error in Destiny 2 - Expert Tips & Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-a14-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy A14 4G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-enterprises-the-impact-of-the-apple-vision-pro-on-business-productivity-and-collaboration/"><u>Transforming Enterprises: The Impact of the Apple Vision Pro on Business Productivity and Collaboration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-whatsapp-zoom-issue-with-simple-steps/"><u>Ultimate Guide: Solving WhatsApp Zoom Issue with Simple Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-of-optics-a-sneak-peek-into-apples-revolutionary-vision-pro-glasses/"><u>Unveiling the Future of Optics: A Sneak Peek Into Apple’s Revolutionary Vision Pro Glasses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-leading-augmented-reality-glasses-features-and-reviews/"><u>Unveiling the Leading Augmented Reality Glasses - Features & Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secret-behind-quest-3s-popularity-a-comparative-look-at-meta-vr-devices/"><u>Unveiling the Secret Behind Quest 3'S Popularity: A Comparative Look at Meta VR Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/bian-beginnings-unveiled-building-a-business-and-bringing-big-bucks-for-2024/"><u>Youtubian Beginnings Unveiled Building a Business and Bringing Big Bucks for 2024</u></a></li>
+</ul></div>
 

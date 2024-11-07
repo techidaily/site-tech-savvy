@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 & Twitter Verification: A New Horizon Unfolds"
-date: 2024-10-27T18:14:42.943Z
-updated: 2024-11-01T18:00:51.908Z
+date: 2024-11-02T20:16:37.346Z
+updated: 2024-11-07T05:32:26.126Z
 tags:
   - chatgpt
   - open-ai
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -86,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -118,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -160,18 +160,22 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-8-mistakes-people-should-avoid-as-a-new-youtuber-for-2024/"><u>[Updated] 8 Mistakes People Should Avoid as a New YouTuber for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-essential-video-capture-tools-for-windows-10-users-for-2024/"><u>[Updated] Essential Video Capture Tools for Windows 10 Users for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-metaverse-advertising-techniques/"><u>[Updated] In 2024, Mastering Metaverse Advertising Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamline-your-binge-sessions-leveraging-the-power-of-pip-on-netflix/"><u>[Updated] Streamline Your Binge Sessions Leveraging the Power of PIP on Netflix</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-substitutes-to-moviemaker-in-the-windows-realm/"><u>2024 Approved Substitutes to MovieMaker in the Windows Realm</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-tools-and-software-how-to-convert-audio-files-from-aac-to-mp3-format-easily/"><u>Best Tools & Software: How to Convert Audio Files From AAC to MP3 Format Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/c00d36c4/"><u>C00D36C4エラーに見舞われた動画/音声再生 -修正手順の総集編</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-safe-methods-for-copying-and-transferring-content-from-dvds-and-cds/"><u>Comprehensive Guide: Safe Methods for Copying & Transferring Content From DVDs & CDs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-best-7-premium-and-free-movie-mov-to-avi-conversion-applications/"><u>Discover the Best 7 Premium & Free Movie (MOV) to AVI Conversion Applications!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-s24-ultra-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy S24 Ultra to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-live-obs-video-on-instagram/"><u>In 2024, Live OBS Video on Instagram</u></a></li>
-<li><a href="https://fox-info.techidaily.com/jumpstart-connections-winning-tinder-bios-at-a-glance/"><u>Jumpstart Connections Winning Tinder Bios at a Glance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/m4a/"><u>オンラインで不料金制M4A音楽データ変換サービス – ムービヴィソリューションズ</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-8-trustworthy-online-content-promoters/"><u>[New] In 2024, Discover 8 Trustworthy Online Content Promoters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2023s-ultimate-guide-to-essential-airpods-pro-peripherals-insights/"><u>2023'S Ultimate Guide to Essential AirPods Pro Peripherals | Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-screensnipers-digest-the-ultimate-2023-software-roundup/"><u>2024 Approved ScreenSniper's Digest The Ultimate 2023 Software Roundup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-apple-watch-battery-performance-discover-key-adjustments-with-expert-tips/"><u>Boosting Apple Watch Battery Performance: Discover Key Adjustments with Expert Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/capture-attention-incorporating-borders-to-insta-videos-for-2024/"><u>Capture Attention Incorporating Borders to Insta-Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-and-their-art-of-conversational-simulation/"><u>Chatbots and Their Art of Conversational Simulation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-spreadsheet-efficiency-via-chatgpt/"><u>Enhancing Spreadsheet Efficiency via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-work-from-home-success-through-chatgpt-usage/"><u>Enhancing Work-From-Home Success Through ChatGPT Usage</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-art-of-storytelling-video-editing-tips-for-compelling-home-movies/"><u>New 2024 Approved The Art of Storytelling Video Editing Tips for Compelling Home Movies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-fix-solutions-for-persistent-game-crashes/"><u>Pathfinder Wrath Fix: Solutions for Persistent Game Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-fraudgpt-exploits-your-online-sanctuary/"><u>Preventing FraudGPT Exploits - Your Online Sanctuary</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-honor-x50iplus-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor X50i+ Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-wiping-your-ps5-save-file-history/"><u>The Ultimate Guide: Wiping Your PS5 Save File History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbelievable-discovery-communicating-with-chatgpt/"><u>Unbelievable Discovery: Communicating With ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-gpt-4-for-you-and-all/"><u>Understanding GPT-4, For You and All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-bard-googles-visionary-step-beyond-chatgpt/"><u>Unleashing 'Bard': Google's Visionary Step Beyond ChatGPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/upgrade-your-photos-to-stunning-4k-8k-or-1-using-advanced-winxvideo-technology/"><u>Upgrade Your Photos to Stunning 4K, 8K or 1# Using Advanced Winxvideo Technology</u></a></li>
 </ul></div>
 

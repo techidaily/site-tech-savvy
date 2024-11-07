@@ -1,7 +1,7 @@
 ---
 title: "Tech Titans Collaborate: BZ, MS and the Dawn of AI in Gaming & Language Translation [Audio Roundtable]"
-date: 2024-10-29T18:31:59.039Z
-updated: 2024-11-01T18:59:15.549Z
+date: 2024-11-04T08:15:23.843Z
+updated: 2024-11-06T21:53:19.898Z
 tags:
   - chatgpt
   - open-ai
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -94,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -129,10 +129,10 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -172,18 +172,20 @@ thumbnail: https://thmb.techidaily.com/7e92efb572f341d595fdf51653eb900bed0a3b4c4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-explore-best-10-free-srt-converter-apps-online/"><u>[New] 2024 Approved Explore Best 10 Free Srt Converter Apps Online</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-getting-your-foot-in-the-channels-door-must-haves-for-2024/"><u>[Updated] Getting Your Foot in the Channel's Door Must-Haves for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unveiling-your-own-distinctive-tiktok-stream-key-for-2024/"><u>[Updated] Unveiling Your Own Distinctive TikTok Stream Key for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-pc3/"><u>無料のビデオカッタープログラム：Windows PC専用ベスト3</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-find-the-best-8-spots-for-free-3d-text-psd-downloads/"><u>In 2024, Find the Best 8 Spots for FREE 3D Text PSD Downloads</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mordhau-continuous-crashes-solved-tips-and-tricks-for-smooth-gaming/"><u>Mordhau Continuous Crashes Solved - Tips and Tricks for Smooth Gaming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp3wavwindows/"><u>MP3やWAV形式の音声ファイルを統合するためのWindowsユーザー向けガイド</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-shrink-mpeg2-files-get-virtualdub-for-video-compression-for-2024/"><u>New Shrink MPEG2 Files Get VirtualDub for Video Compression for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-securing-quality-8k-videos-via-leading-8k-media-extractor-tools/"><u>Step-by-Step Tutorial on Securing Quality 8K Videos via Leading 8K Media Extractor Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-platforms-to-download-high-quality-copyright-free-indian-melodies-for-professional-use/"><u>Top 5 Platforms to Download High-Quality, Copyright-Free Indian Melodies for Professional Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-for-securely-acquiring-mx-player-app-on-windows-operating-systems-including-windows-11108187/"><u>Ultimate Tutorial for Securely Acquiring MX Player App on Windows Operating Systems Including Windows 11/10/8.1/8/7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wma-to-mp3-transformation-guide-updated-effortless-strategies-both-offline-and-on-the-web/"><u>WMA to MP3 Transformation Guide (Updated): Effortless Strategies , Both Offline and On the Web</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instamixer-uniting-android-and-ios-photo-sessions/"><u>[New] 2024 Approved InstaMixer Uniting Android & iOS Photo Sessions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-14-dynamic-text-animation-samples/"><u>[New] Unveiling 14 Dynamic Text Animation Samples</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-lost-and-found-30-free-speech-to-text-mac-hits/"><u>[Updated] In 2024, Lost and Found 30 Free Speech-to-Text Mac Hits</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-turning-your-old-photos-into-snaps-with-camera-roll-for-2024/"><u>[Updated] Turning Your Old Photos Into Snaps with Camera Roll for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-securing-skype-audio-with-obs-recording-techniques/"><u>2024 Approved Securing Skype Audio with OBS Recording Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-quality-discover-how-beats-latest-solo-earbuds-could-outshine-sub-100-competitors-like-apples-airpods-insights/"><u>Affordable Quality: Discover How Beats' Latest Solo Earbuds Could Outshine Sub-$100 Competitors Like Apple's AirPods – Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-data-leaks-understanding-botnet-vulnerabilities/"><u>Avoiding Data Leaks: Understanding Botnet Vulnerabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/battle-of-the-titans-comparing-googles-latest-pixel-6-pro-with-apples-iphone-13-pro-for-savvy-consumers-cnet/"><u>Battle of the Titans: Comparing Google's Latest Pixel 6 Pro with Apple's iPhone 13 Pro for Savvy Consumers | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craftsmanship-supremacy-outpacing-algorithmic-writers/"><u>Craftsmanship Supremacy: Outpacing Algorithmic Writers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-polyglotism-with-chatgpt-plus-capabilities/"><u>Enhance Polyglotism with ChatGPT Plus Capabilities</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761491-9781622030750-how-to-meditate/"><u>How to Meditate | Free Book</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-art-of-youtube-video-trailers-with-filmora-software/"><u>In 2024, The Art of YouTube Video Trailers with Filmora Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-software-expert-picks-from-zdnet/"><u>Top-Ranking Mac Software : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>What is the best Pokemon for pokemon pvp ranking On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-im-choosing-apples-slimmer-iphone-16-pro-over-the-max-the-definitive-guide-insights-from-zdnet/"><u>Why I'm Choosing Apple's Slimmer iPhone 16 Pro Over the Max : The Definitive Guide - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unleash Creativity and Efficiency: 10 ChatGPT Enhancements for VS Code"
-date: 2024-10-26T17:33:59.312Z
-updated: 2024-11-01T16:56:53.865Z
+date: 2024-11-04T20:58:43.763Z
+updated: 2024-11-07T00:21:05.105Z
 tags:
   - chatgpt
   - open-ai
@@ -48,39 +48,33 @@ thumbnail: https://thmb.techidaily.com/246d0000b4a8f8f8e29a0c282b538c53c7dcabe9e
 8. Click the extension icon. Click **Try Without Account**. But feel free to **Sign In** if you have an account or **Sign Up** for a new account with the extension provider.  
 ![ChatGPT extension in VS Code sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-extension-in-vs-code-sidebar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use the ChatGPT Extension
 
 1. To use a built-in prompt, highlight the target code and right-click it. Select any of the available prompts.  
 ![ChatGPT VS Code options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-vs-code-options-1.jpg)
 2. To write a custom prompt, right-click on the highlighted code and select Ask GPT. Type your prompt in the chat box at the top and press **Enter**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Debug prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/debug-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Use the ChatGPT Extension With Your Code Base
 
  If you've opened VS Code to your code base directory and want ChatGPT to access underlying modules:
 
 ![Extension usage example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/extension-usage-example.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Click the extension icon on the left sidebar. Then check the **Ask Codebase** box.
 2. Copy the target code and paste it into the chat box.
@@ -108,6 +102,13 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![Refactored code correction example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/refactored-code-correction-example-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Further, you can use the **Ask a followup** box to tell ChtGPT to convert the code into a class and show how to instantiate it:
 
 ![Follow up box refactored into a class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/follow-up-box-refactor-1.jpg)
@@ -123,6 +124,13 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
  We asked the ChatGPT extension to debug the code we used earlier. Not only did it debug. It explained it and generated the correct one, including its expected output.
 
 ![Debugged code output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/debugged-code-output-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Write Your Code in Another Language
 
@@ -158,6 +166,13 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![Generated react component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generated-react-component.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Explain Code Blocks
 
  Assume you grabbed a piece of code from Stack Overflow or a GitHub repository. You can ask the ChatGPT extension in VS Code to explain how it works for better comprehension. This helps you debug such code easily if bugs arise due to future code changes.
@@ -170,18 +185,18 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 ![Code explained example output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/code-explained-example-output.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Generate HTML Templates for Your Application
 
  Using the ChatGPT extension in VS Code, you can create an HTML template (like input fields) from scratch—using the extension chat box directly. For instance, you can tell it to create an HTML template for user registration.
 
 ![User registration template example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/user-registration-template-example.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  But what if you're writing an application that renders data into HTML directly (a non-SPA) and wants a project-specific template? You can use the ChatGPT extension in VS Code to create HTML templates that display the backend data to users.
 
@@ -190,10 +205,10 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 ![Generated HMTL template example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generated-hmtl-template-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Again, for this type of use case, you might want to click the **Ask Codebase** checkbox for ChatGPT to access your code base.
@@ -209,10 +224,10 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 ![Unit test prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/unit-test-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It sampled the code base efficiently to generate the required unit test:
@@ -227,13 +242,6 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
  To allow ChatGPT to scan your code base, use the **Ask Codebase** option (click the extension icon and check the **Ask Codebase** box).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Ask VS Code-Related Questions
 
  If you usually gamble your way around some old or [new VS Code features](http://www.makeuseof.com/new-features-in-vscode-v169/), feel free to ask your way around the IDE from the ChatGPT extension.
@@ -245,13 +253,6 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
  Or you can ask it a more technical question, like how to open VS Code from the command line.
 
 ![VS Code specific prompt technical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/vs-code-specific-prompt-technical.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Write Documentation Directly From VS Code
 
@@ -284,19 +285,21 @@ newDict = makeDict("Buy", item1="GPT Book", item2="Java Tutorial", item3="Hiking
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-expert-tips-streaming-youtube-and-fb-videos-seamlessly-with-apple-tv/"><u>[New] Expert Tips Streaming YouTube & FB Videos Seamlessly with Apple TV</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-three-foundational-elements-for-powerful-facebook-ad-headlines/"><u>[New] In 2024, Three Foundational Elements for Powerful Facebook Ad Headlines</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-top-gamers-tools-premium-gear-lists-on-youtube/"><u>[New] In 2024, Top Gamers' Tools Premium Gear Lists on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bots-banter-in-the-binary-battleground/"><u>Bots Banter in the Binary Battleground</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/vating-cold-ideal-snowy-scenes-to-brighten-videos-for-2024/"><u>Captivating Cold Ideal Snowy Scenes to Brighten Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-ai-advances-interactive-apple-and-microsofts-chatgpt/"><u>Explore AI Advances: Interactive Apple & Microsoft's ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-standards-of-dependability-in-healthcare/"><u>GPT’s Standards of Dependability in Healthcare</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-15-pro-max-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone 15 Pro Max iCloud Lock</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/navigating-youtube-studio-for-effective-video-alterations-for-2024/"><u>Navigating YouTube Studio for Effective Video Alterations for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strengthening-empathy-through-ai-dialogue/"><u>Strengthening Empathy Through AI Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-of-generative-techs-abilities/"><u>The Hidden Dangers of Generative Tech's Abilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-ripping-your-dvds-using-any-version-of-vlc-media-player/"><u>Ultimate Guide: Ripping Your DVDs Using Any Version of VLC Media Player</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-avoiding-ai-for-windows-key-generation-is-crucial/"><u>Why Avoiding AI for Windows Key Generation Is Crucial</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-daily-dosage-of-serenity-top-yoga-channels-for-life/"><u>[New] 2024 Approved Daily Dosage of Serenity Top Yoga Channels for Life</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevating-selfies-and-pics-on-snapchat-edit-like-a-pro/"><u>[New] Elevating Selfies and Pics on Snapchat – Edit Like a Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-for-filmmakers-revolutionizing-visual-storytelling-for-2024/"><u>[New] Youtube for Filmmakers Revolutionizing Visual Storytelling for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-tales-and-truths-the-worlds-finest-schools-top-8/"><u>[Updated] In 2024, Mastering Tales & Truths The World's Finest Schools (Top 8)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-online-hubs-for-ai-innovation-spark/"><u>Best Online Hubs for AI Innovation Spark</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-vs-copilot-pro-whats-the-difference-and-should-you-upgrade/"><u>Copilot Vs. Copilot Pro: What's the Difference, and Should You Upgrade?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-ai-applications-across-boundaries/"><u>Deciphering AI Applications Across Boundaries</u></a></li>
+<li><a href="https://win-dash.techidaily.com/diy-logitech-f710-drivers-repair-a-cross-platform-fix-for-win-7-8-10-and-11/"><u>DIY Logitech F710 Drivers Repair: A Cross-Platform Fix for Win 7, 8, 10 & 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/five-leading-e-learning-platforms-to-excel-in-artificial-intelligence-ai-prompt-design/"><u>Five Leading E-Learning Platforms to Excel in Artificial Intelligence (AI) Prompt Design</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581542051-from-novice-to-expert-mondlys-transformative-journey-for-you/"><u>From Novice to Expert - Mondly's Transformative Journey for You!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-contender-meet-claude-the-challenge-for-chatbot-leader/"><u>GPT's Contender: Meet Claude, The Challenge for ChatBot Leader</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-take-notes-like-a-pro/"><u>How to Use ChatGPT to Take Notes Like a Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-from-dull-to-dazzling-revitalize-with-these-7-grading-choices/"><u>In 2024, From Dull to Dazzling Revitalize with These 7 Grading Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-it-private-heres-leaving-chatgpt/"><u>Keep It Private? Here’s Leaving ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-replies-fusing-gpt-3-with-whatsapp-support/"><u>Revolutionizing Replies: Fusing GPT-3 with WhatsApp Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/topic-of-the-day-microsoft-acquires-video-game-giant-blizzard-exploring-impact-on-artificnial-intelligence-and-translation-tech-in-podcast/"><u>Topic of the Day: Microsoft Acquires Video Game Giant Blizzard - Exploring Impact on Artificnial Intelligence and Translation Tech in Podcast</u></a></li>
 </ul></div>
 

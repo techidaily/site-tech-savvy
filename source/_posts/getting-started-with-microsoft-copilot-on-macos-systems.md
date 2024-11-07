@@ -1,7 +1,7 @@
 ---
 title: Getting Started with Microsoft Copilot on macOS Systems
-date: 2024-09-14T16:31:10.358Z
-updated: 2024-09-17T16:26:41.683Z
+date: 2024-11-04T10:30:49.428Z
+updated: 2024-11-07T02:55:39.964Z
 tags:
   - chatgpt
   - open-ai
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 
 ![Microsoft Copilot on the App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-on-the-app-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have an Apple silicon Mac, you're in luck because you can install and run the iPad version of Microsoft Copilot on your computer. Here's how:
 
 1. Launch the **App Store** app on your Mac from the Dock, Launchpad, or [the Applications folder in Finder](https://www.makeuseof.com/applications-folder-mac/).
@@ -62,21 +69,30 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 2. Select **All Shortcuts** from the left sidebar and click the **plus (+)** button in the toolbar at the top of the window to create a new shortcut.  
 ![Adding a new shortcut in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-a-new-shortcut-in-macos.jpg)
 3. Drag the **Open App** action from the right sidebar to the empty space on the left.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the blue **App** field and use the search bar to find and select **Copilot**.  
 ![Creating a simple Open app shortcut to quickly open Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/creating-a-simple-open-app-shortcut-to-quickly-open-copilot.jpg)
 5. Next, switch to the **Info (i)** tab of the sidebar and click **Add Keyboard Shortcut**.  
 ![Assigning a custom keyboard shortcut to launch Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-launch-copilot.jpg)
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other [useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/). Then, hit the **Return** key.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install Microsoft Copilot as a Web App on Your Mac
 
@@ -89,14 +105,14 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 
 ![Adding Copilot web app to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-copilot-web-app-to-the-dock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You'll find the Copilot web app on your Dock immediately. Launch it to begin.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Getting Started With Microsoft Copilot on Your Mac
 
@@ -110,22 +126,15 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 4. Additionally, you can click **Sign in** in the top-left corner of the window and log in with your Microsoft account. This allows you to ask more questions and have longer conversations with the AI chatbot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At this point, you're all set to use Copilot on your Mac at its full potential. If you want to make further tweaks, click the **three-line** icon in the top-left corner to access the app's settings menu. Here, you can change the theme, region and language, permissions, and privacy settings for Copilot.
 
  You can clear your Copilot search history by heading to the app's privacy settings menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Benefits of Using Copilot Over ChatGPT
 
@@ -150,5 +159,23 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-editor-how-to-edit-instagram-videos/"><u>[Updated] Instagram Video Editor How to Edit Instagram Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-premier-webcam-selections-for-dynamic-twitch-sessions-for-2024/"><u>[Updated] Premier Webcam Selections for Dynamic Twitch Sessions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-future-proof-files-top-5-cloud-services-for-peak-performance/"><u>2024 Approved Future-Proof Files Top 5 Cloud Services for Peak Performance</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-essence-of-podcast-marketing-creating-effective-feeds/"><u>2024 Approved The Essence of Podcast Marketing Creating Effective Feeds</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-honor-90-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-14-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 14? How to Fix it?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-the-bike-mega-suv-a-viable-alternative-to-cars-discover-surprising-facts/"><u>Is the Bike-Mega SUV a Viable Alternative to Cars? Discover Surprising Facts!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-deal-alert-how-the-ring-spotlight-cam-pro-exceeded-my-expectations-insider-tips-from-zdnet/"><u>Labor Day Deal Alert: How the Ring Spotlight Cam Pro Exceeded My Expectations - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-home-security-how-my-experience-with-a-facial-recognition-smart-lock-left-old-school-devices-behind/"><u>Revolutionizing Home Security: How My Experience With a Facial Recognition Smart Lock Left Old-School Devices Behind</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-this-presidents-day-with-the-ecoflow-delta-pro-power-station-exclusive-savings-of-up-to-2300/"><u>Save Big This Presidents' Day with the EcoFlow Delta Pro Power Station - Exclusive Savings of Up to $2,300!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/summer-beats-on-a-budget-the-top-bluetooth-audio-devices-for-an-unbeatable-season-in-2e/"><u>Summer Beats on a Budget: The Top Bluetooth Audio Devices for an Unbeatable Season in 2E</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprise-hit-unboxing-the-ring-spotlight-cam-pro-on-sale-for-labor-day-deals-tech-review/"><u>Surprise Hit: Unboxing the Ring Spotlight Cam Pro on Sale for Labor Day Deals | Tech Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprising-delight-discovering-the-unmatched-quality-of-the-discounted-ring-spotlight-cam-pro-cybersecurity-news-by-zdnet/"><u>Surprising Delight: Discovering the Unmatched Quality of the Discounted Ring Spotlight Cam Pro | Cybersecurity News by ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/the-path-to-digital-recognition-finding-sids-in-windows-11/"><u>The Path to Digital Recognition: Finding SIDs in Windows 11</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1728501443912-404/"><u>ユーザーフレンドリーな404ページへのアップグレード方法</u></a></li>
+</ul></div>
 

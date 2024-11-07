@@ -1,7 +1,7 @@
 ---
 title: The Illusion of Unfailing AI Controls
-date: 2024-09-11T16:16:07.120Z
-updated: 2024-09-17T16:15:35.149Z
+date: 2024-11-03T10:12:48.818Z
+updated: 2024-11-06T22:03:36.504Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,19 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 
 ![Writer.com's AI content detector, screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-detector-writer.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  So, writer.com has got it wrong.
 
  To be fair, other AI content detectors are hardly any better. Not only do they produce false positives, but they also mark AI content as human. And even when they don't, making minor tweaks to AI-generated text is enough to pass with flying colors.
@@ -47,6 +60,19 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  In February 2023, University of Wollongong Lecturer Armin Alimardani and Associate Professor at UNSW Sydney Emma A. Jane tested a number of popular AI content detectors, establishing that none of them are reliable. In their analysis, which was published in [The Conversation](https://theconversation.com/we-pitted-chatgpt-against-tools-for-detecting-ai-written-text-and-the-results-are-troubling-199774#:~:text=Perplexity%20measures%20how%20complex%20a,was%20produced%20by%20an%20AI.), Alimardani and Jane concluded that this AI "arms race" between text generators and detectors will pose a significant challenge in the future, especially for educators.
 
  But it's not just educators and teachers who have reason for concern: everyone does. As AI-generated text becomes ubiquitous, being able to differentiate between what's "real" and what isn't, [i.e. actually spotting when something's written by AI](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/), will become more difficult. This will have a massive impact on virtually all industries and areas of society, even personal relationships.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI's Implications for Cybersecurity and Privacy
 
@@ -63,10 +89,10 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  If there is indeed an arms race between generative AI and content detectors, the former is winning. What's worse, there seems to be no solution. All we have our half-baked products that don't even work half the time, or can be tricked very easily.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Detect AI Content: Potential Solutions
@@ -80,16 +106,10 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  For the time being, what a regular person can do is rely on their instincts and common sense. If there is something off about the content you're reading—if it feels unnatural, repetitive, unimaginative, banal—it might have been created by software. Of course, you should also verify any information you see online, double-check the source, and stay away from shady websites.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The AI Revolution Is Underway
@@ -113,5 +133,24 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-innovative-zoom-methods-for-chromebook-efficiency/"><u>[New] Innovative Zoom Methods for Chromebook Efficiency</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-definitive-list-of-top-quality-mics-for-yt-styles/"><u>[New] The Definitive List of Top-Quality Mics for YT Styles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pixel-pushers-boost-phone-photography-for-free/"><u>2024 Approved Pixel Pushers Boost Phone Photography for Free</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premier-programs-designing-animated-3d-worlds/"><u>2024 Approved Premier Programs Designing Animated 3D Worlds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-instructions-for-mac-users-to-share-their-whereabouts-and-its-advantages-howtogeek/"><u>Easy Instructions for Mac Users to Share Their Whereabouts & Its Advantages | HowToGeek</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emotional-insight-using-chatgpt-effectively/"><u>Emotional Insight: Using ChatGPT Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-gpt-4-on-a-budget-four-subsidized-paths/"><u>Explore GPT-4 on a Budget: Four Subsidized Paths</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finding-liquid-in-apples-lightning-port-how-to-deal-with-water-damage-on-iphones-techadvice/"><u>Finding Liquid in Apple's Lightning Port: How To Deal With Water Damage on iPhones | TechAdvice</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-code-0x800700e1-problems-in-windows-11/"><u>Fixing Code 0X800700E1 Problems in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-innovation-for-simplifying-hr-workflows/"><u>GPT Innovation for Simplifying HR Workflows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-perform-a-total-wipe-on-iphone-through-your-computer-windows-and-mac-strategies-with-stellar-assistance/"><u>How to Perform a Total Wipe on iPhone Through Your Computer: Windows & Mac Strategies with Stellar Assistance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus with IMEI Code?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-expert-strategies-for-exceptional-live-thumbnail-appeal/"><u>In 2024, Expert Strategies for Exceptional Live Thumbnail Appeal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/median/"><u>Median</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/preserving-quality-while-quickening-spotify-auditory-experience/"><u>Preserving Quality While Quickening Spotify Auditory Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-bots-chatgpt-premium-service-now-available-in-us-20-mo/"><u>Redefining Bots: ChatGPT Premium Service Now Available in US ($20 Mo)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scripting-success-bash-and-chatgpt-interactions-explained/"><u>Scripting Success: Bash and ChatGPT Interactions Explained</u></a></li>
+</ul></div>
 

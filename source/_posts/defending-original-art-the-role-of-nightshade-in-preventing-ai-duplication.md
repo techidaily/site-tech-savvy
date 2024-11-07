@@ -1,7 +1,7 @@
 ---
 title: "Defending Original Art: The Role of Nightshade in Preventing AI Duplication"
-date: 2024-09-16T16:07:14.038Z
-updated: 2024-09-17T16:35:37.540Z
+date: 2024-11-01T20:48:53.354Z
+updated: 2024-11-07T09:24:59.186Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
 * [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Nightshade is an AI tool that "poisons" digital art, making it unusable for training AI models.
@@ -38,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/304e2f357860569a12cd2d51db7951faca7194234
  AI tools are revolutionary and can now hold conversations, generate human-like text, and create images based on a single word. However, the training data these AI tools use often comes from copyrighted sources, especially when it comes to text-to-image generators like DALL-E, Midjourney, and others.
 
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is AI Poisoning?
 
@@ -58,10 +72,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Nightshade
@@ -83,10 +97,10 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
@@ -111,5 +125,26 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturing-flawless-footage-premium-pcmac-options-reviewed/"><u>[New] 2024 Approved Capturing Flawless Footage Premium PC/Mac Options Reviewed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-free-online-jpggif-converters-the-best-10-list-for-2024/"><u>[New] Free Online JPG/GIF Converters The Best 10 List for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-cinematic-language/"><u>[New] Pioneering Cinematic Language</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-skyrocket-subscribers-and-engagement-top-12-video-promotion-tactics-for-2024/"><u>[Updated] Skyrocket Subscribers and Engagement - Top 12 Video Promotion Tactics for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1-seamless-integration-a-step-by-step-guide-to-implementing-themes-in-flipoffice-pro-flipbuildercom/"><u>1) Seamless Integration: A Step-by-Step Guide to Implementing Themes in FlipOffice Pro | flipbuilder.com</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-convenience-ethical-implications-of-using-ai-for-windows-keys/"><u>Beyond Convenience: Ethical Implications of Using AI for Windows Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-innovative-approach-to-difficult-workplace-communications/"><u>ChatGPT's Innovative Approach to Difficult Workplace Communications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-effective-chatbot-dialogue-top-strategies-for-writing-winning-prompts/"><u>Conquer Effective Chatbot Dialogue: Top Strategies for Writing Winning Prompts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/game-on-mobile-funimate-apk-setup-simplified-for-2024/"><u>Game On Mobile Funimate APK Setup Simplified for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-itel-s23plus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Itel S23+ Phones with/without a PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-conveniently-altering-resolution-on-ios-devices/"><u>In 2024, Conveniently Altering Resolution on iOS Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-non-chatgpt-options-for-coding-autonomy/"><u>Innovative Non-ChatGPT Options for Coding Autonomy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-whats-next-for-apple-in-gaming-exploring-clues-and-predictions-from-industry-experts/"><u>Inside Look: What's Next for Apple in Gaming? Exploring Clues and Predictions From Industry Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-update-1751-fixes-odd-glitch-rediscovering-deleted-images-tech-insights/"><u>IOS Update 17.5.1 Fixes Odd Glitch Rediscovering Deleted Images - Tech Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-the-best-marathon-timers-2024s-finest-running-watches/"><u>Navigating the Best Marathon Timers: 2024’S Finest Running Watches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-ai-inputs-returns-on-financial-front/"><u>Premium AI Inputs - Returns on Financial Front?</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-connecting-discovering-group-and-profile-links-on-fb/"><u>The Art of Connecting: Discovering Group & Profile Links on FB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-strategy-for-leveraging-apple-pay-both-in-store-and-digitally-tips-by-zdnet-experts/"><u>The Ultimate Strategy for Leveraging Apple Pay Both In-Store & Digitally - Tips by ZDNet Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-your-smartphone-why-you-should-consider-the-iphone-16-pro-over-the-iphone-lete-14-pro/"><u>Upgrading Your Smartphone: Why You Should Consider the iPhone 16 Pro Over the iPhone Lete 14 Pro</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Programmers' Choice: Copilot or GPT?"
-date: 2024-10-27T17:22:43.019Z
-updated: 2024-11-01T18:24:12.491Z
+date: 2024-10-31T00:59:44.812Z
+updated: 2024-11-07T01:36:33.915Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 * [You Can Always Use Both](https://appsumo.8odi.net/gmezyk)
 * [There Are Alternatives](https://thefitville.pxf.io/qyo4yy)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * GitHub Copilot excels in code completion and integration within coding environments, making it best for programming.
@@ -49,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
  GitHub Copilot is an AI-powered code completion tool developed by GitHub in collaboration with OpenAI. With the power of GPT-4, it provides real-time code suggestions as you type, helping to streamline the coding process. It is a paid service that you can easily use with most popular environments, including Visual Studio, Visual Studio Code, Vim/Neovim, Azure Data Studio, and JetBrains.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT?
@@ -62,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
  This makes it a good programming tool as it can help clarify concepts, provide explanations, and even generate pseudocode based on user input. ChatGPT is a versatile tool. You can use it for non-coding tasks like planning, brainstorming, and problem-solving, all of which are useful in software development.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Comparing GitHub Copilot and ChatGPT
@@ -91,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 
 ![Advanced Code Completion with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/github-copilot-adavanced-code-suggestions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Aside from advanced code completion, you can also use GitHub Copilot for refactoring, helping you [write cleaner and better code](https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/). And since it’s integrated into your programming environment, it’s more quickly available than a web app like ChatGPT. This saves you time and concentration, especially over long coding sessions.
 
  To make a request, simply highlight your code, click on the “twinkle/star” icon, and provide your instructions:
@@ -118,22 +124,29 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 
 ![Asking development related questions with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/asking-developer-questions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re learning to code, you can prompt ChatGPT to generate pseudocode to help you explore different solutions for a specific problem.
 
  Here’s how ChatGPT provided a way to query the minimum, maximum, and average price of products within a collection class:
 
 ![psedocode generation with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/generating-psudo-code-with-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re looking at a snippet of code you don’t quite understand, you can also use ChatGPT to reverse engineer it:
 
 ![Reverse engineering code snippet with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-explaining-code.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When it comes to understanding concepts or getting a detailed explanation of a coding topic, ChatGPT excels. Its ability to generate human-like responses makes it an ideal learning tool that any programmer can use. Whether it's a complex algorithm or a programming principle you're trying to grasp, ChatGPT can break it down into understandable parts.
 
@@ -150,13 +163,6 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
  If you’re a student, you can benefit from free access to GitHub Copilot. Combine that with OpenAI’s already free ChatGPT-3.5 Turbo, and you’ll have both tools without paying a cent!
 
  A monthly GitHub Copilot subscription and the freely available ChatGPT-3.5 should provide enough assistance for both personal and professional projects. If you still feel like you need that slight edge, then shelling out extra for [useful ChatGPT plugins](https://www.makeuseof.com/best-chatgpt-plugins/) may also be worth the investment.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There Are Alternatives
 
@@ -181,22 +187,24 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-hasty-habits-presentation-file-recording/"><u>[New] In 2024, Hasty Habits Presentation File Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-ios-emulators-reviving-classic-psp-game-experiences-2023-guide-for-2024/"><u>[Updated] Top iOS Emulators Reviving Classic PSP Game Experiences - 2023 Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-top-free-photo-editing-software-for-mac-comprehensive-list/"><u>1. Top Free Photo Editing Software for Mac - Comprehensive List</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-efficiently-explore-every-entry-facebook-profile-hunt-101/"><u>2024 Approved Efficiently Explore Every Entry Facebook Profile Hunt 101</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-voice-virtuosos-guide-the-7-finest-android-transformation-audio-tools/"><u>2024 Approved Voice Virtuosos Guide The 7 Finest Android Transformation Audio Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726220170956-gifogv-movavi/"><u>無料動画形式変換ツール：GIFとOGVのためのオンラインマガジン - Movaviの詳細</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-duplicate-local-device-names-in-windows-systems/"><u>Avoiding Duplicate Local Device Names in Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-geoffrey-scotts-visionary-photography-on-the-movavi-platform/"><u>Discover Geoffrey Scott's Visionary Photography on the Movavi Platform</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/freemake-video-converter-previous-version-download-step-by-step-guide-for-upgrading/"><u>Freemake Video Converter Previous Version Download - Step-by-Step Guide for Upgrading</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-omzetten-en-herstellen-van-online-bestandsen-met-movavi-zonder-inzichten/"><u>Gratis Omzetten En Herstellen Van Online Bestandsen Met Movavi - Zonder Inzichten</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-omzetten-van-wav-naar-aiff-online-movavi-als-sollicitatiepunt/"><u>Gratis Omzetten Van WAV Naar AIFF Online - Movavi Als Sollicitatiepunt</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-taming-darkness-for-a-bright-youtube-experience/"><u>In 2024, Taming Darkness for a Bright YouTube Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-trasforma-il-tuo-video-in-formato-pef-senza-costi-un-tutorial-essenziale-per-lencoding-online/"><u>Movavi - Trasforma Il Tuo Video in Formato PEF Senza Costi: Un Tutorial Essenziale per L'encoding Online</u></a></li>
-<li><a href="https://os-tips.techidaily.com/safeguard-your-important-ios-content-by-learning-to-use-itunes-for-iphone-backups/"><u>Safeguard Your Important iOS Content by Learning to Use iTunes for iPhone Backups</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-y78plus-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo Y78+ Location | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-mp4-videos-into-mpg-files-without-cost-using-movavis-web-service/"><u>Transform Your MP4 Videos Into MPG Files Without Cost Using Movavi's Web Service</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avi-to-webm/"><u>무료 온라인 AVI to WEBM 전환 도구 사용하기 – 모바비</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-brief-stardom-flash-review/"><u>[Updated] 2024 Approved Brief Stardom Flash Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-maximizing-money-smart-tactics-for-video-monetization-for-2024/"><u>[Updated] Maximizing Money Smart Tactics for Video Monetization for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-embraces-ai-with-siri-taking-over-from-bing-in-the-spotlight-will-change-spark-innovation/"><u>Apple Embraces AI with Siri Taking Over From Bing in the Spotlight – Will Change Spark Innovation?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-reveals-how-deleted-images-return-with-ios-175-update-and-next-steps-explained-zdnet/"><u>Apple Reveals How Deleted Images Return with iOS 17.5 Update & Next Steps Explained | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-enhancers-5-steps-to-elevate-hacking-techniques/"><u>Artificial Enhancers: 5 Steps to Elevate Hacking Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-ai-slang-keywords-everyone-should-know/"><u>Demystifying AI Slang: Keywords Everyone Should Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/first-look-at-langchains-large-language-models/"><u>First Look at LangChain's Large Language Models</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-right-driver-pack-for-canon-all-in-one-printer-dr-c225-on-windows-10811/"><u>How to Get the Right Driver Pack for Canon All-in-One Printer DR-C225 on Windows 10/8/11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oneplus-nord-ce-3-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on OnePlus Nord CE 3 5G online without jailbreak</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-enhancing-group-conferences-with-chatgpt/"><u>Leveraging AI: Enhancing Group Conferences with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-cbt-with-chatgpt-techniques-and-usage/"><u>Maximizing CBT with ChatGPT: Techniques and Usage</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-breathe-new-life-into-your-mac-how-to-clear-space-for-fcpx-and-more/"><u>New 2024 Approved Breathe New Life Into Your Mac How to Clear Space for FCPX and More</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/quick-fixes-reviving-your-windows-server-201/"><u>Quick Fixes: Reviving Your Windows Server 201</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-accessing-and-reading-overdrive-digital-books-on-your-amazon-kindle-paperwhite/"><u>Step-by-Step Guide: Accessing and Reading OverDrive Digital Books on Your Amazon Kindle Paperwhite</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/steps-to-develop-a-charismatic-vlog-script-for-2024/"><u>Steps to Develop a Charismatic Vlog Script for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/to-upgrade-or-not-evaluating-the-need-for-an-rtx-graphics-processor/"><u>To Upgrade or Not: Evaluating the Need for an RTX Graphics Processor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-truth-can-i-tell-if-my-airtag-is-monitoring-me/"><u>Uncover the Truth: Can I Tell If My AirTag Is Monitoring Me?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-reigns-supreme-googles-bard-or-microsofts-bing-chat/"><u>Who Reigns Supreme? Google’s Bard or Microsoft’s Bing Chat</u></a></li>
 </ul></div>
 

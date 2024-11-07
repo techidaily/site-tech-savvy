@@ -1,7 +1,7 @@
 ---
 title: "Embracing Innovation: How Apple's IPad Pro Stands Out Without Trying to Replace Your MacBook | ZDNET Tech Reviews"
-date: 2024-10-31T16:33:16.041Z
-updated: 2024-11-01T19:00:37.544Z
+date: 2024-11-06T03:20:05.294Z
+updated: 2024-11-07T12:33:26.760Z
 tags:
   - apple
 categories:
@@ -50,6 +50,19 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  1\. You need more battery life
 
 While you might expect the newest device to have the [better battery life](https://www.zdnet.com/article/how-to-make-your-macbook-battery-last-all-day/), the extra processing power does take a toll. In terms of pure battery life, the M1 beats the M3 by a decent margin. For general use, the M1 has up to 17 hours while the M3 only makes it to 12\. Solely on streaming, the gap lessens a little at 20 hours compared to 18\. 
@@ -57,6 +70,19 @@ While you might expect the newest device to have the [better battery life](https
 **Also: [MacBook Pro vs MacBook Air: How to decide which Apple laptop to buy](https://www.zdnet.com/article/macbook-air-vs-macbook-pro-how-to-decide-which-apple-laptop-to-buy/)**
 
 Now, it's worth noting that most people do use their MacBooks plugged in, and going more than half a day without access to an outlet is pretty rare. But, in the event that you often find yourself in situations where a power supply isn't readily available and you work very long days, the M1 should be your choice. This is, of course, by Apple's numbers.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. You're doing mostly web-based work or don't need the absolute fastest option
 
@@ -74,6 +100,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  3\. You prefer a smaller overall size and touch bar
 
 The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice is missing from the M3\. So, if you prefer a smaller layout for your MacBook, you'll want to look to the M1\. Perhaps the bigger loss here, though, is the [touch bar](https://www.zdnet.com/article/apple-finally-admits-it-made-a-mistake-and-backtracks-on-three-foolish-macbook-pro-design-decisions/), which is no longer available on any M3 model. While most people weren't fans of the touch bar, which was essentially an OLED strip of buttons that changed depending on context, it still had its core users. Are you one of them?
@@ -81,10 +114,10 @@ The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice 
 [Buy the M1 MacBook Pro View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-14-inch-10%E2%80%91core-16%E2%80%91core%2Fdp%2FB09JQWSQK7%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Pro if...
@@ -97,19 +130,6 @@ Jason Hiner/ZDNET
 
 One of the biggest differences between the M1 and the M3 is the overall brightness. For SDR content, the M1 tops out at 500 nits while the M3 triples that with 1,600 nits. In a standard office environment, the former would be just fine. But in a sunny outdoor environment or a very bright indoor setting, this is going to be a noticeable difference. There are some third-party apps that let you increase the screen brightness of the M1, but if you want the best brightness, you'll need to get the newest device.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You're doing very intensive or time-sensitive tasks
 
 While there's very little the M3 can do that the M1 just can't, the biggest difference comes down to how fast those tasks take. Finds 's [full review](https://www.zdnet.com/article/macbook-pro-m3-max-review/) suggest the M3 renders at more than twice the speed of the M1, which is crucial for users in more content creation occupations. 
@@ -118,31 +138,11 @@ While there's very little the M3 can do that the M1 just can't, the biggest diff
 
 If you're working in a very fast-paced environment (say, live sports or entertainment) and seconds make the difference, it might be worth springing for the M3\. Of course, you'll likely only notice the performance difference when dealing with high-end graphics and video. But power users will be right at home with the M3.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  3\. You want a new-conditioned laptop
 
 It's been almost three years since Apple launched its M1-powered systems, so the chances of you finding one in brand-new condition today are rare. Instead, the fresher MacBook Pro with M3 chip is guaranteed to be available at your local Apple store, third-party retailers, and more. You can also expect [better deals on the M3 model](https://www.zdnet.com/article/buy-a-new-macbook-pro-with-m3-pro-chip-for-200-off-right-now/) going into the holiday shopping season. For the M1, it's buying a second-hand device or keeping your fingers crossed that somewhere on the internet is still selling one in pristine condition.
 
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -178,14 +178,19 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-step-by-step-guide-to-record-online-video-calls-for-2024/"><u>[Updated] Step-by-Step Guide to Record Online Video Calls for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/20plus-fresh-collages-elevate-your-environment-for-2024/"><u>20+ Fresh Collages Elevate Your Environment for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-legally-secure-your-favorite-afreecatv-shows-for-personal-use-top-tools-revealed/"><u>How To Legally Secure Your Favorite AfreecaTV Shows for Personal Use - Top Tools Revealed!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/html5/"><u>HTML5ビデオファイルのダウンロードと保存手順ガイド</u></a></li>
-<li><a href="https://win-dash.techidaily.com/instant-access-get-your-usb-and-rs232-bridge-drivers-now/"><u>Instant Access: Get Your USB and RS232 Bridge Drivers Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipadiphonemovmp4pc/"><u>IPad/iPhoneのMOV/MP4ファイルをPCに転送して再生する方法 - 互換性改善ステップ</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp4-movie-converter-universal-device-compatibility-transform-movies-effortlessly/"><u>MP4 Movie Converter: Universal Device Compatibility - Transform Movies Effortlessly</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/smart-home-essentials-in-depth-look-at-iseebells-entry-level-video-doorbell/"><u>Smart Home Essentials: In-Depth Look at ISeeBell's Entry-Level Video Doorbell</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722887084254-unveiling-the-best-ai-alternatives-to-chatgpt-countdown-of-10/"><u>Unveiling the Best AI Alternatives to ChatGPT - Countdown of 10!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-elite-choice-of-cameras-the-top-8-for-live-video/"><u>[Updated] In 2024, Elite Choice of Cameras The Top 8 for Live Video</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-quick-window-snaps-in-winoses-for-2024/"><u>[Updated] Quick Window Snaps in WinOSes for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-generational-journey-into-falsehood-spreaders/"><u>AI's Generational Journey Into Falsehood Spreaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-hype-unveiling-nine-myths-surrounding-ai-conversations/"><u>Beyond the Hype: Unveiling Nine Myths Surrounding AI Conversations</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-11-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 11 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/frugal-filmmaking-top-camera-deals/"><u>Frugal Filmmaking Top Camera Deals</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-max-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS Max iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-nintendo-switch-capturing-your-playtime/"><u>In 2024, Nintendo Switch Capturing Your Playtime</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomms-latest-innovation-snapdragon-4-gen-2-transforms-the-budget-phone-market/"><u>Qualcomm's Latest Innovation: Snapdragon 4 Gen 2 Transforms the Budget Phone Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-easy-way-to-launch-ais-from-your-browser/"><u>The Easy Way to Launch AIs From Your Browser</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/traffic-lure-top-artisan-for-2024/"><u>Traffic Lure Top Artisan for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-talk-of-tech-titans-le-chat-vs-gpt-3/"><u>Unraveling the Talk of Tech Titans: Le Chat vs GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/viewing-apples-stunning-3d-spatial-content-with-meta-quest-tips-and-tricks-zdnet/"><u>Viewing Apple's Stunning 3D Spatial Content with Meta Quest - Tips & Tricks | ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ChatGPT and the Quest for Data Security
-date: 2024-10-27T17:56:20.072Z
-updated: 2024-11-01T17:45:13.744Z
+date: 2024-11-04T03:57:07.678Z
+updated: 2024-11-06T20:20:48.872Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
 ![ChatGPT logo on dark purple background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-policy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  How much data does OpenAI collect from ChatGPT users directly, and how? The service's [privacy policy](https://openai.com/policies/privacy-policy) offers some answers.
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the [FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Register With a Private Email
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
 
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Delete Your Information
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the [California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/). So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
@@ -103,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
  After Italy broke the ice, talks of regulating ChatGPT and other AI products intensified. In April 2023, the European Data Protection Board (an independent European Union body that enforces GDPR) set up a task force to explore potential regulatory measures. Governments of several EU member states did the same, per [Reuters](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/).
 
  Around the same time, the National Telecommunications and Information Administration in the United States began looking at the possibility of regulating artificial intelligence, and it's safe to assume governments around the world will take similar regulatory action in the years to come. Some fear excessive regulation could stifle progress, so it's more than likely the debates will continue as the world tries to navigate this landscape.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly
 
@@ -127,19 +127,18 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-acclaimed-top-5-effortless-action-camcorders-for-2024/"><u>[New] Acclaimed Top 5 Effortless Action Camcorders for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-optimal-cloud-audio-devices/"><u>[Updated] 2024 Approved Optimal Cloud Audio Devices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-compact-obs-setup-for-underpriced-pcs/"><u>2024 Approved Compact OBS Setup for Underpriced PCs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/alternative-windows-filmmakers-for-2024/"><u>Alternative Windows Filmmakers for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-gpt-autonomy-distinctions-from-conversational-ai/"><u>Discovering GPT Autonomy - Distinctions From Conversational AI</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-gaming-rig-choose-between-wood-and-metal-for-corsairs-elite-6500-atx-or-micro-atx-board-accent-panels-easy-removal-stunning-look/"><u>Elevate Your Gaming Rig: Choose Between Wood and Metal for Corsair's Elite 6500 ATX or Micro-ATX Board Accent Panels – Easy Removal, Stunning Look</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/five-student-driven-uses-for-ai-tutor-chatgpt/"><u>Five Student-Driven Uses for AI Tutor: ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gptbot-enigma-ai-potential-vs-cybersecurity-hurdles/"><u>GPTBot Enigma: AI Potential Vs. Cybersecurity Hurdles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-nightshade-to-protect-your-artwork-from-generative-ai/"><u>How to Use Nightshade to Protect Your Artwork From Generative AI</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-cut-the-red-tape-simplify-xboxfb-broadcasting/"><u>In 2024, Cut the Red Tape Simplify Xbox/FB Broadcasting</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-exploring-the-financial-benefits-in-podcasting/"><u>In 2024, Exploring the Financial Benefits in Podcasting</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-tips-configuring-auto-sign-in-features-for-windows-users/"><u>Quick Tips: Configuring Auto Sign-In Features for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talk-anytime-anywhere-android-meets-chatgpt/"><u>Talk Anytime, Anywhere - Android Meets ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-free-ai-art-creation-tools/"><u>Top 5 Free AI Art Creation Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-through-the-noise-optimal-thumbnail-sizes/"><u>[New] In 2024, Cutting Through the Noise Optimal Thumbnail Sizes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-integrating-slug-lines-into-your-writing-process/"><u>[New] In 2024, Integrating Slug Lines Into Your Writing Process</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pairing-audio-with-visuals-web-forum/"><u>[New] Pairing Audio with Visuals Web Forum</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-venmo-photo-frame-guidelines-for-2024/"><u>[Updated] Venmo Photo Frame Guidelines for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-mastering-the-art-of-comfortable-virtual-experiences/"><u>2024 Approved Mastering the Art of Comfortable Virtual Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-business-unique-value-proposition/"><u>ChatGPT for Business: Unique Value Proposition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/essential-reviews-of-macx-dvd-ripper-mac-expert-insights-on-dvd-copying-tools-including-lockit-magic-and-more/"><u>Essential Reviews of MacX DVD Ripper (Mac) - Expert Insights on DVD Copying Tools Including LOCKiT MAGIC and More!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/gopro-expertise-unleashed-livestreams-directed-at-periscope-and-facebook/"><u>Gopro Expertise Unleashed Livestreams Directed at Periscope & Facebook</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-honor-magic-6-lite-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Honor Magic 6 Lite Without PUK Codes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-selection-of-premium-apple-band-accessories-comprehensive-tester-insights-and-evaluation/"><u>Ultimate Selection of Premium Apple Band Accessories : Comprehensive Tester Insights and Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-creativity-in-freelancing-with-chatgpts-six-methods/"><u>Unlocking Creativity in Freelancing with ChatGPT's Six Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-predictive-ai-and-how-does-it-work/"><u>What Is Predictive AI, and How Does It Work?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reviews-unobtrusive-yet-powerful-smart-lock-solutions-for-apple-devices/"><u>ZDNet Reviews Unobtrusive Yet Powerful Smart Lock Solutions for Apple Devices</u></a></li>
 </ul></div>
 

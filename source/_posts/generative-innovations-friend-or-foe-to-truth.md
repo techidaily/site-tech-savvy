@@ -1,7 +1,7 @@
 ---
 title: "Generative Innovations: Friend or Foe to Truth?"
-date: 2024-10-26T16:47:51.775Z
-updated: 2024-11-01T16:54:15.791Z
+date: 2024-11-02T07:55:20.919Z
+updated: 2024-11-07T07:38:09.459Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
@@ -63,13 +63,6 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -83,6 +76,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -92,16 +92,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  It's crucial, then, to be able to [identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -124,10 +118,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -153,19 +147,22 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-relaxation-reigns-top-pc-titles-for-2024/"><u>[New] Relaxation Reigns Top PC Titles for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-banter-bonanza-the-funniest-content-on-the-internet/"><u>[Updated] Banter Bonanza The Funniest Content on the Internet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-art-of-retention-capturing-gifs-from-social-media-for-2024/"><u>[Updated] The Art of Retention Capturing GIFs From Social Media for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-samsung-galaxy-z-flip-5-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Samsung Galaxy Z Flip 5 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/best-approaches-for-removing-wifi-from-windows-11/"><u>Best Approaches for Removing Wifi From Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-integrating-artistry-into-your-instagram-feed-with-pictures/"><u>In 2024, Integrating Artistry Into Your Instagram Feed with Pictures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/la-solution-definitive-pour-gerer-des-fichiers-vob-top-5-lecteurs-compatibles-avec-windows-et-mac-explique/"><u>La Solution Définitive Pour Gérer Des Fichiers VOB : Top 5 Lecteurs Compatibles Avec Windows Et Mac, Expliqué!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/logiciel-de-montage-video-professionnel-movavi-suite-pour-le-marketing-dentreprise/"><u>Logiciel De Montage Vidéo Professionnel : Movavi Suite Pour Le Marketing D'Entreprise</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/nailing-iphone-snaps-top-editing-tricks/"><u>Nailing iPhone Snaps Top Editing Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/online-webm-m4a-web-m3a-mp4/"><u>Online Webm-M4a 전환: 무료 도구를 사용한 쉽고 효율적인 WEB M3A MP4 변환</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/perfect-your-pixels-select-best-10-online-enhancement-apps/"><u>Perfect Your Pixels Select Best 10 Online Enhancement Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scan-et-convertissez-vos-fichiers-mef-facilement-grace-a-la-version-gratuit-donlinescan-par-movavi/"><u>Scan Et Convertissez Vos Fichiers MEF Facilement Grâce À La Version Gratuit D'OnlineScan Par Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/switch-webm-media-to-wma-audio-and-video-seamlessly-use-convertify-for-no-cost-upgrade/"><u>Switch WebM Media to WMA Audio & Video Seamlessly - Use Convertify for No-Cost Upgrade!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astronomy-gurus-the-elite-of-food-vlogs/"><u>[New] Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-peak-performance-with-these-top-8-planning-tools/"><u>[New] Instagram's Peak Performance with These Top 8 Planning Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-discover-8-exceptional-tablets-that-outperform-filmoras-features/"><u>[Updated] Discover 8 Exceptional Tablets That Outperform Filmora's Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726222251707-wmvaac-movavi/"><u>免費移動網站 WMV到AAC 格式 - 使用 Movavi 視頻編解碼器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-efficiency-in-chrome-the-best-8-ai-powered-extensions/"><u>Boosting Efficiency in Chrome: The Best 8 AI Powered Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-an-editorial-assistant/"><u>ChatGPT: An Editorial Assistant?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-using-the-multifunctional-samsung-galaxy-tab-s4/"><u>Comprehensive Guide to Using the Multifunctional Samsung Galaxy Tab S4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-experience-personalized-navigation-and-insights/"><u>Cookiebot-Enhanced: Experience Personalized Navigation and Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-ais-weak-spot-the-art-of-prompt-injection/"><u>Delving Into AI's Weak Spot: The Art of Prompt Injection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-new-soundscape-explore-klipschs-flexus-200/"><u>Discovering the New Soundscape: Explore Klipsch's Flexus 200</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-co-pilot-extension-for-chatgpt-impactful-functionalities/"><u>Exploring the Co-Pilot Extension for ChatGPT: Impactful Functionalities</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-smart-8-plus-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix Smart 8 Plus Without PUK Codes</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-se-2020-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone SE (2020) to iPad | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-digital-marketplace-the-power-of-chatgpt-in-freelance-work/"><u>Navigating the Digital Marketplace: The Power of ChatGPT in Freelance Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-intellectual-property-during-ai-conversations/"><u>Protecting Intellectual Property During AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-fact-checkers-manual-making-sense-of-ai-health-tips/"><u>The Fact-Checker’s Manual: Making Sense of AI Health Tips</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/windows-11-startup-issue-resolved-comprehensive-repair-tutorial/"><u>Windows 11 Startup Issue Resolved: Comprehensive Repair Tutorial</u></a></li>
 </ul></div>
 

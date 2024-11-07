@@ -1,7 +1,7 @@
 ---
 title: "Breakthrough in Bot Talks: Can Claude Outclass GPT?"
-date: 2024-09-14T16:20:18.780Z
-updated: 2024-09-17T16:21:53.493Z
+date: 2024-11-02T21:26:51.217Z
+updated: 2024-11-07T09:51:32.472Z
 tags:
   - chatgpt
   - open-ai
@@ -74,11 +74,25 @@ thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d0319
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Creativity
 
@@ -115,10 +129,10 @@ thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d0319
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
@@ -128,10 +142,10 @@ thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d0319
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
@@ -155,5 +169,23 @@ thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d0319
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-sounding-superior-a-guide-to-altering-voice-on-reels-and-stories/"><u>[Updated] 2024 Approved Sounding Superior A Guide to Altering Voice on Reels & Stories</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-effortlessly-enhance-photos-how-to-remove-backgrounds-quickly-for-2024/"><u>[Updated] Effortlessly Enhance Photos How to Remove Backgrounds Quickly for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-quadcopter-power-5-premium-engine-choices/"><u>2024 Approved Mastering Quadcopter Power 5 Premium Engine Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-computer-showdown-in-depth-review-of-leading-brands-like-apple-and-dell-on-zdnet/"><u>2024'S Ultimate Computer Showdown: In-Depth Review of Leading Brands Like Apple and Dell on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-data-exposure-risks-with-chatgpt/"><u>Assessing Data Exposure Risks with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-an-ipad-pro-and-macbook-air-a-detailed-comparison-for-your-perfect-device/"><u>Choosing Between an iPad Pro and MacBook Air: A Detailed Comparison for Your Perfect Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-insights-why-blind-trust-in-ai-isnt-wise/"><u>Critical Insights: Why Blind Trust in AI Isn't Wise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-elite-ears-how-pixel-buds-pro-stack-up-against-galaxy-buds-pro-and-airpods-pro-on-zdnet/"><u>Evaluating Elite Ears: How Pixel Buds Pro Stack Up Against Galaxy Buds ² Pro and AirPods Pro on ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-oppo-a78-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Oppo A78 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-v29-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-imovies-default-crop-settings/"><u>In 2024, Exploring iMovie's Default Crop Settings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/filmed-brilliance-secrets-for-youtube-success-for-2024/"><u>Self-Filmed Brilliance Secrets for YouTube Success for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-wastelands-ii-directors-cut-gaming-review-an-engrossing-tactical-adventure/"><u>The Wastelands II - Director's Cut Gaming Review: An Engrossing Tactical Adventure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-ideal-ipad-pro-case-in-2n4-in-depth-analysis-and-ratings/"><u>Ultimate Guide to Choosing the Ideal iPad Pro Case in 2N4: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unleash-the-potential-effective-pip-use-on-microsoft-edge-browser/"><u>Unleash the Potential Effective PIP Use on Microsoft Edge Browser</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-hidden-in-built-iot-control-center-is-your-mac-or-ipad-equipped-with-it/"><u>Unveiling the Hidden In-Built IoT Control Center: Is Your Mac or iPad Equipped with It?</u></a></li>
+</ul></div>
 

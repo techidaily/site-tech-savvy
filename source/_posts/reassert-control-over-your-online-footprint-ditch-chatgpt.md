@@ -1,7 +1,7 @@
 ---
 title: Reassert Control Over Your Online Footprint - Ditch ChatGPT
-date: 2024-09-13T16:29:48.380Z
-updated: 2024-09-17T16:30:23.722Z
+date: 2024-11-03T08:36:07.021Z
+updated: 2024-11-06T20:37:46.217Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT's Chat History and Training Feature?
 
  When you sign up for a ChatGPT account (be it the free or premium version), ChatGPT saves your chat history and uses your chat data for future training by default.
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
  While OpenAI doesn't claim to do anything nefarious with your chat data, the [OpenAI FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) states your chats "may be reviewed by \[its\] AI trainers to improve \[its\] systems." OpenAI can use your conversations at its discretion, feeding them to its [large language model (LLM)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) in the training process.
 
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
@@ -64,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In your settings, click on the **Data controls** option. Now, you'll see a setting named **Chat history & training**. This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
 
  ChatGPT lets you turn the feature back on by clicking the **Enable chat history** option that appears over your history list, but this will re-enable both your chat history and the chat data collection for training.
@@ -71,22 +92,21 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
 
@@ -113,5 +133,22 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/esigning-youtube-ads-that-grab-attention-a-compreeher-guide-for-2024/"><u>[New] Designing Youtube Ads That Grab Attention A Compreeher Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-curious-case-of-instavideos-turned-sideways/"><u>[New] The Curious Case of InstaVideos Turned Sideways</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capture-the-scene-without-breaking-the-bank-with-free-tools-for-2024/"><u>[Updated] Capture the Scene without Breaking the Bank with Free Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-best-webcam-accessories-top-10-secure-solutions/"><u>[Updated] In 2024, Best Webcam Accessories Top 10 Secure Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-gecata-watchers-complete-appraisal/"><u>[Updated] In 2024, GECATA Watcher's Complete Appraisal</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-visual-warmth-in-winter-selecting-the-best-bgs-for-2024/"><u>[Updated] Visual Warmth in Winter Selecting the Best Bgs for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-infused-inspiration-5-groundbreaking-writing-tools/"><u>AI-Infused Inspiration: 5 Groundbreaking Writing Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-original-ai-images-with-microsofts-copilot-toolkit/"><u>Creating Original AI Images with Microsoft's Copilot Toolkit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-the-elite-selection-of-2024s-top-airtag-add-ons-and-enhancements-zdnet-reviews/"><u>Expert Picks: The Elite Selection of 2024'S Top AirTag Add-Ons and Enhancements | ZDNET Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-sites-with-intelligent-indexing-tools/"><u>Future Sites with Intelligent Indexing Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-assess-if-your-iphone-fits-in-upgrade-echelons/"><u>How to Assess if Your iPhone Fits in Upgrade Echelons</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-honor-magic-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Honor Magic 5 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-slide-show-collections-10-places-to-download-high-quality-designs/"><u>In 2024, Top Slide Show Collections 10 Places to Download High-Quality Designs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-the-past-archive-your-chatgpt-conversations/"><u>Keeping the Past: Archive Your ChatGPT Conversations</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-lava-blaze-2-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Lava Blaze 2</u></a></li>
+</ul></div>
 

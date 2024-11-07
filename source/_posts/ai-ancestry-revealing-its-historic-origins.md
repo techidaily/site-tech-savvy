@@ -1,7 +1,7 @@
 ---
 title: "AI Ancestry: Revealing Its Historic Origins"
-date: 2024-09-16T16:29:18.883Z
-updated: 2024-09-17T16:01:03.245Z
+date: 2024-11-05T10:37:34.174Z
+updated: 2024-11-07T01:53:03.710Z
 tags:
   - chatgpt
   - open-ai
@@ -41,9 +41,23 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
  Although the first period looking at the roots of AI covers a vast period, there are some key moments.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1900-1950: The Dawn of Modern AI
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Technological developments accelerated during this period. The accessibility of IT resources enabled researchers to materialize theories, imagined concepts, and speculations. They were laying the foundation for cybernetics.
 
@@ -53,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 * **1950:** Alan Turing formally published the Turing Test. It's one of the earliest and most widely used interrogation methods for [testing the accuracy of AI systems](https://www.makeuseof.com/test-factors-ai-chatbots-accuracy/).
 
  The dawn of modern AI fitting accumulates with Alan Turing's paper and the [Turing Test, which attempts to answer the question](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/), "Can machines think?"
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1951-2000: Exploring the Applications of AI Technologies
 
@@ -71,13 +92,6 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 ## 2001-2010: Integrating AI Into Modern Technologies
 
 ![The Black First Generation iPhone on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/original-iphone-first-gen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone%5FFirst%5FGeneration%5F8GB%5F%283680455198%29.jpg)
 
@@ -105,22 +119,15 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
  During this period, consumers were likely to use AI applications without even realizing it, even though visual and voice recognition tools (for most consumers) were still young. Towards the end of the decade, AI development kicked up a notch, but still not as dramatically as what was to come.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2021-Present: Global Tech Leaders Kick off the Great AI Race
 
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The great AI race has begun. Developers are releasing language models, and companies are researching ways to integrate AI with their products. At this rate, almost every consumer product will have an AI component.
@@ -153,5 +160,23 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-elite-battle-a-compilation-of-superior-fps-games/"><u>[New] Elite Battle A Compilation of Superior FPS Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-financial-scale-one-million-youtube-viewers-pay/"><u>[Updated] The Financial Scale One Million YouTube Viewers' Pay</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-google-pixel-fold-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Google Pixel Fold? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/backup-blueprint-maintaining-and-moving-gpt-conversations/"><u>Backup Blueprint: Maintaining and Moving GPT Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-iphone-13-and-15-pro-top-alternatives-to-consider-after-apples-discontinuation/"><u>Beyond the iPhone 13 & 15 Pro: Top Alternatives to Consider After Apple's Discontinuation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-engaging-interactive-experienenas-with-chatgpt-integration/"><u>Creating Engaging Interactive Experienenas With ChatGPT Integration</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-techniques-to-improve-focal-depth-in-online-platforms/"><u>In 2024, Techniques to Improve Focal Depth in Online Platforms</u></a></li>
+<li><a href="https://solve-news.techidaily.com/seamless-transformation-of-mxf-files-into-avi-format-simple-methods-unveiled/"><u>Seamless Transformation of MXF Files Into AVI Format – Simple Methods Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/side-hustle-scouting-is-chatgpt-a-smart-investment/"><u>Side Hustle Scouting: Is ChatGPT a Smart Investment?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-ai-capabilities-apple-must-develop-to-challenge-openai-and-google-insights/"><u>Top 10 AI Capabilities Apple Must Develop to Challenge OpenAI & Google: Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tier-business-tablet-unmatched-by-microsoft-and-lenovo-insider-review-revealed-on-zdnet/"><u>Top-Tier Business Tablet Unmatched by Microsoft and Lenovo: Insider Review Revealed on ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-preventing-warno-from-crashing-on-windows-and-mac/"><u>Troubleshooting Steps for Preventing Warno From Crashing on Windows and Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-googles-artificial-intelligence-project-the-gemini-pursuit/"><u>Understanding Google's Artificial Intelligence Project - The Gemini Pursuit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionaries-converge-globally-minded-perspectives-on-ai/"><u>Visionaries Converge: Globally-Minded Perspectives on AI</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Directing Tech Titans Towards a Coordinated Future
-date: 2024-09-15T16:05:30.162Z
-updated: 2024-09-17T16:12:25.327Z
+date: 2024-10-31T22:48:44.837Z
+updated: 2024-11-06T21:15:34.104Z
 tags:
   - chatgpt
   - open-ai
@@ -40,15 +40,36 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
 
  If an AI system were to surpass human intelligence without the proper safeguards, the result could be catastrophic. Such systems could assume control of physical resources as many tasks are achieved better or more efficiently. Since AI systems are designed to achieve maximum efficiency, losing control could lead to severe consequences.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Does the AI Control Problem Apply?
 
  The main problem is that the better an AI system gets, the harder it is for a human supervisor to monitor the technology to ensure manual control can be taken over easily should the system fail. Additionally, the human tendency to rely on an automated system is higher when the system performs reliably most of the time.
 
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A great example of this is the [Tesla Full-Self Driving (FSD) suite](https://www.makeuseof.com/what-is-tesla-fsd-how-does-it-work/). While the car can drive itself, it requires a human to have their hands on the steering wheel, ready to take control of the car should the system malfunction. However, as these AI systems get more reliable, even the most alert human's attention will begin to vary, and dependency on the autonomous system will increase.
 
  So what happens when cars start driving at speeds humans can't keep up with? We'll end up surrendering control to the car's autonomous systems, meaning an AI system will be in control of your life, at least until you reach your destination.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can the AI Control Problem Be Solved?
 
@@ -63,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
  The DCAF approach always puts a human operator at the helm of an automated system, ensuring that their input controls the most important parts of the system's decision-making process. If a system is engaging enough for a human operator to pay attention constantly, the control problem can be solved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can We Ever Truly Control AI?
@@ -92,5 +113,21 @@ thumbnail: https://thmb.techidaily.com/13161d4780beb13fc4b02e6aea02c1375d88cd123
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-audio-pioneers-the-power-of-crossfading/"><u>[New] Audio Pioneers The Power of Crossfading</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-beyond-playfulness-a-closer-look-at-snapchats-emojis-for-2024/"><u>[New] Beyond Playfulness A Closer Look at Snapchat's Emojis for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-key-elements-in-constructing-a-podcast-rss-feed/"><u>[Updated] Key Elements in Constructing a Podcast RSS Feed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-integrated-camera-use-photos-and-videos-on-one-phone/"><u>2024 Approved Integrated Camera Use Photos and Videos on One Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ascend-in-your-job-role-top-5-tactics-to-secure-a-promotion-and-boost-career-growth-expert-advice-from-zdnet/"><u>Ascend in Your Job Role: Top 5 Tactics to Secure a Promotion and Boost Career Growth | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-an-impressive-tech-resume-tips-from-the-pros-at-zdnet/"><u>Crafting an Impressive Tech Resume: Tips From the Pros at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/impending-scarcity-of-skilled-programmers-warnings-by-top-salesforce-official-echoed-across-silicon-valley-zdnets-deep-dive/"><u>Impending Scarcity of Skilled Programmers, Warnings by Top Salesforce Official Echoed Across Silicon Valley - ZDNet's Deep Dive</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/landing-your-first-tech-role-without-previous-industry-experience-a-guide/"><u>Landing Your First Tech Role Without Previous Industry Experience: A Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-unspoken-discover-key-non-technical-competencies-needed-in-it-roles-as-revealed-by-zdnet/"><u>Mastering the Unspoken: Discover Key Non-Technical Competencies Needed in IT Roles as Revealed by ZDNet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-is-vn-video-editor-pro-worth-the-download-a-comprehensive-review/"><u>New 2024 Approved Is VN Video Editor Pro Worth the Download? A Comprehensive Review</u></a></li>
+<li><a href="https://discover-community.techidaily.com/rechtzeitig-beheben-von-problemen-mit-dem-papierkorbruckentransporter-in-windows-11/"><u>Rechtzeitig Beheben Von Problemen Mit Dem Papierkorbrückentransporter in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-flex-work-arrangements-and-enhanced-perks-mastering-the-art-of-negotiation-with-your-manager-insights-from-zdnet/"><u>Secure Flex Work Arrangements & Enhanced Perks: Mastering the Art of Negotiation with Your Manager - Insights From ZDNet</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tackle-the-drag-essential-fixes-for-eliminating-stutter-in-forza-horizon-5-gaming/"><u>Tackle the Drag: Essential Fixes for Eliminating Stutter in Forza Horizon 5 Gaming</u></a></li>
+</ul></div>
 

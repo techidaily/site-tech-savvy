@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT via Bash: A Guide to ShellGPT"
-date: 2024-09-13T16:00:56.830Z
-updated: 2024-09-17T16:00:16.719Z
+date: 2024-10-31T18:26:21.971Z
+updated: 2024-11-07T06:31:23.429Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
  Before installing ShellGPT on your Ubuntu machine, here are a few prerequisites to take care of.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 1: Install Python and PIP on Your Machine
 
  Like most artificial intelligence-enabled tools, even ShellGPT runs on Python. While Python is usually installed by default on most Linux distros, you can check its installation via its version information. If Python isn’t available on your machine, you must install it before moving on to the next steps.
@@ -70,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 `sudo apt install python3-pip`
 
 ![Ubuntu terminal window with code snippets with installation codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-pip-on-ubuntu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After installation, you can again use the **\--version** command to check if the installation was successful.
 
@@ -123,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 
 ![OpenAI website interface showing a drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-api-keys-on-openai-website.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Do not share this key with anyone since the connection is private and should be used on your machine only.
 
  Copy the API key from the dialog box, and save it somewhere, since you won't be able to review the same key again.
@@ -141,10 +148,10 @@ thumbnail: https://thmb.techidaily.com/b461869fdc65b7a58affdd23329a3336b55cdb42a
 `export OPENAI_API_KEY=<paste key details here>`
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add and Verify the API Key Into a Virtual Environment Variable
@@ -158,6 +165,13 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![Ubuntu terminal window with code snippets to create and save an environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-an-environment-variable-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Save and exit the editor. Then, use the source command to enable the changes.
 
 `source ./bashrc`
@@ -170,6 +184,13 @@ export OPENAI_API_KEY=<paste key details here>`
 
  Your **OPENAI\_API\_KEY** environment variable should be listed in the output.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 5: Install ShellGPT on Ubuntu
 
  Once all the installation formalities are complete, you can simply move on to the best part, the ShellGPT installation. The installation steps are quite straightforward, and you can install the tool with the following command:
@@ -177,19 +198,6 @@ export OPENAI_API_KEY=<paste key details here>`
 `pip3 install shell-gpt`
 
 ![Installation snippet on ubuntu's terminal screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-shell-gpt-on-ubuntu.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Let the installation finish; meanwhile, you can check out some interesting ways to use the AI tool via your terminal window.
 
@@ -202,10 +210,10 @@ export OPENAI_API_KEY=<paste key details here>`
 ![Ubuntu terminal interface with a query response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-query-reponse.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using ShellGPT for Generating Code
@@ -216,14 +224,20 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-code-reponse.jpg)
 
- The output consists of code you can execute within Python to generate the Fibonacci series.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The output consists of code you can execute within Python to generate the Fibonacci series.
 
 ## Using ShellGPT Within Ubuntu’s Terminal
 
@@ -250,5 +264,24 @@ export OPENAI_API_KEY=<paste key details here>`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-zero-price-screen-recording-easy-on-pc-and-mac/"><u>[New] In 2024, Zero Price Screen Recording - Easy on PC & Mac</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-rise-to-prominence-6-game-changing-approaches-for-instagram-verification-and-fan-increase/"><u>[Updated] Rise to Prominence 6 Game-Changing Approaches for Instagram Verification & Fan Increase</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-solving-obs-high-bitrate-issues/"><u>[Updated] Solving OBS High Bitrate Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-raises-the-bar-new-ryzen-processors-launching-ryzen-9-5900xt-and-ryzen-7-5800xt-available-for-349249-offering-more-for-less-than-the-earlier-ryzen-5000.34/"><u>AMD Raises The Bar: New Ryzen Processors Launching – Ryzen 9 5900XT and Ryzen 7 5800XT Available for $349/$249, Offering More For Less Than the Earlier Ryzen 5000</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/budget-friendly-sonic-upgrades-for-your-home-theater-expert-picks-and-reviews-at-gadgetguru/"><u>Budget-Friendly Sonic Upgrades for Your Home Theater : Expert Picks & Reviews at GadgetGuru</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-sonic-prowess-how-apples-homepod-outperforms-the-compact-homepod-mini-zdnet-review/"><u>Comparing Sonic Prowess: How Apple's HomePod Outperforms the Compact HomePod Mini | ZDNet Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-wireless-sound-for-less-than-a-hundred-dollars-recommended-speakers-list-from-zdnet/"><u>Discover the Ultimate Wireless Sound for Less than a Hundred Dollars - Recommended Speakers List From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-why-the-amazon-echo-show-8-leads-as-top-smart-home-device/"><u>Evaluating Why the Amazon Echo Show 8 Leads as Top Smart Home Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-anthropics-claude-is-revolutionizing-amazons-alexa-experience-insights-by-zdnet/"><u>How Anthropic's Claude Is Revolutionizing Amazon's Alexa Experience – Insights by ZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-mastering-the-mix-adding-cropping-and-adjusting-audio-in-canva/"><u>In 2024, Mastering the Mix Adding, Cropping & Adjusting Audio in Canva</u></a></li>
+<li><a href="https://win11.techidaily.com/meet-the-new-wave-exciting-laptops-from-ifa-2023/"><u>Meet the New Wave - Exciting Laptops From IFA 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smart-strategies-showcase-ranking-best-trivia-video-streams-for-2024/"><u>Smart Strategies Showcase Ranking Best Trivia Video Streams for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unbelievable-shift-why-i-traded-up-for-a-jbl-and-left-my-high-end-soundbar-in-the-dust-zdnet/"><u>The Unbelievable Shift: Why I Traded Up for a JBL and Left My High-End Soundbar in the Dust | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ideal-presents-for-the-unsure-shopper-a-guide-zdnet/"><u>Top Ideal Presents for the Unsure Shopper: A Guide | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tips-and-essentials-for-an-unforgettable-labor-day-bash-insights-from-zdnet/"><u>Top Tips and Essentials for an Unforgettable Labor Day Bash: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-claude-3-functions-and-uses/"><u>Understanding Claude 3: Functions and Uses</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveil-if-your-pc-is-prepared-for-the-upcoming-os/"><u>Unveil If Your PC Is Prepared for the Upcoming OS</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Innovative Bot Comparison: Standardized Creative Challenge"
-date: 2024-10-27T16:46:24.506Z
-updated: 2024-11-01T16:42:36.730Z
+date: 2024-11-04T04:50:59.364Z
+updated: 2024-11-07T10:38:10.594Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
 
  ChatGPT, Google Gemini, and Microsoft Copilot—three popular chatbots with different capabilities. As useful as they are in everyday tasks, how would they perform with creative prompts for content like songs, short stories, and imaginative social media bios? Here are the experiment’s details and results.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How I Tested Three Popular Chatbots With Creative Prompts
 
  The methodology was simple. I composed a straightforward prompt for each type of creative content I wanted. Then I fed each prompt to a selection of [the best AI chatbots](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) , namely ChatGPT, Google Gemini, and Microsoft Copilot.
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
 
 ![Microsoft Copilot Writing a New Song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-new-song.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Google Gemini had the fastest response time and went for a similar approach as Copilot—mixing both themes equally. But some of its imagery was strange and made little sense.
 
  ChatGPT wrote the longest song and used interesting lyrics, but the koala theme barely existed, especially when compared to what the other chatbots came up with. It also struggled to complete the song.
@@ -68,20 +82,19 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
 ![ChatGPT Writes a Poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writes-a-poem.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Copilot and Gemini were both less effective than ChatGPT in all these regards. However, you may find that results vary depending on the type of poem and the instructions you give each chatbot. Make a note of the many available [tips and tricks for better AI prompting](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Short Stories?
 
@@ -95,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
 
  Copilot’s writing style was smooth and accurate, but the story the chatbot automatically went for was boring, cliché even. Overall, there are better [AI story generators for serious writers](https://www.makeuseof.com/best-ai-story-generators/) who need some extra help.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Chatbot Did Best With Scripts?
 
  Instead of asking for a whole script, I gave the chatbots the same prompt for a single scene containing a few specific elements. This was their task: “Write a short scene for a play script where two characters (Tom and Alice) argue about whether a shirt they found in a store is blue or green.”
@@ -114,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
 
  An extra downside to ChatGPT was that one side of the script was cut off and unreadable. When I pointed out the problem, instead of offering a solution, the chatbot produced the exact same text with the same issue. One way to deal with this is to copy the script and paste it into a document, where you can read the scene in full.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Chatbot Did Best With Social Media Bios?
 
  It’s true that you can [improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) , but you may be looking to develop a social media presence that’s more creative and less formal. While all three chatbots can help with that, one goes the extra mile.
@@ -130,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
  Copilot provided the most options in terms of effective and imaginative phrases alongside emojis and hashtags. You could pick and choose what you wanted for your bio and tweak it further to perfectly reflect your identity.
 
 ![Microsoft Copilot Writing a Social Media Bio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-social-media-bio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT was more precise with its response. Two lines of useful mottos, emojis, hashtags, and a call to action. Asking for other suggestions is always on the table, but Copilot offered more from its initial response.
 
@@ -154,14 +160,20 @@ thumbnail: https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/conceptual-flowchart-mindmaps-meet-chatai/"><u>Conceptual Flowchart: Mindmaps Meet ChatAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-risk-free-exercise-strategies-with-ai/"><u>Crafting Risk-Free Exercise Strategies with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-dialogues-unveiling-truth-about-ai-bot-capabilities/"><u>Dissecting Dialogues: Unveiling Truth About AI Bot Capabilities</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/empowering-android-with-the-advanced-ai-features-of-bing/"><u>Empowering Android with the Advanced AI Features of Bing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/lent-tools-to-save-live-feeds-from-youtube-vids-for-2024/"><u>Excellent Tools to Save Live Feeds From YouTube Vids for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-video-showdown-determining-the-best-among-obs-and-twitch-hubs/"><u>In 2024, Video Showdown Determining the Best Among OBS and Twitch Hubs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-8-chromium-enhancers-powered-by-artificial-intelligence/"><u>Top 8 Chromium Enhancers Powered by Artificial Intelligence</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-why-your-ipad-refuses-to-print/"><u>Troubleshooting: Why Your iPad Refuses to Print</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-be-unique-in-conversation-customized-whatsapp-tones-for-ios-android-users/"><u>[New] Be Unique in Conversation Customized WhatsApp Tones for iOS, Android Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-visual-effects-a-detailed-kinemaster-green-screen-tutorial/"><u>[New] Mastering Visual Effects A Detailed Kinemaster Green Screen Tutorial</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unlocking-potential-your-guide-to-effective-improvements/"><u>[Updated] Unlocking Potential Your Guide to Effective Improvements</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-x-flip-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo X Flip</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-next-phase-brings-heightened-security-threats/"><u>AI's Next Phase Brings Heightened Security Threats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-a-better-gpt-with-custom-alterations/"><u>Crafting a Better GPT with Custom Alterations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-links-to-geforce-gtx-(span-stylecolor3b75f2)download-drivers-for-windows-systems(span)/"><u>Direct Links to GeForce GTX <Span Style=color:#3B75F2;>Download Drivers for Windows Systems</Span></u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-solopreneurs-with-ai-chatgpts-six-step-plan/"><u>Empowering Solopreneurs with AI: ChatGPT's Six-Step Plan</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/677981-9789814346047-feng-shui-in-chinese-architecture/"><u>Feng Shui in Chinese Architecture | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-reno-10-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo Reno 10 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-image-format-change-with-dall-e-webp-output/"><u>Mastering Image Format Change with DALL-E WebP Output</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shielding-from-silicon-scribes-recognizing-pseudo-writings/"><u>Shielding From Silicon Scribes: Recognizing Pseudo-Writings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truth-in-ai-is-chatgpt-reliable/"><u>Truth in AI: Is ChatGPT Reliable?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/vkontakte-profile-picture-info-pixel-count-codec-time-for-2024/"><u>VKontakte Profile Picture Info Pixel Count, Codec, Time for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Essential AI Enhancements: The Top Four iOS Upgrades Needed for iPhones to Compete With Android Devices - Insights From ZDNet"
-date: 2024-10-26T16:36:58.144Z
-updated: 2024-11-01T17:37:02.705Z
+date: 2024-11-04T01:00:18.397Z
+updated: 2024-11-06T19:49:49.408Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -74,13 +74,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -100,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -113,13 +113,6 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -141,6 +134,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,16 +218,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-film-for-a-friendly-fb-coverspace/"><u>[New] 2024 Approved Film for a Friendly FB Coverspace</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-explore-creativity-the-top-8-iphone-drawing-apps-uncovered-for-2024/"><u>[New] Explore Creativity The Top 8 iPhone Drawing Apps Uncovered for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-revolutionizing-smartphone-photography-iphone-xs-features-explored-for-2024/"><u>[Updated] Revolutionizing Smartphone Photography IPhone X's Features Explored for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-your-creative-catalyst-for-poetic-works/"><u>ChatGPT as Your Creative Catalyst for Poetic Works</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722167295274-chatgpt-unleashed-still-6-strengths-of-selecting-plus-endure/"><u>ChatGPT Unleashed; Still, 6 Strengths of Selecting Plus Endure.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatterbot-security-staying-one-step-ahead/"><u>Chatterbot Security: Staying One Step Ahead</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-unique-chat-experiences/"><u>Craft Unique Chat Experiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-syntax-giants-unveiling-gpt-and-bert-distinctions/"><u>Dissecting Syntax Giants: Unveiling GPT & BERT Distinctions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/enhancing-campaign-performance-with-targeted-hash-tags-for-fb-ads-for-2024/"><u>Enhancing Campaign Performance with Targeted Hash Tags for FB Ads for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/virtual-quests-engaging-with-chatgpt-as-a-game-master/"><u>Virtual Quests: Engaging with ChatGPT as a Game Master</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-next-level-screenshots-review-of-apowersofts-pc-recorder/"><u>[New] 2024 Approved Next-Level Screenshots Review of Apowersoft's PC Recorder</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-top-10-hd-blu-ray-devices/"><u>[New] 2024 Approved Top 10 HD Blu-Ray Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-list-of-influential-biz-channels-online/"><u>[Updated] 2024 Approved The Ultimate List of Influential Biz Channels Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-innovative-mac-screen-capture-methods-and-software/"><u>[Updated] In 2024, Innovative Mac Screen Capture Methods & Software</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-performance-with-msi-upgrades-in-older-windows-platforms/"><u>Boost Performance with MSI Upgrades in Older Windows Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-stellar-presentations-with-the-power-of-chatgpt-ai/"><u>Crafting Stellar Presentations with the Power of ChatGPT AI</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/persistent-password-problems-why-we-keep-reusing-compromised-passwords-despite-risks/"><u>Persistent Password Problems: Why We Keep Reusing Compromised Passwords Despite Risks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-path-to-a-liberated-chat-experience-on-win/"><u>The Path to a Liberated Chat Experience on Win</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-shielded-canvas-leveraging-nightshade-for-authentic-artwork-defense/"><u>The Shielded Canvas: Leveraging Nightshade for Authentic Artwork Defense</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-a-non-functional-front-panel-audio-jack/"><u>Troubleshooting and Fixing a Non-Functional Front Panel Audio Jack</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trustworthy-techniques-for-apple-ai-app-discovery/"><u>Trustworthy Techniques for Apple AI App Discovery</u></a></li>
 </ul></div>
 

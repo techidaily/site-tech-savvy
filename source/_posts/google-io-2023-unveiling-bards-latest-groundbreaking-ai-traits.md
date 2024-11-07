@@ -1,7 +1,7 @@
 ---
 title: "Google I/O 2023: Unveiling Bard's Latest, Groundbreaking AI Traits"
-date: 2024-09-14T16:23:31.871Z
-updated: 2024-09-17T16:01:06.440Z
+date: 2024-11-02T22:20:50.128Z
+updated: 2024-11-06T23:04:24.064Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Dark Theme
 
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
@@ -43,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/cce90de001854095939cd22c7e555d9393bc0bdf8
  This is one of the most significant Bard AI announcements since the chatbot itself was announced. Let's face it; Bard AI isn't as good as its competitors. We did a bit of a [ChatGPT vs. Bing AI vs. Bard AI test](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/), and Bard didn't impress. There are a lot of shortfalls we could talk about, but that's a discussion for another day. The good news, however, is that a bulk of those shortfalls could be fixed by opening up Bard to third-party services and other Google products.
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Image Prompting
 
@@ -65,6 +65,13 @@ Image Credit: [Google](https://blog.google/technology/ai/google-bard-updates-io-
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image Credit: [Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
  If you can't [generate images with Midjourney's](https://www.makeuseof.com/how-to-use-midjourney-create-ai-art/) free tier anymore (or more like being force-fed the paid tier), there's hope yet. Bard AI will soon be able to generate images from the Bard AI interface courtesy of Adobe Firefly. If you're unfamiliar with Adobe Firefly, here's a quick [explainer on Adobe Firefly and what you can do with it](https://www.makeuseof.com/what-is-adobe-firefly-generative-ai/).
@@ -76,15 +83,22 @@ Image Credit: [Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One thing missing from most [AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
  Google is solving this by making content generated by Bard AI cross-compatible with some of its workspace tools like Google Sheets and Docs. So, if you generate data in a tabular format on Bard, you can export it to Sheets, where you can invite your family, friends, or colleagues to collaborate.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Improved Code Generation
 
@@ -93,13 +107,6 @@ Image Credit: [Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like [ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google's AI Endgame Is Gemini
 
@@ -124,5 +131,24 @@ Image Credit: [Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-scaling-your-channel-a-guide-to-increased-viewership-and-followers/"><u>[New] 2024 Approved Scaling Your Channel A Guide to Increased Viewership and Followers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elevate-engagement-posting-youtube-video-on-fb/"><u>[New] Elevate Engagement Posting YouTube Video on FB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-connoisseurs-challenge-pick-the-prime-language-model/"><u>AI Connoisseurs' Challenge: Pick the Prime Language Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-mobile-gems-real-life-testimonials-editors-on-their-favorite-smartphones/"><u>Discover the Mobile Gems: Real-Life Testimonials Editors on Their Favorite Smartphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eclipsing-competitors-5-drives-behind-gpts-meteoric-rise/"><u>Eclipsing Competitors: 5 Drives Behind GPT's Meteoric Rise</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/high-quality-harmony-premier-devices-s-music-lovers/"><u>High-Quality Harmony: Premier Devices 'S Music Lovers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nokia-c110-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nokia C110 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-tips-for-superior-sound-recordings-without-a-microphone/"><u>In 2024, Tips for Superior Sound Recordings Without a Microphone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-174-update-brings-podcast-transcript-features-latest-emoji-additions-and-major-modifications-to-the-european-apple-app-store-tech-news/"><u>IOS 17.4 Update Brings Podcast Transcript Features, Latest Emoji Additions & Major Modifications to the European Apple App Store | Tech News</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-the-art-of-aspect-ratios-on-youtube-videosshortsads/"><u>Mastering the Art of Aspect Ratios on YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/satellite-enabled-emergency-messaging-on-the-revolutionary-new-google-pixel-9-a-game-changer-in-crisis-communications/"><u>Satellite-Enabled Emergency Messaging on the Revolutionary New Google Pixel 9: A Game-Changer in Crisis Communications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-for-correcting-windows-cannot-install-updates-error-0x80248007-in-windows-11/"><u>Step-by-Step Solution for Correcting 'Windows Cannot Install Updates' Error (0X80248007) in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-three-chatbots-face-off-gpt-microsofts-ai-and-googles-bard/"><u>Top Three Chatbots Face-Off: GPT, Microsoft's AI & Google's Bard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-career-with-these-6-compelling-facts-about-chatgpt/"><u>Transform Your Career with These 6 Compelling Facts About ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transition-from-finewoven-to-beats-how-apple-revamps-accessories-lineup-for-enhanced-audio-experience-cnet/"><u>Transition From FineWoven to Beats: How Apple Revamps Accessories Lineup for Enhanced Audio Experience | CNET</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-13-mini-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 13 mini to iPhone | Dr.fone</u></a></li>
+</ul></div>
 

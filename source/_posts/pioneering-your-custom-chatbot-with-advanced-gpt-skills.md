@@ -1,7 +1,7 @@
 ---
 title: Pioneering Your Custom ChatBot with Advanced GPT Skills
-date: 2024-10-26T16:43:52.521Z
-updated: 2024-11-01T16:05:13.794Z
+date: 2024-11-03T23:17:15.783Z
+updated: 2024-11-07T04:01:10.185Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can manually change the image, name, description, and instructions for your GPT by clicking **Configure**. Click the profile picture to change it, and edit the details in the **Name** **Description** and **Instructions** fields to change them without typing prompts.
 
 ## 3\. Establish a Tone and Rules for Your GPT
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
  At this stage, your GPT wants to know how it should address users. Direct it to the tone and style you want it to adopt. Here, we said, "5e Dungeon Master should use a wise, sagely tone. Use language and style commonly used in high-fantasy settings," which fits quite nicely into the fantasy nature of D&D.
 
 ![GPT Builder setting the tone and language for The 5e Dungeon Master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-builder-setting-the-tone-and-language-for-the-5e-dungeon-master-gpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  But, of course, if you are making a more professional GPT, ensure it uses professional language.
 
@@ -69,19 +83,19 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 ![GPT Dungeon Master giving information on how to build a character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-dungeon-master-giving-information-on-how-to-build-a-character.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you find that it's not fulfilling your instructions as well as you want, go back to the **Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Upload Files as a Knowledge Base
@@ -113,26 +127,6 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 2. Toggle **Web Browsing**, **DALL-E Image Generation**, and **Code Interpreter** on or off.  
 ![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add APIs for Third-Party Services
 
  For those interested in using APIs to access other third-party services in their GPTs, you'll be happy to know that it's possible.
@@ -142,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 3. Copy and paste your OpenAPI schema into the input box.
 4. **Optional:** Scroll down and enter an authentication method and privacy policy.
 5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go back when you're finished.
 
@@ -165,13 +152,20 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 3. Click the **X** next to a conversation starter block to remove it.  
 ![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can add more conversation starters as required.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Save and Publish Your GPT
@@ -209,20 +203,22 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fb-video-download-top-5-tools-list/"><u>2024 Approved FB Video Download Top 5 Tools List</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-framefinder-pro-a-treasure-trove-for-every-twitterscape-enthusiast/"><u>2024 Approved FrameFinder Pro A Treasure Trove for Every Twitterscape Enthusiast</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-immersive-experience-creating-rich-skype-recordings-using-obs/"><u>2024 Approved Immersive Experience Creating Rich Skype Recordings Using OBS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726226654272-mp4-m4a-movavi/"><u>無限制網路使用：從 MP4 改變成 M4A - 使用 Movavi 流動解決方案</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/como-convertir-archivos-arw-a-imagenes-jpeg-sin-coste-adicional-con-herramientas-online-guia-completa-de-movavi/"><u>Cómo Convertir Archivos .ARW a Imágenes JPEG Sin Coste Adicional Con Herramientas Online - Guía Completa De Movavi</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/efficient-file-transfers-5-methods-for-pc-for-2024/"><u>Efficient File Transfers 5 Methods for PC for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-conversion-of-3g2-files-to-mp4-format-effortless-by-movavi/"><u>Free Conversion of 3G2 Files to MP4 Format - Effortless by Movavi</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-breaking-code-seeing-covert-user-reactions/"><u>In 2024, Breaking Code Seeing Covert User Reactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/legalidad-de-grabaciones-no-autorizadas-que-puedes-esperar-si-grabas-a-alguien-sin-permiso/"><u>Legalidad De Grabaciones No Autorizadas: ¿Qué Puedes Esperar Si Grabas a Alguien Sin Permiso?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/linguistic-inputs-utilize-no-fee-required-for-2024/"><u>Linguistic Inputs, Utilize No Fee Required for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-voor-mac-professioneel-video-producerend-gebruikershandboek/"><u>Movavi Voor Mac: Professioneel Video-Producerend Gebruikershandboek</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/retrieving-lost-actions-from-winrunhist/"><u>Retrieving Lost Actions From WinRunHist</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swf-mp4-movavi/"><u>SWF 파일을 MP4로 원할 수 있는 인터넷에서 비용 부여 무료 변환 도구 - Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/team-fortress-2-crisis-understanding-and-correcting-repeated-system-failures/"><u>Team Fortress 2 Crisis: Understanding and Correcting Repeated System Failures</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/two-effective-methods-for-moving-your-windows-10-installation-from-one-ssd-to-a-new-one/"><u>Two Effective Methods for Moving Your Windows 10 Installation From One SSD to a New One</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oosting-youtube-traffic-outsmarting-automated-viewers/"><u>[New] Boosting YouTube Traffic Outsmarting Automated Viewers</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-13-pro-max-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 13 Pro Max Activity | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieving-wellness-milestones-with-ai-guidance/"><u>Achieving Wellness Milestones with AI Guidance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-game-crashes-8-must-know-fixes-for-a-flawless-playthrough-of-guardians-of-the-galaxy-pc-edition/"><u>Avoid Game Crashes: 8 Must-Know Fixes for a Flawless Playthrough of Guardians of the Galaxy (PC Edition)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/become-a-hero-in-code-with-openais-flaw-hunting-bonus-program/"><u>Become a Hero in Code with OpenAI's Flaw Hunting Bonus Program</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridge-to-a-smart-future-with-ai-on-bing-beginners-guide/"><u>Bridge to a Smart Future with AI on Bing: Beginner's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-top-9-wellness-innovations-for-modern-living/"><u>ChatGPT’s Top 9 Wellness Innovations for Modern Living</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-triumph-in-the-quest-for-stellar-independent-games-on-itchio/"><u>How to Triumph in the Quest for Stellar Independent Games on itch.io</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-10c-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Tecno Spark 10C</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-honor-90-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Honor 90 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-the-right-call-with-local-language-model-choices/"><u>Making the Right Call with Local Language Model Choices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y17s-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y17s and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/principles-of-crafting-alluring-vlog-storylines-for-2024/"><u>Principles of Crafting Alluring Vlog Storylines for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-the-critical-issue-how-a-faulty-battery-safety-mechanism-could-compromise-your-airtags-and-more/"><u>Resolving the Critical Issue: How a Faulty Battery Safety Mechanism Could Compromise Your AirTags & More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-chatgpt-approach-to-podcast-storylines/"><u>The ChatGPT Approach to Podcast Storylines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-persuasive-edge-of-apples-new-iphone-16-pro-vs-max-model-what-to-know-before-you-upgrade-this-year-expert-analysis-at-zdnet/"><u>The Persuasive Edge of Apple's New iPhone 16 Pro Vs. Max Model: What to Know Before You Upgrade This Year | Expert Analysis at ZDNET</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/ultimate-guide-steps-to-safely-back-up-your-data-using-aomei-backupper/"><u>Ultimate Guide: Steps to Safely Back Up Your Data Using AOMEI Backupper</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Identifying Chameleon AIs via Strategic Mentions in Dialogue
-date: 2024-09-12T16:19:49.640Z
-updated: 2024-09-17T16:07:29.189Z
+date: 2024-11-02T23:49:28.208Z
+updated: 2024-11-06T16:44:25.553Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/b14bd542496e4948fe05bb38f6412cf78aa1b8b18
 
  OpenAI's premium version of ChatGPT, known as ChatGPT Plus, offers users a range of extra features in exchange for the monthly subscription fee. ChatGPT Plus's newest feature, GPT call-outs or mentions, may prove very useful to you if you use various GPTs within the ChatGPT interface. So, how does this feature work, and how can it benefit you?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT's GPT Mentions Feature?
 
  As a ChatGPT Plus member, you can [enjoy custom GPTs from the Custom GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/). These are versions of ChatGPT that are tailored to help with specific tasks. Some [popular custom GPTs](https://www.makeuseof.com/best-custom-gpts/) include...
@@ -53,24 +60,24 @@ thumbnail: https://thmb.techidaily.com/b14bd542496e4948fe05bb38f6412cf78aa1b8b18
 
  So, how can you use this?
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
@@ -87,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/b14bd542496e4948fe05bb38f6412cf78aa1b8b18
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
@@ -103,16 +110,16 @@ thumbnail: https://thmb.techidaily.com/b14bd542496e4948fe05bb38f6412cf78aa1b8b18
 
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, we have hotels, flights, and trails for our trip all in one chat!
 
@@ -133,5 +140,19 @@ thumbnail: https://thmb.techidaily.com/b14bd542496e4948fe05bb38f6412cf78aa1b8b18
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-community.techidaily.com/conversione-libera-e-gratuita-di-file-gif-al-formato-jpeg-su-internet-guida-completa-di-movavi/"><u>Conversione Libera E Gratuita Di File GIF Al Formato JPEG Su Internet - Guida Completa Di Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-inner-workings-of-apples-vision-pro-discover-my-key-observations-in-teardown-analysis-crafted-for-zdnet-readers/"><u>Exploring the Inner Workings of Apple's Vision Pro: Discover My Key Observations in Teardown Analysis | Crafted for ZDNet Readers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/frustrated-with-your-apple-vision-pro-virtual-keyboard-experience-master-using-an-actual-keyboard-as-a-superior-alternative/"><u>Frustrated with Your Apple Vision Pro Virtual Keyboard Experience? Master Using an Actual Keyboard as a Superior Alternative</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-restore-the-meta-branding-in-your-favorite-gaming-headsets-a-guide-around-their-recent-update/"><u>How to Restore the Meta Branding in Your Favorite Gaming Headsets: A Guide Around Their Recent Update</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-11-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 11 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-alarm-malfunction-heres-how-to-fix-it/"><u>IPhone Alarm Malfunction? Here's How to Fix It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-hurdles-in-implementing-digital-twins-a-guide-to-tackling-the-top-7-industry-obstacles-insights-for-modern-enterprises-zdnet/"><u>Overcoming Hurdles in Implementing Digital Twins: A Guide to Tackling the Top 7 Industry Obstacles | Insights for Modern Enterprises | ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-concepts-to-transform-vhs-imagery-on-computers-for-2024/"><u>Prime Concepts to Transform VHS Imagery on Computers for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/protecting-your-digital-world-a-guide-to-setting-up-automatic-windows-os-backups-on-shutdown-for-win111087-systems/"><u>Protecting Your Digital World: A Guide to Setting Up Automatic Windows OS Backups on Shutdown for Win11/10/8/7 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stanfords-revolutionary-ai-technology-redefines-virtual-reality-bypassing-outdated-headsets-zdnet/"><u>Stanford's Revolutionary AI Technology Redefines Virtual Reality, Bypassing Outdated Headsets | ZDNET</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-method-to-verify-and-update-your-tiktok-age-for-2024/"><u>Step-by-Step Method to Verify and Update Your TikTok Age for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/why-does-imovie-crop-my-videos-in-2024/"><u>Why Does iMovie Crop My Videos, In 2024</u></a></li>
+</ul></div>
 

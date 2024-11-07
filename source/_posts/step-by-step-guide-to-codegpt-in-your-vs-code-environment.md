@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to CodeGPT in Your VS Code Environment
-date: 2024-09-10T16:35:54.401Z
-updated: 2024-09-17T16:30:34.998Z
+date: 2024-11-04T02:30:51.702Z
+updated: 2024-11-07T13:20:51.388Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
 
  Click on it and paste your API key on the prompt that appears. Save it by pressing **Enter**. Finally, reload VS Code to start using CodeGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Generating Code With CodeGPT
 
  To demonstrate the CodeGPT code generation feature, you will create a calculator app using Python.
@@ -81,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/29cfc21c1254cb70322b91195c7081ab1c044155f
  Then input your request and click **Send**. In this case, the request is for a simple calculator. CodeGPT will process your request and generate your code in the chat window.
 
 ![CodeGPT code generation in the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-code-generation-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click on the "insert code" arrow to automatically paste the code into your script. As you can see, this method is more tidy. The generated code is as shown below:
 
@@ -123,27 +137,20 @@ else:
 
  CodeGPT will generate new code that implements the requested refactoring.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Explaining Your Code With CodeGPT
 
  To explain your code, select the code that you want CodeGPT to explain. Then right-click on the highlighted code and select the **Explain CodeGPT** option.
 
 ![CodeGPT code explanation on the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-explanation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  CodeGPT will explain what the code does on the chat window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Documenting Your Code Using CodeGPT
 
@@ -171,6 +178,13 @@ def divide(x, y):
 
  These are clear and correct inline comments.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Understanding How Generative AI Works
 
  CodeGPT utilizes the power of generative AI for all its features. It may not always provide the correct information. Hence, you need to counter-check whether its results are correct. Understanding how generative AI works will help you become familiar with its strengths and weaknesses.
@@ -192,5 +206,26 @@ def divide(x, y):
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-pinnacle-studio-25-review/"><u>[New] 2024 Approved Pinnacle Studio 25 Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-ultimate-approaches-to-clearer-zoomed-video-on-online-platforms/"><u>[New] 2024 Approved Ultimate Approaches to Clearer Zoomed Video on Online Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-share-a-tiktok-video-on-twitter/"><u>[Updated] 2024 Approved How to Share A Tiktok Video on Twitter?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-real-time-photo-sharing-in-google-meet/"><u>2024 Approved Mastering Real-Time Photo Sharing in Google Meet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-showdown-countdown-bard-vs-bing-battle-of-bots/"><u>AI Showdown Countdown: Bard Vs. Bing Battle of Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-knowledge-gaps-the-principles-of-ai-transfer-learning/"><u>Bridging Knowledge Gaps: The Principles of AI Transfer Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-site-planning-using-chatgpts-four-tactics/"><u>Efficient Site Planning Using ChatGPT's Four Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enabling-and-using-imessages-on-pc-a-step-by-step-tutorial-by-zdnet/"><u>Enabling & Using iMessages on PC: A Step-by-Step Tutorial by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-updates-transforming-the-way-users-engage-with-chatgpt-plugins/"><u>Essential Updates: Transforming the Way Users Engage with ChatGPT Plugins</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hp-stream-14-examined-balancing-cost-and-performance-in-a-mid-range-windows-notebook/"><u>HP Stream 14 Examined: Balancing Cost and Performance in a Mid-Range Windows Notebook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-accessing-the-apex-high-definition-media-from-facebooks-realm/"><u>In 2024, Accessing the Apex High-Definition Media From Facebook's Realm</u></a></li>
+<li><a href="https://techidaily.com/maximizing-efficiency-in-invoice-management-an-insightful-webinar-on-leveraging-ai-for-ap-systems/"><u>Maximizing Efficiency in Invoice Management: An Insightful Webinar on Leveraging AI for AP Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-high-seas-with-chatgpt-plus-subscription/"><u>Navigating the High Seas with ChatGPT Plus Subscription</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/now-available-8-groundbreaking-ai-assistants-for-you/"><u>Now Available: 8 Groundbreaking AI Assistants for You</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-problem-no-download-from-steam-updates/"><u>Resolving the Problem: No Download From Steam Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ricoh-windows-compatible-printers-find-and-install-correct-drivers-now/"><u>Ricoh Windows Compatible Printers - Find & Install Correct Drivers Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-amazon-bargains-of-september-2024-exclusive-offers-featured-on-zdnet/"><u>Top Rated Amazon Bargains of September 2024 - Exclusive Offers Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-technology-toms-hardware-breakdown/"><u>Unveiling the Latest in Technology: Tom's Hardware Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-businesses-fear-the-conversational-future-the-5-reasons/"><u>Why Businesses Fear the Conversational Future: The 5 Reasons</u></a></li>
+</ul></div>
 

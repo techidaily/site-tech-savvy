@@ -1,7 +1,7 @@
 ---
 title: "Elevate Engagement: Personalized GPT Construction"
-date: 2024-10-31T16:08:20.127Z
-updated: 2024-11-01T17:20:16.757Z
+date: 2024-11-04T07:47:06.057Z
+updated: 2024-11-07T07:44:15.834Z
 tags:
   - chatgpt
   - open-ai
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 * **Download:**[Microsoft Visual Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Python3 and Microsoft C++ Installation Notes
@@ -63,16 +63,22 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
 ![Adding Python to PATH](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/1-download-python.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When Installing Microsoft C++, you'll want to install **Microsoft Visual Studio Build Tools** first. Once installed, you can tick the **Desktop development with C++** option and click **Install** with all the optional tools automatically ticked on the right sidebar.
 
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
 
@@ -83,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 ![Downloading Python script on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-download-script.jpg)
 
  Once downloaded, we can now set up a local environment.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 2: Set Up the Local Environment
 
@@ -107,13 +106,6 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Creating secret API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/generate-api-key.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will be provided with a string of characters. This is your OpenAI API key. Copy it by clicking on the copy icon on the side of the API key. Keep note that this API key should be kept secret. Do not share it with others unless you really intend for them to use it with you.
 
  Once copied, return to the chatgpt-retrieval-main folder and open constants with **Notepad**. Now replace the placeholder with your API key. Remember to save the file!
@@ -123,10 +115,10 @@ pip install langchain openai chromadb tiktoken unstructured
  Now that you have successfully set up your virtual environment and added your OpenAI API key as an environment variable. You can now provide your custom data to ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Adding Custom Data
@@ -136,6 +128,13 @@ pip install langchain openai chromadb tiktoken unstructured
 ![Adding custom data for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-data.jpg)
 
  As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on [AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/), and a PDF document.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 4: Querying ChatGPT Through Terminal
 
@@ -151,18 +150,31 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 ![Testing ChatGPT with custom data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/visit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It worked! This means ChatGPT was able to read the Personal Sched.txt provided earlier. Now let's see if we have successfully fed ChatGPT with information it does not know due to its knowledge cutoff date.
 
 ![Asking custom ChatGPT about topic outside knowledge cut off data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/m250x.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Limitations of Custom ChatGPT
 
@@ -197,14 +209,18 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-enhance-interaction-share-your-custom-youtube-playlist/"><u>[New] 2024 Approved Enhance Interaction Share Your Custom YouTube Playlist</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streamline-your-podcasts-for-apple-podcasts/"><u>[New] Streamline Your Podcasts for Apple Podcasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mef-jpegmovavi/"><u>無限傳輸 MEF為 JPEG：Movavi 優化網上格式更改工具</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bandicam/"><u>Bandicam: 真正用戶產品評估和教學解決方案</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-convert-m4v-to-gif-with-moveavi-download-now/"><u>Free Online Converter: Convert M4V to GIF with MoveAVI - Download Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-mov-to-m4a-converter-moveavi/"><u>Free Online MOV to M4A Converter - Moveavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-choose-between-portable-and-plugged-in-virtual-reality-whats-your-preference-wireless-or-connected-in-2024/"><u>How to Choose Between Portable and Plugged-In Virtual Reality What's Your Preference, Wireless or Connected, In 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-subtitle-edit-mac-alternative-find-your-new-go-to-subtitle-editor/"><u>New 2024 Approved Subtitle Edit Mac Alternative Find Your New Go-To Subtitle Editor</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/web-funnies-forge/"><u>Web Funnies Forge</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-youtube-visuals-for-no-charge-best-free-downloader-guide/"><u>[Updated] 2024 Approved Unlock YouTube Visuals for No Charge Best Free Downloader Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-evening-stories-visualized-evaluations/"><u>[Updated] Evening Stories Visualized Evaluations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-peering-into-the-pinnacle-of-4k-monitoring-with-lgs-ultrafine-display/"><u>[Updated] Peering Into the Pinnacle of 4K Monitoring with LG’s UltraFine Display</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-apple-issues-crucial-alert-protect-yourself-against-emerging-mercenary-spyware-threats-on-iphones-what-you-need-to-know/"><u>1. Apple Issues Crucial Alert: Protect Yourself Against Emerging Mercenary Spyware Threats on iPhones - What You Need To Know</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/st-royalty-free-music-download-sites-for-youtube-creators-for-2024/"><u>15 Best Royalty Free Music Download Sites For YouTube Creators for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-enthusiasts-urged-to-reject-unverified-chargers-prevent-counterfeit-hazards-insight/"><u>Apple Enthusiasts Urged to Reject Unverified Chargers, Prevent Counterfeit Hazards Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dont-delegate-your-health-to-programmed-predictions/"><u>Don't Delegate Your Health to Programmed Predictions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-setting-up-your-microsoft-wireless-display-adapter-for-optimal-performance-on-windows-10-devices/"><u>Expert Advice on Setting Up Your Microsoft Wireless Display Adapter for Optimal Performance on Windows 10 Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-navigating-the-maze-a-comprehensive-guide-to-mov-capture-in-win10/"><u>In 2024, Navigating the Maze A Comprehensive Guide to MOV Capture in Win10</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-revolutionize-your-online-presence-with-these-eight-strategies/"><u>In 2024, Revolutionize Your Online Presence with These Eight Strategies</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138591814-9781462071098-the-big-picture/"><u>The Big Picture | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-stealthiest-yet-most-impactful-ai-innovation-expected-at-wwdc-techdigest/"><u>Unveiling Apple's Stealthiest Yet Most Impactful AI Innovation Expected at WWDC | TechDigest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-autumn-releases-in-depth-look-at-apples-newest-additions-to-iphone-ipad-mac-and-integration-of-ai-features-insights/"><u>Upcoming Autumn Releases: In-Depth Look at Apple's Newest Additions to iPhone, iPad, Mac & Integration of AI Features - Insights</u></a></li>
 </ul></div>
 

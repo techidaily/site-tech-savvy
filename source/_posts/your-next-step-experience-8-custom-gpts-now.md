@@ -1,7 +1,7 @@
 ---
 title: "Your Next Step: Experience 8 Custom GPTs Now"
-date: 2024-10-29T16:36:51.326Z
-updated: 2024-11-01T16:05:58.751Z
+date: 2024-10-31T04:00:20.664Z
+updated: 2024-11-06T23:48:53.093Z
 tags:
   - chatgpt
   - open-ai
@@ -43,15 +43,28 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
  Here's a guide on [how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Translation Tool
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the weeks following ChatGPT's release, we tested [ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
 
@@ -63,16 +76,16 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It is no news that [ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/). It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Personal Movie Recommender
 
@@ -84,22 +97,21 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
 **Try this GPT**: [K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Interactive Text and Image Games
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but [interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/). You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
@@ -117,16 +129,10 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.
@@ -176,19 +182,24 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-watch-without-limits-15plus-free-apps-to-save-your-favorite-content/"><u>[New] Watch Without Limits 15+ Free Apps to Save Your Favorite Content</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-phantoms-view-droning-action-highlights/"><u>[Updated] Phantom's View Droning Action Highlights</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-lacks-a-reflective-writing-check/"><u>AI Lacks a Reflective Writing Check</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-solve-math-problems/"><u>Can ChatGPT Solve Math Problems?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-ai-titans-the-gpt-bert-comparison-breakdown/"><u>Deciphering AI Titans: The GPT-BERT Comparison Breakdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-the-world-of-langchain-and-llms/"><u>Discovering the World of LangChain and LLMs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-iphone-productivity-a-guide-to-using-chatgpt-and-siri-together/"><u>Enhancing iPhone Productivity: A Guide to Using ChatGPT and Siri Together</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/exploring-easy-to-use-game-recording-and-edit-software/"><u>Exploring Easy-to-Use Game Recording & Edit Software</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-m14-5g-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy M14 5G?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-develop-and-download-your-own-instagram-alerts/"><u>How to Develop & Download Your Own Instagram Alerts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-video-restrictions-what-you-must-know/"><u>In 2024, Instagram Video Restrictions What You Must Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instant-guide-to-severing-gpt-ties/"><u>Instant Guide to Severing GPT Ties</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-dialogue-uncover-the-top-5-chatgpt-custom-strategies/"><u>Revolutionizing AI Dialogue: Uncover the Top 5 ChatGPT Custom Strategies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-expert-insights-into-attaining-stock-artwork/"><u>[New] In 2024, Expert Insights Into Attaining Stock Artwork</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-tutorial-for-transforming-profile-photographs-on-social-networks-for-2024/"><u>[Updated] Step-by-Step Tutorial for Transforming Profile Photographs on Social Networks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-writing-persuasive-vlog-show-narratives/"><u>2024 Approved Strategies for Writing Persuasive Vlog Show Narratives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-research-the-new-norm-for-students/"><u>AI-Driven Research: The New Norm for Students</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-12-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 12 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crucial-storeplace-refurbishments-for-gpt-plugins-integration/"><u>Crucial Storeplace Refurbishments for GPT Plugins Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-concealed-smart-radios-in-apple-devices-do-you-own-a-mac-or-ipad-with-one-zdnet/"><u>Discovering Concealed Smart Radios in Apple Devices: Do You Own a Mac or iPad with One? | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dont-be-fooled-zdnet-reveals-the-top-4-apple-gadgets-to-skip-this-season/"><u>Don't Be Fooled! ZDNet Reveals the Top 4 Apple Gadgets to Skip This Season</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-gourmet-creations-with-7-chatgpt-insights/"><u>Effortless Gourmet Creations with 7 ChatGPT Insights</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enhance-your-social-gameplay-sharing-fun-on-the-sony-ps5-console/"><u>Enhance Your Social Gameplay: Sharing Fun on the Sony PS5 Console</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-12-mini-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone 12 mini Activation Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-live-transmission-fixes/"><u>Mastering ChatGPT Live Transmission Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-new-control-center-in-ios-18-customization-techniques-for-iphone-users/"><u>Mastering the New Control Center in iOS 18: Customization Techniques for iPhone Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-to-ai-find-your-mentors-in-these-top-9-groups/"><u>New to AI? Find Your Mentors in These Top 9 Groups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-more-monetary-barriers-the-best-use-of-copilot-for-a-free-gpt-4-turbo/"><u>No More Monetary Barriers: The Best Use of Copilot for a Free GPT-4 Turbo</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/oneplus-6t-smartphone-evaluation-exceptional-speed-and-value/"><u>OnePlus 6T Smartphone Evaluation: Exceptional Speed and Value</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-missing-helperdll-file-a-step-by-step-guide/"><u>Resolving Missing Helper.dll File: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-setting-up-and-running-the-revoapp-manager-and-uninstaller/"><u>Step-by-Step Guide: Setting Up and Running the RevoApp Manager & Uninstaller</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mp4and3/"><u>ビデオの静止画素晴らし！MP4からキャプチャ&保存：3つのシンプル方法を解説</u></a></li>
 </ul></div>
 

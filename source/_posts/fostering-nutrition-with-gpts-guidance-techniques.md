@@ -1,7 +1,7 @@
 ---
 title: Fostering Nutrition with GPT's Guidance Techniques
-date: 2024-10-25T17:22:45.783Z
-updated: 2024-11-01T16:17:53.345Z
+date: 2024-10-31T02:28:01.552Z
+updated: 2024-11-06T23:52:28.618Z
 tags:
   - chatgpt
   - open-ai
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 * How long do you want the cooking time to be for each meal?
 * How much do you want the cost per meal to be if you're cooking on a budget?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use ChatGPT to Determine Your TDEE and BMR
 
 ![ChatGPT AI chatbot online tool TDEE BMR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tdee-bmr.jpg)
@@ -63,35 +56,35 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 
  BMR is the energy your body uses while at rest. Knowing these numbers is important to your particular goals. All you have to do is type "**How do I calculate my TDEE and BMR?**" into ChatGPT, and it automatically generates the needed equations and formulas.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use ChatGPT to Create a Healthy Meal Plan
 
  Now is the time you can start playing around with ChatGPT and see how it can help you come up with some healthy meal plan ideas. Remember to include all the details of your meal plan in your prompts. ChatGPT can give you a better response if you’re more in-depth about what you're asking for.
 
  In addition, you can even ask ChatGPT to include a full grocery list of all the ingredients you need as well as the measurements for each item.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Meal Plan Example Prompts for ChatGPT
 
 ![chatgpt AI chatbot online tool meal plan example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-meal-plan-example.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here are some examples of prompts you can type into ChatGPT to help you build a healthy meal plan. A healthy meal plan is different for everyone, so always add as many or as few details as you want.
 
 * Five-day vegan meal plan for weight loss that serves two adults with three meals per day, has a 30-minute cook time, costs $10 per meal, and contains 1800 calories per day.
 * Two-week vegetarian meal plan that caters to nut allergies, serves one, and includes three meals per day. No more than one hour of cooking time with an included grocery list.
 * One-week meal plan with three meals, one snack, and no dietary restrictions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Problems With ChatGPT Meal Plans
 
@@ -103,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 
  This can result in spending an enormous amount of money on groceries and lots of extra unused ingredients.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Better Meal Planning Alternatives to ChatGPT
 
  While ChatGPT is fun to use to play around with possible meal plans, it’s not entirely reliable, and you should use it with caution. On the other hand, there are plenty of [excellent meal planning apps](https://www.makeuseof.com/top-meal-planning-apps-healthy-eating/) available that can make your healthy meal plan easier to organize and keep track of.
@@ -117,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
  The [SideChef app can help you meal plan better](https://www.makeuseof.com/review-sidechef-app-meal-plan-eat-healthier/) and eat healthier. It is an app that creates a meal plan based on your dietary restrictions, cooking goal, serving size, and ingredients to avoid.
 
 ![SideChef meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-meal-plan-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![SideChef preferences mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-preferences.jpg)
 
@@ -134,16 +127,29 @@ Close
 
 ![Eat this much meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-meal-plan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Close
 
 ## Can You Trust ChatGPT to Create a Healthy Meal Plan?
 
@@ -170,14 +176,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-youtubes-regular-income-mechanism-for-2024/"><u>[New] Exploring YouTube's Regular Income Mechanism for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-visionary-composer-sensory-media-masterpiece/"><u>[Updated] 2024 Approved Visionary Composer Sensory Media Masterpiece</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-perfecting-ultimate-canon-sequence-crafts/"><u>[Updated] Perfecting Ultimate Canon Sequence Crafts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mkvm2ts-movavi/"><u>免費線上改制 MKV為M2TS - 便利版 Movavi 媒體格式工具</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/des-logiciels-gratuit-de-retouche-photographie-et-effets-visuels-ultimes-les-meilleures-options/"><u>Des Logiciels Gratuit De Retouche Photographie Et Effets Visuels Ultimes - Les Meilleures Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-wmv-to-mp4-converter-by-movavi-quick-and-effortless-video-format-change/"><u>Free Online WMV to MP4 Converter by Movavi: Quick and Effortless Video Format Change</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-herramienta-para-transformar-imagenes-png-a-lineales-online-con-movavi/"><u>Gratis Herramienta Para Transformar Imágenes .png a Lineales Online Con Movavi</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-vlog-a-beginners-guide-to-start-vlogging/"><u>New 2024 Approved How to Vlog? A Beginners Guide to Start Vlogging</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-film-timeframe-determining-gb-storage-requirement/"><u>[New] Film Timeframe Determining GB Storage Requirement</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-mastering-haul-videos-tips-and-tricks-for-editors/"><u>[New] In 2024, Mastering Haul Videos Tips & Tricks for Editors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unveiling-whatsapps-call-conversations/"><u>[New] Unveiling WhatsApp's Call Conversations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-victorious-ventures-in-the-top-12-tycoons-your-ultimate-gaming-goal/"><u>[Updated] Victorious Ventures in the Top 12 Tycoons - Your Ultimate Gaming Goal</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-the-world-of-kinemaster-a-deeper-look-at-gaming/"><u>2024 Approved Inside the World of KineMaster A Deeper Look at Gaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-test-of-aeiousy-portable-solar-charger-with-advanced-inverter-technology-for-hospit-ical-gear/"><u>Comprehensive Test of Aeiousy Portable Solar Charger with Advanced Inverter Technology for Hospit Ical Gear</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-ai-generated-games-could-impact-the-games-industry/"><u>How AI-Generated Games Could Impact the Games Industry</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-aesthetic-alchemy-grading-with-colors/"><u>In 2024, Aesthetic Alchemy Grading with Colors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ready-to-embrace-a-new-iphone-next-week-check-out-zdnets-top-picks-for-must-have-anker-charging-devices/"><u>Ready to Embrace a New iPhone Next Week? Check Out ZDNet's Top Picks for Must-Have Anker Charging Devices!</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a34-5g-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy A34 5G won’t play MP4 files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-30-innovative-sales-platforms-outside-openais-ecosystem/"><u>Top 30 Innovative Sales Platforms Outside OpenAI’s Ecosystem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-picks-in-tech-the-ultimate-showdown-between-apple-dell-and-other-leading-brands-s-best-computers-insights/"><u>Top Picks in Tech: The Ultimate Showdown Between Apple, Dell & Other Leading Brands 'S Best Computers - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-apples-new-tech-magic-for-iphoneipadmac-with-this-falls-revolutionary-updates-including-artificial-intelligence-expert-analysis-on-zdnet/"><u>Uncover Apple's New Tech Magic for iPhone/iPad/Mac with This Fall’s Revolutionary Updates Including Artificial Intelligence | Expert Analysis on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-enhanced-iphone-content-tools-in-ios-18-a-revolution-for-iphone-14-users-analysis/"><u>Unveiling Enhanced iPhone Content Tools in iOS 18 - A Revolution for iPhone 14 Users Analysis</u></a></li>
 </ul></div>
 

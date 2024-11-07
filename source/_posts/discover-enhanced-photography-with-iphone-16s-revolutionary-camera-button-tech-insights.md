@@ -1,7 +1,7 @@
 ---
 title: Discover Enhanced Photography with iPhone 16'S Revolutionary Camera Button | Tech Insights
-date: 2024-10-25T17:04:13.514Z
-updated: 2024-11-01T16:33:24.795Z
+date: 2024-11-04T23:49:27.544Z
+updated: 2024-11-06T17:36:38.880Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -86,6 +93,19 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -100,13 +120,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -116,13 +129,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -134,6 +140,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -152,19 +165,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -174,10 +174,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -224,24 +224,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-link-driven-success-a-backlink-blueprint-for-channels/"><u>[New] Crafting Link-Driven Success A Backlink Blueprint for Channels</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-eizos-boundaries-reached-the-cg318-4k-reviewed/"><u>[New] EIZO's Boundaries Reached The CG318-4K Reviewed</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/avigating-through-digital-profit-landscapes/"><u>[New] Navigating Through Digital Profit Landscapes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-visual-storytelling-instagrams-photo-integration/"><u>[Updated] Visual Storytelling Instagram's Photo Integration</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-insider-advice-crafting-the-best-ps3-gaming-recordings/"><u>2024 Approved Insider Advice Crafting the Best PS3 Gaming Recordings</u></a></li>
-<li><a href="https://windows11.techidaily.com/beginning-your-journey-with-windows-live-mesh-2011-the-ultimate-guide-for-seamless-data-management/"><u>Beginning Your Journey with Windows Live Mesh 2011 – The Ultimate Guide for Seamless Data Management</u></a></li>
-<li><a href="https://win-able.techidaily.com/civilization-6-wont-start-complete-guide-for-windows-11-users/"><u>Civilization 6 Won't Start? Complete Guide for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-technique-fixing-and-preventing-the-0x80072fed-error-in-windows-10-devices/"><u>Master the Technique: Fixing and Preventing the 0X80072FED Error in Windows 10 Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-new-languages-using-ai-discover-the-power-of-chatgpt-plus/"><u>Mastering New Languages Using AI: Discover the Power of ChatGPT Plus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-setting-up-diggz-xenon-plus-and-a-complimentary-add-on-with-kodi-matrix-v19/"><u>Step-by-Step Tutorial: Setting Up Diggz Xenon Plus and a Complimentary Add-On with Kodi Matrix V19</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-converting-and-sharing-videos-from-youtube-to-tiktok/"><u>The Ultimate Guide to Converting and Sharing Videos From YouTube to TikTok</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-no-cost-mts-video-format-changer-transform-your-videos-into-mov-mp4-and-more-in-high-definition/"><u>Top No-Cost MTS Video Format Changer: Transform Your Videos Into MOV, MP4 & More in High Definition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-recommended-tools-for-downloading-content-from-myvidster-a-comprehensive-guide/"><u>Top Recommended Tools for Downloading Content From MyVidster: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transcoding-tvs-files-to-mp4-format-using-teamviewer-and-wonderfox-video-tools/"><u>Transcoding TVS Files to MP4 Format Using TeamViewer & WonderFox Video Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-avi-videos-into-high-quality-compact-h265-format-a-step-by-step-guide/"><u>Transforming AVI Videos Into High-Quality, Compact H.265 Format: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshoot-vlc-record-function-top-10-solutions-for-resolving-recording-issues/"><u>Troubleshoot VLC Record Function: Top 10 Solutions for Resolving Recording Issues!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-tips-how-to-enable-and-play-dvd-movies-on-a-lenovo-computer/"><u>Troubleshooting Tips: How to Enable and Play DVD Movies on a Lenovo Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-top-11-pc-microphone-recorders-on-the-market/"><u>Ultimate Guide to the Top 11 PC Microphone Recorders on the Market</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-blueear-bluetooth-hat-an-expert-look-at-comfort-and-crisp-sounds-in-style/"><u>Unboxing the Blueear Bluetooth Hat: An Expert Look at Comfort and Crisp Sounds in Style</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-extensive-look-at-djis-inspire-1-drone/"><u>[Updated] 2024 Approved Extensive Look at DJI's Inspire 1 Drone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-perfecting-chat-engagement-the-art-of-pinning-messages-in-discord-for-2024/"><u>[Updated] Perfecting Chat Engagement The Art of Pinning Messages in Discord for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-essential-guide-for-adding-depth-and-style-in-instagram-stories-for-2024/"><u>[Updated] The Essential Guide for Adding Depth & Style in Instagram Stories for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-secrets-of-editing-numerical-data-in-tiktoks/"><u>2024 Approved The Secrets of Editing Numerical Data in TikToks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-expertise-and-ai-for-better-3d-printing/"><u>Bridging Human Expertise and AI for Better 3D Printing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/charting-new-horizons-in-digital-clarity-4k-resolution/"><u>Charting New Horizons in Digital Clarity: 4K Resolution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-combining-your-favorite-tracks-into-one-epic-spotify-list/"><u>Easy Steps: Combining Your Favorite Tracks Into One Epic Spotify List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ais-text-generation-usage-by-leading-firms/"><u>Exploring AI's Text Generation: Usage by Leading Firms</u></a></li>
+<li><a href="https://win-updates.techidaily.com/facilmente-migra-windows-server-2016-a-nuovo-hardware-con-i-due-metodi-essenziali/"><u>Facilmente Migra Windows Server 2016 a Nuovo Hardware Con I Due Metodi Essenziali</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-concept-to-reality-googles-latest-leap-palm-2/"><u>From Concept to Reality: Google's Latest Leap, PaLM 2</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-note-13-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi Note 13 5G without App | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-12-mini-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 12 mini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-ai-strategies-for-hr-tasks/"><u>Innovative AI Strategies for HR Tasks</u></a></li>
 </ul></div>
 

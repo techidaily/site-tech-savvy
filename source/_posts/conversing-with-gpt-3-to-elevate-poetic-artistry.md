@@ -1,7 +1,7 @@
 ---
 title: Conversing with GPT-3 to Elevate Poetic Artistry
-date: 2024-10-30T19:04:00.676Z
-updated: 2024-11-01T17:39:11.814Z
+date: 2024-11-03T01:31:23.511Z
+updated: 2024-11-06T20:27:46.506Z
 tags:
   - chatgpt
   - open-ai
@@ -46,51 +46,17 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
 
  If you have a topic in mind but want to find some inspiration for how to convey it, let ChatGPT know what theme you’re considering, and it’ll give you some choices for a direction to take your poem in.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Realize Structure and Form
 
 ![ChatGPT poetry structure and form decision](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-structure.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Writing a poem with ChatGPT can be advantageous for a few reasons—one being that it can choose the structure and form of the poem for you. This includes the type of poem, like a sonnet or an ode, and the rhyme scheme.
 
  After you know the topic of your poem, ask ChatGPT what kind of structure and form should be written about the theme. It’ll give you an option and ask if you want to continue. If it chooses a format you’re not interested in, just ask for something different.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Co-Create Word Choice and Imagery
 
 ![ChatGPT poetry wording corrections](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-wording.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There’s a chance that ChatGPT may come up with the perfect poem on the first try. However, chances are with your guidance, it could be better. There may be some word choices that don’t quite harmonize with the poem or maybe the imagery isn’t quite hitting the mark.
 
@@ -102,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
 
 ![ChatGPT creating a haiku about napping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-poetic-device.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Poetic devices help to enrich the meaning of a poem, and sometimes make it a more entertaining experience for the writer and the reader. There are many to choose from such as personification, alliteration, metaphors, similes, and paradoxes.
 
  When creating your poem with ChatGPT, ask it to include which poetic devices you want. If you’re not sure which one to go for, you can simply ask ChatGPT to pick one for you.
@@ -110,13 +83,34 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
 
 ![ChatGPT proofreading and refining a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-proofreading.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [ChatGPT makes for a good proofreader](https://www.makeuseof.com/can-chatgpt-be-used-as-proofreader/) and editor for all your creative writing, poetry included. Even if you’re working with the AI throughout the whole writing process, it’s still a good idea to have it check for any errors. It may also be able to find a way to make the poem sound better.
 
  Ask ChatGPT to proofread and refine your poem and see what corrections it comes up with. It is advised that you read through the lines carefully to make sure it still reads well.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using ChatGPT as a Guide Instead
 
  Let’s say you’re a bit nervous about using AI, and you would rather your writing be 100% your work—that is perfectly fine. There are simple ways to use ChatGPT that won’t make you feel like it did the work for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore Poetry Prompts
 
@@ -127,22 +121,15 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
  ChatGPT’s poetry prompts are especially effective when you’re stuck with massive writer’s block and aren’t sure how to proceed in your craft.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ask for Advice
 
 ![ChatGPT options for how to make a poem sound better](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-advice.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Treat ChatGPT like a friend about to read your latest piece of creative writing. You’re open to advice, but every comment and criticism isn’t going to make it to the final draft.
 
@@ -151,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
 ### Welcome Research and References
 
 ![ChatGPT describing the petals of a cherry blossom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-research.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT has a plethora of knowledge at its disposal. If you’re writing a poem about a certain place or object, see if the AI can give the information you need to you. It’s like having a little virtual assistant on demand.
 
@@ -162,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
 
 ![ChatGPT poetic device options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-poetic-elements.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Instead of asking ChatGPT to add poetic devices to your poem, ask it for a list of them. You can choose which elements you believe will work best in your poetry and come up with the words yourself.
 
  Not only does this still make you the only contributor to your poetry, but you’ll also learn to use poetic devices you may not have come across before. ChatGPT is a great way to learn more about your skillset.
@@ -176,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
 ## Things to Look Out For
 
  Though ChatGPT can be a great resource, [you shouldn’t blindly trust everything AI produces](https://www.makeuseof.com/reasons-you-shouldnt-trust-artificial-intelligence/). In terms of creating poetry, here are a couple of things to look out for.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Robots Make Terrible Poets
 
@@ -190,10 +184,10 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
  When in doubt, look up the information yourself to determine if it’s correct or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Write Your Next Poem Using ChatGPT
@@ -223,24 +217,22 @@ thumbnail: https://thmb.techidaily.com/a3e20ff499d2255356072c9a430207e141738c946
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-engaging-readers-with-strategic-reddit-sharing-techniques/"><u>[Updated] 2024 Approved Engaging Readers with Strategic Reddit Sharing Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-critical-review-best-bargain-video-call-apps-ios-and-android/"><u>[Updated] Critical Review Best Bargain Video Call Apps - iOS & Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024mp4aac/"><u>「2024年度版・簡単なMP4からAACへのダウンサイジングガイド」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44cm44oe44kk44od44k44o85zcr44gr44gr44ot44oh44kq44ks5yq55p6c55qe44gr44kr44od44oi44gz44kl5oml6acg44cn/"><u>「ツイッター向けにビデオを効果的にカットする手順」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024mp4gif5/"><u>2024年度優秀MP4GIF変換無料プログラムベスト5紹介</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-assistance-for-complex-equations/"><u>AI Assistance for Complex Equations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-8-no-cost-web-based-voice-recorders-no-signup-or-payment-necessary/"><u>Best 8 No-Cost Web-Based Voice Recorders - No Signup or Payment Necessary!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-windows-7-audio-editing-applications-top-picks-for-quality-recordings/"><u>Best Windows 7 Audio Editing Applications: Top Picks for Quality Recordings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convert-your-avi-files-perfectly-for-iphone-with-our-top-picks-of-desktop-and-cloud-services/"><u>Convert Your AVI Files Perfectly for iPhone with Our Top Picks of Desktop and Cloud Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diy-karaoke-magic-create-personalized-songs-and-music-videos-quickly-for-free/"><u>DIY Karaoke Magic: Create Personalized Songs & Music Videos Quickly for Free!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/download-youtube-shorts-videos-without-cost-simple-techniques-exposed/"><u>Download YouTube Shorts Videos Without Cost - Simple Techniques Exposed</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-update-procedure-for-msi-bravo-15-users/"><u>Drive Update Procedure for MSI Bravo 15 Users</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/grab-the-deal-premium-85-inch-tcl-television-at-an-unbeatable-price-of-only-900-over-labor-day-shopping-guide-by-zdnet/"><u>Grab the Deal: Premium 85 Inch TCL Television at an Unbeatable Price of Only $900 Over Labor Day - Shopping Guide by ZDNet.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-quick-online-mp3-generator-from-fb-videos-2023-updates/"><u>In 2024, Quick Online MP3 Generator From FB Videos, 2023 Updates</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-realme-gt-5-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Realme GT 5 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028656211-pc2/"><u>PC上で選択したブラウザウィンドウを記録する優れた2つのテクニック</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/viewing-someones-instagram-without-creating-your-own-profile/"><u>Viewing Someone's Instagram Without Creating Your Own Profile</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-guide-to-pixlr-edits-top-15-tricks-for-perfection/"><u>[Updated] Expert Guide to Pixlr Edits Top 15 Tricks for Perfection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/"><u>2024 Approved The Ultimate Guide to GoPro Hero5 Time-Lapse Photography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-its-potential-to-revolutionize-video-game-creation/"><u>AI and Its Potential to Revolutionize Video Game Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-wma-to-swf-without-costs-movavis-easy-web-based-tool/"><u>Convert WMA to SWF Without Costs - Movavi's Easy Web-Based Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-codegpt-real-world-coding-capabilities/"><u>Delving Into CodeGPT: Real-World Coding Capabilities</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-iphone-factory-reset-expert-advice-for-full-data-wipe/"><u>Effortless iPhone Factory Reset: Expert Advice for Full Data Wipe</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-advice-on-prepping-images-for-high-quality-printing-using-photoshop/"><u>Expert Advice on Prepping Images for High-Quality Printing Using Photoshop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/football-footage-fundamentals-without-finances/"><u>Football Footage Fundamentals Without Finances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-fear-to-proficiency-excel-and-chatgpt-duo/"><u>From Fear to Proficiency: Excel & ChatGPT Duo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-liquid-found-in-headphone-jack-of-iphone-two-effective-solutions/"><u>How to Fix Liquid Found in Headphone Jack of iPhone: Two Effective Solutions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-insert-a-vimeo-video-into-powerpoint/"><u>How to Insert a Vimeo Video Into PowerPoint</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-apples-enhanced-logic-pro-ai-powered-virtual-bandmates-for-ipad-and-mac-explore-the-future-of-music-creation/"><u>Introducing Apple's Enhanced Logic Pro: AI-Powered Virtual Bandmates for iPad & Mac - Explore the Future of Music Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-entrepreneurs-ai-toolkit-necessary-innovations-to-know/"><u>The Entrepreneur's AI Toolkit: Necessary Innovations to Know</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/475346-9781458711359-understanding-our-mind/"><u>Understanding Our Mind | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-ipad-air-outshines-the-ipad-pro-in-this-review-insider-tips-and-thoughts-from-zdnet/"><u>Why the iPad Air Outshines the iPad Pro in This Review - Insider Tips and Thoughts From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zerogpt-inadequacy-doubting-detection-tools/"><u>ZeroGPT Inadequacy: Doubting Detection Tools</u></a></li>
 </ul></div>
 

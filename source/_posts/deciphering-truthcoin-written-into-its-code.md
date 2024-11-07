@@ -1,7 +1,7 @@
 ---
 title: Deciphering TruthCoin' Written Into Its Code
-date: 2024-10-26T17:10:20.090Z
-updated: 2024-11-01T18:53:25.043Z
+date: 2024-11-03T09:36:54.096Z
+updated: 2024-11-06T17:39:41.959Z
 tags:
   - chatgpt
   - open-ai
@@ -49,10 +49,10 @@ Close
  Now, the second TruthGPT Coin has linked itself to [Elon Musk's TruthGPT AI project](https://www.makeuseof.com/what-is-truthgpt/) to gain a semblance of legitimacy, though it notes that TruthGPT Coin is a community effort and isn't affiliated with Musk. It doesn't feature any Musk imagery but talks about him throughout the site and claims to use artificial intelligence to "seek out and evaluate information in order to arrive at the most accurate and reliable understanding of the world."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is TruthGPT Coin a Scam?
@@ -70,16 +70,10 @@ Close
  The TruthGPT Coin entry on [CoinMarketCap](https://coinmarketcap.com/currencies/truthgpt/) also suggests something fishy is going on. It currently displays a banner informing would-be users that, "According to [Gopluslabs](https://gopluslabs.io/token-security/1/0xaf75d880b3128981d1fed3292fc02e3fb37acd53), the smart contract of the following asset can be modified by the contract creator (for example: disable selling, change fees, mint new tokens, or transfer tokens). Please exercise caution before taking any action and DYOR."
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Watch Out for Scam Tokens Involving ChatGPT, AI, and Elon Musk
@@ -109,24 +103,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-your-sound-story-utilizing-auditions-fade-in/"><u>[New] Crafting Your Sound Story Utilizing Audition's Fade In</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-speedy-visual-scan-of-your-pictures-on-win11/"><u>[New] In 2024, Speedy Visual Scan of Your Pictures on Win11</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-socialsnatcher-grab-and-save-twitter-vids-in-a-flash/"><u>[Updated] In 2024, SocialSnatcher Grab and Save Twitter Vids in a Flash</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-spectrum-perfection-color-grading-basics/"><u>2024 Approved Spectrum Perfection Color Grading Basics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-2-unveiled-insightful-exploration/"><u>Claude 2 Unveiled: Insightful Exploration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/greenhouse-gases-vs-carbon-dioxayer-unveiling-the-truth/"><u>Greenhouse Gases Vs. Carbon Dioxayer, Unveiling the Truth</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-use-chatgpt-plugins/"><u>How to Install and Use ChatGPT Plugins</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-soundbite-strategies-transform-your-voice-records/"><u>In 2024, Soundbite Strategies Transform Your Voice Records</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-product-understanding-through-chatgpts-personas/"><u>Optimizing Product Understanding Through ChatGPT's Personas</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-continuous-crash-fixes-and-solutions/"><u>Pathfinder: Wrath of the Righteous - Continuous Crash Fixes & Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proven-top-6-ai-powered-notes-organizing-tools-reviewed/"><u>Proven Top 6 AI-Powered Notes Organizing Tools Reviewed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-swift-and-simple-update-of-gtx/"><u>Step-by-Step Guide: Swift and Simple Update of GTX</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ios-edge-in-chatgpt-experience/"><u>The iOS Edge in ChatGPT Experience</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-next-big-thing-in-action-videos-sj7s-ultra-hd-star-4k-camera-explained/"><u>The Next Big Thing in Action Videos? SJ7's Ultra HD Star 4K Camera Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-world-of-tailored-guidance-in-ai-conversation-tools/"><u>The World of Tailored Guidance in AI Conversation Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-myths-bypassing-gpt-in-digital-coin-studies/"><u>Top 5 Myths: Bypassing GPT in Digital Coin Studies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-gpt-3-insights-choose-the-right-export-solutions/"><u>Unlocking GPT-3 Insights – Choose the Right Export Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-secrets-of-snapchat-emojis-a-quick-guide-for-users/"><u>Unraveling the Secrets of Snapchat Emojis: A Quick Guide for Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtubes-secret-to-success-a-compre-ffive-essential-keyword-tools-for-2024/"><u>YouTube's Secret to Success A Compre FFive Essential Keyword Tools for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-virtue-verse-selection-for-ar-vr-worlds/"><u>[New] Immersive Virtue Verse Selection for AR-VR Worlds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pristine-story-conception-in-eight-genre-divisions/"><u>[Updated] Pristine Story Conception in Eight Genre Divisions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-universal-vmix-adapter-for-2024/"><u>[Updated] Universal VMix Adapter for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-creativity-the-best-ai-text-synthesizers/"><u>Boost Creativity: The Best AI Text Synthesizers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/break-writing-barriers-with-our-5-innovative-text-generators/"><u>Break Writing Barriers with Our 5 Innovative Text Generators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-customization-what-are-the-risks/"><u>ChatGPT Customization: What Are the Risks?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-frontier-gpt-vs-bings-ai-communicators/"><u>Exploring the Frontier: GPT Vs. Bing's AI Communicators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/from-still-to-dynamic-the-xs-action-camera-unboxed/"><u>From Still to Dynamic The XS Action Camera Unboxed</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-p55t-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Itel P55T Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-chatgpt-redefines-medical-advice-top-7-insights/"><u>How ChatGPT Redefines Medical Advice: Top 7 Insights</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-6-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone 6</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/los-13-mejores-dispositivos-para-convertir-archivos-en-mp3-en-2024-comparativo-exhaustivo-movavi-experts/"><u>Los 13 Mejores Dispositivos Para Convertir Archivos en MP3 en 2024: Comparativo Exhaustivo – Movavi Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maintaining-conversational-confidentiality-for-bots/"><u>Maintaining Conversational Confidentiality for Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/parameters-to-ponder-choosing-chatgpt-for-counseling-purposes/"><u>Parameters to Ponder: Choosing ChatGPT for Counseling Purposes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-your-menu-planning-with-these-7-chatgpt-insights/"><u>Simplify Your Menu Planning With These 7 ChatGPT Insights</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-power-of-perception-iconic-podcast-design-tips-for-2024/"><u>The Power of Perception Iconic Podcast Design Tips for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-msi-afterburners-failure-to-recognize-your-gpu-in-windows-11/"><u>Troubleshooting Guide: Fixing 'MSI Afterburner's Failure to Recognize Your GPU in Windows 11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-install-vllo-on-mac-and-browse-alternative-solutions/"><u>Updated 2024 Approved Install VLLO on Mac and Browse Alternative Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-sparked-italys-instantaneous-chatgpt-prohibition/"><u>What Sparked Italy's Instantaneous ChatGPT Prohibition?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating the Classroom with ChatGPT's Five Essential Tools
-date: 2024-09-14T16:29:11.342Z
-updated: 2024-09-17T16:07:28.196Z
+date: 2024-11-05T08:22:07.186Z
+updated: 2024-11-07T08:45:27.646Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 * Refine the plan to add \[minutes/hours\] breaks during study hours.
 * Refine the plan to allocate \[more/less\] time to practical sessions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Identify Shortcuts or Tricks for Complex Course Problems
 
  One of the most exciting uses of ChatGPT for students is as a tool for identifying easier or alternative ways of solving complex course problems. For instance, ChatGPT has a huge collection of shortcuts and tricks for solving a wide range of complex STEM problems. From basic physics and math to complex engineering problems, ChatGPT can lay out easier, proven ways to solve complex problems and arrive at accurate solutions with much less effort.
@@ -58,11 +65,25 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 ![shortcut for solving arithemetic series](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/shortcut-for-solving-arithemetic-series.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When asking ChatGPT for shortcuts to solve a problem, always ask it to clarify whether the shortcut applies to all cases of a problem.
 
  You can go even further in some STEM problems by asking ChatGPT to provide a shortcut to solving a problem through visual representation. This could be particularly useful for visual learners who process and retain information better when presented visually rather than through text. For example, here's ChatGPT's response when we prompted it to solve the same problem using a visual representation:
 
 ![arithmetic series Visual representation shortcut by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/visual-reprentation-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have a preferred way that makes it easy for you to learn, ChatGPT can help present complex problems in that way to make it easier for you to understand.
 
@@ -84,19 +105,6 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
  After using the prompt, split the text you wish to summarize into bits and feed the entirety of it to ChatGPT. After you've provided the entire text, prompt it to extract the key point or create a summary of a certain length from the text you've provided.
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Improve or Review Creative Writing
 
 [ChatGPT is very impressive in generating creative work](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) like letters, essays, and academic writing. Although some students have chosen the rather unethical part of outsourcing the entire writing process to ChatGPT, the tool can be utilized for reviewing and improving something you wrote rather than asking the chatbot to write it from scratch.
@@ -110,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 ![complete story by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/complete-story-by-chatgp.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Rather than outright asking ChatGPT to write an essay, you can write yours and use the following prompts to improve your work:
@@ -142,5 +150,20 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-snapsnatcher-fb-media-extraction/"><u>[New] 2024 Approved SnapSnatcher FB Media Extraction</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-beginners-guide-to-streaming-on-fb-live-2023-for-2024/"><u>[Updated] Beginner's Guide to Streaming on FB Live, 2023 for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-quick-tips-for-editing-igtv-content-to-stand-out/"><u>[Updated] In 2024, Quick Tips for Editing IGTV Content to Stand Out</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-3d-video-app-for-android-devices/"><u>[Updated] Premium 3D Video App for Android Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/15-proven-strategies-to-enhance-your-oratory-abilities-a-comprehensive-guide/"><u>15 Proven Strategies to Enhance Your Oratory Abilities: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-deep-dive-into-an-individuals-3dr-experience-for-2024/"><u>A Deep Dive Into an Individual's '3DR' Experience for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bust-the-glitch-handling-and-fixing-constant-metro-exodus-crashes-on-desktop-systems/"><u>Bust the Glitch: Handling and Fixing Constant Metro Exodus Crashes on Desktop Systems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/insightful-reviews-on-the-versatile-and-reliable-maxoak-185wh50k-mah-battery-pack-for-everyday-use/"><u>Insightful Reviews on the Versatile and Reliable MaxOak 185Wh/50k mAh Battery Pack for Everyday Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-challenges-of-artificebotics-mastery-tips-and-tricks-as-featured-on-zdnet/"><u>Navigating the Challenges of Artificebotics Mastery - Tips & Tricks as Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-the-feeling-of-inadequacy-in-your-career-strategies-for-boosting-self-assuredness/"><u>Overcoming the Feeling of Inadequacy in Your Career - Strategies for Boosting Self-Assuredness</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/overcoming-windows-10-photo-viewer-challenges-quick-fixes-for-2024/"><u>Overcoming Windows 10 Photo Viewer Challenges Quick Fixes for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-landing-your-dream-remote-dev-position-expert-tips-featured-by-zdnet/"><u>The Ultimate Guide to Landing Your Dream Remote Dev Position – Expert Tips Featured by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-steam-different-from-gog-game-sellers/"><u>What Makes Steam Different From GOG Game Sellers?</u></a></li>
+</ul></div>
 

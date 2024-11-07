@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Strategies for Identifying & Eradicating Smartphone Spyware | CyberSecurity Hub
-date: 2024-10-28T16:32:09.150Z
-updated: 2024-11-01T18:13:51.124Z
+date: 2024-10-31T08:37:16.996Z
+updated: 2024-11-07T06:23:01.505Z
 tags:
   - apple
 categories:
@@ -51,6 +51,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Goldman Sachs's consumer business: A lot to swallow
 
 Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 billion, encompasses several key segments:
@@ -60,13 +67,6 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Credit card partnerships:** Including the lucrative Apple and GM partnerships, this segment is part of the $4.5 billion figure.
 * **GreenSky:** A $2.2 billion merchant lending platform, expanding Goldman's footprint in point-of-sale financing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The potential acquisition scenarios
 
 * **Complete portfolio acquisition:** This scenario would involve a financial giant like Chase or Bank of America acquiring the entire portfolio, leveraging their extensive consumer banking operations.
@@ -74,10 +74,10 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Tokenization technology:** This is a critical aspect, especially for the Apple Card segment. With strong digital banking capabilities, potential partners like Chase or Citi may be better equipped to integrate or replicate this technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The potential new partners
@@ -90,10 +90,10 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Synchrony Financial:** Per the [Wall Street Journal](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45?mod=djemalertNEWS), the financial services company has expressed interest in taking over Apple Card. Synchrony, [the largest issuer of store credit cards in the US](https://upgradedpoints.com/credit-cards/synchrony-bank-store-credit-cards/), lends to a broad category of consumers, including those with bad credit. The company vied against Goldman during the inception of the Apple credit card program but lost during the bidding process. I tend to feel that Synchrony is a wildcard compared with the giants above, as implementing the technology that Apple Card needs will be a significant challenge.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customer expectations will remain high
@@ -103,10 +103,10 @@ The transition will have significant implications for Apple Card users. Maintain
 Still, I do not expect there to be many real concerns on the part of Apple's customers. Apple is not the sort of company to leave its customers high and dry or to burden them with a shift that would give them less functionality or alter the product's ease of use for the worse. If anything, I expect the situation to improve, such as making it easier for people to apply and get approved -- [an issue that the service has dealt with while under Goldman's stewardship.](https://www.zdnet.com/article/apple-card-issuer-investigated-over-gender-bias-in-credit-algorithm/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It won't be easy for Apple Card's new partner
@@ -151,20 +151,16 @@ The decision to acquire parts or all of Goldman Sachs' consumer business, includ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevating-engagement-best-video-ideas-for-channels/"><u>[New] 2024 Approved Elevating Engagement Best Video Ideas for Channels</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-windows-painting-and-sketchpad-programs-reviewed/"><u>[New] 2024 Approved Top Windows Painting and Sketchpad Programs Reviewed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-aspect-ratio-checklist-for-editors-and-directors/"><u>[New] In 2024, The Ultimate Aspect Ratio Checklist for Editors and Directors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-picshot-transforming-photographs-into-artistic-tapestries/"><u>[New] Picshot Transforming Photographs Into Artistic Tapestries</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-4-simple-ways-to-reverse-a-youtube-playlist/"><u>[Updated] In 2024, 4 Simple Ways to Reverse a YouTube Playlist</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-through-premium-hdr-camera-options/"><u>[Updated] In 2024, Navigating Through Premium HDR Camera Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/20249/"><u>2024年に流行りそうな！ベスト9選 無料動画再生アプリランキングと応援ガイド⭐</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/3movavi/"><u>3最適な手段：MOVからAviへの品質保持変換ガイド</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/address-and-repair-advrcntr2dll-not-found-issues-in-your-nero-installation/"><u>Address and Repair 'Advrcntr2.dll Not Found' Issues in Your Nero Installation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advanced-mts-video-manipulation-software-slice-adjust-orientation-enhance-aesthetics-and-secure-content/"><u>Advanced MTS Video Manipulation Software - Slice, Adjust Orientation, Enhance Aesthetics & Secure Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avchdm2tsmts/"><u>AVCHDフォーマットへのM2TS・MTS変換手順：徹底ガイド</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-rated-components-for-smooth-live-transmissions/"><u>In 2024, Top-Rated Components for Smooth Live Transmissions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/major-league-baseball-fixing-the-server-issue-in-mls-the-show-2021-edition/"><u>Major League Baseball: Fixing the 'Server Issue' In MLS The Show 2021 Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44ot44oh44kq6iom5pmv6zplusz5qw944ke5yq55p6c6zplusz5luy44gr55so44gu44km44kj44oz44oj44km44k644ki44ox44oq44kx44o844k344on44oz/"><u>ビデオ背景音楽や効果音付け用のウィンドウズアプリケーション</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44ow44o844oh44op44oz44ki44ox44oq44gn6lk844kk5luy44gr44kj44km44gq44ge44ot44oh44kq44ks54m55yil44gq44kc44gu44gr5asj44gi44kl44k544og44od44ox/"><u>ブーメランアプリで貼り付けられないビデオを特別なものに変えるステップ</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-how-to-optimize-your-next-4k-camera-lens-purchase/"><u>[New] 2024 Approved How to Optimize Your Next 4K Camera Lens Purchase</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-dissecting-the-capabilities-of-magixs-photo-manager/"><u>[New] Dissecting the Capabilities of MAGIX's Photo Manager</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-tapping-into-youtubes-creative-commons-for-video-creators/"><u>[Updated] Tapping Into YouTube's Creative Commons for Video Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-charging-and-cooling-discover-the-ultimate-3-in-1-magsafe-dock-for-all-your-apple-gadgets-on-zdnet/"><u>Effortless Charging and Cooling: Discover the Ultimate 3-in-1 MagSafe Dock for All Your Apple Gadgets on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-spectrum-of-artificial-insights-true-false-and-imagined/"><u>Exploring the Spectrum of Artificial Insights: True, False, and Imagined</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-official-drivers-for-your-epson-v600-step-by-step-instructions/"><u>Installing the Official Drivers for Your Epson V600 - Step-by-Step Instructions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/make-every-picture-pop-with-these-10-online-photo-fixers/"><u>Make Every Picture Pop with These 10 Online Photo Fixers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-macs-battery-life-with-monetary-low-power-strategies-experts/"><u>Optimize Your Mac's Battery Life with Monetary Low Power Strategies Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-windows-compatibility-errors-with-realteks-alc887-audio-drivers/"><u>Resolving Windows Compatibility Errors with Realtek's ALC887 Audio Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/syncing-playlist-content-from-apple-music-to-youtube-music-for-easy-transitions/"><u>Syncing Playlist Content From Apple Music to YouTube Music for Easy Transitions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-does-grok-mean-unveiling-its-role-and-price-through-elons-explanation/"><u>What Does Grok Mean? - Unveiling Its Role and Price Through Elon's Explanation</u></a></li>
 </ul></div>
 

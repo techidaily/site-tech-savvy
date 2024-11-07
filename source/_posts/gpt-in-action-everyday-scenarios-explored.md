@@ -1,0 +1,166 @@
+---
+title: "GPT in Action: Everyday Scenarios Explored"
+date: 2024-11-02T05:27:57.051Z
+updated: 2024-11-07T06:29:04.250Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes GPT in Action: Everyday Scenarios Explored"
+excerpt: "This Article Describes GPT in Action: Everyday Scenarios Explored"
+thumbnail: https://thmb.techidaily.com/f05049a163390a10effd56fd7872beac0cf9789080e0cebdf0db85a2c18febb4.jpg
+---
+
+## GPT in Action: Everyday Scenarios Explored
+
+ ChatGPT gained significant popularity toward the end of 2022 and the beginning of 2023\. The tool, powered by artificial intelligence (AI), gained attention for its ability to answer questions, provide creators with ideas, and much more.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ People in multiple industries have been using ChatGPT to improve their workflows and seek inspiration. If you're interested in finding out how the software is being used, you're in the right place; that's precisely what we'll discuss today.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## 1\. Scripting YouTube Videos
+
+![person holding smartphone displaying youtube logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/speeds.jpg)
+
+ Regardless of whether you want to [start a YouTube channel](https://www.makeuseof.com/starting-youtube-channel-basics/) for fun or as a genuine career path, creating videos requires a lot of effort. Filming your content is only one part of the puzzle; editing takes a significant amount of time, and coming up with ideas in the first place is also a lengthy process.
+
+ When ChatGPT first began gaining awareness, popular tech YouTuber MKBHD published a video about AI in the creative sector. At the beginning of it, he read a script provided by the technology—before providing his take on AI and creativity. While MKBHD's intro was an example, and the rest of the video wasn't scripted, it shows that ChatGPT has the power to help users script their content.
+
+ Before you get excited and try to script all your videos with ChatGPT, remember that adding a human touch is still important. You should know about the topics you discuss, and you'll also need to edit the tone to fit how you authentically speak.
+
+## 2\. Brainstorming Topic Ideas
+
+![An idea symbol (lightbulb) linked to post it notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/lightbulb-with-post-its.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Even if you're required to come up with creative ideas each day, you're not always going to be able to think of new topics. You'll go through periods where you can't seem to think of anything—and if your job relies on you using your brain, this can get frustrating.
+
+ You'll find creative inspiration in plenty of places online, such as by reading the latest news in your niche and checking out your favorite creators on social media. However, you can also use AI to generate new ideas that can lead you in the right direction.
+
+ Many creators are using ChatGPT to brainstorm topic ideas. If you ask the tool to develop a list of topics, you'll probably find at least one or two that you think are worth exploring further. You can then do your own research and bring the content together in whatever form of media you'd prefer.
+
+## 3\. Social Media Bios
+
+![Man holding phone with Instagram on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/man-holding-phone-with-instagram-on-it.jpg)
+
+ Despite the problems that social media can cause, [having a presence on platforms like Twitter](https://www.makeuseof.com/how-to-make-twitter-profile-stand-out/) and Instagram can work in your favor. For example, you can demonstrate your expertise on a topic that you're passionate about—and potentially attract employment opportunities. Moreover, you can use social media to connect with an audience of like-minded people.
+
+ Considering that social media bios typically aren't a lot of characters, it's easy to think of these as an afterthought. However, considering that you're fighting for attention with millions of other users, having something that instantly gives people an insight into who you are is crucial.
+
+ Creating a good social media bio can require a lot of thought, and you can use ChatGPT to help you create a draft. Once you've got a rough framework, you have more room to adjust everything to fit your personality.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 4\. Learning a New Language
+
+![Photo of numerous countries' flags](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/joshua-fuller-tida-geog-s-unsplash.jpg)
+
+ Learning a new language can open new doors, such as giving you the chance to make new friends and potentially gain employment in a new country. You'll find plenty of [language-learning apps, such as Duolingo and Babbel](https://www.makeuseof.com/babbel-vs-duolingo-complete-comparison/). Moreover, you can hone your skills by consuming videos, podcasts, and articles in your target language.
+
+ Knowing the most common words and phrases is a good idea when you're first learning a new language. At the very least, you should find it easier to get around when you next visit that place. And if you use ChatGPT, you've got the opportunity to make progress toward your language-learning goals.
+
+ Some users have asked ChatGPT for the most common words in their target language, and you can also ask the service how to translate certain words and phrases. On top of that, you might want to think about asking ChatGPT for a list of resources that you can add to your ecosystem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 5\. Market Research
+
+![Two Work Areas at Home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/two-work-areas-at-home.jpg)
+
+ Whether you're an employee or a business owner, knowing what your customers want is crucial. Many companies make the mistake of spending a lot of time and energy creating products first, only to discover that nobody wants what they've made. However, market research can be challenging and time-consuming in equal measure.
+
+ You'll find plenty of articles online about how ChatGPT can play a key role in the future of market research. And while the tool is still in its infancy, you can use it for several purposes. For example, you can ask what the pain points of your target audience would typically be.
+
+ You can also use ChatGPT to look at what the people you want to sell to are currently interested in. While you should also use other forms of research—such as surveys—to get a clearer overall picture, ChatGPT can provide a good base level of information.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 6\. Finding the Answers to Questions
+
+ For most of the 21st century, we've become accustomed to [using search engines like Google, Bing, and DuckDuckGo](https://www.makeuseof.com/google-vs-bing-vs-duckduckgo-ultimate-search-engine/) to find the answers to our questions. Whether ChatGPT replaces those websites is another question for another day, but some users have turned to the tool for simple search results.
+
+ You can ask ChatGPT about multiple topics, such as [how to become a freelancer](https://www.makeuseof.com/become-successful-freelancer-essential-skills/). At the time of writing, you won't—unlike tools like Google—receive news articles. However, you will get a list of points that should give you what you're looking for.
+
+ If you need additional information, you can always turn to a search engine later.
+
+## 7\. Software Development
+
+![photo of a woman typing on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/woman-working-on-computer.jpg)
+
+ One of the most interesting ways that ChatGPT is being used is a little outside the box. As reported by [ABC News](https://www.abc.net.au/news/science/2023-01-25/chatgpt-midjourney-generative-ai-and-future-of-work/101882580), some people and companies are using the tool to help them with software development.
+
+ In the article, one student in Australia mentioned that they had used the tool to help them write code. However, they also mentioned that human input still required to ensure everything was correct.
+
+ Meanwhile, a company in Belgium mentioned that it was testing with ChatGPT to create software that would make it easier to put contracts together.
+
+## You'll Find Several Uses for ChatGPT
+
+ ChatGPT is an incredibly powerful tool, and you will find plenty of uses for it. From coming up with creative ideas to helping with software development, the solution looks like it'll disrupt several industries in the coming years.
+
+ You should definitely try ChatGPT and see if it can help you streamline your workflow. However, it's also worth remembering that you'll still need human input to ensure everything is accurate and fits your needs.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ People in multiple industries have been using ChatGPT to improve their workflows and seek inspiration. If you're interested in finding out how the software is being used, you're in the right place; that's precisely what we'll discuss today.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-frame-to-firm-selecting-your-mcn-partner/"><u>[Updated] In 2024, From Frame to Firm Selecting Your MCN Partner</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-google-podcast-upload/"><u>[Updated] Mastering the Art of Google Podcast Upload</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decision-time-for-ai-conversationalists-why-you-might-prefer-a-browsing-companion-over-a-plugin-version-of-chatgpt/"><u>Decision Time for AI Conversationalists: Why You Might Prefer a Browsing Companion Over a Plugin Version of ChatGPT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-new-web-capabilities-in-gpt-3s-beta-update/"><u>Navigating New Web Capabilities in GPT-3's Beta Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-ai-methods-elevating-web-search-standards/"><u>Next-Gen AI Methods Elevating Web Search Standards</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pseudo-agent-program-snaffles-facebook-sign-ins/"><u>Pseudo-Agent Program: Snaffles Facebook Sign-Ins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-writing-the-leading-5-ai-inspirational-tools/"><u>Revolutionize Writing: The Leading 5 AI Inspirational Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/securely-accessing-social-memories-fb-status-videos-guide-for-2024/"><u>Securely Accessing Social Memories FB Status Videos Guide for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-reinvents-its-data-recovery-software-for-consumers-ease/"><u>Stellar Reinvents Its Data Recovery Software for Consumers' Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quintessential-guide-to-writing-powerful-chatgpt-prompts/"><u>The Quintessential Guide to Writing Powerful ChatGPT Prompts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-cyberpunk-2077-enhancements-for-steady-frame-rates/"><u>Troubleshooting Cyberpunk 2077 - Enhancements for Steady Frame Rates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-career-potentials-with-these-6-reasons-to-learn-chatgpt/"><u>Unlock Career Potentials with These 6 Reasons to Learn ChatGPT</u></a></li>
+</ul></div>
+

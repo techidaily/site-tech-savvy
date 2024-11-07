@@ -1,7 +1,7 @@
 ---
 title: Safety Assessment for GPT Browser Integrations
-date: 2024-10-30T18:57:07.996Z
-updated: 2024-11-01T16:51:51.866Z
+date: 2024-11-02T09:27:58.928Z
+updated: 2024-11-06T19:41:58.573Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
  However, [not all ChatGPT browser extensions are bad](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/). Some of them actually do what they advertise. One such extension is Merlin ChatGPT. Once you have logged in, the extension does exactly what it says. It will summarize your Google searches automatically and bring up a chat window where you can ask the chatbot for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fake ChatGPT Apps
 
 ![Play store ChatGPT search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/play-store-chatgpt-search-result.jpg)
@@ -64,24 +57,37 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 ![Bing chat iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![bing-chat-android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
  Now that Bing has integrated GPT-4 into its search engine, there isn't any need to go for these apps in the first place. You can instead download the new version of the Bing app to [use Bing AI Chat on your Android](https://www.makeuseof.com/how-to-use-bing-chat-app-ai-android) or iPhone. Since Bing uses GPT-4 and can access information from the web in real-time, it's a better alternative than any of the shady ChatGPT clones.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Privacy Concerns
 
@@ -94,10 +100,10 @@ Close
  Some of these suspicious third-party apps also ask for random permissions on your phone that have nothing to do with their functionality. These permissions can be anything from call logs to phone media.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Legit ChatGPT Alternatives
@@ -120,6 +126,13 @@ Close
 
  But while Perplexity works well as a search-engine-cum-chatbot, its conversational abilities could be better. It works best as a research tool rather than an AI assistant. Still, the fact that you can download and use it without signing up is incredible, compared to other third-party apps that require your personal info one way or the other.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Nova AI
 
 ![Nova AI response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nova-ai-response.jpg)
@@ -127,13 +140,6 @@ Close
  Available as a web, mobile, and watchOS app, [Nova AI](http://novaapp.ai/) is a worthy ChatGPT alternative that you can use to have a friendly conversation, ask questions, and conduct research. However, you will have to sign up and log in before use.
 
  The basic functionality is pretty much the same as ChatGPT. Type a prompt and Nova will respond back with a coherent and detailed response. What's surprising is that the conversational abilities are on par with ChatGPT. It's available on both Android and iOS, making it one of the best cross-platform chatbots out there.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Watch Out for Shady Third-Party ChatGPT Apps and Browser Extensions
 
@@ -160,20 +166,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-explore-the-8-premier-zero-cost-video-editors-for-social-media-pros/"><u>[New] 2024 Approved Explore the 8 Premier Zero-Cost Video Editors for Social Media Pros</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-the-first-time-filmmakers-guide-to-gear-selection/"><u>[New] 2024 Approved The First-Time Filmmaker's Guide to Gear Selection</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-tips-for-making-facebook-ad-videos-memorable/"><u>[Updated] 2024 Approved Tips for Making Facebook Ad Videos Memorable</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unveiling-the-eight-best-free-video-editing-software-for-social-media/"><u>[Updated] Unveiling the Eight Best FREE Video Editing Software for Social Media</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-mkv-navi/"><u>線上自由下載Movavi應用程式，將 MKV 格式轉換�nAVI -無限制使用的優化選項</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-of-3gp-files-to-wma-movavi/"><u>Free Online Conversion of 3GP Files to WMA - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-tool-convert-mp4-audio-tracks-to-high-quality-mp3-files/"><u>Free Online Tool: Convert MP4 Audio Tracks to High-Quality MP3 Files</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/infuse-style-in-vids-3-proven-methods-for-instagram-borders-for-2024/"><u>Infuse Style in Vids 3 Proven Methods for Instagram Borders for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/os-melhores-programas-de-producao-musica-digital-para-pc-e-mac-descoberta-das-opcoes-principais/"><u>Os Melhores Programas De Produção Musica Digital Para PC E MAC Descoberta Das Opções Principais</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-for-adding-audio-files-to-a-portable-memory-device-movavi/"><u>Step-by-Step Tutorial for Adding Audio Files to a Portable Memory Device - Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-resolving-user-profile-service-failure-during-windows-1011-login/"><u>Troubleshooting Steps: Resolving 'User Profile Service' Failure During Windows 10/11 Login</u></a></li>
-<li><a href="https://win-trending.techidaily.com/unlocking-the-secrets-of-iphone-data-restoration-how-to-recover-deleted-photos-without-using-a-computer/"><u>Unlocking the Secrets of iPhone Data Restoration: How to Recover Deleted Photos without Using a Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uluchshite-vashu-fotografiyu-ustranyaya-fon-s-movavi-photo-editor/"><u>Улучшите Вашу Фотографию, Устраняя Фон С Movavi Photo Editor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-caf-m4r/"><u>무세워서 코드 바꾸기: 오피스에서 Movavi CAF M4R 변환</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-buzzfeed-gurus-flashing-with-snapchat/"><u>[New] In 2024, BuzzFeed Gurus Flashing with Snapchat</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-navigating-vector-editing-beyond-magixs-domain/"><u>[New] In 2024, Navigating Vector Editing Beyond Magix's Domain</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-securing-your-discord-sessions-with-ease/"><u>[Updated] In 2024, Securing Your Discord Sessions with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-innovation-examining-the-search-and-output-processes/"><u>AI Innovation: Examining the Search and Output Processes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-speed-and-efficiency-of-google-nest-wi-fi-a-comprehensive-review/"><u>Exploring the Speed and Efficiency of Google Nest Wi-Fi - A Comprehensive Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-chatgpt/"><u>Harnessing the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hone-in-on-ai-excellence-the-ultimate-guide-to-crafting-winning-prompts/"><u>Hone In On AI Excellence: The Ultimate Guide To Crafting Winning Prompts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-7-phone-without-pin-by-drfone-android/"><u>How to Unlock Asus ROG Phone 7 Phone without PIN</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-14-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 14 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-hp-wireless-network-driver-on-windows-1078/"><u>Step-by-Step Guide: Updating Your HP Wireless Network Driver on Windows 10/7/8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stop-mingling-siri-and-chatgpt-differentiate-them-now/"><u>Stop Mingling Siri & ChatGPT: Differentiate Them Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergistic-computing-chatgpt-and-the-apple-ecosystem/"><u>Synergistic Computing: ChatGPT and the Apple Ecosystem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-the-mysteries-of-gpt-4-within-verified-sphere/"><u>Unpacking the Mysteries of GPT-4 Within Verified Sphere</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/which-will-rise-to-the-top-gpt-plus-or-perplexity/"><u>Which Will Rise To The Top? GPT Plus or Perplexity?</u></a></li>
 </ul></div>
 

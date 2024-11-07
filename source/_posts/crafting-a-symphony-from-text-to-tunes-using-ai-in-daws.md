@@ -1,7 +1,7 @@
 ---
 title: Crafting a Symphony From Text to Tunes Using AI in DAWs
-date: 2024-10-27T17:54:23.694Z
-updated: 2024-11-01T17:12:33.068Z
+date: 2024-10-31T09:51:47.793Z
+updated: 2024-11-07T10:59:27.098Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  In the title of each track is the name of the plugin type we used, such as distortion or delay, plus the keywords we used in the prompt i.e., dense, watery, psychedelic, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Prompt Format
 
  There are numerous ways you can ask [ChatGPT](https://chat.openai.com/) to help you craft a sound. After successive experiments, we came up with the following prompt format that is concise, while producing all the necessary information.
@@ -71,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 ![Table of audio settings produced by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-plugin-settings-results.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you input ChatGPT's suggested settings, listen to the results and see what you think. Here is the result of the prompt we tried above:
@@ -87,16 +94,16 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  It may be tiring to hear, but nonetheless true.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips and Tricks
 
  In addition to the basic prompt format that we've outlined, there are a few extra things you can experiment with. These tips and tricks will help you play with, or expand on, ChatGPT's responses.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ask for an Explanation
 
@@ -104,37 +111,30 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
 ![A table produced by ChatGPT including recommended audio settings plus explanations.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-table-explanation.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Follow-Up Questions
 
  Sometimes the explanations can be hit or miss, so if there is a parameter you want more information about, ask ChatGPT a follow-up question. You can treat the AI chatbot like you would a person and ask it to explain something in depth. If it starts to use too much jargon, ask it to write the answer in simple terms or use a metaphor.
 
  There are several [prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) that can help you distill the information you're looking for.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Get Variations
 
  A good way to get a different result is to have ChatGPT regenerate its response to your prompt. The **Regenerate response** button sits just above the text box, and you can click it to get a slightly different answer.
 
 ![Screenshot of ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-variations.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Additionally, look for a couple of arrows near the top left-hand side of ChatGPT's response. You can use them to move back and forth between the different results.
 
@@ -163,20 +163,21 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-tapping-into-instagrams-video-power-formulating-a-winning-strategy/"><u>[New] Tapping Into Instagram's Video Power Formulating a Winning Strategy</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nlocking-a-world-of-talent-with-the-top-10-low-cost-youtube-creators-for-2024/"><u>[New] Unlocking a World of Talent with the Top 10 Low-Cost YouTube Creators for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-master-the-art-of-earning-on-tiktok-a-guide-to-8-proven-techniques/"><u>[Updated] In 2024, Master the Art of Earning on TikTok A Guide to 8 Proven Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/authenticity-verifier-openais-detector-for-chatgpt-replicas/"><u>Authenticity Verifier: OpenAI's Detector for ChatGPT Replicas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-enhanced-browsing-bings-ai-driven-search-on-mobile/"><u>Experience Enhanced Browsing: Bing's AI-Driven Search on Mobile</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-llama-2-for-enhanced-problem-solving/"><u>Harnessing Llama 2 for Enhanced Problem-Solving</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-c53-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from C53.</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ios-174-update-launches-featuring-podcast-transcript-support-fresh-emoji-additions-and-enhanced-eu-apple-app-store-latest/"><u>IOS 17.4 Update Launches Featuring Podcast Transcript Support, Fresh Emoji Additions, and Enhanced EU Apple App Store - Latest</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-craft-with-8-top-ai-writing-tools/"><u>Master Your Craft with 8 Top AI Writing Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revive-your-zoom-presentations-solutions-to-common-screen-share-issues/"><u>Revive Your Zoom Presentations: Solutions to Common Screen Share Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-insiders-handbook-to-deciphering-snapchat-emojis/"><u>The Insider's Handbook to Deciphering Snapchat Emojis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-automated-code-writing-without-chatgpt-tools/"><u>Unlocking Automated Code Writing Without ChatGPT Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unwrapping-ais-essence-for-all/"><u>Unwrapping AI's Essence for All</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-ai-transfer-learning-and-how-does-it-work/"><u>What Is AI Transfer Learning and How Does It Work?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-for-zoom-clarity-in-teams/"><u>[New] Expert Tips for Zoom Clarity in Teams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-beats-in-the-balance-adding-music-to-whatsapp/"><u>[New] In 2024, Beats in the Balance Adding Music to WhatsApp</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-innovative-windows-media-cutting-tools/"><u>[New] In 2024, Innovative Windows Media Cutting Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-evolution-uncovering-the-revolutionary-changes-of-chatgpt/"><u>AI Evolution: Uncovering the Revolutionary Changes of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-perfect-presentations-top-7/"><u>AI's Role in Perfect Presentations - Top 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cha-ching-for-better-ai-invest-in-10-gpt-modifications/"><u>Cha-Ching for Better AI: Invest in 10 GPT Modifications</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a24-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A24 support MOV videos ?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-chatgpts-monopoly-on-conversation/"><u>Eliminating ChatGPT's Monopoly on Conversation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emotional-acumen-harnessing-chatgpt-expertise/"><u>Emotional Acumen: Harnessing ChatGPT Expertise</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/hassle-free-hd-video-on-your-device-for-2024/"><u>Hassle-Free HD Video on Your Device for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-music-and-motion-imovie-edition/"><u>In 2024, Music & Motion IMovie Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tiktoks-biggest-winners-on-the-twittersphere/"><u>In 2024, TikTok's Biggest Winners on the Twittersphere</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-x50iplus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor X50i+ Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-gpt-chatbeta-web-enhancements/"><u>Navigating GPT ChatBeta Web Enhancements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-basics-of-claude-3-usage-how-it-works-and-what-you-can-achieve/"><u>The Basics of Claude 3 Usage: How It Works & What You Can Achieve</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-ai-tools-beyond-gpt-for-code-automation/"><u>Top 7 AI Tools Beyond GPT for Code Automation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Canva & GPT for Rapid Design Output
-date: 2024-10-25T17:51:28.399Z
-updated: 2024-11-01T16:18:00.646Z
+date: 2024-11-02T03:55:58.056Z
+updated: 2024-11-07T13:10:51.091Z
 tags:
   - chatgpt
   - open-ai
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 
  After ChatGPT generates your prompts, read over them. One of the [issues with using ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is occasionally it generates inaccurate information. If you’re making content that informs people, you should ensure that it is correct.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Copy the Text Into a Spreadsheet
 
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
@@ -63,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 ## 3\. Tidy Up the Content
 
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
 
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
  Label **A1** with “QUOTES” or the type of content that’s there, like “SONGS,” “PASSAGES,” or “TESTIMONIALS.” In **B1**—and any further columns—label it with the content type, ensuring the label is different. We’re going to use “ATTRIBUTION,” but you could use “CREDIT,” “CUSTOMER,” “ARTIST,” or whatever suits your content.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Save Your Sheet as a CSV File
@@ -90,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 ![Google Sheets saving options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saveas-csv.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  CSV stands for Comma-Separated Values which allows your content to be saved in a structured table ready for input into other programs.
@@ -103,15 +103,22 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
  For Microsoft Excel, go to **File** \> **Save as**​​​​​​, and under File Format choose **CSV UTF-8 (Comma-delimited) (.csv)**​​​​​​. But this could be different depending on which version of Microsoft Office you’re running.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Make Your Design in Canva
 
 ![Create a Design options in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-design-canva.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Head to [Canva](https://www.canva.com) and choose a size for your bulk designs. Whether you’re using a pre-made template, or designing from a blank page, make sure your design isn’t overcrowded and that there will be enough space for your text.
 
@@ -121,16 +128,16 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Add Text Placeholders
 
 ![Canva design with placeholder text.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placeholder-text-canva.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select the **Text** tool and write placeholders for your labels. Place them where your text will go on the design. Remember to give yourself space to accommodate different lengths of content.
 
@@ -141,13 +148,6 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 ## 8\. Bulk Create Your Content
 
 ![Bulk Create app in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-app-canva.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select **Apps** on Canva’s left-hand menu and type “Bulk Create” in the search bar. Select the **Bulk Create** app.
 
@@ -161,14 +161,14 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 
 ![Canva's Bulk Create checkboxes.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apply-data-canva-bulk-create.jpg)
 
- You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select **Generate Pages**. Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select **Generate Pages**. Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
 
 ## 9\. Review and Edit Your Designs
 
@@ -181,10 +181,16 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Save Your Bulk-Created Designs
@@ -220,24 +226,24 @@ thumbnail: https://thmb.techidaily.com/150a758dee3602d845be20dca449cfe34839f49d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-6plus-software-choices-download-youtube-music-as-mp3-for-iphone-users/"><u>[New] 2024 Approved 6+ Software Choices Download YouTube Music as MP3 for iPhone Users</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-curating-soundscapes-a-detailed-look-at-youtube-playlists/"><u>[New] In 2024, Curating Soundscapes A Detailed Look at YouTube Playlists</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-to-tiktok-sound-as-your-phones-ringtone/"><u>[New] Step-by-Step Guide to TikTok Sound as Your Phone's Ringtone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-cross-platform-chrome-leveraging-pip-features/"><u>2024 Approved Cross-Platform Chrome Leveraging PIP Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-boundaries-questions-that-challenge-chatgpt/"><u>AI Boundaries: Questions That Challenge ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-barriers-sharing-gpt-conversations-safely/"><u>Breaking Down Barriers: Sharing GPT Conversations Safely</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claudes-challenge-can-it-outperform-chatgpt/"><u>Claude's Challenge: Can It Outperform ChatGPT?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/crystalclear-conversion-high-res-format/"><u>CrystalClear Conversion - High Res Format</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-6s-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 6s to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-g54-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola G54 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-stock-pictures-tales-and-internet-fame/"><u>In 2024, Leading Stock Pictures' Tales and Internet Fame</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-tailored-training-regimens/"><u>Leveraging ChatGPT for Tailored Training Regimens</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/musks-breakdown-understanding-the-function-and-financial-aspects-of-grok-ai/"><u>Musk's Breakdown: Understanding the Function and Financial Aspects of Grok AI</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamlining-podcast-feed-creation-techniques/"><u>Streamlining Podcast Feed Creation Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-broad-vs-narrow-impact-of-artificial-intelligence/"><u>The Broad Vs. Narrow Impact of Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tips-to-surpass-chatgpts-character-threshold/"><u>Tips to Surpass ChatGPT's Character Threshold</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-digital-aids-for-perfecting-prompt-craftsmanship/"><u>Top 7 Digital Aids for Perfecting Prompt Craftsmanship</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vision-of-virtual-fortresses-top-7-cyber-forecasts/"><u>Vision of Virtual Fortresses: Top 7 Cyber Forecasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-melody-on-calls-the-complete-guide-to-downloading-and-editing-tamil-tracks/"><u>[New] Melody on Calls The Complete Guide to Downloading & Editing Tamil Tracks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-aurora-hdr-experience-is-it-transformative-for-2024/"><u>[New] The Aurora HDR Experience Is It Transformative for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-capture-your-world-audio-on-windows-10/"><u>[Updated] Capture Your World Audio on Windows 10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-channel-size-independent-strategies-for-securing-sponsors-for-2024/"><u>[Updated] Channel-Size-Independent Strategies for Securing Sponsors for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-pioneering-editing-snapseed-for-the-newcomer-for-2024/"><u>[Updated] Pioneering Editing Snapseed for the Newcomer for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-can-creators-earn-from-product-video-reviews/"><u>2024 Approved Can Creators Earn From Product Video Reviews?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mirthful-browsings-your-ultimate-list-of-top-comedy-vids/"><u>2024 Approved Mirthful Browsings Your Ultimate List of Top Comedy Vids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/amazon-offers-rare-bargain-on-apple-vision-pro-at-only-200-hurry-this-deal-wont-last-long-insights-from-zdnet/"><u>Amazon Offers Rare Bargain on Apple Vision Pro at Only $200 - Hurry, This Deal Won't Last Long | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-chatgpt-queries-for-gaining-insights-into-digital-coins-and-tokens/"><u>Discover the Best ChatGPT Queries for Gaining Insights Into Digital Coins and Tokens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-turing-test-is-it-unbeatable-or-not/"><u>Dissecting the Turing Test: Is It Unbeatable or Not?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-ai-adventures-with-copilot-and-turbo-combined/"><u>Elevate Your AI Adventures: With Copilot and Turbo Combined</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eu-levies-2b-penalty-on-apple-over-app-store-antitrust-violations-technews/"><u>EU Levies $2B Penalty on Apple Over App Store Antitrust Violations - TechNews</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your iPhone 8 Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-this-seasons-top-5-game-changing-ai-technologies/"><u>Pioneering Progress: This Season's Top 5 Game-Changing AI Technologies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/refining-responses-cutting-edge-methods-for-better-gpt-engagements/"><u>Refining Responses: Cutting-Edge Methods for Better GPT Engagements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mini-tablets-comprehensive-reviews-and-comparisons-techadvisor/"><u>Top-Ranking Mini Tablets : Comprehensive Reviews & Comparisons | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-and-apple-watch-skin-guards-ultimate-shields-for-your-devices-in-2/"><u>Top-Rated iPhone and Apple Watch Skin Guards - Ultimate Shields for Your Devices in 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2024-in-depth-analysis-and-ratings-cnet/"><u>Ultimate Guide to the Best MagSafe Wallets of 2024 - In-Depth Analysis and Ratings | CNET</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-14-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone 14 Plus i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

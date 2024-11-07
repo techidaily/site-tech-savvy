@@ -1,7 +1,7 @@
 ---
 title: Why Claude 3 Won't Miss the Mark in 4 Key Areas Compared to GPT-3
-date: 2024-09-15T16:20:36.983Z
-updated: 2024-09-17T16:11:14.780Z
+date: 2024-11-01T04:32:47.710Z
+updated: 2024-11-06T17:16:53.919Z
 tags:
   - chatgpt
   - open-ai
@@ -56,9 +56,23 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 3. Sample 3  
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
 
@@ -70,24 +84,25 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 
 ![Coconut to wealth by ChatGPT writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And here's Claude's take:
 
 ![Coconut to wealth by Claude writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-claude.jpg)
 
- Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
-
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
 ## 2  Claude Offers Multimodality for Free
 
@@ -104,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
  Whereas Claude has a 200k context window on its free and premium plans—a significant improvement from ChatGPT's 4k or 8k window.
 
  Why does this even matter? Well, the larger the context window, the more text data you can process at a time without the AI chatbot making things up. Claude's 200k context window is equivalent to around 150,000 words. Yep, it means you'll theoretically be able to process 150,000 words simultaneously with Claude, while ChatGPT could cap you out at 24,000 words even on its premium tier. You see? The difference is like night and day—at least in theory.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4  More Messages Per Hour
 
@@ -141,5 +149,21 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-home-cinema-mastery-top-10-hd-players-list/"><u>[New] 2024 Approved Home Cinema Mastery Top 10 HD Players' List</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-is-there-a-superior-cameras-marketplace/"><u>[New] In 2024, Is There a Superior Cameras Marketplace?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-draw-eyes-to-your-subject-iphone-photo-tips-with-leading-lines/"><u>[Updated] Draw Eyes to Your Subject IPhone Photo Tips with Leading Lines</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mac-owners-guide-to-downloading-snapchat/"><u>2024 Approved Mac Owners' Guide to Downloading Snapchat</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-picture-preview-compilation/"><u>Best Picture Preview Compilation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-practices-for-uploading-and-distributing-conversations-with-chatgpt/"><u>Best Practices for Uploading and Distributing Conversations with ChatGPT</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y27-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y27 5G</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-effortlessly-sync-youtube-videos-with-fb-feeds-using-autoplay-mode/"><u>In 2024, Effortlessly Sync YouTube Videos with FB Feeds Using Autoplay Mode</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-mix-of-home-and-office-insights-for-a-winning-hybrid-work-strategy-advice-from-leaders-zdnet/"><u>Mastering the Mix of Home and Office: Insights for a Winning Hybrid Work Strategy - Advice From Leaders | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-productivity-using-the-opera-pop-up-function-insights-by-zdnet/"><u>Maximize Productivity Using the Opera Pop-Up Function - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nurturing-your-cyber-defense-team-tips-for-improving-staff-well-being-and-efficiency/"><u>Nurturing Your Cyber Defense Team: Tips for Improving Staff Well-Being and Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-screen-shots-on-dell-lenovo-and-mac-computers-seo-tips-for-windows-and-macos/"><u>Step-by-Step Guide: Capturing Screen Shots on Dell, Lenovo, and Mac Computers - SEO Tips for Windows & macOS</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-efficient-route-or-a-security-minefield-debating-facebooks-role-in-multi-app-access/"><u>The Efficient Route or a Security Minefield? Debating Facebook's Role in Multi-App Access</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-reasons-behind-my-departure-from-safari-for-macos-browsers-and-the-successors-catching-up/"><u>The Reasons Behind My Departure From Safari for macOS Browsers & The Successors Catching Up.</u></a></li>
+</ul></div>
 

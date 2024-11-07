@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Content Creation Missteps: Use of ChatGPT"
-date: 2024-10-27T16:55:15.199Z
-updated: 2024-11-01T17:45:07.502Z
+date: 2024-11-06T06:31:36.421Z
+updated: 2024-11-06T21:17:10.350Z
 tags:
   - chatgpt
   - open-ai
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/de76a8c110eaff7a166a09fee629e954d26d490c5
 
 ![chatGPT giving a link to a nonexistent JSTOR academic journal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-47.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In another example, we gave ChatGPT a more specific topic to research on to see if it would come up with better results. This is the prompt we used: I am writing a literary research paper on "The Heroine in British Young Adult and Coming-of-Age Contemporary Novels." Can you give me a literature review on this topic?
 
  ChatGPT responded with a list of five works, complete with the author's names and summaries. However, we couldn't find any of the works it listed online.
@@ -80,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/de76a8c110eaff7a166a09fee629e954d26d490c5
 * If you need sources for academic research, check [Google Scholar](https://scholar.google.com/) or [Elicit](http://elicit.org/), an AI research assistant.
 * Remember to critically assess the results and exercise judgment when selecting which ones to cite.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Don't Replace Workplace Connections With ChatGPT
 
  Some [things that you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) might tempt you to anthropomorphize it or give it human attributes. For instance, you can ask ChatGPT for advice and chat with it if you need someone to talk to.
@@ -94,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/de76a8c110eaff7a166a09fee629e954d26d490c5
 
  Learning to work with the latest tech tools is important, but interacting with your team is also essential. Instead of relying on ChatGPT to replicate social connections, build your interrelational skills, interact with co-workers, and find the best people you can work with.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Don't Feed ChatGPT Ineffective Prompts
 
  Are you finding it hard to get the best responses out of ChatGPT when creating content? Providing context and giving precise instructions should solve your problem.
@@ -112,32 +119,25 @@ thumbnail: https://thmb.techidaily.com/de76a8c110eaff7a166a09fee629e954d26d490c5
 ![ChatGPT giving a wrong answer to a prompt asking for a summary of Eric Allen's article on Hackernoon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To help ChatGPT, we copy-pasted the article in parts and asked for a summary after each upload. This time, ChatGPT was able to accomplish the task accurately. At one point, it gave us a comment instead of a summary, but we redirected it using another prompt.
 
 ![Conversation with ChatGPT asking to summarize a blog on Hackernoon by Eric Allen, which was uploaded in parts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-43.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This example was a learn-by-doing experiment on how to use ChatGPT to summarize long and technical articles effectively. However, you can now access many internet resources and [learn prompting techniques to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/).
 
  Using recommended prompts is not a fail-safe method against hallucinations, but it can help you deliver accurate results. You can also review the [best ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) for more information on prompting techniques.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Maximize ChatGPT Capabilities, but Be Mindful of Its Limits
@@ -165,17 +165,18 @@ thumbnail: https://thmb.techidaily.com/de76a8c110eaff7a166a09fee629e954d26d490c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-orderly-quest-for-veiled-youtube-vaults/"><u>[New] 2024 Approved The Orderly Quest for Veiled YouTube Vaults</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-tailoring-iphone-audio-a-ringtone-makeover-journey/"><u>[Updated] Tailoring iPhone Audio A Ringtone Makeover Journey</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-rectify-poor-sound-quality-zoom-audio-fixes/"><u>2024 Approved Rectify Poor Sound Quality Zoom Audio Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-the-prime-8-essential-crypto-friendly-gpt-plugins/"><u>Discovering the Prime: 8 Essential Crypto-Friendly GPT Plugins</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/efficiently-moving-files-from-network-storage-to-personal-computer-with-windows-11-instructions/"><u>Efficiently Moving Files From Network Storage to Personal Computer with Windows 11 Instructions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-ai-applications-for-modern-business-leaders/"><u>Essential AI Applications for Modern Business Leaders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fostering-symbiosis-between-humans-and-ai/"><u>Fostering Symbiosis Between Humans and AI</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimize-live-feed-select-from-the-best-9-filters/"><u>In 2024, Optimize Live Feed Select From the Best 9 Filters</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paving-the-path-for-ai-safety-ceos-plea-for-new-policies/"><u>Paving the Path for AI Safety: CEO’s Plea for New Policies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tailored-ending-scenes-get-em-for-free-for-2024/"><u>Tailored Ending Scenes - Get 'Em for Free for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-navigating-twitters-algorithm-to-amplify-your-message/"><u>[New] In 2024, Navigating Twitter's Algorithm to Amplify Your Message</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-optimize-your-instagram-stories-for-engagement-for-2024/"><u>[Updated] How to Optimize Your Instagram Stories for Engagement for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-incorporate-soundscape-into-visual-discussions/"><u>[Updated] Incorporate Soundscape Into Visual Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bards-own-quests-interactive-text-games-with-gpt/"><u>Bard's Own Quests: Interactive Text Games with GPT</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-free-dailymotion-converter-online-for-2024/"><u>Best Free Dailymotion Converter Online for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-user-corrections-improve-ai-learning-in-chatgpt-platforms/"><u>Can User Corrections Improve AI Learning in ChatGPT Platforms?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-believable-characters-in-ux-with-chatgpt-assistance/"><u>Crafting Believable Characters in UX with ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-conversations-unveiling-the-process-of-chatgpt/"><u>Decoding Conversations: Unveiling the Process of ChatGPT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-ds-530-software-update-drive-support-for-windows-10-64-bit/"><u>Get the Latest Epson DS- 530 Software Update - Drive Support for Windows 10 (64-Bit)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-gpts-limits-innovations-and-impact/"><u>Navigating GPT's Limits: Innovations and Impact</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-audio-editing-techniques-for-mp4-files/"><u>New 2024 Approved Audio Editing Techniques for MP4 Files</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-13t-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi 13T Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-student-laptops-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Student Laptops: Comprehensive Testing & Reviews by Tech Experts - ZDNet</u></a></li>
 </ul></div>
 

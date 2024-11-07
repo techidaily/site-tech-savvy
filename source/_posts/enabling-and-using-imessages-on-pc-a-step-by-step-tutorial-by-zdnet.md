@@ -1,7 +1,7 @@
 ---
 title: "Enabling & Using iMessages on PC: A Step-by-Step Tutorial by ZDNet"
-date: 2024-10-25T16:25:41.736Z
-updated: 2024-11-01T18:56:25.821Z
+date: 2024-10-31T02:51:59.196Z
+updated: 2024-11-07T12:00:36.620Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 ## How to send and receive iMessages on Windows
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
@@ -63,11 +63,25 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -85,31 +99,11 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -134,10 +128,10 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
@@ -158,18 +152,18 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Send a message
 
@@ -213,16 +207,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-free-srt-tools-the-most-reliable-high-quality-apps-listed-for-2024/"><u>[New] Free SRT Tools The Most Reliable, High-Quality Apps Listed for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-decoding-srt-a-detailed-reference-guide/"><u>[New] In 2024, Decoding SRT A Detailed Reference Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-landscape-of-firefox-picture-in-picture/"><u>[New] Navigating the Landscape of Firefox Picture-in-Picture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/como-convertir-facilmente-tus-videos-wma-al-comodo-formato-flv-usando-movavi-gratis-y-en-linea/"><u>Cómo Convertir Fácilmente Tus Videos WMA Al Cómodo Formato FLV Usando Movavi - Gratis Y en Línea</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/flvwebm-movavi/"><u>FlvからWebmへの無料デジタルフォーマット変換 - Movaviで行う方法</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-honor-90-lite-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Honor 90 Lite Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-mp4/"><u>Movavi 브로드캐스트 소개: MP4 비디오를 원형으로 만들기 위한 단계별 지침</u></a></li>
-<li><a href="https://android-frp.techidaily.com/oneplus-nord-ce-3-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>OnePlus Nord CE 3 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/restoring-your-dark-theme-functionality-on-windows-11-if-night-light-fails-to-activate/"><u>Restoring Your Dark Theme Functionality on Windows 11 if Night Light Fails to Activate</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seguranca-no-software-de-multimidia-a-solucao-eficiente-do-movavi/"><u>Segurança No Software De Multimídia - A Solução Eficiente Do Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-15-free-raw-image-editing-tools-the-ultimate-guide-by-movavi/"><u>Top 15 Free RAW Image Editing Tools: The Ultimate Guide by Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-acclaimed-ideas-top-tone-creators-for-apple-phones/"><u>[New] Acclaimed Ideas Top Tone Creators for Apple Phones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leveraging-xml-and-ttml-for-cutting-edge-srt-creation-processes/"><u>[New] Leveraging XML & TTML for Cutting-Edge SRT Creation Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-mastery-unleashed-delving-into-transfer-learning-methods/"><u>AI Mastery Unleashed: Delving Into Transfer Learning Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lava-yuva-3-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mystery-dispatched-direct-x-woes-in-lol/"><u>Mystery Dispatched: Direct X Woes in LoL</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-the-web-with-ease-bings-ai-search-on-ios-and-android/"><u>Navigate the Web with Ease: Bing's AI Search on iOS & Android.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-red-magic-8s-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Red Magic 8S Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-chatgpt-command-strategies-unveiled/"><u>Optimal ChatGPT Command Strategies Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserve-your-virtual-discussions-with-gpt/"><u>Preserve Your Virtual Discussions with GPT</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/shopping-smart-with-drones-what-you-need-to-think-about-first/"><u>Shopping Smart with Drones What You Need to Think About First</u></a></li>
 </ul></div>
 

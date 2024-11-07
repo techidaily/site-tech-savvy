@@ -1,7 +1,7 @@
 ---
 title: Hone Your Prompt Writing Skills for Maximum ChatGPT Impact
-date: 2024-09-14T16:18:31.424Z
-updated: 2024-09-17T16:06:59.895Z
+date: 2024-11-06T10:03:56.965Z
+updated: 2024-11-06T16:34:52.418Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 
  Akin has also written a free (or pay-what-you-want) ebook for beginners called [The Art of ChatGPT Prompting](https://fka.gumroad.com/l/art-of-chatgpt-prompting) . It takes you step-by-step through the ChatGPT process of understanding what the AI does, why prompts are essential, and the principles of good PE. Akin also shares his "Act as…" hack for making ChatGPT behave the way you want without overloading it with too much information.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2. QuickRef ChatGPT Cheat Sheets
 
 ![QuickRef's ChatGPT cheat sheet offers free examples and templates of prompts for ChatGPT across various categories and uses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-quickref-cheat-sheets.jpg)
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 
 ![Adrian Twarog's "Ultimate ChatGPT Resource Guide" is the best free series of YouTube lessons to learn how to write ChatGPT prompts and then use it in advanced applications, or even to make your own ChatGPT clone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-adrian-twarog.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  YouTuber Adrian Twarog has quite a following for his how-to and tutorial videos on myriad topics like web development, apps, and AI. He deep-dived into the system and has already made videos on creating a ChatGPT clone or making your Discord bot with the OpenAI models. Naturally, this requires understanding the core principles of how ChatGPT works, and he's imparting all that knowledge in a series of YouTube videos.
 
  In the Ultimate ChatGPT Resource Guide, Twarog explains what ChatGPT is in a quick five-minute video before moving on to a 35-minute crash course on how to use ChatGPT. In the second video, Twarog covers a lot on how to use prompts, focusing on use-case scenarios like summarization, templates, short stories, JavaScript, resumes, and blogging or editing. You'll need to go through both of these to understand the basics before moving on in the series.
@@ -59,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
  The third video, titled Advanced ChatGPT Guide, is the one you want to pay particular attention to if you want to understand advanced prompts. Twarog goes into details of prompt engineering with a series of examples. Even if the examples aren't what you want to do with ChatGPT, go through these as an exercise to truly understand the finer points of composing a prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4. Micah Johns
@@ -76,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
  Micah's larger [How to Use ChatGPT playlist](https://www.youtube.com/playlist?list=PLRc1YiX2Z0mpeXlmv6n7ZsVPVn-2etOua) has several other real-world applications for ChatGPT. For example, you'll learn how to write a 5-page essay in 10 minutes with AI or make your superhero comic with ChatGPT and Midjourney, one of the [best free AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5. Learn Prompting
@@ -109,5 +123,26 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-finest-videography-tools/"><u>[New] The Finest Videography Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-creating-cohesive-content-with-soundtracks-on-instagram-for-2024/"><u>[Updated] Creating Cohesive Content with Soundtracks on Instagram for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-enhance-your-mobile-calls-with-these-top-10-safe-and-free-chat-applications-for-iosandroid/"><u>2024 Approved Enhance Your Mobile Calls with These Top 10 Safe & Free Chat Applications for iOS/Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-travel-packs-reviewed-find-the-perfect-companion-based-on-zdnets-picks/"><u>Best Travel Packs Reviewed: Find the Perfect Companion , Based on ZDNET's Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/clearer-focus-utilizing-photos-app-background-blur-in-windows-11/"><u>Clearer Focus: Utilizing Photos App Background Blur in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embrace-and-conserve-wildlife-as-you-connect-with-nature-using-this-exclusive-free-bird-identification-app-by-zdnet/"><u>Embrace and Conserve Wildlife as You Connect With Nature Using This Exclusive, Free Bird Identification App by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-forefront-top-extreme-climate-gadgets-and-software-for-2e-year-2024-reviewed-by-zdnet/"><u>Exploring the Forefront: Top Extreme Climate Gadgets and Software for 2E Year 2024 Reviewed by ZDNET</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-functionality-for-non-responsive-logitech-configuration-tools-windows/"><u>How to Restore Functionality for Non-Responsive Logitech Configuration Tools (Windows)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimizing-media-experience-best-windows-phone-videos/"><u>Optimizing Media Experience Best Windows Phone Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shop-the-deal-of-the-season-blink-4-camera-floodlight-bundle-at-only-80-available-this-labor-day/"><u>Shop the Deal of the Season: Blink 4-Camera Floodlight Bundle at Only $80 - Available This Labor Day!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/step-by-step-webcam-recording-on-macbook/"><u>Step-by-Step Webcam Recording on MacBook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-walkie-talkie-models-a-comprehensive-review-by-zdnet/"><u>Top 5 Walkie-Talkie Models : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-video-doorbell-reviews-featuring-the-latest-models-reviewed-by-zdnet/"><u>Top-Ranked Video Doorbell Reviews - Featuring the Latest Models Reviewed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-outdoor-projectors-professional-tests-and-insights-cnet/"><u>Ultimate Guide to the Best Outdoor Projectors - Professional Tests & Insights | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-portable-jump-starters-features-reviews-and-buying-tips-toms-hardware/"><u>Ultimate Guide to the Best Portable Jump Starters : Features, Reviews & Buying Tips | Tom's Hardware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-2022-travel-backpacks-zdnets-selections/"><u>Ultimate Guide to the Finest 2022 Travel Backpacks (ZDNET's Selections)</u></a></li>
+</ul></div>
 

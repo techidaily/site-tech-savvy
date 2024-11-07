@@ -1,7 +1,7 @@
 ---
 title: "Challenger Emerges: Google's Gemini Rises Against OpenAI’s ChatGPT"
-date: 2024-10-28T17:32:51.808Z
-updated: 2024-11-01T16:11:21.790Z
+date: 2024-11-03T08:21:55.580Z
+updated: 2024-11-07T07:46:31.739Z
 tags:
   - chatgpt
   - open-ai
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
@@ -75,16 +68,10 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
@@ -101,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
  We tried another attempt at making it interpret an image while testing its problem-solving and coding ability. We gave Bard, running Gemini Pro, a screenshot and asked it to interpret and write HTML and CSS code to replicate the screenshot.
@@ -116,24 +96,38 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated [using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/).
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
@@ -142,10 +136,10 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
@@ -171,20 +165,24 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-zoom-video-refinement-best-three-enhancement-steps/"><u>[New] In 2024, Zoom Video Refinement Best Three Enhancement Steps</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-harness-the-art-of-visual-storytelling-on-snapchat/"><u>[Updated] In 2024, Harness the Art of Visual Storytelling on Snapchat</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-mpeg-avs-movavi/"><u>1. 網路版無料移動電話影片 MPEG-AVS 改編：Movavi 轉頻器指南</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/jpeg-moviavi/"><u>無料JPEGコンバートサービス - MoviAVIプログラム オンラインで利用可能</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722887688404-ace-your-savings-with-microsofts-student-pricing-strategies/"><u>Ace Your Savings with Microsoft's Student Pricing Strategies</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-s17-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo S17 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-konvertereen-van-aiff-naar-mp4-met-online-tools-movavi/"><u>Gratis Konvertereen Van AIFF Naar MP4 Met Online-Tools - Movavi</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-image-editing-with-gimp-a-complete-review-of-the-platform-agnostic-cost-free-software/"><u>Mastering Image Editing with GIMP - A Complete Review of the Platform Agnostic, Cost-Free Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/next-gen-mobile-internet-on-the-move/"><u>Next-Gen Mobile Internet on the Move</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/now-repair-damaged-videos-effortlessly-on-mac/"><u>Now Repair Damaged Videos Effortlessly on Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-power-of-animated-special-effects-for-engaging-content/"><u>Unlocking the Power of Animated Special Effects for Engaging Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/web-mef/"><u>WEB에서 자연스럽게 가격이나 무시하고 MEF 데이터의 완벽한 전환</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/effektivnye-online-seo-sredstva-dlya-povysheniya-avtoritetnosti-vashego-domena-seo-powersuite-v-detalyah/"><u>Эффективные Online SEO-Средства Для Повышения Авторитетности Вашего Домена: SEO PowerSuite В Деталях</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726219411649-wavmp3-movavi/"><u>ワークフローを簡素化する無料WAVファイルからMP3への直接変換 - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hilarious-youtube-moments-top-10-quirky-short-film-concepts/"><u>[Updated] In 2024, Hilarious YouTube Moments Top 10 Quirky Short Film Concepts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-ultimate-pc-edition-of-image-overlay-mastery/"><u>[Updated] In 2024, Ultimate PC Edition of Image Overlay Mastery</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-comprehensive-screen-capture-and-synchronization-techniques/"><u>2024 Approved Comprehensive Screen Capture and Synchronization Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-find-x7-ultra-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpts-independence-a-valid-argument/"><u>Auto-GPT's Independence: A Valid Argument?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beamforming-techniques-enable-antenna-arrays-to-direct-energy-towards-specific-users-or-locations-enhancing-signal-strength-and-reducing-interference-in-tho83/"><u>Beamforming Techniques Enable Antenna Arrays to Direct Energy Towards Specific Users or Locations, Enhancing Signal Strength and Reducing Interference in Those Areas.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-you-access-chatgpt-with-a-vpn/"><u>Can You Access ChatGPT With a VPN?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-game-changer-for-future-medical-advancements/"><u>ChatGPT: The Game Changer for Future Medical Advancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-legality-of-firing-over-chatgpt-usage-a-detailed-analysis/"><u>Exploring the Legality of Firing Over ChatGPT Usage: A Detailed Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-web-design-using-gpts-fourfold-expertise-and-tactics/"><u>Master Web Design Using GPT’s Fourfold Expertise and Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-memory-keeping-track-of-chatgpt-talks/"><u>Mastering Memory: Keeping Track of ChatGPT Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-text-exceedance-in-chatgpt/"><u>Mastering Text Exceedance in ChatGPT</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimize-your-gameplay-troubleshooting-lag-in-dragons-dogma/"><u>Optimize Your Gameplay: Troubleshooting Lag in Dragon's Dogma</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/psychodrama/"><u>Psychodrama</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/sync-systems-swiftly-fastest-file-methods/"><u>Sync Systems Swiftly Fastest File Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-7-smart-ai-presentation-helpers/"><u>The Ultimate List: 7 Smart AI Presentation Helpers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-tech-adoption-tips-harnessing-the-power-of-chatgpt/"><u>Top 6 Tech Adoption Tips: Harnessing the Power of ChatGPT</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-unleash-your-creativity-top-video-collage-apps-for-iphone-and-ipad/"><u>Updated In 2024, Unleash Your Creativity Top Video Collage Apps for iPhone and iPad</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/yearly-roundup-high-fidelity-gadget-unpackers-on-youtube/"><u>Yearly Roundup High-Fidelity Gadget Unpackers on YouTube</u></a></li>
 </ul></div>
 

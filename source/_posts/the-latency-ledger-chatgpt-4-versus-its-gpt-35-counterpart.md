@@ -1,7 +1,7 @@
 ---
 title: "The Latency Ledger: ChatGPT-4 Versus Its GPT-3.5 Counterpart"
-date: 2024-10-26T17:58:53.559Z
-updated: 2024-11-01T16:18:51.438Z
+date: 2024-11-04T22:50:55.659Z
+updated: 2024-11-06T17:52:51.645Z
 tags:
   - chatgpt
   - open-ai
@@ -45,22 +45,15 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
  However, GPT-4 is by no means perfect. In fact, GPT-4's lengthy response times are causing quite a stir. So let's look into this issue and why it may be happening.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT-4 Is Slow
 
 ![loading text and bar symbol on black exterior wall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/black-wall-loading.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many noticed upon the release of GPT-4 that OpenAI's new chatbot was incredibly slow. This left scores of users frustrated, as GPT-4 was meant to be a step up from GPT-3.5, not backward. As a result, GPT-4 users have been taking to online platforms, such as Reddit and OpenAI's community board, to discuss the issue.
 
@@ -75,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
  So why, exactly, is this happening? Is there something wrong with GPT-4?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Is GPT-4 Slow Compared to GPT-3.5?
@@ -95,6 +88,19 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
  But the biggest reason GPT-4 is slow is the number of parameters GPT-4 can call upon versus GPT-3.5\. The phenomenal rise in parameters simply means it takes the newer GPT model longer to process information and respond accurately. You get better answers with increased complexity, but getting there takes a little longer.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Choose GPT-3.5 Over GPT-4?
 
 ![digital graphic of openai logo on glass tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-ai-logo.jpg)
@@ -108,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
  Over time, GPT-4's delays may be lessened or entirely resolved, so patience could be a virtue here. Whether you try switching to GPT-4 now or wait a little longer to see how things play out with this version, you can still get a lot out of OpenAI's nifty little chatbot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-4 Is More Advanced but Comes With a Lag
@@ -137,19 +143,24 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-precision-and-power-leading-kung-fu-vr-titles/"><u>[New] Precision and Power Leading Kung Fu VR Titles</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-quick-guide-to-faster-tiktok-creation/"><u>[New] Quick Guide to Faster TikTok Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alert-beware-of-fake-chatgpt-windows-app/"><u>Alert: Beware Of Fake 'ChatGPT Windows App'</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-in-class-ai-creative-workshops/"><u>Best-in-Class AI Creative Workshops</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-6s-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 6s Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/investigating-any-flaws-in-chatgpts-shield/"><u>Investigating Any Flaws in ChatGPT’s Shield</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/movavi-omawav/"><u>Movavi 自動翻譯 OMA到WAV：完美無失真的免費線上音頻轉換工具</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-linkedin-posts-with-chatgpt-techniques/"><u>Optimizing LinkedIn Posts with ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/originality-in-conversational-ai-systems/"><u>Originality in Conversational AI Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restoring-audible-notifications-for-texts-on-your-iphone-in-depth-review-with-multiple-fixes/"><u>Restoring Audible Notifications for Texts on Your iPhone: In-Depth Review with Multiple Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-case-for-local-llm-models-benefits-and-drawbacks-examined/"><u>The Case for Local LLM Models – Benefits & Drawbacks Examined</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006857084-the-long-awaited-fix-for-wolcen-lords-of-mayhem-is-here/"><u>The Long-Awaited Fix for Wolcen - Lords of Mayhem Is Here!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quest-for-authenticity-differentiating-fake-from-genuine-ai-outputs/"><u>The Quest for Authenticity: Differentiating Fake From Genuine AI Outputs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/ultimate-list-premier-iphone-tone-producers/"><u>Ultimate List Premier iPhone Tone Producers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-collaborative-video-creation-and-growth-tips-for-2024/"><u>[New] Collaborative Video Creation & Growth Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transcription-and-task-execution-on-the-go-fee-free/"><u>[New] Transcription and Task Execution on the Go – Fee-Free</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ps4-broadcasting-basics-with-a-focus-on-obs-integration/"><u>[Updated] PS4 Broadcasting Basics with a Focus on OBS Integration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-step-by-step-sharing-photos-on-youtube-for-2024/"><u>[Updated] Step-by-Step Sharing Photos on YouTube for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-transition-magic-quick-fade-tactics/"><u>2024 Approved Transition Magic Quick Fade Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-dialogue-dominance-chatbot-showdown/"><u>Exploring Dialogue Dominance: ChatBot Showdown</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-airpods-fast-the-ultimate-guide-to-resolving-sound-issues-and-audio-disruptions/"><u>Fix Your AirPods Fast: The Ultimate Guide to Resolving Sound Issues and Audio Disruptions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-a-malfunctioning-camera-on-lenovo-laptops-practical-solutions/"><u>Fixing a Malfunctioning Camera on Lenovo Laptops - Practical Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-recipe-to-plate-streamlining-cooking-with-chatgpt/"><u>From Recipe to Plate: Streamlining Cooking With ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guidelines-to-maintain-discretion-in-ai-interactions/"><u>Guidelines to Maintain Discretion in AI Interactions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-adaptive-strategies-for-successful-content-on-new-fb-algorithm/"><u>In 2024, Adaptive Strategies for Successful Content on New FB Algorithm</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-how-to-convert-4k-video-to-mp4-a-step-by-step-download-guide/"><u>New In 2024, How to Convert 4K Video to MP4 A Step-by-Step Download Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-the-efficacy-of-codegpt-could-it-streamline-development/"><u>Probing the Efficacy of CodeGPT: Could It Streamline Development?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-this-season-discover-the-41-greatest-apple-discounts-for-festive-shopping-with-expert-insights/"><u>Save Big This Season: Discover the 41 Greatest Apple Discounts for Festive Shopping with Expert Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/saving-strategies-how-apple-could-turn-around-troubles-for-disheartened-sonos-owners-insights/"><u>Saving Strategies: How Apple Could Turn Around Troubles for Disheartened Sonos Owners - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-media-posts-refined-by-chatgpt-methods/"><u>Social Media Posts Refined by ChatGPT Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-gamers-channel-income-guide/"><u>Techno-Gamers' Channel Income Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-auto-gpt-systematic-setup/"><u>Unpacking Auto-GPT: Systematic Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-owns-the-copyright-to-ai-creations-how-does-ai-copyright-work/"><u>Who Owns the Copyright to AI Creations? How Does AI Copyright Work?</u></a></li>
 </ul></div>
 

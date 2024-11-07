@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Creativity: Scaling Design with Canva & AI"
-date: 2024-10-29T18:28:16.131Z
-updated: 2024-11-01T18:44:17.745Z
+date: 2024-11-05T22:09:06.519Z
+updated: 2024-11-07T07:26:07.996Z
 tags:
   - chatgpt
   - open-ai
@@ -57,29 +57,22 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
 
  If your generated content has attribution labels, like quotes with speaker names or songs with artist names, then remove the attributions from the end of the quotes and type or paste them into column B. Resize the columns as needed.
 
  You can add more elements if required, but for most social media posts, you don’t want to overcrowd information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Label Your Columns
 
 ![Google Sheets with Quotes and Attribution labels.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/labelledgoogledocs.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now it’s time to put labels in the first row. This allows Canva to attribute your spreadsheet values to its bulk creation system later.
 
@@ -107,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Add Text Placeholders
 
 ![Canva design with placeholder text.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placeholder-text-canva.jpg)
@@ -117,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 
  If you want different designs for the same content, you can create more than one template design here. Select **Add a page** beneath your artboard to add a new design.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Bulk Create Your Content
 
 ![Bulk Create app in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-app-canva.jpg)
@@ -132,29 +125,36 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 
 ![Canva Bulk Create options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-csv.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select **Upload CSV** and find your saved CSV file to open. Canva will identify your two sections of content and separate them, in this case, into a section of Quote content and another of Attribution content.
 
 ![Canva CSV input.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/curly-brackets.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select your Quotes placeholder text, then right-click > **Connect Data** \> **\[QUOTES\]**. This inputs your data into Canva, shown by your label now written in curly brackets. Do this again for your second set of content, and any others you’re adding. Select **Continue**.
 
 ![Canva's Bulk Create checkboxes.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apply-data-canva-bulk-create.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select **Generate Pages**. Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Review and Edit Your Designs
 
@@ -166,35 +166,35 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Save Your Bulk-Created Designs
 
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re happy with how everything looks, it’s time to save your designs. Go to **Share** \> **Download** and choose the best format for your designs. PNG is what we recommend for the best quality, but some social media applications might not accept PNGs, or perhaps another format works better for your designs.
 
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bulk Create Content With Canva and ChatGPT
@@ -220,22 +220,19 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-bringing-your-vision-alive-transferring-vids-from-premiere-for-2024/"><u>[Updated] Bringing Your Vision Alive Transferring Vids From Premiere for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-choose-between-filmora-and-democreator/"><u>[Updated] How to Choose Between Filmora and Democreator</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-beginning-your-blog-journey-for-financial-gain/"><u>2024 Approved Beginning Your Blog Journey for Financial Gain</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/como-convertir-un-archivo-amv-a-un-archivo-mp3-gratuitamente-utilizando-el-servicio-en-linea-de-movavi/"><u>Cómo Convertir Un Archivo AMV a Un Archivo MP3 Gratuitamente Utilizando El Servicio en Línea De Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convert-video-formats-for-free-mp4-and-mpeg-with-movavis-quick-online-tool/"><u>Convert Video Formats for Free: MP4 & MPEG with Movavi's Quick Online Tool!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dicas-e-tecnicas-essenciais-para-clarear-videos-top-6-aplicativos-mais-usados-em-celulares-e-computadores/"><u>Dicas E Técnicas Essenciais Para Clarear Vídeos: Top 6 Aplicativos Mais Usados Em Celulares E Computadores</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-setup-for-kyocera-printers-compatible-windows-software-instructions/"><u>Download & Setup for KYOCERA Printers: Compatible Windows Software Instructions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/download-authentic-indian-beats-the-best-free-sources-for-legitimate-instrumental-tracks-for-your-creations/"><u>Download Authentic Indian Beats: The Best Free Sources for Legitimate Instrumental Tracks for Your Creations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-aac-file-transformation-service-quick-and-simple-online-method/"><u>Free AAC File Transformation Service - Quick & Simple Online Method</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-converter-transform-vob-files-into-high-quality-aiff-audio-directly-on-the-web-with-movavi/"><u>Free Converter: Transform VOB Files Into High-Quality AIFF Audio Directly on the Web with Movavi</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-video-konverter-den-lette-og-pligtelige-lystenudskrivnings-app-pa-danskmarkedet/"><u>Movavi Video Konverter - Den Lette Og Pligtelige Lystenudskrivnings App På Danskmarkedet</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Reasons why Pokémon GPS does not Work On Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/registro-de-pendentes-do-google-em-202n-guia-passo-a-passo-com-a-ferramenta-6-ways-free-movavi/"><u>Registro De Pendentes Do Google Em 202N: Guia Passo-a-Passo Com a Ferramenta 6 Ways Free - Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-zte-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on ZTE</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-hp-laptops-usb-port-a-step-by-step-guide-to-restoring-connectivity/"><u>Revive Your HP Laptop’s USB Port - A Step-by-Step Guide to Restoring Connectivity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-free-mac-compatible-mp3-convertors-reviewed-enhance-your-audio-experience-without-spending/"><u>Top 10 Free Mac-Compatible MP3 Convertors Reviewed: Enhance Your Audio Experience Without Spending</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-five-mac-friendly-strategies-for-documenting-minecraft-games/"><u>[Updated] 2024 Approved Five Mac-Friendly Strategies for Documenting Minecraft Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-activate-auto-hdr-setting-in-windows-11/"><u>[Updated] How to Activate Auto HDR Setting in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-nubia-red-magic-8s-proplus-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Nubia Red Magic 8S Pro+ System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/comprehensive-srt-education-and-resources/"><u>Comprehensive SRT Education and Resources</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cookiebot-driven-solutions-enhance-your-site-with-smart-tracking/"><u>Cookiebot-Driven Solutions: Enhance Your Site with Smart Tracking</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-emotional-depth-scriptwriting-tips/"><u>Creating Emotional Depth Scriptwriting Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-accessing-contents-of-rar-compressed-folders-using-macos/"><u>Guide: Accessing Contents of .rar Compressed Folders Using macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/investing-in-education-shunning-quick-chatgpt-fixes/"><u>Investing in Education: Shunning Quick ChatGPT Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-the-most-of-openais-chatgpt/"><u>Making the Most of OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/on-device-ai-insights-core-functionality-and-implementation/"><u>On-Device AI Insights: Core Functionality & Implementation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-mechanism-of-chatbots-in-mimicking-talk/"><u>The Mechanism of Chatbots in Mimicking Talk</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-reasons-ai-cannot-become-a-one-stop-solution-for-every-writing-need/"><u>Top 5 Reasons AI Cannot Become a One-Stop Solution for Every Writing Need</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-the-mystery-of-non-modifiable-ai/"><u>Unpacking the Mystery of Non-Modifiable AI</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
 </ul></div>
 

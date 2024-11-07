@@ -1,7 +1,7 @@
 ---
 title: Mind Your Words with AI; Keep Secrets Safe
-date: 2024-10-31T18:53:28.868Z
-updated: 2024-11-01T17:37:19.318Z
+date: 2024-11-01T22:59:38.650Z
+updated: 2024-11-07T03:37:18.932Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Data Leaks Happen?
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
@@ -63,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
@@ -100,18 +94,17 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-quickly-save-your-screen-in-windows-systems/"><u>[New] 2024 Approved Quickly Save Your Screen in Windows Systems</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-become-a-youtube-visionary-with-these-production-insights/"><u>[Updated] 2024 Approved Become a YouTube Visionary with These Production Insights</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-simplified-methods-for-logging-google-voice-calls/"><u>[Updated] 2024 Approved Simplified Methods for Logging Google Voice Calls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-renaissance-discover-how-gpts-new-features-elevate-us/"><u>AI Renaissance: Discover How GPT’s New Features Elevate Us</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-getting-atheros-driver-software-setup-on-windows-computers/"><u>Easy Guide: Getting Atheros Driver Software Setup on Windows Computers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fixing-inertia-and-jello-distortions-in-uav-clips-for-2024/"><u>Fixing Inertia and Jello Distortions in UAV Clips for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-rides-guide-to-requesting-gpt-for-auto-customization/"><u>Optimizing Rides: Guide to Requesting GPT for Auto Customization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-site-design-with-chatgpts-methodology/"><u>Revolutionize Your Site Design with ChatGPT’s Methodology</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-multiversus-stability-issues-learn-how-with-our-8-proven-strategies/"><u>Solving MultiVersus Stability Issues: Learn How with Our 8 Proven Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speed-up-your-workflow-prime-10-ai-tools-for-pdfs/"><u>Speed Up Your Workflow: Prime 10 AI Tools for PDFs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-how-to-erase-photographic-backgrounds/"><u>Step-by-Step How to Erase Photographic Backgrounds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-silent-guardians-of-online-communication-ai-restrictions-and-you/"><u>The Silent Guardians of Online Communication: AI Restrictions & You</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-tools-amplifying-chatgpt-and-vs-code-functionality/"><u>Top 6 Tools: Amplifying ChatGPT and VS Code Functionality</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-5-high-quality-displays-for-unparalleled-games-for-2024/"><u>[Updated] 5 High-Quality Displays for Unparalleled Games for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-dive-into-dynamic-youtube-discussions/"><u>[Updated] Dive Into Dynamic YouTube Discussions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-inshot-vs-other-editors-a-comprehensive-analysis-for-2024/"><u>[Updated] InShot vs Other Editors A Comprehensive Analysis for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automatic-closing-of-safari-tabs-in-macos-sonoma-step-by-step-guide/"><u>Automatic Closing of Safari Tabs in macOS Sonoma - Step-by-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-tecno-pop-8-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Tecno Pop 8 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-13-ultra-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi 13 Ultra Quickly | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-on-google-sheets-with-gpt-for-sheets-and-docs/"><u>How to Use ChatGPT on Google Sheets With GPT for Sheets and Docs</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-13-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 13 to Samsung | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-windows-inspection-rapid-execution-procedures/"><u>In 2024, Windows Inspection Rapid Execution Procedures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-based-communication-to-deter-solitude/"><u>Leveraging GPT-Based Communication to Deter Solitude</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-enterprise-productivity-top-5-companies-embrace-apple-vision-pros-game-changing-features-insights/"><u>Revolutionizing Enterprise Productivity: Top 5 Companies Embrace Apple Vision Pro's Game-Changing Features - Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Compliance: The Four-Step Governmental Regulation Roadmap"
-date: 2024-10-29T18:07:21.527Z
-updated: 2024-11-01T17:35:48.932Z
+date: 2024-11-06T10:15:03.629Z
+updated: 2024-11-07T12:20:31.666Z
 tags:
   - chatgpt
   - open-ai
@@ -46,15 +46,28 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
  These questions and a few others formed the crux of [why ChatGPT was temporarily banned in Italy](https://www.makeuseof.com/why-has-italy-banned-chatgpt/). Unless these concerns are addressed, the artificial intelligence space might be a wild west for data privacy, and Italy's ban might turn out to be a template for bans by other countries worldwide.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Development of an Ethical AI Framework
 
 ![binary code background showing a woman face to face with a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  AI companies frequently boast about their commitment to ethical guidelines in developing AI systems. At least on paper, they are all proponents of responsible AI development. In the media, Google execs have emphasized how the company takes AI safety and ethics seriously. Similarly, "Safe and ethical AI" is a mantra for OpenAI's CEO, Sam Altman. These are quite applaudable.
 
@@ -68,16 +81,16 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 * That humans retain ultimate control of AI systems and their decision-making transparently.
 * AI systems are intentionally limited in ways that are advantageous to humans.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Dedicated Regulatory Agency
 
 ![engineer monitoring ssh logins on linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/engineer_monitoring_ssh_logins.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Owing to its potential impact on human civilization, discussion around AI safety typically draws parallel to the risk of a health crisis or a nuclear disaster. Avoiding potential nuclear incidents necessitates a dedicated agency like the US's NRC (Nuclear Regulatory Commission). Avoiding the risk of dangerous health crises necessitates the establishment of the FDA (Food and Drug Administration)
 
@@ -95,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 ![An illustration of copyright thief](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/copyright-protected-illustration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Existing copyright laws and legal frameworks crumble in the face of Artificial Intelligence. The way AI tools, especially generative AI tools, are designed makes them seem like a publicly endorsed copyright infringement machine that you can't do anything about.
@@ -115,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 * Reinforce existing copyright frameworks and perhaps introduce AI-specific copyright laws.
 * To ensure innovation in the AI space while safeguarding the rights of original creators, AI regulations should redefine the concepts of fair use and transformative work in the context of AI-generated content. Clearer definitions and guidelines are needed to ensure that AI space can continue to improve while respecting copyright boundaries. It is essential to strike a balance between innovation and preserving the rights of content creators.
 * Clear pathways for collaboration with right holders. If AI systems are going to use people's intellectual property anyway, there should be clear pathways or frameworks for AI developers and rights-owners to collaborate, especially in terms of financial compensations, if the derivative work of such intellectual properties is commercialized.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AI Regulation Is a Desperately Needed Fix
 
@@ -146,15 +152,17 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-tech-tools-for-streaming-a-detailed-overview-on-tv-recording/"><u>[Updated] 2024 Approved Tech Tools for Streaming A Detailed Overview on TV Recording</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-basics-to-details-dji-inspire-2-explained/"><u>[Updated] From Basics to Details DJI Inspire 2 Explained</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-tech-your-familys-comprehensive-overview/"><u>AI Tech: Your Family's Comprehensive Overview</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-practices-for-privacy-in-work-related-chats/"><u>Best Practices for Privacy in Work-Related Chats</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-auto-gpt-its-unique-characteristics-over-chatgpt/"><u>Breaking Down Auto-GPT: Its Unique Characteristics Over ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-perform-a-clean-install-of-windows-11-on-a-new-internal-drive-a-comprehensive-guide/"><u>How to Perform a Clean Install of Windows 11 on a New Internal Drive – A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-guide-to-affordable-open-access-images/"><u>In 2024, Premiere Guide to Affordable, Open-Access Images</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-latency-issue-a-step-by-step-guide-to-eliminating-chromecast-audio-lag/"><u>Solving the Latency Issue: A Step-by-Step Guide to Eliminating Chromecast Audio Lag</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-blueprint-to-publicizing-your-private-ai-discussions/"><u>The Blueprint to Publicizing Your Private AI Discussions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-revolutionize-your-social-media-experience-with-premier-tools/"><u>[New] 2024 Approved Revolutionize Your Social Media Experience with Premier Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-achieving-success-in-your-youtube-endeavours-a-step-by-step-blueprint/"><u>[Updated] 2024 Approved Achieving Success in Your YouTube Endeavours A Step-by-Step Blueprint</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-trim-youtube-videos-like-a-pro/"><u>2024 Approved How to Trim YouTube Videos Like a Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ahead-of-the-curve-activating-meta-quest-3s-ai-features-before-apple-vision-pro/"><u>Ahead of the Curve: Activating Meta Quest 3'S AI Features Before Apple Vision Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-about-the-apple-vision-pro-costs-capabilities-and-hands-on-experiences-revealed-wired/"><u>All About the Apple Vision Pro: Costs, Capabilities, and Hands-On Experiences Revealed | Wired</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-baking-game-using-chatgpt-discover-these-7-insider-hacks/"><u>Boost Your Baking Game Using ChatGPT – Discover These 7 Insider Hacks</u></a></li>
+<li><a href="https://howto.techidaily.com/oneplus-ace-3-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 3 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/practical-implementation-of-llama-2s-capabilities/"><u>Practical Implementation of Llama 2’S Capabilities</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlock-nvidias-secrets-to-prevent-rtx-3080-failures/"><u>Unlock NVIDIA's Secrets to Prevent RTX 3080 Failures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/viewing-apples-innovative-3d-spatial-videos-on-your-meta-quest-3-a-step-by-step-guide-tech-insights/"><u>Viewing Apple's Innovative 3D Spatial Videos on Your Meta Quest 3: A Step-by-Step Guide | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-exclusive-apples-vision-pro-unveils-at-launch-with-over-600-specialized-applications/"><u>ZDNet Exclusive: Apple's Vision Pro Unveils at Launch With Over 600 Specialized Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reveals-samsungs-new-schedule-for-high-tech-vr-glasses-post-vision-pro-led-breakthrough-end-of-2024-on-the-horizon/"><u>ZDNet Reveals Samsung's New Schedule for High-Tech VR Glasses Post Vision Pro Led Breakthrough - End of 2024 on the Horizon</u></a></li>
 </ul></div>
 

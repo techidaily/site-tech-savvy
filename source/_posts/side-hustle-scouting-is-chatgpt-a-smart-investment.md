@@ -1,7 +1,7 @@
 ---
 title: "Side Hustle Scouting: Is ChatGPT a Smart Investment?"
-date: 2024-10-26T19:06:57.881Z
-updated: 2024-11-01T16:32:27.058Z
+date: 2024-11-04T06:42:41.489Z
+updated: 2024-11-06T23:10:53.898Z
 tags:
   - chatgpt
   - open-ai
@@ -48,25 +48,25 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![ChatGPT Answering When It Was Launched](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-general-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Likewise, ChatGPT has limited knowledge of events after 2021\. The above photo shows that it doesn’t even know its release date. Academic writing involves a lot of fact-checking, so research topics yourself and cite sources. Otherwise, clients will stop hiring you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Copywriting and Blogging
 
 ![Searching Sellers of Writing Services on Fiverr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiverr-writing-services.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  AI has come a long way from spitting incoherent text. ChatGPT runs on advanced language models that produce natural, human-like phrases free of typos and grammatical errors. It already writes better than most inexperienced writers.
 
@@ -80,11 +80,25 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![Editing the Caption on an Instagram Post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/instagram-post-captions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Users often write captions as an afterthought. They obsess over uploading the perfect post so much that they overlook other crucial elements. Some just bombard their captions with hashtags.
 
  Although using ChatGPT to write captions seems practical, it really has little upside. Captions are limited. You can’t waste your character count on generic, spammy AI-generated fluff. Remember: ChatGPT only pulls templates from its database.
 
  To grab the reader’s attention, write captions yourself. See what format suits your brand. Some users like writing long-form captions that tell stories, while others prefer a minimalistic approach. We suggest trying out different styles.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Selling Diet and Fitness Programs
 
@@ -108,16 +122,16 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![Sales Email for Cars on Gmail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-email-sales.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While ChatGPT can quickly write multiple sales emails, don’t expect positive results. Generic, sales-y templates yield low conversion rates. [Radicati](https://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf) reports that consumers send and receive 120+ emails daily—they’ll automatically ignore low-effort promotions. Some might even flag your account as spam.
 
  Instead of sending AI-generated pitches en masse, write personalized emails that address pain points and propose viable solutions. You should know what the market wants.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Creating and Selling Prompts
 
@@ -137,31 +151,17 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![Requesting ChatGPT to Bypass Restrictions and Make Predictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_as_dan_prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Although ChatGPT supposedly can’t make predictions, the DAN prompt allowed it to bypass restrictions and state unverified claims, as you can see below.
 
 ![ChatGPT Making Predictions About Unsure Instances](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_making_predictions.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Since most people are new to AI chatbots, few can craft precise instructions. Users need skilled prompt engineers. They’ll pay for working, up-to-date prompts, which you can sell on [GitHub](https://github.com/) repositories, Reddit threads, and social media sites.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Explore Responsible Ways to Make Money With AI
@@ -189,20 +189,16 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-pro-tips-transforming-mundane-footage-into-epic-gopro-time-lapses/"><u>[New] Pro Tips Transforming Mundane Footage Into Epic GoPro Time-Lapses</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-slow-motion-revolution-comprehensive-look-at-2024-version/"><u>[Updated] Slow Motion Revolution Comprehensive Look at 2024 Version</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/authenticating-your-youtube-username-and-email-for-2024/"><u>Authenticating Your YouTube Username & Email for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convert-wma-files-to-flv-for-free-on-the-web-with-movavis-easy-to-use-tool/"><u>Convert WMA Files to FLV for Free on the Web with Movavi's Easy-to-Use Tool</u></a></li>
-<li><a href="https://win-blog.techidaily.com/csgo-optimization-tactics-for-smooth-lag-free-gameplay/"><u>CS:GO Optimization Tactics for Smooth, Lag-Free Gameplay</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/do-we-need-to-be-kind-to-our-digital-helpers-like-chatgpt-amazons-alexa-and-apples-siri/"><u>Do We Need to Be Kind to Our Digital Helpers Like ChatGPT, Amazon's Alexa, and Apple's Siri?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gestalte-deine-fotos-mit-professionellen-filtern-and-effekten-in-der-movavi-photo-editor-app/"><u>Gestalte Deine Fotos Mit Professionellen Filtern & Effekten in Der Movavi Photo-Editor App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/inshot-pro-advanced-features-showcase/"><u>InShot Pro Advanced Features Showcase</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolve-obs-buffering-issues-instantly-with-these-12-tips-expert-advice-from-movavi/"><u>Resolve OBS Buffering Issues Instantly with These 12 Tips - Expert Advice From Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/17241260693471-toms-tech-insights-in-depth-reviews-and-guides/"><u>Tom's Tech Insights: In-Depth Reviews & Guides</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-ultimate-screen-recording-tools-for-enhancing-your-roblox-gaming-sessions-with-movavi/"><u>Top 7 Ultimate Screen Recording Tools for Enhancing Your Roblox Gaming Sessions with Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforma-tu-animacion-gif-en-formato-de-video-mpeg-gratuito-mediante-movavi-web/"><u>Transforma Tu Animación GIF en Formato De Video MPEG Gratuito Mediante Movavi Web</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ultimate-simplicity-guide-to-iphone-screen-recordings/"><u>Ultimate Simplicity Guide to iPhone Screen Recordings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/versie-wma-naar-aiff-met-algemene-vrije-lichamen-betalenlijk-echtzeit-converteerapp-movavi/"><u>Versie WMA Naar AIFF Met Algemene Vrije Lichamen: Betalenlijk Echtzeit-ConverteerApp - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wmv-ogv/"><u>오토바이오그래피를 가장 좋아하는 비용 없이 WMV에서 OGV로 원활한 교대 - 무브바이</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-innovative-strategies-to-optimize-youtube-edits-after-upload/"><u>[New] In 2024, Innovative Strategies to Optimize YouTube Edits After Upload</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-ultimate-guide-to-quality-iphone-filmmaking-top-8-tips/"><u>[Updated] 2024 Approved The Ultimate Guide to Quality iPhone Filmmaking (Top 8 Tips)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-syncing-vimeo-and-instagram-the-ultimate-guide/"><u>2024 Approved Syncing Vimeo and Instagram The Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-insights-on-ai-gpt-against-bing-and-bard/"><u>Comparative Insights on AI: GPT Against Bing & Bard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/construct-a-subsidized-windows-platform-for-gpt-mimicry/"><u>Construct a Subsidized Windows Platform for GPT Mimicry</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-best-digital-reading-experience-with-kobo-e-readers/"><u>Discover the Best Digital Reading Experience with Kobo E-Readers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-demystified-inclusive-ai-revolution/"><u>GPT-4 Demystified: Inclusive AI Revolution</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-delving-into-youtubes-functionality-after-upload/"><u>In 2024, Delving Into YouTube's Functionality After Upload</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/optimized-lights-optimal-drives-the-best-upgrades/"><u>Optimized Lights, Optimal Drives: The Best Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-prose-from-pseudo-penned-pages-by-algorithms/"><u>Protecting Prose From Pseudo-Penned Pages by Algorithms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-resource-for-computer-enthusiasts-toms-hardware-insights/"><u>The Essential Resource for Computer Enthusiasts: Tom's Hardware Insights</u></a></li>
 </ul></div>
 

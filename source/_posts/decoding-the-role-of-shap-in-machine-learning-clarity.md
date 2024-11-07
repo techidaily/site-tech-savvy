@@ -1,7 +1,7 @@
 ---
 title: Decoding the Role of SHAP in Machine Learning Clarity
-date: 2024-09-13T16:00:00.887Z
-updated: 2024-09-17T16:12:56.736Z
+date: 2024-11-03T04:46:28.235Z
+updated: 2024-11-07T12:03:45.987Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
  By combining these two components, Shap-E can generate realistic and diverse 3D models that match the given text or image input and can be viewed from different angles and lighting conditions.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How You Can Use OpenAI's Shap-E
 
  Shap-E has not been made public like other OpenAI tools, but its model weight, inference code, and samples are available for download on the [Shap-E GitHub](https://github.com/openai/shap-e) page.
@@ -46,11 +53,25 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
  You can also report issues and find solutions to issues already raised by others on the Shap-E GitHub page.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What You Can Do With OpenAI's Shap-E
 
  Shap-E enables you to describe complex ideas using a visual representation of ideas. The potential applications for this technology are limitless, especially as visuals typically have far more reaching effects than texts.
 
 ![Screenshot of text-3D images from OpenAI's Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-text-3d-images-from-openai-s-github.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As an architect, you can use Shap-E to create 3D models of buildings and structures based on written descriptions. You can specify the structures' dimensions, materials, colors, and styles using simple sentences. For example, you can prompt it with: "Make a skyscraper with 60 floors and glass balustrades," and export the result(s) to other software for further editing if you like the results you get.
 
@@ -61,16 +82,10 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
  Although it is still a work in progress, Shap-E is a step ahead of OpenAI's [POINT-E](https://openai.com/research/point-e), which produces 3D point clouds based on text prompts. The point clouds are limited in their expressiveness and resolution, often producing blurry or incomplete shapes.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generate 3D Models Using OpenAI's Shap-E
@@ -96,5 +111,19 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-binge-your-way-into-animated-gifs-turning-youtube-content-without-downloads/"><u>[New] 2024 Approved Binge Your Way Into Animated Gifs Turning YouTube Content Without Downloads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-broad-reach-strategy-share-your-twitch-channel-on-facebook/"><u>[Updated] Broad Reach Strategy Share Your Twitch Channel on Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-breakdown-what-sets-forefront-ai-apart-from-chatgpt/"><u>AI Breakdown: What Sets Forefront AI Apart From ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bard-by-google-set-to-outshine-chatgpt-in-ai-race/"><u>Bard by Google Set to Outshine ChatGPT in AI Race</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-wisely-in-depth-comparison-of-google-pixel-watch-and-apples-latest-marvel-the-series-9-expert-analysis/"><u>Choosing Wisely: In-Depth Comparison of Google Pixel Watch ⌚️ and Apple's Latest Marvel, the Series 9 | Expert Analysis</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-6-plus-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 6 Plus?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y200-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y200 FRP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/on-device-intelligence-explained-concepts-and-mechanisms/"><u>On-Device Intelligence Explained: Concepts & Mechanisms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photo-mastery-top-8-web-based-creation-suite-for-2024/"><u>Photo Mastery Top 8 Web-Based Creation Suite for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/ultimate-guide-how-to-live-stream-on-facebook-for-2024/"><u>Ultimate Guide How to Live Stream on Facebook for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visual-mastery-through-deliberate-collage-designs/"><u>Visual Mastery Through Deliberate Collage Designs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-gpt4all-and-how-does-it-work/"><u>What Is GPT4All and How Does It Work?</u></a></li>
+</ul></div>
 

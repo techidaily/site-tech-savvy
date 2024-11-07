@@ -1,7 +1,7 @@
 ---
 title: "GPT Fakes Exposed: What to Avoid"
-date: 2024-09-15T16:33:33.809Z
-updated: 2024-09-17T16:35:07.599Z
+date: 2024-11-06T11:26:02.301Z
+updated: 2024-11-06T22:11:32.522Z
 tags:
   - chatgpt
   - open-ai
@@ -60,9 +60,23 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Malware Created by ChatGPT
 
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There's been a lot of talk about AI and cybercrime in recent years, as many are concerned this technology may make it easier for malicious actors to scam and attack victims.
 
@@ -70,22 +84,16 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. ChatGPT Phishing Sites
 
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Phishing attacks are often conducted using malicious websites. These sites are designed to log the keystrokes you enter so that valuable data can be stolen and exploited.
 
@@ -96,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
  In reality, the link you click on leads to a malicious webpage that can steal any data you enter, including your login credentials. Now, another person can access your ChatGPT account and view your prompt history, account details, and other sensitive data. It's important to know [how to spot phishing scams](https://www.makeuseof.com/top-signs-phishing-scams/) in order to avoid this kind of cybercrime.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Scams Are Worryingly Common
@@ -121,5 +129,22 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-followers-in-motion-analyzer/"><u>[New] 2024 Approved Followers in Motion Analyzer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hy-are-your-video-shorts-thumbnails-not-showing-in-2024/"><u>[New] Why Are Your Video Shorts' Thumbnails Not Showing, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-seamlessly-fuse-videos-using-blend-modes/"><u>[Updated] 2024 Approved Seamlessly Fuse Videos Using Blend Modes</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-navigating-the-floating-window-technology-in-netflix/"><u>2024 Approved Navigating The Floating Window Technology in Netflix</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1728464134314-aomei-backupper/"><u>学习AOMEI Backupper进行基本同步的方法与技巧</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revival-by-apple-significant-advances-and-areas-for-enhancement-unveiled-zdnet/"><u>AI Revival by Apple: Significant Advances & Areas for Enhancement Unveiled | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-exciting-new-features-with-the-iphone-and-ipad-ios-18-preview-from-zdnet/"><u>Discover Exciting New Features with the iPhone & iPad iOS 18 Preview From ZDNet</u></a></li>
+<li><a href="https://win-unique.techidaily.com/exploring-alternatives-for-file-share-replication-in-windows-server-vein-2019-best-practices-and-setup-tips/"><u>Exploring Alternatives for File Share Replication in Windows Server Vein 2019 | Best Practices & Setup Tips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unrivaled-guide-to-no-cost-photography-archives/"><u>In 2024, Unrivaled Guide to No-Cost Photography Archives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-maintenance-revolution-apple-now-supports-refurbished-components-in-certain-repair-scenarios-insights-from-zdnet/"><u>IPhone Maintenance Revolution: Apple Now Supports Refurbished Components in Certain Repair Scenarios - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-connection-guide-linking-airpods-with-your-quest-3-without-disturbing-others-techwise/"><u>Seamless Connection Guide: Linking AirPods with Your Quest 3 Without Disturbing Others | TechWise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-top-four-reasons-im-passing-on-the-iphone-16-pro-upgrade-a-personal-take-expert/"><u>The Top Four Reasons I'm Passing on the iPhone 16 Pro Upgrade – A Personal Take Expert</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/to-go-global-or-stay-local-9-pros-and-cons-of-each-for-llms/"><u>To Go Global or Stay Local? 9 Pros and Cons of Each for LLMs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-your-tabletop-into-a-virtual-mouse-with-this-revolutionary-vision-pro-gadget-discover-the-magic/"><u>Transform Your Tabletop Into a Virtual Mouse with This Revolutionary Vision Pro Gadget - Discover the Magic!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/uncovering-solutions-mend-a-silent-g435-audio-dilemma/"><u>Uncovering Solutions: Mend a Silent G435 Audio Dilemma</u></a></li>
+</ul></div>
 

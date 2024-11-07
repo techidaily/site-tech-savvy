@@ -1,7 +1,7 @@
 ---
 title: Android/iOS Compatibility with ChatGPT
-date: 2024-10-30T16:16:29.903Z
-updated: 2024-11-01T16:55:25.826Z
+date: 2024-11-03T07:17:14.104Z
+updated: 2024-11-07T01:57:13.642Z
 tags:
   - chatgpt
   - open-ai
@@ -61,6 +61,13 @@ Close
 
 ![ChatGPT final disclaimer screen iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-final-disclaimer-screen-ios.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT conversation screen iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-conversation-screen-iphone.jpg)
 
 Close
@@ -85,7 +92,21 @@ Close
 
 ![SiriGPT Shortcuts app iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-shortcuts-app-ios.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![SiriGPT insert API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-insert-api-key.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![SiriGPT prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sirigpt-prompt-screen.jpg)
 
@@ -94,10 +115,10 @@ Close
  That's certainly a lot of work, and whether it's worth it depends on how much you use the shortcut. At its worst, it's a neat party trick, but at its best, you have the power of GPT in your hands, now with the voice of Siri powering it. Again, this is not the most convenient way of accessing ChatGPT, but it's surprising how well it works when it does.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Third-Party ChatGPT Apps for Android and iOS
@@ -108,29 +129,16 @@ Close
 
 ![Perplexity AI app sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-sources.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Perplexity AI app thread](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-thread-1.jpg)
 
-![perlexity-ai-invitation-screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perlexity-ai-invitation-screen.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![perlexity-ai-invitation-screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perlexity-ai-invitation-screen.jpg)
 
 Close
 
@@ -140,30 +148,16 @@ Close
 
 ![Nova GPT Android app homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-homescreen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Nova GPT Android app prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Nova GPT Android app text to speech](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-text-to-speech.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -198,21 +192,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-facebook-profile-pictures-with-these-expert-creators/"><u>[Updated] 2024 Approved Mastering Facebook Profile Pictures with These Expert Creators</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-echoes-of-amusement-comical-tune-transformations/"><u>2024 Approved Echoes of Amusement Comical Tune Transformations</u></a></li>
-<li><a href="https://facebook.techidaily.com/balancing-post-frequency-in-multiple-social-platforms/"><u>Balancing Post Frequency in Multiple Social Platforms</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/battlefield-brilliance-the-exclusive-selection-of-top-7-total-war-chronicles-for-2024/"><u>Battlefield Brilliance The Exclusive Selection of Top 7 Total War Chronicles for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-human-and-machine-potential-this-years-most-promising-ai-tech/"><u>Bridging Human & Machine Potential: This Year's Most Promising AI Tech</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ditch-the-bulky-wallet-my-magnetic-phone-case-revolution/"><u>Ditch the Bulky Wallet: My Magnetic Phone Case Revolution!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-blueprint-custom-chatgpt-crafting-guide/"><u>GPT Blueprint: Custom ChatGPT Crafting Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-confirm-your-conversational-companions-status/"><u>How to Confirm Your Conversational Companion’s Status</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prospects-picks-the-highest-livestream-sites/"><u>In 2024, Prospects' Picks The Highest Livestream Sites</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-multi-screen-a-comprehensive-walkthrough-for-windows-10-users/"><u>Mastering Multi-Screen: A Comprehensive Walkthrough for Windows 10 Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-step-in-talking-machines-ai-breakthroughs/"><u>Next Step in Talking Machines: AI Breakthroughs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-best-chatbot-debate-pitting-gpt-against-bing-and-googles-innovations/"><u>The Best Chatbot Debate: Pitting GPT Against Bing and Google's Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-theme-through-chatgpts-novel-writing-insights/"><u>The Evolution of Theme Through ChatGPT’s Novel-Writing Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasking-fraudgpt-proactive-steps-for-cyber-safety/"><u>Unmasking FraudGPT: Proactive Steps for Cyber Safety</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-high-res-sky-scenes-with-mi-drone/"><u>Unveiling the High-Res Sky Scenes with Mi Drone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/upcycle-your-aged-phones-into-awesome-audio-gadgets-for-childrens-entertainment/"><u>Upcycle Your Aged Phones Into Awesome Audio Gadgets for Children's Entertainment</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-chasing-victories-olympics-year-2022/"><u>[Updated] Chasing Victories Olympics, Year 2022</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-troubleshooting-made-easy-youtube-shorts-edition/"><u>[Updated] In 2024, Troubleshooting Made Easy YouTube Shorts Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-vanishing-distinctions-of-reality/"><u>AI and the Vanishing Distinctions of Reality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-writing-systems-skip-their-own-critiques/"><u>Auto-Writing Systems Skip Their Own Critiques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-vivo-v30-lite-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo V30 Lite 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hp-chromebook-11-reviewed-the-optimal-companion-for-academic-success-professional-efficiency-and-fun/"><u>HP Chromebook 11 Reviewed: The Optimal Companion for Academic Success, Professional Efficiency & Fun</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-five-tips-for-writing-dialogue-and-narrative-scripts/"><u>In 2024, Five Tips for Writing Dialogue and Narrative Scripts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-blindness-of-algorithmic-writing/"><u>The Blindness of Algorithmic Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-solution-to-portable-charger-woes-discover-the-top-rated-20-anker-power-bank-reviewed/"><u>The Ultimate Solution to Portable Charger Woes: Discover the Top-Rated $20 Anker Power Bank Reviewed</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-sound-mining-extracting-audio-elements-from-visual-content/"><u>Updated In 2024, Sound Mining Extracting Audio Elements From Visual Content</u></a></li>
 </ul></div>
 

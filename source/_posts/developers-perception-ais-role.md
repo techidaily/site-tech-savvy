@@ -1,7 +1,7 @@
 ---
 title: "Developers' Perception: AI's Role"
-date: 2024-09-12T16:35:37.403Z
-updated: 2024-09-17T16:23:52.730Z
+date: 2024-11-01T02:19:37.291Z
+updated: 2024-11-07T03:09:14.823Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,19 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
 
  The views on AI differ based on the profession and the level of experience of the developer.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Profession
 
  SREs, security professionals, and game developers have unfavorable views on AI. This is possible because of security concerns brought about by feeding code or sensitive information to AI systems.
@@ -50,28 +63,15 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
 
  On the other hand, 42.2% of developers with more than 21+ years of experience are less favorable to AI. This may be because they want to see whether the hype surrounding AI will die down before committing to a certain tool.
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Countries
 
  Professional developers from India (83%), Brazil (78%), and Poland (70%) are among the developers using or planning to use AI tools in the future. This is probably because of the high growth of young developers from these countries. Developers from the United Kingdom, France, and Germany are less likely to use AI tools.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are the Tasks Developers Are Using AI For?
@@ -98,9 +98,23 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
 
  The survey further categorized these benefits across different developer types. Increased productivity was a constant among all developer types.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Popular AI Tools That Developers Are Using in 2023
 
 ![A laptop screen showing logos of chatgpt and google bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-vs-chatgpt-for-coding.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Stack Overflow surveyed the popularity of various AI tools grouped between AI search tools and AI developer tools. From the data, developers are primarily using two tools, ChatGPT and GitHub Copilot.
 
@@ -113,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
  GitHub Copilot is the most popular AI coding assistant. 70% + respondents who worked with GitHub Copilot want to work with it again. Additionally, 59%+ of Tabnine users and 50% of AWS Code Whisperer users want to use GitHub Copilot.
 
  This slow adoption of a wide variety of AI tools can be attributed to skepticism about AI accuracy with only 2.85% of developers highly trusting AI output. This distrust can be attributed to tools like ChatGPT providing incorrect output sometimes. This output, when used, can cause significant damage to an application. When using these tools, it's always a good idea to first verify the output.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Get Started With AI in Software Development
 
@@ -144,5 +151,26 @@ thumbnail: https://thmb.techidaily.com/e04a9e5f3764ad02106bedbd9d5d7455103ba0386
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-to-follow-steps-crafting-animated-gifs-from-youtube-content-pcmobile/"><u>[New] 2024 Approved Easy-to-Follow Steps Crafting Animated GIFs From YouTube Content (PC/Mobile)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-proven-subtitle-editors-the-comprehensive-top-10-list-online/"><u>[New] 2024 Approved Proven Subtitle Editors – The Comprehensive Top 10 List (Online)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-affordable-pc-frame-capture-apps/"><u>[New] Affordable PC Frame Capture Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-agrarian-adventures-unplugged-stardews-kin-titles/"><u>[New] In 2024, Agrarian Adventures Unplugged Stardew's Kin Titles</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-blueprint-for-building-a-youtube-empire-in-quick-time/"><u>[Updated] In 2024, The Blueprint for Building a YouTube Empire in Quick Time</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-step-into-windows-xp-a-filmmakers-companion-for-2024/"><u>[Updated] Step Into Windows XP A Filmmaker's Companion for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/begin-a-journey-through-ai-on-bing-enrollment-steps/"><u>Begin a Journey Through AI on Bing: Enrollment Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-truthcoin-written-into-its-code/"><u>Deciphering TruthCoin' Written Into Its Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-the-best-with-apple-vision-pros-enhanced-in-store-test-drives-learn-more-and-reserve-yours-zdnet/"><u>Experience the Best with Apple Vision Pro's Enhanced In-Store Test Drives – Learn More & Reserve Yours! [ZDNet]</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/innovative-sleep-solutions-for-the-ultimate-relaxation-experience-before-bedtime/"><u>Innovative Sleep Solutions for the Ultimate Relaxation Experience Before Bedtime</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-apple-pay-the-ultimate-guide-for-seamless-in-store-and-e-commerce-transactions-insights-from-zdnet/"><u>Mastering Apple Pay: The Ultimate Guide for Seamless In-Store & E-Commerce Transactions - Insights From ZDNet</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/norton-ghost-usb-windows-1087/"><u>Norton Ghost USB 準備工序：Windows 10/8/7跨平台自助解決方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserve-your-iphone-abooking-three-must-have-accessories-for-keeping-it-fresh-as-new-wireless-weekly/"><u>Preserve Your iPhone Abooking: Three Must-Have Accessories for Keeping It Fresh as New | Wireless Weekly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/seamless-guide-how-to-get-your-favorite-love-ballads-instantly/"><u>Seamless Guide: How to Get Your Favorite Love Ballads Instantly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-science-behind-ai-prompt-injection-threats/"><u>The Science Behind AI Prompt Injection Threats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-warning-signs-for-binggpt-coins/"><u>The Ultimate List of Warning Signs for BingGPT Coins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/these-7-apps-are-integrating-gpt-4-but-how-do-they-work/"><u>These 7 Apps Are Integrating GPT-4, But How Do They Work?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-tools-for-analyzing-and-conversing-on-text-files/"><u>Top 6 Tools for Analyzing and Conversing on Text Files</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The World of Tailored Guidance in AI Conversation Tools
-date: 2024-09-10T16:08:59.230Z
-updated: 2024-09-17T16:13:56.834Z
+date: 2024-11-02T05:14:41.497Z
+updated: 2024-11-06T19:44:54.418Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/64727a6fb30fc85eb70a4052d7d6ea68ac41c9b68
 
  The Custom Instructions feature is currently being rolled out to ChatGPT Plus users. According to [OpenAI's announcement](https://openai.com/blog/custom-instructions-for-chatgpt), Custom Instructions will be rolled out to all Chatgpt users subsequently. So, if you are using a free-tier account, you might have to wait a bit longer. As an aside, early access to new features is a good [reason to upgrade to a ChatGPT Plus account](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/). Without a doubt, the Custom Instructions feature is the single most important personalization feature introduced to ChatGPT since the chatbot was launched in November 2022\.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Turn On Custom Instructions in ChatGPT
 
  If you have a ChatGPT Plus account, you can turn on Custom Instructions in ChatGPT by following these steps:
@@ -44,6 +51,20 @@ thumbnail: https://thmb.techidaily.com/64727a6fb30fc85eb70a4052d7d6ea68ac41c9b68
 2. Click on **Settings & Beta**​​​​​.  
 ![settings and beta features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-and-beta-features.jpg)
 3. On the pop-up menu that comes up, click on **Beta features** on the left panel.
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Toggle **Custom instructions** to turn on the feature and exit the pop-up.  
 ![toggling on custom instructions on ChatGPT Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/toggling-on-custom-instructions-on-chatgpt-settings-page.jpg)
 
@@ -58,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/64727a6fb30fc85eb70a4052d7d6ea68ac41c9b68
    * For the second editor, you can provide information about how you want ChatGPT's response to be.  
    ![Answering custom instructions question 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/answering-custom-instructions-question-2.jpg)
 4. After entering your custom instructions on both fields, click **Save.**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once your instructions have been saved, your account is ready to use the Custom Instructions feature. If you are still unsure what to do with this incredible new feature, we have a few ideas for you.
 
@@ -74,10 +102,16 @@ thumbnail: https://thmb.techidaily.com/64727a6fb30fc85eb70a4052d7d6ea68ac41c9b68
  The urge to provide personal information to ChatGPT might increase with the introduction of this new feature, but [avoid providing any sensitive information to ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/), even in the instructions' editor. If you have plugins turned on for your account, third-party plugin developers can access any sensitive information you share using the feature.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Personalize ChatGPT to Your Taste
@@ -103,5 +137,20 @@ thumbnail: https://thmb.techidaily.com/64727a6fb30fc85eb70a4052d7d6ea68ac41c9b68
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-a-comprehensive-guide-to-modern-versatile-game-recording-software/"><u>[New] 2024 Approved A Comprehensive Guide to Modern, Versatile Game Recording Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-picks-highest-rated-mp4s/"><u>[New] Premier Picks Highest Rated MP4s</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/earning-hacks-for-youtube-short-creators-for-2024/"><u>Earning Hacks for YouTube Short Creators for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-error-0x80072f8f-0x20000/"><u>Eliminating Windows Error: 0X80072f8f-0x20000</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-innovative-script-visionaries-corner/"><u>In 2024, Innovative Script Visionaries Corner</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-strategic-use-of-slug-lines-in-blogging/"><u>In 2024, Strategic Use of Slug Lines in Blogging</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-savings-with-jackerys-cyber-deals-get-up-to-40-off-portable-power-solutions-recommended-by-experts-at-zdnet/"><u>Maximize Your Savings with Jackery's Cyber Deals : Get Up to 40% Off Portable Power Solutions, Recommended by Experts at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-home-at-a-bargain-get-the-eufycam-2c-pro-security-kit-for-just-62-of-its-original-price-special-sale-on-zdnet/"><u>Secure Your Home at a Bargain: Get the EufyCam 2C Pro Security Kit for Just 62% of Its Original Price | Special Sale on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slash-prices-snag-a-discounted-gopro-hero-11-for-just-200-insider-tips-from-zdnet/"><u>Slash Prices: Snag a Discounted GoPro Hero 11 for Just $200 - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sticker-free-showcase-crafting-cleansed-tiktok-videos-for-2024/"><u>Sticker-Free Showcase Crafting Cleansed TikTok Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surprising-quality-the-ring-spotlight-cam-pro-stands-out-in-labor-day-sales-tech-insights-by-zdnet/"><u>Surprising Quality: The Ring Spotlight Cam Pro Stands Out in Labor Day Sales - Tech Insights by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/telechargez-les-meilleurs-extracteurs-de-dvd-pour-windows-11-version-complete-gratuite-2023/"><u>Téléchargez Les Meilleurs Extracteurs De DVD Pour Windows 11 (Version Complète Gratuite) - 2023</u></a></li>
+</ul></div>
 

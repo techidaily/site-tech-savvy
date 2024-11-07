@@ -1,7 +1,7 @@
 ---
 title: Why AI Can't Critique Own Outputs
-date: 2024-10-25T17:20:15.454Z
-updated: 2024-11-01T17:33:18.402Z
+date: 2024-11-05T23:53:42.012Z
+updated: 2024-11-07T01:34:46.542Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
  Well, there is. We could write an entire book on the difference between the two, but it won't matter much. So, if there's a difference, why is ChatGPT or any other AI tool unable to identify these differences and accurately point out AI-generated text from a human-written one? The answer lies in [how ChatGPT works and how it generates text](http://www.makeuseof.com/how-does-chatgpt-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How ChatGPT Generates Text
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 ![Artificial intelligence and puny human are shaking hands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-power-of-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you ask ChatGPT to generate text, it tries to mimic the human writing process. Firstly, the model behind ChatGPT—Generative Pre-trained Transformer (GPT)—has been trained on a large corpus of human text. Everything from emails, health articles, tech articles, high school essays, and just about any text you can find online has been fed to the model during training. So ChatGPT understands how each of these types of texts should be written.
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
  But there's a catch. Unlike how humans write, ChatGPT does not really understand what it is writing in a way that a human would. Instead, the chatbot tries to predict what would be the most plausible next word in a sentence until it completes the write-up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How ChatGPT Writes by Prediction
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
  AI chatbots like ChatGPT are designed to mimic natural human language as much as possible. So while AI text may have discernable patterns, those patterns are not so obvious even to a powerful tool like ChatGPT. This is why ChatGPT can not spot its own writing, as well as [why AI-text detector tools do not work](https://www.makeuseof.com/ai-content-detectors-dont-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Recognize Its Own Writing In the Future?
@@ -117,16 +117,18 @@ thumbnail: https://thmb.techidaily.com/174f7545789a7be7b3fd36a0fbdd896064abfcc58
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-celebrating-maker-spirits-creative-otu-packs/"><u>2024 Approved Celebrating Maker Spirits Creative OTU Packs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avi/"><u>AVI マナーで圧縮するたび - 初心者から始める方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beginners-guide-mastering-the-basics-of-avi-video-conversion-with-a-free-tool/"><u>Beginner's Guide: Mastering the Basics of AVI Video Conversion with a Free Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-ffmpeg-and-handbrake-features-performance-and-best-use-cases/"><u>Comparing FFmpeg & HandBrake: Features, Performance & Best Use-Cases</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/convert-any-youtube-video-into-high-quality-audio-for-free-top-picks-for-easy-use/"><u>Convert Any YouTube Video Into High-Quality Audio for Free: Top Picks for Easy Use</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-football-fortunes-for-free-with-old-championship-manager/"><u>Discover Football Fortunes for Free with Old Championship Manager</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diy-animation-mastery-crafting-gifs-without-using-photoshop/"><u>DIY Animation Mastery - Crafting GIFs without Using Photoshop</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-essential-choice-top-11-beginner-friendly-kids-camera-options/"><u>In 2024, Essential Choice Top 11 Beginner-Friendly Kids' Camera Options</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/transforming-youtubers-into-titans-with-key-insights-from-the-hub/"><u>Transforming YouTubers Into Titans with Key Insights From the Hub</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-constant-crashes-of-snowrunner-on-windows-computers/"><u>Troubleshooting Guide: Resolving Constant Crashes of SnowRunner on Windows Computers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/be-link-mastery-a-roadmap-to-content-marketing-success/"><u>YouTube Link Mastery A Roadmap to Content Marketing Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-the-streaming-landscape-twitch-vs-youtube-compared/"><u>[New] Understanding the Streaming Landscape Twitch Vs YouTube Compared</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unexpected-10-best-kept-facebook-memes/"><u>2024 Approved Unexpected 10 Best-Kept Facebook Memes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clash-of-the-cutting-edge-gemini-vs-plush-chatgptplusplus/"><u>Clash of the Cutting Edge: Gemini Vs. Plush ChatGPT++</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-solutions-to-eradicate-stuttering-and-boost-frame-rate-in-your-games-a-2024-perspective/"><u>Comprehensive Solutions to Eradicate Stuttering and Boost Frame Rate in Your Games - A 2024 Perspective</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiency-first-eliminating-nonessential-chatgpt-apps/"><u>Efficiency First: Eliminating Nonessential ChatGPT Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/encountered-liquid-detected-error-in-iphone-charging-port-discover-these-2-effective-repair-methods/"><u>Encountered 'Liquid Detected' Error in iPhone Charging Port? Discover These 2 Effective Repair Methods</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-m14-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy M14 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-guide-to-selecting-peak-performance-lipo-tech/"><u>In 2024, A Guide to Selecting Peak-Performance LiPo Tech</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-building-a-stylish-tiktok-closing-credits-bar/"><u>In 2024, Building A Stylish TikTok Closing Credits Bar</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-13-pro-max-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 13 Pro Max without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/struggling-between-the-sleek-macbook-air-and-powerhouse-macbook-pro-our-comprehensive-guide-highlights-key-differences-helping-you-decide-on-the-ideal-apple143/"><u>Struggling Between the Sleek MacBook Air and Powerhouse MacBook Pro? Our Comprehensive Guide Highlights Key Differences, Helping You Decide on the Ideal Apple Laptop for Your Needs!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sustaining-zen-programming-mindfulness-into-life-via-chatgpt/"><u>Sustaining Zen: Programming Mindfulness Into Life via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-effective-chatbot-services-selection/"><u>The Ultimate Guide to Effective Chatbot Services Selection</u></a></li>
 </ul></div>
 

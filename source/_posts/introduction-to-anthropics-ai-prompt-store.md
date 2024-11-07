@@ -1,7 +1,7 @@
 ---
 title: Introduction to Anthropic's AI Prompt Store
-date: 2024-10-28T19:03:11.792Z
-updated: 2024-11-01T17:06:08.866Z
+date: 2024-11-05T01:57:18.390Z
+updated: 2024-11-06T23:50:27.051Z
 tags:
   - chatgpt
   - open-ai
@@ -40,23 +40,9 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 
  Anthropic's prompt library is simple to use—and better still, it's completely free.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Anthropic's Prompt Library?
 
 ![anthropic prompt library options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Anthropic's prompt library](https://docs.anthropic.com/claude/prompt-library) is a free tool designed to make it easier to get the AI responses and output you need for the task at hand.
 
@@ -74,18 +60,25 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 
 ![anthropic prompt library dream interpreter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-dream-interpreter-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Whereas the Corporate Clairvoyant prompt features a user input designed to analyze and summarize a report, highlighting important features.
 
 ![anthropic prompt library corporate clairvoyant option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-corporate-clairvoyant-option.jpg)
 
- Using any of the prompts is simple: just copy and paste them into Claude (or another AI chatbot), tweak them to your liking, and you're good to go.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Using any of the prompts is simple: just copy and paste them into Claude (or another AI chatbot), tweak them to your liking, and you're good to go.
 
 ## Is the Anthropic Prompt Library Any Good?
 
@@ -102,15 +95,28 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 ![claude 3 dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-dream-interpreter-prompt-library-output.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While ChatGPT 4 responded:
 
 ![chatgpt plus dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-plus-dream-interpreter-prompt-library-output.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's pretty similar, covering the same thoughts, feelings, and imagery. However, given the number of websites, blog posts, and books both tools have been trained on, those details are relatively easy to discern.
 
@@ -149,19 +155,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-optimizing-your-tv-for-social-video-streams-for-2024/"><u>[New] Optimizing Your TV for Social Video Streams for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-become-a-videographer-essentials-of-recording-with-logitech/"><u>[Updated] Become a Videographer Essentials of Recording with Logitech</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-powerpoint-recording-on-camera-for-professionals/"><u>2024 Approved Mastering PowerPoint Recording on Camera for Professionals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/articulating-ambitions-chatgpt-for-healthy-life-plans/"><u>Articulating Ambitions: ChatGPT for Healthy Life Plans</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boundaries-of-machine-understanding-chatgpts-limits/"><u>Boundaries of Machine Understanding: ChatGPT's Limits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claim-your-prize-participate-in-openais-innovative-error-tracking-mission/"><u>Claim Your Prize: Participate in OpenAI's Innovative Error Tracking Mission</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/faithful-melodies-how-to-install-christian-chimes-for-2024/"><u>Faithful Melodies How to Install Christian Chimes for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guide-to-fixing-age-of-empires-iv-not-downloading-on-ms-store-quick-solutions/"><u>Guide to Fixing 'Age of Empires IV' Not Downloading on MS Store - Quick Solutions!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-the-era-of-human-written-student-papers-over-with-chatgpt/"><u>Is the Era of Human-Written Student Papers Over with ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transferring-your-dvd-collection-onto-huawei-smartphones-and-tablets/"><u>Step-by-Step Guide: Transferring Your DVD Collection Onto Huawei Smartphones & Tablets</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-v29-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-gopro-karma-quest-for-altitude-dominance-for-2024/"><u>The GoPro Karma Quest for Altitude Dominance for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/toms-gear-garage-expert-insights-on-cutting-edge-computer-equipment/"><u>Tom's Gear Garage: Expert Insights on Cutting-Edge Computer Equipment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truthcoin-a-blessing-or-a-deceit/"><u>TruthCoin: A Blessing or a Deceit?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-resolving-frame-rate-puzzle-which-fps-brings-sharper-videos-for-2024/"><u>[New] Resolving Frame Rate Puzzle Which FPS Brings Sharper Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-easy-steps-for-recording-video-from-your-switch-for-2024/"><u>[Updated] Easy Steps for Recording Video From Your Switch for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-eliminate-grainy-footage-tips-for-social-media-apps/"><u>[Updated] In 2024, Eliminate Grainy Footage Tips for Social Media Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-spotlight-techniques-for-engaging-fb-giveaway-posts/"><u>2024 Approved Spotlight Techniques for Engaging FB Giveaway Posts</u></a></li>
+<li><a href="https://win-able.techidaily.com/7-simple-solutions-to-stop-halo-infinite-from-crashing-on-your-computer/"><u>7 Simple Solutions to Stop Halo Infinite From Crashing on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-gpt-restrictions-ethical-dilemmas/"><u>Bypassing GPT Restrictions: Ethical Dilemmas</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-the-skyline-drone-cinematography-tips/"><u>Capturing the Skyline Drone Cinematography Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-streamlining-enterprise-operations/"><u>ChatGPT's Role in Streamlining Enterprise Operations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-ai-expertise-top-7-time-saving-strategies/"><u>Elevating AI Expertise: Top 7 Time-Saving Strategies</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-a78-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo A78 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-top-6-gpt-car-configuration-challenges-and-solutions/"><u>Mastering the Top 6 GPT Car Configuration Challenges and Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rt-of-viral-videos-no-budget-necessary/"><u>The Art of Viral Videos No Budget Necessary</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-checklist-for-epic-launcher-savings/"><u>The Complete Checklist for Epic Launcher Savings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unseen-errors-in-machine-creations/"><u>Unseen Errors in Machine Creations</u></a></li>
 </ul></div>
 

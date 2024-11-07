@@ -1,7 +1,7 @@
 ---
 title: Understanding the Technical Operation of GPT-4 in 7 Apps
-date: 2024-10-27T16:40:37.398Z
-updated: 2024-11-01T16:49:28.146Z
+date: 2024-11-04T05:53:34.289Z
+updated: 2024-11-07T12:45:51.737Z
 tags:
   - chatgpt
   - open-ai
@@ -47,6 +47,13 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  GPT-4 is being used to create a reactive and responsive learning environment where no two conversations are alike. The first version is restricted to English speakers wanting to learn Spanish or French and is available only on iOS. Duolingo Max is priced at $29.99 monthly or $167.99 for an annual subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Be My Eyes
 
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
@@ -70,10 +77,10 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
  Khan Academy sees GPT-4 as a virtual teacher. The roll-out of the app is limited, with the teaching assistant (dubbed Khanmigo) only available to a limited number of users. However, a [Khan Academy waitlist](https://www.khanacademy.org/khan-labs) exists for those wanting to help test the product. Successful applicants are asked to donate $20 per month.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Does Khan Academy Use GPT-4?
@@ -101,13 +108,6 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
 ![Screenshot of Stripe Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-stripe-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Stripe is a payment processing platform that allows all types of businesses to accept and send payments online and provides other business management tools.
 
  OpenAI—the brains behind the brains of GPT-4—is already in collaboration with Stripe. Now, Stripe is integrating GPT-4 into its platform. The company already used GPT-3 for simple tasks, but integrating GPT-4 means AI will play a bigger role in the company's processes.
@@ -128,6 +128,13 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
 ![Screenshot of ChatSonic homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatsonic-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image Credit: ChatSonic
 
  ChatSonic can be described as a Swiss army knife for business owners, freelancers, writers, content creators, and anyone else really. The list of potential customers for this app is a testament to its versatility.
@@ -146,13 +153,6 @@ Image Credit: ChatSonic
 
  ChatSonic is free to try, and the paid version starts at $12.67 per month. Full details are available on the [WriteSonic](https://writesonic.com/chat) website.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Bing AI
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
@@ -160,26 +160,26 @@ Image Credit: ChatSonic
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  Microsoft was an early adopter of GPT-4, which it integrated into its Bing search page. A Bing app is now available for Android and iOS, bringing the power of GPT-4 to the mobile masses.
 
  The Bing app is representative of the next generation of search engines and, in true ChatGPT style, is capable of far more than just listing relevant results.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What Can You Use the Bing AI App For?
 
@@ -196,6 +196,13 @@ Close
 
 **Download**: Bing AI for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023057/https://play.google.com/store/apps/details?id=com.microsoft.bing) | [iOS](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Petey
 
 ![Screenshot of Petey home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-petey-home-page.jpg)
@@ -208,13 +215,6 @@ Image Credit: Petey Assistant
 
  The most basic tier for GPT-4 is a one-off payment of $3.99 on top of the cost of the app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What Can You Do With Petey?
 
  It has all the usual features you'd expect from a ChatGPT-based app. However, the inclusion of GPT-4 brings the added benefit of access to real-time data, which comes into its own with its Apple Music integration. Without GPT-4, this feature can only use music released before the GPT-3.5 cut-off date (around late 2021).
@@ -222,10 +222,10 @@ Image Credit: Petey Assistant
 **Download**: [Petey](https://apps.apple.com/us/app/petey-ai-assistant/id6446047813) for iOS ($3.99 Premium version required for GPT-4)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-4: A New Level of Artificial Intelligence
@@ -255,20 +255,22 @@ Image Credit: Petey Assistant
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/evealing-youtubes-showcase-of-notable-user-comments/"><u>[New] Revealing YouTube's Showcase of Notable User Comments</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-online-yoga-classrooms-enhancing-physical-strength/"><u>[Updated] Top 10 Online Yoga Classrooms Enhancing Physical Strength</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-transform-your-pictures-the-leaderboard-of-phone-sticker-enhancers/"><u>2024 Approved Transform Your Pictures - The Leaderboard of Phone Sticker-Enhancers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-chatbot-titans-gpt-and-huggingface/"><u>Comparing ChatBot Titans: GPT & HuggingFace</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-ai-giants-the-palm-2-vs-gpt-4-breakdown/"><u>Decoding AI Giants: The PaLM 2 Vs. GPT-4 Breakdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialoguehaltedgpt-time-to-reopen-when/"><u>DialogueHaltedGPT: Time to Reopen, When?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-advice-the-reasons-for-bypassing-mac-app-stores-chatgpt-solutions/"><u>Expert Advice: The Reasons for Bypassing Mac App Store's ChatGPT Solutions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-13-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 13 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-ai-for-optimal-domestic-organization/"><u>Integrating AI for Optimal Domestic Organization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/natures-unpredictability-managed-by-a-chatbot/"><u>Nature's Unpredictability, Managed by a Chatbot?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pause-tech-comparison-unpacking-siri-vs-chatgpt/"><u>Pause Tech Comparison: Unpacking Siri Vs. ChatGPT</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/professional-techniques-to-streamline-video-capture-on-computers-and-phones/"><u>Professional Techniques to Streamline Video Capture on Computers & Phones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-downloading-and-setting-up-your-thrustmaster-t30-drivers-for-latest-windows-systems-1110/"><u>Step-by-Step: Downloading and Setting Up Your Thrustmaster T30지동차툰 Drivers for Latest Windows Systems (11/10)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ai-lexicon-handbook-must-know-words-for-techies/"><u>The AI Lexicon Handbook: Must-Know Words for Techies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-deciphering-fb-video-dimensions-for-perfect-sharing/"><u>[New] 2024 Approved Deciphering FB Video Dimensions for Perfect Sharing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-dynamics-of-collaborative-marketing-on-youtube/"><u>[New] The Dynamics of Collaborative Marketing on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capturing-your-laptop-simple-lenovo-steps-for-2024/"><u>[Updated] Capturing Your Laptop Simple Lenovo Steps for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-to-changing-photo-genders-from-theory-to-practice-for-2024/"><u>[Updated] Step-by-Step Guide to Changing Photo Genders From Theory to Practice for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-a-feathery-symphony-bebop-parrot-2-dissected/"><u>2024 Approved A Feathery Symphony – Bebop Parrot 2 Dissected</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-top-5-apps-combining-photography-and-soundscape/"><u>2024 Approved Explore Top 5 Apps Combining Photography & Soundscape</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-phones-potential-the-ultimate-montage-application-guide/"><u>2024 Approved Unleash Your Phone's Potential The Ultimate Montage Application Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-fake-identifying-valid-chatgpt-software/"><u>Avoid Fake: Identifying Valid ChatGPT Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bot-brainpower-battle-same-idea-varied-solutions/"><u>Bot Brainpower Battle: Same Idea, Varied Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-gptplus-subscription-merits/"><u>Exploring GPT+ Subscription Merits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-quoras-poe-for-llm-and-chatbot-access/"><u>Harnessing Quora’s POE for LLM & Chatbot Access</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-c55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme C55 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-smart-agents-via-agentgpt/"><u>Integrating Smart Agents via AgentGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-enabling-gpt-3s-new-features/"><u>Mastering the Art of Enabling GPT-3's New Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-team-meetings-using-artificial-intelligence/"><u>Simplifying Team Meetings Using Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionaries-unite-global-insights-on-ai-advancements/"><u>Visionaries Unite: Global Insights on AI Advancements</u></a></li>
 </ul></div>
 

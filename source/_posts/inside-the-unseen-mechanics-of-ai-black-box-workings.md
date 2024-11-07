@@ -1,7 +1,7 @@
 ---
 title: "Inside the Unseen Mechanics of AI: Black Box Workings"
-date: 2024-10-29T18:54:20.936Z
-updated: 2024-11-01T17:45:29.171Z
+date: 2024-11-02T07:30:28.174Z
+updated: 2024-11-07T02:39:14.053Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,16 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
  We will set the concerns aside for the moment as we look at how AI black boxes work.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How AI Black Boxes Work
@@ -60,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
  Once the training phase is completed, the black boxes can be deployed to make independent decisions based on the learned algorithms and patterns. However, the lack of transparency about how decisions are reached is one of the primary concerns surrounding AI black boxes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Challenges and Risks of AI Black Boxes
@@ -79,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
  These are known challenges, and efforts are underway to develop more accountable and transparent AI systems that can "show their workings."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does the Future Hold for AI Black Boxes?
@@ -100,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
  This is still a raw technology, one which is straining ethical and legal boundaries. Addressing the concerns around AI black boxes is critical to its future and development.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Black Boxes: An Ethical Dilemma
@@ -133,21 +139,22 @@ thumbnail: https://thmb.techidaily.com/2d824596cda220209cd5b9247c0c0e4bf48214334
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-introduction-to-organizing-remote-work-hours/"><u>[Updated] 2024 Approved Introduction to Organizing Remote Work Hours</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/become-a-photo-editing-wizard-with-lunapic-expertise-for-2024/"><u>Become a Photo Editing Wizard with LunaPic Expertise for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-etiquette-in-engaging-chatgpt-and-virtual-helpers/"><u>Essential Etiquette in Engaging ChatGPT and Virtual Helpers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-it-yourself-dealing-with-an-iphones-ringsilent-switch-failure/"><u>Fix It Yourself: Dealing With an iPhone's Ring/Silent Switch Failure</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-following-scrutiny-unorthodox-ideas/"><u>In 2024, Following Scrutiny Unorthodox Ideas</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-15-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 15 Pro Max Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-chatgpt-to-automate-word-drafting/"><u>Leverage ChatGPT to Automate Word Drafting</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-digital-landscape-strategies-and-reviews-by-toms-hardware/"><u>Navigating the Digital Landscape: Strategies and Reviews by Tom's Hardware</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peering-into-codegpt-a-potential-game-changer-for-dev-teams/"><u>Peering Into CodeGPT: A Potential Game-Changer for Dev Teams</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/shortcut-to-success-the-top-5-youtube-link-trimming-apps/"><u>Shortcut to Success The Top 5 YouTube Link Trimming Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/should-you-experiment-with-chatgpt-constraints/"><u>Should You Experiment with ChatGPT Constraints?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/staying-true-to-your-vision-nightshade-tactics-against-ai-duplication/"><u>Staying True to Your Vision: Nightshade Tactics Against AI Duplication</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-intricacies-of-bypassing-chatgpt-constraints/"><u>The Intricacies of Bypassing ChatGPT Constraints</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-innovative-open-source-ai-art-makers/"><u>Top Innovative Open Source AI Art Makers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/understanding-psp-compatibility-exploring-the-variety-of-video-formats-playable-on-your-device/"><u>Understanding PSP Compatibility: Exploring the Variety of Video Formats Playable on Your Device</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-inside-the-core-of-xstream-studios-an-exhaustive-studio-guide/"><u>[New] In 2024, Inside the Core of XStream Studios – An Exhaustive Studio Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-hobby-to-hustle-making-money-with-videos-for-2024/"><u>[Updated] From Hobby to Hustle Making Money with Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-intelligent-web-applications-using-chatgpt/"><u>Building Intelligent Web Applications Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/da-vincis-digital-dreamscapes-the-cutting-edge-of-visual-prompts/"><u>Da Vinci’s Digital Dreamscapes: The Cutting Edge of Visual Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-take-on-the-new-iphone-15-why-it-stands-out-for-tech-enthusiasts-insights-from-zdnet/"><u>Expert Take on the New iPhone 15: Why It Stands Out for Tech Enthusiasts | Insights From ZDNET</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-poco-x5-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Poco X5 Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-the-lenovo-ideapad-functional-and-well-built-laptops-unveiled/"><u>In Depth Look at the Lenovo IdeaPad: Functional and Well-Built Laptops Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-sign-in-hurdles-with-ease/"><u>Navigating ChatGPT Sign-In Hurdles with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-horizon-in-ai-unveiling-gpt-4/"><u>New Horizon in AI: Unveiling GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-fights-back-against-gpt-dumbing-rumors/"><u>OpenAI Fights Back Against GPT Dumbing Rumors</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-considerations-why-skip-it/"><u>PS5 Considerations - Why Skip It?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/risks-avoid-mobile-gpt-app-downloads/"><u>Risks: Avoid Mobile GPT App Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safety-and-efficacy-the-ai-way-of-crafting-workouts/"><u>Safety & Efficacy: The AI Way of Crafting Workouts</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/stop-youtube-from-taking-over-your-apple-tv-and-android-tv-wallpaper-a-simple-guide/"><u>Stop YouTube From Taking Over Your Apple TV & Android TV Wallpaper: A Simple Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/surface-pen-malfunctions-heres-how-to-restore-its-functionality/"><u>Surface Pen Malfunctions? Here's How to Restore Its Functionality</u></a></li>
 </ul></div>
 

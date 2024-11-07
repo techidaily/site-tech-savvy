@@ -1,7 +1,7 @@
 ---
 title: The Essence & Impact of Artificial Intelligence
-date: 2024-10-30T17:14:39.883Z
-updated: 2024-11-01T16:18:29.797Z
+date: 2024-11-02T23:10:09.262Z
+updated: 2024-11-06T20:51:11.251Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
  The AI we use today, ANI (aka weak AI), is mainly about pattern recognition and making programmed inferences. In the same way we humans use our senses to navigate the world around us and act accordingly, AI uses the data we give it to do all sorts of things.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Examples of AI
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
  We made AI for the same reason we make any technology: to reduce suffering and increase pleasure. Today, AI helps us translate languages, [avoid traffic jams](https://www.makeuseof.com/tag/how-google-predicts-traffic/), prevent fraud, manage inventory, [automate household chores](https://www.makeuseof.com/tech-ease-overwhelming-feeling-everyday-tasks-chores/), create diet plans, trade stocks, create content, [make artwork](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/), study analytics, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are the Risks and Dangers of Using AI?
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
  Furthermore, AI tools are now used to impersonate celebrities, politicians, and public figures via [deepfake technology](https://www.makeuseof.com/tag/what-are-deepfakes-explained/) and voice cloning. This is extremely dangerous for obvious reasons. Unfortunately, as the tech improves, it'll become more difficult to tell what's real and what's fake.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Should Be a Tool, Not a Weapon
@@ -110,24 +110,24 @@ thumbnail: https://thmb.techidaily.com/15e035d4efa2fa176e5e93f0c8b98ab30d2606bf7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-essential-role-of-voice-in-visual-content/"><u>[New] 2024 Approved The Essential Role of Voice in Visual Content</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-ad-revenue-how-much-do-youtubers-make-per-ad/"><u>[New] In 2024, YouTube Ad Revenue How Much Do YouTubers Make Per Ad?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlinedwebcamtechniqueinstruction-for-2024/"><u>[New] StreamlinedWebCamTechniqueInstruction for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-15-best-photovideo-downloader-tools-for-instagram/"><u>[Updated] 2024 Approved 15 Best Photo/Video Downloader Tools for Instagram</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-pinnacle-performance-radeons-new-era/"><u>[Updated] Pinnacle Performance Radeon's New Era</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquer-clutter-in-communication-mastering-the-chatgpt-folder-system/"><u>Conquer Clutter in Communication: Mastering the ChatGPT Folder System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/converting-dall-es-webp-images-to-common-formats-quickly/"><u>Converting DALL-E's WebP Images to Common Formats Quickly</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-redmi-a2plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Redmi A2+</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/gaming-revolution-top-5-android-solutions-for-playstation-2-titles-for-2024/"><u>Gaming Revolution Top 5 Android Solutions for PlayStation 2 Titles for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/harmonized-high-res-overlays-for-devices-for-2024/"><u>Harmonized High-Res Overlays for Devices for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hone-your-prompt-writing-skills-for-maximum-chatgpt-impact/"><u>Hone Your Prompt Writing Skills for Maximum ChatGPT Impact</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-the-build-tips-and-reviews-straight-from-toms-hardware-pros/"><u>Master the Build: Tips & Reviews Straight From Tom's Hardware Pros</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-ai-landscape-learn-from-our-9-community-experts/"><u>Navigating the AI Landscape: Learn From Our 9 Community Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/questioning-zerogpts-credibility-tech-tools-under-fire/"><u>Questioning ZeroGPT's Credibility: Tech Tools Under Fire</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplified-steps-for-rectifying-directdraw-issues-in-windows-1011/"><u>Simplified Steps for Rectifying DirectDraw Issues in Windows 10/11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-turing-test-defined-and-chances-for-a-new-champion/"><u>The Turing Test Defined & Chances for a New Champion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uncovering-the-basics-of-langchain-tech/"><u>Uncovering The Basics of LangChain Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-usechatgpt-co-pilot-features-and-capabilities/"><u>Understanding UseChatGPT Co-Pilot: Features & Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-claude-3-wont-miss-the-mark-in-4-key-areas-compared-to-gpt-3/"><u>Why Claude 3 Won't Miss the Mark in 4 Key Areas Compared to GPT-3</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-hd-screensnap-equipment-for-2024/"><u>[New] Ultimate HD Screensnap Equipment for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-dive-into-ios-downloads-an-experts-guide-to-podcast-acquisition-for-2024/"><u>[Updated] Dive Into iOS Downloads An Expert's Guide to Podcast Acquisition for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-notebooks-excellent-in-media-post-production/"><u>[Updated] In 2024, Essential Notebooks Excellent in Media Post-Production</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android/"><u>2024 Approved Get Ready for a Lighter Device Experience Top 48 Apps to Cut Down Video Size on Android</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-potential-misinterpretation-with-non-ai-text-summarization/"><u>Avoid Potential Misinterpretation with Non-AI Text Summarization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-versus-bing-ai-10-crucial-variances/"><u>ChatGPT Versus Bing AI: 10 Crucial Variances</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/er-profits-on-the-go-youtube-studio-monetization-explained/"><u>Conquer Profits On-the-Go YouTube Studio Monetization Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crypto-insights-unlocked-top-5-gpt-trading-tools/"><u>Crypto Insights Unlocked: Top 5 GPT Trading Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-mystery-of-grok-ai-with-musks-insight-into-purpose-and-expenses/"><u>Decoding the Mystery of Grok AI with Musk's Insight Into Purpose & Expenses</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-for-installing-soundmax-audio-drivers-on-your-pc-with-windows-os/"><u>Easy Steps for Installing SoundMAX Audio Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-epics-how-gpt-transforms-dandd-gameplay-and-storytelling/"><u>Elevating Epics: How GPT Transforms D&D Gameplay and Storytelling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-chatgpts-role-in-enhancing-lifestyle-quality/"><u>Harnessing AI: ChatGPT's Role in Enhancing Lifestyle Quality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-reactivate-your-photo-viewer-in-win-11-proactively/"><u>How to Reactivate Your Photo Viewer in Win 11 Proactively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-master-the-art-of-storytelling/"><u>How to Use ChatGPT to Master the Art of Storytelling</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme online without jailbreak</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-8-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 8 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-realignment-for-chatgpt-service-errors/"><u>Mastering the Art of Realignment for ChatGPT Service Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-prompt-crafting-in-ai-and-its-job-market-resilience/"><u>The Future of Prompt Crafting in AI and Its Job Market Resilience</u></a></li>
 </ul></div>
 

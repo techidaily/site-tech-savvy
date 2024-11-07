@@ -1,7 +1,7 @@
 ---
 title: Who Is the Legal Keeper of AI Assets?
-date: 2024-09-11T16:11:35.666Z
-updated: 2024-09-17T16:34:43.693Z
+date: 2024-11-03T19:01:16.761Z
+updated: 2024-11-07T04:54:19.128Z
 tags:
   - chatgpt
   - open-ai
@@ -60,6 +60,13 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -67,6 +74,13 @@ Close
  Although the USCO issued a copyright in September 2022, it said it did it in error. When it came to light that the comic book was produced using MidJourney AI, its copyright protection was revoked.
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
 
@@ -78,16 +92,16 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
 
@@ -104,10 +118,10 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -133,5 +147,21 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-photo-editing-unveiling-clear-images-with-photopea-for-2024/"><u>[New] Mastering Photo Editing Unveiling Clear Images with Photopea for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-quicktweet-clip-iphone-friendly-video-download-tool/"><u>[Updated] 2024 Approved QuickTweet Clip IPhone-Friendly Video Download Tool</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-picks-the-most-advanced-online-mic-recorders-of-23/"><u>[Updated] 2024 Approved Top Picks The Most Advanced Online Mic Recorders of '23</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-oppo-find-x6-pro-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Oppo Find X6 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/child-friendly-ai-interaction-discover-five-secure-methods-to-utilize-chatgpt-with-kids/"><u>Child-Friendly AI Interaction: Discover Five Secure Methods to Utilize ChatGPT with Kids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-examination-of-private-internet-access-affordable-and-high-performance-featured-on-zdnet/"><u>Comprehensive Examination of Private Internet Access - Affordable & High-Performance, Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-the-best-apple-tv-vpn-providers-of-2024-featuring-expert-ratings-and-analysis-zdnet/"><u>Comprehensive Guide to the Best Apple TV VPN Providers of 2024, Featuring Expert Ratings and Analysis | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-methods-for-identifying-and-eradicating-phone-malware-with-expert-advice-by-zdnet/"><u>Comprehensive Methods for Identifying and Eradicating Phone Malware with Expert Advice by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detecting-and-eradicating-spyware-on-mobile-devices-expert-tips-from-zdnet/"><u>Detecting and Eradicating Spyware on Mobile Devices - Expert Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/disabling-your-virtual-private-network-vpn-a-comprehensive-guide-across-various-gadgets/"><u>Disabling Your Virtual Private Network (VPN): A Comprehensive Guide Across Various Gadgets</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/discover-the-best-deal-on-microsoft-office-2019-for-both-pc-and-mac-save-big-with-a-secure-price-of-25-insights-by-zdnet/"><u>Discover the Best Deal on Microsoft Office 2019 for Both PC and Mac: Save Big with a Secure Price of $25 | Insights by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-detecting-and-eradicating-spyware-on-mobile-devices-insights-from-zdnet/"><u>Effective Strategies for Detecting & Eradicating Spyware on Mobile Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-earning-expertise-short-video-revenue-boosting/"><u>In 2024, Earning Expertise Short Video Revenue Boosting</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-troubled-windows-registry-with-effective-solutions/"><u>Tackling Troubled Windows Registry with Effective Solutions</u></a></li>
+</ul></div>
 

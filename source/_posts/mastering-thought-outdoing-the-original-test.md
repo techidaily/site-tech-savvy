@@ -1,7 +1,7 @@
 ---
 title: "Mastering Thought: Outdoing the Original Test"
-date: 2024-09-13T16:00:45.153Z
-updated: 2024-09-17T16:12:38.686Z
+date: 2024-11-03T01:00:29.520Z
+updated: 2024-11-07T02:50:57.884Z
 tags:
   - chatgpt
   - open-ai
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -59,18 +66,25 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
- In the last ten years, there have been two main claims that the Turing Test has been passed.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ In the last ten years, there have been two main claims that the Turing Test has been passed.
 
 ### Eugene Goostman
 
@@ -98,18 +112,18 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -136,5 +150,21 @@ thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-mirth-mechanics-zombie-satire-units/"><u>[New] Mirth Mechanics Zombie Satire Units</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-budget-friendly-top-7-mac-apps-for-enhanced-tiktok-videos-for-2024/"><u>[Updated] Budget-Friendly Top 7 Mac Apps for Enhanced TikTok Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-harnessing-webcams-a-2023-guide-to-slidecast-perfection/"><u>[Updated] In 2024, Harnessing Webcams A 2023 Guide to Slidecast Perfection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-venturing-into-vector-world-starting-point-and-top-tools-for-2024/"><u>[Updated] Venturing Into Vector World Starting Point and Top Tools for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-weekend-with-apple-vision-pro-unveiling-its-three-key-revelations-zdnet/"><u>A Weekend with Apple Vision Pro - Unveiling Its Three Key Revelations | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-with-sonys-upcoming-xr-marvel-from-ces-2024-zdnets-comprehensive-breakdown/"><u>Behind the Scenes with Sony's Upcoming XR Marvel From CES 2024 | ZDNet's Comprehensive Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-high-end-virtual-worlds-for-less-a-closer-look-at-the-budget-friendly-ultraportable-headset-featured-by-zdnet/"><u>Experience High-End Virtual Worlds for Less: A Closer Look at the Budget-Friendly, Ultraportable Headset Featured by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ial-intelligence-insights-from-zdnet/"><u>Ial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oppo-reno-11-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Oppo Reno 11 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-virtual-reality-gaming-safe-for-youngsters-expert-insights-on-vr-safety-for-kids-and-teens-zdnet/"><u>Is Virtual Reality Gaming Safe for Youngsters? Expert Insights on VR Safety for Kids & Teens - ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-gt-5-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme GT 5 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pros-choice-high-quality-4k-dslr-mounting-systems-for-2024/"><u>Pro's Choice High-Quality 4K DSLR Mounting Systems for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-d3d9dll-issue-effective-solutions-for-when-you-cant-find-it/"><u>Troubleshooting the d3d9.dll Issue: Effective Solutions for When You Can't Find It</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-fixing-the-infamous-haldll-error-on-windows-11-10-8-and-vista/"><u>Troubleshooting Tips: Fixing the Infamous hal.dll Error on Windows 11, 10, 8, and Vista</u></a></li>
+</ul></div>
 

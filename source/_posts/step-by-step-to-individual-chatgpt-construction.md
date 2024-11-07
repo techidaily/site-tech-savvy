@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step to Individual ChatGPT Construction
-date: 2024-10-26T16:54:58.571Z
-updated: 2024-11-01T16:16:49.298Z
+date: 2024-10-31T04:11:31.315Z
+updated: 2024-11-07T12:03:41.144Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Now that you understand the importance of providing custom data to ChatGPT, here's a step-by-step on how to do so on your local computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 1: Install and Download Software and Pre-Made Script
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 * **Download:**[Git](https://git-scm.com/downloads) (Free)
 * **Download:**[Microsoft Visual Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Python3 and Microsoft C++ Installation Notes
 
  When installing Python3, make sure that you tick the **Add python.exe to PATH** option before clicking **Install Now**. This is important as it allows you to access Python in any directory on your computer.
@@ -73,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  When Installing Microsoft C++, you'll want to install **Microsoft Visual Studio Build Tools** first. Once installed, you can tick the **Desktop development with C++** option and click **Install** with all the optional tools automatically ticked on the right sidebar.
 
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
 
@@ -91,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 ![Opening terminal on directory folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-open-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the terminal is open, copy and paste this command:
@@ -107,6 +107,13 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Creating secret API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/generate-api-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will be provided with a string of characters. This is your OpenAI API key. Copy it by clicking on the copy icon on the side of the API key. Keep note that this API key should be kept secret. Do not share it with others unless you really intend for them to use it with you.
 
  Once copied, return to the chatgpt-retrieval-main folder and open constants with **Notepad**. Now replace the placeholder with your API key. Remember to save the file!
@@ -115,6 +122,13 @@ pip install langchain openai chromadb tiktoken unstructured
 
  Now that you have successfully set up your virtual environment and added your OpenAI API key as an environment variable. You can now provide your custom data to ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3: Adding Custom Data
 
  To add custom data, place all your custom text data in the **data** folder within chatgpt-retrieval-main. The format of the text data may be in the form of a PDF, TXT, or DOC.
@@ -122,13 +136,6 @@ pip install langchain openai chromadb tiktoken unstructured
 ![Adding custom data for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-data.jpg)
 
  As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on [AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/), and a PDF document.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 4: Querying ChatGPT Through Terminal
 
@@ -145,10 +152,10 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 ![Testing ChatGPT with custom data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/visit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It worked! This means ChatGPT was able to read the Personal Sched.txt provided earlier. Now let's see if we have successfully fed ChatGPT with information it does not know due to its knowledge cutoff date.
@@ -156,13 +163,6 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 ![Asking custom ChatGPT about topic outside knowledge cut off data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/m250x.jpg)
 
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Limitations of Custom ChatGPT
 
@@ -197,24 +197,24 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-tips-to-improve-profile-cover-videos/"><u>[New] In 2024, Tips to Improve Profile Cover Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-unleash-creativity-a-comprehensive-guide-to-movie-maker-on-windows-11/"><u>[New] Unleash Creativity A Comprehensive Guide to Movie Maker on Windows 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-economical-desktop-encoder-software-guide-revealed-for-2024/"><u>[Updated] Economical Desktop Encoder Software Guide Revealed for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-revealing-the-rich-detail-of-your-roblox-journey-for-2024/"><u>[Updated] Revealing the Rich Detail of Your Roblox Journey for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-picture-perfect-the-essential-photo-editing-tools/"><u>2024 Approved Picture Perfect The Essential Photo Editing Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-hiccups-try-these-iphone-fixes-first/"><u>ChatGPT Hiccups? Try These iPhone Fixes First</u></a></li>
-<li><a href="https://win-help.techidaily.com/easy-steps-to-set-up-and-organize-windows-user-profiles-for-household-use-tips-from-zdnet/"><u>Easy Steps to Set Up & Organize Windows User Profiles for Household Use - Tips From ZDNet</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/guida-semplice-alla-clonazione-di-ununita-hdd-su-una-ssd-con-interfaccia-m2-procedura-dettagliata-passo-dopo-passo/"><u>Guida Semplice Alla Clonazione Di Un'unità HDD Su Una SSD Con Interfaccia M.2: Procedura Dettagliata Passo Dopo Passo</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-realme-12-pro-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Realme 12 Pro 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-15-plus-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 15 Plus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-knowledge-exchange-the-essence-of-ais-transfer-learning/"><u>Innovating Knowledge Exchange: The Essence of AI's Transfer Learning</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/pioneering-the-virtual-landscape-with-metaverse-marketing/"><u>Pioneering the Virtual Landscape with Metaverse Marketing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-search-game-the-pinnacle-of-ai-in-bing-android/"><u>Revolutionize Your Search Game: The Pinnacle of AI in Bing, Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/silicon-witnesses-the-comic-side-of-computing-history-and-cybersecurity/"><u>Silicon Witnesses: The Comic Side of Computing History & Cybersecurity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-smart-workers-playbook-6-steps-for-an-ai-savvy-career-path/"><u>The Smart Worker's Playbook: 6 Steps for an AI-Savvy Career Path</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-artificial-intelligence-tools-altering-commerce-landscape/"><u>Top 5 Artificial Intelligence Tools Altering Commerce Landscape</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-effective-ai-strategies-for-success/"><u>Top 7 Effective AI Strategies for Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-living-space-with-intelligent-chatgpt-controls/"><u>Transform Your Living Space With Intelligent ChatGPT Controls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trusting-or-doubting-chatgpts-stance/"><u>Trusting or Doubting: ChatGPT's Stance</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>[New] In 2024, Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-insiders-guide-to-instagram-video-success-for-2024/"><u>[New] The Insider’s Guide to Instagram Video Success for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-ultimate-roguelike-rankings-the-best-10-games/"><u>[Updated] 2024 Approved Ultimate Roguelike Rankings The Best 10 Games</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-no-cost-conversion-elevate-your-facebook-videos-to-mp4-and-hd-quality/"><u>[Updated] No-Cost Conversion Elevate Your Facebook Videos to MP4 & HD Quality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premium-mobile-experience-with-best-gb-emulators/"><u>[Updated] Premium Mobile Experience with Best GB Emulators</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fastest-phone-apps-for-faster-audio-streaming/"><u>2024 Approved Fastest Phone Apps for Faster Audio Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-dialogue-geminis-challenge-to-plus-chatgpt/"><u>Advanced Dialogue: Gemini's Challenge to Plus-ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/airpods-revamp-released-by-apple-explore-the-4-premier-upgrades-now/"><u>AirPods Revamp Released by Apple: Explore the 4 Premier Upgrades Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expertly-selected-best-pc-sound-card-reviews-what-to-buy/"><u>Expertly Selected Best PC Sound Card Reviews - What to Buy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-cybersecurity-implications-for-chatgpt/"><u>Exploring Cybersecurity Implications for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancer-dilemma-bing-chat-vs-chatgpt8-must-know-points/"><u>Freelancer Dilemma: Bing Chat Vs. ChatGPT—8 Must-Know Points</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gaming-awaits-top-6-unique-chatgpt-games/"><u>Gaming Awaits: Top 6 Unique ChatGPT Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/gears-of-war-5-issues-heres-how-to-stabilize-your-gameplay/"><u>Gears of War 5 Issues? Here's How to Stabilize Your Gameplay</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/genuine-chatgpt-strategies-vs-deceptions/"><u>Genuine ChatGPT Strategies vs Deceptions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-c55-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C55 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pros-and-cons-of-iphone-16-pro-vs-iphone-14-pro-making-an-informed-choice-for-your-next-smartphone-purchase/"><u>Pros and Cons of iPhone 16 Pro vs iPhone 14 Pro: Making an Informed Choice for Your Next Smartphone Purchase</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-solution-resolving-your-magic-mouse-tracking-glitches/"><u>Quick Solution: Resolving Your Magic Mouse Tracking Glitches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-to-circumvent-chatgpts-max-characters/"><u>Tips to Circumvent ChatGPT’s Max Characters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-chatting-machines-replace-you/"><u>Will Chatting Machines Replace You?</u></a></li>
 </ul></div>
 

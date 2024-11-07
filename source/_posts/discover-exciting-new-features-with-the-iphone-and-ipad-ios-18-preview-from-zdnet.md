@@ -1,7 +1,7 @@
 ---
 title: Discover Exciting New Features with the iPhone & iPad iOS 18 Preview From ZDNet
-date: 2024-10-29T17:35:01.089Z
-updated: 2024-11-01T16:09:28.363Z
+date: 2024-11-01T09:16:45.565Z
+updated: 2024-11-06T21:12:09.531Z
 tags:
   - apple
 categories:
@@ -30,19 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -50,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -65,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -91,6 +78,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -98,16 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -146,18 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-dive-into-digital-domination-tips-to-triumph-at-facebooks-top-10-for-2024/"><u>[New] Dive Into Digital Domination Tips to Triumph at Facebook's Top 10 for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-edit-with-precision-mastery-of-photoshops-eraser-for-2024/"><u>[Updated] Edit with Precision Mastery of Photoshop's Eraser for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-video-monitors-face-off/"><u>[Updated] Ultimate Video Monitors Face-Off</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beatboxing-basics-add-audio-to-windows-11-projects-with-ease/"><u>Beatboxing Basics Add Audio to Windows 11 Projects with Ease</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/enhance-your-pc-experience-with-windows-11-the-ultimate-tutorial-on-leveraging-built-in-voice-access-functionality/"><u>Enhance Your PC Experience with Windows 11: The Ultimate Tutorial on Leveraging Built-In Voice Access Functionality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-change-opus-files-to-wav-format-with-ease-movavi/"><u>Free Online Converter: Change OPUS Files to WAV Format with Ease - Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-sony-xperia-10-v-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Sony Xperia 10 V For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-the-update-process-for-accurate-tiktok-age-details/"><u>In 2024, Streamlining the Update Process for Accurate TikTok Age Details</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-powered-content-leveraging-chatgpt-for-professional-copywriting-techniques/"><u>Mastering AI-Powered Content: Leveraging ChatGPT for Professional Copywriting Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/online-mxf-zu-mp4-konvertieren-kostenlos-mit-movavi-freie-videokonverter/"><u>Online MXF Zu MP4 Konvertieren Kostenlos Mit Movavi - Freie Videokonverter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/strategies-for-exporting-your-personalized-gpt-responses/"><u>Strategies for Exporting Your Personalized GPT Responses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-10-essential-beginner-guides-to-navigating-formerly-known-as-twitter/"><u>Top 10 Essential Beginner Guides to Navigating Formerly Known as Twitter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-vos-fichiers-aiff-en-flac-gratuitement-sur-movavi-une-methode-facile-et-rapide/"><u>Transformez Vos Fichiers AIFF en FLAC Gratuitement Sur Movavi - Une Méthode Facile Et Rapide !</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-bite-sized-video-lessons-clearly/"><u>[New] Bite-Sized Video Lessons, Clearly</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unveiling-dji-phantom-3s-expert-features/"><u>[Updated] In 2024, Unveiling DJI Phantom 3'S Expert Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fcps-best-10-plug-ins-a-professionals-list/"><u>2024 Approved FCP's Best 10 Plug-Ins A Professional's List</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-smart-strategies-for-entrepreneurial-video-marketing/"><u>2024 Approved SMART Strategies for Entrepreneurial Video Marketing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-youtube-videos-leveraging-chatgpt-for-scripts/"><u>Crafting YouTube Videos: Leveraging ChatGPT for Scripts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-charging-and-temperature-control-discover-how-to-keep-your-iphoneipadmac-fresh-top-3-in-1-magsafe-dock/"><u>Effortless Charging & Temperature Control: Discover How to Keep Your iPhone/iPad/Mac Fresh Top 3-in-1 MagSafe Dock!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/first-steps-in-langchain-language-models/"><u>First Steps in LangChain Language Models</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a05-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A05 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus Passcode without Computer?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-m1-pro-vs-m1-max-a-detailed-comparison-of-apple-chipsets/"><u>In 2024, M1 Pro Vs. M1 Max A Detailed Comparison of Apple Chipsets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-seamless-device-integration-a-step-by-step-guide-to-using-apples-magic-universal-control-for-controlling-your-ipad-from-a-mac/"><u>Mastering Seamless Device Integration: A Step-by-Step Guide to Using Apple's Magic Universal Control for Controlling Your iPad From a Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-admin-controlled-feature-malfunctions-on-windows-11/"><u>Overcoming Admin Controlled Feature Malfunctions on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-image-archive-platforms/"><u>Prime Image Archive Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-homes-at-your-fingertips-with-ai-assistance/"><u>Smart Homes at Your Fingertips with AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-of-ai-creation-free-dall-e-3-through-microsoft-bing/"><u>Step Into the Future of AI Creation: Free DALL-E 3 Through Microsoft Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transparency-in-interaction-link-distribution-for-gpt-assisted-dialogues/"><u>Transparency in Interaction: Link Distribution for GPT-Assisted Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-are-there-no-more-chatgpt-jailbreaks-7-reasons-chatgpt-jailbreaks-dont-work/"><u>Why Are There No More ChatGPT Jailbreaks? 7 Reasons ChatGPT Jailbreaks Don't Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-im-continuously-choosing-the-apple-watch-series-7-over-upcoming-series-10-zdnet-insights/"><u>Why I'm Continuously Choosing the Apple Watch Series 7 Over Upcoming Series 10 | ZDNET Insights</u></a></li>
 </ul></div>
 

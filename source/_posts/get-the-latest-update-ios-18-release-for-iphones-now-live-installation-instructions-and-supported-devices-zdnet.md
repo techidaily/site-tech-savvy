@@ -1,7 +1,7 @@
 ---
 title: "Get the Latest Update: IOS 18 Release for iPhones Now Live – Installation Instructions & Supported Devices | ZDNet"
-date: 2024-10-28T16:47:06.373Z
-updated: 2024-11-01T18:43:39.372Z
+date: 2024-10-31T06:13:45.816Z
+updated: 2024-11-07T07:40:38.834Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ Jason Hiner/ZDNET
 
 Go to your iPhone's Settings and select General. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
@@ -50,31 +57,31 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -95,13 +102,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -119,10 +119,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -169,19 +169,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-unlock-the-secret-to-insta-cash-with-our-guidebook-for-2024/"><u>[New] Unlock the Secret to Insta Cash with Our Guidebook for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-navigating-the-world-of-asmr-videos/"><u>[Updated] 2024 Approved Navigating the World of ASMR Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-best-wearable-camera-innovations/"><u>[Updated] Best Wearable Camera Innovations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/400-bargain-hp-latest-laptop-compatible-mouse-and-all-access-to-ms-365-exclusive-offer/"><u>$400 Bargain: HP Latest Laptop, Compatible Mouse, and All-Access to MS 365 - Exclusive Offer !</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revive-your-photo-viewer-two-methods-to-try-in-win-11/"><u>2024 Approved Revive Your Photo Viewer Two Methods to Try in Win 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-role-in-merging-myths-and-measures/"><u>AI's Role in Merging Myths & Measures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-predecessors-how-gpt-4-surpasses-gpt-35/"><u>Beyond Predecessors: How GPT-4 Surpasses GPT-3.5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-courteous-should-you-be-with-smart-tech-alexa-siri/"><u>How Courteous Should You Be with Smart Tech? (Alexa, Siri)</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-8-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-best-5-youtube-video-editor-alternatives/"><u>In 2024, Best 5 YouTube Video Editor Alternatives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pythons-key-to-effective-gpt-3-utilization/"><u>Python's Key to Effective GPT-3 Utilization</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scrutinizing-trust-in-zerogpt-and-its-detection-counterparts/"><u>Scrutinizing Trust in ZeroGPT & Its Detection Counterparts</u></a></li>
-<li><a href="https://win-online.techidaily.com/transferir-informacion-entre-discos-ssd-samsung-sin-necesidad-de-cables-metodos-efectivos/"><u>Transferir Información Entre Discos SSD Samsung Sin Necesidad De Cables: Métodos Efectivos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/will-ai-outdo-magazine-horoscopes-in-prophetic-accuracy/"><u>Will AI Outdo Magazine Horoscopes in Prophetic Accuracy?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-stylish-spectacles-trending-insta-filters-list/"><u>[New] In 2024, Stylish Spectacles Trending Insta Filters List</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unpackaging-text-magic-the-best-after-effects-plugin-guide/"><u>[New] Unpackaging Text Magic The Best After Effects Plugin Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-simple-steps-for-merging-youtube-media-files/"><u>[Updated] The Simple Steps for Merging YouTube Media Files</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-video-posting-made-simple-with-correct-aspect-ratio/"><u>[Updated] Video Posting Made Simple with Correct Aspect Ratio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-todays-misinformation-landscape/"><u>AI's Role in Today's Misinformation Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-is-the-best-way-to-use-gpt-4-turbo-for-free/"><u>Copilot Is the Best Way to Use GPT-4 Turbo for Free</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-video-content-10-proven-methods-for-youtube-conversion/"><u>Elevating Video Content 10 Proven Methods for YouTube Conversion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-the-sweet-spot-optimal-youtube-video-upload-rates-for-growth-for-2024/"><u>Finding the Sweet Spot Optimal YouTube Video Upload Rates for Growth for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-26-low-cost-strategies-capture-webinars-without-spending-money/"><u>In 2024, 26 Low-Cost Strategies Capture Webinars Without Spending Money</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-apple-watch-lifetime-on-a-single-charge-discover-key-settings-adjustments-for-better-efficiency-insights/"><u>Maximize Apple Watch Lifetime on a Single Charge: Discover Key Settings Adjustments for Better Efficiency | Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/parents-handbook-to-understanding-chatgpt-and-artificial-intelligence/"><u>Parent's Handbook to Understanding ChatGPT and Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pure-playthings-select-free-pc-games/"><u>Pure Playthings: Select Free PC Games</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mic-repository-perfect-dj-templates-instantly-downloadable/"><u>Rhythmic Repository Perfect DJ Templates, Instantly Downloadable</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-generation-airpods-from-apple-arrive-with-find-my-functionality-and-improved-charging-zdnet/"><u>The Next Generation AirPods From Apple Arrive with Find My Functionality and Improved Charging | ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-avi-to-gif-transformation-using-filmora-for-both-oses-for-2024/"><u>The Ultimate Guide to AVI-to-GIF Transformation Using Filmora for Both OSes for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unplanned-thrill-of-snagging-apples-17-usb-c-earpods-on-prime-day-a-tech-enthusiasts-revelation-at-zdnet/"><u>The Unplanned Thrill of Snagging Apple's $17 USB-C EarPods on Prime Day – A Tech Enthusiast’s Revelation at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-devices-an-experts-guide/"><u>Top-Ranking Mac Devices : An Expert's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-generative-ais-role-in-tech/"><u>Understanding Generative AI's Role in Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-gpts-own-writing-weaknesses/"><u>Understanding GPT's Own Writing Weaknesses</u></a></li>
 </ul></div>
 

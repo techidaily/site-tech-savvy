@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Strategy for Leveraging Apple Pay Both In-Store & Digitally - Tips by ZDNet Experts
-date: 2024-10-27T17:12:40.573Z
-updated: 2024-11-01T18:33:29.333Z
+date: 2024-11-06T02:15:04.895Z
+updated: 2024-11-07T07:13:36.265Z
 tags:
   - apple
 categories:
@@ -63,10 +63,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
@@ -77,13 +77,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -91,13 +84,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -113,14 +99,14 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
 
@@ -131,15 +117,22 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is NFC?
@@ -155,6 +148,13 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -212,24 +212,15 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/mts-mts/"><u>.MTSファイルを組み合わせる最適な手法 - MTS動画連結ガイド</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snappy-adjustments-the-art-of-perfecting-photos-on-snapchat-for-2024/"><u>[New] Snappy Adjustments The Art of Perfecting Photos on Snapchat for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-creating-a-captivating-experience-with-your-first-facebook-live-for-2024/"><u>[Updated] Creating a Captivating Experience with Your First Facebook Live for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-design-and-share-your-unique-humor-piece/"><u>[Updated] In 2024, Design and Share Your Unique Humor Piece</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-powerpoint-with-voice-over-complete-how-to-guide-for-2024/"><u>[Updated] Powerpoint with Voice Over - Complete How-To Guide for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-reno-9a-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo Reno 9A Quickly | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-zte-nubia-flip-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your ZTE Nubia Flip 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highlights-the-5-most-advanced-low-speed-recorders-for-2024/"><u>Highlights The 5 Most Advanced Low-Speed Recorders for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-ghost-recon-breakpoint-from-crashing-effective-solutions-inside/"><u>How to Stop Ghost Recon: Breakpoint From Crashing – Effective Solutions Inside</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-enhancing-visuals-using-chroma-key-effectively/"><u>In 2024, Enhancing Visuals Using Chroma Key Effectively</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-defy-2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Defy 2 Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/itunesm4amp3/"><u>ITunesでM4A音声ファイルをMP3にリバートする手順と、失敗時の別解法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-sharing-high-resolution-videos-on-whatsapp-explore-three-strategies-for-success/"><u>Mastering the Art of Sharing High-Resolution Videos on WhatsApp - Explore Three Strategies for Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/midi-to-wav-converter-gratis-software-fur-windows-10/"><u>Midi to Wav Converter - Gratis Software Für Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movipadiphone/"><u>MOVファイルがiPad/iPhone上で再生しない問題：その理由と対策詳細</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-transfers-of-sony-vegas-avi-files-top-strategies-revealed/"><u>Seamless Transfers of Sony Vegas AVI Files: Top Strategies Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-guide-convert-dvds-into-high-quality-av1-videos-using-windows/"><u>Simple Guide: Convert DVDs Into High-Quality AV1 Videos Using Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-steps-to-enable-and-enjoy-wma-files-on-your-iphone-smoothly/"><u>Simple Steps to Enable and Enjoy WMA Files on Your iPhone Smoothly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-adding-subtitles-when-creating-a-dvd/"><u>Step-by-Step Guide: Adding Subtitles when Creating a DVD</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enrich-facebook-tales-unlimited-no-cost-online-and-mobile-upgrades/"><u>[New] 2024 Approved Enrich Facebook Tales Unlimited, No-Cost Online & Mobile Upgrades</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-ultimate-gear-guide-for-fresh-powder-adventures/"><u>2024 Approved Ultimate Gear Guide for Fresh Powder Adventures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-dialogue-advanced-generative-systems/"><u>Beyond Dialogue: Advanced Generative Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenge-the-convenience-questioning-chatgpts-summary-accuracy/"><u>Challenge the Convenience: Questioning ChatGPT's Summary Accuracy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-and-utilizing-external-storage-with-your-xbox-one-a-step-by-step-guide/"><u>Connecting and Utilizing External Storage with Your Xbox One: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974670886-how-to-securely-get-and-install-linksys-ae250-wireless-router-updated-firmware-now/"><u>How to Securely Get & Install Linksys AE250# Wireless Router Updated Firmware Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-workflow-on-the-ipad-discover-essential-apps-for-peak-performance-expert-tips/"><u>Maximizing Workflow on the iPad: Discover Essential Apps for Peak Performance | Expert Tips</u></a></li>
+<li><a href="https://win-web3.techidaily.com/mp4-windows-10/"><u>MP4コンテンツ音量アップ方法 - Windows 10利用者向け</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/set-up-a-subsidized-windows-platform-for-gpt-mimicry/"><u>Set Up a Subsidized Windows Platform for GPT Mimicry</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unlock-global-access-how-to-watch-canadian-dvds-abroad-without-regional-restrictions/"><u>Unlock Global Access: How to Watch Canadian DVDs Abroad Without Regional Restrictions</u></a></li>
 </ul></div>
 

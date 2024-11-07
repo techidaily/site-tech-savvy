@@ -1,7 +1,7 @@
 ---
 title: Breaking Down OpenAI's Shared Link Structure for GPT-3
-date: 2024-09-16T16:30:33.468Z
-updated: 2024-09-17T16:02:06.197Z
+date: 2024-11-01T23:12:34.055Z
+updated: 2024-11-07T02:17:18.483Z
 tags:
   - chatgpt
   - open-ai
@@ -48,9 +48,23 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
 ![chatgpt shared urls sharing interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-shared-urls-sharing-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The ChatGPT shared link dialog will open, showing you the conversation you're about the share. Now, before you share, you can choose to share with your name or to share anonymously. Switching between the two is useful, as anyone with the ChatGPT shared link URL can gain access. However, "shared links are not designed to show up in public search results on the internet," which is also good to know.
 
 ![chatgpt shared urls anonymous link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-shared-urls-anonymous-link.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Other Users Can Continue Your ChatGPT Conversation
 
@@ -60,18 +74,18 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 
  The updated conversation won't appear in your ChatGPT history. It's a snapshot and is separate from your chat. But you should consider the information in any ChatGPT conversation you share, as the entire conversation history is viewable.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Manage and Delete Your ChatGPT Shared Links
 
  Currently, there are no granular permissions for ChatGPT shared links. However, you can keep tabs on the shared links you've already published using the ChatGPT Settings.
 
 ![chatgpt shared urls all shared links management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-shared-urls-all-shared-links-management.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. In the bottom left corner, select your user profile, then Settings.
 2. Head to **Data Controls > Shared Links**.
@@ -80,16 +94,10 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
 5. To delete all of your shared conversations, select the three-dot icon, then **Delete all shared links**.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing Your ChatGPT Conversations Is Easy
@@ -115,5 +123,26 @@ thumbnail: https://thmb.techidaily.com/27746b6185c67b4ba6c8d7ec13b8c3fa4b801e4bb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevate-your-mobile-shoot-ranking-the-best-9-camgear-innovations/"><u>[New] 2024 Approved Elevate Your Mobile Shoot - Ranking the Best 9 CamGear Innovations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-direct-streams-from-obs-to-insta-profile-for-2024/"><u>[New] Direct Streams From OBS to Insta Profile for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-save-funny-tweet-graphics-gifs-in-minutes-for-2024/"><u>[New] How To Save Funny Tweet Graphics (GIFs) in Minutes for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-theta-s-reviewed-detailed-performance-insights-for-2024/"><u>[New] Theta S Reviewed Detailed Performance Insights for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-love-and-light-nine-essential-filmora-elements/"><u>[Updated] 2024 Approved Love and Light Nine Essential Filmora Elements</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-premier-transcription-tools-for-silent-input/"><u>[Updated] In 2024, Premier Transcription Tools for Silent Input</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-conversation-revolution-snapchat-myai-or-gpt/"><u>AI Conversation Revolution: Snapchat MyAI or GPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-content-creation-missteps-use-of-chatgpt/"><u>Avoiding Content Creation Missteps: Use of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-text-excels-prowess-vs-ai-dialogues/"><u>Beyond Text: Excel's Prowess Vs. AI Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-next-level-visual-smart-scanning-with-iphone-16s-new-camera-functionality-echoing-google-lens-capabilities-insights-from-zdnet/"><u>Experience Next-Level Visual Smart Scanning with iPhone 16'S New Camera Functionality Echoing Google Lens Capabilities | Insights From ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-lock-the-frame-in-video-playback-on-windows-mac-android-and-iphone/"><u>How To Lock The Frame In Video Playback On Windows, Mac, Android & iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-unlimited-free-fun-with-top-meme-templates/"><u>In 2024, Explore Unlimited Free Fun with Top Meme Templates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-bot-comparison-standardized-creative-challenge/"><u>Innovative Bot Comparison: Standardized Creative Challenge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-understanding-gpt4all-functionality/"><u>Inside Look: Understanding GPT4All Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prose-perfection-mastering-the-novel-craft-with-chatgpt/"><u>Prose Perfection: Mastering the Novel Craft with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-crafting-distinctive-ai-visuals-via-microsoft-copilot/"><u>Tips: Crafting Distinctive AI Visuals via Microsoft Copilot</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-to-exit-sea-of-thieves-endless-launch-sequence/"><u>Troubleshooting Tips to Exit Sea of Thieves Endless Launch Sequence</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlock-social-potential-sharing-panoramic-content-with-facebook-for-2024/"><u>Unlock Social Potential Sharing Panoramic Content with Facebook for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-to-the-iphone-16-weigh-pros-and-cons-with-expert-insights-editors/"><u>Upgrading to the iPhone 16? Weigh Pros & Cons with Expert Insights Editors</u></a></li>
+</ul></div>
 

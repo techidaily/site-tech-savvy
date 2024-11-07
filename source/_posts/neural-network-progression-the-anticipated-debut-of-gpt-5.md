@@ -1,7 +1,7 @@
 ---
 title: "Neural Network Progression: The Anticipated Debut of GPT-5?"
-date: 2024-10-25T18:46:52.797Z
-updated: 2024-11-01T19:01:13.682Z
+date: 2024-11-01T21:23:35.838Z
+updated: 2024-11-07T10:23:07.745Z
 tags:
   - chatgpt
   - open-ai
@@ -43,21 +43,28 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
  Here's a video of Altman's discussion below:
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -74,22 +81,21 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5\.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4\.
 
@@ -98,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5\.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -129,20 +135,19 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-art-of-instagram-video-clipping-and-trimming/"><u>[New] 2024 Approved The Art of Instagram Video Clipping and Trimming</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-discovering-new-ways-beyond-magix-acid-pro-for-2024/"><u>[New] Discovering New Ways Beyond Magix ACID Pro for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-game-recordings-on-fortnite/"><u>[Updated] 2024 Approved Mastering Game Recordings on Fortnite</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-from-stream-to-file-vimeo-hd-to-mp4-methods/"><u>[Updated] From Stream to File Vimeo HD to MP4 Methods</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-prevent-missing-facebook-page-views/"><u>[Updated] In 2024, Prevent Missing Facebook Page Views</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029389449-mp4/"><u>動画化テクニック：連続画像をMP4フォーマットに変換する方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029016473-4/"><u>最高の電話会議を実現するための4つの優れた通話録音ツール・アプリ</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-how-the-latest-ampace-andes-portable-generator-transforms-energy-on-the-go/"><u>Discover How the Latest Ampace Andes Portable Generator Transforms Energy On-the-Go</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-correcting-the-missing-mapi32dll-error-on-your-windows-pc/"><u>Guide to Correcting the Missing Mapi32.dll Error on Your Windows PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-10-free-video-stabilization-tools-for-smooth-footage/"><u>Top 10 Free Video Stabilization Tools for Smooth Footage</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshooting-techniques-in-windows-accessing-safe-mode-and-graphics-driver-purge/"><u>Troubleshooting Techniques in Windows: Accessing Safe Mode & Graphics Driver Purge</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029934677-windows-11/"><u>Windows 11による簡単なビデオ編集テクニックのガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029912225-youtubepc/"><u>YouTube横ビデオをPC上で縦に再編成する最適な方法 - プロフェッショナルの動画変形術</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029526361-youtube/"><u>ビデオに水紋を追加するためのシンプル・チュートリアル: YouTube編集ツール使用</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030562025-teams/"><u>プライベートでのTeamsミーティング録音 - イヤフォンを活用したスニークショット技術</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-essential-guide-to-vitas-complete-video-editing-software/"><u>[Updated] In 2024, The Essential Guide to Vita's Complete Video Editing Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-bids-farewell-to-itunes-and-introduces-new-media-player-apps-on-windows-a-detailed-look/"><u>Apple Bids Farewell to iTunes and Introduces New Media Player Apps on Windows - A Detailed Look</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-walkthrough-to-freshly-downloading-and-updating-zebras-zp450-printer-drivers/"><u>Complete Walkthrough to Freshly Downloading and Updating Zebra's ZP450 Printer Drivers</u></a></li>
+<li><a href="https://discover-help.techidaily.com/erstellen-sie-unter-windows-11-mit-einfachem-schritt-fur-schritt-leitfaden-eine-bootable-usb-laufwerk-aus-einer-iso-datei/"><u>Erstellen Sie Unter Windows 11 Mit Einfachem Schritt-Für-Schritt-Leitfaden Eine Bootable USB-Laufwerk Aus Einer ISO-Datei</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-capabilities-of-gpts-personalized-commands/"><u>Harnessing the Capabilities of GPT's Personalized Commands</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-y36i-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo Y36i FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/market-trends-analyzing-the-consumer-decision-against-upgrading-to-an-iphone-16-pro-a-tech-authority-weighs-in/"><u>Market Trends: Analyzing the Consumer Decision Against Upgrading to an iPhone 16 Pro - A Tech Authority Weighs In</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-content-excellence-through-ai-insight/"><u>Maximizing Content Excellence Through AI Insight</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-rewind-and-play-the-quintet-of-best-opposite-direction-melodies-for-2024/"><u>New Rewind and Play The Quintet of Best Opposite-Direction Melodies for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-search-experience-with-perplexity/"><u>Revolutionize Your Search Experience with Perplexity</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-status-update-on-diablo-immortals-arrival-to-personal-computers/"><u>The Status Update on Diablo Immortal's Arrival to Personal Computers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-a14-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy A14 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-step-by-step-guide-choosing-the-perfect-laptop-or-desktop-for-your-education-needs/"><u>Ultimate Step-by-Step Guide: Choosing the Perfect Laptop or Desktop for Your Education Needs</u></a></li>
 </ul></div>
 

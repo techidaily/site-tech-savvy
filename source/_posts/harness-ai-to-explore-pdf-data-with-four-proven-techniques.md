@@ -1,7 +1,7 @@
 ---
 title: Harness AI to Explore PDF Data with Four Proven Techniques
-date: 2024-09-14T16:10:35.077Z
-updated: 2024-09-17T16:20:12.887Z
+date: 2024-11-02T11:45:32.955Z
+updated: 2024-11-07T02:04:58.605Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are [limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/), especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Copy Text From the PDF
 
  If you have a copy of the PDF on your computer, then the easiest way is to simply copy the text you need from the PDF. In the example below, we opened a PDF copy of a MakeUseOf article about [prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/). We used Microsoft Edge to open it, and then we highlighted the relevant text and copied it to the clipboard.
@@ -64,34 +71,42 @@ thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523
 2. If the document does not appear, use the file type dropdown box and select **PDF Files** from the options.  
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press **OK** to proceed.  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the **Save As** command to save it as a Word or text document as preferred.
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
 [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader-ext/becfinhbfclcgokjlobojlnldbfillpf/related) is a free-to-install Chrome Extension that allows you to upload any file, including Word documents, Excel spreadsheets, image files, and, of course, PDFs. What makes this an excellent method is just how easy it is to use.
 
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new **Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
 
@@ -116,5 +131,26 @@ thumbnail: https://thmb.techidaily.com/84b555054820124f11889e906637732ab71a15523
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-core-framework-principles-for-engaging-online-promotions/"><u>[New] In 2024, Core Framework Principles for Engaging Online Promotions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-top-video-montages-on-mobile-devices-a-8-must-have-list/"><u>[New] In 2024, Top Video Montages on Mobile Devices A 8 Must-Have List</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-kickstarting-with-gopro-the-top-10-list-of-perks/"><u>[Updated] Kickstarting with GoPro The Top 10 List of Perks</u></a></li>
+<li><a href="https://ai-video.techidaily.com/bang-for-your-buck-the-acer-predator-orion-50-revealed-top-tier-tech-at-a-fraction-of-the-price/"><u>Bang for Your Buck: The Acer Predator Orion 50# Revealed – Top-Tier Tech at a Fraction of the Price</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bard-vs-chatgpt-googles-new-ai-showdown-announced/"><u>Bard Vs. ChatGPT: Google's New AI Showdown Announced</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-knowledge-not-just-text/"><u>Building Knowledge, Not Just Text</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cost-effective-pc-video-archive-tools/"><u>Cost-Effective PC Video Archive Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-enhanced-photography-with-iphone-16s-revolutionary-camera-button-tech-insights/"><u>Discover Enhanced Photography with iPhone 16'S Revolutionary Camera Button | Tech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-value-with-dells-top-secret-budget-beast-exceptional-tech-meets-wallet-friendly-pricing/"><u>Discovering Value with Dell's Top-Secret Budget Beast - Exceptional Tech Meets Wallet-Friendly Pricing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-new-iphone-15-pro-max-at-just-a-penny-exclusive-inside-look-into-the-amazing-amazon-offer/"><u>Get Your Hands on the New iPhone 15 Pro Max at Just a Penny: Exclusive Inside Look Into the Amazing Amazon Offer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-do-ai-conversations-drive-chatgpts-development/"><u>How Do AI Conversations Drive ChatGPT's Development?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/large-scale-language-models-unpacked/"><u>Large-Scale Language Models Unpacked</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-driver-errors-in-your-dell-system-on-windows-83647-easily/"><u>Solving Audio Driver Errors in Your Dell System on Windows #8364;7 Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-zen-ai-assistance-in-daily-practices/"><u>The Future of Zen: AI Assistance in Daily Practices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-repairing-missing-msstdfmtdll-error-messages-effectively/"><u>Troubleshooting and Repairing 'Missing' Msstdfmt.dll Error Messages Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncovering-the-secret-lifespan-of-your-apple-watch-battery-a-shocking-revelation/"><u>Uncovering the Secret Lifespan of Your Apple Watch Battery: A Shocking Revelation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-ai-installing-chatgpt-on-windows/"><u>Unlocking AI: Installing ChatGPT on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-your-secrets-on-apple-devices-mastery-of-macos-keychain-search-techniques/"><u>Unlocking Your Secrets on Apple Devices: Mastery of macOS Keychain Search Techniques</u></a></li>
+</ul></div>
 

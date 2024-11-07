@@ -1,7 +1,7 @@
 ---
 title: Decoding the Meaning and Price of Grok AI Through Elon's Lens
-date: 2024-09-10T16:05:27.077Z
-updated: 2024-09-17T16:26:44.346Z
+date: 2024-10-31T02:43:32.912Z
+updated: 2024-11-06T23:32:47.597Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
  Musk has talked xAI's Grok up, but does it have what it takes to compete?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is xAI's Grok?
 
  Despite Musk regularly reminding the world that AI could be bad, that it could create a world without jobs for regular folks (if you believe Musk's take on this is benign, I have a bridge to sell you), and that the entire focus of AI needs greater governance, Musk proudly proclaimed on X that "In some important aspects, it \[Grok\] is the best that current exists."
@@ -61,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
  Musk has also observed that Grok's direct internet access will give it an advantage over other generative AI tools that lack access.
 
  Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Much Will Grok Cost? Who Can Use Grok?
 
@@ -109,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
  For any casual observer, Musk's chortling about being based is anything but, landing more on the toe-curling plane of discomfort, delivering a visceral sense of embarrassment. But for Musk's legion of fans, xAI's Grok is the long-awaited "answer to the monstrosity of WokeGPT," a reference to the boundaries and perceived neutering of ChatGPT's capabilities by OpenAI.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does Grok Perform? Is Grok Better Than ChatGPT?
 
  Given only a minute number of users have been given access to Grok so far, most of what we know about its performance comes from xAI. The company was keen to stress that "Grok is still a very early beta product" and that its current performance is "the best we could do with 2 months of training."
@@ -129,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
  Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Will Grok Cost? Who Can Use Grok?
@@ -144,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
  I would expect xAI to release an earlier version of Grok for free, or at least, much cheaper, in the hope that it encourages users to upgrade to the full version. Another issue that may stand in the way of Grok uptake is its current direct link to X Premium Plus. There may be users that want to subscribe to Grok but don't want X verification or one of Musk's paid-for Blue Ticks next to their name—something else for Musk, X, and xAI to wrestle with.
 
  Musk has indicated that a separate version of Grok may launch in the future, but there is little information on that at the current time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's Next for xAI's Grok?
 
@@ -161,6 +161,13 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
  Musk has talked xAI's Grok up, but does it have what it takes to compete?
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is xAI's Grok?
 
  Despite Musk regularly reminding the world that AI could be bad, that it could create a world without jobs for regular folks (if you believe Musk's take on this is benign, I have a bridge to sell you), and that the entire focus of AI needs greater governance, Musk proudly proclaimed on X that "In some important aspects, it \[Grok\] is the best that current exists."
@@ -176,10 +183,10 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
  For any casual observer, Musk's chortling about being based is anything but, landing more on the toe-curling plane of discomfort, delivering a visceral sense of embarrassment. But for Musk's legion of fans, xAI's Grok is the long-awaited "answer to the monstrosity of WokeGPT," a reference to the boundaries and perceived neutering of ChatGPT's capabilities by OpenAI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does Grok Perform? Is Grok Better Than ChatGPT?
@@ -194,19 +201,6 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
  Currently, it's difficult to say whether Grok is better than ChatGPT, and it's clear that Grok is speeding forward based on the work already laid out by other AI research companies.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Much Will Grok Cost? Who Can Use Grok?
 
  Grok is still currently in early testing. Limited beta access has been granted to a small number of X Premium Plus users, which currently costs $16 per month. Once Grok leaves its beta period, it will become available to all X Premium Plus subscribers, dangling a weighty AI-shaped carrot over X verification.
@@ -216,6 +210,13 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
  I would expect xAI to release an earlier version of Grok for free, or at least, much cheaper, in the hope that it encourages users to upgrade to the full version. Another issue that may stand in the way of Grok uptake is its current direct link to X Premium Plus. There may be users that want to subscribe to Grok but don't want X verification or one of Musk's paid-for Blue Ticks next to their name—something else for Musk, X, and xAI to wrestle with.
 
  Musk has indicated that a separate version of Grok may launch in the future, but there is little information on that at the current time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What's Next for xAI's Grok?
 
@@ -288,5 +289,20 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastery-in-motion-transform-youtube-videos-into-expressive-gifs/"><u>[New] 2024 Approved Mastery in Motion Transform YouTube Videos Into Expressive GIFs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-decoding-the-m1-chip-apples-latest-marvel/"><u>[New] Decoding the M1 Chip Apple's Latest Marvel</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-noob-to-pro-selecting-webcams-that-make-a-difference-in-youtube-livestreams/"><u>[Updated] 2024 Approved From Noob to Pro Selecting Webcams That Make a Difference in YouTube Livestreams</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-disk-access-failure-in-microsofts-os/"><u>Correcting Disk Access Failure in Microsoft's OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-an-effective-programmers-showcase-a-step-by-step-guide/"><u>Creating an Effective Programmer's Showcase: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-moto-e13-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Moto E13 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-remote-work-revolutionizes-office-dynamics-stay-alert-zdnet/"><u>How Remote Work Revolutionizes Office Dynamics - Stay Alert! | ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-frugal-shopping-for-cheap-vr-headsets-china/"><u>In 2024, Frugal Shopping for Cheap VR Headsets (China)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-strategies-and-pitfalls-in-crafting-an-unforgettable-cybersecurity-cv-insights-from-zdnet/"><u>Key Strategies & Pitfalls in Crafting an Unforgettable Cybersecurity CV - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-your-pathway-into-apple-expert-strategies-and-confidential-guide/"><u>Mastering Your Pathway Into Apple: Expert Strategies and Confidential Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-side-of-employee-turnover-at-leading-technology-companebs-understanding-the-bigger-picture-beyond-headcount-cuts/"><u>The Hidden Side of Employee Turnover at Leading Technology Companebs: Understanding the Bigger Picture Beyond Headcount Cuts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-coding-bootcamp-programs-expert-reviews-and-rankings/"><u>Top 10 Coding Bootcamp Programs : Expert Reviews & Rankings</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unleash-your-online-presence-with-leading-platforms-facebook-twitter-instagram-and-youtube/"><u>Unleash Your Online Presence with Leading Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 

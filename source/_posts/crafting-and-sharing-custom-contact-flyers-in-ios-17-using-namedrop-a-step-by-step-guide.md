@@ -1,7 +1,7 @@
 ---
 title: "Crafting and Sharing Custom Contact Flyers in iOS 17 Using NameDrop: A Step-by-Step Guide"
-date: 2024-10-31T17:11:35.162Z
-updated: 2024-11-01T17:39:44.203Z
+date: 2024-11-02T18:09:25.462Z
+updated: 2024-11-07T01:45:20.630Z
 tags:
   - apple
 categories:
@@ -37,24 +37,31 @@ Let me show you how it works.
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create different network locations in MacOS
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Requirements
 
 The only thing you'll need is a device running an updated version of MacOS. This feature works with both wired and wireless connections.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Open System Preferences
 
@@ -65,10 +72,10 @@ Click the Apple menu at the top right of your display and select System Preferen
 From within System Preferences, click the Network icon to open the Network section.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Create a new network location
@@ -88,13 +95,6 @@ Configuring a network for the new location in MacOS.
 Image: Jack Wallen
 
 Once you've configured the location exactly how you need it, click Apply to save everything.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Switching to a different Network Location
 
@@ -139,18 +139,17 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-drive-engagement-not-farewells-top-strategies-to-keep-your-audience-hooked-on-youtube/"><u>[Updated] 2024 Approved Drive Engagement, Not Farewells Top Strategies to Keep Your Audience Hooked on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-content-with-effective-video-seo-for-2024/"><u>[Updated] Elevate Your Content with Effective Video SEO for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-dual-screening-made-simple-navigating-through-floating-window-functionality-in-netflix/"><u>[Updated] In 2024, Dual Screening Made Simple Navigating Through Floating Window Functionality in Netflix</u></a></li>
-<li><a href="https://win-info.techidaily.com/accelerate-your-pcs-performance-the-hidden-windows-11-feature-to-quickly-terminate-sluggish-programs-insights-from-zdnet/"><u>Accelerate Your PC's Performance: The Hidden Windows 11 Feature to Quickly Terminate Sluggish Programs - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-new-chief-raises-gpt-questions/"><u>AI's New Chief Raises GPT Questions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/escalating-cybercrimes-in-singapore-spark-rising-concern-over-increasing-fraudulent-schemes/"><u>Escalating Cybercrimes in Singapore Spark Rising Concern Over Increasing Fraudulent Schemes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/make-friends-with-ai-at-bing-start-using-now-guide/"><u>Make Friends With AI at Bing: Start Using Now Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-update-process-how-to-get-the-newest-ios-version-on-your-device/"><u>Mastering the Update Process: How To Get The Newest iOS Version On Your Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-gpt-capabilities-with-these-9-must-try-plugins/"><u>Maximize GPT Capabilities with These 9 Must-Try Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-downgrade-in-gpts-intellectuality-claims-openai/"><u>No Downgrade in GPT's Intellectuality Claims OpenAI</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/optimal-repair-strategies-for-gpus-only/"><u>Optimal Repair Strategies for GPUs Only</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-great-ai-debate-on-social-platforms/"><u>The Great AI Debate on Social Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-paperclip-algorithms-and-artificial-intelligence/"><u>The Intersection of Paperclip Algorithms & Artificial Intelligence</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-hp-envy-27-review-where-4k-meets-usb-c-tech/"><u>[New] 2024 Approved HP Envy 27 Review - Where 4K Meets USB-C Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-data-handling-is-it-safe/"><u>ChatGPT's Data Handling: Is It Safe?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-apple-laptop-macbook-air-vs-macbook-pro-tips-and-considerations-techadvisor/"><u>Choosing the Right Apple Laptop: MacBook Air Vs. MacBook Pro - Tips & Considerations | TechAdvisor</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-xs-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone XS Max without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-conquer-periscope-recording-mastering-the-process/"><u>In 2024, Conquer Periscope Recording Mastering the Process</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g13frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G13FRP Lock</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-leading-places-to-download-high-quality-free-digital-images/"><u>In 2024, Leading Places to Download High-Quality, Free Digital Images</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-f15-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy F15 5G FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-content-creation-ai-software-at-your-fingertips/"><u>Maximize Content Creation: AI Software at Your Fingertips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-intuitive-bing-experience-via-ai/"><u>The Dawn of Intuitive Bing Experience via AI</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solutions-for-stabilizing-code-veal-during-play-sessions/"><u>Ultimate Solutions for Stabilizing Code Veal During Play Sessions</u></a></li>
 </ul></div>
 

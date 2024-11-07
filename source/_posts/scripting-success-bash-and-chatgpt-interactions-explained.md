@@ -1,7 +1,7 @@
 ---
 title: "Scripting Success: Bash and ChatGPT Interactions Explained"
-date: 2024-10-30T19:11:24.460Z
-updated: 2024-11-01T16:36:54.963Z
+date: 2024-11-04T11:06:18.535Z
+updated: 2024-11-07T13:09:37.676Z
 tags:
   - chatgpt
   - open-ai
@@ -71,14 +71,14 @@ thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa
 
 ![Ubuntu terminal window with code snippets with installation codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-pip-on-ubuntu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After installation, you can again use the **\--version** command to check if the installation was successful.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 2: Install and Set Up a Virtual Environment Using Python
 
@@ -93,20 +93,6 @@ thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa
 `sudo apt install python3-venv -y`
 
 ![Ubuntu terminal window code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-virtual-environment-module-in-ubuntu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Set Up the Virtual Environment
 
@@ -135,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-virtual-environment-for-shellgpt-in-ubuntu-1.jpg)
 
 <!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
   <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
@@ -160,13 +153,6 @@ thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa
  To establish a connection on your Ubuntu machine, create an environment variable with the **export** command:
 
 `export OPENAI_API_KEY=<paste key details here>`
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Add and Verify the API Key Into a Virtual Environment Variable
 
@@ -199,13 +185,20 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![Installation snippet on ubuntu's terminal screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-shell-gpt-on-ubuntu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Let the installation finish; meanwhile, you can check out some interesting ways to use the AI tool via your terminal window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using ShellGPT for Running Queries via the Terminal
@@ -216,6 +209,13 @@ export OPENAI_API_KEY=<paste key details here>`
 
 ![Ubuntu terminal interface with a query response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-query-reponse.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using ShellGPT for Generating Code
 
  You can use your ShellGPT for generating code as well. You can do it by passing the right command with the **sgpt** command:
@@ -225,10 +225,10 @@ export OPENAI_API_KEY=<paste key details here>`
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-code-reponse.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The output consists of code you can execute within Python to generate the Fibonacci series.
@@ -260,21 +260,20 @@ export OPENAI_API_KEY=<paste key details here>`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-inshot-vs-other-editors-a-comprehensive-analysis/"><u>[New] InShot vs Other Editors A Comprehensive Analysis</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-beginners-blueprint-to-effective-use-of-aiseesoft-recorder-for-2024/"><u>[Updated] Beginner's Blueprint to Effective Use of Aiseesoft Recorder for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-iphone-long-exposure-a-comprehensive-guide/"><u>[Updated] Mastering iPhone Long Exposure A Comprehensive Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-mobile-photography-with-androids-lightroom/"><u>2024 Approved Mastering Mobile Photography with Android’s Lightroom</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-enrollment-register-for-chatgpt-and-telegram-quickly/"><u>Easy Enrollment: Register for ChatGPT and Telegram Quickly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-ai-communication-responding-with-purpose-to-prompts/"><u>Enhanced AI Communication: Responding with Purpose to Prompts</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/expert-tips-for-securing-and-backing-up-project-files-in-flipbuilders-flipbook-platform/"><u>Expert Tips for Securing and Backing Up Project Files in FlipBuilder's FlipBook Platform</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-decoded-a-step-towards-social-verification/"><u>GPT-4 Decoded: A Step Towards Social Verification</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-the-chatgpt-api/"><u>How to Use the ChatGPT API</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-claudes-magic-box-why-its-revolutionizing-industries/"><u>Inside Claude's Magic Box: Why It's Revolutionizing Industries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mistrust-in-zerogpt-when-detectors-are-blinded/"><u>Mistrust in ZeroGPT: When Detectors Are Blinded</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/movavi-scaricare-e-conversione-gratuita-di-file-aac-in-formato-mp3-online/"><u>Movavi: Scaricare E Conversione Gratuita Di File AAC in Formato MP3 Online</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-technology-behind-chatbot-communication-mimicking-real-life-interactions/"><u>The Technology Behind Chatbot Communication: Mimicking Real-Life Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/turings-gambit-seeking-artificial-superiority/"><u>Turing's Gambit: Seeking Artificial Superiority</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-a-list-of-trustworthy-websites-for-procuring-creative-outro-harmonies-without-copyright-issues/"><u>Updated A List of Trustworthy Websites for Procuring Creative Outro Harmonies Without Copyright Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/star-wars-perfect-movie-watching-order-on-disney-plus-explained/"><u>'Star Wars': Perfect Movie-Watching Order on Disney Plus Explained!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-guide-eradicating-pending-videos-on-your-youtube-queue/"><u>[New] Guide Eradicating Pending Videos on Your YouTube Queue</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-inexpensive-pcs-mastering-best-obs-arrangements/"><u>[New] In 2024, Inexpensive PCs Mastering Best OBS Arrangements</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-spectrasafe-uv-censor-webcam-shield/"><u>[New] SpectraSafe UV-Censor Webcam Shield</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-the-power-of-spotifys-ad-platform-for-marketers/"><u>[New] Unleashing the Power of Spotify's Ad Platform for Marketers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-breaking-down-barriers-to-effective-airdrop-on-iosmacos/"><u>[Updated] 2024 Approved Breaking Down Barriers to Effective AirDrop on iOS/macOS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-fascinating-topic-titling-system/"><u>2024 Approved Fascinating Topic Titling System</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unveiling-the-secrets-of-professional-srt-file-generation/"><u>2024 Approved Unveiling the Secrets of Professional SRT File Generation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-efficiency-with-xr-technology-score-a-frugal-deal-at-20-off-for-amazons-prime-day-featuring-three-virtual-screens-per-macbook-zdnet/"><u>Augmented Efficiency with XR Technology: Score a Frugal Deal at 20% Off for Amazon's Prime Day - Featuring Three Virtual Screens per MacBook! | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/black-friday-breakdown-how-vr-headsets-became-the-must-have-gadget-eclipsing-even-apples-airpods-exclusive-report-by-zdnet/"><u>Black Friday Breakdown: How VR Headsets Became the Must-Have Gadget, Eclipsing Even Apple's AirPods | Exclusive Report by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-productivity-during-prime-day-with-3x-vr-display-on-discounted-xr-glasses-see-how-it-works/"><u>Boost Your Productivity During Prime Day with 3X VR Display on Discounted XR Glasses – See How It Works!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-why-using-a-vpn-is-crucial-for-your-vision-pro-and-similar-arvr-devices/"><u>Essential Guide: Why Using a VPN Is Crucial for Your Vision Pro and Similar AR/VR Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-six-components-of-a-successful-digital-twin-strategy-integrating-artifice-intelligence/"><u>Essential Six Components of a Successful Digital Twin Strategy: Integrating Artifice Intelligence</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915162683-professional-grade-program-elimination-with-revo-uninstaller-pro-latest-update/"><u>Professional-Grade Program Elimination with Revo Uninstaller Pro - Latest Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-insight-into-sonyn-new-xr-headset-surpassing-vision-pro-and-including-two-critical-capabilities-for-apple-devices/"><u>ZDNet's Insight Into Sony'n New XR Headset - Surpassing Vision Pro and Including Two Critical Capabilities for Apple Devices</u></a></li>
 </ul></div>
 

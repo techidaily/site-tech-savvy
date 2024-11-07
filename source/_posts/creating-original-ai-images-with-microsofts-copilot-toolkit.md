@@ -1,7 +1,7 @@
 ---
 title: Creating Original AI Images with Microsoft's Copilot Toolkit
-date: 2024-10-31T16:45:47.185Z
-updated: 2024-11-01T19:06:00.406Z
+date: 2024-10-30T20:36:47.388Z
+updated: 2024-11-07T11:49:15.471Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 * [Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?](https://turbotech.pxf.io/pyx4je)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -63,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only [reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Microsoft Copilot Image Creator in Edge
 
  If you use Microsoft's Edge browser, the easiest way to start using the Image Creator is in a regular Copilot chat. Ask Copilot to create an image, and it'll do its best to deliver a unique take on your input, providing four 1:1 images (it will not give you a 2:1 image or otherwise, no matter what input you try—but there is a reason for that!).
@@ -82,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, from there, I selected the image I wanted to use, pressed the "expand" icon in the bottom right corner, and selected **Landscape**. Copilot auto-magically adjusted the original image into a 2:1 1792x1024, finally fulfilling my original request.
 
 Close
@@ -96,6 +82,19 @@ Close
  Next, I applied a few different styles to the image, opting for pixel art and origami for a unique touch. Other options include watercolor, block print, and steampunk. Each style applies seamlessly, and you can return to the original image at any time.
 
 Close
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Microsoft Copilot Image Creator in Any Browser
 
@@ -106,15 +105,22 @@ Close
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.
 
  What I found interesting was that Image Creator images generated in Copilot on Edge will appear in your Image Creator recent images. Edits you make to the Copilot on Edge images will update across the two tools as you make them, but it's a one-way process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?
 
@@ -145,14 +151,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dynamic-lighting-elevating-video-aesthetics/"><u>[Updated] In 2024, Dynamic Lighting Elevating Video Aesthetics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-abletons-art-of-softening-soundscapes/"><u>2024 Approved Ableton's Art of Softening Soundscapes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-guide-to-the-samsung-galaxy-a71-5g-an-affordable-alternative-that-stands-up-against-top-tier-phones/"><u>Comprehensive Guide to the Samsung Galaxy A71 5G - An Affordable Alternative That Stands Up Against Top-Tier Phones</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/game-development-transformed-by-ai-driven-innovations/"><u>Game Development Transformed by AI-Driven Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-successfully-run-llama-2-locally/"><u>How to Successfully Run Llama 2 Locally</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-vault-how-chatbots-limit-our-speech-for-a-safer-space/"><u>Inside the Vault: How Chatbots Limit Our Speech for a Safer Space</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722971879998-quick-and-easy-guide-to-updating-asus-vg24qe-display-driver-on-windows-pcs-what-you-need-to-know/"><u>Quick & Easy Guide to Updating Asus VG24#qe Display Driver on Windows PCs - What You Need to Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-generative-ai/"><u>What Is Generative AI?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-how-to-download-and-use-ifunny-meme-app/"><u>[New] 2024 Approved How to Download and Use iFunny Meme App</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ailing-the-streaming-seas-navigate-youtubes-numbers-for-profitability-and-popularity-for-2024/"><u>[New] Sailing the Streaming Seas Navigate YouTube's Numbers for Profitability & Popularity for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mov4-mov/"><u>高画質を保ちつつMOVファイル容量を圧縮する上位4選択肢 - MOVのファイルサイズ最適化</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-connect-on-facetime-a-list-of-15-possible-fixes-you-should-try/"><u>Can't Connect on FaceTime? A List of 15 Possible Fixes You Should Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-interaction-patterns-for-realistic-discussions/"><u>Chatbot Interaction Patterns for Realistic Discussions</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-cpu-temp-controls-on-windows-1011/"><u>Customizing CPU Temp Controls on Windows 10/11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-ais-reliability-chatgpt-style/"><u>Evaluating AI's Reliability - ChatGPT Style</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-alternative-use-of-restricted-gpt-features/"><u>Examining Alternative Use of Restricted GPT Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exercise-plans-crafted-with-safety-and-efficiency-in-mind/"><u>Exercise Plans Crafted with Safety and Efficiency in Mind</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edgeplus-2023-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge+ (2023) Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-get-the-latest-microsoft-surface-pro-4-driver-software-for-windows-systems/"><u>How to Get the Latest Microsoft Surface Pro 4 Driver Software for Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-views-navigating-chatgpt-for-film-recommendations/"><u>Maximizing Views: Navigating ChatGPT for Film Recommendations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-nlp-titans-understanding-the-gpt-bert-chasm/"><u>Navigating NLP Titans: Understanding the GPT-BERT Chasm</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-update-your-usb-device-drivers-on-windows-11-and-earlier-versions/"><u>Simple Steps: Update Your USB Device Drivers on Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-slow-reaction-times-in-windows-10-keyboards/"><u>Troubleshooting and Resolving Slow Reaction Times in Windows 10 Keyboards</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-live-setting-picks/"><u>Ultimate Live Setting Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-first-look-at-ai/"><u>Your First Look at AI</u></a></li>
 </ul></div>
 

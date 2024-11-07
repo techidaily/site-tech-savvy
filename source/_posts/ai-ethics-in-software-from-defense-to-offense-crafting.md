@@ -1,7 +1,7 @@
 ---
 title: "AI Ethics in Software: From Defense to Offense Crafting"
-date: 2024-10-26T16:35:37.205Z
-updated: 2024-11-01T17:31:44.497Z
+date: 2024-10-31T22:33:06.807Z
+updated: 2024-11-07T10:10:15.497Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
  So is ChatGPT a cybersecurity threat? The answer, sadly, is yes.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT's Limitations
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While you can access ChatGPT malware code through a chatbot request, it only seems to be able to write very simple malicious code at the time of writing. In the aforementioned Recorded Future report, it was stated that the malware created by ChatGPT found on illicit platforms was "buggy but functional".
@@ -67,10 +67,16 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
  What's more, there's no knowing whether ChatGPT, or another AI-powered chatbot, will one day evolve to the point where sophisticated malware can be produced. This is the beginning, not the end.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are Hackers Using ChatGPT?
@@ -94,16 +100,16 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-tagging-for-content-visibility/"><u>2024 Approved Mastering YouTube Tagging for Content Visibility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-aid-excellence-using-these-high-tech-digital-tools/"><u>Boost Aid Excellence Using These High-Tech Digital Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-rpg-experience-through-chatgpt-techniques/"><u>Enhancing RPG Experience Through ChatGPT Techniques</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210563940-9791029913730-freemasonry-and-catholicism/"><u>Freemasonry and Catholicism | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/governments-role-supervising-ai-through-four-lenses/"><u>Government's Role: Supervising AI Through Four Lenses</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-v30-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme V30 Phone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-sony-xperia-5-v-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Sony Xperia 5 V Phones</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y100a-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y100A Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-xiaomi-redmi-note-12-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Xiaomi Redmi Note 12 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-10-editor-mp4-open-source-applicazioni-gratuite-per-windows-mac-e-linux/"><u>Top 10 Editor MP4 Open Source Applicazioni Gratuite per Windows, Mac E Linux</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voice-able-the-new-era-of-ai-and-vehicle-commands/"><u>VOICE-ABLE: The New Era of AI and Vehicle Commands</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-free-youtube-earning-predictors-for-2024/"><u>[Updated] Free YouTube Earning Predictors for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-ai-photographic-composer/"><u>In 2024, Leading AI Photographic Composer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-leverage-tubebuddy-for-top-tier-youtube-management/"><u>In 2024, Leverage TubeBuddy for Top-Tier YouTube Management</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-cameras-for-slow-motion-film-for-2024/"><u>Optimal Cameras for Slow Motion Film for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/rejuvenating-the-switch-experience-replacing-your-joy-cons-joystick/"><u>Rejuvenating the Switch Experience: Replacing Your Joy-Con's Joystick</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-fitness-how-meta-quest-transformed-my-workout-routine-a-deep-dive-into-the-supernatural-app-experience/"><u>Revolutionize Your Fitness: How Meta Quest Transformed My Workout Routine - A Deep Dive Into the Supernatural App Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsung-delays-vr-headset-release-eyes-late-2024-launch-after-project-vision-pro-led-advancements/"><u>Samsung Delays VR Headset Release, Eyes Late 2024 Launch After Project Vision Pro LED Advancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-mastering-the-art-of-returning-your-apple-vision-pro/"><u>Step-by-Step Guide: Mastering the Art of Returning Your Apple Vision Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-visionary-leap-how-qualcomms-alignment-with-google-and-samsung-is-shaping-future-mr-smart-glasses/"><u>The Next Visionary Leap: How Qualcomm's Alignment with Google and Samsung Is Shaping Future MR Smart Glasses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-the-workplace-with-xr-and-digital-twins-a-comprehensive-enterprise-strategy-for-enhanced-user-interaction-insights-by-zdnet/"><u>Transforming the Workplace with XR & Digital Twins: A Comprehensive Enterprise Strategy for Enhanced User Interaction - Insights by ZDNet</u></a></li>
 </ul></div>
 

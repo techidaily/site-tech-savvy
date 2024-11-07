@@ -1,7 +1,7 @@
 ---
 title: Assessing Basic ChatGPT Against Web-Integrated Plugins
-date: 2024-10-25T17:21:40.469Z
-updated: 2024-11-01T18:13:38.558Z
+date: 2024-11-02T07:43:16.235Z
+updated: 2024-11-06T18:16:51.900Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,6 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  So why did the first version work and the second didn't? What is the difference between the first and the second? If you haven't figured it out yet, the secret is the GPT model involved and the extra tools it can use. Beyond the name, below are some of the ChatGPT versions you should know.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The 4 ChatGPT Versions You Should Know
 
  The four ChatGPT versions you should familiarize yourself with are:
@@ -76,33 +69,33 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
 ![Default ChatGPT GPT-4 model version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-chatgpt-gpt-4-model-version.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT using GPT-4 is superior to any ChatGPT version that runs on GPT-3.5, as it is the most advanced GPT model currently integrated with ChatGPT. GPT-4 gives ChatGPT more creativity and improved reasoning and mathematics abilities.
 
  It is perfect for tasks requiring better mathematical abilities or enormous creativity, like writing a book, crafting unique jokes, or writing a speech. It also has improved programming abilities. For example, if you write code, you can fall back to this version if you have programming-related challenges.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. ChatGPT Running GPT-4 Plus Web Browsing
 
 ![ChatGPT with web browising powered by Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-with-web-browising-powered-by-bing.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT with web browsing inherits all the abilities of the default GPT-4 version with the additional ability to access the internet. With this version, you can access and use data anywhere on the internet in real time, giving you access to information beyond ChatGPT's knowledge base. This allows ChatGPT to significantly expand the number of topics it can handle, far beyond the limits of its training data.
 
  When should you use this version of ChatGPT? [Turning on ChatGPT's browsing abilities](https://www.makeuseof.com/how-to-turn-on-chatgpt-new-web-browsing-and-plugins-feature/) opens up the chatbot to endless possibilities. One of the key use cases is whenever you need to complete a task that needs access to up-to-date and factual information. Also, if you also need sources to be cited in your ChatGPT responses, this version can handle that.
 
  In July 2023, due to abuse, OpenAI temporarily disabled the browsing feature.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. ChatGPT Running GPT-4 with Plugins
 
@@ -113,10 +106,10 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
  From everything like [using ChatGPT to chat with a PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) to creating memes, you'll find a host of ChatGPT Plugins on the plugin store that does much of what you want to achieve. The list of available plugins is actively growing, and with it, the list of new things you can achieve with this version of ChatGPT. Here are some of [the best ChatGPT plugins you can try right now](https://www.makeuseof.com/best-chatgpt-plugins/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which ChatGPT Version Is the Best?
@@ -124,6 +117,13 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
  It all boils down to the circumstances and tasks you want to complete. Although ChatGPT versions powered by GPT-4 clearly have a performance advantage, using up your hourly GPT-4 message quota isn't just worth it for some tasks. GPT-3.5 is a very capable model that can fulfill or surpass GPT-4 in some unique cases. If you are having fun or trivial conversations with the AI chatbot, the default ChatGPT version powered by the GPT-3.5 model will do.
 
  ChatGPT versions powered by the GPT-4 model are heavy movers. Because of the quota limitation, you should ideally use them when advanced reasoning or creativity is required for a task. Or when you are concerned about running out of message quota during a task.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Know Which ChatGPT Version to Use
 
@@ -146,19 +146,21 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-revolutionizing-task-management-the-power-of-ez-grabber/"><u>[New] In 2024, Revolutionizing Task Management The Power of EZ Grabber</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-master-the-art-of-time-stamp-addition-for-better-viewership/"><u>[New] Master the Art of Time Stamp Addition for Better Viewership</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unravel-the-secrets-of-top-tier-video-editing-with-vivacut-24/"><u>[New] Unravel the Secrets of Top-Tier Video Editing with VivaCut '24</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-elevating-engagement-optimal-size-and-ratio-on-youtube/"><u>[Updated] Elevating Engagement Optimal Size & Ratio on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/changing-the-game-how-chatgpt-is-shaping-future-watch-tech/"><u>Changing the Game: How ChatGPT Is Shaping Future Watch Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-unveiled-a-guide-to-business-utilization/"><u>ChatGPT Unveiled: A Guide to Business Utilization</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-recording-to-broadcast-masterful-podcast-editing-with-garageband-for-2024/"><u>From Recording to Broadcast Masterful Podcast Editing with GarageBand for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-does-gpt4all-achieve-its-results/"><u>How Does GPT4All Achieve Its Results?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-the-steam-deck-a-list-of-the-2023-gaming-essentials/"><u>Mastering the Steam Deck: A List of the 2023 Gaming Essentials</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-video-editing-apps-with-advanced-effects-for-ios-and-android/"><u>New Free Video Editing Apps with Advanced Effects for iOS and Android</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimal-display-choices-the-top-5-for-ps5-games-for-2024/"><u>Optimal Display Choices The Top 5 For PS5 Games for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strong-ai-and-weak-ai-unraveling-the-difference/"><u>Strong AI & Weak AI: Unraveling the Difference</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-mirage-of-manuscripts-identifying-machine-made-texts/"><u>The Mirage of Manuscripts: Identifying Machine Made Texts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-data-hunting-with-top-tier-perplexity-ai/"><u>Transform Your Data Hunting with Top-Tier Perplexity AI</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nlocking-the-mysteries-behind-youtube-wealth-ajey-nagar-edition-for-2024/"><u>[New] Unlocking the Mysteries Behind YouTube Wealth - Ajey Nagar Edition for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-epic-locations-for-immersive-virtual-adventures/"><u>[Updated] In 2024, Epic Locations for Immersive Virtual Adventures</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-role-of-tags-in-boosting-video-popularity/"><u>2024 Approved The Role of Tags in Boosting Video Popularity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-encompassing-update-for-iphone-16-lineup-anticipating-thinner-borders-and-advanced-space-recording-feature-on-all-versions-gadgetguru-news/"><u>All-Encompassing Update for iPhone 16 Lineup: Anticipating Thinner Borders and Advanced Space Recording Feature on All Versions | GadgetGuru News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/big-news-for-ios-programmers-experience-an-enhanced-coding-journey-with-our-latest-free-ai-powered-tools-featured/"><u>Big News for iOS Programmers! Experience an Enhanced Coding Journey with Our Latest Free AI-Powered Tools Featured</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forefront-ai-and-chatgpt-who-will-triumph-in-ai-evolution/"><u>Forefront AI & ChatGPT – Who Will Triumph in AI Evolution?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/heavy-dollar-for-airpods-max/"><u>Heavy Dollar for AirPods Max</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-shoot-a-green-screen-video/"><u>How to Shoot a Green Screen Video</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-betting-in-depth-vegas-pro-21-analysis/"><u>In 2024, Beyond Betting In-Depth Vegas Pro '21 Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-app-store-cancellation-on-your-iphone-the-complete-walkthrough-for-handling-ios-nsubscription-services-expert-insights/"><u>Mastering App Store Cancellation on Your iPhone: The Complete Walkthrough for Handling iOS Nsubscription Services – Expert Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-productivity-and-explore-new-horizons-with-the-latest-upgrades-to-popular-xr-glasses-insights-from-zdnet/"><u>Maximize Productivity and Explore New Horizons with the Latest Upgrades to Popular XR Glasses - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/remote-excellence-through-chatgpt-6-must-try-techniques-for-freelancers/"><u>Remote Excellence Through ChatGPT: 6 Must-Try Techniques for Freelancers</u></a></li>
+<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-galaxy-s24-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung Galaxy S24</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steps-to-spot-and-stop-phishing-on-chatgpt-sites/"><u>Steps to Spot and Stop Phishing on ChatGPT Sites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-complete-angle-manipulation-handbook-for-youtube-videos-for-2024/"><u>The Complete Angle Manipulation Handbook for YouTube Videos for 2024</u></a></li>
 </ul></div>
 

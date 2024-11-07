@@ -1,7 +1,7 @@
 ---
 title: "AI's Role in Cybersecurity: Five Facilitators for Fraudsters"
-date: 2024-09-12T16:24:50.387Z
-updated: 2024-09-17T16:11:53.984Z
+date: 2024-10-31T08:13:19.949Z
+updated: 2024-11-07T00:04:27.300Z
 tags:
   - chatgpt
   - open-ai
@@ -50,6 +50,13 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
 
  These figures show how dangerous AI password cracking can be. With the ability to crack most regular passwords in less than 24 hours, there's no knowing what a cybercriminal could do using such a tool.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Conducting Social Engineering
 
  The cybercrime tactic [known as social engineering](https://www.makeuseof.com/tag/social-engineering-makeuseof-explains/) claims hordes of victims every week, and is a major problem in every part of the world. This method uses manipulation to corner victims into complying with the attacker's demands, often without even realizing that they're being targeted
@@ -57,6 +64,19 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  AI could help in social engineering attacks by formulating the content used in malicious communications, such as phishing emails and texts. Even with today's level of AI advancement, it wouldn't be difficult to ask a chatbot to formulate a convincing or persuasive script, which the cybercriminal could then use against their victims. This threat hasn't gone unnoticed, and people are already concerned about the dangers to come.
 
  In this sense, AI could also help in making malicious communications look more professional and official by ironing out spelling and grammar mistakes. Such errors are often said to be possible signs of malicious activity, so it may help cybercriminals if they can write their social engineering content more cleanly and effectively.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Finding Software Vulnerabilities
 
@@ -67,27 +87,27 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
  However, this AI application could also be helpful for cybersecurity vendors, as it could [aid in finding vulnerabilities](https://www.makeuseof.com/top-vulnerability-scanning-tools/) before they are exploited. Being able to patch a flaw quickly can cut off malicious actors' ability to exploit it, mitigating attacks overall.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Analyzing Stolen Data
 ![Data on Laptop Screen](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/data-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Data is as valuable as gold. Today, [sensitive data is sold on dark web marketplaces](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) on a constant basis, with some malicious actors willing to pay a very high price if the information is useful enough.
 
  But for this data to become available on these marketplaces, it first needs to be stolen. Data can certainly be stolen in small amounts, especially when the attacker is targeting lone victims. But larger hacks can result in the theft of huge databases. At this point, the cybercriminal needs to determine what information in this database is valuable.
 
  Using AI, the process of highlighting valuable information could be streamlined, cutting down the time it takes for a malicious actor to determine what is worth selling, or, on the other hand, directly exploiting by their own hand. Artificial intelligence, at its core, is all about learning, so it could one day become easy to use an AI-powered tool to pick up on valuable sensitive data.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AI Is Promising but Also Poses Many Threats
 
@@ -108,5 +128,24 @@ Many tech enthusiasts are excited about the potential artificial intelligence ho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-is-an-annual-subscription-to-youtube-premium-justifiable/"><u>[New] In 2024, Is an Annual Subscription to YouTube Premium Justifiable?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-picture-in-picture-how-to-use-it-for-youtube/"><u>[New] Understanding Picture In Picture How to Use It for YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-apex-racecraft-games-5-top-titles/"><u>[Updated] 2024 Approved Apex Racecraft Games 5 Top Titles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-getting-started-easy-video-intros-available/"><u>[Updated] Getting Started Easy Video Intros Available</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/80-budget-friendly-portable-speaker-with-exceptional-audio-quality-for-all-genres-techradar/"><u>$80 Budget-Friendly Portable Speaker with Exceptional Audio Quality for All Genres - TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-high-quality-sound-without-breaking-your-budget-discover-our-top-pick-for-affordable-bluetooth-speakers/"><u>Experience High-Quality Sound Without Breaking Your Budget: Discover Our Top Pick for Affordable Bluetooth Speakers!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/homepod-vs-homepod-mini-a-comprehensive-sound-quality-showdown-by-zdnet/"><u>HomePod Vs. HomePod Mini: A Comprehensive Sound Quality Showdown by ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-step-by-step-guide-to-youtube-video-editing-mastery/"><u>In 2024, Step by Step Guide to YouTube Video Editing Mastery</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-top-5-best-tools-to-convert-text-to-audio-online-for-free/"><u>In 2024, Top 5 Best Tools to Convert Text to Audio Online for Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-deals-upgrade-your-smart-home-with-echo-show/"><u>Labor Day Deals: Upgrade Your Smart Home with Echo Show</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premium-selection-the-ultimate-15-video-devices-for-2024/"><u>Premium Selection The Ultimate 15 Video Devices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/rejuvenate-your-ps5-library-efficiently/"><u>Rejuvenate Your PS5 Library Efficiently</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-this-presidents-day-unmissable-discounts-at-amazon-walmart-best-buy-60plus-deals-await/"><u>Save Big This Presidents' Day: Unmissable Discounts at Amazon, Walmart, Best Buy – 60+ Deals Await!</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-evolution-continues-facebooks-rebuttal-to-the-end/"><u>The Evolution Continues - Facebook's Rebuttal to the End</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-audio-equipment-comprehensive-reviews-by-professionals-zdnet/"><u>Top Rated Audio Equipment - Comprehensive Reviews by Professionals | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-audio-systems-expert-reviews-by-zdnet/"><u>Top-Rated Portable Audio Systems - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-selection-of-premium-stereo-sound-systems-in-2n1ear-best/"><u>ZDNet's Ultimate Selection of Premium Stereo Sound Systems in 2#N1Ear, Best !</u></a></li>
+</ul></div>
 

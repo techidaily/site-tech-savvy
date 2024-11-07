@@ -1,7 +1,7 @@
 ---
 title: "Kickstart: Embrace 8 Customizable GPT Models Now"
-date: 2024-10-31T18:12:51.897Z
-updated: 2024-11-01T16:28:03.442Z
+date: 2024-11-01T21:47:28.013Z
+updated: 2024-11-07T08:33:34.816Z
 tags:
   - chatgpt
   - open-ai
@@ -52,22 +52,16 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 **Try this GPT:**[Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero).
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It is no news that [ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/). It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
@@ -76,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Let's be honest, Netflix can be horrible at suggesting what to watch next. I asked classic ChatGPT to recommend some historical Korean TV shows. I wanted shows with themes of power, royalty, heroism, and war. The result was a mixed bag. Some options were strong, while others seemed randomly selected based on popularity rather than relevance.
 
@@ -88,16 +89,10 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but [interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/). You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
@@ -110,16 +105,16 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 **Try this GPT**: [Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Personal Tutor
 
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.
 
@@ -134,10 +129,10 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
@@ -147,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 **Try this GPT**: [Colorful Creations](https://chat.openai.com/g/g-e7klUPLGp-colorful-creations).
 
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
@@ -182,22 +170,17 @@ thumbnail: https://thmb.techidaily.com/fe80a3ac8c13e1838e754dfd0b220ea591dc82f5d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-advanced-obs-setup-for-skype-screenshots-for-2024/"><u>[New] Advanced OBS Setup for Skype Screenshots for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-unleashing-creativity-in-drone-video-post-production/"><u>[Updated] In 2024, Unleashing Creativity in Drone Video Post-Production</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-protocols-and-performance-macos-meets-mixer-for-2024/"><u>[Updated] Protocols and Performance MacOS Meets Mixer for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/aeroco-pilots-essential-distinctions-between-models/"><u>AeroCo-Pilots: Essential Distinctions Between Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-tools-4-writers-elevating-the-editorial-experience/"><u>AI Tools 4 Writers: Elevating the Editorial Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-emergence-google-redefines-artificial-intelligence-landscape/"><u>Bard Emergence: Google Redefines Artificial Intelligence Landscape</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722192450282-chatgpt-bodystream-error-here-are-seven-ways-to-fix-it/"><u>ChatGPT Bodystream Error? Here Are Seven Ways to Fix It!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-mapping-the-landscape-of-openai/"><u>Comprehensive Mapping: The Landscape of OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/culinary-creativity-unlocked-7-innovative-chatgpt-tips/"><u>Culinary Creativity Unlocked: 7 Innovative ChatGPT Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-tips-for-efficient-ms-work-setup-in-w11/"><u>Essential Tips for Efficient MS Work Setup in W11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-to-smoothly-capturing-teamviewer-sessions-in-windows-11-os/"><u>Guide to Smoothly Capturing TeamViewer Sessions in Windows 11 OS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-the-art-of-watermarking-on-facebook/"><u>In 2024, Mastering the Art of Watermarking on Facebook</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-infinix-smart-7-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Infinix Smart 7 Phone Now with These Tips</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-xerox-6515-operating-system-update/"><u>New Xerox 6515 Operating System Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/newcomers-guide-to-langchain-tech/"><u>Newcomers' Guide to LangChain Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pivoting-from-chatgpt-a-guide-to-superior-options/"><u>Pivoting From ChatGPT: A Guide to Superior Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seduction-by-software-deception-in-digital-dating/"><u>Seduction by Software: Deception in Digital Dating</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-configuration-clock-integration-for-streaming-software-for-2024/"><u>[New] Expert Configuration Clock Integration for Streaming Software for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-essential-guide-to-writing-click-worthy-youtube-titles/"><u>[New] In 2024, Essential Guide to Writing Click-Worthy Youtube Titles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-simple-steps-to-embed-youtube-playlists-on-any-website/"><u>[Updated] 2024 Approved The Simple Steps to Embed YouTube Playlists on Any Website</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-solution-how-xr-glasses-beat-apples-vision-pro-and-eliminate-fomo-for-less-a-deep-dive-on-zdnet/"><u>Affordable Solution: How XR Glasses Beat Apple's Vision Pro and Eliminate FOMO for Less - A Deep Dive on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-most-advanced-ar-headsets-a-comprehensive-guide/"><u>Exploring the Most Advanced AR Headsets – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-value-proposition-why-this-economical-and-functional-xr-entertainment-platform-outshines-others-uncovered-by-zdnet/"><u>Exploring the Value Proposition: Why This Economical and Functional XR Entertainment Platform Outshines Others | Uncovered by ZDNet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-seamlessly-convert-vimeo-media-to-mp3-for-2024/"><u>How to Seamlessly Convert Vimeo Media to MP3 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-tips-for-three-engaging-video-descriptions-on-ig/"><u>In 2024, Tips for Three Engaging Video Descriptions on IG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/managing-enterprise-devices-with-the-apple-vision-pro-a-comprehensive-guide-tech-insights/"><u>Managing Enterprise Devices with the Apple Vision Pro: A Comprehensive Guide - Tech Insights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamlined-scheduling-making-the-most-of-zoom-calls/"><u>Streamlined Scheduling Making the Most of Zoom Calls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-xr-headsets-for-boosting-work-efficiency-and-enhancing-travel-experience-now-feature-new-improvements-tech-news-on-zdnet/"><u>Top XR Headsets for Boosting Work Efficiency & Enhancing Travel Experience Now Feature New Improvements | Tech News on ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unraveling-imperator-rome-a-gritty-tale-of-conquest-and-kingdom-building/"><u>Unraveling Imperator: Rome - A Gritty Tale of Conquest and Kingdom Building</u></a></li>
 </ul></div>
 

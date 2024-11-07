@@ -1,7 +1,7 @@
 ---
 title: "Bot Safety Checklist: Understanding 3 Privacy Compromises"
-date: 2024-09-13T16:17:36.567Z
-updated: 2024-09-17T16:12:04.553Z
+date: 2024-11-02T06:57:20.609Z
+updated: 2024-11-07T12:49:09.151Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 
  But the concerns don't stop here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How Does ChatGPT Learn?
 
  In order to provide information, large language models are trained with huge amounts of data. According to [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3), ChatGPT-4 alone was fed 300 billion words of information during its training period. This isn't taken straight from a few encyclopedias. Rather, chatbot developers use masses of information from the internet to train their models. This can include data from books, movies, articles, Wikipedia entries, blog posts, comments, and even review sites.
@@ -53,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
  This is where things get a little blurry. If you ask ChatGPT-3.5 directly whether it has access to product reviews or article comments, you'll get a firm negative. As you can see in the screenshot below, GPT-3.5 states that it wasn't given access to user article comments or product reviews in its training.
 
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
 
@@ -85,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Malware Infection
@@ -102,16 +116,10 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Chatbots Aren't Impervious to Privacy Issues
@@ -139,5 +147,21 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-tools-for-youtube-live-broadcasting-reveal-the-7-key-apps/"><u>[New] In 2024, Essential Tools for YouTube LIVE Broadcasting Reveal the 7 Key Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ideal-equipment-for-animation-photography/"><u>[New] In 2024, Ideal Equipment for Animation Photography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-reach-new-heights-on-igtv-top-tactics-for-expanding-your-audience/"><u>[New] In 2024, Reach New Heights on IGTV Top Tactics for Expanding Your Audience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-why-are-my-videos-rotated-in-instagram-answers-needed/"><u>[Updated] Why Are My Videos Rotated in Instagram? Answers Needed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-contacts-application-errors-with-these-3-handy-tips/"><u>Fix Your iPhone's Contacts Application Errors with These 3 Handy Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tailoring-your-podcast-content-with-seo-in-mind/"><u>Tailoring Your Podcast Content with SEO in Mind</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-best-of-kootek-laptop-de-fogger-examined-an-impressive-effective-option/"><u>The Best of Kootek Laptop De-Fogger Examined - An Impressive, Effective Option</u></a></li>
+<li><a href="https://video-capture.techidaily.com/troubleshooting-and-repairing-davinci-resolves-webm-file-import-problem/"><u>Troubleshooting and Repairing DaVinci Resolve's WebM File Import Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-buying-outdoor-projectors-thoroughly-evaluated-models-and-expert-opinions-zdnet/"><u>Ultimate Guide to Buying Outdoor Projectors: Thoroughly Evaluated Models and Expert Opinions | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-best-electric-bbqs-insider-tips-from-zdnet/"><u>Ultimate Guide to Choosing the Best Electric BBQs - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-perfect-lawn-mower-recommendations-by-gizmodo/"><u>Ultimate Guide to Choosing the Perfect Lawn Mower – Recommendations by Gizmodo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-why-the-waterproof-blink-mini/"><u>Ultimate Guide: Why The Waterproof Blink Mini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-expertly-vetted-smart-home-innovations-for-2-cups-and-let-them-steep-for-about-5-minutes-or-until-your-desired-strength-is-reached/"><u>Ultimate List of Expertly Vetted Smart Home Innovations for 2 Cups, and Let Them Steep for About 5 Minutes or Until Your Desired Strength Is Reached.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-create-engaging-reaction-content-with-these-mobile-apps/"><u>Updated In 2024, Create Engaging Reaction Content with These Mobile Apps</u></a></li>
+</ul></div>
 

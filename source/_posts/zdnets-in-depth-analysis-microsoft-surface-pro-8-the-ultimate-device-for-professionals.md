@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth Analysis: Microsoft Surface Pro 8 - The Ultimate Device for Professionals"
-date: 2024-10-29T18:11:35.734Z
-updated: 2024-11-01T16:16:11.156Z
+date: 2024-11-01T13:28:13.573Z
+updated: 2024-11-06T20:06:01.832Z
 tags:
   - apple
 categories:
@@ -70,13 +70,6 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -100,6 +93,13 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -126,6 +126,13 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -135,13 +142,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -154,6 +154,13 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -168,20 +175,13 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -220,14 +220,19 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-top-20-mobiles-transforming-dji-aerial-video-art/"><u>[New] In 2024, Top 20 Mobiles Transforming DJi Aerial Video Art</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-exploring-quantum-hdrs-impact-on-photography/"><u>[Updated] Exploring Quantum HDR's Impact on Photography</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/google-news-feeds-revolutionary-shift/"><u>Google News Feed's Revolutionary Shift</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-gpt-3-with-python/"><u>How to Use GPT-3 With Python</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-a38-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo A38 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-nvidias-chat-technology-a-how-to/"><u>Leveraging Nvidia's Chat Technology: A How-To</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastery-in-making-advanced-tiktok-editing-techniques-for-2024/"><u>Mastery in Making Advanced TikTok Editing Techniques for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/privacy-tip-remove-spotifys-auto-podcast-suggestions-for-2024/"><u>Privacy Tip Remove Spotify's Auto-Podcast Suggestions for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ais-name-purpose-usage-and-price-in-light-of-musks-revelation-on-grok/"><u>Understanding AI's Name - Purpose, Usage & Price in Light of Musk's Revelation on Grok</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dominate-discussion-how-to-trend-on-social-media-platforms/"><u>[New] In 2024, Dominate Discussion How to Trend on Social Media Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-5-best-voice-recorders-for-mac-devices/"><u>[Updated] 2024 Approved 5 Best Voice Recorders for Mac Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-easy-steps-to-extract-and-save-your-youtube-watch-lists/"><u>[Updated] 2024 Approved Easy Steps to Extract and Save Your YouTube Watch Lists</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-pro-filmmaking-lenses-the-ten-most-critical-choices/"><u>[Updated] In 2024, Pro Filmmaking Lenses The Ten Most Critical Choices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-pip-feature-in-youtube-app-for-iphones/"><u>2024 Approved Mastering PIP Feature in YouTube App for iPhones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-legal-implications-can-you-be-fired-for-chatgpt-use/"><u>Dissecting the Legal Implications: Can You Be Fired for ChatGPT Use?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-ai-with-more-exploring-chatgpts-co-pilot-extension/"><u>Empowering AI with More: Exploring ChatGPT's Co-Pilot Extension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freedom-travel-planning-the-seven-top-free-ai-tools-for-itineraries/"><u>Freedom Travel Planning: The Seven Top FREE AI Tools for Itineraries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-business-simpler-with-chatgpts-advanced-assistance/"><u>Making Business Simpler with ChatGPT's Advanced Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/massive-discount-alert-up-to-700-off-the-latest-2022-ipad-pro-for-labor-day-find-out-now/"><u>Massive Discount Alert: Up to $700 Off the Latest 2022 iPad Pro for Labor Day - Find Out Now!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-masked-image-softening-tricks-for-2024/"><u>Mastering Masked Image Softening Tricks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-day-discounts-the-new-generation-apple-watch-se-reduced-by-80-what-you-need-to-know/"><u>Prime Day Discounts: The New Generation Apple Watch SE Reduced by $80 - What You Need To Know!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/printer-drivers-hps-efficient-solution/"><u>Printer Drivers: HP's Efficient Solution</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-efficient-device-management-with-drivereasys-mobile-version/"><u>Unlocking Efficient Device Management with DriverEasy's Mobile Version</u></a></li>
 </ul></div>
 

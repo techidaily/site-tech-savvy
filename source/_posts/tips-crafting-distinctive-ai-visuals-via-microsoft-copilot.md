@@ -1,7 +1,7 @@
 ---
 title: "Tips: Crafting Distinctive AI Visuals via Microsoft Copilot"
-date: 2024-10-26T18:48:12.093Z
-updated: 2024-11-01T17:41:14.968Z
+date: 2024-11-03T21:39:40.817Z
+updated: 2024-11-07T11:27:14.146Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,19 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
 * [How to Use Microsoft Copilot Image Generator](https://my-balance-meals.pxf.io/1r0rrg)
 * [Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?](https://turbotech.pxf.io/pyx4je)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft Copilot Image Creator is a competitor to OpenAI's DALL-E 3, but it also uses DALL-E 3 tech.
@@ -40,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
 
  That's right; you can use Microsoft Copilot to generate free AI images using DALL-E 3, and it's incredibly simple to do.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Microsoft Copilot Image Creator?
 
  The [Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/) first announced that AI image creation would be coming to Copilot on 21 March 2023\. At the time, Copilot was still called Bing AI Chat prior to its November 2023 name change.
@@ -51,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
  There are two "versions" of Copilot Image Creator, though they both work similarly. You can access the Copilot Image Creator directly from Microsoft Copilot within the Edge browser, which is an exclusive Edge feature. However, not wanting to cut potential users out, you can also access it in any browser by heading to the [Copilot Image Creator](https://copilot.microsoft.com/). I'll cover the differences between each option below, but both AI image creation tools follow the same premise: you input your words, and the AI tool turns them into unique images.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Microsoft Copilot Image Generator
@@ -81,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
 
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, from there, I selected the image I wanted to use, pressed the "expand" icon in the bottom right corner, and selected **Landscape**. Copilot auto-magically adjusted the original image into a 2:1 1792x1024, finally fulfilling my original request.
 
 Close
@@ -95,13 +108,6 @@ Close
  Next, I applied a few different styles to the image, opting for pixel art and origami for a unique touch. Other options include watercolor, block print, and steampunk. Each style applies seamlessly, and you can return to the original image at any time.
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Microsoft Copilot Image Creator in Any Browser
 
@@ -112,10 +118,10 @@ Close
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.
@@ -151,20 +157,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filtering-through-youtube-talks/"><u>[Updated] 2024 Approved Filtering Through YouTube Talks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-reimagining-your-message-innovative-video-concepts/"><u>[Updated] Reimagining Your Message Innovative Video Concepts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-guide-to-music-insertion-in-youtube-editing-tools/"><u>[Updated] Step-by-Step Guide to Music Insertion in YouTube Editing Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726027831738-avi/"><u>優れた品質保持：AVIフォーマットを丁寧にトリミングし、整える方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beginners-guide-to-ai-learning-together-in-these-9-clusters/"><u>Beginner's Guide to AI: Learning Together in These 9 Clusters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cracking-the-language-code-insights-into-gpts-translation-mechanism/"><u>Cracking the Language Code: Insights Into GPT's Translation Mechanism</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-gpts-present-working-state/"><u>Discovering GPT's Present Working State</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-diet-quality-through-ai-assistance/"><u>Enhancing Diet Quality Through AI Assistance</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/online-webinar-conduct-with-youtube-for-2024/"><u>Free Online Webinar Conduct with YouTube for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y78t-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y78t? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-latest-updates-enabling-chatgpt-beta-plugins/"><u>Leveraging Latest Updates: Enabling ChatGPT Beta Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-virtual-voices-myai-or-openais-chatgpt/"><u>Navigating Virtual Voices: MyAI or OpenAI's ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-your-info-in-bot-chats-3-critical-risks-discussed/"><u>Safeguarding Your Info in Bot Chats: 3 Critical Risks Discussed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-macbook-models-set-to-release-tech-insights/"><u>Top-Rated MacBook Models Set to Release - Tech Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-leveraging-phone-capabilities-for-efficient-video-recording/"><u>[Updated] In 2024, Leveraging Phone Capabilities for Efficient Video Recording</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-vivo-v30-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Vivo V30 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/alienware-command-center-malfunction-heres-how-to-restore-its-functionality/"><u>Alienware Command Center Malfunction? Here's How to Restore Its Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/command-response-symbiosis-the-ai-dialogue-evolution/"><u>Command-Response Symbiosis: The AI Dialogue Evolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/commentaires-et-recommandations-dexperts-sur-le-logiciel-movavi/"><u>Commentaires Et Recommandations D'experts Sur Le Logiciel Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-daily-hurdles-easily-using-chatgpt-for-a-peak-performance-life/"><u>Conquer Daily Hurdles Easily: Using ChatGPT for a Peak Performance Life</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-compreehers-guide-to-srt-file-flexibility/"><u>In 2024, The Compreeher’s Guide to SRT File Flexibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/microsoft-copilot-installation-made-simple-for-macos/"><u>Microsoft Copilot: Installation Made Simple for macOS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-lava-blaze-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Lava Blaze 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-uses-top-6-ways-to-empower-your-tech-with-code-conductor/"><u>Revolutionary Uses - Top 6 Ways to Empower Your Tech with Code Conductor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-mystique-of-codegpt-writing-software-as-an-ai/"><u>The Mystique of CodeGPT: Writing Software as an AI?</u></a></li>
 </ul></div>
 

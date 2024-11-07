@@ -1,7 +1,7 @@
 ---
 title: "Set Up Llama 2 on Your Device: A Comprehensive Tutorial"
-date: 2024-10-26T19:02:49.692Z
-updated: 2024-11-01T18:37:35.956Z
+date: 2024-11-05T23:21:30.261Z
+updated: 2024-11-06T18:29:47.936Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
  With that said, let's begin with the step-by-step guide to installing Llama 2 locally.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 1: Install Visual Studio 2019 Build Tool
 
  To simplify things, we will use a one-click installer for Text-Generation-WebUI (the program used to load Llama 2 with GUI). However, for this installer to work, you need to download the Visual Studio 2019 Build Tool and install the necessary resources.
@@ -62,27 +69,28 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
    ![Select operating system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/4-select-operating-system.jpg)
 3. Your anti-virus might create an alert; this is fine. The prompt is just an [antivirus false positive](https://www.makeuseof.com/what-is-antivirus-false-result/) for running a batch file or script. Click on **Run anyway**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. A terminal will open and start the setup. Early on, the setup will pause and ask you what GPU you are using. Select the appropriate type of GPU installed on your computer and hit enter. For those without a dedicated graphics card, select **None (I want to run models in CPU mode)**. Keep in mind that running on CPU mode is much slower when compared to running the model with a dedicated GPU.  
 ![Selecting GPU hardware installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/5-select-gpu-settings.jpg)
 5. Once the setup is complete, you can now launch Text-Generation-WebUI locally. You can do so by opening your preferred web browser and entering the provided IP address on the URL.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![How to launch-Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/6-launch-text-generation-webui.jpg)
 6. The WebUI is now ready for use.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/7-text-generation-webui-view.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, the program is only a model loader. Let's download Llama 2 for the model loader to launch.
 
@@ -118,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 
 ![Placing Llama 2 model to model folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/9-place-model-to-model-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now that you have your model downloaded and placed in the model folder, it's time to configure the model loader.
 
 ## Step 4: Configure Text-Generation-WebUI
@@ -130,29 +145,15 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 ![Setting model loader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/10-select-model-loader.jpg)
 4. To use the model, open the Chat tab and start testing the model.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Testing Llama 2 locally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/12-testing-llama-2-locally.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Congratulations, you've successfully loaded Llama2 on your local computer!
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try Out Other LLMs
@@ -178,17 +179,16 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-premier-digital-hubs-seamless-ringtones-acquisition/"><u>[Updated] 2024 Approved Premier Digital Hubs Seamless Ringtones Acquisition</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-5-proven-techniques-for-live-streaming-on-tiktok-desktop-for-2024/"><u>[Updated] 5 Proven Techniques for Live Streaming on TikTok Desktop for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-top-10-richest-youtubers/"><u>[Updated] In 2024, Top 10 Richest YouTubers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-soundscapes-of-success-building-youtube-playlists-with-precision/"><u>[Updated] The Soundscapes of Success Building YouTube Playlists with Precision</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-vr-the-creation-gap/"><u>[Updated] Unveiling VR The Creation Gap</u></a></li>
-<li><a href="https://os-tips.techidaily.com/14-proven-strategies-resolve-your-no-service-issue-on-an-iphone/"><u>14 Proven Strategies: Resolve Your 'No Service' Issue on an iPhone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-easy-gaming-memories-start-recording-now/"><u>2024 Approved Easy Gaming Memories Start Recording Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bring-ai-talk-to-life-on-android-via-widgets/"><u>Bring AI Talk to Life on Android via Widgets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-tool-for-banks-vulnerabilities/"><u>ChatGPT: A Tool for Banks' Vulnerabilities?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-gpt-35-writes-journey-to-gpt-4s-innovations/"><u>From GPT-3.5' Writes: Journey to GPT-4's Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-imagination-chatgpts-role-in-storytelling/"><u>Unleashing Imagination: ChatGPT's Role in Storytelling</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209847837-9780994072566-cel-duhovnoe-puteshestvie-vashej-dushi/"><u>Цель: Духовное путешествие вашей души | Free Book</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-ultimate-guide-achieving-professional-sound-without-a-mic/"><u>2024 Approved The Ultimate Guide Achieving Professional Sound without a Mic</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-alternative-to-apples-xr-vision-therapy-beats-high-end-models-in-effectiveness-zdnet/"><u>Affordable Alternative to Apple's XR Vision Therapy Beats High-End Models in Effectiveness | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/catch-the-holiday-rush-amazons-labor-day-extravaganza-offers-ipads-for-only-199/"><u>Catch the Holiday Rush: Amazon's Labor Day Extravaganza Offers iPads for Only $199!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engaging-chatgpt-for-crafting-poetry-collections/"><u>Engaging ChatGPT for Crafting Poetry Collections</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-best-free-youtube-comment-finder-you-should-try/"><u>In 2024, Best Free YouTube Comment Finder You Should Try</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-enhancing-vimeo-films-with-chapters-division/"><u>In 2024, Enhancing Vimeo Films with Chapters Division</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revolutionize-your-command-line-experience-with-top-notch-alternatives-to-default-linux-terminal-emulators/"><u>Revolutionize Your Command Line Experience with Top-Notch Alternatives to Default Linux Terminal Emulators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-benefits-of-owning-an-apple-watch-insights-from-a-leading-wearable-tech-guru-zdnet/"><u>Top 6 Benefits of Owning an Apple Watch: Insights From a Leading Wearable Tech Guru | ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-proven-video-growth-enhancers/"><u>Top 8 Proven Video Growth Enhancers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-prevent-yakuza-3-remastered-from-crashing-on-windows-computer/"><u>Troubleshooting Guide: How to Prevent Yakuza 3 Remastered From Crashing on Windows Computer</u></a></li>
 </ul></div>
 

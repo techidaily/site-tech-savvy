@@ -1,7 +1,7 @@
 ---
 title: Why the Wheel Turns Slow for ChatGPT-4 Compared to 3.5?
-date: 2024-09-14T16:34:10.710Z
-updated: 2024-09-17T16:00:36.509Z
+date: 2024-11-04T20:11:24.742Z
+updated: 2024-11-07T11:24:47.397Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/3b273f3dcd58de6bdeec53afcf9be971cffb1887a
 
 ![loading text and bar symbol on black exterior wall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/black-wall-loading.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Many noticed upon the release of GPT-4 that OpenAI's new chatbot was incredibly slow. This left scores of users frustrated, as GPT-4 was meant to be a step up from GPT-3.5, not backward. As a result, GPT-4 users have been taking to online platforms, such as Reddit and OpenAI's community board, to discuss the issue.
 
  On [OpenAI's Community Forum](https://community.openai.com/t/gpt-4-extremely-slow-compared-to-3-5/106298), a number of users have come forward with their GPT-4 delay frustrations. One user stated that GPT-4 was "extremely slow" on their end and that even small requests made to the chatbot resulted in unusually long delays of over 30 seconds.
@@ -59,6 +66,19 @@ thumbnail: https://thmb.techidaily.com/3b273f3dcd58de6bdeec53afcf9be971cffb1887a
  With delays and failed or half-baked responses, it seems that GPT-4 is littered with issues that are quickly putting users off.
 
  So why, exactly, is this happening? Is there something wrong with GPT-4?
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Is GPT-4 Slow Compared to GPT-3.5?
 
@@ -79,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/3b273f3dcd58de6bdeec53afcf9be971cffb1887a
 ![digital graphic of openai logo on glass tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-ai-logo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So, with these issues in mind, should you use [GPT-3.5 or GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/)?
@@ -94,10 +114,16 @@ thumbnail: https://thmb.techidaily.com/3b273f3dcd58de6bdeec53afcf9be971cffb1887a
  Over time, GPT-4's delays may be lessened or entirely resolved, so patience could be a virtue here. Whether you try switching to GPT-4 now or wait a little longer to see how things play out with this version, you can still get a lot out of OpenAI's nifty little chatbot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-4 Is More Advanced but Comes With a Lag
@@ -121,5 +147,18 @@ thumbnail: https://thmb.techidaily.com/3b273f3dcd58de6bdeec53afcf9be971cffb1887a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-aperture-advocates-the-top-10-camera-optics-guide/"><u>[Updated] In 2024, Aperture Advocates The Top 10 Camera Optics Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-premier-experts-innovative-instragram-hlv-designs-for-2024/"><u>[Updated] Premier Experts Innovative Instragram HLV Designs for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlocking-the-full-potential-of-pc-sound-capture-for-2024/"><u>[Updated] Unlocking the Full Potential of PC Sound Capture for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-meets-android-worldwide/"><u>ChatGPT Meets Android Worldwide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/download-winx-dvd-creator-pro-best-free-disc-burning-application-for-windows-11-users/"><u>Download WinX DVD Creator Pro - Best Free Disc Burning Application for Windows 11 Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-ai-duo-chatgpt-meets-siri-in-ios-world/"><u>Integrating AI Duo: ChatGPT Meets Siri in iOS World</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-suggestions-best-iphone-audio-innovators/"><u>Leading Suggestions Best iPhone Audio Innovators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolve-your-mfc71dll-could-not-be-loaded-or-is-damaged-error-easily/"><u>Resolve Your 'mfc71.dll' Could Not Be Loaded or Is Damaged Error Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unblocked-path-to-chatgpt-logon-success/"><u>Unblocked Path to ChatGPT Logon Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-potential-in-verse-gpt-3-assisted-methods/"><u>Unleash Potential in Verse: GPT-3 Assisted Methods</u></a></li>
+</ul></div>
 

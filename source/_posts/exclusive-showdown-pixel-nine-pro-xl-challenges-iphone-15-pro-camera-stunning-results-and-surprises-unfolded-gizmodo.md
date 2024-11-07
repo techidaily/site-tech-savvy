@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Showdown: Pixel Nine Pro XL Challenges iPhone 15 Pro Camera - Stunning Results and Surprises Unfolded | Gizmodo"
-date: 2024-10-26T18:36:17.225Z
-updated: 2024-11-01T16:58:01.849Z
+date: 2024-11-01T11:35:25.845Z
+updated: 2024-11-07T04:39:34.028Z
 tags:
   - apple
 categories:
@@ -77,10 +77,10 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -110,10 +110,16 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -127,10 +133,10 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -175,24 +181,24 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-unlocking-your-digital-cameras-potential-for-2024/"><u>[Updated] Unlocking Your Digital Camera's Potential for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-google-document-functionality-via-ai/"><u>Augmenting Google Document Functionality via AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/build-next-gen-custom-ai/"><u>Build Next-Gen Custom AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-premium-path-assessing-the-trade-offs/"><u>ChatGPT's Premium Path: Assessing the Trade-Offs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-poco-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Poco .</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fortifying-trade-secrets-through-smart-ai-dialogues/"><u>Fortifying Trade Secrets Through Smart AI Dialogues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-methods-how-to-easily-change-your-3gpp-recordings-into-mp3-format/"><u>Free Methods: How To Easily Change Your 3GPP Recordings Into MP3 Format</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-digital-marketing-triumphs/"><u>In 2024, The Ultimate Guide to Digital Marketing Triumphs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-guide-updating-your-displaylink-drivers-on-windows-10-8-and-7/"><u>Latest Guide: Updating Your DisplayLink Drivers on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-the-art-of-taking-snaps-a-mac-users-handbook/"><u>Mastering the Art of Taking Snaps: A Mac User's Handbook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ode-orators-faceoff-gpt-and-in-field-cashmere-friends/"><u>Ode Orators Faceoff - GPT & In-Field Cashmere Friends</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seeking-quality-over-quantity-why-writers-shun-chatbots/"><u>Seeking Quality over Quantity: Why Writers Shun Chatbots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essentials-of-chatgpt-plug-ins/"><u>The Essentials of ChatGPT Plug-Ins</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-strategy-guide-to-digital-video-enhancement-for-2024/"><u>The Ultimate Strategy Guide to Digital Video Enhancement for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-tricks-to-achieve-high-performance-gaming-in-windows-11/"><u>Top Tricks to Achieve High-Performance Gaming in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-chatgpt-journey-top-9-key-plugin-integrations/"><u>Transform Your ChatGPT Journey: Top 9 Key Plugin Integrations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-ideas-to-visuals-chatgpt-in-ai-artistry/"><u>Transforming Ideas to Visuals: ChatGPT in AI Artistry</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-issues-with-utorrents-download-and-peer-connection/"><u>Troubleshooting Guide: Resolving Issues with uTorrent's Download and Peer Connection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-dodging-chatgpt-apps-is-wise/"><u>Why Dodging ChatGPT Apps Is Wise</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-youtube-videos-with-professional-techniques-using-wmm-for-2024/"><u>[New] Enhancing YouTube Videos with Professional Techniques Using WMM for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-games-galore-here-are-6-must-play-titles/"><u>ChatGPT Games Galore! Here Are 6 Must-Play Titles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chathubnomore-closure-date-puzzle/"><u>ChatHubNoMore: Closure Date Puzzle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-the-new-apple-studio-monitor-features-specs-and-proscons-cnet/"><u>Comprehensive Guide to the New Apple Studio Monitor - Features, Specs and Pros/Cons | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crucial-bugs-squashed-unveiling-the-new-features-of-macos-sonoma-update-14n4-insights-s-tech-experts/"><u>Crucial Bugs Squashed: Unveiling the New Features of MacOS Sonoma Update 14.n.4 | Insights 'S Tech Experts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/embedding-spotify-content-into-a-youtube-music-list/"><u>Embedding Spotify Content Into a YouTube Music List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/esr-launches-innovative-qi2-magsafe-charger-series-enhanced-by-cryoboost-technology-for-rapid-iphone-16-charging-without-overheating-insights-from-zdnet/"><u>ESR Launches Innovative Qi2 MagSafe Charger Series Enhanced by CryoBoost Technology for Rapid iPhone 16 Charging without Overheating - Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-overcoming-unexpected-shutdown-of-call-of-duty-modern-warfare-3-app/"><u>Guide to Overcoming Unexpected Shutdown of Call of Duty Modern Warfare 3 App</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-lava-agni-2-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Lava Agni 2 5G</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beginners-journey-into-advanced-video-coding/"><u>In 2024, Beginner's Journey Into Advanced Video Coding</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-cyclone-shaper-setup/"><u>In 2024, Cyclone Shaper Setup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-crafting-bespo-pointed-video-closures-on-the-dashboard/"><u>In 2024, Step-by-Step Crafting Bespo Pointed Video Closures on the Dashboard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-pro-vs-iphone-14-pro-analyzing-value-and-innovation-in-apples-new-release/"><u>IPhone 16 Pro Vs. IPhone 14 Pro: Analyzing Value and Innovation in Apple's New Release</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-opting-for-local-llm-the-best-decision-9-reasons-to-consider/"><u>Is Opting for Local LLM the Best Decision? 9 Reasons to Consider</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-enigma-of-ai-jargon-deciphering-29-crucial-phrases/"><u>The Enigma of AI Jargon: Deciphering 29 Crucial Phrases</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/top-rated-free-iphone-video-flipper-tools-updated-2023-for-2024/"><u>Top-Rated Free iPhone Video Flipper Tools (Updated 2023) for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-for-pc-players-preventing-street-fighter-6-from-crashing-expert-advice/"><u>Ultimate Fix Guide for PC Players: Preventing Street Fighter 6 From Crashing (Expert Advice)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-ultimate-ios-phones-of-2024-in-depth-expert-evaluations-and-rankings/"><u>Unveiling the Ultimate iOS Phones of 2024: In-Depth Expert Evaluations and Rankings</u></a></li>
 </ul></div>
 

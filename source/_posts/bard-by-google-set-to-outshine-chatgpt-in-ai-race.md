@@ -1,7 +1,7 @@
 ---
 title: Bard by Google Set to Outshine ChatGPT in AI Race
-date: 2024-10-31T16:28:54.872Z
-updated: 2024-11-01T18:50:13.465Z
+date: 2024-11-03T19:08:10.712Z
+updated: 2024-11-07T12:37:14.577Z
 tags:
   - chatgpt
   - open-ai
@@ -39,22 +39,15 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
  Unlike ChatGPT, Sundar Pichai explained that Bard will initially only be available to a few trusted testers, with plans to scale to more users. The announcement also showcased what the initial release would look like with several examples—some of which look strikingly similar to what ChatGPT would do. So, is Bard going to be just another ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Google Bard Could Be Better Than ChatGPT
 
 ![An illustration of an AI bot performing meeting analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/AI-Meeting-Assistant-for-Online-Meetings-Featured-Image.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT was released on November 30, 2022, after a lengthy development period. The entire development process, including the base technology that powers it, spanned several years. At first glance, this would mean Google had less than three months to build a product to rival ChatGPT, a product built on years of evolving technology.
 
@@ -69,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
  In simpler terms, this would mean Google's Bard would be able to provide fresh, up-to-date responses while ChatGPT would, unfortunately, be limited to information relating to events, not beyond 2021 (ChatGPT's current data training cut-off).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Will Google Bard Work?
@@ -82,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
  However, in typical Google fashion, Google will almost certainly push to deeply integrate Bard into most of its products, including Google Search, akin to what Microsoft is trying to do with Bing and other Microsoft products using ChatGPT technology.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Google's Bard Demonstration Features Factual Issues
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
  But despite the interest and understandable hype with Google's Bard announcement, its first demonstration didn't go well. Eagle-eyed astronomers quickly pointed out that at least one of the "facts" delivered by Bard was completely wrong. For example, Bard stated that the James Webb Space Telescope "took the very pictures of a planet outside of our own solar system," but the European Very Large Telescope accomplished that accolade in 2004.
 
  Bard is still in its very early stages, but its false statement was a clear indicator of the issues of integrating conversational AI technology deeper into general internet search, where many will trust what is written.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Google's Bard AI Be Better Than ChatGPT?
 
@@ -115,17 +115,18 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-top-1-global-stage-viewings-for-2024/"><u>[New] Top 1 Global Stage Viewings for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030149051-find-the-ultimate-guide-5-free-windows-11-dvd-burning-tools-top-picks/"><u>Find the Ultimate Guide: 5 Free Windows 11 DVD Burning Tools (Top Picks )</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-a60s-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel A60s to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028382025-iphonemp4/"><u>IPhone上でMP4ファイルを安全に保存し、データ損失が起こった際の解決策</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/kensuns-compact-tire-pump-assessment-durable-and-handy-anywhere/"><u>Kensun's Compact Tire Pump Assessment: Durable & Handy Anywhere</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/leichte-anleitung-zum-wiederherstellen-ihrer-dateien-auf-einer-kaputten-festplatte-eines-computers/"><u>Leichte Anleitung Zum Wiederherstellen Ihrer Dateien Auf Einer Kaputten Festplatte Eines Computers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavinsv/"><u>MOVAVI線上免費NSV直播平台 – 全球最佳選擇</u></a></li>
-<li><a href="https://facebook.techidaily.com/networking-notables-the-top-4-shifts-in-online-societies/"><u>Networking Notables: The Top 4 Shifts in Online Societies</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/professional-gaming-unleashed-a-comprehensive-review-of-logitechs-lightspeed-powerhouse-the-g-pro-x-2/"><u>Professional Gaming Unleashed: A Comprehensive Review of Logitech's Lightspeed Powerhouse, The G Pro X 2</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/samsung-s10plus-vs-s20-face-off-detailed-analysis-for-buyers/"><u>Samsung S10+ vs S20 Face-Off: Detailed Analysis for Buyers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029715060-windows-10-dvd/"><u>Windows 10に最適な無料 DVD コピーガード解除プログラムチョイス</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029340143-youtube/"><u>YouTube 動画のランディングページに最適化: 一つ上手な配置方法</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-how-to-improve-video-quality-in-zoom-meetings/"><u>[Updated] In 2024, How to Improve Video Quality in Zoom Meetings?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-photochromic-smartglasses-upgraded-my-biking-adventure-a-game-changing-heads-up-display-review/"><u>How Photochromic Smartglasses Upgraded My Biking Adventure - A Game-Changing Head's Up Display Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-keep-your-iphone-hidden-from-other-users-with-ease-turn-off-journal-setting-now/"><u>How to Keep Your iPhone Hidden From Other Users with Ease - Turn Off Journal Setting Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-quest-pro-3-vs-apple-vision-pro-comparison-analyzing-mark-zuckerbergs-reviews/"><u>Meta Quest Pro 3 Vs. Apple Vision Pro Comparison: Analyzing Mark Zuckerberg’s Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-and-meta-face-backlash-from-artists-litigating-for-expression/"><u>OpenAI & Meta Face Backlash From Artists Litigating for Expression</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-users-from-gpt-related-threats/"><u>Protecting Users From GPT-Related Threats</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-steps-to-fix-davinci-resolve-launch-failures-on-windows-pcs/"><u>Resolved: Steps to Fix DaVinci Resolve Launch Failures on Windows PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-guide-converting-flv-videos-into-gifs-quickly-and-effectively/"><u>Simple Guide: Converting FLV Videos Into GIFs Quickly & Effectively</u></a></li>
+<li><a href="https://extra-information.techidaily.com/start-your-editing-right-with-free-intros/"><u>Start Your Editing Right With Free Intros</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-essential-guide-on-resolving-flickering-and-jittery-visual-content-a-step-by-step-manual-using-home-tools-with-subtitles/"><u>The Essential Guide on Resolving Flickering and Jittery Visual Content – A Step-by-Step Manual Using Home Tools (With Subtitles)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-6-overlords-massive-nlp-innovators-crown/"><u>Ultimate 6 Overlords: Massive NLP Innovators Crown</u></a></li>
 </ul></div>
 

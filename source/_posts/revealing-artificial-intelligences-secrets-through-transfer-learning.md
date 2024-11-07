@@ -1,7 +1,7 @@
 ---
 title: Revealing Artificial Intelligence's Secrets Through Transfer Learning
-date: 2024-10-25T18:58:52.255Z
-updated: 2024-11-01T16:48:03.512Z
+date: 2024-11-03T02:59:31.886Z
+updated: 2024-11-07T12:40:08.009Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 
  This works since cats and dogs share many traits the pre-trained model can already identify. Since the cat-classifying model can identify the various traits of a cat, such as having four legs, fur coats, and prominent snouts, the dog-classifying model can skip all the training to identify those traits and inherit them from the original model. After inheriting all those neural networks, you then cut off the last layers of the trained model used to identify the more specific traits of a cat and replace them with a dataset specific to dogs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What AI Models Can You Use for Transfer Learning?
 
  To use transfer learning, you'll need a pre-trained model. A pre-trained model is commonly known as an AI model trained for the purpose of gaining general knowledge on a particular subject or idea. These types of pre-trained models are purposely made for people to fine-tune and make more application-specific models. Some of the most popular pre-trained models are for NLP, like [BERT and GPT](https://www.makeuseof.com/gpt-vs-bert/), and computer vision, such as VGG19 and Inceptionv3\.
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
  You can get publicly available pre-trained models from places like TensorFlow Hub, Hugging Face, and the OpenAI model marketplace.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Benefits of Using AI Transfer Learning
@@ -70,22 +63,16 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 
  Training an AI model from scratch is possible, but you need greater resources to do so.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Does Transfer Learning Work?
 
 ![Transfer-Learning-Illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/final.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In essence, there are three stages when it comes to transfer learning.
 
@@ -96,16 +83,10 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
  There is more to it than the three stages, but this outline details roughly how the AI transfer learning process works, with some fine-tuning.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Limitations to AI Transfer Learning
@@ -117,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 * **Overfitting:** One of the main benefits of transfer learning is that you can use a relatively small dataset to train a model further. However, training the model on a dataset that is too small may cause overfitting, which significantly reduces model reliability when provided with new data.
 
  So while transfer learning is a handy AI learning technique, limitations exist, and it isn't a silver bullet.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should You Use Transfer Learning?
 
@@ -143,24 +131,18 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-dial-up-dislikes-flip-the-script-with-square-content-creation-for-2024/"><u>[New] Dial Up Dislikes? Flip the Script with Square Content Creation for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/lite-alternative-edits-skip-youtube-not-just-content/"><u>[New] Elite Alternative Edits Skip Youtube, Not Just Content</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-crafting-impeccable-videos-for-instagram-enthusiasts/"><u>[Updated] In 2024, Crafting Impeccable Videos for Instagram Enthusiasts</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-artistic-arenas-of-2022s-olympians/"><u>2024 Approved Artistic Arenas of 2022'S Olympians</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/acer-bluetooth-driver-installation-made-easy-expert-tips-and-immediate-access-downloads/"><u>Acer Bluetooth Driver Installation Made Easy: Expert Tips & Immediate Access Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-mastery-showdown-same-prompt-different-bots/"><u>AI's Mastery Showdown: Same Prompt, Different Bots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-generative-ais-functioning-and-corporate-implementations/"><u>Behind the Scenes: Generative AI's Functioning & Corporate Implementations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-failed-bluetooth-keyboard-links-with-your-computer-system/"><u>Diagnosing and Repairing Failed Bluetooth Keyboard Links with Your Computer System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-cv-written-skills-the-chatgpt-method/"><u>Enhancing Your CV' Written Skills: The ChatGPT Method</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-fearful-to-flourishing-embracing-the-ai-economic-shift/"><u>From Fearful to Flourishing: Embracing the AI Economic Shift</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-essential-cameras-for-upcoming-4khd-music-video-shootouts/"><u>In 2024, Essential Cameras for Upcoming 4K/HD Music Video Shootouts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-orchestrating-visuals-and-vo-in-powerpoint/"><u>In 2024, Orchestrating Visuals & VO in Powerpoint</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-scholarly-essays/"><u>Leveraging ChatGPT for Scholarly Essays</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nostalgia-in-your-palm-handhenas-and-hardware-hacks/"><u>Nostalgia in Your Palm: Handhenas and Hardware Hacks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-team-communication-through-artificial-assistance/"><u>Revolutionizing Team Communication Through Artificial Assistance</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-7-epic-strategy-battles-unveiling-ultimate-total-wars/"><u>Top 7 Epic Strategy Battles Unveiling Ultimate Total Wars</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-claude-pros-unique-offerings-compared-to-gptplus/"><u>Understanding Claude Pro's Unique Offerings Compared to GPT+</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-instagram-the-definitive-guide/"><u>Understanding Instagram: The Definitive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-world-discovery-selecting-the-finest-7-free-ai-itinerary-tools/"><u>Unlock World Discovery: Selecting the Finest 7 FREE AI Itinerary Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ubscription-sensation-top-10-youtube-personalities-by-counts-for-2024/"><u>[New] Subscription Sensation Top 10 YouTube Personalities by Counts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-measuring-64gbs-video-holding-ability/"><u>[Updated] Measuring 64Gb's Video Holding Ability</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-nubia-z50-ultra-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Nubia Z50 Ultra Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-powered-excel-improving-efficiency-and-accuracy/"><u>ChatGPT-Powered Excel: Improving Efficiency and Accuracy</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exploring-vidma-revolutionizing-the-recording-industry/"><u>Exploring Vidma Revolutionizing the Recording Industry</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-vs-apple-wrist-tech-showdown-choosing-the-ultimate-smartwatch-between-googles-pixel-and-apples-series/"><u>Pixel Vs. Apple Wrist Tech Showdown: Choosing the Ultimate Smartwatch Between Google's Pixel and Apple's Series</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-entry-point-not-found-error-in-fortnite-a-comprehensive-guide/"><u>Resolving 'Entry Point Not Found' Error in Fortnite: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-data-interaction-chatgpt-meets-google-apps/"><u>Seamless Data Interaction: ChatGPT Meets Google Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smartwatch-showdown-how-to-decide-on-the-apple-watch-ultra-versus-the-series-8/"><u>Smartwatch Showdown: How to Decide on the Apple Watch Ultra Versus the Series 8</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-art-of-kinemaster-made-memes-for-2024/"><u>The Art of KineMaster-Made Memes for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-enforces-ethical-algorithms/"><u>Who Enforces Ethical Algorithms?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-holds-the-crown-in-ai-content-genesis-notion-or-chatgpt/"><u>Who Holds the Crown in AI Content Genesis? Notion or ChatGPT?</u></a></li>
 </ul></div>
 

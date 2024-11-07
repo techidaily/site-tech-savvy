@@ -1,7 +1,7 @@
 ---
 title: Decoding How AI Transforms Intellectual Property Laws
-date: 2024-10-27T17:00:19.288Z
-updated: 2024-11-01T18:05:48.447Z
+date: 2024-11-05T04:57:48.360Z
+updated: 2024-11-06T18:37:50.948Z
 tags:
   - chatgpt
   - open-ai
@@ -60,6 +60,13 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -69,10 +76,10 @@ Close
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
@@ -85,22 +92,15 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
@@ -118,10 +118,10 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -149,17 +149,24 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-adjusting-settings-for-audible-obs-broadcasts/"><u>[Updated] Adjusting Settings for Audible OBS Broadcasts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-gain-more-loyal-viewers-unlock-top-strategies-for-enhancing-viewer-retention-on-youtube-for-2024/"><u>[Updated] Gain More Loyal Viewers Unlock Top Strategies for Enhancing Viewer Retention on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-quality-without-the-mic-a-practical-guide/"><u>[Updated] In 2024, Enhancing Quality without the Mic A Practical Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/aifmovavi/"><u>無料で簡単に動くAIF画像ファイルを変換:Movaviのシークレット</u></a></li>
-<li><a href="https://win-online.techidaily.com/0x80070002/"><u>系统还原过程中出现未指定错误0X80070002，已成功更新！</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-touchscreen-perfection-a-comprehensive-moto-g-stylus-assessment/"><u>Affordable Touchscreen Perfection: A Comprehensive Moto G Stylus Assessment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuiti-convertitore-da-mp4-a-ogg-su-internet-movavi/"><u>Gratuiti Convertitore Da MP4 a OGG Su Internet - Movavi</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ipad-air-assessment-why-its-a-close-runner-up-to-my-ipad-pro-insights/"><u>IPad Air Assessment: Why It's a Close Runner-Up To My iPad Pro - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movaviwavai/"><u>Movaviで簡単にWAVファイルを無料でAI変換する方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/online-audio-and-video-file-conversion-change-mpe-to-wma-without-cost-try-out-today/"><u>Online Audio and Video File Conversion: Change MPE to WMA without Cost - Try Out Today!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/online-free-mov-to-gif-converter-easy-and-effective-tools-by-movavi/"><u>Online Free MOV to GIF Converter - Easy and Effective Tools by Movavi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-issue-code-5573-on-call-of-duty-vanguard-a-step-by-step-guide/"><u>Overcoming Issue Code 5573 on Call of Duty: Vanguard - A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-upload-media-to-twitter-without-copying-another-users-tweet-for-2024/"><u>[New] How To Upload Media to Twitter without Copying Another User's Tweet for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elite-metaverse-visor-choices-the-top-8-list-for-2024/"><u>[Updated] Elite Metaverse Visor Choices The Top 8 List for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-video-content-insights-into-effective-keywords/"><u>2024 Approved Mastering Video Content Insights Into Effective Keywords</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-chat-guidelines-sidestep-the-top-6-errors-in-dialogue/"><u>AI Chat Guidelines: Sidestep the Top 6 Errors in Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginners-blueprint-downloading-and-installing-llama-2/"><u>Beginner's Blueprint: Downloading & Installing Llama 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-auto-gpt-thrive-on-its-own/"><u>Can Auto-GPT Thrive on Its Own?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/capture-and-keep-long-term-chat-gpt-storage/"><u>Capture & Keep: Long-Term Chat GPT Storage</u></a></li>
+<li><a href="https://article-files.techidaily.com/capture-creativity-iosandroids-best-caption-apps/"><u>Capture Creativity IOS/Android’s Best Caption Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-document-creation-chatgpt-word-partnership-for-efficiency/"><u>Conquer Document Creation: ChatGPT-Word Partnership for Efficiency</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/descubra-os-melhores-12-aplicativos-de-chat-pela-web-para-pc-e-mac/"><u>Descubra Os Melhores 12 Aplicativos De Chat Pela Web Para PC E Mac</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-magic-of-preview-essential-tips-for-editing-images-on-macos/"><u>Discover the Magic of Preview: Essential Tips for Editing Images on macOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-ensure-every-call-rings-through-on-your-iphone-11-essential-tips/"><u>How to Ensure Every Call Rings Through on Your iPhone - 11 Essential Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launching-into-langchain-an-easy-guide/"><u>Launching Into LangChain: An Easy Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steps-to-spot-fake-bingpt-coins-immediately/"><u>Steps to Spot Fake BinGPT Coins Immediately</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/text-wisely-and-save-strategies-to-prevent-data-plan-breaches-with-sms/"><u>Text Wisely and Save: Strategies to Prevent Data Plan Breaches with SMS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-algorithmic-art-of-romance-ripoffs/"><u>The Algorithmic Art of Romance Ripoffs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-connection-delays-and-lag-in-the-latest-version-of-new-world/"><u>Ultimate Guide: Resolving Connection Delays & Lag in the Latest Version of New World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-your-potential-master-resumes-via-chatgpt/"><u>Unleashing Your Potential: Master Resumes via ChatGPT</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-online-income-the-creators-path-to-prosperity-for-2024/"><u>Unlocking Online Income The Creator’s Path to Prosperity for 2024</u></a></li>
 </ul></div>
 

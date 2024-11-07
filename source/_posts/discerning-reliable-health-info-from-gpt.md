@@ -1,7 +1,7 @@
 ---
 title: Discerning Reliable Health Info From GPT
-date: 2024-09-13T16:08:28.131Z
-updated: 2024-09-17T16:08:41.618Z
+date: 2024-11-02T02:14:09.602Z
+updated: 2024-11-06T21:18:46.172Z
 tags:
   - chatgpt
   - open-ai
@@ -37,11 +37,25 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 * The AI tool can tailor its advice to your specific circumstances. For instance, it allows you to set parameters and ask follow-up questions so that it can better understand your needs and goals, which can lead to more personalized recommendations.
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
 
  There are several use cases for ChatGPT in the realm of health and wellness. For starters, you could use the AI tool to provide you with nutrition advice, including general recommendations on healthy eating habits.
 
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
 
@@ -62,16 +76,10 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
@@ -84,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
@@ -111,5 +119,23 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-power-of-targeted-video-appeal/"><u>[New] In 2024, Harnessing the Power of Targeted Video Appeal</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-tips-to-upgrade-your-rl-recording-equipment/"><u>[Updated] 2024 Approved Ultimate Tips to Upgrade Your RL Recording Equipment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-page-to-picture-writing-a-film/"><u>2024 Approved From Page to Picture Writing a Film</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-lut-enthusiasts-delight-free-bundles-with-dji-minis-and-air-2/"><u>2024 Approved LUT Enthusiasts' Delight – Free Bundles with DJI Minis & Air 2</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-comprehensive-guide-to-mastering-video-editing-tools-like-movie-maker-w11-for-2024/"><u>A Comprehensive Guide to Mastering Video Editing Tools Like Movie Maker W11 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-content-creation-missteps-use-of-chatgpt/"><u>Avoiding Content Creation Missteps: Use of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-text-excels-prowess-vs-ai-dialogues/"><u>Beyond Text: Excel's Prowess Vs. AI Dialogues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-access-to-updated-drivers-for-epsons-xp-310-download-here/"><u>Easy Access to Updated Drivers for Epson's XP 310 - Download Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-next-level-visual-smart-scanning-with-iphone-16s-new-camera-functionality-echoing-google-lens-capabilities-insights-from-zdnet/"><u>Experience Next-Level Visual Smart Scanning with iPhone 16'S New Camera Functionality Echoing Google Lens Capabilities | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-limitless-potential-of-imagination-using-free-dall-e-3-on-bing/"><u>Explore the Limitless Potential of Imagination: Using Free DALL-E 3 on Bing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-reno-8t-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo Reno 8T to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-decoding-your-path-to-prominence-on-youtube/"><u>In 2024, Decoding Your Path to Prominence on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-understanding-gpt4all-functionality/"><u>Inside Look: Understanding GPT4All Functionality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/stream-mastery-on-mac-with-these-5-tools/"><u>Stream Mastery on Mac with These 5 Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-usefulness-of-gpt-plugins-in-action/"><u>The Usefulness of GPT Plugins in Action</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-technical-operation-of-gpt-4-in-7-apps/"><u>Understanding the Technical Operation of GPT-4 in 7 Apps</u></a></li>
+</ul></div>
 

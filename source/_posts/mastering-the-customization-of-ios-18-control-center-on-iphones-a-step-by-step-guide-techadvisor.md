@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Customization of iOS 18 Control Center on iPhones: A Step-by-Step Guide - TechAdvisor"
-date: 2024-10-26T16:46:42.680Z
-updated: 2024-11-01T18:54:00.401Z
+date: 2024-10-31T07:27:42.665Z
+updated: 2024-11-07T13:27:09.644Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,13 +42,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -59,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -71,6 +64,13 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -78,10 +78,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -134,18 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-use-whiteboard-in-zoom-meeting/"><u>[New] In 2024, How to Use Whiteboard in Zoom Meeting</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-proiphone-close-ups-techniques-for-captivating-images/"><u>[Updated] Proiphone Close-Ups Techniques for Captivating Images</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-social-connectivity-with-downloader-tools-for-2024/"><u>[Updated] Unlock Social Connectivity with Downloader Tools for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-high-definition-dominance-leading-monitors-for-ps5-hdmi-21/"><u>2024 Approved High-Definition Dominance Leading Monitors for PS5 (HDMI 2.1)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-guide-the-five-best-techniques-to-change-avi-videos-to-mp4-on-macos/"><u>Easy Guide: The Five Best Techniques to Change AVI Videos to MP4 on macOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-change-f4v-video-format-to-avi-explore-movavi/"><u>Free Online Converter: Change F4V Video Format to AVI - Explore Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-balance-of-swiftness-and-security-on-spotify-sounds/"><u>In 2024, The Balance of Swiftness and Security on Spotify Sounds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movaviwebppng/"><u>Movaviツールを使ったWebPファイルからPNGへの直接変換ガイド【モバイル版】</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/passos-efetivos-para-implementacao-de-recurso-pip-no-youtube-tecnicas-facilmente-utilizaveis/"><u>Passos Efetivos Para Implementação De Recurso PiP No YouTube - Técnicas Facilmente Utilizáveis</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-navigating-scavengers-crash-on-personal-computer/"><u>Solved: Navigating Scavengers Crash on Personal Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-gratuitement-votre-fichier-avi-en-format-oggvorbis-avec-movavi/"><u>Transformez Gratuitement Votre Fichier AVI en Format OGG/Vorbis Avec Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-continuous-outlook-program-failures/"><u>Troubleshooting Steps for Continuous Outlook Program Failures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/66y066omioybueycroydto2kuoyxkoyencdsmktrljtsmktrpbwg7juq6re8io2yleylneycvouhncdrsjtqvrjripqg6rca7j6lioqwleugpe2vncdsmktrljtsmkqg67oa7zmy6riw/"><u>무료 웹사이트에서 오디오를 원근 형식으로 바꾸는 가장 강력한 오디오 변환기</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-digital-radios-unleashed-the-recorders-essential-handbook/"><u>[New] In 2024, Digital Radios Unleashed The Recorder's Essential Handbook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-revolutionize-your-snapchat-experience-a-compendium-of-over-120-innovative-story-titles/"><u>[New] In 2024, Revolutionize Your Snapchat Experience A Compendium of Over 120 Innovative Story Titles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-quadcopter-mechanics-decoded-flight-patterns-and-functionality-for-2024/"><u>[New] Quadcopter Mechanics Decoded Flight Patterns & Functionality for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-earn-while-playing-games-online/"><u>[Updated] 2024 Approved Earn While Playing Games Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reviving-the-past-essential-vhs-visuals-in-todays-edits/"><u>2024 Approved Reviving the Past Essential VHS Visuals in Today's Edits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-discontinues-premium-finewoven-case-series-in-favor-of-newly-released-beats-collaborations-a-deep-dive-analysis/"><u>Apple Discontinues Premium FineWoven Case Series in Favor of Newly-Released Beats Collaborations: A Deep Dive Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-mobile-gaming-experience-on-a-phone-ranked-and-analyzed-digital-trends/"><u>Best Mobile Gaming Experience on a Phone - Ranked and Analyzed | Digital Trends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-syntax-understanding-gptbots-impact-and-site-restrictions/"><u>Beyond Syntax: Understanding GPTBot's Impact and Site Restrictions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-use-qr-scanner-app-try-these-effective-fixes-for-iphone-users/"><u>Can't Use QR Scanner App? Try These Effective Fixes for iPhone Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeating-the-error-steps-to-ensure-call-of-duty-black-ops-4-proper-launch/"><u>Defeating the Error: Steps to Ensure Call of Duty: Black Ops 4 Proper Launch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-whats-coming-in-apples-latest-wwdc-tease-a-deeper-dive-into-enhanced-intelligence-and-ios-18-features-zdnet/"><u>Explore What's Coming in Apple's Latest WWDC Tease: A Deeper Dive Into Enhanced Intelligence & iOS 18 Features | ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Xiaomi Redmi K70 Pro?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-18-brings-essential-new-message-alert-system-separate-from-ai-for-iphones-innovative-safety-update/"><u>IOS 18 Brings Essential New Message Alert System, Separate From AI, for iPhones: Innovative Safety Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-auto-sticker-setup-glitches-and-resolutions/"><u>Navigating Auto Sticker Setup Glitches & Resolutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-auto-gpt-setup-for-ubuntu-systems/"><u>Navigating Auto-GPT Setup for Ubuntu Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dangers-of-delegating-care-to-chatbots/"><u>The Dangers of Delegating Care to Chatbots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-of-ai-threat-landscape-prompt-injections-uncovered/"><u>The Essence of AI Threat Landscape - Prompt Injections Uncovered</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/transcription-occurs-in-the-nucleus-while-translation-takes-place-at-ribosomes-in-the-cytoplasm/"><u>Transcription Occurs in the Nucleus, While Translation Takes Place at Ribosomes in the Cytoplasm.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trends-and-techniques-for-skyrocketing-youtube-views-for-2024/"><u>Trends and Techniques for Skyrocketing YouTube Views for 2024</u></a></li>
 </ul></div>
 

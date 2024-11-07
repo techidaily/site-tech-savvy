@@ -1,7 +1,7 @@
 ---
 title: Which AI Wins? Google Bard Vs. Microsoft's Bing Chat
-date: 2024-09-10T16:01:00.156Z
-updated: 2024-09-17T16:19:55.158Z
+date: 2024-11-02T10:52:40.702Z
+updated: 2024-11-06T21:12:55.046Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
@@ -62,6 +69,19 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
 ![Screenshot Bard CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
 ## Bing Chat vs. Google Bard: Ease of Use
@@ -74,36 +94,29 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As both platforms are going through rapid development, the user experience will continue to improve.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
 
@@ -118,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
 ## Which Is Best for You: Bing Chat or Google Bard?
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
@@ -152,5 +172,26 @@ thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-innovative-editing-mastery-in-tiktok-seamless-transition-of-video-borders-for-2024/"><u>[Updated] Innovative Editing Mastery in TikTok Seamless Transition of Video Borders for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-comprehensive-approach-to-mastering-the-art-of-instagram-reels-for-2024/"><u>A Comprehensive Approach to Mastering the Art of Instagram Reels for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-for-repairing-compromised-hardware-drivers-fast/"><u>Effortless Solutions for Repairing Compromised Hardware Drivers Fast</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-printer-functionality-on-windows-os/"><u>Enhance Printer Functionality on Windows OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-google-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Google</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-ai-conversation-starters-for-beating-screen-distraction-8-examples/"><u>How to Use AI Conversation Starters for Beating Screen Distraction: 8 Examples</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-reno-8t-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Reno 8T Device</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ling-the-top-six-where-to-grab-your-snack-videos/"><u>Revealing the Top Six Where to Grab Your Snack Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-leading-pick-from-the-best-inflatable-pools-of-2022-easy-setup-options-featured-by-zdnet/"><u>The Leading Pick From the Best Inflatable Pools of 2022: Easy-Setup Options Featured by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-a-smart-sprinkler-controller-for-2e24-features-of-rachio-rainmachine-vs-wyze-by-experts-at-zdnet/"><u>The Ultimate Guide to Choosing a Smart Sprinkler Controller for 2E24: Features of Rachio, Rainmachine Vs. Wyze by Experts at ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-19-labor-day-sales-on-home-appliances-in-2er-2022-exclusive-offers-from-retail-giants/"><u>Top 19 Labor Day Sales on Home Appliances in 2Er 2022: Exclusive Offers From Retail Giants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-chill-masters-exploring-the-finest-coolers-of-2022-insights-from-zdnet/"><u>Top 5 Chill-Masters: Exploring the Finest Coolers of 2022 - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-high-performance-headlamps-expert-reviews-from-zdnet/"><u>Top 5 High-Performance Headlamps - Expert Reviews From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-must-see-minimalist-miniature-dwellings-innovative-small-home-designs/"><u>Top 5 Must-See Minimalist Miniature Dwellings - Innovative Small Home Designs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-premier-smoke-free-fire-pit-models-expert-reviews-and-buyers-guide/"><u>Top 5 Premier Smoke-Free Fire Pit Models : Expert Reviews & Buyer's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-premium-picks-the-ultimate-guide-to-the-best-inflatable-kayaks/"><u>Top 5 Premium Picks: The Ultimate Guide to the Best Inflatable Kayaks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-solar-power-banks-of-2024-comprehensive-review-by-techradar/"><u>Top 5 Solar Power Banks of 2024: Comprehensive Review by TechRadar</u></a></li>
+<li><a href="https://techidaily.com/update-drivers-with-device-manager-in-windows-7-by-drivereasy-guide/"><u>Update drivers with Device Manager in Windows 7</u></a></li>
+</ul></div>
 

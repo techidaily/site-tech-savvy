@@ -1,7 +1,7 @@
 ---
 title: Streamlining GPT-3 Interactions via Folder Management
-date: 2024-10-28T16:19:16.140Z
-updated: 2024-11-01T18:57:15.829Z
+date: 2024-11-05T03:41:21.441Z
+updated: 2024-11-06T17:53:36.751Z
 tags:
   - chatgpt
   - open-ai
@@ -37,16 +37,10 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
  The [ChatGPT Folders](https://chrome.google.com/webstore/detail/chatgpt-folders-organize/hkabkcpdocmhidhbgfcpbadafacnekkl) Chrome extension addresses this problem directly, adding support for folders, subfolders, pinning, bulk conversation deletion, and the option to [share your ChatGPT conversations](https://www.makeuseof.com/apps-extensions-export-share-chatgpt-history/). Now, I imagine OpenAI will add all of these features to ChatGPT in the future ([ChatGPT link sharing is already enabled](https://www.makeuseof.com/share-chatgpt-chats-links/)). But the future isn't now, and ChatGPT Folders is delivering the goods.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Download and Install ChatGPT Folders
@@ -61,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 
 ![adding chatgpt conversations to folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adding-chatgpt-conversations-to-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. From the top bar, select **New Folder**. Give it a name.
 2. Now, select any ChatGPT conversations you want to add by selecting the check box.
 3. You can either drag and drop the selected folders into your new folder or right-click and select **Move to > New Folder**.  
@@ -71,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 ![chatgpt folders with nested conversations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-with-nested-conversations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. How to Delete a Folder and Reset Your Conversations
@@ -88,26 +89,13 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 ![chatgpt folders reset conversations and folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-folders-reset-conversations-and-folders.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select the three-line button at the top of the ChatGPT history, then **Reset folders and conversations**. Doing so will remove all of the ChatGPT Folders you've created and return your ChatGPT conversations to their original state. Note that this isn't the same as [deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/).
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are ChatGPT Folders the ChatGPT Future?
 
@@ -144,19 +132,20 @@ thumbnail: https://thmb.techidaily.com/366d048ff390e8ea9501aef5e5e819c7e4080380c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-short-form-media-exploration/"><u>[New] In 2024, Short Form Media Exploration</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-curating-relevant-skills-list/"><u>[Updated] 2024 Approved Curating Relevant Skills List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-maximize-engagement-with-ideal-video-dimensions-on-insta/"><u>[Updated] Maximize Engagement with Ideal Video Dimensions on Insta</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-easy-techniques-for-trimming-videos-in-windows-10/"><u>5 Easy Techniques for Trimming Videos in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp4-vs-wmv/"><u>對於MP4 vs WMV: 主要區別是什麼?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726222130595-mpeg-vob-movavi/"><u>線上免費MPEG VOB變換器，以 Movavi 软件進行無限制的影片編碼改變</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-magic-5-lite-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transforming-your-aiff-files-into-mov-format-with-ease/"><u>Free Online Converter: Transforming Your AIFF Files Into MOV Format with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratuit-gebaseerd-converter-tga-naar-jpeg-image-file-konvertieeren-via-web/"><u>Gratuit Gebaseerd Converter: TGA Naar JPEG Image File Konvertieeren Via Web</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-recover-amd-graphics-settings-after-unwanted-changes-by-windows-update/"><u>How to Recover AMD Graphics Settings After Unwanted Changes by Windows Update</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/substituting-characters-with-line-breaks-using-notepadplusplus/"><u>Substituting Characters With Line Breaks Using Notepad++</u></a></li>
-<li><a href="https://tools.techidaily.com/trackabi/products/"><u>Trackabi's Products</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trasforma-i-tuoi-file-mp4-in-flv-senza-costo-su-internet-utilizzando-movavi/"><u>Trasforma I Tuoi File MP4 in FLV Senza Costo Su Internet Utilizzando Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/zenith-accessories-for-the-ultimate-switch-experience/"><u>Zenith Accessories for the Ultimate Switch Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-co-create-content-to-maximize-youtube-follower-count/"><u>[New] In 2024, Co-Create Content to Maximize YouTube Follower Count</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-perfecting-your-dialogue-a-google-meet-strategy-for-2024/"><u>[New] Perfecting Your Dialogue A Google Meet Strategy for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-boosting-income-smart-strategies-for-profit-from-youtube-mobile-content/"><u>[Updated] Boosting Income Smart Strategies for Profit From YouTube Mobile Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-decoding-the-route-to-achieving-facebook-verification-for-2024/"><u>[Updated] Decoding the Route to Achieving Facebook Verification for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-8-best-screen-recorders-with-no-lag/"><u>[Updated] Top 8 Best Screen Recorders with No Lag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-innovation-transforming-the-global-games-market/"><u>AI-Driven Innovation: Transforming the Global Games Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-on-mobile-devices-a-step-by-step-guide/"><u>ChatGPT on Mobile Devices: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversione-gratuita-rmvb-a-m4v-utilizzare-movavi-per-lo-scambio-di-formati/"><u>Conversione Gratuita RMVB a M4V - Utilizzare Movavi per Lo Scambio Di Formati</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-your-key-to-unlocking-the-full-power-of-free-gpt-4-turbo/"><u>Copilot: Your Key to Unlocking the Full Power of Free GPT-4 Turbo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-ai-the-good-and-possible-dangers/"><u>Demystifying AI: The Good & Possible Dangers</u></a></li>
+<li><a href="https://win-top.techidaily.com/erfahren-sie-wie-die-einrichtung-eines-hyper-v-netzwerks-ihre-systemeffizienz-revolutioniert/"><u>Erfahren Sie, Wie Die Einrichtung Eines Hyper-V Netzwerks Ihre Systemeffizienz Revolutioniert!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-education-the-shift-from-student-drafted-to-ai-generated-papers/"><u>GPT and Education: The Shift From Student-Drafted to AI-Generated Papers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-microsoft-copilot-for-novel-ai-graphics-crafting/"><u>Navigating Microsoft Copilot for Novel AI Graphics Crafting</u></a></li>
+<li><a href="https://fox-info.techidaily.com/spectrum-perfection-color-grading-basics-for-2024/"><u>Spectrum Perfection Color Grading Basics for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-limitations-content-creation-beyond-bot-capabilities/"><u>The Limitations: Content Creation Beyond Bot Capabilities</u></a></li>
 </ul></div>
 

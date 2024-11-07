@@ -1,7 +1,7 @@
 ---
 title: ChatGPT's Standard Features Explored
-date: 2024-10-29T18:55:58.440Z
-updated: 2024-11-01T18:29:20.389Z
+date: 2024-11-05T00:45:05.776Z
+updated: 2024-11-07T03:25:50.689Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/576613d76775eba96e07a16efe944a1e36820bdf5
 * [What Are ChatGPT's Default Plugins?](https://coinrule.sjv.io/rqzonv)
 * [How to Use ChatGPT's Standard Plugins](https://turtlebeachus.sjv.io/vmebyo)
 * [How to Use ChatGPT's Plugins on Mobile](https://getlyla.pxf.io/ek9gkg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -53,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/576613d76775eba96e07a16efe944a1e36820bdf5
  When you open your ChatGPT Plus account, each of these plugins will be active by default, meaning you don't need to activate anything manually to use them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use ChatGPT's Standard Plugins
@@ -64,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/576613d76775eba96e07a16efe944a1e36820bdf5
  If you don't have a ChatGPT Plus account, you won't be able to access these plugins. So, consider signing up for the $20 monthly premium plan if you want to overcome this barrier.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Browse with Bing
@@ -77,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/576613d76775eba96e07a16efe944a1e36820bdf5
 ![chatgpt search with bing ask question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-ask-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you make the request, you'll be told that GPT is currently searching the web. It may take ten or so seconds to get your results or longer if your connection is patchy, OpenAI's servers are overwhelmed, or your request contains detailed information that takes time to search for.
@@ -88,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/576613d76775eba96e07a16efe944a1e36820bdf5
 ![chatgpt search with bing whats the weather jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-whats-the-weather-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When ChatGPT provides a response based on a web search, the source will always be provided in the bracketed quotation marks (**\["\]**) at the end of the response. You can regenerate the response if you're unhappy with the initial output by clicking on the circular arrow symbol under the response.
@@ -118,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/576613d76775eba96e07a16efe944a1e36820bdf5
 
  Though we asked ChatGPT to keep the image identical aside from one change, it made the change but also changed almost everything else about the image. Keep this downside in mind when using this plugin.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Code Interpreter
 
  If you want to write, run, or be provided with code in the Python language, [ChatGPT's Code Interpreter](https://www.makeuseof.com/chatgpt-code-interpreter-uses/) can help. With this plugin, you can request code excerpts, have ChatGPT analyze and execute code, and enjoy the option to upload files within the chat for review.
@@ -139,16 +139,16 @@ thumbnail: https://thmb.techidaily.com/576613d76775eba96e07a16efe944a1e36820bdf5
 
 ![screenshot of file upload for code interpretation in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/upload-python-gpt.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also ask ChatGPT to give you Python code for the function or program you want to create. However, this isn't part of the Interpreter plugin, so it can be used with GPT-3.5 or GPT-4\.
 
 ![Screenshot of ChatGPT python code excerpt response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-excerpt.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Make sure you run whatever code is provided through a dedicated Python execution tool before implementing it. ChatGPT can make mistakes, so it's always best to run some checks on any data it gives you.
 
@@ -187,17 +187,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-reset-and-regain-navigating-the-2023-fb-hack-scenario/"><u>[New] Reset & Regain Navigating the 2023 FB Hack Scenario</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-beliefs-9-chatbot-claims-we-need-to-debunk-right-now/"><u>Beyond Beliefs: 9 Chatbot Claims We Need to Debunk Right Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exposure-chatgpt-for-windowsunrelated-malware/"><u>Exposure: ChatGPT for Windows—Unrelated Malware</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-100-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 100 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-multitasking-ideas-with-podcasts/"><u>In 2024, Mastering Multitasking Ideas with Podcasts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-lenovo-thinkpad-t420-driver-downloads-for-windows/"><u>Quick and Easy Lenovo ThinkPad T420 Driver Downloads for Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/say-goodbye-to-overfeeding-with-arf-pets-smart-feeder-solution/"><u>Say Goodbye to Overfeeding with Arf Pets Smart Feeder Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-cyberspace-quest-hackers-and-chatgpt/"><u>The Cyberspace Quest: Hackers and ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-sudden-italian-decree-against-ai-language-tools-like-chatgpt/"><u>The Sudden Italian Decree Against AI Language Tools Like ChatGPT</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tiktok-to-twitter-sharing-videos/"><u>TikTok to Twitter Sharing Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/timelapse-techniques-for-samsung-smartphones-for-2024/"><u>Timelapse Techniques for Samsung Smartphones for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-bridging-the-gap-between-facebook-videos-and-apple-tv-compatibility/"><u>[Updated] In 2024, Bridging the Gap Between Facebook Videos and Apple TV Compatibility</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-high-octane-comparison-gopro-hero-4-vs-drift-ghost-s/"><u>2024 Approved High Octane Comparison GoPro Hero 4 Vs. Drift Ghost-S</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/webm-gif/"><u>高画質での WebM ビデオから GIFへの効果的な変換手順！</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-editing-workflows-windows-photos-and-story-remix-combo-for-2024/"><u>Advanced Editing Workflows Windows Photos & Story Remix Combo for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-an-ai-secret-archive-without-deletion/"><u>Crafting an AI Secret Archive without Deletion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-success-6-masterstrokes-with-chatgpts-interpreter/"><u>Decoding Success: 6 Masterstrokes With ChatGPT's Interpreter</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-our-picks-the-best-cooking-programs-available-on-netflix/"><u>Discover Our Picks: The Best Cooking Programs Available on Netflix</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/easily-hosting-a-zoom-conference/"><u>Easily Hosting a Zoom Conference</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-potential-bard-vs-bing-showdown/"><u>Exploring AI Potential: Bard Vs. Bing Showdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/has-chatgpt-rendered-student-essays-obsolete/"><u>Has ChatGPT Rendered Student Essays Obsolete?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-smart-7-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Smart 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-s17t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo S17t to iPad | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-the-most-of-your-iphone-how-integrating-googles-gemini-into-ios-enhances-usability-insights/"><u>Making the Most of Your iPhone: How Integrating Google's Gemini Into iOS Enhances Usability - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-inner-peace-chatgpt-for-continual-reflection/"><u>Navigating Inner Peace: ChatGPT for Continual Reflection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-of-gpt-in-bank-security-and-pc-vulnerabilities/"><u>The Hidden Dangers of GPT in Bank Security & PC Vulnerabilities</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-relationship-between-vgs-and-ids-is-not-linear-instead-as-vgs-becomes-more-negative-ids-drops-rapidly-until-it-reaches-a-point-known-as-pinch-off-where-14/"><u>The Relationship Between VGS and IDS Is Not Linear; Instead, as VGS Becomes More Negative, IDS Drops Rapidly Until It Reaches a Point Known as Pinch-Off, Where the Channel Closes Completely and IDS Ideally Becomes Zero.</u></a></li>
 </ul></div>
 

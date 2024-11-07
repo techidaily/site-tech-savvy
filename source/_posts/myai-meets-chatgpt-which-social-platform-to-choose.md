@@ -1,7 +1,7 @@
 ---
 title: "MyAI Meets ChatGPT: Which Social Platform to Choose?"
-date: 2024-09-10T16:13:06.805Z
-updated: 2024-09-17T16:23:56.736Z
+date: 2024-10-31T19:10:17.926Z
+updated: 2024-11-07T05:10:47.462Z
 tags:
   - chatgpt
   - open-ai
@@ -62,7 +62,21 @@ Close
 
 ![My AI coming up with a word game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-coming-up-with-a-word-game.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![My AI giving a quick random fact about the shortest war in history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-giving-a-quick-random-fact-about-the-shortest-war-in-history.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![My AI suggesting the 20 questions game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-suuggesting-the-20-questions-game.jpeg)
 
@@ -84,13 +98,6 @@ Close
 
  ChatGPT also has the advantage of being able to format its output. It can create numbered lists, and even place its output inside code blocks, making it more presentable for people who need to see it like that. ChatGPT’s generated code also has more notes and better explanations.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Directions and Local Navigation: ChatGPT vs. My AI
 
  My AI can access the internet, Snap Maps, and your location. Therefore, it’s in a better place to give directions than the offline ChatGPT. This doesn’t mean that you can trust My AI completely with giving you directions to a place. You should only use it when you need a general idea or a description of where you’re going.
@@ -99,16 +106,16 @@ Close
 
 ![My AI pointing out the nearest stadium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-pointing-out-the-nearest-stadium.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Feel free to ask My AI questions like where the nearest parks or stadiums are, and to give you a description of them. But please, check again with your map to ensure you’re actually going the right way.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Natural Language Chats: ChatGPT vs. My AI
 
@@ -119,16 +126,10 @@ Close
 ![ChatGPT commenting on whether Stoicism relates with its morals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-commenting-on-whether-stoicism-relates-with-its-morals.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, when you compare it with My AI’s response, you begin to see the clear difference between the two of them in terms of depth of conversation:
@@ -138,10 +139,10 @@ Close
  My AI responses seem like a more summarized version of ChatGPT’s.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Personalized Recommendations: ChatGPT vs. My AI
@@ -151,6 +152,13 @@ Close
  While you can prompt it to give you a recommendation, sometimes My AI would go out of its way to recommend something for you during a conversation. Because it also uses Snap Maps, it can also point out hotspots and places you might enjoy based on reviews, how active it’s been on the map, and your distance.
 
  But it doesn’t end at restaurants, coffee shops, bars and the like; My AI can also recommend things to do based on your interests, such as hiking, shopping, or attending concerts. These are things that ChatGPT can’t compete with till it has access to your location and the internet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## My AI Is a Mobile-Friendly Alternative to ChatGPT
 
@@ -173,5 +181,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-media-spotlight-top-tiktok-tweets/"><u>[New] 2024 Approved Social Media Spotlight Top TikTok Tweets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-archive-alchemist-transforming-social-feeds-to-files/"><u>[New] 2024 Approved The Archive Alchemist Transforming Social Feeds to Files</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-enhance-visibility-top-methods-for-instagram-hits/"><u>[Updated] Enhance Visibility Top Methods for Instagram Hits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-ultimate-guide-shifting-your-profile-picture-on-global-platforms/"><u>[Updated] In 2024, The Ultimate Guide Shifting Your Profile Picture on Global Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-showdown-which-ai-runs-the-house/"><u>ChatBot Showdown: Which AI Runs the House?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-honor-magic-v2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor Magic V2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-5-unveiled-essential-advances-to-keep-an-eye-on/"><u>GPT-5 Unveiled: Essential Advances to Keep an Eye On</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m3-or-m2-macbook-air-expert-review-and-buyers-guide-by-zdnet-to-determine-apples-newest-laptop-contender/"><u>M3 or M2 MacBook Air? Expert Review & Buyer’s Guide by ZDNet to Determine Apple's Newest Laptop Contender</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photographic-standouts-with-our-top-10-grid-picks-for-2024/"><u>Photographic Standouts with Our Top 10 Grid Picks for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209859816-9789387669482-the-seven-laws-of-teaching/"><u>The Seven Laws of Teaching | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-se-cases-of-2022-ultimate-protection-and-style-techadvisor/"><u>Top Rated iPhone SE Cases of 2022 - Ultimate Protection & Style | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-methods-to-detect-when-an-apple-airtag-tracks-your-movements/"><u>Unveiling the Methods to Detect When an Apple AirTag Tracks Your Movements</u></a></li>
+</ul></div>
 

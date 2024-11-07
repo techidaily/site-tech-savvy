@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Potent AI Agent: Top Tactics for Perfectly Structured ChatGPT Prompts"
-date: 2024-09-10T16:34:42.267Z
-updated: 2024-09-17T16:01:20.876Z
+date: 2024-11-05T11:38:01.296Z
+updated: 2024-11-07T01:12:44.582Z
 tags:
   - chatgpt
   - open-ai
@@ -38,15 +38,42 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
  Akin has also written a free (or pay-what-you-want) ebook for beginners called [The Art of ChatGPT Prompting](https://fka.gumroad.com/l/art-of-chatgpt-prompting) . It takes you step-by-step through the ChatGPT process of understanding what the AI does, why prompts are essential, and the principles of good PE. Akin also shares his "Act as…" hack for making ChatGPT behave the way you want without overloading it with too much information.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2. QuickRef ChatGPT Cheat Sheets
 
 ![QuickRef's ChatGPT cheat sheet offers free examples and templates of prompts for ChatGPT across various categories and uses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-quickref-cheat-sheets.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  QuickRef is a website with cheat sheets for different apps or programming languages, like Google Search, Sheets, Excel, JavaScript, Python, etc. These are added mainly by regular users from the community. The latest cheat sheet in its impressive lineup is ChatGPT, with a series of prompts and tips for the AI. You won't learn the process of PE here, but it's a good reference when you're stuck.
 
  QuickRef's ChatGPT cheat sheet is divided into several categories: General, Coding, Email, Spreadsheets, Social Media, Reading, Design, Analyzing Data, Paid ads, Amazon FBA, Writing / Blogging, Teachers / Course Creators, YouTube, and Research. Each prompt has a basic headline telling you what it will do, followed by the prompt you can copy-paste into ChatGPT.
 
  Multiple words or phrases of each prompt are replaceable to customize it for your query. The must-fill parts are marked in brackets for you to replace the original text, while optional replacements are colored red or blue.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3. Adrian Twarog
 
@@ -72,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
 ![Learn Prompting is a free online course for beginner, intermediate, or advanced AI users to learn all aspects of prompt engineering](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-learn-prompting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Learn Prompting is a free online course to understand how to write prompts for any AI app, not just ChatGPT. Sander Schulhoff, a computer science student at the University of Maryland, designed it. It caters to a range of users, from complete novices to those with domain expertise or programming knowledge.
 
  The course is entirely text-based, with chapters that take you through different aspects of AI prompting. Schulhoff defines PE as "How to talk to AI to get it to do what you want." The Basics and Intermediate chapters will take you through the founding principles of PE with theory, tricks and tips, and examples.
@@ -86,16 +106,10 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
  The course then goes into advanced practices like applied prompting (contributed by users), fine-tuning, images, and more, where you'll learn techniques like Chain of Thought, Self Consistency, etc. It might sound like a lot of jargon, but it'll be clear and easy to understand if you go through the course step-by-step.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Learning ChatGPT With a Personal Project
@@ -115,5 +129,23 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-secure-your-memories-long-term-webcam-video-storage-in-vlc/"><u>[New] 2024 Approved Secure Your Memories Long-Term Webcam Video Storage in VLC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-affordable-video-capture-tools-for-budget-computers/"><u>[New] Best Affordable Video Capture Tools for Budget Computers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-adjusting-google-meet-display-mobile-and-laptop-focus/"><u>[New] In 2024, Adjusting Google Meet Display Mobile and Laptop Focus</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-key-steps-turning-visual-media-from-pinterest-into-music-files/"><u>[Updated] Key Steps Turning Visual Media From Pinterest Into Music Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-itel-p55-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Itel P55 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-disrupts-ai-imagery-with-ingenious-device-bound-generator-eclipses-dall-e-discover-the-magic-in-zdnet/"><u>Apple Disrupts AI Imagery with Ingenious Device-Bound Generator, Eclipses DALL-E | Discover the Magic in ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-meets-android-worldwide/"><u>ChatGPT Meets Android Worldwide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crafting-personalized-ai-helpers-with-gemini-a-step-by-step-guide-on-harnessing-gemstones-for-intelligent-automation/"><u>Crafting Personalized AI Helpers with Gemini: A Step-by-Step Guide on Harnessing Gemstones for Intelligent Automation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-the-newest-display-driver-software-for-your-hp-pavilion-or-envy-laptop-models-840-841-etc/"><u>Getting the Newest Display Driver Software for Your HP Pavilion or Envy Laptop Models (840, 841, Etc.)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-ai-duo-chatgpt-meets-siri-in-ios-world/"><u>Integrating AI Duo: ChatGPT Meets Siri in iOS World</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/learn-to-optimize-your-watchlist-using-dual-screens-on-netflix-for-2024/"><u>Learn to Optimize Your Watchlist Using Dual Screens on Netflix for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sj-cam-s6-unboxed-a-full-evaluation-in-detail/"><u>SJ-CAM S6 Unboxed A Full Evaluation in Detail</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unblocked-path-to-chatgpt-logon-success/"><u>Unblocked Path to ChatGPT Logon Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-potential-in-verse-gpt-3-assisted-methods/"><u>Unleash Potential in Verse: GPT-3 Assisted Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-secret-an-unknown-but-incredible-feature-on-the-latest-iphones-revealed-by-zdnet/"><u>Unveiling Apple's Secret: An Unknown but Incredible Feature on the Latest iPhones Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-the-virtual-playbook-ai-innovations-in-gaming-scripts/"><u>Writing the Virtual Playbook: AI Innovations in Gaming Scripts</u></a></li>
+</ul></div>
 

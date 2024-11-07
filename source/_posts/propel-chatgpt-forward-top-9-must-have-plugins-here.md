@@ -1,7 +1,7 @@
 ---
 title: "Propel ChatGPT Forward: Top 9 Must-Have Plugins Here"
-date: 2024-10-25T16:25:32.980Z
-updated: 2024-11-01T17:46:12.190Z
+date: 2024-11-03T23:57:50.941Z
+updated: 2024-11-07T01:07:22.527Z
 tags:
   - chatgpt
   - open-ai
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. InstaCart
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
 
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
@@ -70,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Wolfram
 
@@ -92,13 +92,20 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
 
 ![fact-checking with ChatGPT and Wolfram Alpha](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fact-checking-with-chatgpt-and-wolfram-alpha.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wolfram was able to run the generated information against its database to check for accuracy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. ChatWithPDF
@@ -114,10 +121,10 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Turns out another important use case is making sense of technical documents like this.
@@ -131,13 +138,6 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
  We tried the tool on a first-impression video of [Apple's Vision Pro VR headset](https://www.makeuseof.com/apple-vision-pro-headset-explained/) on YouTube, and here's what it had to say:
 
 ![VideoInsights Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/videoinsights-plugin-in-action.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Yes, it was a spot-on description of the video if you're wondering.
 
@@ -162,10 +162,10 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. What to Watch
@@ -175,10 +175,10 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
  If your prompting skills aren't particularly strong, you'll find it useful. However, if you know your way around ChatGPT prompts, you might be better off using your own ChatGPT prompts, in which case we recommend checking out our comprehensive [guide on using ChatGPT to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Embrace ChatGPT Plugins
@@ -204,22 +204,22 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-harness-mematic-for-efficient-note-taking-for-2024/"><u>[Updated] Harness Mematic for Efficient Note-Taking for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-revealing-historys-best-anime-openers/"><u>[Updated] In 2024, Revealing History's Best Anime Openers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-complete-manual-to-mobile-igtv-video-acquisition-for-2024/"><u>[Updated] The Complete Manual to Mobile IGTV Video Acquisition for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-your-daily-diary-staying-fresh-and-avoiding-common-mistakes/"><u>[Updated] Your Daily Diary Staying Fresh & Avoiding Common Mistakes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726226942134-2024-win11/"><u>2024 Win11上選的影片編輯器: 最新比較分析報告</u></a></li>
-<li><a href="https://article-helps.techidaily.com/boosting-gopro-power-endurance-tips-and-tricks-for-2024/"><u>Boosting GoPro Power Endurance Tips & Tricks for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversion-gratuita-de-archivos-mp4-a-formato-aac-online-con-herramientas-profesionales-movavi/"><u>Conversión Gratuita De Archivos MP4 a Formato AAC Online Con Herramientas Profesionales - Movavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/discover-the-top-21-no-cost-substitutes-for-putlocker-streaming-service/"><u>Discover the Top 21 No-Cost Substitutes for Putlocker Streaming Service</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-tod-to-mp4-in-minutes-moveavi/"><u>Free Online Converter: Tod to MP4 in Minutes - Moveavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-s18-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo S18 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-maximizing-clarity-fb-messages-full-recording-process/"><u>In 2024, Maximizing Clarity FB Messages Full Recording Process</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/m4a-en-m4r-met-prima-verwerking-vrije-aanstekelijke-online-konverter-movavi/"><u>M4A en M4R Met Prima Verwerking - Vrije, Aanstekelijke Online-Konverter Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/measure-your-cuff-width-using-a-fabric-measuring-tape-measure-around-the-widest-part-of-the-cuff-on-one-of-your-shirts-that-fits-well-this-measurement-shoul43/"><u>Measure Your Cuff Width: Using a Fabric Measuring Tape, Measure Around the Widest Part of the Cuff on One of Your Shirts that Fits Well. This Measurement Should Be Taken From Seam to Seam and Across the Backside of the Cuff Where It Folds over Itself.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavimp3m2ts/"><u>Movaviのサポートを借りて、フリーオンラインでMP3からM2TSへ容易に変換！</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movaviweb/"><u>MovaviのスリムなWebベースのオンライン動画形式自由変更サービス - 完全無償</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stream-any-content-on-your-apple-tv-using-vlc-step-by-step-instructions/"><u>Stream Any Content on Your Apple TV Using VLC: Step-by-Step Instructions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transcodificar-de-mpeg-a-mp3-online-gratis-y-rapido-con-convertidor-profesional/"><u>Transcodificar De MPEG a MP3 Online Gratis Y Rápido Con Convertidor Profesional</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitterscape-archive-the-ultimate-compiler-and-preserver-of-tweets-in-frames/"><u>[New] Twitterscape Archive The Ultimate Compiler & Preserver of Tweets in Frames</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-how-to-record-lectures-on-mac/"><u>[Updated] 2024 Approved How to Record Lectures on Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-ten-practical-ways-to-prevent-vr-sickness/"><u>[Updated] 2024 Approved Ten Practical Ways to Prevent VR Sickness</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-currently-hot-in-vr-tech/"><u>[Updated] Currently Hot in VR Tech</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unleashing-creativity-smartphone-filmmaking-and-youtube-thumbnails/"><u>[Updated] In 2024, Unleashing Creativity Smartphone Filmmaking & YouTube Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-h501x4-fpv-quadcopter-unveiled-review-breakdown/"><u>2024 Approved H501X4 FPV Quadcopter Unveiled - Review Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-apples-immersive-3d-spatial-video-experience-on-your-meta-quest-3-easy-setup-guide/"><u>Access Apple’s Immersive 3D Spatial Video Experience on Your Meta Quest 3 – Easy Setup Guide!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-max-token-limit-and-breaking-past-it/"><u>ChatGPT's Max Token Limit & Breaking Past It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-information-harvesting-with-top-6-ai-apps/"><u>Efficient Information Harvesting with Top 6 AI Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-guide-two-simple-methods-for-downloading-songs-from-mixcloud/"><u>Effortless Guide: Two Simple Methods for Downloading Songs From Mixcloud</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ultra-thin-ipad-models-a-visit-to-the-apple-store-and-assessing-impact-of-just-008-thickness-techspot/"><u>Exploring Ultra-Thin iPad Models: A Visit to the Apple Store and Assessing Impact of Just 0.08 Thickness | TechSpot</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-camon-30-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Camon 30 Pro 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-price-of-love-and-tech-unveiling-the-sentiments-behind-an-apple-vision-pro-pitch-analysis-by-zdnet/"><u>The Price of Love and Tech: Unveiling the Sentiments Behind an Apple Vision Pro Pitch | Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-lifespan-of-your-mailcom-email-address-when-might-it-end/"><u>Understanding the Lifespan of Your mail.com Email Address - When Might It End?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-top-6-ai-enhancements-in-ios-18-for-iphone-plus-upcoming-innovations-from-apple-zdnet/"><u>Unveiling the Future: Top 6 AI Enhancements in iOS 18 for iPhone, Plus Upcoming Innovations From Apple - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-how-homeos-makes-a-comeback-in-apples-new-tvos-beta-version-analysis/"><u>Unveiling the Secrets: How 'homeOS' Makes a Comeback in Apple's New tvOS Beta Version | Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-chatgpt-misses-the-mark-in-coin-forecasting/"><u>Why ChatGPT Misses the Mark in Coin Forecasting</u></a></li>
 </ul></div>
 

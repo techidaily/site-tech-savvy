@@ -1,7 +1,7 @@
 ---
 title: "Deciphering VisionOS 2: Key Takeaways From the WWDC Announcement that Have Tech Enthusiasts Abuzz!"
-date: 2024-10-31T17:28:17.090Z
-updated: 2024-11-01T18:08:32.283Z
+date: 2024-11-03T01:10:33.165Z
+updated: 2024-11-07T11:07:21.787Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. On-device AI puts the 'smart' in smartphone
 
 The new Samsung Galaxy S24 series features a live translation feature, powered by on-device AI.
@@ -52,10 +45,10 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -75,10 +68,10 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -98,10 +91,10 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -121,6 +114,13 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -176,16 +176,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-covert-content-creation-how-to-invisibly-alter-videos/"><u>[New] In 2024, Covert Content Creation How to Invisibly Alter Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-step-by-step-process-of-amplifying-your-channel-with-high-impact-placement/"><u>[New] In 2024, Step-by-Step Process of Amplifying Your Channel with High-Impact Placement</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-top-10-best-drones-for-kids-and-beginners/"><u>[New] Top 10 Best Drones for Kids and Beginners</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tips-for-installing-latest-atheros-network-adapter-software-in-windows-11/"><u>Easy Tips for Installing Latest Atheros Network Adapter Software in Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-errors-on-amazon-prime-video-a-step-by-step-guide/"><u>Fixing Errors on Amazon Prime Video: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-get-msi-afterburner-to-recognize-your-gpu-in-windows-11/"><u>Fixing the Issue: How to Get MSI Afterburner to Recognize Your GPU in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ogg-gif/"><u>OGG 파일을 GIF로 원할 수 있는 웹 편리한 무료 변환 도구</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformar-seus-arquivos-m4a-em-mp3-gratuitamente-on-line-guia-rapido-e-facil-usando-o-movavi/"><u>Transformar Seus Arquivos M4A Em MP3 Gratuitamente On-Line – Guia Rápido E Fácil Usando O Movavi!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wmv-vs-mp4-entendendo-as-principais-distincoes-entre-os-formatos-de-arquivo-de-video/"><u>WMV vs MP4 - Entendendo as Principais Distinções Entre Os Formatos De Arquivo De Vídeo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726227617210-gifmp4-movavi/"><u>オンラインでのGIFからMP4へのフリー変換ツール - Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-compilation-best-gopro-cases-for-action-seekers/"><u>[Updated] Ultimate Compilation Best GoPro Cases for Action Seekers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-balance-of-swiftness-and-security-on-spotify-sounds/"><u>2024 Approved The Balance of Swiftness and Security on Spotify Sounds</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/digital-vs-physical-media-showdown-dvd-blu-ray-or-download-which-offers-the-best-value-for-money/"><u>Digital vs Physical Media Showdown: DVD, Blu-Ray or Download – Which Offers the Best Value for Money?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-achieving-visual-harmony-in-your-fb-videos-with-proper-ratio-adjustments/"><u>In 2024, Achieving Visual Harmony in Your FB Videos with Proper Ratio Adjustments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligence-upheld-in-chatgpt-opensai-insists/"><u>Intelligence Upheld in ChatGPT, OpensAI Insists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-performance-with-the-latest-version-free-steelseries-engine-for-windows-users/"><u>Maximize Performance with the [Latest Version]: Free SteelSeries Engine for Windows Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-money-tally-for-youtube-creators/"><u>Online Money Tally for YouTube Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-communication-googles-introduction-to-palm-2/"><u>Revolutionizing Communication: Google's Introduction to PaLM 2</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/talk-turned-type-essential-apps-for-offline-speech-recognition-for-2024/"><u>Talk Turned Type Essential Apps for Offline Speech Recognition for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-case-for-unchangeable-ai-language-mods/"><u>The Case for Unchangeable AI Language Mods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-deceptive-gpt-tactics/"><u>Top 5 Deceptive GPT Tactics</u></a></li>
 </ul></div>
 

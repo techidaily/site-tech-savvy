@@ -1,7 +1,7 @@
 ---
 title: "Essential Updates: Transforming the Way Users Engage with ChatGPT Plugins"
-date: 2024-10-28T17:37:55.652Z
-updated: 2024-11-01T17:37:06.738Z
+date: 2024-11-04T01:34:13.039Z
+updated: 2024-11-07T09:57:42.148Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 ![Categorization in the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/categories-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Right now, every plugin that makes its way to the plugin store is lumped together in one big mess. It doesn't matter what a plugin does; whether it helps you write code or it helps you summarize YouTube videos, everything is lumped together. There's really no healthy way to tell what a group of plugins does from the other. There's no grouping at all. As the number of plugins in the store keeps growing, this will eventually become a chaotic mess.
@@ -58,25 +58,32 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
  It's not just consumers that categorization would help. It would also help developers gain valuable market insights since the number and growth of apps in each category will highlight where demand and opportunities exist. Consequently, developers can better decide which plugins to develop and through which categories they'll need to get them in front of the right audience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Strict Review Process Before Accepting Plugins
 
 ![lens with sparkles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/lens-with-sparkles.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While the rapid increase in the number of plugins in the ChatGPT plugin store is commendable, there's no argument for a bloated plugin store if the quality of plugins is poor. When we explored the plugin store to find the [best ChatGPT plugins](https://www.makeuseof.com/best-chatgpt-plugins/), we ran into many duds and gimmicks that had no business being there. Right now, it seems whatever plugin a developer throws at OpenAI is accepted, making us wonder whether there's even any form of review process in place.
 
  This runs the risk of turning the innovative store into a collection of mediocre plugins, drowning out those that provide immense value to users. A stringent pre-publication review identifies and ensures that low-quality or buggy plugins are rejected, ensuring only stable, functioning plugins that solve a serious problem make it into the store. Overall, a strict review process will help improve user trust for plugins, reduce user risk, and benefit the entire ChatGPT plugin ecosystem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Provide Access to More Advance Development Tools
@@ -88,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
  For example, take OpenAI's ChatGPT's Code Interpreter plugin. It's a very powerful plugin that can perform a wide range of tasks by executing Python code in a secure sandbox. Its capabilities far outweigh almost everything currently available in the plugin store because of the level of access OpenAI has granted to its in-house developers. It is almost possible for third-party developers to replicate anything close to that because of restricted access to the model.
 
  The solution? Improved, granular, and lower-level access to ChatGPT's underlying AI models. Granular access will allow developers to build more complex and powerful plugins that can harness the full capabilities of the model in innovative ways. And then maybe we'd be able to have plugins other than PDF readers and link readers everywhere on the plugin store.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## OpenAI Should Rectify Early Missteps
 
@@ -123,20 +123,20 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-10-highly-trusted-free-video-communication-tools-with-security-features/"><u>[New] 10 Highly-Trusted Free Video Communication Tools with Security Features</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-how-to-record-iptv-screen-for-2024/"><u>[New] How to Record IPTV Screen for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-through-the-lens-sage-advice-for-improving-your-edits/"><u>[Updated] Through the Lens Sage Advice for Improving Your Edits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-productivity-activatingdeactivating-pip-on-ios/"><u>2024 Approved Maximizing Productivity Activating/Deactivating PIP on iOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726225683445-aacwmv-movavi/"><u>直通網路無成本轉化AAC音訊為WMV - 利用Movavi的即時音頻轉換工具</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/as-6-melhores-tecnicas-para-digitalizar-seus-dvds-atualizacoes-e-dicas-de-2023/"><u>As 6 Melhores Técnicas Para Digitalizar Seus DVDs: Atualizações E Dicas De 2023</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/descubra-os-9-principais-criadores-de-filmes-de-aniversario-virtual-para-o-ano-de-2024/"><u>Descubra Os 9 Principais Criadores De Filmes De Aniversário Virtual Para O Ano De 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-innovations-behind-samsungs-brand-new-mobile-devices/"><u>Discover the Innovations Behind Samsung's Brand New Mobile Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-v30-lite-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo V30 Lite 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-proxy-configurations/"><u>Mastering Windows 11 Proxy Configurations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-wmvm4v/"><u>Movaviの無料ツール - WMVとM4Vビデオ変換機能</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-free-moviemaking-tools-for-pc-windows-10-8-and-amoeba/"><u>The Ultimate List of Free Moviemaking Tools for PC (Windows 10, 8, & Amoeba)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transferer-un-fichier-amv-vers-wmv-sur-internet-gratuite-methode-de-convertisseur/"><u>Transférer Un Fichier AMV Vers WMV Sur Internet Gratuite - Méthode De Convertisseur</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp3gsm-movavi/"><u>スマホMP3に変換可能なオンラインGSMファイル - 無料でMovavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-famebits-secrets-to-thrive-with-key-channel-sponsors/"><u>[Updated] 2024 Approved Harnessing FameBit's Secrets to Thrive with Key Channel Sponsors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-the-implications-of-free-access-to-information-in-modern-digital-libraries-the-case-of-the-internet/"><u>Analyzing the Implications of Free Access to Information in Modern Digital Libraries: The Case of the Internet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-tv-plus-casting-tricks-watch-your-favorites-on-chromecast/"><u>Apple TV Plus Casting Tricks: Watch Your Favorites on Chromecast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-remote-opportunities-6-innovative-applications/"><u>ChatGPT & Remote Opportunities: 6 Innovative Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-gold-how-to-supercharge-chatgpts-interaction/"><u>Conversational Gold: How to Supercharge ChatGPT's Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-capabilities-of-claude-2/"><u>Decoding the Capabilities of Claude 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-onlyoffice-with-chatgpt-for-seamless-collaboration/"><u>Enhancing ONLYOFFICE with ChatGPT for Seamless Collaboration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-disruption-to-dominance-6-strategies-for-ai-ready-professionals/"><u>From Disruption to Dominance: 6 Strategies for AI-Ready Professionals</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-effortlessly-configure-task-automation-in-windows-and-macos-systems/"><u>How to Effortlessly Configure Task Automation in Windows and macOS Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-narzo-60x-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme Narzo 60x 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-down-4-ways-to-find-out-chatgpts-current-status/"><u>Is ChatGPT Down? 4 Ways to Find Out ChatGPT's Current Status</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2024s-must-watch-free-films-from-youtube-find-your-next-viewing-pleasure/"><u>July 2024'S Must-Watch FREE Films From YouTube - Find Your Next Viewing Pleasure!</u></a></li>
+<li><a href="https://facebook.techidaily.com/new-era-for-trump-and-social-media-giant/"><u>New Era for Trump and Social Media Giant</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728482656081-windowspc/"><u>Windows系統下，從物理PC遷移到雲端計算方法</u></a></li>
 </ul></div>
 

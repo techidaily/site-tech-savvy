@@ -1,7 +1,7 @@
 ---
 title: "Duplicitous ChatGPT Enhancer: Phishes for Facebook Logins"
-date: 2024-10-29T18:01:40.833Z
-updated: 2024-11-01T16:08:32.951Z
+date: 2024-10-31T06:07:05.829Z
+updated: 2024-11-06T16:51:58.332Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably [sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Thousands of Facebook Accounts May Have Been Compromised
@@ -54,10 +54,10 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Malicious App Has Been Removed from Chrome
@@ -65,10 +65,10 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -92,14 +92,15 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-iphones-audio-upgrade-discover-best-software-for-youtube-to-mp3/"><u>[Updated] IPhone's Audio Upgrade Discover Best Software for YouTube-to-MP3</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-pioneering-filmmakers-using-vimeo-for-live-captures-for-2024/"><u>[Updated] Pioneering Filmmakers Using Vimeo for Live Captures for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instagramsns/"><u>「Instagramや他のSNSへ投稿前に、動画をいかにして完璧な正方形サイズに調整するか」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/itunesmp3/"><u>「ITunesでMP3を再生できない？解決策と原因考察」</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-key-to-success-perfecting-your-online-yt-presence/"><u>2024 Approved The Key to Success Perfecting Your Online YT Presence</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/boost-your-broadband-with-the-powerful-netgear-nighthawk-x4-mesh-wi-fi-router-a-thorough-review/"><u>Boost Your Broadband with the Powerful Netgear Nighthawk X4 Mesh Wi-Fi Router - A Thorough Review</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-enable-video-looping-feature-in-vlc-player-quick-and-easy-methods/"><u>How to Enable Video Looping Feature in VLC Player - Quick and Easy Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iwara/"><u>Iwaraコンテンツをダウンロード保存するための詳細な手順: 最強の方法</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-jailbreak-joy-top-funny-faces-at-the-social-networks-limits/"><u>[New] 2024 Approved Jailbreak Joy - Top Funny Faces at the Social Network’s Limits</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-content-redistribution-hacks-for-instagramers/"><u>[Updated] Content Redistribution Hacks for Instagramers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-the-power-of-visual-education-techniques/"><u>[Updated] Harnessing the Power of Visual Education Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-free-substitutes-for-openais-sora/"><u>Best Free Substitutes for OpenAI's Sora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-flawed-yet-relatable-protagonists-through-gpt-prompts/"><u>Crafting Flawed Yet Relatable Protagonists Through GPT Prompts</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-contacts-from-zte-blade-a73-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from ZTE Blade A73 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-as-a-language-translation-tool/"><u>How to Use ChatGPT as a Language Translation Tool</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-senior-cell-plans-the-top-7-picks-of-2024-unveiled/"><u>Navigating Senior Cell Plans: The Top 7 Picks of 2024 Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-google-pixel-9-a-trailblazer-in-safety-with-newly-integrated-satellite-distress-messaging-feature-technewstoday/"><u>The Google Pixel 9: A Trailblazer in Safety with Newly Integrated Satellite Distress Messaging Feature | TechNewsToday</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Access to the Best Laptop Bargains for Prime Day: HP, Apple, Razer Among Others Featured by ZDNET"
-date: 2024-10-26T16:27:01.483Z
-updated: 2024-11-01T16:18:23.185Z
+date: 2024-10-30T21:40:49.248Z
+updated: 2024-11-06T19:57:47.398Z
 tags:
   - apple
 categories:
@@ -91,13 +91,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c1a7257-c46c-43e1-8ab6-edddd01a3ba5%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c1a7257-c46c-43e1-8ab6-edddd01a3ba5%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day HP laptop deals
 
 HPZDNET
@@ -106,19 +99,19 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c1a7257-c46c-43e1-8ab6-edddd01a3ba5%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c1a7257-c46c-43e1-8ab6-edddd01a3ba5%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c1a7257-c46c-43e1-8ab6-edddd01a3ba5%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c1a7257-c46c-43e1-8ab6-edddd01a3ba5%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -129,6 +122,19 @@ Kyle Kucharski/ZDNET
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -136,6 +142,13 @@ Kyle Kucharski/ZDNET
 * [ASUS ROG Strix G16 for $1,289 (save $110)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-ROG-Strix-Gaming-Laptop%2Fdp%2FB0CRDCXRK2%2Fref%3Dsr%5F1%5F16%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c1a7257-c46c-43e1-8ab6-edddd01a3ba5%7Cdtp&dtb=1): If you're looking for a deal on a high-tier gaming laptop, 2024's 16-inch ROG model is a beast with an NVIDIA GeForce RTX 4060 graphics card and Intel Core i7 processor for just $1,099.
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c1a7257-c46c-43e1-8ab6-edddd01a3ba5%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5c1a7257-c46c-43e1-8ab6-edddd01a3ba5%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -152,10 +165,10 @@ There are a lot of great gaming laptops on sale right now, but in our opinion, [
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
@@ -164,22 +177,15 @@ At ZDNET, we only write about deals our team members would want to buy -- device
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When will these deals expire?
 
 Prime Day 2024 has ended, so deals are subject to sell out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What are the best Prime Day 2024 deals still available?
@@ -245,18 +251,14 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-comprehensive-logitech-4k-cam-review-for-ultimate-video-quality/"><u>[New] Comprehensive Logitech 4K Cam Review for Ultimate Video Quality</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-maximize-engagement-and-impact-premier-tracking-applications-for-content-creators/"><u>[New] In 2024, Maximize Engagement and Impact Premier Tracking Applications for Content Creators</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-capturing-clarity-in-close-ups-the-filmmakers-kinemaster-guide/"><u>[Updated] In 2024, Capturing Clarity in Close-Ups The Filmmaker’s Kinemaster Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-prime-8-chart-tracer-apex-of-youtube-rankings/"><u>[Updated] Prime 8 Chart Tracer Apex of YouTube Rankings</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/cu-tudou/"><u>「土�cu� (Tudou)で動画を安全に保存する手順」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-mp3-audio-to-high-quality-m2ts-video-movavi/"><u>Free Online Converter: Transform MP3 Audio to High-Quality M2TS Video - Movavi</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/e-conversations-top-10-creative-reaction-insights-for-videos-for-2024/"><u>Ignite Conversations Top 10 Creative Reaction Insights for Videos for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/stream-smarter-comparing-roku-and-fire-tv-stick-to-find-your-ideal-choice/"><u>Stream Smarter: Comparing Roku and Fire TV Stick to Find Your Ideal Choice</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-uncovering-the-latest-in-computer-components/"><u>Tom's Tech Insights: Uncovering the Latest in Computer Components</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformez-facilement-vos-fichiers-ppm-en-png-solutions-libres-de-charge-par-movavi/"><u>Transformez Facilement Vos Fichiers PPM en PNG - Solutions Libres De Charge Par Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trasforma-i-tuoi-file-3gpp-in-mp4-senza-costi-usando-movavi-guida-rapida-online/"><u>Trasforma I Tuoi File 3GPP in MP4 Senza Costi Usando Movavi - Guida Rapida Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-the-legality-of-secretly-recording-conversations-do-you-need-consent/"><u>Understanding the Legality of Secretly Recording Conversations: Do You Need Consent?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-online-dailymotion-downloader-and-converter/"><u>Updated Free Online Dailymotion Downloader and Converter</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-androids-animal-world-simulator-games-roundup/"><u>[Updated] In 2024, Android's Animal World Simulator Games Roundup</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-step-by-step-guide-to-crafting-compelling-squares-for-facebook-for-2024/"><u>[Updated] Step-by-Step Guide to Crafting Compelling Squares for Facebook for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquering-chatgpt-api-utilization-techniques/"><u>Conquering ChatGPT: API Utilization Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forge-bonds-faster-with-ai-love-assistant/"><u>Forge Bonds Faster with AI Love Assistant</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-from-concept-to-completion-using-magix-video-pro-x/"><u>In 2024, From Concept to Completion Using Magix Video Pro X</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-nubia-red-magic-8s-proplus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Nubia Red Magic 8S Pro+ to New Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/security-concerns-how-safe-is-chatgpt/"><u>Security Concerns: How Safe Is ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/token-renaissance-with-gemini-15s-million-dollar-shift/"><u>Token Renaissance with Gemini 1.5'S Million-Dollar Shift</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transforming-trending-searches-into-video-concepts-for-2024/"><u>Transforming Trending Searches Into Video Concepts for 2024</u></a></li>
 </ul></div>
 

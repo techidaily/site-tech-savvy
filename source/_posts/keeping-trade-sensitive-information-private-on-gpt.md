@@ -1,7 +1,7 @@
 ---
 title: Keeping Trade Sensitive Information Private on GPT
-date: 2024-09-14T16:41:09.266Z
-updated: 2024-09-17T16:21:57.748Z
+date: 2024-11-01T08:51:19.519Z
+updated: 2024-11-06T20:18:35.307Z
 tags:
   - chatgpt
   - open-ai
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 
  Tip: If you need access to your data on ChatGPT, export them first. You can also save them by taking screenshots, writing notes manually, copy-pasting them into a separate application, or using secure cloud storage.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Delete Conversations
 
  One of the [big problems with OpenAI’s ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is potential data breaches. The ChatGPT outage that prompted an investigation by the Federal Trade Commission shows just how risky it is to use the app.
@@ -59,7 +66,21 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
 
@@ -85,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 
  Anonymization is not foolproof since data can be de-anonymized. Understand [de-anonymization and how to prevent it](https://www.makeuseof.com/what-is-de-anonymization/) before utilizing any of these techniques. Evaluate the risks before you release anonymized data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Limit Access to Sensitive Data
 
  Limiting access to sensitive work data is crucial when workers are allowed to use ChatGPT. If you’re working in a leadership role, restrict access to sensitive information to authorized personnel who require it for their specific roles.
@@ -99,16 +113,16 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
  Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Be Wary of Third-Party Apps
@@ -138,5 +152,17 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-canvas-hidden-power-ups-for-stunning-visuals/"><u>[New] Canva's Hidden Power-Ups for Stunning Visuals</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-scaling-up-a-creators-guide-to-major-content-partnerships/"><u>[New] In 2024, Scaling Up A Creator's Guide to Major Content Partnerships</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-obs-skype-screen-recording-for-2024/"><u>[New] Step-by-Step OBS Skype Screen Recording for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-chatcam-video-saver-app/"><u>2024 Approved ChatCam Video Saver App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-auto-gpt-hold-up-without-gpt-4/"><u>Does Auto-GPT Hold Up Without GPT-4?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-your-footage-with-fast-and-flawless-trims-in-windows-11/"><u>Transform Your Footage with Fast & Flawless Trims in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-creativity-9-gpt-methods-to-write-a-novel/"><u>Unleashing Creativity: 9 GPT Methods to Write a Novel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-freelance-potential-with-chatgpts-six-pathways/"><u>Unlocking Freelance Potential with ChatGPT's Six Pathways</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-razer-book-13s-capabilities-and-performance-expert-evaluation/"><u>Unpacking the Razer Book 13'S Capabilities and Performance - Expert Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-your-timepiece-comparing-the-apple-watch-series-10-with-series/"><u>Upgrading Your Timepiece: Comparing the Apple Watch Series 10 with Series</u></a></li>
+</ul></div>
 

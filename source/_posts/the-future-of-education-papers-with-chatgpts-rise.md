@@ -1,7 +1,7 @@
 ---
 title: The Future of Education Papers with ChatGPT's Rise
-date: 2024-09-13T16:07:51.808Z
-updated: 2024-09-17T16:34:26.717Z
+date: 2024-11-01T09:51:46.422Z
+updated: 2024-11-07T08:04:25.209Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
  Furthermore, the [Western Sydney University Library](https://www.westernsydney.edu.au/%5F%5Fdata/assets/pdf%5Ffile/0005/1082498/Essay%5FPurpose.pdf) (PDF) states that an essay's purpose is to "persuade the reader that your position is credible (i.e., believable and reasonable)." This means that a student shouldn't just argue their case in an essay, but they should do so in a logical way.
 
  So, for many professors, the student essay is an excellent tool for developing critical thinking. It's also not as taxing for the students since most essays are take-home assignments.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Libraries, Internet Search, and Analytical Thinking vs. ChatGPT
 
@@ -80,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 
  In short, AI is a powerful learning tool, but it's just a tool nonetheless. Students must still use their critical thinking to produce their final output. So, whether you're a student or a professional, you must ensure that you use ChatGPT ethically—and here are some [ways writers and editors can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AI as a Cheating Tool: Making Plagiarism Much Easier and Harder to Detect
 
 ![student cheating on an exam with their phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-cheating-on-an-exam-with-their-phone-2.jpg)
@@ -95,21 +109,22 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
  Because of this, educators must find ways to make student essays more robust. For example, they can no longer assign general topics—like a book report on The Great Gatsby—because it's easy for students to ask ChatGPT or any other generative AI tool to write it for them.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Student Essays Need to Evolve to Survive AI
 
  So, how can teachers, professors, and educators change the student essay to make it evolve with AI?
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Make the Questions More Pointed or Personal
 
@@ -118,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 ### Write Essay Questions in the Context of Current Events
 
 ![news and current affairs on a newspaper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/news-and-current-affairs-on-a-newspaper.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The free version of ChatGPT, the most popular generative AI today, is only updated up to September 2021 at the time of writing. So, it would help to ask essay questions relating to events that happened in the past three months.
 
@@ -136,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 
  This ensures that the students are truly knowledgeable in their assigned topic. And to further the discussion, the professor should encourage the student audience to ask questions. This will help the reporting student or group and the rest of the class think analytically.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Essays Should Be Written Offline During Class or Exams
 
  If an essay is the best way to determine a student's understanding of a topic, then it should be limited in the classroom during on-paper exams. That way, the student must rely solely on their knowledge to explain a topic.
@@ -150,10 +151,10 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 ![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Essays Can Still Gauge Student Knowledge and Competence
@@ -181,5 +182,20 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-bright-ideas-in-film-setup-secrets-to-perfect-lighting/"><u>[New] Bright Ideas in Film Setup Secrets to Perfect Lighting</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-concluding-your-instagram-journey-a-detailed-breakdown/"><u>[Updated] 2024 Approved Concluding Your Instagram Journey A Detailed Breakdown</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-techniques-for-successfully-incorporating-a-streaming-youtube-playlist/"><u>[Updated] 2024 Approved Techniques for Successfully Incorporating a Streaming YouTube Playlist</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-game-on-6-efficient-techniques-for-perfect-pc-snapshots/"><u>[Updated] In 2024, Game On 6 Efficient Techniques for Perfect PC Snapshots</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-innovative-ways-to-document-your-virtual-sessions-mac-and-pc-edition/"><u>[Updated] In 2024, Innovative Ways to Document Your Virtual Sessions - Mac & PC Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/challenging-the-norm-bank-cio-advocates-bold-thinkers-to-push-ais-limits-not-just-simple-prompt-makers/"><u>Challenging the Norm: Bank CIO Advocates Bold Thinkers to Push AI's Limits, Not Just Simple Prompt Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-programming-bootcamp-providers-for-2e22-a-comprehensive-guide-by-zdnet/"><u>Discover the Leading Programming Bootcamp Providers for 2E22: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-depth-sony-bravia-theater-u-evaluation-my-surprisingly-positive-impressions-of-the-neck-speaker/"><u>In-Depth Sony Bravia Theater U Evaluation: My Surprisingly Positive Impressions of the Neck Speaker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-transition-securing-a-spot-in-technology-with-your-mba-insights-from-zdnet/"><u>Mastering the Transition: Securing a Spot in Technology with Your MBA - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-hazy-results-of-modern-ai-systems-insights-from-zdnet/"><u>Navigating the Hazy Results of Modern AI Systems - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-balance-of-telecommuting-vs-office-presence-visible-benefits-with-potential-pitfalls-ahead/"><u>The Balance of Telecommuting Vs. Office Presence: Visible Benefits with Potential Pitfalls Ahead</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211247200-9781507209752-the-little-book-of-self-care-for-virgo/"><u>The Little Book of Self-Care for Virgo | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-free-artificial-intelligence-course-options-is-investing-in-an-ai-certificate-beneficial/"><u>Top-Ranking Free Artificial Intelligence Course Options: Is Investing in an AI Certificate Beneficial?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master Tips on Recovering Lost AirPods & Avoiding Repeated Misplacement | ZDNET
-date: 2024-10-30T17:06:08.594Z
-updated: 2024-11-01T16:32:30.128Z
+date: 2024-10-31T09:06:08.040Z
+updated: 2024-11-06T22:29:11.615Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ Those sneaky little earbuds can walk away from us, but luckily the AirPods have 
 ## How to find your lost AirPods
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Set up Find My ASAP
@@ -43,6 +43,13 @@ Nina Raemont/ZDNET
 
 First and foremost, set up Find My. Find My, one of the native apps on your iPhone and iPad, will become your best friend when you begin a search for lost devices like AirPods or Apple Watches. Note: You'll want to set up Find My as soon as possible, because you can't locate your AirPods through Find My _after_ you've lost them. If your AirPods are already set up on Find My, go to the next step. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Open Find My
 
 Nina Raemont/ZDNET
@@ -50,10 +57,10 @@ Nina Raemont/ZDNET
 Open the Find My app, then toggle to the Devices tab to select your AirPods, which you've registered on Find My. If your AirPods are nearby, they'll appear on the map. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Play sound to find AirPods
@@ -62,22 +69,15 @@ Nina Raemont/ZDNET
 
 Click the Play Sound feature to locate your earbuds. You'll hear a ringing sound near you. It's important to know that at least one of the two earbuds must be out of its charging case or it won't play a sound. You can play sound for the left and right earbuds by tapping L or R. Once you've found them, you can hit stop. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will this work if I've lost my AirPods while they're in the charging case?
 
 If you've lost your AirPods while they're in the charging case, it gets harder to locate them on Find My.The Find My map will show the most recent location where the case was last opened, but won't be updated to their current location if they've been moved since they were last used.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can you locate AirPods that aren't online?
@@ -114,21 +114,24 @@ Unfortunately, no. They need to be online and connected to Find My to easily loc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-fbx-methods-for-perfect-gaming-saves-for-2024/"><u>[New] FBX Methods for Perfect Gaming Saves for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-grasping-video-aspect-ratios-a-beginners-tale-for-2024/"><u>[New] Grasping Video Aspect Ratios A Beginner’s Tale for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-expert-methods-for-incorporating-links-into-tiktok-bios/"><u>[New] In 2024, Expert Methods for Incorporating Links Into TikTok Bios</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-expertly-slice-your-videos-macs-finest-mp4-applications-for-2024/"><u>[Updated] Expertly Slice Your Videos Mac's Finest MP4 Applications for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-learn-to-craft-eye-catching-youtube-thumbnails-using-your-phone/"><u>2024 Approved Learn to Craft Eye-Catching YouTube Thumbnails Using Your Phone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-pinnacle-of-image-capture-highlighting-the-best-10-4k-phone-cameras/"><u>2024 Approved Pinnacle of Image Capture Highlighting the Best 10 4K Phone Cameras</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/elevate-your-gaming-experience-innovative-ways-to-record-vr-games-for-2024/"><u>Elevate Your Gaming Experience Innovative Ways to Record VR Games for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-12-mini-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 12 mini Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-wonderfox-assistance-hub-comprehensive-user-handbook/"><u>Navigating the WonderFox Assistance Hub – Comprehensive User Handbook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pc-iphoneandroidaac/"><u>PC, iPhone、Androidを使用してAAC形式のオーディオファイルを再生するための解決策</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/png/"><u>PNG画像をビデオに変換する詳細ガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preserve-your-movie-night-magic-with-a-the-croods-dvd-copy/"><u>Preserve Your Movie Night Magic with a 'The Croods' DVD Copy!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-simple-guide-converting-videos-to-mobile-friendly-format-in-seconds/"><u>Quick & Simple Guide: Converting Videos to Mobile-Friendly Format in Seconds!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-conversion-techniques-transforming-m2ts-files-into-mkv-format/"><u>Seamless Conversion Techniques: Transforming M2TS Files Into MKV Format</u></a></li>
-<li><a href="https://games-able.techidaily.com/speed-demons-unite-skyrocketing-fps-in-counter-strike/"><u>Speed Demons Unite! Skyrocketing FPS in Counter-Strike</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-mp3-files-into-aiff-format-on-mac-pc-or-online/"><u>Step-by-Step Guide: Converting MP3 Files Into AIFF Format on Mac, PC, or Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-essential-guide-to-top-analytics-platforms-for-better-instagram-metrics-for-2024/"><u>[New] The Essential Guide to Top Analytics Platforms for Better Instagram Metrics for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-mighty-flyers-best-drones-for-maximum-load-for-2024/"><u>[New] The Mighty Flyers Best Drones for Maximum Load for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essentials-unleashed-8-products-that-are-changing-the-business-landscape/"><u>[Updated] Essentials Unleashed 8 Products That Are Changing the Business Landscape</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-capturing-moments-to-sharing-them-editing-with-adobe-premiere-for-2024/"><u>[Updated] From Capturing Moments to Sharing Them Editing with Adobe Premiere for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-who-wins-in-video-quality-comparing-av1-to-vp9-for-2024/"><u>[Updated] Who Wins in Video Quality? Comparing AV1 to VP9 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/80-less-on-the-apple-watch-se-2nd-generation-post-prime-day-bargains-insights/"><u>$80 Less on the Apple Watch SE (2Nd Generation): Post-Prime Day Bargains - Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-advanced-strategies-in-ps3-gaming-broadcasting/"><u>2024 Approved Advanced Strategies in PS3 Gaming Broadcasting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-adventures-strategies-to-transform-your-dungeons-and-dragons/"><u>Augmented Adventures: Strategies to Transform Your Dungeons & Dragons</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-ai-redefining-smartwatch-functionality-with-gpts-6-tactics/"><u>Conversational AI Redefining Smartwatch Functionality with GPT's 6 Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forging-an-ai-that-harmonizes-with-humanity/"><u>Forging an AI that Harmonizes with Humanity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spotify-how-to-stop-seeing-podcast-recommendations/"><u>In 2024, Spotify How to Stop Seeing Podcast Recommendations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-pros-and-cons-of-using-vidma-as-a-screen-grabber/"><u>In 2024, The Pros & Cons of Using Vidma as a Screen Grabber</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-investing-in-exclusive-ai-craftsmanship-worthwhile/"><u>Is Investing in Exclusive AI Craftsmanship Worthwhile?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-iphone-call-capture-techniques-and-understanding-local-laws-with-tips/"><u>Mastering iPhone Call Capture Techniques and Understanding Local Laws with Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-labor-day-offer-save-700-on-the-amazing-2022-ipad-pro-exclusive-deals-from-zdnet/"><u>Unbeatable Labor Day Offer: Save $700 on the Amazing 2022 iPad Pro - Exclusive Deals From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-self-ai-wisdom-from-chatgpt/"><u>Unlock the Full Potential of Self: AI Wisdom From ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-upgrading-to-macos-1441-is-now-safer-for-your-apple-device-insights-by-zdnet/"><u>Why Upgrading to macOS 14.4.1 Is Now Safer for Your Apple Device - Insights by ZDNET</u></a></li>
 </ul></div>
 

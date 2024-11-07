@@ -1,7 +1,7 @@
 ---
 title: Testing ChatGPT for Cocktail Wizardry
-date: 2024-10-25T18:47:40.906Z
-updated: 2024-11-01T18:28:46.972Z
+date: 2024-11-05T06:56:39.177Z
+updated: 2024-11-07T09:06:14.452Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 
  As long as your prompts are sound, the AI chatbot should deliver. So, let's test that theory.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Testing ChatGPT's Abilities as a Bartender
 
  I started out with a simple request before moving on to more difficult requests. And the results were interesting, to say the least. I have paraphrased the prompts used as there was often a back-and-forth needed to get ChatGPT to deliver.
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
@@ -69,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
  I did follow up by asking for some tweaks I could make, resulting in some ideas for variations on the Old-Fashioned for another time. This included using maple syrup instead of simple syrup (as Canadians do), using flavored whiskies rather than straight bourbon or rye, and adding smoked ingredients such as oak chips.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Prompt 3: "Please Tweak a Classic Cocktail to Make It Even Better."
@@ -85,7 +78,21 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 
 ![pina-colada-with-a-twist-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pina-colada-with-a-twist-cocktail.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prompt 4: "Please Create a New, Wholly Original Cocktail."
 
@@ -101,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
 
  Last but not least, I wanted to see how well ChatGPT could adapt to specific needs at specific times. So I asked it to suggest a refreshing, satisfying cocktail to drink on a midweek evening after the sun has set. After initially suggesting a simple Mojito followed by a Rum Sour (neither of which I had all the ingredients for), ChatGPT suggested an Orange Blossom (four parts gin, two parts freshly squeezed orange juice, and one part simple syrup).
@@ -117,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## So, Is ChatGPT Good at Making Cocktails?
@@ -164,22 +164,24 @@ thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/1-bbc/"><u>1. BBCニュースのライブビデオダウンロード手順</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-transform-avi-files-into-high-definition-hd-videos-perfectly-displayed-on-hd-screens/"><u>1. Transform AVI Files Into High Definition (HD) Videos Perfectly Displayed on HD Screens</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726026372099-dvd/"><u>新しいDVD視聴に失敗する主な理由と解決策</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ace-your-match-in-apex-legends-by-correcting-error-23-with-these-pro-tips/"><u>Ace Your Match in Apex Legends by Correcting Error 23 with These Pro Tips!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/all-about-it-understanding-googles-podcast-service/"><u>All About It Understanding Google's Podcast Service</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-top-5-zero-cost-windows-screen-recorder-tools-for-2024/"><u>Best Top 5 Zero-Cost Windows Screen Recorder Tools for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-limitations-demystified-a-list-of-7-unprocessable-queries/"><u>ChatGPT's Limitations Demystified: A List of 7 Unprocessable Queries</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-streamline-and-enhance-your-filmmaking-an-intro-to-final-cut-pro/"><u>In 2024, Streamline and Enhance Your Filmmaking An Intro to Final Cut Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-pop-7-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Tecno Pop 7 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-tech-choices-understanding-key-divergences-between-mac-and-pc/"><u>Navigating Tech Choices: Understanding Key Divergences Between Mac and PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-enhancing-audio-quality-by-adjusting-wav-bitrate/"><u>Step-by-Step Guide: Enhancing Audio Quality by Adjusting WAV Bitrate</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-instructions-for-fixing-and-retrieving-files-from-divided-drives/"><u>Step-by-Step Instructions for Fixing and Retrieving Files From Divided Drives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-transforming-m4a-into-wav-format-using-audacity-software/"><u>Step-by-Step Tutorial on Transforming M4A Into WAV Format Using Audacity Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-all-in-one-video-editor-and-compressor-edit-plus-shrink-your-footage/"><u>Top-Rated All-in-One Video Editor & Compressor: Edit Plus Shrink Your Footage!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-resolving-tormented-souls-crashes-on-desktops/"><u>Troubleshooting Tips for Resolving Tormented Souls Crashes on Desktops</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-free-windows-11-dvd-authoring-software-in-202n4-burn-faster-better-quality-discs/"><u>Ultimate Guide to Free Windows 11 DVD Authoring Software in 202N4 – Burn Faster, Better Quality Discs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-how-to-safely-rip-burn-and-copy-content-from-your-dvds-and-cds/"><u>Ultimate Guide: How To Safely Rip, Burn & Copy Content From Your DVDs And CDs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-voice-over-techniques-creating-compelling-video-content/"><u>[New] Voice Over Techniques Creating Compelling Video Content</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-amplify-tiktok-fame-in-just-a-minute-crucial-steps-unveiled/"><u>[Updated] Amplify TikTok Fame in Just a Minute - Crucial Steps Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-becoming-a-youtube-guru-essential-production-know-how-for-2024/"><u>[Updated] Becoming a YouTube Guru Essential Production Know-How for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-budget-gaming-accessories-keyboards-and-mice-under-99-for-2024/"><u>Best Budget Gaming Accessories Keyboards & Mice Under $99 for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delve-into-ais-directive-abilities-with-custom-chatgpt-commands/"><u>Delve Into AI's Directive Abilities with Custom ChatGPT Commands</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ensuring-satisfaction-top-5-tips-for-enjoying-every-cent-spent-on-your-peacock-investment/"><u>Ensuring Satisfaction: Top 5 Tips for Enjoying Every Cent Spent on Your Peacock Investment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-store-upgrades-transforming-gpt-plugins-interface/"><u>Essential Store Upgrades: Transforming GPT Plugins' Interface</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-6s-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 6s (4 Methods) | Stellar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-financial-data-safe-from-gpt-powered-cyberattacks/"><u>Is Your Financial Data Safe From GPT-Powered Cyberattacks?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/job-seekers-delight-writing-irresistible-cover-letters-using-ai/"><u>Job Seekers Delight: Writing Irresistible Cover Letters Using AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personal-project-excellence-via-innovative-ai-tech/"><u>Personal Project Excellence via Innovative AI Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-into-the-rights-behind-machine-made-masterpieces/"><u>Probing Into the Rights Behind Machine-Made Masterpieces</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/professionelle-software-zur-datenwanderung-von-samsung-auf-windows-781011-empfehlungen-und-bewertungen/"><u>Professionelle Software Zur Datenwanderung Von Samsung Auf Windows 7/8/10/11 - Empfehlungen Und Bewertungen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smarter-research-at-fingertips-choose-perplexity-ai/"><u>Smarter Research at Fingertips: Choose Perplexity AI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-adding-your-driving-permit-to-apple-wallet-on-ios-devices-compatibility-based-on-location/"><u>Step-by-Step Guide: Adding Your Driving Permit to Apple Wallet on iOS Devices – Compatibility Based on Location</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/techniques-to-keep-conversations-out-of-gpts-archive/"><u>Techniques to Keep Conversations Out of GPT's Archive</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/oundational-steps-to-your-distinctive-marketing-voice-for-2024/"><u>The Foundational Steps to Your Distinctive Marketing Voice for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-latest-upgrade-for-photography-enthusiasts-exploring-iphone-ns-revolutionary-camera-button-gadget-digest/"><u>The Latest Upgrade for Photography Enthusiasts: Exploring iPhone N's Revolutionary Camera Button | Gadget Digest</u></a></li>
 </ul></div>
 

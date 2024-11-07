@@ -1,7 +1,7 @@
 ---
 title: Revolutionizing Prototyping via ChatGPT Techniques
-date: 2024-09-13T16:24:30.185Z
-updated: 2024-09-17T16:12:54.415Z
+date: 2024-11-06T02:18:18.239Z
+updated: 2024-11-07T09:52:14.129Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
 ![Male designer facing a computer, working on 3D furniture models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/male-designer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [STL is the most commonly used file format for 3D printing](https://www.makeuseof.com/what-is-an-stl-file-what-is-it-used-for/). An STL file stores sets of instructions that enable CAD and slicer software to build a 3D model that was saved elsewhere or made at a different time. Thanks to their simplicity, ChatGPT can generate simple STL files for you.
 
  Let’s start with a simple 3D model and ask ChatGPT to generate a cube in the STL format. It’s important to be specific with your request to ensure that ChatGPT understands what you’re asking for. In this case, it’s worth specifying that you want your STL file in ASCII format to make it easier to read.
@@ -51,6 +58,13 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
  Provide ChatGPT with the request “Generate a 3D model of a cube using ASCII STL format” and wait for it to provide a response. You should see a small piece of code and a brief explanation of how it works below.
 
 ![ChatGPT generating a cube STL file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-generate-cube-stl.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Copy the text from the window and paste it into a blank notepad file. When you save the file, make sure that you change the extension to “.stl”. Now you can load the file into your slicer software of choice and prepare it for 3D printing.
 
@@ -68,24 +82,25 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 
 ![ChatGPT generated Blender Python script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-cube-python.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have your script copied, you can load up Blender and head to the Scripting workspace. By default, you should see a script console on the left of the screen. Paste the ChatGPT-generated script into the console pane and hit the **Enter** key to see your 3D model appear in the 3D workspace.
 
 ![Blender script generated cube](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/blender-script-generated-cube.jpg)
 
- Like when generating an STL file with ChatGPT, there are limitations in place that mean that the chatbot won’t try to create scripts that are too time-consuming. Thankfully, though, you can find paid services around the web that expand ChatGPT’s script-writing abilities. You can [learn how to access GPT-4](https://www.makeuseof.com/how-to-use-gpt4/) to enhance your 3D printing even further.
-
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Like when generating an STL file with ChatGPT, there are limitations in place that mean that the chatbot won’t try to create scripts that are too time-consuming. Thankfully, though, you can find paid services around the web that expand ChatGPT’s script-writing abilities. You can [learn how to access GPT-4](https://www.makeuseof.com/how-to-use-gpt4/) to enhance your 3D printing even further.
 
 ## How Else Can ChatGPT Help With 3D Printing?
 
@@ -95,13 +110,6 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
 * **3D Model Prompts**: You can ask ChatGPT to provide 3D modeling prompts. Prompts like this make it easier to tackle complex 3D modeling tasks, while also enabling you to get third-party tools involved.
 * **Third-Party Add-Ons**: Most 3D modeling applications have add-ons available that enable you to use ChatGPT to help with your 3D design. Some of these tools use the prompts generated by ChatGPT to make 3D models, while others rely on auto-generated scripts to work.
 * **3D Printer Settings**: [Choosing the correct settings for the material you are 3D printing with](https://www.makeuseof.com/fdm-3d-printer-settings-and-what-they-do/) is a challenge, especially when you encounter defects and issues with your prints. You can use ChatGPT to troubleshoot your 3D printer settings and help you choose the best ones for your prints.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Getting the Most Out of ChatGPT for 3D Printing
 
@@ -124,5 +132,19 @@ This is blurry because it's printing so fast! (James Bruce / MakeUseOf)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-launching-into-the-spotlight-instagram-lives/"><u>[New] In 2024, Launching Into the Spotlight Instagram Lives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unique-concepts-for-enhancing-fb-video-marketing-impact-for-2024/"><u>[Updated] Unique Concepts for Enhancing Fb Video Marketing Impact for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensible-guide-to-srt-fundamentals/"><u>2024 Approved A Comprehensible Guide to SRT Fundamentals</u></a></li>
+<li><a href="https://fox-links.techidaily.com/beyond-wonders-the-unseen-disadvantages-in-vr-for-2024/"><u>Beyond Wonders The Unseen Disadvantages in VR for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-limitless-potential-of-imagination-using-free-dall-e-3-on-bing/"><u>Explore the Limitless Potential of Imagination: Using Free DALL-E 3 on Bing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-compatibility-making-corsair-icue-functional-on-windows-11-pcs/"><u>Fixing Compatibility: Making Corsair iCUE Functional on Windows 11 PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ai-challenge-gpt-vs-microsoft-and-google-rivalries/"><u>The Ultimate AI Challenge: GPT Vs. Microsoft & Google Rivalries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-usefulness-of-gpt-plugins-in-action/"><u>The Usefulness of GPT Plugins in Action</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-technical-operation-of-gpt-4-in-7-apps/"><u>Understanding the Technical Operation of GPT-4 in 7 Apps</u></a></li>
+<li><a href="https://win-unique.techidaily.com/warum-sind-pdf-erstellungsprogramme-nicht-verfugbar-ein-blick-auf-das-problem-der-fehlenden-dateien/"><u>Warum Sind PDF Erstellungsprogramme Nicht Verfügbar? - Ein Blick Auf Das Problem Der Fehlenden Dateien</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-guide-spotting-active-tcp-connections/"><u>Windows Guide: Spotting Active TCP Connections</u></a></li>
+</ul></div>
 

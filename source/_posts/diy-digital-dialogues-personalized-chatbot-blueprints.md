@@ -1,7 +1,7 @@
 ---
 title: "DIY Digital Dialogues: Personalized ChatBot Blueprints"
-date: 2024-09-11T16:03:01.145Z
-updated: 2024-09-17T16:31:18.429Z
+date: 2024-11-06T01:54:18.329Z
+updated: 2024-11-07T08:51:54.151Z
 tags:
   - chatgpt
   - open-ai
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
 
 **Download:** [ChatGPT-retrieval script](https://github.com/techleadhd/chatgpt-retrieval) (Free)
@@ -86,33 +93,33 @@ pip install langchain openai chromadb tiktoken unstructured
 
 ![Creating secret API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/generate-api-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will be provided with a string of characters. This is your OpenAI API key. Copy it by clicking on the copy icon on the side of the API key. Keep note that this API key should be kept secret. Do not share it with others unless you really intend for them to use it with you.
 
  Once copied, return to the chatgpt-retrieval-main folder and open constants with **Notepad**. Now replace the placeholder with your API key. Remember to save the file!
 
 ![Adding API key as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-api-key.jpg)
 
- Now that you have successfully set up your virtual environment and added your OpenAI API key as an environment variable. You can now provide your custom data to ChatGPT.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now that you have successfully set up your virtual environment and added your OpenAI API key as an environment variable. You can now provide your custom data to ChatGPT.
 
 ## Step 3: Adding Custom Data
 
  To add custom data, place all your custom text data in the **data** folder within chatgpt-retrieval-main. The format of the text data may be in the form of a PDF, TXT, or DOC.
 
 ![Adding custom data for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-data.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on [AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/), and a PDF document.
 
@@ -131,16 +138,10 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 ![Testing ChatGPT with custom data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/visit.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It worked! This means ChatGPT was able to read the Personal Sched.txt provided earlier. Now let's see if we have successfully fed ChatGPT with information it does not know due to its knowledge cutoff date.
@@ -148,19 +149,20 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 ![Asking custom ChatGPT about topic outside knowledge cut off data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/m250x.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Limitations of Custom ChatGPT
 
@@ -193,5 +195,23 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-expert-audio-guide-for-vloggers/"><u>[New] 2024 Approved Expert Audio Guide for Vloggers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-prime-fast-windows-photo-displayer/"><u>[New] 2024 Approved Prime Fast Windows Photo Displayer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-learn-how-to-change-your-in-game-characters-vocal-presence-with-ease-for-free/"><u>[New] Learn How to Change Your In-Game Character's Vocal Presence with Ease - For FREE</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-in-class-slideshow-maker-xi-to-x-series-iphones/"><u>[Updated] Best-in-Class Slideshow Maker XI to X Series iPhones</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/5-preferred-sites-to-download-dynamic-and-versatile-text-effects-for-2024/"><u>5 Preferred Sites to Download Dynamic and Versatile Text Effects for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anker-bluetooth-speaker-review-high-quality-sound-at-surprisingly-low-prices-according-to-zdnet/"><u>Anker Bluetooth Speaker Review: High-Quality Sound at Surprisingly Low Prices, According to ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-note-taking-simplified-an-ultimate-voice-guide/"><u>Digital Note-Taking Simplified An Ultimate Voice Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-your-dreams-with-this-magic-light-projection-system-the-ultimate-smart-home-upgrade/"><u>Discover Your Dreams with This Magic Light Projection System - The Ultimate Smart Home Upgrade!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/get-helpful-assistance-setup-stellar-devicesapps/"><u>Get Helpful Assistance: Setup Stellar Devices/Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grab-the-perfect-bluetooth-sound-companion-get-your-handheld-aqua-proof-jbl-charge-4-for-a-steal-at-just-89-on-black-friday-from-walmart/"><u>Grab the Perfect Bluetooth Sound Companion! Get Your Handheld, Aqua-Proof JBL Charge 4 for a Steal at Just $89 on Black Friday From Walmart!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-itel-s23plus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Itel S23+ Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/switching-up-my-audio-game-how-i-traded-in-my-premium-soundbar-for-a-jbl-a-pleasant-surprise-zdnet/"><u>Switching Up My Audio Game: How I Traded In My Premium Soundbar for a JBL - A Pleasant Surprise! | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-a-high-quality-alternative-to-bosesonys-speakers-a-zdnet-expert-test-finds-the-best/"><u>The Ultimate Guide to Choosing a High-Quality Alternative to Bose/Sony's Speakers: A ZDNET Expert Test Finds the Best</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-gaming-headsets-comprehensive-reviews-by-tech-experts-techadvisor/"><u>Top-Ranked Gaming Headsets : Comprehensive Reviews by Tech Experts | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-audio-experience-discover-the-ultimate-non-vizio-non-jbl-soundbar-insights-from-a-tech-expert/"><u>Top-Ranking Audio Experience: Discover the Ultimate Non-Vizio, Non-JBL Soundbar - Insights From a Tech Expert</u></a></li>
+</ul></div>
 

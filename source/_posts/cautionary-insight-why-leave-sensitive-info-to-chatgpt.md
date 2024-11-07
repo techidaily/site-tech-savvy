@@ -1,7 +1,7 @@
 ---
 title: "Cautionary Insight: Why Leave Sensitive Info to ChatGPT?"
-date: 2024-09-16T16:34:21.418Z
-updated: 2024-09-17T16:24:49.741Z
+date: 2024-11-05T22:02:01.475Z
+updated: 2024-11-07T03:47:11.435Z
 tags:
   - chatgpt
   - open-ai
@@ -38,15 +38,36 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
 
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do ChatGPT Data Leaks Happen?
 
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
 
  It is highly unlikely that the employees have done this on purpose, but that’s the scary part. [Most data breaches are caused by human error](https://www.makeuseof.com/people-weakest-link-in-cybersecurity/). Often, this is because the company has failed to educate its staff about the privacy risks of using tools like AI.
 
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
 
@@ -71,12 +92,21 @@ thumbnail: https://thmb.techidaily.com/d26b018bfd09d9f7c63fd1187a4536965f1d2b0de
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>[New] In 2024, Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-critical-selection-of-best-screen-recorders-android/"><u>[Updated] 2024 Approved Critical Selection of Best Screen Recorders (Android)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-the-top-3-alternative-video-portals-for-2024/"><u>[Updated] Discover the Top 3 Alternative Video Portals for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-precision-editing-for-perfect-numbers-on-tiktok-videos/"><u>[Updated] In 2024, Precision Editing for Perfect Numbers on TikTok Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-potential-combining-zoom-and-google-mail/"><u>[Updated] Unleashing Potential Combining Zoom & Google Mail</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-breaking-the-mold-unique-and-compelling-title-themes-over-a-hundred-strong-for-snapstories/"><u>In 2024, Breaking the Mold Unique and Compelling Title Themes over a Hundred Strong for Snapstories</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-screen-capture-hp-notebook-techniques/"><u>Mastering Screen Capture HP Notebook Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-silicon-orchards-expert-strategies-for-a-flourishing-career-at-apple-digitalguruguide/"><u>Navigating Through Silicon Orchards: Expert Strategies for a Flourishing Career at Apple | DigitalGuruGuide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overwhelmed-at-work-discover-how-the-pomodoro-approach-enhances-efficiency-featured-on-zdnet/"><u>Overwhelmed at Work? Discover How the Pomodoro Approach Enhances Efficiency | Featured on ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-audio-stuttering-and-distortion-in-windows-117-with-easy-fixes/"><u>Resolve Audio Stuttering & Distortion in Windows 11/7 with Easy Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shaping-tomorrows-tech-profiles-of-experts-building-ai-futures-zdnet/"><u>Shaping Tomorrow's Tech: Profiles of Experts Building AI Futures | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-securing-employment-during-economic-downturns-insights-from-zdnet/"><u>Strategies for Securing Employment During Economic Downturns: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-your-career-development-discover-how-linkedin-leverages-artificam-intelligence-for-simplified-job-matching-and-professional-growth-zdnet/"><u>Streamline Your Career Development: Discover How LinkedIn Leverages Artificam Intelligence for Simplified Job Matching and Professional Growth | ZDnet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncovering-hidden-phone-contacts-in-android-how-to-find-deleted-numbers-again/"><u>Uncovering Hidden Phone Contacts in Android: How to Find Deleted Numbers Again</u></a></li>
+</ul></div>
 

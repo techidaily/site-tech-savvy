@@ -1,7 +1,7 @@
 ---
 title: "From Pixels to Plot: An Excursion in ChatGPT RPGs"
-date: 2024-09-11T16:03:49.551Z
-updated: 2024-09-17T16:12:01.264Z
+date: 2024-11-03T18:01:27.375Z
+updated: 2024-11-07T04:18:21.533Z
 tags:
   - chatgpt
   - open-ai
@@ -136,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add Combat and Magic Rules
 
  As with any adventure [RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/), combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
@@ -170,10 +163,10 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclude Your Prompt
@@ -190,13 +183,34 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that [GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -319,5 +333,22 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-decoding-the-mechanics-of-subscriber-tracking/"><u>[Updated] 2024 Approved Decoding the Mechanics of Subscriber Tracking</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-from-3d-to-immersive-understanding-virtual-realitys-evolution/"><u>[Updated] 2024 Approved From 3D to Immersive Understanding Virtual Reality's Evolution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-for-all-starting-here-with-insight-from-9-online-forums/"><u>AI for All: Starting Here With Insight From 9 Online Forums</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-a-symphony-from-text-to-tunes-using-ai-in-daws/"><u>Crafting a Symphony From Text to Tunes Using AI in DAWs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-innovations-uncover-new-developments-in-iphone-ipad-and-mac-tech-including-artificial-intelligence-coming-this-fall-as-reported/"><u>Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-ai-enhancements-the-top-four-ios-upgrades-needed-for-iphones-to-compete-with-android-devices-insights-from-zdnet/"><u>Essential AI Enhancements: The Top Four iOS Upgrades Needed for iPhones to Compete With Android Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-y78-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo Y78 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-itel-p40-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Itel P40 Data? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introduction-to-anthropics-ai-prompt-store/"><u>Introduction to Anthropic's AI Prompt Store</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/kostenloze-conversie-van-avi-video-naar-mpeg-gratis-online-service/"><u>Kostenloze Conversie Van Avi-Video Naar Mpeg - Gratis Online Service</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ating-away-from-youtube-penalties/"><u>Navigating Away From YouTube Penalties</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-bert-and-gpts-nlp-landscapes/"><u>Navigating Through BERT and GPT's NLP Landscapes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/python-and-gpt-3-synergy-effective-strategies-for-advanced-language-model-integration/"><u>Python and GPT-3 Synergy: Effective Strategies for Advanced Language Model Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-complexity-of-conversation-bots-unpacking-the-eight-core-problems-in-gpt/"><u>The Complexity of Conversation Bots: Unpacking the Eight Core Problems in GPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/will-the-new-wave-of-arm-technology-elevate-windows-above-apples-custom-chip-dominance/"><u>Will the New Wave of ARM Technology Elevate Windows Above Apple's Custom Chip Dominance?</u></a></li>
+</ul></div>
 

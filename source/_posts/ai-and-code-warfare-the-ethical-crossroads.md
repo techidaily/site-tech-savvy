@@ -1,7 +1,7 @@
 ---
 title: "AI and Code Warfare: The Ethical Crossroads"
-date: 2024-10-26T16:50:44.169Z
-updated: 2024-11-01T16:25:43.855Z
+date: 2024-11-01T18:29:18.097Z
+updated: 2024-11-07T12:57:28.655Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/d67db43bd99257f0af99e68e427f312b6fcddd2d0
  So is ChatGPT a cybersecurity threat? The answer, sadly, is yes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT's Limitations
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/d67db43bd99257f0af99e68e427f312b6fcddd2d0
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While you can access ChatGPT malware code through a chatbot request, it only seems to be able to write very simple malicious code at the time of writing. In the aforementioned Recorded Future report, it was stated that the malware created by ChatGPT found on illicit platforms was "buggy but functional".
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/d67db43bd99257f0af99e68e427f312b6fcddd2d0
  What's more, there's no knowing whether ChatGPT, or another AI-powered chatbot, will one day evolve to the point where sophisticated malware can be produced. This is the beginning, not the end.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are Hackers Using ChatGPT?
@@ -94,22 +94,17 @@ thumbnail: https://thmb.techidaily.com/d67db43bd99257f0af99e68e427f312b6fcddd2d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-tool-a-thorough-side-by-side-of-bandicam-and-obs/"><u>Choosing the Right Tool: A Thorough Side-by-Side of Bandicam and OBS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversor-libre-en-linea-de-wmv-a-mjpeg-por-movavi-transmision-perfecta-gratis/"><u>Conversor Libre en Línea De WMV a MJPEG Por Movavi – Transmisión Perfecta Gratis</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/critical-fixes-for-city-skylines-2s-pc-crashing-problems-play-smoothly-now/"><u>Critical Fixes for City Skylines 2'S PC Crashing Problems - Play Smoothly Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-file-conversion-convert-your-tga-images-to-jpg-at-no-cost-quick-and-simple-solution-by-movavi/"><u>Effortless File Conversion: Convert Your TGA Images to JPG at No Cost - Quick and Simple Solution by Movavi</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevating-educational-content-by-adding-youtube-music-to-vids-for-2024/"><u>Elevating Educational Content by Adding YouTube Music to Vids for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-productivity-convert-verbal-input-to-written-text-in-word/"><u>Enhance Productivity Convert Verbal Input to Written Text in Word</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/immaculate-visual-logging-systems/"><u>Immaculate Visual Logging Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-5-v-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 5 V Phone with Broken Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inizia-subito-a-registrare-i-tuoi-file-audio-da-internet-con-movavi/"><u>Inizia Subito a Registrare I Tuoi File Audio Da Internet Con Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/les-6-methodes-pratiques-pour-diviser-une-video-avec-des-outils-departementaux-et-web/"><u>Les 6 Méthodes Pratiques Pour Diviser Une Vidéo Avec Des Outils Départementaux Et Web</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726221952495-movavi/"><u>Movavi製品を見極めるためのロコミによる簡単選択方法</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-nubia-red-magic-8s-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Nubia Red Magic 8S Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/powerpoint-dateien-wiederherstellen-die-im-letzten-moment-in-windows-gesperrt-wurden-tipps-und-tricks/"><u>PowerPoint Dateien Wiederherstellen, Die Im Letzten Moment in Windows Gesperrt Wurden - Tipps Und Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726228218277-raf-movavi/"><u>RAF 線上免費切換服務 - Movavi</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/stay-concentrated-how-to-tame-the-chatter-of-google-video-calls/"><u>Stay Concentrated How to Tame the Chatter of Google Video Calls</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-hash-tags-that-multiply-your-view-count-by-six/"><u>Unveiling Hash Tags that Multiply Your View Count by Six</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726227963473-mpg-swf-movavi/"><u>무료 MPG SWF 파일에서 웹 게시로 전환: Movavi의 가이드</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-top-5-secret-story-viewers-tools/"><u>[New] 2024 Approved Top 5 Secret Story Viewers' Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-guide-to-swiftly-acquire-and-save-youtube-watch-lists/"><u>[New] Guide to Swiftly Acquire and Save YouTube Watch Lists</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-mediameld-mixer/"><u>[New] In 2024, MediaMeld Mixer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-savings-in-cloud-data-services/"><u>2024 Approved Unlocking Savings in Cloud Data Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-accessibility-apple-enhances-podcast-listening-with-auto-generated-transcriptions/"><u>Enhanced Accessibility: Apple Enhances Podcast Listening with Auto-Generated Transcriptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-found-how-to-resolve-detroit-become-human-game-crashes-on-windows/"><u>Fixes Found! How to Resolve Detroit: Become Human Game Crashes on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-stuck-on-loading-in-sea-of-thieves-complete-guide/"><u>Fixing 'Stuck on Loading' In Sea of Thieves: Complete Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-gpt-to-greatness-can-claude-take-over/"><u>From GPT to Greatness: Can Claude Take Over?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-gt-neo-5-se-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme GT Neo 5 SE Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-straps-of-2n25-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Straps of 2N25: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trustworthy-techniques-for-discerning-iphone-chatbot-apps/"><u>Trustworthy Techniques for Discerning iPhone ChatBot Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-of-local-llm-pros-and-cons/"><u>Unveiling the Secrets of Local LLM Pros and Cons</u></a></li>
 </ul></div>
 

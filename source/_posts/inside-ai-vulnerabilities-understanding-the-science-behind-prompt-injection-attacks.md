@@ -1,7 +1,7 @@
 ---
 title: "Inside AI Vulnerabilities: Understanding the Science Behind Prompt Injection Attacks"
-date: 2024-09-12T16:22:32.894Z
-updated: 2024-09-17T16:08:44.037Z
+date: 2024-11-02T12:21:08.400Z
+updated: 2024-11-06T16:25:51.323Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 * [How Do Prompt Injection Attacks Work?](https://turbotech.pxf.io/pyx4je)
 * [Are AI Prompt Injection Attacks a Threat?](https://tinyland.pxf.io/org4ra)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AI prompt injection attacks manipulate AI models to generate malicious output, potentially leading to phishing attacks.
@@ -38,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  AI prompt injection attacks poison the output from the AI tools you rely on, changing and manipulating its output into something malicious. But how does an AI prompt injection attack work, and how can you protect yourself?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is an AI Prompt Injection Attack?
 
  AI prompt injection attacks take advantage of generative AI models' vulnerabilities to manipulate their output. They can be performed by you or injected by an external user through an indirect prompt injection attack. DAN (Do Anything Now) attacks don't pose any risk to you, the end user, but other attacks are theoretically capable of poisoning the output you receive from generative AI.
@@ -48,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  Prompt injection attacks work by feeding additional instructions to an AI without the consent or knowledge of the user. Hackers can accomplish this in a few ways, including DAN attacks and indirect prompt injection attacks.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### DAN (Do Anything Now) Attacks
 
 ![conversing with chatgpt following a dan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/conversing-with-chatgpt-following-a-dan-prompt.jpg)
@@ -55,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
  DAN (Do Anything Now) attacks are a type of prompt injection attack that involve ["jailbreaking" generative AI models like ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). These jailbreaking attacks don't pose a risk to you as the end user—but they do broaden the capacity of the AI, enabling it to become a tool for abuse.
 
  For example, security researcher [Alejandro Vidal](https://twitter.com/doblepensador/status/1635721485665837059) used a DAN prompt to make OpenAI's GPT-4 generate Python code for a keylogger. Used maliciously, jailbroken AI substantially lowers the skill-based barriers associated with cybercrime and could enable new hackers to make more sophisticated attacks.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Training Data Poisoning Attacks
 
@@ -64,44 +92,17 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  Training data poisoning attacks can't harm you directly but can make other threats possible. If you want to guard yourself against these attacks, remember that AI is not foolproof and that you should scrutinize anything you encounter online.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Indirect Prompt Injection Attacks
 
  Indirect prompt injection attacks are the type of prompt injection attack that poses the largest risk to you, the end user. These attacks occur when malicious instructions are fed to the generative AI by an external resource, such as an API call, before you receive your desired input.
 
 ![indirect ai prompt attack demostrated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/indirect-ai-prompt-attack-demostrated.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Grekshake/[GitHub](https://github.com/greshake)
 
  A paper titled Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection on [arXiv](https://arxiv.org/pdf/2302.12173.pdf) \[PDF\] demonstrated a theoretical attack where the AI could be instructed to persuade the user to sign up for a phishing website within the answer, using hidden text (invisible to the human eye but perfectly readable to an AI model) to inject the information sneakily. Another attack by the same research team documented on [GitHub](https://greshake.github.io/) showed an attack where Copilot (formerly Bing Chat) was made to convince a user that it was a live support agent seeking credit card information.
 
  Indirect prompt injection attacks are threatening because they could manipulate the answers you receive from a trustworthy AI model—but that isn't the only threat they pose. As mentioned earlier, they could also cause any autonomous AI you may use to act in unexpected—and potentially harmful—ways.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are AI Prompt Injection Attacks a Threat?
 
@@ -126,5 +127,24 @@ Grekshake/[GitHub](https://github.com/greshake)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-easy-steps-for-sharing-your-xbox-playtime/"><u>[Updated] In 2024, Easy Steps for Sharing Your Xbox Playtime</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/androidios-compatibility-with-chatgpt/"><u>Android/iOS Compatibility with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioned-elegance-gpt-powered-digital-illustration/"><u>Envisioned Elegance: GPT-Powered Digital Illustration</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-reno-11-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Reno 11 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-realme-note-50-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Realme Note 50 Phone Forgot Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-moto-e13-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola Moto E13 Is Unlocked</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-prime-8-film-grabs-from-fb-2023-edition/"><u>In 2024, Prime 8 Film Grabs From FB 2023 Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-lava-blaze-curve-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Lava Blaze Curve 5G Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-175-recovery-feature-returns-lost-images-apple-shares-insights-and-tips-zdnet/"><u>IOS 17.5 Recovery Feature Returns Lost Images, Apple Shares Insights & Tips - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-move-top-secrets-for-flawlessly-upgrading-to-your-new-iphone-how-to-guide/"><u>Mastering the Move: Top Secrets for Flawlessly Upgrading to Your New iPhone How-To Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximizing-your-view-a-step-by-step-guide-on-iphone-12-and-mac-airplay-connection/"><u>Maximizing Your View: A Step-by-Step Guide on iPhone 12 and Mac AirPlay Connection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-workouts-ensuring-safety-through-chatgpt/"><u>Personalized Workouts: Ensuring Safety Through ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plot-perfection-integrating-chatgpt-in-narrative-design/"><u>Plot Perfection: Integrating ChatGPT in Narrative Design</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-4-kid-friendly-ipad-models-expert-review/"><u>Top 4 Kid-Friendly iPad Models : Expert Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-software-picks-discover-the-latest/"><u>Top-Ranking Mac Software Picks – Discover the Latest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-workings-of-ais-creative-text-exploration/"><u>Unveiling the Workings of AI's Creative Text Exploration</u></a></li>
+<li><a href="https://win-webster.techidaily.com/ps53/"><u>パソコンを守りながらPS5のデータを確実にバックアップする3つのベスト方法</u></a></li>
+</ul></div>
 

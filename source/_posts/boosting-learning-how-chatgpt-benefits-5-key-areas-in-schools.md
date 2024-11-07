@@ -1,7 +1,7 @@
 ---
 title: "Boosting Learning: How ChatGPT Benefits 5 Key Areas in Schools"
-date: 2024-09-10T16:05:12.036Z
-updated: 2024-09-17T16:22:32.511Z
+date: 2024-11-03T19:09:37.635Z
+updated: 2024-11-07T02:07:49.318Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 * Refine the plan to add \[minutes/hours\] breaks during study hours.
 * Refine the plan to allocate \[more/less\] time to practical sessions.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Identify Shortcuts or Tricks for Complex Course Problems
 
  One of the most exciting uses of ChatGPT for students is as a tool for identifying easier or alternative ways of solving complex course problems. For instance, ChatGPT has a huge collection of shortcuts and tricks for solving a wide range of complex STEM problems. From basic physics and math to complex engineering problems, ChatGPT can lay out easier, proven ways to solve complex problems and arrive at accurate solutions with much less effort.
@@ -54,9 +61,29 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 
 ![Arithmetic series problem - long method](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/arithmetic-series-problem-long-method.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, you can also ask ChatGPT for a shortcut to solving the problem. For example, when we asked ChatGPT to provide a shortcut, the AI chatbot generated the following results:
 
 ![shortcut for solving arithemetic series](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/shortcut-for-solving-arithemetic-series.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When asking ChatGPT for shortcuts to solve a problem, always ask it to clarify whether the shortcut applies to all cases of a problem.
 
@@ -74,6 +101,19 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 
 ![stay ahead of the learning curve with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/stay-ahead-of-the-learning-curve-with-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Summarize Long Text and Extract Key Points
 
  Most of what you'll do as a student involves reading long texts and making summaries or key points. ChatGPT is impressively good at text summarization and extracting key points from voluminous texts. It could be an incredibly useful reading companion, helping you make sense of large texts without having to read through the entirety of them. Instead, copy the text in bits, feed it to ChatGPT, and ask it to make summaries or identify the key points from it.
@@ -84,19 +124,6 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 
  After using the prompt, split the text you wish to summarize into bits and feed the entirety of it to ChatGPT. After you've provided the entire text, prompt it to extract the key point or create a summary of a certain length from the text you've provided.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Improve or Review Creative Writing
 
 [ChatGPT is very impressive in generating creative work](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) like letters, essays, and academic writing. Although some students have chosen the rather unethical part of outsourcing the entire writing process to ChatGPT, the tool can be utilized for reviewing and improving something you wrote rather than asking the chatbot to write it from scratch.
@@ -104,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
 [One of the problems with using ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) to write an essay of any kind is that it can make up figures, events, entities, and concepts and present them as facts. On the other hand, if you put in the honest work of doing the research and creating content, ChatGPT can help you polish it up, giving you something both interesting and factual.
 
 ![Essay for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/essay-for-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We put together a short story in a haphazard manner, as shown in the screenshot above, and asked ChatGPT to clean it up. Here's the result:
 
@@ -142,5 +162,20 @@ thumbnail: https://thmb.techidaily.com/0ee75a1caf32369cd8820b736a236dfed0354f2e5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-catchy-tracks-the-20-top-rapping-beats-you-cant-miss-on-tiktok-for-2024/"><u>[New] Catchy Tracks The 20 Top Rapping Beats You Can't Miss on TikTok for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-explore-our-picks-of-budget-friendly-and-high-quality-video-viewing-tools-pcmobile/"><u>[New] Explore Our Picks of Budget-Friendly and High-Quality Video Viewing Tools (PC/Mobile)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-ultimate-listing-best-no-ad-android-recording-apps/"><u>[New] In 2024, Ultimate Listing Best No-Ad Android Recording Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unleash-creativity-in-windows-10-how-to-trim-movies-and-more/"><u>[Updated] 2024 Approved Unleash Creativity in Windows 10 How To Trim Movies and More</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-eliminated-non-display-of-shorts-videos-for-2024/"><u>[Updated] Eliminated Non-Display of Shorts Videos for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioned-elegance-gpt-powered-digital-illustration/"><u>Envisioned Elegance: GPT-Powered Digital Illustration</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-redmi-k70-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Redmi K70 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-175-recovery-feature-returns-lost-images-apple-shares-insights-and-tips-zdnet/"><u>IOS 17.5 Recovery Feature Returns Lost Images, Apple Shares Insights & Tips - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-move-top-secrets-for-flawlessly-upgrading-to-your-new-iphone-how-to-guide/"><u>Mastering the Move: Top Secrets for Flawlessly Upgrading to Your New iPhone How-To Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-workouts-ensuring-safety-through-chatgpt/"><u>Personalized Workouts: Ensuring Safety Through ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-software-picks-discover-the-latest/"><u>Top-Ranking Mac Software Picks – Discover the Latest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-workings-of-ais-creative-text-exploration/"><u>Unveiling the Workings of AI's Creative Text Exploration</u></a></li>
+</ul></div>
 

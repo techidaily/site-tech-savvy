@@ -1,7 +1,7 @@
 ---
 title: IOS 18 Update Brings Essential Non-AI Messaging Enhancement to Your iPhone - Detailed Insights by ZDNet
-date: 2024-10-26T18:18:25.386Z
-updated: 2024-11-01T18:46:39.185Z
+date: 2024-11-05T08:22:09.458Z
+updated: 2024-11-06T22:38:40.092Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -57,13 +57,6 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -71,16 +64,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -91,6 +78,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -98,10 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -140,20 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-search-comments-on-youtube-quickly/"><u>[New] 2024 Approved How to Search Comments on YouTube Quickly?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ioneering-video-structuring-methods-on-youtube/"><u>[New] Pioneering Video Structuring Methods on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-best-sfpr-settings-to-boost-sluggish-clips/"><u>[Updated] Best SFPR Settings to Boost Sluggish Clips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-farewell-bid-adieu-to-one-of-its-most-enduring-and-successful-devices/"><u>Apple Farewell: Bid Adieu to One of Its Most Enduring and Successful Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/banks-and-computers-are-you-protected-from-gpt-powered-cyberattacks/"><u>Banks & Computers: Are You Protected From GPT-Powered Cyberattacks?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Oppo A18? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhance-audio-clarity-and-volume-in-windows-11-tips-and-tricks/"><u>Enhance Audio Clarity and Volume in Windows 11 - Tips & Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-detect-and-handle-illegitimate-chatgpt-sites/"><u>How to Detect and Handle Illegitimate ChatGPT Sites</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-accurate-user-persona-development/"><u>Leveraging ChatGPT for Accurate User Persona Development</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/personalize-win11-panorama-selecting-stunning-walls-for-2024/"><u>Personalize Win11 Panorama Selecting Stunning Walls for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguard-sensitive-data-not-chatgpt/"><u>Safeguard Sensitive Data, Not ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speedy-documentation-made-simple-with-gpt-word-integration/"><u>Speedy Documentation Made Simple with GPT-Word Integration</u></a></li>
-<li><a href="https://win-help.techidaily.com/step-by-step-guide-retrieving-lost-dpx-file-data-quickly-and-safely/"><u>Step-by-Step Guide: Retrieving Lost DPX File Data Quickly and Safely</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-ultimate-playbook-top-20-best-practices-for-maximizing-facebook-video-success-for-2024/"><u>The Ultimate Playbook Top 20 Best Practices for Maximizing Facebook Video Success for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/verse-vanguard-showdown-bards-chatbots-and-wooly-companions/"><u>Verse Vanguard Showdown: Bards, ChatBots & Wooly Companions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-televisions-as-a-window-to-facebook-world-vids/"><u>[New] 2024 Approved Televisions as a Window to Facebook World Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-premiere-smart-goggles-craftsmen/"><u>[Updated] 2024 Approved Premiere Smart Goggles Craftsmen</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-insiders-guide-to-mastering-igtv-for-2024/"><u>[Updated] The Insider's Guide to Mastering IGTV for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-leading-vr-devices-ranked-in-depth-analysis-and-expert-assessments-from-zdnet/"><u>2024'S Leading VR Devices Ranked: In-Depth Analysis and Expert Assessments From ZDNET</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-look-at-benq-sw320s-4k-features-for-2024/"><u>A Comprehensive Look at BenQ SW320's 4K Features for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cost-analysis-of-crafting-an-apple-vision-pro-headset-insights-and-estimates/"><u>Cost Analysis of Crafting an Apple Vision Pro Headset - Insights and Estimates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-code-39-explained-effective-solutions-for-your-cd-and-dvd-player-issues/"><u>Error Code #39 Explained: Effective Solutions for Your CD and DVD Player Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-companion-device-needed-for-your-new-apple-vision-pro-top-picks-by-zdnet/"><u>Essential Companion Device Needed for Your New Apple Vision Pro - Top Picks by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-covert-alliance-how-qualcomms-strategic-partnership-with-google-and-samsung-is-shaping-the-next-gen-mixed-reality-eyewear-revolution-innovatio13/"><u>Exploring the Covert Alliance: How Qualcomm's Strategic Partnership with Google and Samsung Is Shaping the Next-Gen Mixed Reality Eyewear Revolution | Innovation Spotlight by ZDNET</u></a></li>
+<li><a href="https://win-dash.techidaily.com/geforce-gt-710-drivers-download-for-windows/"><u>GeForce GT 710 Drivers Download for Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/htc-introduces-the-all-encompassing-vive-xr-elite-the-ultimate-premium-virtual-reality-experience/"><u>HTC Introduces the All-Encompassing Vive XR Elite: The Ultimate Premium Virtual Reality Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-chirp-with-charisma-producing-text-memes-now/"><u>In 2024, Chirp with Charisma Producing Text Memes Now</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-into-future-tech-unveiling-ct-scanner-images-of-apple-vision-pro-and-meta-quest-headsets/"><u>Insight Into Future Tech: Unveiling CT Scanner Images of Apple Vision Pro & Meta Quest Headsets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-apples-expanded-dev-program-boosting-support-for-ios-17-visionos-and-additional-platforms-zdnet-coverage/"><u>Introducing Apple’s Expanded Dev Program: Boosting Support for iOS 17, VisionOS, and Additional Platforms - ZDNET Coverage</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-educational-websites-for-high-quality-virtual-classroom-enrollment/"><u>Leading Educational Websites for High-Quality Virtual Classroom Enrollment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-level-immersion-awaits-as-oculus-rifts-get-game-changing-3-boosts-for-gamers-and-entertainment-fans/"><u>Next-Level Immersion Awaits as Oculus Rifts Get Game-Changing 3 Boosts for Gamers & Entertainment Fans!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-filter-key-qualities-in-high-end-monitors/"><u>The Ultimate Filter: Key Qualities in High-End Monitors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vision-pro-integrates-tiktok-features-enhances-user-scroll-experience-zdnet/"><u>Vision Pro Integrates TikTok Features, Enhances User Scroll Experience - ZDNet</u></a></li>
 </ul></div>
 

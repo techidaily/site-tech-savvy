@@ -1,7 +1,7 @@
 ---
 title: "Explore GPT-4 on a Budget: Four Subsidized Paths"
-date: 2024-10-27T19:09:26.340Z
-updated: 2024-11-01T17:33:15.279Z
+date: 2024-11-02T20:43:42.365Z
+updated: 2024-11-07T02:47:46.414Z
 tags:
   - chatgpt
   - open-ai
@@ -45,9 +45,23 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
  Well, here are five ways you can use GPT-4 for free.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Microsoft Copilot
 
 ![microsoft copilot website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/microsoft-copilot-website-screenshot.png)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Microsoft was one of the first companies to work directly with OpenAI, plowing billions of dollars into the company and its AI research.
 
@@ -70,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
  Upgrading to Perplexity.ai's Pro tier will set you back $20 per month (the same as a ChatGPT Plus subscription), but does mean you can ask more than 300 Copilot-powered questions, [use Anthropic's Claude 3 model](https://www.makeuseof.com/what-is-claude-3/), and upload as many files as you want to for AI analysis.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Merlin
@@ -90,15 +104,22 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 **Download**: Merlin for [Google Chrome](https://chrome.google.com/webstore/detail/merlin-1-click-access-to/camppjleccjaphfdbohjdohecfnoikec) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Hugging Face
 
 ![using gpt-4 on hugging face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-gpt-4-on-hugging-face.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hugging Face is an open-source machine learning and AI development website where thousands of developers collaborate and build tools.
@@ -107,31 +128,31 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
  However, I've included the option here in case you find more joy than I did. The image above shows one Space that processed my request instantly (as its daily API access limit hadn't yet been hit), while another requires you to [enter your ChatGPT API key](https://www.makeuseof.com/chatgpt-api-complete-guide/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Formerly Had Free GPT-4 Access: Poe by Quora, Ora, Forefront, Nat.dev
 
  Several other tools once provided free GPT-4 access but have since removed the option or pushed it into a premium or subscription tier. The reason for that is simple enough: it's expensive to integrate GPT-4 access into a site and give that access away for free, especially as many people want to access GPT-4 for free.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Poe
 
 ![poe homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ain-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Poe is a generative AI tool that gives you access to several LLMs and AI chatbots in one place. Unlike most of the major generative AI tools that feature just one option, Poe, developed by Quora, helps you spread your questions around, choosing the best option for the job when required.
 
  Quora CEO [Adam D'Angelo's tweet](https://twitter.com/adamdangelo/status/1635690637990445057?) initially revealed Poe's GPT-4 integration in March 2023, with users able to send one free GPT-4 message per day. The number of free GPT-4 messages rose to three, but it has since removed its free GPT-4 messaging capacity. There is no indication if Poe will restore its free GPT-4 messaging option, but it's worth keeping tabs on, just in case.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ora
 
@@ -141,32 +162,11 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
  Ora has since moved GPT-4 access into its Hobby or Pro Plan, starting from $25 monthly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Forefront
 
 ![forefront ai chatgpt prompt output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/forefront-ai-chatgpt-prompt-output.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Forefront is another multi-access AI tool featuring free access to GPT-3.5, Forefront's in-house tool, and Claude-Instant 1.2\. When it first launched, Forefront provided a limited number of free GPT-4 requests (along with Claude 2), but this access has since been removed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Nat.dev
 
@@ -195,15 +195,24 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-stitching-photographs-into-an-eye-catching-canvas/"><u>[New] Stitching Photographs Into an Eye-Catching Canvas</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-effortless-post-scheduling-our-list-of-top-8-apps-iosandroid-compatible/"><u>2024 Approved Effortless Post Scheduling Our List of Top 8 Apps, iOS/Android-Compatible</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-high-quality-blu-ray-software-variants-pcmac/"><u>2024 Approved Top 10 High-Quality Blu-Ray Software Variants (PC/Mac)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-youtube-fundamentals-made-simple-top-8-learning-resources/"><u>2024 Approved YouTube Fundamentals Made Simple Top 8 Learning Resources</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/comprehensive-evaluation-of-rca-video-doorbell-surveillance-device/"><u>Comprehensive Evaluation of RCA Video Doorbell Surveillance Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversational-crusade-will-ai-claude-emerge-superior/"><u>Conversational Crusade: Will AI Claude Emerge Superior?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-converter-from-wav-to-au-moveave/"><u>Free Online Converter From WAV to AU - Moveave</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-script-writing-for-your-next-youtube-masterpiece-with-chatgpt/"><u>Innovative Script Writing for Your Next YouTube Masterpiece with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-new-era-of-conversational-agents-bard-vs-bing-chatbot/"><u>The New Era of Conversational Agents: Bard Vs. Bing Chatbot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/twitscam-takedown-with-the-advent-of-metasignature/"><u>TwitScam Takedown with the Advent of MetaSignature</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-a-guide-to-designing-spectacular-photo-tileworks/"><u>[Updated] A Guide to Designing Spectacular Photo Tileworks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oppo-f25-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Oppo F25 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/webm3gp-movavi/"><u>無綫上免費WEBM到3GP轉化 - 使用 Movavi 過程解析</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286294066-winx-dvd-ripper-video-converter/"><u>正確使用WinX DVD Ripper 及Video Converter——進階線上支援與翻拷教程</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-breakthrough-at-stanford-paves-the-way-for-seamless-vr-experiences-bidding-farewell-to-heavy-headsets-zdnet/"><u>AI Breakthrough at Stanford Paves the Way for Seamless VR Experiences, Bidding Farewell to Heavy Headsets | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expect-swift-arrival-how-fast-youll-get-your-new-apple-vision-pro-revealed/"><u>Expect Swift Arrival: How Fast You'll Get Your New Apple Vision Pro Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finnish-innovators-challenge-apple-with-revolutionary-vr-headset-ideal-for-enterprises-zdnet/"><u>Finnish Innovators Challenge Apple with Revolutionary VR Headset, Ideal for Enterprises | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-unexpected-transports-to-virtual-applause-my-journey-through-the-world-of-remote-reunions-innovatetech-blog/"><u>From Unexpected Transports to Virtual Applause: My Journey Through the World of Remote Reunions | InnovateTech Blog</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/high-end-tech-at-a-reasonable-cost-upgrading-the-vision-pro-with-apples-elite-features-insights-from-zdnet-reviewed/"><u>High-End Tech at a Reasonable Cost: Upgrading the Vision Pro with Apple's Elite Features, Insights From ZDNet Reviewed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-clear-out-unwanted-ebooks-from-your-icloud-account-and-reclaim-space/"><u>How to Clear Out Unwanted eBooks From Your iCloud Account & Reclaim Space</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-xiaomi-13-ultra-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Xiaomi 13 Ultra to Another | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/imminent-launch-apples-vision-pro-latest-tech-news-coverage-by-zdnet/"><u>Imminent Launch: Apple's Vision Pro - Latest Tech News Coverage by ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-a05smirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy A05sMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/lessons-from-the-digital-realm-unexpected-teleportation-and-friendly-waves-in-virtual-meetups-zdnet/"><u>Lessons From the Digital Realm: Unexpected Teleportation and Friendly Waves in Virtual Meetups | ZDNET</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-list-of-no-cost-sound-sites-for-filmmakers-for-2024/"><u>The Ultimate List of No-Cost Sound Sites for Filmmakers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-potential-of-tech-breakthroughs-how-2-surveys-made-2023-a-record-breaking-year-for-progress-exclusive-insights-from-zdnet/"><u>Unlocking The Potential Of Tech Breakthroughs: How 2 Surveys Made 2023 a Record-Breaking Year for Progress - Exclusive Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-do-users-prefer-quest-3-over-other-metavr-headsets-exploring-top-user-favorite-factors/"><u>Why Do Users Prefer Quest 3 Over Other Metavr Headsets? Exploring Top User-Favorite Factors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Next-Gen Assistants: Join the 8 Specialized AI Movement"
-date: 2024-09-13T16:10:45.398Z
-updated: 2024-09-17T16:22:33.916Z
+date: 2024-10-31T23:49:31.253Z
+updated: 2024-11-06T23:04:17.451Z
 tags:
   - chatgpt
   - open-ai
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 
 **Try this GPT:**[Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
@@ -64,35 +71,22 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Let's be honest, Netflix can be horrible at suggesting what to watch next. I asked classic ChatGPT to recommend some historical Korean TV shows. I wanted shows with themes of power, royalty, heroism, and war. The result was a mixed bag. Some options were strong, while others seemed randomly selected based on popularity rather than relevance.
 
  Of course, I built a custom K-Drama GPT by uploading several lists and reviews of the best Korean TV shows online. I also uploaded a small text file of what I love to see in Korean TV shows. When queried, this tailored GPT provided targeted drama suggestions that precisely matched my request—complex power dynamics, royal intrigue, bold heroes, and military conflicts. The difference was night and day. If historical K-dramas are your favorite genre, you can try out my K-Drama GPT.
 
 **Try this GPT**: [K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Interactive Text and Image Games
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but [interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/). You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
 
@@ -103,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
  Want to see simple RPG games in action? You can try my Dungeon Weaver GPT.
 
 **Try this GPT**: [Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Personal Tutor
 
@@ -115,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
  The same approach applies across academic and professional domains, from computer science to anything you can think of. Custom GPTs digest vast knowledge banks and personalize learning faster than individual study ever could. With the right training data, they become virtual masters of the material to accelerate your comprehension and skills. I created a GPT to brush up on my math skills based on my class notes. How good is it? You can see it for yourself.
 
 **Try this GPT**: [Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Niche Tools for Work
 
@@ -129,10 +137,10 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Custom GPTs: Endless Possibilities for Work and Fun
@@ -160,5 +168,26 @@ thumbnail: https://thmb.techidaily.com/d35a9f55c38e62a416cd2700848e1170978470691
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-speech-reader-feedback-summary-for-2024/"><u>[New] Speech Reader Feedback Summary for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-your-blueprint-for-downloading-youtube-srt-in-3-steps-for-2024/"><u>[New] Your Blueprint for Downloading YouTube SRT in 3 Steps for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-boost-your-posts-top-3-instagram-highlight-methods/"><u>[Updated] In 2024, Boost Your Posts Top 3 Instagram Highlight Methods</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-instantaneous-screen-logging-chromebooks/"><u>[Updated] In 2024, Instantaneous Screen Logging (Chromebooks)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-navigating-mobile-meetings-using-googles-facetime-feature/"><u>[Updated] In 2024, Navigating Mobile Meetings Using Google's Facetime Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-capabilities-or-ai-supported-skills-discover-what-top-employers-really-want/"><u>AI Capabilities or AI-Supported Skills? Discover What Top Employers Really Want!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/combating-developer-burnout-strategies-companies-use-to-boost-well-being-and-productivity/"><u>Combating Developer Burnout: Strategies Companies Use to Boost Well-Being & Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-step-by-step-strategy-how-to-secure-employment-in-top-tech-firms-insights-from-zdnet/"><u>Comprehensive Step-by-Step Strategy: How to Secure Employment in Top Tech Firms - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-quiet-quitting-a-rising-trend-employers-must-understand-insights-from-zdnet/"><u>Embracing 'Quiet Quitting': A Rising Trend Employers Must Understand - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-leading-free-artificial-intelligence-courses-and-assess-value-of-ai-certifications/"><u>Explore the Leading Free Artificial Intelligence Courses & Assess Value of AI Certifications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-google-chrome-continuously-crashing-simple-solutions/"><u>How to Fix Google Chrome Continuously Crashing: Simple Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-11-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 11 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-miniature-film-script-sketch/"><u>In 2024, Miniature Film Script Sketch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-social-connections-an-introverts-guide-to-successful-networking-with-tips-from-zdnet/"><u>Mastering Social Connections: An Introvert's Guide to Successful Networking with Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shifting-paradigms-how-coding-is-transforming-yet-again-insights-from-tech-experts/"><u>Shifting Paradigms: How Coding Is Transforming Yet Again - Insights From Tech Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-connectivity-issues-11-solutions-when-your-airpods-and-iphone-fail-to-sync/"><u>Solving Connectivity Issues: 11 Solutions When Your AirPods & iPhone Fail to Sync</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-programming-bootcamp-picks-your-guide-according-to-zdnet/"><u>Top 10 Programming Bootcamp Picks : Your Guide According to ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-checklist-setting-up-your-home-office-for-success-tips-from-zdnet/"><u>Ultimate Checklist: Setting Up Your Home Office for Success | Tips From ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-ultimate-guide-to-choosing-the-best-highlight-reel-software/"><u>Updated 2024 Approved Ultimate Guide to Choosing the Best Highlight Reel Software</u></a></li>
+</ul></div>
 

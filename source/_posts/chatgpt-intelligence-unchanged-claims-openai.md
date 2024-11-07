@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Intelligence: Unchanged, Claims OpenAI"
-date: 2024-09-10T16:05:40.175Z
-updated: 2024-09-17T16:15:07.908Z
+date: 2024-11-02T10:13:39.657Z
+updated: 2024-11-07T12:37:52.054Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 
  Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stanford Study Suggests ChatGPT Drop Off
 
  A combined Stanford University and UC Berkley research group believes those feelings that ChatGPT is changing could be right. Lingjiao Chen, Matei Zaharia, and James Zou's paper [How Is ChatGPT's Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf) \[PDF\] is one of the first in-depth studies into ChatGPT's changing capabilities.
@@ -48,9 +55,23 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 
 ![chatgpt study answers changing chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 ![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
@@ -71,10 +92,10 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can OpenAI Restore ChatGPT to Its Original State?
@@ -100,5 +121,22 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-advanced-3d-shaping-crafting-perfect-mc-circles-and-spheres/"><u>[Updated] 2024 Approved Advanced 3D Shaping Crafting Perfect MC Circles & Spheres</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-ideas-to-influence-an-insider-look-at-strategic-instagram-videos/"><u>[Updated] In 2024, From Ideas to Influence An Insider Look at Strategic Instagram Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-transfer-techniques-securely-moving-data-to-desktop/"><u>[Updated] In 2024, Transfer Techniques Securely Moving Data to Desktop</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-elite-writers-of-aural-narratives/"><u>2024 Approved Elite Writers of Aural Narratives</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-zoom-screen-recorders/"><u>2024 Approved The Ultimate Guide to Zoom Screen Recorders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-breakdown-how-gpt4all-works/"><u>Comprehensive Breakdown: How GPT4All Works</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/connect-with-bings-ai-features-easy-signup-method/"><u>Connect with Bing’s AI Features: Easy Signup Method</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-dungeons-and-dragons-integrating-chatgpt-tips/"><u>Elevating Dungeons & Dragons: Integrating ChatGPT Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-token-boundaries-with-chatgpt/"><u>Exploring Token Boundaries with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fixing-common-glitches-in-chatgpt-login/"><u>Fixing Common Glitches in ChatGPT Login</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-building-harmonious-forms-crafting-circles-and-spheres/"><u>In 2024, Building Harmonious Forms Crafting Circles and Spheres</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-an-erratic-discord-overlay-in-windows/"><u>Quick Fixes for an Erratic Discord Overlay in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-sensitive-information-with-curated-ai-solutions/"><u>Securing Sensitive Information with Curated AI Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-techniques-for-attaching-an-internal-solid-state-drive-to-your-desktops-usb-c-port-expert-tips/"><u>Ultimate Techniques for Attaching an Internal Solid State Drive to Your Desktop's USB-C Port | Expert Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-shap-e-exploring-interpretability-in-ml/"><u>What Is SHAP E? Exploring Interpretability in ML</u></a></li>
+</ul></div>
 

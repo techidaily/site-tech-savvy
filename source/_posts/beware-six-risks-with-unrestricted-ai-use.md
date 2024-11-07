@@ -1,7 +1,7 @@
 ---
 title: Beware! Six Risks With Unrestricted AI Use
-date: 2024-09-11T16:08:23.897Z
-updated: 2024-09-17T16:37:02.750Z
+date: 2024-11-04T16:04:04.456Z
+updated: 2024-11-06T20:19:12.461Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ AI is transforming the world as we know it, with its impact felt across every in
 
  While this is just the nature of AI right now, you can see how this can become a problem. Most people don't fact-check their Google searches, and it's the same here with chatbots like ChatGPT. This can lead to misinformation, and we already have plenty of that to go around—which brings us to the second point.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. It Can Easily Be Used to Manipulate Information
 
  It's no secret that AI can be unreliable and prone to error, but one of its most insidious traits is its tendency to manipulate information. The problem is that AI lacks a nuanced understanding of your context, leading it to bend the facts to suit its own purposes.
@@ -48,9 +55,23 @@ AI is transforming the world as we know it, with its impact felt across every in
 
  Sure, you can easily write this off as a bug or a one-off mistake. However, this does not change the fact that these AI tools are imperfect, and we should proceed cautiously.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. It Can Hinder Your Creativity
 
 ![man with head on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-with-head-on-desk.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many professionals, such as writers and designers, are now using AI to maximize efficiency. However, it's important to understand that AI should be viewed as a tool rather than a shortcut. While the latter certainly sounds tempting, it can severely impact your creativity.
 
@@ -59,13 +80,6 @@ AI is transforming the world as we know it, with its impact felt across every in
  For instance, designers can [use Midjourney AI to create art](https://www.makeuseof.com/how-to-use-midjourney-create-ai-art/), but relying solely on AI can limit the scope of creativity. Instead of exploring new ideas, you may end up replicating existing designs. If you're a writer, you can [use ChatGPT or other AI chatbots for research](https://www.makeuseof.com/ai-writing-tools/), but if you use it as a shortcut to generate content, your writing skills will stagnate.
 
  Using AI to supplement your research is different from solely relying on it to generate ideas.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. AI Can Easily Be Misused
 
@@ -76,6 +90,13 @@ AI is transforming the world as we know it, with its impact felt across every in
  The use of AI-generated deepfakes to create explicit photos of unsuspecting women is a disturbing trend. Cybercriminals are also using AI-driven DoS attacks to prevent legitimate users from accessing certain networks. Such attacks are becoming increasingly complex and challenging to stop since they exhibit human-like characteristics.
 
  The availability of AI capabilities as open-source libraries have enabled anyone to access technologies like image and facial recognition. This poses a significant cybersecurity risk, as terrorist groups could use these technologies to launch terror attacks
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Limited Understanding of Context
 
@@ -96,13 +117,6 @@ AI is transforming the world as we know it, with its impact felt across every in
  For example, if you ask an AI system to choose between two books, it may recommend the one with higher ratings, but it cannot consider your personal taste, reading preferences, or the purpose for which you need the book.
 
  On the other hand, a human reviewer can provide a more nuanced and personalized review of the book by evaluating its literary value, relevance to the reader's interests, and other subjective factors that cannot be measured objectively.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Be Careful With Artificial Intelligence
 
@@ -125,5 +139,26 @@ AI is transforming the world as we know it, with its impact felt across every in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-stream-the-best-games-list-9/"><u>[Updated] In 2024, Stream the Best Games List #9</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimal-mac-animation-storer-for-2024/"><u>[Updated] Optimal Mac Animation Storer for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-effortlessly-create-a-cross-platform-conversation-space-on-skype-a-detailed-manual-for-users-of-all-os-platforms/"><u>2024 Approved Effortlessly Create a Cross-Platform Conversation Space on Skype A Detailed Manual for Users of All OS Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-tips-and-tricks-perfecting-webcam-recordings-on-macbook/"><u>2024 Approved Tips & Tricks Perfecting Webcam Recordings on MacBook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-detective-duty-step-into-4-virtual-investigations/"><u>AI-Powered Detective Duty: Step Into 4 Virtual Investigations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-breakthrough-us-ai-enhanced-with-chatgpt-plus-us20mo/"><u>Conversational Breakthrough: U.S. AI Enhanced with ChatGPT Plus (US$20/Mo)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-gpts-evolutionary-journey-from-1-to-4/"><u>Decoding GPT's Evolutionary Journey From 1 to 4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-sphere-shifts-with-impending-gpt-4-release/"><u>DIY Sphere Shifts with Impending GPT-4 Release</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/doubt-on-zerogpt-are-other-ai-detectors-trusted-equally/"><u>Doubt on ZeroGPT: Are Other AI Detectors Trusted Equally?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/easy-guide-to-start-product-review-channel-for-2024/"><u>Easy Guide to Start Product Review Channel for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-safe-ai-growth-the-openai-executive-stance/"><u>Ensuring Safe AI Growth - The OpenAI Executive Stance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-realme-narzo-n55-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Realme Narzo N55 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-a05s-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel A05s to Outlook | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-essential-guide-instagram-optimization-through-final-cut-pro-x/"><u>In 2024, The Essential Guide Instagram Optimization Through Final Cut Pro X</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-designing-unique-chatgpt-experiences/"><u>Mastering GPT: Designing Unique ChatGPT Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-wave-on-iphones-chatgpt-written-for-you/"><u>New Wave on iPhones: ChatGPT' Written for You</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/personalized-marketing-automation-unleash-potential-with-cookiebot-integration/"><u>Personalized Marketing Automation: Unleash Potential with Cookiebot Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-personal-data-breach-from-curated-chatgpts/"><u>Preventing Personal Data Breach From Curated ChatGPTs</u></a></li>
+</ul></div>
 

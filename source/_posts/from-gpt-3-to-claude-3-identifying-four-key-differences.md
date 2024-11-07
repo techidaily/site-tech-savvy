@@ -1,7 +1,7 @@
 ---
 title: "From GPT-3 to Claude 3: Identifying Four Key Differences"
-date: 2024-10-25T16:54:28.605Z
-updated: 2024-11-01T18:39:24.408Z
+date: 2024-11-03T00:26:08.704Z
+updated: 2024-11-07T02:28:20.154Z
 tags:
   - chatgpt
   - open-ai
@@ -54,18 +54,26 @@ thumbnail: https://thmb.techidaily.com/d74cf4b29502f7468c16f9d06652978b0acc41463
 2. Sample 2  
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
-![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
 
@@ -81,34 +89,27 @@ thumbnail: https://thmb.techidaily.com/d74cf4b29502f7468c16f9d06652978b0acc41463
 
 ![Coconut to wealth by Claude writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-claude.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2  Claude Offers Multimodality for Free
 
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3  Larger Context Window
 
@@ -151,20 +152,24 @@ thumbnail: https://thmb.techidaily.com/d74cf4b29502f7468c16f9d06652978b0acc41463
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-5-ways-to-record-roblox-gameplay-on-mac/"><u>[Updated] 2024 Approved 5 Ways to Record Roblox Gameplay on Mac</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-techniques-to-upload-extended-videographics-on-instagram/"><u>[Updated] 2024 Approved Techniques to Upload Extended Videographics on Instagram</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-free-to-text-on-mac-30-apps-that-deserve-your-notice/"><u>[Updated] Top Free to Text on Mac 30 Apps That Deserve Your Notice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-productivity-essential-tools-for-content-gurus/"><u>AI-Driven Productivity: Essential Tools for Content Gurus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-solutions-integrating-chatgpt-into-sheets/"><u>AI-Driven Solutions: Integrating ChatGPT Into Sheets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artists-accuse-tech-titans-silvermans-lead-in-ai-lawsuit/"><u>Artists Accuse Tech Titans: Silverman's Lead in AI Lawsuit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-chatgpt-to-claude-understanding-the-leadership-in-4-aspects/"><u>From ChatGPT to Claude: Understanding The Leadership in 4 Aspects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/googles-palm-2-versus-openais-bold-gpt-4/"><u>Google's PaLM 2 Versus OpenAI's Bold GPT-4</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-powerpoint-persona-establishing-your-presentations-voice/"><u>In 2024, PowerPoint Persona Establishing Your Presentation's Voice</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-revolutionize-your-online-presence-with-live-screenshares/"><u>In 2024, Revolutionize Your Online Presence with Live Screenshares</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/insight-into-youtubes-latest-income-and-rewards/"><u>Insight Into YouTube's Latest Income and Rewards</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-10-trending-memes-right-now-include-image-gifvideo/"><u>New 10 Trending Memes Right Now (Include Image/ GIF/Video)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premier-8-chatgpt-inquiries-to-enhance-work-efficiency-and-quality/"><u>Premier 8 ChatGPT Inquiries to Enhance Work Efficiency & Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pretend-bot-aid-chrome-filches-on-facebook-passwords/"><u>Pretend Bot Aid Chrome: Filches on Facebook Passwords</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/187310-9781932681208-the-mirror-of-alchemy/"><u>The Mirror of Alchemy | Free Book</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-analyzing-user-interface-and-features-in-youtube-mobile-app/"><u>[New] 2024 Approved Analyzing User Interface and Features in YouTube Mobile App</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-non-profit-gaming-soundtrack-sources/"><u>[New] 2024 Approved Non-Profit Gaming Soundtrack Sources</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-audio-skills-using-audacity-professionally/"><u>[New] Transforming Audio Skills Using Audacity Professionally</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-elevate-photo-beauty-with-top-10-iphoneandroid-stickers-apps/"><u>[Updated] Elevate Photo Beauty with Top 10 iPhone/Android Stickers Apps</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ve-financial-insight-the-simple-three-steps-to-assess-youtube-earning-potential-for-2024/"><u>Achieve Financial Insight The Simple Three Steps To Assess YouTube Earning Potential for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-declares-your-gadget-as-a-classic-collectible-insights-on-outdated-devices-and-their-evolutionary-significance/"><u>Apple Declares Your Gadget as a Classic Collectible: Insights on Outdated Devices & Their Evolutionary Significance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-the-creator-gap-with-ai-help/"><u>Bridging the Creator Gap with AI Help</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compelling-reasons-to-prefer-microsoft-copilot-vs-chatgpt/"><u>Compelling Reasons to Prefer Microsoft Copilot Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-on-superior-ai-gpt-plus-or-perplexity/"><u>Deciding on Superior AI: GPT Plus or Perplexity?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-vs-huggingface-duel-who-wins/"><u>GPT Vs. Huggingface Duel: Who Wins?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-evaluation-post-turing-paradigm-shift/"><u>Revolutionizing AI Evaluation Post-Turing Paradigm Shift</u></a></li>
+<li><a href="https://win11.techidaily.com/self-guided-check-secure-your-pc-against-cyber-attacks/"><u>Self-Guided Check: Secure Your PC Against Cyber Attacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-synergy-how-chatgpt-enhances-analytical-prowess/"><u>Strategic Synergy: How ChatGPT Enhances Analytical Prowess</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-best-ios-alternatives-to-play-timeless-psp-game-classics/"><u>The Best iOS Alternatives to Play Timeless PSP Game Classics</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-itel-s23-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Itel S23 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/think-twice-before-whispering-confidentials-to-chatgpt/"><u>Think Twice Before Whispering Confidentials to ChatGPT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-ios-slideshow-creation-tools-xs-max-a9/"><u>Top iOS Slideshow Creation Tools (XS Max - A9)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-truth-how-do-i-detect-if-my-privacy-is-compromised-by-apples-airtag/"><u>Uncover the Truth: How Do I Detect If My Privacy Is Compromised by Apple's AirTag?</u></a></li>
 </ul></div>
 

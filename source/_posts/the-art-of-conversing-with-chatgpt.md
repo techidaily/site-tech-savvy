@@ -1,7 +1,7 @@
 ---
 title: The Art of Conversing with ChatGPT
-date: 2024-10-26T17:36:31.739Z
-updated: 2024-11-01T19:00:59.327Z
+date: 2024-10-30T21:35:42.022Z
+updated: 2024-11-07T02:32:34.175Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
  Developed by OpenAI, ChatGPT was trained on an enormous amount of data from the internet, which probably included troves of information from places like Wikipedia, blogs, how-to websites, and scientific articles. [ChatGPT can now browse the web](https://www.makeuseof.com/what-chatgpt-accessing-up-to-date-information-means/), adding more power to an incredible tool.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How ChatGPT Works
 
  ChatGPT was trained using a mix of machine learning and human intervention, using a method called reinforcement learning from human feedback (RLHF).
@@ -53,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
  Far from being perfect, [there are many problems facing ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), from confidently stating wrong facts to being a weapon for disinformation. Make sure to [protect your privacy when using ChatGPT for work](https://www.makeuseof.com/protect-privacy-using-chatgpt-for-work/), and never include personal information.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create a ChatGPT Account
@@ -68,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 ## How to Use ChatGPT
 
 ![ChatGPT interface October 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-interface-october-2023.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Using ChatGPT is simple, thanks to a minimalist interface. After the ChatGPT login page, like an ordinary messaging app, you type in the text box and hit enter or click the send button (paper airplane symbol).
 
@@ -90,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
 ![Asking ChatGPT for a few iconic places to visit in NYC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/asking-chatgpt-for-a-few-iconic-places-to-visit-in-nyc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Many people turn to Google when they want to ask how something works, but sifting through a website takes time. Instead of putting that question to the internet, you can use ChatGPT to get a quick and straightforward answer.
 
  Not to mention, there's the added benefit of having no annoying ads. You can also ask ChatGPT to present the information in the best way for you, for example, as a bullet point list instead of a paragraph. And if the answer is going way over your head, request the info to be simplified for better understanding.
@@ -104,31 +111,24 @@ thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306e
 
  It doesn't stop there, though. ChatGPT can create graphs, explain difficult concepts, generate unique stories with images (using ChatGPT Plus), and more. Effectively, your imagination is the only limitation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is the ChatGPT App?
 
 [ChatGPT has an app for iOS and Android](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/) that is worth checking out. Having the app on your phone is convenient for quick queries. Plus, the messaging style interface is a natural fit for mobile use.
 
 ![ChatGPT has been downloaded in the AppStore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096283_y.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![text box and microphone icon in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096282_y.jpg)
 
 ![Sound being converted to text in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096281_y.jpg)
 
 ![A response in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/photo_6003550456976096280_y.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -137,13 +137,6 @@ Close
 ## Browsing the Internet With ChatGPT
 
 ![chatgpt with internet access october 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-with-internet-access-october-2023.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As we mentioned earlier, ChatGPT can access the internet, and it's a game changer. To get this feature, you will [need a subscription to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/), which will set you back $20 per month. However, the chance to access real-time information might be worth it to you.
 
@@ -166,10 +159,17 @@ Close
 ![ChatGPT provide feedback text box for negative response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-provide-feedback-text-box-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Entering a New Era of AI Chatbots
@@ -199,18 +199,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-behind-the-scenes-of-effective-instagram-caption-use/"><u>[New] Behind the Scenes of Effective Instagram Caption Use</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-roundup-30-leading-free-vectr-and-illustration-sites-online/"><u>[New] Exclusive Roundup 30 Leading Free Vectr and Illustration Sites Online</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unleash-the-potential-of-pip-in-microsoft-edge-browser-for-2024/"><u>[Updated] Unleash the Potential of PIP in Microsoft Edge Browser for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024-12-youtubers-mp3/"><u>2024 必看! 提高音頻處理效率的 12 款 YouTuber's MP3 優化工具</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-effortless-fb-movie-access-top-8-tools-of-23/"><u>2024 Approved Effortless FB Movie Access Top #8 Tools of '23</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726226954188-movavim4amp3/"><u>使用Movavi免费在线将M4A格式转换为MP3 - 免费移动设备支持</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/automated-marketing-with-cookiebot-enhance-your-digital-campaigns/"><u>Automated Marketing with Cookiebot: Enhance Your Digital Campaigns</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-13-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 13 to iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/converti-file-video-3gp-a-mp3-gratuitamente-online-con-movavi/"><u>Converti File Video 3Gp a MP3 Gratuitamente Online Con Movavi</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/al-footprint-and-interactive-iconography-honors/"><u>Digital Footprint and Interactive Iconography Honors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-online-converter-convert-m4a-to-vob-using-movavi/"><u>Free Online Converter - Convert M4A to VOB Using Movavi</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/retain-snapchat-moments-android-and-mac-solutions-for-2024/"><u>Retain Snapchat Moments Android and Mac Solutions for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/vollstandiges-loschen-aller-apps-und-einstellungen-auf-dem-iphone-schritt-fur-schritt-tipps/"><u>Vollständiges Löschen Aller Apps Und Einstellungen Auf Dem iPhone - Schritt-Für-Schritt-Tipps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-how-to-pick-a-unique-name-for-youtube-channel-filmora/"><u>[New] 2024 Approved How To Pick a Unique Name for YouTube Channel - Filmora</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/movie-essentials-making-your-youtube-openers-stand-out-for-2024/"><u>[New] IMovie Essentials Making Your YouTube Openers Stand Out for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comparative-evaluation-of-cost-effective-clouds/"><u>2024 Approved Comparative Evaluation of Cost-Effective Clouds</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmenting-digital-conversations-with-ai-helpdesk/"><u>Augmenting Digital Conversations with AI Helpdesk</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-future-of-your-devices-with-ai-unveiling-smart-innovations-in-upcoming-iphone-mac-and-ipad-models-zdnet/"><u>Discover the Future of Your Devices with AI: Unveiling Smart Innovations in Upcoming iPhone, Mac & iPad Models | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-unique-in-digital-dialogue/"><u>Discovering the Unique in Digital Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-steps-for-setting-up-your-new-ipad-tips-and-tricks-from-zdnet/"><u>Essential Steps for Setting Up Your New iPad - Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-on-the-newest-iphone-15-unmatched-performance-that-attracts-both-novices-and-pro-enthusiasts-zdnet-review/"><u>Expert Advice on the Newest iPhone 15: Unmatched Performance That Attracts Both Novices and 'Pro' Enthusiasts | ZDNET Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quickly-crafting-a-facebook-collage-a-step-by-step-guide/"><u>In 2024, Quickly Crafting a Facebook Collage A Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-sea-of-content-design-with-canva-and-ai/"><u>Navigating the Sea of Content Design - With Canva and AI</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-error-code-0xc00ce556/"><u>Navigating Windows Error Code: 0XC00CE556</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speedy-communication-made-easy-adding-bings-ai-to-your-android-device/"><u>Speedy Communication Made Easy: Adding Bing's AI to Your Android Device</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/zmi-powerpack-20000-review-unleash-the-might-of-a-tiny-portable-charger/"><u>ZMI PowerPack 2ˈ0000 Review: Unleash the Might of a Tiny, Portable Charger</u></a></li>
 </ul></div>
 

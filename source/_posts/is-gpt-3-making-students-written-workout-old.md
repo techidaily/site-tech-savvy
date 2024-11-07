@@ -1,7 +1,7 @@
 ---
 title: Is GPT-3 Making Students' Written Workout Old?
-date: 2024-09-12T16:26:53.644Z
-updated: 2024-09-17T16:02:13.042Z
+date: 2024-11-02T01:44:31.207Z
+updated: 2024-11-07T10:20:39.788Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
 ![a library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-library.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When online search peaked, research became much easier for students. They no longer had to go through tons of books, magazines, and articles across different libraries—type in some choice keywords and separate the wheat from the chaff in the results.
 
  But even with the faster search results, they still had to use their critical thinking skills to analyze the data and write what they learned. And while it's easier to plagiarize now, as you just have to copy and paste the data from your browser to your word processor, teachers can easily catch this form of cheating.
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
  However, when ChatGPT launched, students discovered it was more than just a research and summarizing tool. ChatGPT uses natural language processing (NLP—[what is NLP?](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/)) to understand your search intent, and then it conversationally answers your question.
 
 ![chatgpt site open on desktop monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-pc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This is the basic gist of [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/): when you ask ChatGPT anything, it doesn't send you to an article or a website. Instead, it goes through all its stored information and recognizes patterns based on what it has learned. From there, it will return an answer it predicts will satisfy your need.
 
@@ -84,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
 ![student cheating on an exam with their phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/student-cheating-on-an-exam-with-their-phone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, as with any new technology, some students misuse it. Because ChatGPT answers questions by predicting the correct response, it will paraphrase its sources. So, it's tempting for many to copy and paste what ChatGPT regurgitated from the internet.
 
  And because ChatGPT's results are mostly unique, it isn't easy to spot them. And although [OpenAI launched a detection tool](https://www.makeuseof.com/openai-launches-ai-detector-counter-chatgpt/) to counter ChatGPT-generated text, it isn't as effective at detecting them. We've already read a report from [The Washington Post](https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/) where a ChatGPT detector returned a false positive, and [The Conversation](https://theconversation.com/we-pitted-chatgpt-against-tools-for-detecting-ai-written-text-and-the-results-are-troubling-199774) published a piece on how AI detectors are easily outsmarted.
@@ -105,9 +112,23 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
  So, how can teachers, professors, and educators change the student essay to make it evolve with AI?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Make the Questions More Pointed or Personal
 
  The biggest thing that generative AI like ChatGPT cannot do is write about personal experience. After all, a student's life isn't generally available online, so generative AI cannot predict that student's life.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Write Essay Questions in the Context of Current Events
 
@@ -118,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
  However, students with access to ChatGPT Plus or GPT-4 get a fully updated version of ChatGPT. So, as part of checking essays, the teacher should also quiz the student on what they wrote.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Students Should Present Their Essays as Reports
@@ -130,31 +151,11 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
  This ensures that the students are truly knowledgeable in their assigned topic. And to further the discussion, the professor should encourage the student audience to ask questions. This will help the reporting student or group and the rest of the class think analytically.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Essays Should Be Written Offline During Class or Exams
 
  If an essay is the best way to determine a student's understanding of a topic, then it should be limited in the classroom during on-paper exams. That way, the student must rely solely on their knowledge to explain a topic.
 
 ![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Essays Can Still Gauge Student Knowledge and Competence
 
@@ -181,5 +182,24 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-making-spectacular-slow-motion-images-for-instagram/"><u>[New] Step-by-Step Guide to Making Spectacular Slow Motion Images for Instagram</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-top-rated-apps-to-elevate-instagram-imagery/"><u>[Updated] In 2024, Top-Rated Apps to Elevate Instagram Imagery</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-essential-fb-video-loader-apps-ranked-5/"><u>2024 Approved Essential FB Video Loader Apps Ranked #5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-computer-showdown-in-depth-review-of-leading-brands-like-apple-and-dell-on-zdnet/"><u>2024'S Ultimate Computer Showdown: In-Depth Review of Leading Brands Like Apple and Dell on ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-data-exposure-risks-with-chatgpt/"><u>Assessing Data Exposure Risks with ChatGPT</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/best-sites-to-buy-monetized-youtube-channels-for-beginners-for-2024/"><u>Best Sites to Buy Monetized YouTube Channels for Beginners for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-cursor-signal-strength-in-win-11-os/"><u>Boosting Cursor Signal Strength in Win 11 OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-innovation-how-apples-ipad-pro-stands-out-without-trying-to-replace-your-macbook-zdnet-tech-reviews/"><u>Embracing Innovation: How Apple's IPad Pro Stands Out Without Trying to Replace Your MacBook | ZDNET Tech Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-global-to-in-home-ais-a-comparative-study/"><u>From Global to In-Home AIs: A Comparative Study</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-htc-u23-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 HTC U23 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-tips-on-recovering-lost-airpods-and-avoiding-repeated-misplacement-zdnet/"><u>Master Tips on Recovering Lost AirPods & Avoiding Repeated Misplacement | ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-mouse-drivers-for-efficient-windows-use/"><u>Mastering Mouse Drivers for Efficient Windows Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-quest-3-and-apple-vision-pro-replaced-with-budget-friendly-xr-options-my-experience-zdnet/"><u>Meta Quest 3 and Apple Vision Pro Replaced with Budget-Friendly XR Options - My Experience | ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/monday-a-dimanche-en-france/"><u>Monday À Dimanche en France</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-ideal-ipad-pro-case-in-2n4-in-depth-analysis-and-ratings/"><u>Ultimate Guide to Choosing the Ideal iPad Pro Case in 2N4: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-hidden-in-built-iot-control-center-is-your-mac-or-ipad-equipped-with-it/"><u>Unveiling the Hidden In-Built IoT Control Center: Is Your Mac or iPad Equipped with It?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-how-to-mute-audio-from-video-for-2024/"><u>Updated How to Mute Audio From Video for 2024</u></a></li>
+</ul></div>
 

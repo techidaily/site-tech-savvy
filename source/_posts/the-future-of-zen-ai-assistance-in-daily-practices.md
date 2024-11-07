@@ -1,7 +1,7 @@
 ---
 title: "The Future of Zen: AI Assistance in Daily Practices"
-date: 2024-10-30T17:17:57.363Z
-updated: 2024-11-01T17:22:22.992Z
+date: 2024-11-06T06:41:28.915Z
+updated: 2024-11-06T19:27:24.249Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
 ![Screenshot of a ChatGPT response to meditation setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-setup.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Ask ChatGPT Initial Questions About Meditation
 
  A great way to familiarize yourself with ChatGPT is to ask questions about any aspects of meditation that you want to learn more about. For example, you could use prompts such as:
@@ -54,7 +61,21 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
 ![Screenshot of a ChatGPT response to asking questions about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-asking-questions-about-meditation.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Of course, you must exercise caution when interacting with ChatGPT about such issues. When I asked about depression and meditation, the first line of the ChatGPT answer was, “I'm not a mental health professional, but I can provide some general information about the potential benefits of meditation for mental health.” Here’s [how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use ChatGPT to Help Identify Your Intentions for the Meditation Session
 
@@ -64,19 +85,19 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
 ![Screenshot of a ChatGPT response to meditation intentions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-meditation-intentions.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try to frame your intentions positively, with statements such as:
 
 * I aim to find inner joy.
 * I intend to calm my mind and relax.
 
  It can be helpful to write down any useful suggestions you receive for future reference.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Start Your Meditation Session Using ChatGPT
 
@@ -99,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 ![Screenshot of a ChatGPT response refining answers about meditation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-refining-answers-about-meditation.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Apply the ChatGPT Advice in Your Meditation Session
@@ -117,20 +138,6 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
 ![Screenshot of a ChatGPT response to breathing exercise question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-breathing-exercise-question.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Set Future Goals Using ChatGPT for Guidance
 
  Hopefully, your meditation session has left you refreshed and eager to make meditation a regular habit. You can interact with ChatGPT to help devise a meditation practice to suit you. Ask questions such as:
@@ -142,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
  When I asked how to incorporate meditation into my daily routine, ChatGPT came up with a dozen great ideas, including using breaks wisely and incorporating mindful moments into everyday tasks like walking, eating, or washing dishes.
 
 ![Screenshot of a ChatGPT response to setting meditation goals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-a-chatgpt-response-to-setting-meditation-goals.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Of course, you can combine these answers with advice from other sources, such as our list of [meditation apps to help you pause for a mindful moment on the go](https://www.makeuseof.com/meditation-apps-mindful-moment-on-go/).
 
@@ -177,22 +177,19 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-start-shooting-smart-top-15-shot-techniques-for-beginners/"><u>[New] Start Shooting Smart Top 15 Shot Techniques for Beginners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028596410-mp4hevc/"><u>「高品質保持: MP4からHEVCへの最良変換法」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44cm44ov44kj44or44og6ako44k544k44kk44or44gn5yuv55s744ke5pig55s744ks44oq44oh44kk44kv44gz44kl44gf44kb44gu56m25qw144ks44kk44oj44cn/"><u>「フィルム風スタイルで動画や映画をリメイクするための究極ガイド」</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-color-coding-in-the-digital-world-srgb-vs-rgb/"><u>2024 Approved Color Coding in the Digital World Srgb vs Rgb</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-effective-ways-to-transform-mxf-videos-without-costing-a-penny/"><u>4 Effective Ways to Transform MXF Videos Without Costing a Penny</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-best-ways-to-transform-m4v-files-into-avi-format-a-comprehensive-guide/"><u>5 Best Ways to Transform M4V Files Into AVI Format: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5yuv55s744gu44gw44kp44gk44gn44gm5q2i44gplus44kl5pa55rov77ya56k65a6f44gr44k544og44o844k65yyw44gz44kl44gf44kb44gu44os44oz44oi44go44ov44k2/"><u>動画のざわつきが止まる方法：確実にスムーズ化するためのヒントとワザ</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030250047-vlc/"><u>音声が再生されないVLC動画 - 修正手順とそのトリック</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726029569074-top5/"><u>最も優れた無料ビデオ編集アプリケーションTOP5推薦ランキング</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ac-3-vs-aac/"><u>AC-3 Vs. AAC：主要な違いとファイル間変換手順</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone XS Max/iPad? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-poco-f5-pro-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Poco F5 Pro 5G Is Unlocked</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-apex-smartphone-triad-for-ultimate-video-quality/"><u>In 2024, Apex Smartphone Triad for Ultimate Video Quality</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-on-how-to-embed-durable-subtitles-in-your-films-for-easy-accessibility/"><u>Step-by-Step Guide on How to Embed Durable Subtitles in Your Films for Easy Accessibility.</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/streamlined-techniques-for-sharing-your-desktopmobile-screen/"><u>Streamlined Techniques for Sharing Your Desktop/Mobile Screen</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-building-brands-on-the-buzzing-platform-of-instagram-marketing/"><u>[Updated] 2024 Approved Building Brands on the Buzzing Platform of Instagram Marketing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-navigating-the-world-of-zoom-audio-to-text-tools/"><u>[Updated] In 2024, Navigating the World of Zoom Audio to Text Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-tutorial-for-posting-pics-on-ig/"><u>2024 Approved The Ultimate Tutorial for Posting Pics on IG</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/app-stores-showdown-ios-app-store-against-google-play-analysis/"><u>App Stores Showdown: IOs App Store Against Google Play Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-biometrics-what-you-need-to-know/"><u>Exploring the World of Biometrics: What You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-adoption-unveiling-the-how-and-why/"><u>GPT-4 Adoption: Unveiling the How and Why</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-overcome-iphone-synchronization-issues-with-itunes-error-code-54-after-upgrading-to-windows-10/"><u>How to Overcome iPhone Synchronization Issues with iTunes Error Code '-54' After Upgrading to Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-zero-30-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Zero 30 5G Easily?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-revolutionize-your-speaking-style-in-snapchat-with-two-easy-methods/"><u>In 2024, Revolutionize Your Speaking Style in Snapchat with Two Easy Methods</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/increasing-product-attractiveness-a-guide-with-massmail-pro/"><u>Increasing Product Attractiveness: A Guide with MassMail Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-18-enhances-airpods-pro-with-built-in-hearing-aid-support-eliminating-the-need-for-hardware-upgrade/"><u>IOS 18 Enhances AirPods Pro With Built-In Hearing Aid Support, Eliminating the Need for Hardware Upgrade</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpts-token-constraints/"><u>Navigating ChatGPT’s Token Constraints</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-the-new-ipad-9th-generation-at-a-bargain-price-of-only-250-following-apples-recent-update-tech-insights/"><u>Score the New iPad (9Th Generation) at a Bargain Price of Only $250 Following Apple's Recent Update – Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/using-advanced-ai-for-delicate-office-dialogue-delivery/"><u>Using Advanced AI for Delicate Office Dialogue Delivery</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Assessing Data Exposure Risks with ChatGPT
-date: 2024-10-31T18:46:40.635Z
-updated: 2024-11-01T17:03:49.991Z
+date: 2024-11-05T22:47:24.291Z
+updated: 2024-11-07T02:38:44.576Z
 tags:
   - chatgpt
   - open-ai
@@ -42,24 +42,31 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
  The real risk is that it collects data from your conversations with ChatGPT. When you’re using the AI, it’s extremely easy to feed it your private information by mistake. All you need to do is forget to censor a document that you ask it to proofread, and you could be in real trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Your Account and Billing Information
 
  OpenAI stores your name, contact details, login credentials, payment information, and transaction records. It only keeps the latter if you sign up for a premium account. This information is basic, and you can expect almost any website with which you have an account to collect it from you.
 
  If you email the company or reach out to its customer support, it records your name, email address, and the content of your message. Similarly, it records your social media contact details and any personal information you share if you leave a comment on its social pages.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Your Device Information
 
  ChatGPT's service garners some personal information automatically from your device and browser. This includes your IP address, location, browser type, and the date and time that you start using ChatGPT as well as the length of your session. ChatGPT also retrieves your device’s name and operating system.
 
  OpenAI [uses cookies to track your browsing activity](https://www.makeuseof.com/a-beginners-guide-to-cookies/) both in the chat window and on its site. It claims to use this information for analytics and to find out exactly how you interact with ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Information That You Put Into the Chat
 
@@ -71,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
  The privacy policy states that if you intend to enter personal data into the chat, you need to provide the people involved with adequate privacy notices. You also need to obtain their consent, and be able to show OpenAI that you are processing this data within the law. Further, if you’re entering information defined as private [according to GDPR](https://www.makeuseof.com/what-is-gdpr/), you must contact OpenAI to execute its Data Processing Addendum.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does ChatGPT Record Your Conversations?
 
  Yes, ChatGPT records everything you type into it. Its privacy policy states that when you use ChatGPT, it may collect personal information from your messages, any files you upload, and any feedback you provide. That makes [ChatGPT a cybersecurity risk too](https://www.makeuseof.com/is-chatgpt-safe-cybersecurity-risks-openai-chatbot/).
@@ -88,9 +88,23 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
  In an [OpenAI announcement](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) made at the time, it was stated that, when chat history is disabled, the company only retains conversations for 30 days. After 30 days, the conversations are deleted permanently. Conversations are only reviewed when they need to be monitored for abuse and inappropriate behavior.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who Can See My ChatGPT Data?
 
 ![A conversation with ChatGPT in which it admits AI trainers can see our logs.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-issues-who-can-see-our-conversations-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your personal information is available to a surprising number of people and entities. In its privacy policy, OpenAI states that it shares this data with:
 
@@ -108,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
  And finally, OpenAI’s training staff will review your conversations and use them to improve the AI. They also ensure that what you’re saying in your chats complies with the company’s policies. If you enter personal information into the chatbot, the trainers can see it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will Regulatory Pressure Force OpenAI to Take Privacy More Seriously?
 
  In May 2023, [Italy banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) for allegedly violating the GDPR. The ban has since been lifted, but regulatory bodies around the world have put pressure on OpenAI, demanding more transparency and accountability.
@@ -126,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
  The FTC also asked OpenAI to explain the security incident that took place in March 2023, when a bug in the system allowed some users to see others' chat history and payment information. In response, OpenAI CEO Sam Altman said in a social media post that his company would work with the agency, but stressed that ChatGPT follows the law.
 
  It's more than likely that governments across the globe will launch similar investigations into ChatGPT in the future, and it remains to be seen if this will have an impact on OpenAI's approach to user privacy.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT: Friend or Foe?
 
@@ -161,24 +161,16 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-young-yachtsmens-playtime-pleasures/"><u>[New] 2024 Approved Young Yachtsmen's Playtime Pleasures</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-quick-and-effective-methods-to-save-instagram-stories/"><u>[New] In 2024, Quick & Effective Methods to Save Instagram Stories</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-audio-integration-in-adobe-premiere-pro/"><u>[New] Mastering Audio Integration in Adobe Premiere Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024mp47/"><u>「2024年度のベストMP4カットツールトップ7秒殺 - 無料版厳選」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44cm44ki44od44ox44kw44os44o844oj44od44oq44k344o844gu6kmz57sw44ks55plusl44kk44gf44ge44cn/"><u>「アップグレードポリシーの詳細を知りたい」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/43169/"><u>4:3ビデオを16:9比率に転換するためのステップバイステップガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-best-zero-cost-video-compressors-available-online-compare-and-save-space/"><u>5 Best Zero-Cost Video Compressors Available Online – Compare and Save Space!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/202ebishi-best-free-software-the-ultimate-guide-to-the-perfect-vacation/"><u>今後使える! 「202Ebishi Best Free Software: The Ultimate Guide to the Perfect Vacation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030201463-youtubemp3/"><u>最新チョームプラグインでYouTubeからMP3を取得する詳細ガイド</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/access-high-quality-video-editing-swiftly-convert-swf-files-using-factory-pro-free-demo-plus-safe-checkout/"><u>Access High-Quality Video Editing: Swiftly Convert SWF Files Using Factory Pro (Free Demo + Safe Checkout)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-new-charms-of-fortnite-the-thrilling-insights-into-the-current-chapter-update/"><u>Discover New Charms of Fortnite: The Thrilling Insights Into the Current Chapter Update</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-plus-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 Plus to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-jumpstarting-video-communication-a-3-step-guide-for-snapchat-users/"><u>In 2024, Jumpstarting Video Communication A 3-Step Guide for Snapchat Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-t2-pro-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo T2 Pro 5G Device</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mastering-the-art-of-saving-your-favorite-shows-for-2024/"><u>Mastering the Art of Saving Your Favorite Shows for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tips-on-using-uavs-creatively-in-filmmaking/"><u>Tips on Using UAVs Creatively in Filmmaking</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/verschiedene-wege-deutschsprachige-grussformeln-zu-finden/"><u>Verschiedene Wege, Deutschsprachige Grußformeln Zu Finden</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44km44kp44o844kv44oe44oz44gu5yan55sf44gr5zwp6agm44gm44gc44kl77yf5yuv55s744go6zplusz5qw944ks44k544og44o844k644gr6ig044gr44kl5pya5paw44og44kv44ol44od44kv/"><u>ウォークマンの再生に問題がある？動画と音楽をスムーズに聴ける最新テクニック</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44or44k944kz44oz44gn5yuv55s744gu5qplusu546h6kit5a6a44o75asj5pu044ks44kk44oj/"><u>パソコンで動画の比率設定・変更ガイド</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-impassioned-orator-review-revision-hexadecimal-eight-for-2024/"><u>[New] Impassioned Orator Review - Revision Hexadecimal Eight for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-elite-streamers-choice-for-secure-downloads-8/"><u>[Updated] In 2024, Elite Streamer’s Choice for Secure Downloads 8</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-5-eco-conscious-filmmaking-advances/"><u>[Updated] In 2024, Top 5 Eco-Conscious Filmmaking Advances</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speech-to-text-efficient-conversion-techniques-for-microsoft-word-users/"><u>2024 Approved Speech to Text Efficient Conversion Techniques for Microsoft Word Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-gpt-decode-complex-calculations/"><u>Can GPT Decode Complex Calculations?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exchange-testimonial-mastery-fabios-video-guide/"><u>Exchange Testimonial Mastery - Fabio's Video Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-codegpts-vision-could-it-automate-the-coding-process/"><u>Exploring CodeGPT's Vision: Could It Automate the Coding Process?</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-nubia-red-magic-8s-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nubia Red Magic 8S Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-xs-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone XS without Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-efficiency-personal-assistant-gpt-at-work/"><u>Unlocking Efficiency: Personal Assistant GPT at Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-im-choosing-the-new-iphone-16-pro-mini-over-the-iphone-16-pro-max-insights-from-zdnet/"><u>Why I'm Choosing the New iPhone 16 Pro (Mini) Over the iPhone 16 Pro Max - Insights From ZDNet</u></a></li>
 </ul></div>
 

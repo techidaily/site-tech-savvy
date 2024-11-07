@@ -1,7 +1,7 @@
 ---
 title: The Hidden Dangers of Generative Tech's Abilities
-date: 2024-09-16T16:33:28.386Z
-updated: 2024-09-17T16:30:59.422Z
+date: 2024-10-31T01:56:31.848Z
+updated: 2024-11-07T12:18:54.781Z
 tags:
   - chatgpt
   - open-ai
@@ -59,10 +59,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -84,6 +84,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 
  It's crucial, then, to be able to [identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is [the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/).
@@ -93,16 +100,10 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by [The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -115,6 +116,13 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -137,5 +145,20 @@ Artificial Intelligence (AI) now plays a role in various aspects of our lives. S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unhindered-routine-changing-video-direction-with-vlc/"><u>[New] In 2024, Unhindered Routine Changing Video Direction with VLC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-sing-your-own-song-with-an-iphone-ringtone/"><u>[Updated] How to Sing Your Own Song with an iPhone Ringtone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-snapping-success-the-best-4-methods-for-chrome-os-screenshots/"><u>[Updated] In 2024, Snapping Success The Best 4 Methods for Chrome OS Screenshots</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-samsung-galaxy-m14-4g-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Samsung Galaxy M14 4G.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeating-the-unseen-enemy-persistent-stalling-in-diablo-iii-demystified/"><u>Defeating the Unseen Enemy: Persistent Stalling in Diablo III Demystified</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-gameplay-audio-problems-for-warzone-players-on-both-pc-and-consoles/"><u>How to Fix Gameplay Audio Problems for Warzone Players on Both PC and Consoles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-legally-access-fortnite-for-ios-devices-complete-step-by-step-instructions/"><u>How to Legally Access Fortnite for iOS Devices : Complete Step-by-Step Instructions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/how-to-save-and-convert-videos-from-yogaglo-into-popular-file-types-mp4-mov-avi/"><u>How To Save And Convert Videos From YogaGlo Into Popular File Types (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-composing-cinematic-stories-on-an-iphone-learn-three-no-cost-methods-to-add-tunes/"><u>In 2024, Composing Cinematic Stories on an iPhone – Learn Three No-Cost Methods to Add Tunes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-engaging-audio-experiences-a-deep-dive-into-non-sony-non-jbl-brands-featured-on-zdnet/"><u>Top Engaging Audio Experiences: A Deep Dive Into Non-Sony, Non-JBL Brands Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-october-discounts-on-amazon-echo-products-exclusive-cyber-monday-blowout-sales/"><u>Top October Discounts on Amazon Echo Products: Exclusive Cyber Monday Blowout Sales</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-pick-sound-equipment-showcased-at-ces-2024-insights-from-zdnet/"><u>Top Pick Sound Equipment Showcased at CES 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-picks-the-best-tech-gadgets-of-2023-as-chosen-by-zdnet-experts/"><u>Top Picks: The Best Tech Gadgets of 2023 as Chosen by ZDNet Experts</u></a></li>
+</ul></div>
 

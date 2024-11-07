@@ -1,7 +1,7 @@
 ---
 title: Is a Standalone ChatGPT Sufficient, or Do Plugins Matter?
-date: 2024-09-10T16:19:16.441Z
-updated: 2024-09-17T16:13:34.369Z
+date: 2024-11-02T22:02:33.944Z
+updated: 2024-11-06T23:16:13.329Z
 tags:
   - chatgpt
   - open-ai
@@ -55,6 +55,13 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  But which of them should you use and when? What unique features do they offer?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. ChatGPT Running Default GPT-3.5
 
 ![ChatGPT running on the default GPT-3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-on-the-default-gpt-3-5.jpg)
@@ -70,16 +77,10 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 ![Default ChatGPT GPT-4 model version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-chatgpt-gpt-4-model-version.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT using GPT-4 is superior to any ChatGPT version that runs on GPT-3.5, as it is the most advanced GPT model currently integrated with ChatGPT. GPT-4 gives ChatGPT more creativity and improved reasoning and mathematics abilities.
@@ -87,10 +88,16 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
  It is perfect for tasks requiring better mathematical abilities or enormous creativity, like writing a book, crafting unique jokes, or writing a speech. It also has improved programming abilities. For example, if you write code, you can fall back to this version if you have programming-related challenges.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. ChatGPT Running GPT-4 Plus Web Browsing
@@ -103,6 +110,13 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  In July 2023, due to abuse, OpenAI temporarily disabled the browsing feature.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. ChatGPT Running GPT-4 with Plugins
 
 ![ChatGPT running GPT-4 plus plugins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-gpt-4-plus-plugins.jpg)
@@ -110,13 +124,6 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
  ChatGPT with plugins is probably the most versatile version of ChatGPT. Exclusively available to ChatGPT Plus users, this variant of ChatGPT significantly extends ChatGPT's abilities beyond what it was originally designed to handle. For instance, while regular ChatGPT can not interface with a PDF file or, say, create flowcharts, ChatGPT with plugins can do so effectively as long as you pick the right plugin for the task.
 
  From everything like [using ChatGPT to chat with a PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) to creating memes, you'll find a host of ChatGPT Plugins on the plugin store that does much of what you want to achieve. The list of available plugins is actively growing, and with it, the list of new things you can achieve with this version of ChatGPT. Here are some of [the best ChatGPT plugins you can try right now](https://www.makeuseof.com/best-chatgpt-plugins/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which ChatGPT Version Is the Best?
 
@@ -143,5 +150,26 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-discovering-the-best-mac-cam-tech-without-bandicam/"><u>[New] 2024 Approved Discovering the Best Mac Cam Tech Without Bandicam</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-insiders-guide-to-vids-on-the-big-blue-network/"><u>[New] In 2024, The Insider's Guide to Vids on the Big Blue Network</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elevate-your-tiktok-presence-with-exquisite-video-templates/"><u>[Updated] Elevate Your TikTok Presence with Exquisite Video Templates</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-faster-adjustment-of-youtube-videos-for-mac-pixels/"><u>[Updated] Faster Adjustment of YouTube Videos for Mac Pixels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-highlighting-youtubes-creme-de-la-creme-makeup-influencers/"><u>[Updated] Highlighting YouTube's Crème De La Crème Makeup Influencers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-deep-dive-into-cutting-edge-vr-technology/"><u>2024 Approved A Deep Dive Into Cutting-Edge VR Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-convenience-ethical-implications-of-using-ai-for-windows-keys/"><u>Beyond Convenience: Ethical Implications of Using AI for Windows Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/designing-future-web-services-with-ai-assistance-from-chatgpt/"><u>Designing Future Web Services with AI Assistance From ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-fitness-queries-with-optimized-prompts/"><u>Elevating Fitness Queries with Optimized Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harness-the-power-of-ai-chatgpts-role-in-video-scriptwriting/"><u>Harness the Power of AI: ChatGPT's Role in Video Scriptwriting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-usechatgpts-co-pilot-extension-enhances-user-experience/"><u>How UseChatGPT's Co-Pilot Extension Enhances User Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-free-photo-upscaler-for-modern-devices/"><u>In 2024, Exclusive Free Photo Upscaler for Modern Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-whats-next-for-apple-in-gaming-exploring-clues-and-predictions-from-industry-experts/"><u>Inside Look: What's Next for Apple in Gaming? Exploring Clues and Predictions From Industry Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/install-and-optimize-microsoft-copilot-on-your-mac-easily/"><u>Install and Optimize Microsoft Copilot on Your Mac Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-interactive-entertainment-with-ai-gaming-tech/"><u>Redefining Interactive Entertainment with AI Gaming Tech</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-mystery-of-truthgpt-coin-investigating-claims-security-and-possible-scam-concerns/"><u>Unveiling the Mystery of TruthGPT Coin: Investigating Claims, Security, and Possible Scam Concerns</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-might-want-to-pause-on-these-four-key-macbook-models-expert-analysis/"><u>Why You Might Want to Pause on These Four Key MacBook Models - Expert Analysis</u></a></li>
+</ul></div>
 

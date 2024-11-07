@@ -1,7 +1,7 @@
 ---
 title: Median
-date: 2024-10-26T19:00:16.966Z
-updated: 2024-11-01T18:56:56.290Z
+date: 2024-11-05T07:13:33.632Z
+updated: 2024-11-06T22:07:13.894Z
 tags:
   - apple
 categories:
@@ -71,10 +71,16 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -94,10 +100,10 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -148,22 +154,17 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-an-introduction-to-simple-and-effective-hdr-methods/"><u>[Updated] In 2024, An Introduction to Simple and Effective HDR Methods</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtubers-with-a-glamour-touch-top-names/"><u>[Updated] In 2024, YouTubers with a Glamour Touch Top Names</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-date-coach-chatgpt-for-romance/"><u>AI Date Coach: ChatGPT for Romance</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bridging-the-gap-audio-to-text-in-powerpoint-slides-for-2024/"><u>Bridging the Gap Audio to Text in PowerPoint Slides for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/efficiency-upgrade-uncover-the-8-premier-facebook-timetables-for-2024/"><u>Efficiency Upgrade Uncover the 8 Premier Facebook Timetables for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-transition-utilizing-gpt-4-within-todays-chatgpt-setup/"><u>Seamless Transition: Utilizing GPT-4 Within Today's ChatGPT Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategy-for-successful-entry-fixing-common-chatgpt-errors/"><u>Strategy for Successful Entry: Fixing Common ChatGPT Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ai-workforce-transformation-blueprint/"><u>The AI Workforce Transformation Blueprint</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-convincing-proposals-using-chatgpt-smartly/"><u>The Art of Convincing Proposals: Using ChatGPT Smartly</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-hdr-sky-experience-online-resource-listing/"><u>The HDR Sky Experience Online Resource Listing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/top-10-premium-android-and-pc-compatible-video-editors/"><u>Top 10 Premium Android & PC-Compatible Video Editors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uniting-customer-care-chatgpt-meets-whatsapp/"><u>Uniting Customer Care: ChatGPT Meets WhatsApp</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-flip-side-of-chatgpt-plus/"><u>Unveiling the Flip Side of ChatGPT Plus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-desktop-with-these-15-free-windows-11-styles-and-skins/"><u>Upgrade Your Desktop with These 15 Free Windows 11 Styles and Skins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-the-max-length-for-chatgpts-text-output/"><u>What's the Max Length for ChatGPT's Text Output?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-finding-friends-films-and-snapshots-on-the-social-web/"><u>[New] 2024 Approved Finding Friends’ Films & Snapshots on the Social Web</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-premier-visual-experience-top-10-screen-selections-for-mac/"><u>2024 Approved Premier Visual Experience Top 10 Screen Selections for Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/high-fidelitys-strategic-move-into-the-digital-realm-through-second-life-investment-exclusive-zdnet-coverage/"><u>High Fidelity's Strategic Move Into the Digital Realm Through Second Life Investment - Exclusive ZDNet Coverage</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-40-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 40 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-motorola-edge-40-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Motorola Edge 40 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-the-revolutionary-visor-xr-the-ultimate-fix-for-common-issues-in-visionpro-gear-futuretech-trends/"><u>Introducing the Revolutionary Visor XR: The Ultimate Fix for Common Issues in VisionPro Gear | FutureTech Trends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/joint-forces-of-ai-and-5g-pioneering-the-next-wave-of-innovation-zdnet-explored/"><u>Joint Forces of AI & 5G: Pioneering the Next Wave of Innovation | ZDNet Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-vacuuming-game-with-dysons-latest-ar-technology-guaranteeing-spot-free-floors-insights-from-zdnet-get-ahead-in-smart-cleaning-solutions-today/"><u>Master Your Vacuuming Game with Dyson's Latest AR Technology, Guaranteeing Spot-Free Floors: Insights From ZDNET | Get Ahead in Smart Cleaning Solutions Today</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mobvoi-ticwatch-pro-with-lte-an-in-depth-evaluation-of-the-ultimate-smartwatch-experience/"><u>Mobvoi Ticwatch Pro with LTE - An In-Depth Evaluation of the Ultimate Smartwatch Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/have-gear-for-kickstarting-your-youtube-journey-for-2024/"><u>Must-Have Gear for Kickstarting Your YouTube Journey for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/professional-writers-meet-your-new-ai-allies/"><u>Professional Writers, Meet Your New AI Allies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-full-potential-of-5g-overcoming-initial-challenges/"><u>Unlocking the Full Potential of 5G - Overcoming Initial Challenges</u></a></li>
 </ul></div>
 

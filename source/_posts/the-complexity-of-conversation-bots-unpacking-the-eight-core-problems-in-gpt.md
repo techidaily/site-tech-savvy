@@ -1,7 +1,7 @@
 ---
 title: "The Complexity of Conversation Bots: Unpacking the Eight Core Problems in GPT"
-date: 2024-10-28T17:52:58.408Z
-updated: 2024-11-01T16:52:40.401Z
+date: 2024-11-02T11:01:36.418Z
+updated: 2024-11-06T23:59:53.517Z
 tags:
   - chatgpt
   - open-ai
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
  Learning [how to use ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) is simple, and it's equally easy to be fooled into thinking that the AI system performs without any trouble. However, since its release, key problems have emerged around privacy, security, and its wider impact on people's lives, from jobs to education.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Security Threats and Privacy Concerns
 
  There are plenty of [things that you must not share with AI chatbots](https://www.makeuseof.com/things-you-must-not-share-with-ai-chatbots/), and for good reason. Writing about your financial details or confidential workplace information comes with a risk. OpenAI retains your chat history on its servers and may share this data with a select number of third-party groups.
@@ -57,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
 ![Three open padlocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/security-lock-privacy-breach.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The watchdog organization suspected that European privacy regulations were being breached. After investigating the issue, it requested that OpenAI meet several demands to reinstate the chatbot.
 
  OpenAI eventually resolved the issue with regulators by making several significant changes. For a start, an age restriction was added, limiting the use of the app to people 18+ or 13+ with guardian permission. It also made its Privacy Policy more visible and provided an [opt-out Google form](https://docs.google.com/forms/d/e/1FAIpQLScrnC-%5FA7JFs4LbIuzevQ%5F78hVERlNqqCPCt3d8XqnKOfdRdQ/viewform) for users to exclude their data from its training or [delete ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) entirely.
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
  These changes are a great start, but the improvements should be extended to all ChatGPT users.
 
  You might not think that you would share your personal details so easily, but we're all susceptible to a slip of the tongue, and a good example of this is how a [Samsung employee shared company information with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Concerns Over ChatGPT Training and Privacy Issues
 
@@ -86,16 +79,16 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
  Unless OpenAI publishes its training data, the lack of transparency makes it difficult to know whether it was done lawfully. We don't know the details about how ChatGPT is trained, what data was used, where the data comes from, or what the system's architecture looks like in detail.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. ChatGPT Generates Wrong Answers
 
 ![A sheep in front of a blackboard with a wrong math equation displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wrong-math-answer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It fails at basic math, can't seem to answer simple logic questions, and will even go as far as to argue completely incorrect facts. As people across social media will attest, ChatGPT can get it wrong multiple times.
 
@@ -129,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
 ![litlte girl holding hands with robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/litlte-girl-holding-hands-with-robot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The dust has yet to settle after the rapid development and deployment of ChatGPT, but that hasn't stopped the underlying technology from being stitched into several commercial apps. Among the [apps that have integrated GPT-4](https://www.makeuseof.com/apps-integrate-use-gpt4/) are Duolingo and Khan Academy.
 
  The former is a language learning app, while the latter is a diverse educational learning tool. Both offer what is essentially an AI tutor, either in the form of an AI-powered character that you can talk to in the language you are learning. Or as an AI tutor that can give you tailored feedback on your learning.
@@ -145,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
  As reported by [The Guardian](https://www.theguardian.com/technology/2023/may/03/ai-race-drives-down-stock-market-valuations-of-education-firms?CMP=Share%5FAndroidApp%5FOther), Education companies posted huge losses on the London and New York stock exchanges, highlighting the disruption AI is causing to some markets as little as six months after ChatGPT was launched.
 
  Technological advancements have always resulted in jobs being lost, but the speed of AI advancements means multiple industries are facing rapid change. A huge cross-section of human jobs are seeing AI filtering into the workplace. Some jobs may find menial tasks being completed with the help of AI tools, while other positions may cease to exist in the future.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. ChatGPT Is Challenging Education
 
@@ -170,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
 ![Close-up of computer code on a screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-scammers-malware.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The rate at which ChatGPT can produce information has already caused problems for Stack Exchange, a website dedicated to providing correct answers to everyday questions. Soon after ChatGPT was released, users flooded the site with answers they asked ChatGPT to generate.
 
  Without enough human volunteers to sort through the backlog, it would be impossible to maintain a high level of quality answers. Not to mention, many of the answers were incorrect. To avoid the website being damaged, a ban was placed on all answers generated using ChatGPT.
@@ -177,10 +177,10 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
  The spread of fake information is a serious concern, too. The scale at which ChatGPT can produce text, coupled with the ability to make even incorrect information sound convincingly right, makes everything on the internet questionable. It's a critical combination that amplifies [the dangers of deepfake technology](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. OpenAI Holds All the Power
@@ -193,16 +193,16 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
 ![ChatGPT explains whether AI code should be made open source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-ai-chat-gpt-open-source.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While OpenAI considers safety a high priority, there is a lot that we don't know about how the models themselves work, for better or worse. At the end of the day, the only choice we have is to unquestioningly trust that OpenAI will research, develop, and use ChatGPT responsibly.
 
  Whether we agree with its methods or not, it's worth remembering that OpenAI is a private company that will continue developing ChatGPT according to its own goals and ethical standards.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tackling AI's Biggest Problems
 
@@ -235,16 +235,24 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-personal-drones-that-perfectly-trace-their-owners-path/"><u>[New] Personal Drones That Perfectly Trace Their Owner's Path</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-elevate-your-profile-the-best-30-tiktok-handle-choices-for-2024/"><u>[Updated] Elevate Your Profile The Best 30 TikTok Handle Choices for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-ishowu-audio-capture-download-and-review/"><u>[Updated] IShowU Audio Capture Download and Review</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-obs-revived-camera-back-to-life/"><u>[Updated] OBS Revived Camera Back to Life</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-peak-performance-memory-for-a7s-ii/"><u>[Updated] Peak Performance Memory for A7S II</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/basic-gpt-vs-advanced-web-integrated-gpt-options/"><u>Basic GPT Vs. Advanced Web-Integrated GPT Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bert-and-gpt-deciphered-pioneers-in-natural-language-processing/"><u>BERT & GPT Deciphered: Pioneers in Natural Language Processing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/developers-perception-ais-role/"><u>Developers' Perception: AI's Role</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-boundaries-of-nlp-and-ml-research/"><u>Navigating the Boundaries of NLP & ML Research</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/taming-the-tech-beast-a-players-manual-for-fixing-valorant-visual-glitches/"><u>Taming the Tech Beast: A Player's Manual for Fixing Valorant Visual Glitches</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-an-android-enthusiasts-dream-customizing-your-phone-alerts-with-style-and-personality-for-2024/"><u>[New] An Android Enthusiast’s Dream Customizing Your Phone Alerts with Style and Personality for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-virtual-filmscapes-the-future-of-entertainment/"><u>[New] In 2024, Virtual Filmscapes The Future of Entertainment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-guide-best-ways-to-recognize-sound-in-windows-11-devices/"><u>[New] Quick Guide Best Ways to Recognize Sound in Windows 11 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-decisions-5-ways-to-upgrade-your-crypto-strategy/"><u>AI-Driven Decisions: 5 Ways to Upgrade Your Crypto Strategy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-enhanced-craftsmanship-top-ethical-strategies-for-writers-and-editors/"><u>AI-Enhanced Craftsmanship: Top Ethical Strategies for Writers & Editors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-your-timepiece-6-smartwatch-innovations-ahead-of-curve/"><u>ChatGPT and Your Timepiece: 6 Smartwatch Innovations Ahead of Curve</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cracking-the-cartoon-code-a-quick-guide-to-lenses-in-snapchat/"><u>Cracking the Cartoon Code A Quick Guide to Lenses in Snapchat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/data-driven-discourse-constructing-custom-ai-companions/"><u>Data-Driven Discourse: Constructing Custom AI Companions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-gpts-puzzles-nine-significant-limitations-exposed/"><u>Decoding GPT’s Puzzles: Nine Significant Limitations Exposed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-6s-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 6s | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-hot-30i-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix Hot 30i Phone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-health-techniques-using-chatgpts-power/"><u>Innovative Health Techniques Using ChatGPT's Power</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mystery-meets-technology-join-the-world-of-4-ai-driven-escapades/"><u>Mystery Meets Technology: Join the World of 4 AI-Driven Escapades</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-best-gopro-video-editing-software-beyond-gopro-studio/"><u>New In 2024, Unleash Your Creativity Best GoPro Video Editing Software (Beyond GoPro Studio)</u></a></li>
+<li><a href="https://win-data.techidaily.com/pro-version-unlocked-advanced-react-and-creative-tim-powered-by-muses-exclusive-ant-design-admin-suite/"><u>Pro Version Unlocked: Advanced React and Creative Tim Powered by Muse's Exclusive Ant Design Admin Suite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/restoring-ransacked-recorded-interactions/"><u>Restoring Ransacked Recorded Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-chat-experience-why-switch-to-chatgptplus/"><u>Transform Your Chat Experience - Why Switch to ChatGPT+?</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-honor-70-lite-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Honor 70 Lite 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

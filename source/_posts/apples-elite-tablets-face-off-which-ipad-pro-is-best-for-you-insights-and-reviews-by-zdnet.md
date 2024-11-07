@@ -1,7 +1,7 @@
 ---
 title: "Apple's Elite Tablets Face-Off: Which iPad Pro Is Best for You? Insights & Reviews by ZDNET"
-date: 2024-10-28T16:08:14.500Z
-updated: 2024-11-01T16:15:12.383Z
+date: 2024-11-05T12:30:20.421Z
+updated: 2024-11-07T02:21:54.278Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +60,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,10 +77,16 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -125,19 +131,20 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-harmonizing-hues-in-online-beauty-videos/"><u>[New] 2024 Approved Harmonizing Hues in Online Beauty Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-easily-access-snapchat-on-mac-os-for-2024/"><u>[New] Easily Access Snapchat on Mac OS for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-streamline-social-tweet-to-fb-guide/"><u>[New] In 2024, Streamline Social Tweet to FB Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-and-convey-top-10-image-writing-aid-apps-iosandroid-for-2024/"><u>Capture and Convey Top 10 Image Writing Aid Apps (iOS/Android) for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-enhancing-text-fidelity/"><u>ChatGPT: Enhancing Text Fidelity</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-font-installation-techniques-for-windows-11-users-step-by-step-solutions/"><u>Effortless Font Installation Techniques for Windows 11 Users - Step-by-Step Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ensuring-persistence-in-chatgpt-discussions/"><u>Ensuring Persistence in ChatGPT Discussions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-google-pixel-fold-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Google Pixel Fold to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-xs-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone XS Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-3-data-4-best-extensions-and-apps-at-a-glance/"><u>Mastering GPT-3 Data: 4 Best Extensions & Apps at a Glance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ai-world-start-here-with-9-communities/"><u>Navigating AI World: Start Here With 9 Communities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spark-creativity-mindmapping-and-ai-enhanced-ideas/"><u>Spark Creativity: Mindmapping & AI-Enhanced Ideas</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unboxed-talent-the-breakout-females-dominating-youtube-for-2024/"><u>Unboxed Talent The Breakout Females Dominating YouTube for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unmasking-medical-misinformation-from-ai-expertise/"><u>Unmasking Medical Misinformation From AI Expertise</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rom-beat-to-buzz-creating-impact-in-10-seconds-on-youtube-for-2024/"><u>[New] From Beat to Buzz Creating Impact in 10 Seconds on YouTube for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-enhance-your-windows-experience-with-simple-video-trimming-tips/"><u>[New] In 2024, Enhance Your Windows Experience with Simple Video Trimming Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aster-your-hashtags-the-path-to-6-figure-youtube-success-for-2024/"><u>[New] Master Your Hashtags The Path to 6-Figure Youtube Success for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-deficit-dilemma-lacking-inventiveness-in-vr/"><u>[New] The Deficit Dilemma Lacking Inventiveness in VR</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-updated-comprehensive-bd-review-s3700/"><u>2024 Approved The Updated Comprehensive BD Review S3700</u></a></li>
+<li><a href="https://techtrends.techidaily.com/diy-repair-tips-for-a-samsung-soundbar-that-wont-turn-on-or-work-properly/"><u>DIY Repair Tips for a Samsung Soundbar That Won't Turn On or Work Properly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/federal-communications-commission-greenlights-enhanced-6ghz-spectrum-use-for-virtual-reality-and-augmented-reality-devices-insights-from-zdnet/"><u>Federal Communications Commission Greenlights Enhanced 6GHz Spectrum Use for Virtual Reality & Augmented Reality Devices - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/frame-rate-conversion-20mb-video-specs/"><u>Frame Rate Conversion 20MB Video Specs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/high-fidelity-enhances-virtual-universe-with-second-life-acquisition-insights-from-zdnet/"><u>High Fidelity Enhances Virtual Universe with Second Life Acquisition: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-experience-apples-immersive-3d-content-with-the-meta-quest-3-headset-vr-gadget-reviews/"><u>How to Experience Apple's Immersive 3D Content with the Meta Quest 3 Headset | VR Gadget Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-of-gaming-disney-unveils-a-shared-vr-walking-treadmill-learn-how-it-transforms-your-interactive-playtime-zdnet/"><u>Step Into the Future of Gaming: Disney Unveils a Shared VR Walking Treadmill - Learn How It Transforms Your Interactive Playtime | ZDNET</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/tailoring-tutorials-for-square-shaped-video-sharing-for-2024/"><u>Tailoring Tutorials for Square-Shaped Video Sharing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-giants-marvel-as-apple-unveils-cutting-edge-vision-pro-studios-insider-info-via-zdnet/"><u>Tech Giants Marvel as Apple Unveils Cutting-Edge 'Vision Pro' Studios - Insider Info via ZDNET!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-main-challenge-with-vr-current-usage-and-insights-from-industry-experts-techzdnet/"><u>The Main Challenge with VR: Current Usage and Insights From Industry Experts | TechZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-apple-developer-tools-aimed-at-enhancing-ios-17-and-visionos-what-you-need-to-know/"><u>Upcoming Apple Developer Tools Aimed at Enhancing iOS 17 & VisionOS: What You Need to Know</u></a></li>
 </ul></div>
 
