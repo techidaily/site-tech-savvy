@@ -1,7 +1,7 @@
 ---
 title: The Pivotal Role of EU's Artificial Intelligence Law on AI Applications Like ChatGPT
-date: 2024-11-02T13:01:27.047Z
-updated: 2024-11-06T17:24:45.790Z
+date: 2024-11-12T16:01:30.266Z
+updated: 2024-11-17T17:12:02.460Z
 tags:
   - chatgpt
   - open-ai
@@ -44,22 +44,15 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
 
  While the EU AI Act has several objectives, its main aim is to somewhat reign in AI. This will be done by assessing the risk levels of AI systems, ensuring they follow EU laws, and enforcing transparency requirements for AI systems.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Who Will Be Affected by the EU AI Act?
 
 ![wooden court hammer on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/court-hammer-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While the EU AI Act is still in the works, there are concerns over how it will affect AI researchers, developers, and users within the EU.
@@ -76,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
  Evidently, the scope is large, spanning the AI industry. Thousands of AI organizations may be affected by this act, including ChatGPT creator, OpenAI. This has led to contention between the EU and OpenAI CEO Sam Altman. In fact, Altman has threatened to pull OpenAI, and therefore ChatGPT, out of the EU because of it. So, why has he made such a striking statement?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Is Sam Altman Threatening to Pull ChatGPT From the EU?
@@ -87,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b564
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
@@ -102,6 +95,13 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Altman hasn't outright stated that ChatGPT won't comply with these rules. In fact, the CEO would like to cooperate, but only if it is technically possible for OpenAI. [Time](https://time.com/6282325/sam-altman-openai-eu/) reports that Altman stated OpenAI would attempt to comply, but the company has criticized how the EU AI Act proposal is currently worded.
 
  Interestingly, this threat came shortly after [Altman advocated for further AI regulation within the US](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/) to mitigate the risks of AI development. We'll leave how that looks up to you.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The EU's AI Act Could Alter AI Development
 
@@ -124,22 +124,18 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/hannel-charisma-techniques-for-amplifying-youtube-visibility/"><u>[New] Channel Charisma Techniques for Amplifying YouTube Visibility</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-yearly-recorder-real-time-social-media-events/"><u>[New] In 2024, Yearly Recorder Real-Time Social Media Events</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-cutting-edge-fb-video-toolkit-mp4-edition-available-for-2024/"><u>[Updated] Cutting-Edge FB Video Toolkit MP4 Edition Available for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-multi-screen-recording-setup-for-2024/"><u>[Updated] Multi-Screen Recording Setup for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pinnacle-creations-synopsis-in-depth-studio-scrutiny/"><u>[Updated] Pinnacle Creations Synopsis In-Depth Studio Scrutiny</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/algorithmic-humorists-at-play-will-tech-tickle-us/"><u>Algorithmic Humorists at Play: Will Tech Tickle Us?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-conversations-to-characters-developing-personas-in-chatgpt/"><u>From Conversations to Characters: Developing Personas in ChatGPT</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-12-mini-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 12 mini to Mac Mirroring | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-elite-access-to-gpt-justifiable/"><u>Is Elite Access to GPT Justifiable?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-path-to-affordable-lenovo-gear-for-students-insider-tips-and-tricks/"><u>Navigating the Path to Affordable Lenovo Gear for Students: Insider Tips and Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-functionality-how-to-access-pc-managed-tools/"><u>Restoring Functionality: How to Access PC Managed Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sifting-truth-in-online-medical-advice-by-ai/"><u>Sifting Truth in Online Medical Advice by AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailor-made-ai-the-complete-guide-to-crafted-gpt/"><u>Tailor-Made AI: The Complete Guide to Crafted GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-split-path-of-natural-language-and-ml-tech/"><u>The Split Path of Natural Language and ML Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-potential-of-your-website-via-chatgpts-4-pathways/"><u>Unlock the Potential of Your Website via ChatGPT's 4 Pathways</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-you-can-achieve-with-claude-3/"><u>What You Can Achieve With Claude 3</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-enhancing-your-social-presence-tweeting-to-facebook/"><u>[New] 2024 Approved Enhancing Your Social Presence Tweeting to Facebook</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-catchy-lyrics-on-the-rise-with-tiktoks-newest-songs-for-2024/"><u>[New] Catchy Lyrics on the Rise with TikTok's Newest Songs for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-webcam-pro-step-by-step-recording-on-macbooks/"><u>[New] Webcam Pro Step-by-Step Recording on MacBooks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-humorous-craftsmanship-access-without-expense/"><u>2024 Approved Humorous Craftsmanship Access Without Expense</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-fake-outs-staying-informed/"><u>ChatBot Fake-Outs: Staying Informed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expand-your-workspace-maximize-productivity-with-dual-displays-on-your-m3-macbook-pro-an-evolution-akin-to-m3-macbook-air/"><u>Expand Your Workspace: Maximize Productivity with Dual Displays on Your M3 MacBook Pro - An Evolution Akin to M3 MacBook Air</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-ready-iphone-lineup-unveiling-devices-compatible-with-apples-next-ai-breakthroughs-and-the-evolved-version-of-siri/"><u>Future-Ready iPhone Lineup: Unveiling Devices Compatible with Apple's Next AI Breakthroughs and the Evolved Version of Siri</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-5-next-gen-4-core-features-were-eager-to-discover/"><u>GPT-5 Next Gen: 4 Core Features We're Eager to Discover</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-a-samsung-soundbar-thats-not-working/"><u>How to Fix a Samsung Soundbar That's Not Working</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-successfully-uninstall-a-printer-in-windows-10-step-by-step-guide/"><u>How to Successfully Uninstall a Printer in Windows 10 - Step by Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-quick-driver-revisions-a-guide-to-enhancing-synaptics-ps2-touchpads/"><u>Mastering Quick Driver Revisions: A Guide to Enhancing Synaptics PS/2 Touchpads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-proposal-impact-with-gpt-3-assistance/"><u>Maximizing Proposal Impact with GPT-3 Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shift-your-focus-to-claude-3-the-top-4-reasons-ahead/"><u>Shift Your Focus to Claude 3: The Top 4 Reasons Ahead</u></a></li>
 </ul></div>
 

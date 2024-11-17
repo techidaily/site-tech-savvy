@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Quip Quantity: Is It Enough to Crack Smiles?"
-date: 2024-11-05T03:51:49.968Z
-updated: 2024-11-06T23:06:37.118Z
+date: 2024-11-13T18:26:22.590Z
+updated: 2024-11-17T18:44:47.502Z
 tags:
   - chatgpt
   - open-ai
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/a1eaffde65a5d9aa5d6c9c56b7c923db02320385e
 ![Screenshot of ChatGPT Knock Knock Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-knock-knock-joke.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is an evolving technology that has limitations. It is unlikely to replace stand-up comedians anytime soon. But is it a useful tool for comedy? Let's discuss some of the ways that AI can be used in comedy.
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/a1eaffde65a5d9aa5d6c9c56b7c923db02320385e
 
 * **Joke Three:** Knock, knock! _Who's there?_ May fourth. _May fourth who?_ May the fourth be with you.
 * **Joke Four:** Knock Knock! _Who's there?_ Boo. _Boo who_? Don't cry, it's just a computer program making jokes!
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Can't ChatGPT Do?
 
@@ -94,21 +87,22 @@ thumbnail: https://thmb.techidaily.com/a1eaffde65a5d9aa5d6c9c56b7c923db02320385e
 * **Joke Six:** I saw this advert in a window that said: "Television for sale, $1, volume stuck on full." I thought, "I can't turn that down."
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Future of AI In Comedy?
 
 ![Screenshot AI Joke about the future of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-ai-joke-about-the-future-of-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are moral and ethical implications to consider here. However, these fall outside the scope of the question that this article poses: Can AI make us laugh?
 
@@ -124,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/a1eaffde65a5d9aa5d6c9c56b7c923db02320385e
 * **Joke Eight:** Why did the computer go to the doctor? Because it had a virus!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Last Laugh
@@ -155,24 +149,18 @@ thumbnail: https://thmb.techidaily.com/a1eaffde65a5d9aa5d6c9c56b7c923db02320385e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-jestful-journeys-an-in-depth-goofy-movie-review/"><u>[Updated] 'Jestful Journeys' An In-Depth Goofy Movie Review</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-crafting-captivating-igtv-cover-photos-thumbnails/"><u>[Updated] In 2024, Crafting Captivating IGTV Cover Photos (Thumbnails)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-roadmap-to-thriving-in-digital-advertising/"><u>[Updated] In 2024, The Roadmap to Thriving in Digital Advertising</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-uniting-voices-and-visions-the-top-mics-for-educational-gaming-and-lifestyle-yt-screens-for-2024/"><u>[Updated] Uniting Voices & Visions The Top Mics For Educational, Gaming, and Lifestyle YT Screens for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-the-ultimate-tutorial-for-iphone-voice-memo/"><u>2024 Approved The Ultimate Tutorial for iPhone Voice Memo</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/avi-qtavi-movavi/"><u>移動到 Avi 格式：QT與Avi之間的無限制、網路版本 - 使用 Movavi</u></a></li>
-<li><a href="https://article-tips.techidaily.com/audio-ambassadors-where-to-find-legal-skype-ringtone-files-for-2024/"><u>Audio Ambassadors Where to Find Legal Skype Ringtone Files for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/backup-plans-for-elusive-chatgpt-exchanges/"><u>Backup Plans for Elusive ChatGPT Exchanges</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-creative-outputs-a-test-of-three-chatbot-responses-on-a-single-prompt/"><u>Comparing Creative Outputs: A Test of Three Chatbot Responses on a Single Prompt</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embracing-open-gpt-a-step-by-step-window-guide/"><u>Embracing Open GPT: A Step-by-Step Window Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eye-catching-clues-to-fraudulent-chatgpt-websites/"><u>Eye-Catching Clues to Fraudulent ChatGPT Websites</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-history-revolutionary-gpt-4-by-openai/"><u>Making History: Revolutionary GPT-4 by OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-the-dilemma-of-non-functional-macbook-pro-keys-a-guide/"><u>Solving the Dilemma of Non-Functional MacBook Pro Keys – A Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/steady-path-adding-your-bio-to-tiktok-unhackable-way/"><u>Steady Path Adding Your Bio to TikTok Unhackable Way</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-paperclip-challenge-and-the-revolution-of-artificial-intelligence/"><u>The Paperclip Challenge and the Revolution of Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-words-into-adventures-with-chatgpt-rpgs/"><u>Transforming Words Into Adventures with ChatGPT RPGs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-tactics-to-salvage-your-iphones-chatgpt/"><u>Troubleshooting Tactics to Salvage Your iPhone's ChatGPT</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-xvid-platinum-dvd-ripping-tool-fast-h264hevc-conversion-from-dvds-in-just-5-minutes/"><u>Ultimate XviD Platinum DVD Ripping Tool: Fast H.264/HEVC Conversion From DVDs in Just 5 Minutes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vanguard-dialogues-how-gemini-meets-plus-gpt/"><u>Vanguard Dialogues: How Gemini Meets Plus-GPT</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-quick-access-navigate-fast-with-tiktok/"><u>[New] In 2024, Quick Access Navigate Fast with TikTok</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-discover-10-leading-online-video-editors-android-pc/"><u>[Updated] Discover 10 Leading Online Video Editors (Android, PC)</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-primer-to-social-media-symbol-mastery-facebooks-icons-explained/"><u>A Primer to Social Media Symbol Mastery: Facebook's Icons Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-how-devices-learn-without-cloud-connectivity/"><u>Delving Into How Devices Learn Without Cloud Connectivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-quality-control-when-integrating-chatgpt-into-your-workflow/"><u>Ensuring Quality Control when Integrating ChatGPT Into Your Workflow</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/governance-and-governors-charting-4-paths-for-ai-tools/"><u>Governance and Governors: Charting 4 Paths for AI Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-11-kb5003607-0x8007cdfe-update-problem/"><u>How to Fix the Windows 11 KB5003607 (0X8007CDFE) Update Problem</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-to-share-videos-on-twitter-on-your-phone-without-retweeting-in-2024/"><u>How to Share Videos on Twitter on Your Phone Without Retweeting, In 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-iphone-xs-max-imei-checker-by-drfone-ios/"><u>In 2024, Best Free iPhone XS Max IMEI Checker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/method-to-resolve-plugin-service-link-failures-in-chatgpt/"><u>Method to Resolve Plugin-Service Link Failures in ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-your-wellbeing-top-9-chatgpt-uses/"><u>Optimizing Your Wellbeing: Top 9 ChatGPT Uses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snap-vs-gpt-choosing-your-social-tech-ally/"><u>Snap vs GPT: Choosing Your Social Tech Ally</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-averting-crashes-of-epic-games-launcher/"><u>Strategies for Averting Crashes of Epic Games Launcher</u></a></li>
 </ul></div>
 

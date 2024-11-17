@@ -1,7 +1,7 @@
 ---
 title: Identifying the Beneficiary in AI Copyright Claims
-date: 2024-11-05T10:52:34.920Z
-updated: 2024-11-07T05:15:34.481Z
+date: 2024-11-15T18:54:48.525Z
+updated: 2024-11-17T17:21:44.279Z
 tags:
   - chatgpt
   - open-ai
@@ -61,10 +61,10 @@ Close
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Example of AI Copyright Rejection
@@ -76,10 +76,10 @@ Close
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
@@ -93,10 +93,10 @@ Close
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Issues With AI-Generated Work
@@ -118,10 +118,10 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -149,22 +149,21 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-accelerated-aesthetics-rapid-revamping-of-images-on-windows-photo-editor/"><u>[New] In 2024, Accelerated Aesthetics Rapid Revamping of Images on Windows Photo Editor</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-pixel-power-unveiling-youtubes-twitter-crew/"><u>[New] In 2024, Pixel Power Unveiling YouTube's Twitter Crew</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-spark-the-visionary-youtubes-top-video-themes/"><u>[New] In 2024, Spark the Visionary YouTube's Top Video Themes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-premium-recording-solutions-windows-edition/"><u>[New] Premium Recording Solutions Windows Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solved-cant-install-google-chrome-on-windows-10-in-s-mode/"><u>[SOLVED] | Can’t Install Google Chrome on Windows 10 in S Mode</u></a></li>
-<li><a href="https://video-capture.techidaily.com/bandicam-or-camtasia-best-recording-and-editing-software-in-2024/"><u>Bandicam or Camtasia Best Recording & Editing Software, In 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-of-emporias-affordable-electric-vehicle-charger-with-enhanced-power-metrics-a-zdnet-review/"><u>In-Depth Analysis of Emporia's Affordable Electric Vehicle Charger with Enhanced Power Metrics - A ZDNet Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-how-nest-audio-redefines-the-smart-speaker-market-for-melody-aficionados/"><u>In-Depth Review: How Nest Audio Redefines the Smart Speaker Market for Melody Aficionados</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-obs-stability-avoid-frame-drops-with-these-techniques/"><u>Mastering OBS Stability - Avoid Frame Drops with These Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-quick-shots-of-your-laptop-display-a-how-to-tutorial/"><u>Mastering Quick Shots of Your Laptop Display: A How-To Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-window-11-screenshot-techniques/"><u>Mastering the Art of Window 11 Screenshot Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ps4-expanded-storage-tutorial-how-to-set-up-and-utilize-an-external-hard-drive/"><u>PS4 Expanded Storage Tutorial: How to Set Up and Utilize an External Hard Drive</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-your-wi-fi-hotspot-a-guide-for-windows-11-users/"><u>Reviving Your Wi-Fi Hotspot: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-film-downloads-made-simple-navigating-the-ins-and-outs-of-utorrent/"><u>Seamless Film Downloads Made Simple: Navigating the Ins and Outs of uTorrent</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-the-mystery-restored-my-missing-desktop-icons-in-windows-11/"><u>Solving the Mystery: Restored My Missing Desktop Icons in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-hooking-up-your-laptop-to-a-television-via-hdmi-includes-images/"><u>Step-by-Step Guide: Hooking Up Your Laptop to a Television via HDMI - Includes Images!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/warframe-fixes-how-to-get-past-the-not-launching-error/"><u>Warframe Fixes: How To Get Past the 'Not Launching' Error</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-epicurean-escapades-crafting-kitchen-films/"><u>[New] In 2024, Epicurean Escapades Crafting Kitchen Films</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-your-blueprint-for-broadcasting-live-on-facebook-for-2024/"><u>[New] Your Blueprint for Broadcasting Live on Facebook for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/6l275p2plus5bcg5pon5l2c57o757uf6lplusb56e76iez5paw56gs5lu2ic3kuidmraxkuidmraxmjifljzc/"><u>轻松将操作系统迁移至新硬件 -一步一步指南</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/budget-friendly-virtual-reality-upgrade-from-apple-and-metas-offerings-explore-exceptional-xr-devices-at-a-fraction-of-the-cost-tech-tips/"><u>Budget-Friendly Virtual Reality Upgrade From Apple and Meta's Offerings - Explore Exceptional XR Devices at a Fraction of the Cost Tech Tips</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-nubia-z50-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nubia Z50 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-best-idevice-gaming-without-internet-or-wi-fi/"><u>Discover the Best iDevice Gaming without Internet or Wi-Fi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/modern-vr-equipment-overview-for-2024/"><u>Modern VR Equipment Overview for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ical-steps-for-disabling-youtube-channels-on-devices/"><u>Practical Steps for Disabling YouTube Channels on Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stay-connected-instantly-messaging-and-notifications-via-apple-watch-from-zdnet/"><u>Stay Connected Instantly: Messaging and Notifications via Apple Watch From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlined-aid-crafting-unleash-creativity-with-these-online-helpers/"><u>Streamlined Aid Crafting: Unleash Creativity with These Online Helpers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stylish-and-durable-nomad-case-for-iphone-13-with-magsafe-compatibility-and-superior-drop-proof-design-reviews-from-zdnet/"><u>Stylish & Durable Nomad Case for iPhone 13 with MagSafe Compatibility & Superior Drop-Proof Design – Reviews From ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-finest-9-mic-recording-devices-compared/"><u>The Finest 9 Mic Recording Devices Compared</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-trends-shaping-todays-mobile-landscape-from-ai-integration-to-revolutionary-phone-design-tech-insights/"><u>Top Trends Shaping Today’s Mobile Landscape - From AI Integration to Revolutionary Phone Design | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tracing-the-development-path-of-ai-models/"><u>Tracing the Development Path of AI Models</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience/"><u>Ultimate Monitor Match-Up Recommendations for Top-Tier Xbox SX Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-2024-ipad-lineup-set-to-hit-shelves-in-springtime-latest-reports-from-zdnet/"><u>Upcoming 2024 iPad Lineup Set to Hit Shelves in Springtime - Latest Reports From ZDNet</u></a></li>
 </ul></div>
 

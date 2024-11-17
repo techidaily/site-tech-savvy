@@ -1,7 +1,7 @@
 ---
 title: Europe's AI Governance & Its Influence on AI-Driven Interactive Tools Such as GPT
-date: 2024-11-02T16:45:38.418Z
-updated: 2024-11-06T16:49:41.731Z
+date: 2024-11-14T18:41:33.353Z
+updated: 2024-11-17T18:48:57.965Z
 tags:
   - chatgpt
   - open-ai
@@ -45,21 +45,22 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
  While the EU AI Act has several objectives, its main aim is to somewhat reign in AI. This will be done by assessing the risk levels of AI systems, ensuring they follow EU laws, and enforcing transparency requirements for AI systems.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Who Will Be Affected by the EU AI Act?
 
 ![wooden court hammer on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/court-hammer-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While the EU AI Act is still in the works, there are concerns over how it will affect AI researchers, developers, and users within the EU.
 
@@ -74,22 +75,15 @@ thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8
 
  Evidently, the scope is large, spanning the AI industry. Thousands of AI organizations may be affected by this act, including ChatGPT creator, OpenAI. This has led to contention between the EU and OpenAI CEO Sam Altman. In fact, Altman has threatened to pull OpenAI, and therefore ChatGPT, out of the EU because of it. So, why has he made such a striking statement?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Is Sam Altman Threatening to Pull ChatGPT From the EU?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
@@ -103,10 +97,10 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Interestingly, this threat came shortly after [Altman advocated for further AI regulation within the US](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/) to mitigate the risks of AI development. We'll leave how that looks up to you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The EU's AI Act Could Alter AI Development
@@ -130,19 +124,24 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-digital-deftness-transforming-photo-colors-professionally/"><u>[Updated] Digital Deftness Transforming Photo Colors Professionally</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-exploring-televised-facebook-live-4-strategies/"><u>[Updated] In 2024, Exploring Televised Facebook Live 4 Strategies</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamlining-your-gaming-experience-with-easy-recordings/"><u>2024 Approved Streamlining Your Gaming Experience with Easy Recordings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-solutions-for-managing-excessive-cpu-consumption-caused-by-dwmexe-on-windows-exp/"><u>Effective Solutions for Managing Excessive CPU Consumption Caused by dwm.exe on Windows eXP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-installation-guide-for-the-celebratory-version-of-windows-10-os-upgrade/"><u>Effortless Installation Guide for the Celebratory Version of Windows 10 OS Upgrade</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-breathtaking-gameplay-fluidity-in-skyrim-special-editions-latest-fps-refresh/"><u>Experience Breathtaking Gameplay Fluidity in Skyrim Special Edition's Latest FPS Refresh</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-capabilities-of-chatgpt-in-designing-tailored-risk-free-workout-regimens-for-individuals/"><u>Exploring the Capabilities of ChatGPT in Designing Tailored, Risk-Free Workout Regimens for Individuals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fixed-repairing-disk-errors-on-windows-11/"><u>Fixed: Repairing Disk Errors on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fixing-cannot-log-into-account-errors-on-windows-10-solutions-explored/"><u>Fixing 'Cannot Log Into Account' Errors on Windows 10 - Solutions Explored</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-androids-pinnacle-podcast-platforms-your-essential-six-pack/"><u>In 2024, Android's Pinnacle Podcast Platforms Your Essential Six-Pack</u></a></li>
-<li><a href="https://fox-access.techidaily.com/inshot-cut-mastery-creating-fluid-movements/"><u>Inshot Cut Mastery Creating Fluid Movements</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-print-server-disconnect/"><u>Overcoming Print Server Disconnect</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-elite-lineup-supreme-portable-game-consoles/"><u>Unveiling the Elite Lineup: Supreme Portable Game Consoles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-dynamic-group-portraits-via-iphone-burst-mode/"><u>[New] 2024 Approved Dynamic Group Portraits via iPhone Burst Mode</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-time-travelers-guide-to-top-student-friendly-youtube-history/"><u>[New] Time Travelers' Guide to Top Student-Friendly YouTube History</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-8-free-videography-programs-perfect-for-indie-filmmakers-for-2024/"><u>[New] Top 8 Free Videography Programs Perfect For Indie Filmmakers for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-yt-titling-excellence-with-smart-technology/"><u>2024 Approved YT Titling Excellence with Smart Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726226231670-2024-5/"><u>2024年に人気! ベスト5無料ビデオカットツールランキング - おすすめ動画編集アプリ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-enthusiasts-beware-why-stick-with-your-current-device-instead-of-switching-to-the-new-iphone-ilfnz-tech-analysis-by-zdnet/"><u>Apple Enthusiasts Beware! Why Stick with Your Current Device Instead of Switching to the New iPhone ˈiːlfɜnz - Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/black-ops-cold-war-pc-no-sound-fixes-expert-solutions-unveiled/"><u>Black Ops Cold War PC No Sound Fixes - Expert Solutions Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ceo-shift-in-ai-chatgpt-questioned/"><u>CEO Shift in AI, ChatGPT Questioned</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/do-chatgpt-responses-have-a-character-or-word-limit/"><u>Do ChatGPT Responses Have a Character or Word Limit?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/educate-them-on-risks-and-safety/"><u>Educate Them on Risks and Safety</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-strategies-for-enhancing-your-daily-productivity-a-comprehensive-guide-insights/"><u>Expert Strategies for Enhancing Your Daily Productivity: A Comprehensive Guide - Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fuhren-sie-den-kostenlosen-mp4-wiedergabeprogramm-fur-mac-und-windows-10-herunter-vollstandige-kompatibilitat-mit-mp4/"><u>Führen Sie Den Kostenlosen MP4-Wiedergabeprogramm Für Mac Und Windows 10 Herunter - Vollständige Kompatibilität Mit MP4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-visual-ai-7-top-strategies-for-chatgpt-success/"><u>Mastering Visual AI: 7 Top Strategies for ChatGPT Success</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-troubleshooting-persistent-lags-in-forza-horizon-5/"><u>Resolved: Troubleshooting Persistent Lags in Forza Horizon 5</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-big-savings-cyber-mondays-exclusive-discount-of-400-off-for-the-ultra-thin-high-resolution-lg-gram-ebook-shop-smart-with-zdnet/"><u>Score Big Savings: Cyber Monday's Exclusive Discount of $400 Off for the Ultra-Thin, High-Resolution LG Gram Ebook | Shop Smart with ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smartphone-value-digital-locks-intricate-stories/"><u>Smartphone Value, Digital Locks' Intricate Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-air-case-picks-in-depth-reviews-by-tech-experts/"><u>Top-Rated iPad Air Case Picks - In-Depth Reviews by Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-emotional-engagement-is-key-to-content-success/"><u>Why Emotional Engagement Is Key to Content Success</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Challenging Turing's Legacy: Innovative AI Assessments"
-date: 2024-11-02T03:58:05.751Z
-updated: 2024-11-07T11:53:26.381Z
+date: 2024-11-12T18:55:58.376Z
+updated: 2024-11-17T18:29:07.366Z
 tags:
   - chatgpt
   - open-ai
@@ -51,22 +51,15 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the [New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment, [GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/), but so far, there is currently no AI model that can comprehend videos like a human. [Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. The Visual Turing Test
 
@@ -76,19 +69,33 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can [identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the [thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014\.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However, [artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
@@ -108,13 +115,6 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
  According to the AI classification framework developed by [Chris Saad](https://docsend.com/view/et7755yasfpj3iy6), the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance, [ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/), describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -141,18 +141,22 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-direct-youtube-stream-of-google-meet-step-by-step-instructions/"><u>[Updated] In 2024, Direct YouTube Stream of Google Meet - Step-by-Step Instructions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-history-in-your-hands-essential-export-tools-reviewed/"><u>AI History in Your Hands – Essential Export Tools Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-data-analysis-in-excel-through-chatgpt-methods/"><u>Augmenting Data Analysis in Excel Through ChatGPT Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-benefits-and-drawbacks-chatgpt-in-creativity/"><u>Balancing Benefits & Drawbacks: ChatGPT in Creativity</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722992535914-dread-hunger-stops-working-suddenly-on-windows-solutions-inside/"><u>Dread Hunger Stops Working Suddenly on Windows - Solutions Inside!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/expert-tips-for-capturing-and-saving-igtv-on-handhrani-for-2024/"><u>Expert Tips for Capturing and Saving IGTV on Handhrani for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fix-your-non-functional-windows-11-taskbar-with-these-10-essential-tips/"><u>Fix Your Non-Functional Windows 11 Taskbar with These 10 Essential Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-unauthorized-geforce-setting-error-on-modern-windows-versions/"><u>Fixing Unauthorized GeForce Setting Error on Modern Windows Versions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/optimal-facebook-video-downloader-top-5-revealed/"><u>Optimal Facebook Video Downloader Top 5 Revealed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/perfect-pairing-10-films-for-fun-filled-family-nights/"><u>Perfect Pairing 10 Films for Fun-Filled Family Nights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dichotomy-of-ai-titans-vs-tamer-machines/"><u>The Dichotomy of AI: Titans Vs. Tamer Machines</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-location-of-desktop-wallpaper-images/"><u>Uncover the Location of Desktop Wallpaper Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-travel-dreams-best-7-free-ai-apps-for-spontaneous-trips/"><u>Unlock Travel Dreams: Best 7 Free AI Apps for Spontaneous Trips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-master-management-with-our-12-best-tycoon-games-ever-crafted-for-2024/"><u>[Updated] Master Management with Our #12 Best Tycoon Games Ever Crafted for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-10-4g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 10 4G Activity | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-harvest-heartbeats-top-farm-games-for-friendly-fun/"><u>2024 Approved Harvest Heartbeats Top Farm Games for Friendly Fun</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/activate-your-alerts-setting-up-slack-notifications-on-the-apple-watch-insights-from-zdnet/"><u>Activate Your Alerts: Setting Up Slack Notifications on the Apple Watch - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-microsoft-optimize-arm-technology-to-surpass-apples-m1-chip-performance-zdnet-exclusive/"><u>Can Microsoft Optimize ARM Technology to Surpass Apple's M1 Chip Performance? [ZDNet Exclusive]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-malware-an-ethical-perspective/"><u>ChatGPT & Malware: An Ethical Perspective</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/culinary-carnage-and-fun-in-overcooked-2-a-comprehensive-review/"><u>Culinary Carnage & Fun in 'Overcooked! 2': A Comprehensive Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-premium-alternative-airtags-to-apples-version-a-buyers-guide-to-durable-and-rechargeable-solutions-for-your-essentials/"><u>Discover Premium Alternative AirTags to Apple's Version: A Buyer's Guide to Durable and Rechargeable Solutions for Your Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expand-your-digital-workspace-connect-two-displays-to-your-m3-macbook-pro-the-new-feature-that-matches-m3-macbook-air/"><u>Expand Your Digital Workspace: Connect Two Displays to Your M3 MacBook Pro - The New Feature That Matches M3 MacBook Air!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ready-to-be-amazed-unveiling-the-groundbreaking-capabilities-of-iphone-16-you-cant-miss-gadgetguru-insights/"><u>Get Ready to Be Amazed: Unveiling the Groundbreaking Capabilities of iPhone 16 You Can't Miss | GadgetGuru Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-resolve-fifa-2-section-1-problem-as-the-theme-question-theme-question/"><u>How to Prevent and Resolve FIFA 2 # Section 1: Problem as the Theme Question (Theme Question)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastery-in-motion-unboxing-and-exploring-the-makeblock-mbot-educational-kit-for-diy-enthusiasts/"><u>Mastery in Motion: Unboxing and Exploring the Makeblock mBot Educational Kit for DIY Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/momentum-mastery-unraveling-chatgpts-fierce-expansion/"><u>Momentum Mastery: Unraveling ChatGPT’s Fierce Expansion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-quickplay-best-fluid-games-for-tablets-and-laptops-for-2024/"><u>Prime Quickplay Best Fluid Games For Tablets & Laptops for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-text-input-utilizing-bings-ai-chat-within-your-android-device/"><u>Smart Text Input: Utilizing Bing's AI Chat Within Your Android Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-a-premium-iphone-vpn-proven-performances-and-in-depth-analysis-cnet/"><u>Ultimate Guide to Choosing a Premium iPhone VPN - Proven Performances & In-Depth Analysis | CNET</u></a></li>
 </ul></div>
 

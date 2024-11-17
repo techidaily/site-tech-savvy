@@ -1,7 +1,7 @@
 ---
 title: "Decoding The Great Confrontation of 2024: Inside the CrowdStrike Vs. Windows Meltdown Scandal | Insights From History"
-date: 2024-11-02T05:23:12.383Z
-updated: 2024-11-06T18:44:37.158Z
+date: 2024-11-13T16:03:28.896Z
+updated: 2024-11-17T18:53:35.606Z
 tags:
   - apple
 categories:
@@ -51,16 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -100,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -133,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,24 +181,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-this-years-offbeat-movie-masterpieces/"><u>[Updated] 2024 Approved This Year’s Offbeat Movie Masterpieces</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-the-secrets-of-ios-visual-data-repository/"><u>[Updated] Unlocking the Secrets of IO's Visual Data Repository</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-infuse-melodies-into-powerpoint-visuals/"><u>2024 Approved Infuse Melodies Into PowerPoint Visuals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-articulation-arcade-who-takes-the-victory-spotlight/"><u>AI Articulation Arcade: Who Takes the Victory Spotlight?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effective-techniques-to-downscale-or-transform-ultra-high-definition-video-content-to-standard-definition/"><u>Effective Techniques to Downscale or Transform Ultra High Definition Video Content to Standard Definition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-palm-2-next-gen-big-data-language-processing-by-google/"><u>Exploring PaLM 2: Next-Gen Big Data Language Processing by Google</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopros-versatility-up-against-nikons-km-170-for-2024/"><u>GoPro's Versatility Up Against Nikon's KM-170 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reset-err0r-x7e1-on-win10-pcs/"><u>How to Reset Err0r: X7E1 on Win10 PCs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-v-purse-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor V Purse</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-mirrorless-evolution-overshadowing-traditional-dslr-videography/"><u>In 2024, Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-realme-gt-5-240w-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme GT 5 (240W) FRP Without Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/launching-gpt-on-windows/"><u>Launching GPT on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-employment-landscape-via-chatgpt/"><u>Mastering the Employment Landscape via ChatGPT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/microsofts-enhanced-printer-functionality-a-deep-dive-into-windows-11-updates/"><u>Microsoft's Enhanced Printer Functionality: A Deep Dive Into Windows 11 Updates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-generative-ais-textual-landscape-for-business-use/"><u>Navigating Generative AI's Textual Landscape for Business Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-privacy-waters-with-gpt-technology/"><u>Navigating Privacy Waters with GPT Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trustful-talkers-integrating-chatgpt-safely/"><u>Trustful Talkers: Integrating ChatGPT Safely</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-potential-with-ai-chatgpt-for-lifestyle-transformation/"><u>Unlock Potential with AI: ChatGPT for Lifestyle Transformation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/wiping-past-conversations-a-guide-to-a-neat-chatgpt-history/"><u>Wiping Past Conversations: A Guide to a Neat ChatGPT History</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/bluetooth-beats-on-a-tiny-turntable-review-sony-lx310bt/"><u>Bluetooth Beats on a Tiny Turntable - Review: Sony LX310BT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enrich-browser-interactions-the-best-7-ai-chatter-extensions/"><u>Enrich Browser Interactions: The Best 7 AI Chatter Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-linguistic-horizons-using-premium-chatgptplus/"><u>Explore Linguistic Horizons Using Premium ChatGPT+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fabricate-exclusive-language-models/"><u>Fabricate Exclusive Language Models</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-optimal-performance-with-geforce-rtx-nvida-3090-driver-for-legacy-windows-systems-windows-10-8-and-7/"><u>Get Optimal Performance with GeForce RTX Nvida 3090 Driver for Legacy Windows Systems (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-seamlessly-incorporate-video-game-banners/"><u>In 2024, How to Seamlessly Incorporate Video Game Banners</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-8-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 8 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-best-practices-for-using-gpt-3-openai-style/"><u>Inside Look: Best Practices for Using GPT-3, OpenAI Style</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-enrollment-process-for-chatgpt-updates/"><u>Mastering the Enrollment Process for ChatGPT Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-common-problems-reviving-a-frozen-mouse-connected-to-your-laptop/"><u>Overcoming Common Problems: Reviving a Frozen Mouse Connected to Your Laptop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-world-embraces-gpt-4-understanding-the-impact/"><u>The World Embraces GPT-4: Understanding the Impact</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-5-methods-for-boosting-image-clarity/"><u>Top 5 Methods for Boosting Image Clarity</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Does the Co-Pilot Extension Do for ChatGPT?
-date: 2024-11-02T05:47:31.544Z
-updated: 2024-11-07T13:02:19.915Z
+date: 2024-11-13T16:57:17.690Z
+updated: 2024-11-17T17:05:28.469Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
  UseChatGPT is free at the moment, making it a great addition to other [free AI prompt extensions](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/) and a cheaper alternative to premium copilots such as Microsoft Copilot and Copilotly. Notably, it already has over 400,000 users, which is a cause for consideration.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install and Start Using UseChatGPT
 
  To install and start using UseChatGPT, follow the steps below.
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 3. To start using the plugin, press **Alt + J**, which opens the tool's sidebar. Select **Free AI** as the AI provider. Input your prompt or pick one from the drop-down list and click on **Generate**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Screenshot of availableUseChatGPT.AI prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/use-chatgpt-prompts.JPG)
@@ -73,32 +66,27 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 * **Summarize**: If you have long text that you need to go through, this tool can offer concise summaries and key takeaways, allowing you to quickly grasp the main ideas and essential points of any text. You'll be able to efficiently navigate through the text without getting overwhelmed by excessive details.  
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Screenshot of UseChatGPT Summarizing text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/usechatgpt-summarizing.JPG)
 * **Reply**: The tool can be instrumental if you've longed for a simple chatbot that helps you generate personalized replies. It enables you to seamlessly respond to emails, engage on various social media platforms and participate in conversations on messaging apps like WhatsApp and Slack. The generated responses can be of good quality but need your review before sending.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Screenshot of UseChatGPT Replying to an Email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/usechatgpt-replying.JPG)
 * **Explain**: Occasionally, you'll come across complex contexts, and you need someone to give you a simpler explanation. This tool can explain the context in simple words, making it easier to grasp intricate concepts. It can also identify action items within lengthy texts, streamlining your reading experience and enhancing productivity.  
 ![Screenshot of UseChatGPT Explaining text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/usechatgpt-explaining.JPG)
 * **Translate**: The tool offers seamless translation capabilities, leveraging advanced language processing algorithms to translate text into various languages. It can be your instant language companion for any context you come across that's of a foreign language.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of UseChatGPT Translating text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/usechatgpt-translation.JPG)
 
  Generally, If you write a lot daily, UseChatGPT can help you maximize your productivity.
@@ -118,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 3. It doesn't keep a record of sessions. Unlike ChatGPT, which saves your work in chat sequences you can access later, UseChatGPT deletes your history once you close your browser.
 
  Overall, UseChatGPT is a resourceful copilot that can significantly improve your productivity at no extra cost. Considering its early stage in the development cycle, it's likely to get way better with time.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should You Use the UseChatGPT Extension?
 
@@ -144,20 +139,18 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/du-favorites-best-learning-yt-channels-for-2024/"><u>[New] Edu-Favorites Best Learning YT Channels for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solved-obs-dropping-frames-2024-tips/"><u>[Solved] OBS Dropping Frames - 2024 Tips</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-explore-cost-free-professional-cam-screen-recorders/"><u>[Updated] Explore Cost-Free, Professional Cam Screen Recorders</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-crafting-engaging-podcasts-step-by-step-guide-with-free-examples/"><u>[Updated] In 2024, Crafting Engaging Podcasts Step-by-Step Guide with Free Examples</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/accelerate-windows-11-effective-strategies-for-improving-system-efficiency/"><u>Accelerate Windows 11: Effective Strategies for Improving System Efficiency</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-radeon-rx-amg-driver-software-download-guide-for-windows-11-10-8-and-7/"><u>AMD Radeon RX Amg Driver Software: Download Guide for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://win-forum.techidaily.com/bypassing-the-basics-how-to-delete-programs-not-in-control-panel-settings/"><u>Bypassing the Basics: How to Delete Programs Not in Control Panel Settings</u></a></li>
-<li><a href="https://facebook.techidaily.com/rethinking-content-circulation-facebook-listens-to-user-voices/"><u>Rethinking Content Circulation: Facebook Listens to User Voices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-steps-to-disable-windows-11-updates-a-beginners-guide/"><u>Simple Steps to Disable Windows 11 Updates: A Beginner's Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-techniques-for-taking-easy-screenshots-on-pcs-and-laptops/"><u>Simple Techniques for Taking Easy Screenshots on PCs and Laptops</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-securing-your-online-privacy-with-a-vpn-on-the-opera-browser/"><u>Step-by-Step Guide: Securing Your Online Privacy with a VPN on the Opera Browser</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-switching-your-laptop-display-orientation/"><u>Step-by-Step Guide: Switching Your Laptop Display Orientation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-thawing-out-a-locked-windows-10-system/"><u>Step-by-Step Tutorial: Thawing Out A Locked Windows 10 System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essentials-of-vpns-why-they-matter-and-their-functioning-explained/"><u>The Essentials of VPNs: Why They Matter and Their Functioning Explained</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/the-ultimate-hack-step-by-step-tutorial-for-removing-drm-protection-from-kindle-format-8-ebooks/"><u>The Ultimate Hack: Step-by-Step Tutorial for Removing DRM Protection From Kindle Format 8 eBooks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-maximizing-engagement-choosing-your-fb-video-direction/"><u>[Updated] In 2024, Maximizing Engagement - Choosing Your FB Video Direction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-enhancements-for-educational-investigation/"><u>Artificial Enhancements for Educational Investigation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cyber-conundrum-explore-4-cutting-edge-online-puzzle-adventures/"><u>Cyber Conundrum: Explore 4 Cutting-Edge Online Puzzle Adventures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-employment-prospects-with-gpt-insights/"><u>Enhancing Employment Prospects with GPT Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-craft-gifs-using-your-first-video-tutorials-for-newbies/"><u>How To Craft GIFs Using Your First Video Tutorials (For Newbies)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-realme-gt-5-240w-screen-sharing-drfone-by-drfone-android/"><u>How To Do Realme GT 5 (240W) Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207855632-how-to-fix-windows-update-error-code-0x8024002e-easily/"><u>How to Fix Windows Update Error Code 0X8024002E Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-civi-3-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Civi 3?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-errors-quickly-using-system-file-check-sfc-and-deployment-imaging-service-dism/"><u>Resolving Windows Errors Quickly Using System File Check (SFC) and Deployment Imaging Service (DISM)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesizing-innovation-exploring-the-six-peaks-of-chatgpts-engineer/"><u>Synthesizing Innovation - Exploring the Six Peaks of ChatGPT's Engineer</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-next-horizon-in-employment-how-ai-agents-are-set-to-permanently-reshape-our-careers/"><u>The Next Horizon in Employment: How AI Agents Are Set to Permanently Reshape Our Careers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-to-overcome-504-gateway-timeouts-effectively/"><u>Troubleshooting Tips to Overcome 504 Gateway Timeouts Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unshackled-access-entering-chatgpt-from-anywhere/"><u>Unshackled Access: Entering ChatGPT From Anywhere</u></a></li>
 </ul></div>
 

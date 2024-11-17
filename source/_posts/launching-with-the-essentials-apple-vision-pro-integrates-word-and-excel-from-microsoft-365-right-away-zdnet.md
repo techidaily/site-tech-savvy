@@ -1,7 +1,7 @@
 ---
 title: "Launching with the Essentials: Apple Vision Pro Integrates Word & Excel From Microsoft 365 Right Away - ZDNet"
-date: 2024-11-04T08:09:56.389Z
-updated: 2024-11-07T06:04:49.112Z
+date: 2024-11-13T17:24:25.523Z
+updated: 2024-11-17T19:15:23.292Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
@@ -68,10 +68,10 @@ Providing private or family-specific AI instances would further enhance privacy 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
@@ -87,6 +87,13 @@ While Watch, Fitness+, and Health are the company's preferred health platforms, 
 Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet.com/article/make-room-for-rag-how-gen-ais-balance-of-power-is-shifting/) (RAG), which combines generative language models with information retrieval techniques to access external knowledge sources and incorporate real-time data into responses. 
 
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
 
@@ -106,13 +113,6 @@ AI can enhance contextual awareness by integrating with sensors and data sources
 
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Ensure AI shines across all products and services
 
 Given Apple's extensive range of consumer products, generative AI capabilities must excel across every product in the ecosystem. I think I can speak for every Apple product user that enhancing Siri to make its responses more relevant and intelligent is crucial, but generative AI must also improve experiences in Apple Music, Apple News, Health, Fitness+, and TV.
@@ -130,16 +130,10 @@ Leveraging AI to enhance HomeKit's capabilities is essential, especially since H
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
@@ -184,20 +178,22 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-photoshop-magic-master-the-art-of-background-elimination/"><u>[Updated] 2024 Approved Photoshop Magic Master the Art of Background Elimination</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-anonymous-insights-best-story-viewing-apps/"><u>[Updated] Anonymous Insights Best Story-Viewing Apps</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-discreetly-share-life-with-instagram-live/"><u>[Updated] In 2024, Discreetly Share Life with Instagram Live</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-v29-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo V29 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-v30-lite-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo V30 Lite 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-vs-perplexity-which-is-the-better-ai-chatbot/"><u>ChatGPT Plus Vs. Perplexity: Which Is the Better AI Chatbot?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-proposals-via-gpt-3-wisdom/"><u>Elevate Your Proposals via GPT-3 Wisdom</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/frie-premium-mkv-mp4-konverter-under-windows-og-mac-13-veje/"><u>Frie Premium MKV-MP4 Konverter Under Windows Og Mac - 13 Veje</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-this-app-package-is-not-supported-for-installation-on-windows/"><u>How to Fix This App Package Is Not Supported for Installation on Windows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-5-screen-capture-utilities-for-windows-users/"><u>In 2024, Top 5 Screen Capture Utilities for Windows Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leading-audio-designers-for-iphone-ringtones/"><u>Leading Audio Designers for iPhone Ringtones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-workflow-the-best-8-chrome-extensions-using-ai-technology/"><u>Optimize Your Workflow: The Best 8 Chrome Extensions Using AI Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/privacy-measures-to-disable-chatgpts-memory-storage/"><u>Privacy Measures to Disable ChatGPT's Memory Storage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-efficiency-incorporating-bings-ai-into-your-android-typing-experience/"><u>Unlocking Efficiency: Incorporating Bing's AI Into Your Android Typing Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-gpts-inner-workings-the-code-decipherer-explained/"><u>Unveiling GPT's Inner Workings: The Code Decipherer Explained</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-crafting-tomorrows-art-today-the-finest-9-resources-for-3d-typographic-exploration/"><u>[New] 2024 Approved Crafting Tomorrow's Art Today The Finest 9 Resources for 3D Typographic Exploration</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-liveoutnow-an-in-depth-look-at-effortless-podcast-live-streaming/"><u>[New] 2024 Approved LiveOutNow An In-Depth Look at Effortless Podcast Live Streaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-roguelikes-traditional-tactics-vs-modern-mechanics-for-2024/"><u>[Updated] Roguelike's Traditional Tactics Vs. Modern Mechanics for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-transform-your-videos-with-the-right-dimension-proportions-for-2024/"><u>[Updated] Transform Your Videos with the Right Dimension Proportions for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-12-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 12 Pro 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-six-secrets-to-creative-narration-mastery/"><u>ChatGPT's Six Secrets to Creative Narration Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparison-mistral-vs-chatgpt-in-language-models/"><u>Comparison: Mistral vs ChatGPT in Language Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-todays-gpt-functionality-4-simple-steps/"><u>Discover Today's GPT Functionality: 4 Simple Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-study-via-artificial-intelligence-tech/"><u>Enhancing Study via Artificial Intelligence Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/five-ways-to-leverage-ai-for-hacking-mastery/"><u>Five Ways to Leverage AI for Hacking Mastery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-get-a-voice-controlled-version-of-chatgpt-on-android-with-voicegpt/"><u>How to Get a Voice-Controlled Version of ChatGPT on Android With VoiceGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/1719367447353-multiplying-malware-defenses-think-again-windows/"><u>Multiplying Malware Defenses? Think Again, Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-the-50k-char-constraint-in-chatgpt/"><u>Overcoming the 50K Char Constraint in ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revive-stuck-chatgpt-iphone-solutions-you-can-implement-today/"><u>Revive Stuck ChatGPT: IPhone Solutions You Can Implement Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quest-for-the-unbeatable-test-new-age-of-intelligence/"><u>The Quest for the Unbeatable Test: New Age of Intelligence</u></a></li>
+<li><a href="https://win-premium.techidaily.com/tutoriel-complet-sur-la-duplication-dun-serveur-physique-vers-une-nouvelle-machine-virtual-dans-vmware/"><u>Tutoriel Complet Sur La Duplication D'un Serveur Physique Vers Une Nouvelle Machine Virtual Dans VMware</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unlock-new-possibilities-filmora-x-adds-arm-support/"><u>Updated 2024 Approved Unlock New Possibilities Filmora X Adds ARM Support</u></a></li>
 </ul></div>
 

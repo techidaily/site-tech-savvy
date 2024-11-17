@@ -1,7 +1,7 @@
 ---
 title: "Shift Your Focus to Claude 3: The Top 4 Reasons Ahead"
-date: 2024-11-02T09:01:32.221Z
-updated: 2024-11-06T23:42:48.924Z
+date: 2024-11-12T18:35:57.703Z
+updated: 2024-11-17T18:26:49.152Z
 tags:
   - chatgpt
   - open-ai
@@ -52,28 +52,29 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
 1. Sample 1  
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
 
@@ -86,16 +87,10 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
 ![Coconut to wealth by ChatGPT writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And here's Claude's take:
@@ -104,16 +99,16 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
 
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2  Claude Offers Multimodality for Free
 
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
 
@@ -158,22 +153,20 @@ thumbnail: https://thmb.techidaily.com/149d291e46cccdb5fbde53e3ccc5e323925f68f6d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-instagram-analysts-handbook-decoding-engagement-and-reach/"><u>[New] In 2024, The Instagram Analyst's Handbook Decoding Engagement and Reach</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-and-healthcare-how-can-chatgpt-innovate/"><u>AI and Healthcare: How Can ChatGPT Innovate?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-5-next-gen-ai-counselors-alleviating-stress/"><u>Discover 5 Next-Gen AI Counselors Alleviating Stress</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-standing-without-the-power-players-nyt/"><u>Elevate Your Standing Without the Power Players (NYT)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-privacy-chatgpt-and-vpn-synergy/"><u>Enhancing Privacy: ChatGPT and VPN Synergy?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/grok-ai-revelations-understanding-its-significance-and-financial-implications-by-musk/"><u>Grok AI Revelations: Understanding Its Significance & Financial Implications by Musk</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-add-flair-with-gifs-on-snapchat-a-comprehensive-walkthrough/"><u>In 2024, Add Flair with GIFs on Snapchat – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-survival-with-gpt-powered-expedition-talks/"><u>Innovating Survival with GPT-Powered Expedition Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intellectual-ownership-of-machine-learning-outputs/"><u>Intellectual Ownership of Machine Learning Outputs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/age-your-vfx-work-with-these-8-top-sites-offering-free-green-screen-resources-for-2024/"><u>Leverage Your VFX Work with These 8 Top Sites Offering Free Green Screen Resources for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/navigating-the-best-ways-to-record-screens-on-hp-systems-for-2024/"><u>Navigating the Best Ways to Record Screens on HP Systems for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/quick-and-simple-winx-dvd-ripper-convert-dvds-to-mp4-videos-with-windows-11-support/"><u>Quick & Simple WinX DVD Ripper: Convert DVDs to MP4 Videos with Windows 11 Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revealing-the-concealed-logic-in-ai-black-boxes/"><u>Revealing the Concealed Logic in AI Black Boxes</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-overvoltage-situations-on-your-devices-connector-point/"><u>Understanding and Fixing Overvoltage Situations on Your Device's Connector Point</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-your-creativity-with-microsofts-ai-imagery-builder/"><u>Unleashing Your Creativity with Microsoft's AI Imagery Builder</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-everything-about-facebook-for-2024/"><u>[Updated] Everything About Facebook for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-hands-on-help-quick-screen-recording-dell/"><u>[Updated] In 2024, Hands-On Help Quick Screen Recording (Dell)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unlocking-magic-in-marketing-top-20-keyphrases/"><u>[Updated] In 2024, Unlocking Magic in Marketing - Top 20 Keyphrases</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-an-ultimate-overview-of-polarr-photo-editor/"><u>2024 Approved An Ultimate Overview of Polarr Photo Editor</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-14-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi 14 Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-recipe-success-rate-in-mixology/"><u>ChatGPT's Recipe Success Rate in Mixology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/curating-cinema-lists-through-chatgpt-dialogues/"><u>Curating Cinema Lists Through ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/detecting-the-presence-of-an-airtag-tracker-on-you-or-your-belongings-tips-and-strategies-for-privacy-protection/"><u>Detecting the Presence of an AirTag Tracker on You or Your Belongings | Tips & Strategies for Privacy Protection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-top-ai-gemini-enhanced-or-gptplusplus/"><u>Discovering the Top AI: Gemini Enhanced or GPT++?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-your-options-with-a-focus-on-local-llm-benefits-and-challenges/"><u>Exploring Your Options with a Focus on Local LLM Benefits & Challenges</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-x-fold-2-lock-screen-password-by-drfone-android/"><u>How To Change Vivo X Fold 2 Lock Screen Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-integrate-chatgpt-with-whatsapp-for-customer-support/"><u>How to Integrate ChatGPT With WhatsApp for Customer Support</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-deciphering-the-meaning-of-facebooks-blue-video-icon/"><u>In 2024, Deciphering the Meaning of Facebook's Blue Video Icon</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-step-by-step-guide-to-global-chatgpt-connectivity/"><u>Your Step-by-Step Guide to Global ChatGPT Connectivity</u></a></li>
 </ul></div>
 

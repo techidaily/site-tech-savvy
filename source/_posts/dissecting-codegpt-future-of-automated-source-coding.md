@@ -1,7 +1,7 @@
 ---
 title: "Dissecting CodeGPT: Future of Automated Source Coding"
-date: 2024-10-31T19:59:07.125Z
-updated: 2024-11-07T04:33:30.368Z
+date: 2024-11-14T17:41:47.275Z
+updated: 2024-11-17T19:05:39.860Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
 * [Can CodeGPT Really Write Code?](https://sentrypc.7eer.net/dkpkgn)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,10 +46,16 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is CodeGPT?
@@ -61,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
  While there are several [code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/), macOS, and Windows, CodeGPT is only available in two. Today, you can either [install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Does CodeGPT Cost?
@@ -76,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/4b7456a673e9ab4f91fdc46da88e43866c4c8770e
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can [access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/), you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can CodeGPT Really Write Code?
@@ -181,18 +187,24 @@ with open('output.csv', 'w', newline='') as output_file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-video-enhancer-22/"><u>[Updated] How To Use Video Enhancer 2.2</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-essential-tools-for-gopro-movie-makers/"><u>[Updated] In 2024, Essential Tools for GoPro Movie Makers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unleash-your-inner-editor-with-these-premium-androidpc-apps/"><u>[Updated] In 2024, Unleash Your Inner Editor with These Premium Android/PC Apps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-stand-out-in-the-crowd-ingenious-tips-for-top-tinder-bios-for-2024/"><u>[Updated] Stand Out in the Crowd - Ingenious Tips for Top Tinder Bios for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-elite-8-virtual-handhelds-overview/"><u>2024 Approved The Elite 8 Virtual Handhelds Overview</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cpu-overheating-alerts-and-remedies-essential-tips-for-protecting-your-pc/"><u>CPU Overheating Alerts & Remedies: Essential Tips for Protecting Your PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortlessly-stop-intrusive-ads-a-step-by-step-guide-to-browsing-without-interruptions-on-firefox/"><u>Effortlessly Stop Intrusive Ads: A Step-by-Step Guide to Browsing Without Interruptions on Firefox</u></a></li>
-<li><a href="https://video-capture.techidaily.com/elevate-your-audio-experience-with-audacity-on-the-mac/"><u>Elevate Your Audio Experience with Audacity on the Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-gaming-with-lag-free-video-streaming-on-sonys-console/"><u>Enhance Gaming with Lag-Free Video Streaming on Sony's Console</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ensuring-file-security-on-windows-10-master-the-7-essential-steps-for-transferring-and-backing-up-files-on-another-drive/"><u>Ensuring File Security on Windows 10: Master the 7 Essential Steps for Transferring and Backing Up Files on Another Drive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-advice-step-by-step-kodi-setup-on-xbox-one-latest-2024-version/"><u>Expert Advice: Step by Step Kodi Setup on Xbox One (Latest 2024 Version)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-tips-for-enhancing-file-transfer-speeds-no-hassle/"><u>Expert Tips for Enhancing File Transfer Speeds - No Hassle</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-immutable-tiktok-hyperlink-process-for-profiles/"><u>In 2024, Immutable TikTok Hyperlink Process for Profiles</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-exploring-platform-variations-youtube-vs-dailymention/"><u>[New] 2024 Approved Exploring Platform Variations YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-tips-for-using-snap-camera-for-remote-team-collaboration/"><u>[New] In 2024, Tips for Using Snap Camera for Remote Team Collaboration</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ne-arm-wonders-keeping-photos-steady/"><u>[New] One Arm Wonders Keeping Photos Steady</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-art-of-video-edits-easy-techniques-on-your-windows-pc/"><u>[Updated] In 2024, The Art of Video Edits Easy Techniques on Your Windows PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-unraveling-the-windows-meltdown-how-crowdstrike-influenced-cybersecurity-a-detailed-analysis/"><u>1. Unraveling the Windows Meltdown: How CrowdStrike Influenced Cybersecurity - A Detailed Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-user-friendly-guide-to-leveraging-windows-10-and-zoom-for-2024/"><u>A User-Friendly Guide to Leveraging Windows 10 and Zoom for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ahead-of-apples-vision-pro-meta-quest-3-unleashes-its-built-in-ai-get-setup-tips/"><u>Ahead of Apple's Vision Pro, Meta Quest 3 Unleashes Its Built-In AI - Get Setup Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-vs-traditional-se-excellence/"><u>AI-Driven Content vs Traditional SE Excellence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-current-updates-wide-usefulness/"><u>ChatGPT's Current Updates: Wide Usefulness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-the-triad-commonplace-vs-controlled-ai-systems/"><u>Demystifying the Triad: Commonplace Vs. Controlled AI Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-c12-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia C12 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apples-ios-1751-patch-resolves-unexpected-issue-with-revived-old-photos-analysis-by-zdnet/"><u>How Apple's IOS 17.5.1 Patch Resolves Unexpected Issue with Revived Old Photos – Analysis by ZDNET</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-concise-content-the-best-url-cutter-tools-for-youtubers/"><u>In 2024, Concise Content The Best URL Cutter Tools for Youtubers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-the-new-mac-mini-with-m4-chip-compact-and-powerful-like-an-apple-tv-zdnet-explores/"><u>Is the New Mac Mini with M4 Chip Compact and Powerful Like an Apple TV? - ZDNet Explores</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/meta-versus-omni-the-future-of-digital-worlds/"><u>Meta versus Omni The Future of Digital Worlds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reasons-to-get-pumped-about-the-latest-iphone-16-innovations-insights/"><u>Reasons to Get Pumped About the Latest iPhone 16 Innovations - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/record-phone-conversations-on-ios-18-without-third-party-software-tech-insights/"><u>Record Phone Conversations on iOS 18 Without Third-Party Software | Tech Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-overcoming-atomic-heart-crash-when-you-hit-play/"><u>Troubleshooting: Overcoming 'Atomic Heart' Crash When You Hit Play</u></a></li>
+<li><a href="https://fox-access.techidaily.com/visual-virtuosity-mastering-the-craft-of-photographic-enhancement-for-2024/"><u>Visual Virtuosity Mastering the Craft of Photographic Enhancement for 2024</u></a></li>
 </ul></div>
 

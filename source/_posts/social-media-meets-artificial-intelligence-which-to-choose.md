@@ -1,7 +1,7 @@
 ---
 title: "Social Media Meets Artificial Intelligence: Which to Choose?"
-date: 2024-11-02T12:02:17.064Z
-updated: 2024-11-07T02:30:11.481Z
+date: 2024-11-10T17:33:12.920Z
+updated: 2024-11-17T17:23:28.300Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ Close
 
  However, since ChatGPT isn’t on a social media platform, it's in a far less distracting environment (better-suited for work) and can format its output better. It also stores all your conversations in neat categories, so you can reference them later. My AI’s chat is all on a Snapchat conversation that might disappear unless you save each message.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Research and Essays: ChatGPT vs. My AI
 
  You might notice that Snapchat’s My AI isn’t eager to help out with professional or academic stuff. There are scenarios where we’ve asked the AI to help out with essays and problems, and it just straight up tells you to go do it yourself.
@@ -65,13 +72,20 @@ Close
 ![My AI giving a quick random fact about the shortest war in history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-giving-a-quick-random-fact-about-the-shortest-war-in-history.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![My AI suggesting the 20 questions game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-suuggesting-the-20-questions-game.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -81,29 +95,22 @@ Close
 
  However, if your game is a big, complicated idea, then it’s a better option to use ChatGPT. It seems to have a more robust data pool and a better ability to retain information. You can play a [detailed text-based RPG on ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-as-an-interactive-rpg/) using our complex prompt to test out the breadth of ChatGPT’s abilities as a game.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Work or Professional Help: ChatGPT vs. My AI
 
  ChatGPT is the AI to go to for professional assistance. Open a new browser tab and keep ChatGPT open as you go about your business. The AI could be useful for simulations, simple questions you don’t need to Google, math problems, coding, translations, and many, many more.
 
 ![ChatGPT displaying a Python code for calculating the price of goods](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-displaying-a-python-code-for-calculating-the-price-of-goods.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  My AI doesn’t give detailed answers to questions the way ChatGPT does, so it’s still not a good idea to use it—even after opening [Snapchat in your browser](https://www.makeuseof.com/how-to-use-snapchat-on-web/).
 
  ChatGPT also has the advantage of being able to format its output. It can create numbered lists, and even place its output inside code blocks, making it more presentable for people who need to see it like that. ChatGPT’s generated code also has more notes and better explanations.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Directions and Local Navigation: ChatGPT vs. My AI
 
@@ -111,32 +118,18 @@ Close
 
 ![My AI pointing out a nearby taco place](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-pointing-out-a-nearby-taco-place-1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![My AI pointing out the nearest stadium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/my-ai-pointing-out-the-nearest-stadium.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
  Feel free to ask My AI questions like where the nearest parks or stadiums are, and to give you a description of them. But please, check again with your map to ensure you’re actually going the right way.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Natural Language Chats: ChatGPT vs. My AI
 
@@ -145,6 +138,13 @@ Close
  When asked if the rules of Stoicism align with its morals as an AI, here was its response:
 
 ![ChatGPT commenting on whether Stoicism relates with its morals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-commenting-on-whether-stoicism-relates-with-its-morals.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, when you compare it with My AI’s response, you begin to see the clear difference between the two of them in terms of depth of conversation:
 
@@ -183,22 +183,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-highpoint-craftsman-workspace-review/"><u>[New] In 2024, Highpoint Craftsman Workspace Review</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-novices-net-a-comprehensive-look-at-visual-quality-measures/"><u>[New] The Novice’s Net A Comprehensive Look at Visual Quality Measures</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-fb-activity-preview-insight-or-intrusion-whats-safer-for-2024/"><u>[Updated] FB Activity Preview Insight or Intrusion – What's Safer for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-deep-dive-magix-video-pro-x-features-and-performance/"><u>[Updated] In 2024, Deep Dive Magix Video Pro X Features and Performance</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-ultimate-list-of-engaging-history-content-on-youtube/"><u>2024 Approved The Ultimate List of Engaging History Content on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bing-transformed-with-microsofts-artificial-intelligence/"><u>Bing Transformed with Microsoft’s Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breakdown-of-hugging-faces-utility-in-ai-technologies/"><u>Breakdown of Hugging Face's Utility in AI Technologies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/can-i-peruse-friends-shared-videos-and-pics-via-messenger-in-2024/"><u>Can I Peruse Friends' Shared Videos & Pics via Messenger, In 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/constructing-a-daily-sanctuary-through-ai-guided-reflection/"><u>Constructing a Daily Sanctuary Through AI-Guided Reflection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiency-leap-ai-in-dev-workflow/"><u>Efficiency Leap: AI in Dev Workflow</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-therapists-with-ai-driven-cbt-techniques/"><u>Empowering Therapists with AI-Driven CBT Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-download-hp-color-laserjet-pro-m452dn-printer-drivers-and-software/"><u>Free Download: HP Color LaserJet Pro M452dn Printer Drivers & Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-broken-corsair-headset-expert-tips-and-tricks/"><u>How to Fix a Broken Corsair Headset – Expert Tips & Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/minimize-flaws-4-key-avoidances-when-using-chatgpt/"><u>Minimize Flaws: 4 Key Avoidances When Using ChatGPT</u></a></li>
-<li><a href="https://win-guides.techidaily.com/seamless-cross-platform-file-synchronization-in-windows-10-8-and-7-a-step-by-step-guide/"><u>Seamless Cross-Platform File Synchronization in Windows 10, 8 & 7 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-perils-of-using-ai-for-obtaining-windows-11-keys/"><u>The Perils of Using AI for Obtaining Windows 11 Keys</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/theoretical-inquiry-into-comparative-models-of-accessibility-in-digital-knowledge-bases-the-case-of-the-internet/"><u>Theoretical Inquiry Into Comparative Models of Accessibility in Digital Knowledge Bases: The Case of the Internet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-a54-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy A54 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-watch-showdown-series-10-vs-series-8-which-one-wins-the-tech-race-zdnet/"><u>Apple Watch Showdown: Series 10 Vs. Series 8 - Which One Wins the Tech Race? | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ease-into-new-functionality-with-chatgpts-extensions/"><u>Ease Into New Functionality with ChatGPT's Extensions</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-a-la-creation-dune-sauvegarde-basee-sur-la-synchronisation-avec-aomei-backupper/"><u>Guide À La Création D'une Sauvegarde Basée Sur La Synchronisation Avec AOMEI Backupper.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-iphone-enthusiasts-can-join-and-view-shared-albums-with-simple-instructions/"><u>How iPhone Enthusiasts Can Join and View Shared Albums with Simple Instructions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-guide-to-coloring-composition-with-confidence/"><u>In 2024, A Guide to Coloring Composition with Confidence</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-introduction-to-plot-and-character-dynamics/"><u>In 2024, Introduction to Plot and Character Dynamics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-pro-ultimate-2023-template-giveaway/"><u>In 2024, Premier Pro Ultimate 2023 Template Giveaway</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-prompts-quickly-with-these-7-efficient-tools/"><u>Master Prompts Quickly With These 7 Efficient Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-lost-deletion-capabilities-in-microsoft-os/"><u>Reinstating Lost Deletion Capabilities in Microsoft OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revolutionizing-the-lineup-prospective-touchscreen-macbook-deets-and-gossip-revealed/"><u>Revolutionizing the Lineup: Prospective Touchscreen MacBook Deets and Gossip Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-big-savings-on-the-new-apple-watch-series-10-at-best-buy-preorder-now-and-save-up-to-50-off/"><u>Score Big Savings on the New Apple Watch Series 10 at Best Buy - Preorder Now and Save Up to 50% Off!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-role-of-vector-databases-in-advancing-artificial-intelligence/"><u>The Role of Vector Databases in Advancing Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-12-and-12-pro-protectors-find-your-perfect-match-techguide/"><u>Top-Rated iPhone 12 & 12 Pro Protectors : Find Your Perfect Match - TechGuide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-trouble-refrain-from-the-google-bard-update/"><u>Unleashing Trouble? Refrain From the Google Bard Update</u></a></li>
 </ul></div>
 

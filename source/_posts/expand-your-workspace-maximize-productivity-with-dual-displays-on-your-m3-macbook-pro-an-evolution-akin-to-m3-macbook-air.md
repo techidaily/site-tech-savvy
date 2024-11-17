@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Workspace: Maximize Productivity with Dual Displays on Your M3 MacBook Pro - An Evolution Akin to M3 MacBook Air"
-date: 2024-11-05T01:26:43.017Z
-updated: 2024-11-07T01:29:31.074Z
+date: 2024-11-10T18:03:10.835Z
+updated: 2024-11-17T17:21:41.776Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -72,10 +72,10 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -103,10 +103,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -119,6 +119,13 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -128,13 +135,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -170,24 +170,22 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beginners-bible-to-your-youtube-audio-visual-arsenal/"><u>[New] 2024 Approved Beginner's Bible to Your YouTube Audio-Visual Arsenal</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-iphoneandroids-leading-vr-experiences-ranked/"><u>[New] 2024 Approved IPhone/Android's Leading VR Experiences Ranked</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-optimizing-your-macos-sierra-easy-instructions/"><u>[New] Optimizing Your macOS Sierra Easy Instructions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-tier-voice-to-text-applications/"><u>[Updated] In 2024, Top Tier Voice to Text Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/authentic-learning-experiences-not-easy-chatgpt-replies/"><u>Authentic Learning Experiences, Not Easy ChatGPT Replies</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-honor-magic-6-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Magic 6 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719576001688-bokmaal-basics-accelerated-learning-path/"><u>Bokmaal Basics, Accelerated Learning Path!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-characters-and-plots-with-ai-aided-insight-from-chatgpt/"><u>Crafting Characters and Plots with AI-Aided Insight From ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deleting-gpt-3-complete-step-guide/"><u>Deleting GPT-3: Complete Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-failures-in-attempted-gpt-alteration/"><u>Dissecting Failures in Attempted GPT Alteration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-gpt-4-on-current-chatgpt-platforms/"><u>Engaging With GPT-4 on Current ChatGPT Platforms</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/imovie-harmony-blending-visuals-and-melodies-for-2024/"><u>IMovie Harmony Blending Visuals and Melodies for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-x-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone X Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-transforming-daily-routine-into-a-social-media-journey-on-fb/"><u>In 2024, Transforming Daily Routine Into a Social Media Journey on FB</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ingenious-illusions-unveiling-ais-artistic-potential-with-dall-e-iii/"><u>Ingenious Illusions: Unveiling AI's Artistic Potential with DALL-E III</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/postpone-pruning-saving-chatgpt-talks/"><u>Postpone Pruning: Saving ChatGPT Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stanzas-stand-off-artisanal-verse-vs-chatbot-alpaca-herds/"><u>Stanzas Stand Off: Artisanal Verse vs ChatBot Alpaca Herds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-the-truthgpt-that-elon-musk-claims-to-be-working-on/"><u>What Is the TruthGPT That Elon Musk Claims to Be Working On?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-engage-and-inspire-viewers-animated-subscribers-in-filmora-explained/"><u>[Updated] In 2024, Engage and Inspire Viewers - Animated Subscribers in Filmora Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streaming-mastery-with-obs-game-mode/"><u>[Updated] Streaming Mastery with OBS Game Mode</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-headgear-selection-for-your-virtual-exploration/"><u>[Updated] Ultimate Headgear Selection for Your Virtual Exploration</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/budget-friendly-chinese-vr-gear/"><u>Budget-Friendly Chinese VR Gear</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-vpns-facilitate-chatgpt-engagements/"><u>Can VPNs Facilitate ChatGPT Engagements?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/child-friendly-gpt-interactions-the-essential-5-tips/"><u>Child-Friendly GPT Interactions: The Essential 5 Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delineating-the-5-significant-distinctions-in-ai-upgrades/"><u>Delineating the 5 Significant Distinctions in AI Upgrades</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/eliminating-chromecast-audio-lag-a-step-by-step-guide/"><u>Eliminating Chromecast Audio Lag: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enterprise-transformation-post-gpt-whisper-apis-launch/"><u>Enterprise Transformation Post GPT, Whisper APIs Launch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/extract-digest-and-understand-4-advanced-tips-for-chatgpt-and-pdfs/"><u>Extract, Digest & Understand: 4 Advanced Tips for ChatGPT and PDFs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-20c-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Spark 20C to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/overcoming-absence-of-color-in-game-recordings/"><u>Overcoming Absence of Color in Game Recordings</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-voice-in-csgo-expert-fixes-for-nonfunctioning-microphones/"><u>Revive Your Voice in CS:GO - Expert Fixes for Nonfunctioning Microphones</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-s10e-unveiled-budget-friendly-with-a-punch-of-quality/"><u>Samsung Galaxy S10e Unveiled: Budget-Friendly with a Punch of Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-steps-to-resolve-6-predicaments-in-gpt-communication/"><u>Swift Steps to Resolve 6 Predicaments in GPT Communication</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-innovative-use-of-gpt-in-industry-today/"><u>The Innovative Use of GPT in Industry Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-fitness-tools-top-8-ai-integrations/"><u>Transformative Fitness Tools: Top 8 AI Integrations</u></a></li>
 </ul></div>
 

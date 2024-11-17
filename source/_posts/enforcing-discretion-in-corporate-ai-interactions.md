@@ -1,7 +1,7 @@
 ---
 title: Enforcing Discretion in Corporate AI Interactions
-date: 2024-11-02T12:16:05.746Z
-updated: 2024-11-06T22:17:59.754Z
+date: 2024-11-11T18:59:52.097Z
+updated: 2024-11-17T16:06:30.805Z
 tags:
   - chatgpt
   - open-ai
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
  Limit interactions with ChatGPT to non-confidential queries and avoid sharing proprietary details. Moreover, apply good password hygiene and enable two-factor authentication to prevent compromising your account.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Use Data Anonymization Techniques
@@ -99,18 +99,18 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 
  Anonymization is not foolproof since data can be de-anonymized. Understand [de-anonymization and how to prevent it](https://www.makeuseof.com/what-is-de-anonymization/) before utilizing any of these techniques. Evaluate the risks before you release anonymized data.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Limit Access to Sensitive Data
 
  Limiting access to sensitive work data is crucial when workers are allowed to use ChatGPT. If you’re working in a leadership role, restrict access to sensitive information to authorized personnel who require it for their specific roles.
 
  Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Be Wary of Third-Party Apps
 
@@ -119,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
  Don’t install shady apps that ask for random permissions on your phone. Verify their data handling practices to check if they align with your organization’s privacy standards.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly for Work
@@ -148,16 +148,20 @@ thumbnail: https://thmb.techidaily.com/d64a92b374563fd7f8dd564ef2b564a68a3b72b9d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-mastering-personal-branding-essential-strategies-for-facebook-bio-crafting-for-2024/"><u>[New] Mastering Personal Branding Essential Strategies for Facebook Bio Crafting for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-inverted-images-conundrum-on-instagram-feed-for-2024/"><u>[Updated] The Inverted Images Conundrum on Instagram Feed for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-theta-s-reviewed-detailed-performance-insights-for-2024/"><u>[Updated] Theta S Reviewed Detailed Performance Insights for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-pc-gaming-performance-turn-off-mouse-acceleration-on-windows-11/"><u>Boosting PC Gaming Performance: Turn Off Mouse Acceleration on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-easy-screen-clip-methods-for-acer-laptop-owners/"><u>Complete Tutorial: Easy Screen Clip Methods for Acer Laptop Owners</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/enhancing-webcam-video-quality-on-macbook/"><u>Enhancing Webcam Video Quality on MacBook</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-tips-navigating-safe-usage-of-chatgpt-in-mental-wellness-coaching/"><u>Essential Tips: Navigating Safe Usage of ChatGPT in Mental Wellness Coaching</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808288120-fixed-antimalware-service-executable-high-cpu-on-windows-1110/"><u>Fixed: 'Antimalware Service Executable' High CPU on Windows 11/10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-xiaomi-redmi-a2plus-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Xiaomi Redmi A2+? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808069205-pairing-bluetooth-earbuds-with-sony-ps4-detailed-instructions-and-visual-aids-included/"><u>Pairing Bluetooth Earbuds with Sony PS4 - Detailed Instructions and Visual Aids Included!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-action-to-archive-top-screen-recording-tools-assessed/"><u>[Updated] In 2024, Action to Archive Top Screen Recording Tools Assessed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instagram-live-without-a-trace-the-unseen-spectators-playbook/"><u>2024 Approved Instagram Live without a Trace The Unseen Spectator's Playbook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adaptive-ai-pivotal-additions-in-gpt-5s-scope/"><u>Adaptive AI: Pivotal Additions in GPT-5's Scope</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-gpu-driver-update-guide-installing-the-most-recent-rx-6700-xt-software-on-win11-10-or-windows-7-systems/"><u>AMD GPU Driver Update Guide: Installing the Most Recent RX 6700 XT Software on Win11, 10 or Windows 7 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-editing-discover-ai-driven-pdf-extensions/"><u>Effortless Editing: Discover AI-Driven PDF Extensions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-enhanced-biking-experiences-through-heads-up-display-technology-in-photochromic-lenses-a-zdnet-exclusive/"><u>Exploring Enhanced Biking Experiences Through Heads-Up Display Technology in Photochromic Lenses | A ZDNET Exclusive</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-6s-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 6s online without jailbreak</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-hue-transformations-expert-tactics-revealed/"><u>In 2024, Mastering Hue Transformations Expert Tactics Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/interactive-media-platform-breakdown/"><u>Interactive Media Platform Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/liberating-gpt-4-for-all-plus-membership-consider-these-6-persisting-benefits/"><u>Liberating GPT-4 for All; Plus Membership? Consider These 6 Persisting Benefits.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/luxury-laptop-alert-high-performance-m3-macbook-pro-for-less-than-10k-features-inside/"><u>Luxury Laptop Alert: High-Performance M3 MacBook Pro for Less Than $10K - Features Inside!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-landscape-of-nvidias-creativity-service/"><u>Navigating the Landscape of NVIDIA’s Creativity Service</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/premier-plans-exclusive-free-premiere-pro-samples-2023/"><u>Premier Plans - Exclusive Free Premiere Pro Samples 2023</u></a></li>
+<li><a href="https://win-dash.techidaily.com/revamping-tradition-microsoft-enhances-classic-excel-functionality-with-contemporary-flair/"><u>Revamping Tradition: Microsoft Enhances Classic Excel Functionality with Contemporary Flair</u></a></li>
 </ul></div>
 

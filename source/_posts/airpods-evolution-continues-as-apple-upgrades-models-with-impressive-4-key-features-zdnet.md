@@ -1,7 +1,7 @@
 ---
 title: AirPods Evolution Continues as Apple Upgrades Models with Impressive 4 Key Features | ZDNET
-date: 2024-11-02T00:12:30.212Z
-updated: 2024-11-07T09:30:20.117Z
+date: 2024-11-14T17:28:05.886Z
+updated: 2024-11-17T18:08:28.509Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Apple announced an innovative feature coming to AirPods Pro 2 when iOS 18 is rel
 Then, if needed, the AirPods Pro 2 can use the wearer's results and double as an over-the-counter hearing aid. This feature will allow the Pro 2 earbuds to use their directional microphones to amplify conversational noises for users who have difficulty hearing conversations in noisy environments. Apple is still waiting for the FDA to approve this feature, but the company expects the approval to be ready for iOS 18's release.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find My speaker
@@ -48,10 +54,10 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods Max wired listening
@@ -71,16 +77,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Now, if you have an iPhone 15 or newer, you can plug a USB-C cable into your iPhone and AirPods Max and begin listening. If you have an iPhone 14 or older, you can use a Lightning-to-USB-C adapter to plug into the new AirPods Max.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A 'Goldilocks' pair of AirPods
@@ -121,18 +127,18 @@ Now, you can buy the AirPods 4 with noise cancellation, which offer upgraded aud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-zero-to-million-in-minutes-rapidly-rise-as-an-instagram-influencer-with-these-top-tips-for-2024/"><u>[New] From Zero to Million in Minutes Rapidly Rise as an Instagram Influencer with These Top Tips for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-garmins-action-camera-triumph-a-comprehensible-look-at-ultra-30/"><u>[New] Garmin's Action Camera Triumph - A Comprehensible Look at Ultra 30</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-redefining-digital-space-alternative-video-hosting-sites/"><u>[Updated] In 2024, Redefining Digital Space Alternative Video Hosting Sites</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-navigating-the-nuances-of-twitters-video-policies/"><u>[Updated] Navigating the Nuances of Twitter's Video Policies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-turing-emerging-evaluation-methods/"><u>Beyond The Turing: Emerging Evaluation Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-revolutionizing-office-writing-the-new-norm-in-word/"><u>ChatGPT Revolutionizing Office Writing: The New Norm in Word</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/detailed-insight-into-the-operation-of-shared-chatgpt-links/"><u>Detailed Insight Into the Operation of Shared ChatGPT Links</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-poco-m6-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Poco M6 5G</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-5-rapid-ways-to-access-obliviated-reddit-content/"><u>In 2024, 5 Rapid Ways to Access Obliviated Reddit Content</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-creativity-exclusive-free-youtube-banner-templates/"><u>In 2024, Unleash Creativity - Exclusive Free YouTube Banner Templates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-interaction-tomorrows-ai-evolution/"><u>Innovating Interaction: Tomorrow's AI Evolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfecting-persuasion-the-smart-way-to-write-convincing-proposals-using-ai/"><u>Perfecting Persuasion: The Smart Way to Write Convincing Proposals Using AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-service-access-how-to-use-chatgpt-without-numbers/"><u>Quick Service Access: How to Use ChatGPT without Numbers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-a-step-by-step-framework-for-transcribing-whatsapp-calls/"><u>[New] A Step-by-Step Framework for Transcribing WhatsApp Calls</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-breaking-barriers-the-best-pc-vr-headsets-of-2023/"><u>[New] Breaking Barriers The Best PC VR Headsets of 2023</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elevate-your-fan-count-top-tactics-for-fb-page-ranks-for-2024/"><u>[New] Elevate Your Fan Count Top Tactics for FB Page Ranks for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-women-rule-the-top-10-youtube-stars-amongst-genders/"><u>[New] Women Rule The Top 10 YouTube Stars Amongst Genders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/achieve-total-well-being-with-chatgpt-your-guide-to-life-transformation/"><u>Achieve Total Well-Being with ChatGPT: Your Guide to Life Transformation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diving-into-gpt-enhanced-jobs-money-making-scenarios-explored/"><u>Diving Into GPT-Enhanced Jobs: Money-Making Scenarios Explored</u></a></li>
+<li><a href="https://article-posts.techidaily.com/dramatic-discourse-penning-powerful-narrative-dialogues/"><u>Dramatic Discourse Penning Powerful Narrative Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/futurists-unite-global-leaders-on-ai-prospects/"><u>Futurists Unite: Global Leaders on AI Prospects</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nokia-g22-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nokia G22 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-via-siri-on-ios-devices/"><u>Leveraging ChatGPT via Siri on iOS Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-recruiting-gems-amp-up-engagement-for-2024/"><u>Top 10 Recruiting Gems Amp Up Engagement for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unfolding-gpt-4-integration-in-these-7-modern-tools/"><u>Unfolding GPT-4 Integration in These 7 Modern Tools</u></a></li>
 </ul></div>
 

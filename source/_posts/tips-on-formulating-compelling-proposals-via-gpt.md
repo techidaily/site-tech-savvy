@@ -1,7 +1,7 @@
 ---
 title: Tips on Formulating Compelling Proposals via GPT
-date: 2024-11-01T22:12:34.081Z
-updated: 2024-11-06T17:17:31.589Z
+date: 2024-11-14T18:40:45.489Z
+updated: 2024-11-17T18:35:10.639Z
 tags:
   - chatgpt
   - open-ai
@@ -59,10 +59,17 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 ![Generating a standard proposal with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/generating-a-standard-proposal-with-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Generate an Outline for Your Proposal With ChatGPT
@@ -76,20 +83,13 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 ![Filling a proposal outline with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/filling-a-proposal-outline-with-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that this prompt works best if you use it right after getting the standard proposal outline from the previous step. Otherwise, you'll have to copy the standard outline into your prompt, which isn't ideal.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Write Out the Full Proposal With ChatGPT
 
@@ -100,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 > **Prompt example**: "Expand on the Project Plan and Timeline section in the outline you just wrote. Include that the project will take a total of two years to complete."
 
 ![Expanding a proposal outline with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/expanding-a-proposal-outline-with-chatgpt-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Repeat this for other sections; before you know it, you'll have a thorough, well-written proposal. Take the time to review and refine your proposal until you're confident it's ready for presentation.
 
@@ -114,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 5. **Edit and resubmit your prompts**: If you're not satisfied with a result, don't ask ChatGPT to correct it. Instead, edit your prompt and submit it again. This way, any unsatisfactory content won't be reused by ChatGPT in future conversations. You can [delete your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) to ensure a clean slate.
 6. **Experiment with your prompts**: Don't be afraid to add particular details to your prompts. For example, if you know that your audience will object to a specific point, ask ChatGPT to subtly implant counterarguments in your proposal.
 7. **Proofread**: Always proofread the content generated by ChatGPT to catch mistakes and inconsistencies. Despite its prowess, [ChatGPT can't answer every question](https://www.makeuseof.com/things-chatgpt-cant-do/). In such cases, it might provide incorrect information instead of admitting it doesn't know.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Seal the Deal by Harnessing ChatGPT's Power
 
@@ -147,24 +147,24 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-how-to-shoot-underwater-video-easily-with-7-tips/"><u>[Updated] How to Shoot Underwater Video Easily (with 7 Tips)</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-strategies-for-securing-an-original-tiktok-hashtag/"><u>[Updated] Strategies for Securing an Original TikTok Hashtag</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/m1vmp4/"><u>簡単な手順でM1VデータをMP4形式にしてください</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-free-data-transfer-overcoming-challenges-with-cyclic-redundancy-check/"><u>Error-Free Data Transfer: Overcoming Challenges with Cyclic Redundancy Check</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209912607-9780975815755-from-now-to-eternity/"><u>FROM NOW TO ETERNITY | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-repeatloop-youtube-videos-automatically/"><u>How to Repeat/Loop YouTube Videos Automatically</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo S17t? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-uninstall-drivers-in-windows-11-7-and-81/"><u>How to Uninstall Drivers in Windows 11, 7 & 8.1</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-craft-engaging-visual-narratives-with-soundtrack-integration/"><u>In 2024, Craft Engaging Visual Narratives with Soundtrack Integration</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/m1-chip-wins-smoothness-in-every-edit-every-time-for-2024/"><u>M1 Chip Wins Smoothness in Every Edit, Every Time for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-the-quick-shift-adjusting-netflix-regions-instantly/"><u>Master the Quick Shift: Adjusting Netflix Regions Instantly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-network-security-unlocking-ports-through-windows-7s-built-in-firewall/"><u>Mastering Network Security: Unlocking Ports Through Windows 7'S Built-In Firewall</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-advanced-sound-switching-techniques/"><u>Navigating Advanced Sound-Switching Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-painless-way-to-find-out-your-nvidia-driver-version/"><u>Quick and Painless Way to Find Out Your Nvidia Driver Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-guide-to-mp3-download-from-soundcloud-a-hassle-free-approach/"><u>Quick Guide to MP3 Download From SoundCloud – A Hassle-Free Approach!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revive-lost-data-on-windows-solution-1-step-by-step-guide-recovering-deleted-items-using-windows-10s-built-in-backup-feature/"><u>Revive Lost Data on Windows # Solution 1: Step-by-Step Guide: Recovering Deleted Items Using Windows 10'S Built-In Backup Feature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-steps-get-your-windows-10s-one-year-special-patch-without-hiccups/"><u>Simple Steps: Get Your Windows 10'S One Year Special Patch Without Hiccups</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-steps-regain-access-to-your-yahoo-account-without-hassle/"><u>Simple Steps: Regain Access to Your Yahoo Account Without Hassle</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mp4-mp3/"><u>온라인 무료 MP4 갤럼 MP3로 전환 - 모바이비</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easing-into-your-youtube-watches-3-methods-50-chars/"><u>[New] 2024 Approved Easing Into Your YouTube Watches 3 Methods (50 Chars)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-premier-7-apps-transforming-mobile-video-streaming-on-youtube/"><u>[New] 2024 Approved The Premier 7 Apps Transforming Mobile Video Streaming on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-trending-memes-galore-unique-themes-for-any-event/"><u>[New] 2024 Approved Trending Memes Galore Unique Themes for Any Event</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-best-mac-visual-snapshot-list-limit-156-chars/"><u>[Updated] In 2024, Best Mac Visual Snapshot List (Limit 156 Chars)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-seize-the-day-documenting-games-on-samsung-phones-for-2024/"><u>[Updated] Seize the Day! Documenting Games on Samsung Phones for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/androids-voice-controlled-gpt-experience-begins-here/"><u>Android's Voice Controlled GPT Experience Begins Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-there-fixed-word-or-character-counts-for-gpt-3-responses/"><u>Are There Fixed Word or Character Counts for GPT-3 Responses?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-apples-new-game-changer-the-enhanced-macbook-air-with-m3-chips-on-offer-for-13-and-amoeba-in-depth-analysis-by-zdnet/"><u>Discover Apple's New Game-Changer: The Enhanced MacBook Air with M3 Chips on Offer for 13 and Amoeba | In-Depth Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolving-intelligence-how-siri-is-transforming-into-apples-new-answer-hub-inspiring-a-shift-in-ai-paradigms/"><u>Evolving Intelligence: How Siri Is Transforming Into Apple's New Answer Hub, Inspiring a Shift in AI Paradigms</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-s17-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-use-picture-in-picture-on-chrome-on-all-platforms/"><u>How to Use Picture in Picture on Chrome on All Platforms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-htc-u23-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock HTC U23 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-strategies-for-apples-vision-pro-success-essential-enhancements-required/"><u>Key Strategies for Apple's Vision Pro Success: Essential Enhancements Required</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-ceo-at-ai-hub-impact-on-gpt-usage/"><u>New CEO at AI Hub Impact on GPT Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-integrate-into-ai-community-via-quoras-guide/"><u>Seamlessly Integrate Into AI Community via Quora's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-synergy-of-sites-and-intelligent-data-analysis/"><u>The Synergy of Sites and Intelligent Data Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-ipad-air-cases-of-2024-expert-evaluations-zdnet-innovations/"><u>Ultimate Guide to the Finest iPad Air Cases of 2024: Expert Evaluations | ZDNet Innovations</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-capture-to-masterpiece-the-best-1080p-video-editing-software/"><u>Updated 2024 Approved From Capture to Masterpiece The Best 1080P Video Editing Software</u></a></li>
 </ul></div>
 

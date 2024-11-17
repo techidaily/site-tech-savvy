@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Woes: The Attraction to ChatGPT"
-date: 2024-11-02T23:00:05.961Z
-updated: 2024-11-07T02:38:44.836Z
+date: 2024-11-11T18:20:56.734Z
+updated: 2024-11-17T18:44:39.160Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/e189e2b79ab7938cf17b29478f70443bb039bf95e
 
  Aware of such threats, companies like Google and Samsung—as well as Microsoft, a major backer of OpenAI—have all either warned or explicitly banned their staff from sharing company data with the AI chatbot. The fact that these companies are issuing such warnings means that mistakes might already be happening.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Reselling ChatGPT Accounts
 
  While most of the world can access the ChatGPT website, some countries are officially banned from the platform. At the time of writing, China, with more than a billion potential users, is on this list. While residents from banned countries can use a VPN and other measures to bypass this restriction, buying cheap, stolen premium accounts is also appealing. This naturally creates a market for stolen [ChatGPT Plus accounts](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), some of which are auctioned off to more than one user. With a readily available market, hackers are naturally incentivized to steal ChatGPT accounts.
@@ -55,10 +62,16 @@ thumbnail: https://thmb.techidaily.com/e189e2b79ab7938cf17b29478f70443bb039bf95e
  Since ChatGPT accounts have become a prime target for hackers, how can you protect your ChatGPT account? Here are two ways to stay safe.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Set Up Two-Factor Authentication (2FA) on Your Account
@@ -70,20 +83,13 @@ thumbnail: https://thmb.techidaily.com/e189e2b79ab7938cf17b29478f70443bb039bf95e
 2. Tap **Settings > Data controls** and then **Enable** beside **Enable two-factor authentication** to turn on the feature for your account  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![how to set up multifactor authentication on chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-on-2fa-on-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Unfortunately, at the time of writing, the 2FA feature has been temporarily disabled. If you can access the feature at the time of reading this, turn it on. If not, check back and turn it on whenever OpenAI restores this vital feature.
 
@@ -95,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/e189e2b79ab7938cf17b29478f70443bb039bf95e
 2. Go to **Clear Conversations > Confirm clear conversations** to delete all your saved conversations.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your ChatGPT Accounts From Hackers
@@ -124,22 +130,22 @@ thumbnail: https://thmb.techidaily.com/e189e2b79ab7938cf17b29478f70443bb039bf95e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-your-touch-top-8-free-android-recorders/"><u>[New] Capturing Your Touch Top 8 Free Android Recorders</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capture-the-best-with-top-windows-11-hd-webcams/"><u>[New] In 2024, Capture the Best with Top Windows 11 HD Webcams</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-masterpiece-moments-top-15-musician-behind-the-scenes-vlogs/"><u>[Updated] Masterpiece Moments Top 15 Musician Behind-the-Scenes Vlogs</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-insights-into-whatsapp-sound-calls/"><u>2024 Approved Insights Into WhatsApp Sound Calls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beats-earphones-and-windows-integration-expert-advice-for-troubleshooting-connectivity-issues/"><u>BEATS Earphones & Windows Integration: Expert Advice for Troubleshooting Connectivity Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beginners-guide-essential-safety-practices-in-web-surfing-5-key-points/"><u>Beginner's Guide: Essential Safety Practices in Web Surfing (5 Key Points)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/complete-guide-securely-saving-your-devices-drivers-in-windows-11-and-10/"><u>Complete Guide: Securely Saving Your Device's Drivers in Windows 11 and 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-presentations-with-chatgpt-a-step-by-step-guide/"><u>Crafting Presentations with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-your-gpu-top-5-methods-for-identifying-your-graphics-card/"><u>Discover Your GPU: Top 5 Methods for Identifying Your Graphics Card</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-solutions-to-counteract-lag-in-your-wireless-keyboards-on-the-windows-platform/"><u>Effective Solutions to Counteract Lag in Your Wireless Keyboards on the Windows Platform</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-techniques-for-correcting-windows-1110-errors-effectively/"><u>Essential Techniques for Correcting Windows 11/10 Errors Effectively</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/t-strategies-for-exceptional-live-thumbnail-appeal-for-2024/"><u>Expert Strategies for Exceptional Live Thumbnail Appeal for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-change-screen-resolution-windows-10-solved/"><u>How to Change Screen Resolution Windows 10 [Solved]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-clear-the-cache-on-google-chrome/"><u>How to Clear the Cache on Google Chrome</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-use/"><u>In 2024, SNS HDR Pro Review Is It Worth Using and What Other HDR Software to Use?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138570744-9781462096176-it-was-never-a-gamble/"><u>It Was Never a Gamble | Free Book</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-spark-10-pro-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Tecno Spark 10 Pro Device</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-transforming-raw-footage-to-tiktok-hit-with-mac-editing-for-2024/"><u>[New] Transforming Raw Footage to TikTok Hit with Mac Editing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-windows-11-movie-maker-a-step-by-step-guide/"><u>[Updated] Mastering Windows 11 Movie Maker A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-shorts-profits-and-content-creator-payments/"><u>2024 Approved YouTube Shorts Profits & Content Creator Payments</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ggers-dream-exploring-the-best-12-video-capture-devices-for-2024/"><u>A Vlogger's Dream Exploring the Best 12 Video Capture Devices for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-targets-top-browser-with-bone-chilling-campaign-revealed-by-zdnet/"><u>Apple Targets Top Browser with Bone-Chilling Campaign Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/create-like-never-before-utilizing-free-dall-e-3-via-microsoft-bing/"><u>Create Like Never Before: Utilizing Free DALL-E 3 via Microsoft Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-sneak-peek-scoring-an-unbeatable-bargain-on-the-anticipated-ipad-pro-before-prime-day-insights/"><u>Exclusive Sneak Peek: Scoring an Unbeatable Bargain on the Anticipated iPad Pro Before Prime Day - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-the-apple-vision-pro-empowers-enterprises-with-advanced-device-management-insights/"><u>How the Apple Vision Pro Empowers Enterprises with Advanced Device Management - Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-premier-picks-highest-rated-mp4s/"><u>In 2024, Premier Picks Highest Rated MP4s</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sonys-pursuit-of-perfection-the-4k-smartphone-experience/"><u>In 2024, Sony's Pursuit of Perfection The 4K Smartphone Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-nx-release-exclusive-breakdown-of-most-popular-models-and-their-availability-timelines-coverage/"><u>IPhone nX Release: Exclusive Breakdown of Most Popular Models and Their Availability Timelines Coverage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ais-role-in-law-and-order/"><u>Navigating AI's Role in Law & Order</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-enhancements-boosting-vs-code-and-gpt-integration/"><u>Top 6 Enhancements: Boosting VS Code & GPT Integration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-discord-java-script-glitches-with-these-tips/"><u>Troubleshoot Discord Java Script Glitches with These Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-xs-max-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone XS Max Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/walmarts-ultimate-guide-to-top-notch-seasonal-sales-discover-hidden-gems-for-the-holidcks-insights-by-zdnet/"><u>Walmart's Ultimate Guide to Top-Notch Seasonal Sales: Discover Hidden Gems for the Holidcks | Insights by ZDNet</u></a></li>
 </ul></div>
 

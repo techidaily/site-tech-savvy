@@ -1,7 +1,7 @@
 ---
 title: Digital Discourse and Politeness with Voice-Activated Technology
-date: 2024-11-05T05:35:01.763Z
-updated: 2024-11-06T18:42:56.433Z
+date: 2024-11-10T18:50:28.390Z
+updated: 2024-11-17T18:56:11.185Z
 tags:
   - chatgpt
   - open-ai
@@ -42,16 +42,16 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
  For instance, if you use derogatory words when addressing [Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/), it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's [Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/), which includes a **Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the [Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
@@ -71,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
@@ -86,10 +86,10 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
  On the other hand, you can [set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -117,19 +117,24 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-forge-an-impeccable-vr-self-representation/"><u>[New] How to Forge an Impeccable VR Self-Representation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-content-curation-youtube-vs-tiktok-showdown/"><u>[New] In 2024, Content Curation YouTube Vs. TikTok Showdown</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-separate-visual-elements-videos-to-pics-via-windows-10-photos/"><u>[New] Separate Visual Elements Videos to Pics via Windows 10 Photos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-constructing-captivating-valorant-youtube-thumbnails/"><u>2024 Approved Constructing Captivating Valorant YouTube Thumbnails</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-cgps-accuracy-in-health-guidance/"><u>Assessing CGP's Accuracy in Health Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-printer-efficiency-via-chatgpt-expertise/"><u>Enhancing Printer Efficiency via ChatGPT Expertise</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-meizu-21-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Meizu 21 to Another | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ideation-powerhouse-mindmapping-and-generative-ai/"><u>Ideation Powerhouse: Mindmapping & Generative AI</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-mastering-ps4-captures-with-obs-studio-your-complete-guide/"><u>In 2024, Mastering PS4 Captures with OBS Studio - Your Complete Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/maximizing-memories-storing-digitalized-vintage-photographs/"><u>Maximizing Memories Storing Digitalized Vintage Photographs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/navigating-the-best-pixel-soundtracks-online-for-2024/"><u>Navigating the Best Pixel Soundtracks Online for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quintessential-crypto-exchanges-using-gpt/"><u>Quintessential Crypto Exchanges Using GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-chat-with-these-9-chatgptplus-advantages/"><u>Revolutionize Your Chat with These 9 ChatGPT+ Advantages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-openais-bug-bounty-program-and-how-can-you-participate/"><u>What Is OpenAI’s Bug Bounty Program, and How Can You Participate?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elite-drones-the-ten-to-watch-for-2024/"><u>[Updated] Elite Drones The Ten To Watch for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-masterclass-using-discord-spoilers-wisely/"><u>[Updated] Masterclass Using Discord Spoilers Wisely</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-financial-framework-of-youtube-snippet-creation/"><u>[Updated] The Financial Framework of YouTube Snippet Creation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-uncovering-youtubes-star-comment/"><u>[Updated] Uncovering YouTube's Star Comment</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-an-overview-of-youtube-short-content-basics/"><u>2024 Approved An Overview of YouTube Short Content Basics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rediscovering-archived-discussions-on-reddit-now/"><u>2024 Approved Rediscovering Archived Discussions on Reddit Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-ultimate-list-for-2ebest-standing-workstations-expert-insights/"><u>Discover the Ultimate List for 2Ebest Standing Workstations - Expert Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-the-originality-of-gpt-based-conversations/"><u>Examining the Originality of GPT-Based Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-superior-wallet-airtags-beyond-apple-and-tile-insider-report-from-zdnet/"><u>Exploring Superior Wallet AirTags Beyond Apple and Tile – Insider Report From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exposing-fraudgpt-schemes-stay-one-step-ahead/"><u>Exposing FraudGPT Schemes: Stay One Step Ahead</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-12plus-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme 12+ 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-exclusive-guide-to-the-best-chrome-extensions-for-fb-videos/"><u>In 2024, Exclusive Guide to the Best Chrome Extensions for FB Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-and-expectations-discover-whats-new-in-apple-at-wwdc-focus-on-enhanced-ai-upgrades-to-siri-and-the-release-of-ios-18/"><u>Insights and Expectations: Discover What's New in Apple at WWDC - Focus on Enhanced AI, Upgrades to Siri & the Release of iOS 18</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-up-to-greater-ai-efficiency-with-these-top-browser-plugins/"><u>Step Up to Greater AI Efficiency with These Top Browser Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-gpt-way-pioneering-mindful-living-with-technology/"><u>The GPT Way: Pioneering Mindful Living with Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-airtag-wallets-in-2e24-professional-evaluations-and-comparisons-zdnet/"><u>Ultimate Guide to the Finest AirTag Wallets in 2E24: Professional Evaluations & Comparisons | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-gmails-fastest-typing-tricks-discover-the-top-30-shortcuts/"><u>Ultimate List of Gmail's Fastest Typing Tricks: Discover the Top 30 Shortcuts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unearth-lesser-known-chatgpt-pros-for-more-engaging-dialogue/"><u>Unearth Lesser-Known ChatGPT Pros for More Engaging Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-resilience-how-apples-top-tier-iphone-case-stands-up-to-scrutiny-and-its-revolutionary-safety-aspect-zdnet-exclusive/"><u>Unveiling the Resilience: How Apple’s Top-Tier iPhone Case Stands Up to Scrutiny and Its Revolutionary Safety Aspect | ZDNET Exclusive</u></a></li>
 </ul></div>
 

@@ -1,0 +1,475 @@
+---
+title: Who Decides on Digital Direction?
+date: 2024-11-10T17:43:36.920Z
+updated: 2024-11-17T18:35:48.725Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Who Decides on Digital Direction?
+excerpt: This Article Describes Who Decides on Digital Direction?
+thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e86352ca57ab485a51d50b112ab.png
+---
+
+## Who Decides on Digital Direction?
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+### Key Takeaways
+
+* AI needs stricter monitoring, as cybersecurity vulnerabilities and privacy concerns continue to emerge.
+* The government, tech companies, and end users all have a role to play in regulating AI, but each approach has its limitations.
+* Media outlets, non-profit organizations, tech industry associations, academic institutions, and law enforcement agencies also contribute to the regulation of AI.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ The general public has differing views on AI—some believe machines will replace human workers altogether, while others claim AI is a fad. One thing everyone agrees on, however, is that AI needs stricter monitoring.
+
+ Despite the importance of AI regulation, it has taken a back seat to training. Developers are so obsessed with building the next biggest AI model that they’re trading cybersecurity for rapid advancement. The question isn’t if AI needs regulation; it’s which governing body with adequate funding, human resources, and technological capacity will take the initiative.
+
+ So, who should regulate AI?
+
+## Government Bodies
+
+![White Government Institution Building With High Stairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/government-institution-building.jpg)
+
+ Various people, from consumers to [tech leaders, hope the government will regulate AI](https://www.makeuseof.com/what-global-tech-leaders-think-about-ai/). Publicly funded institutions have the resources to do so. Even Elon Musk and Sam Altman, two main drivers of the AI race, believe that some [privacy concerns surrounding AI](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) are too dangerous for governing bodies to overlook.
+
+ The government should focus on protecting its constituents’ privacy and civil liberties if it takes over AI regulation. Cybercriminals keep finding ways to exploit AI systems in their schemes. Individuals not well-versed in AI might easily get fooled by synthesized voices, deepfake videos, and bot-operated online profiles.
+
+ However, one major issue with the government regulating AI is that it might inadvertently stifle innovation. AI is a complex, evolving technology. Unless the officials overseeing deployment, development, and training guidelines understand how AI works, they might make premature, inefficient judgments.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## AI Developers, Tech Companies, and Laboratories
+
+![Male and Female Researchers Training White Robot Arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/two-researchers-training-robot-arm.jpg)
+
+ Considering the potential roadblocks that might arise from the government monitoring AI, many would rather have tech companies spearhead regulation. They believe developers should be responsible for the tech they release. Self-regulation enables them to drive innovation and focus on advancing these systems efficiently.
+
+ Moreover, their in-depth understanding of AI will help them make fair, informed guidelines prioritizing user safety without compromising functionality. As with any technology, industry expertise streamlines monitoring. Assigning untrained officials to regulate technologies they barely understand might present more problems than benefits.
+
+ Take the 2018 U.S. Senate hearing about Facebook’s data privacy laws as an example. In this report by [The Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-hearing/), you’ll see that many lawmakers are confused with Facebook’s basic functions. So unless the U.S. Senate creates a sole department of tech specialists, they’re likely not qualified to regulate such an advanced, ever-changing system like AI.
+
+ However, the main issue with tech companies regulating themselves is that shady corporations might abuse their power. With no intervening third party, they’re basically free to do whatever they want.
+
+## End Users
+
+![Using Mobile ChatGPT App and Placing it in Hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mobile-chatgpt-app.jpg)
+
+ Some fear that government and private entities will abuse AI systems. They’re unsure about granting a handful of governing bodies total control over such powerful technologies, especially since AI is still evolving. They might eventually fight over authority rather than work toward efficient regulation.
+
+ To mitigate these risks, skeptics believe that end users deserve free rein to use AI models how they want. They say government bodies should only interfere when AI users break the law. It’s an ambitious goal, but it could technically be achieved if open-source AI developers dominated market shares.
+
+ That said, this setup puts non-tech-savvy individuals at a disadvantage. Users are responsible for setting the restrictions within their systems—unfortunately, not everyone has the resources to do so.
+
+ It’s also short-sighted to remove proprietary models from the market. The proliferation of [open-source AI models has several positive and negative impacts](https://www.makeuseof.com/positive-negative-impacts-open-source-ai-language-models/); for some, the cons outweigh the pros.
+
+## Other Entities That Play a Role in the Regulation of AI
+
+ Although major entities will spearhead the regulation of AI, there are bodies that play significant roles:
+
+### 1\. Media Outlets
+
+![Media News Reporter Interviewing Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/media-news-reporter.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Media outlets play a critical role in shaping the public’s perception of AI. They report industry developments, share new tools, bring awareness to the harmful uses of AI, and interview experts about relevant concerns.
+
+ Most of the facts end users know about AI basically come from media outlets. Publishing false data, whether on purpose or not, will cause irreversible damage—you can’t underestimate how fast misinformation spreads.
+
+### 2\. Non-Governmental Organizations
+
+ Several non-profit organizations are centered around protecting AI users’ privacy and civil liberties. They educate the public through free resources, advocate for new policies, cooperate with government officials, and voice out overlooked concerns.
+
+ The only issue with NPOs is they’re usually short on resources. Since they aren’t connected to the government, they rely on private solicitations and donations for day-to-day operations. Sadly, only a few organizations get adequate funding.
+
+### 3\. Tech Industry Associations
+
+ AI-focused tech industry associations can represent the public’s rights and interests. Like NPOs, they work with lawmakers, represent concerned individuals, advocate for fair policies, and bring awareness to specific issues.
+
+ The difference, however, is that they often have ties to private companies. Their members still do solicitations, but they’ll usually get enough funding from their parent organizations as long as they deliver results.
+
+### 4\. Academic Institutions
+
+![School University Large Classroom With Brown Tables and Chairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/school-university-large-classroom.jpg)
+
+ Although AI comes with several risks, it is inherently neutral. All biases, privacy issues, security errors, and potential cybercrime activities stem from humans, so AI by itself isn’t something to fear.
+
+ But very few already understand how modern AI models work. Misconceptions skew people’s perception of AI, perpetuating baseless fears like AI taking over humanity or stealing jobs.
+
+ Academic institutions could fill these educational gaps through accessible resources. There aren’t too many scholarly works on modern LLMs and NLP systems yet. The public can use AI more responsibly and combat cybercrimes if they wholly understand how it works.
+
+### 5\. Law Enforcement Agencies
+
+ Law enforcement agencies should expect to encounter more [AI-enabled cyberattacks](https://www.makeuseof.com/ways-ai-can-help-cybercriminals/). With the proliferation of generative models, crooks can quickly synthesize voices, generate deepfake images, scrape [personally identifiable information](https://www.makeuseof.com/what-is-personally-identifiable-information/) (PII), and even create entirely new personas.
+
+ Most agencies aren’t equipped to handle these crimes. They should invest in new systems and train their officers on modern cybercrimes; otherwise, they’ll have trouble catching these crooks.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## The Future of AI Regulation
+
+ Considering AI’s fast-paced nature, it’s unlikely for a single governing body to control it. Yes, tech leaders will hold more power than consumers, but various entities must cooperate to manage AI risks without impeding advancements. It’s best to set control measures now while artificial general intelligence (AGI) is still a distant goal.
+
+ That said, AI regulation is just as distant as AGI. In the meantime, users must observe safety practices to combat AI-driven threats. Good habits like limiting the people you connect with online and securing your digital PII already go a long way.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ The general public has differing views on AI—some believe machines will replace human workers altogether, while others claim AI is a fad. One thing everyone agrees on, however, is that AI needs stricter monitoring.
+
+ Despite the importance of AI regulation, it has taken a back seat to training. Developers are so obsessed with building the next biggest AI model that they’re trading cybersecurity for rapid advancement. The question isn’t if AI needs regulation; it’s which governing body with adequate funding, human resources, and technological capacity will take the initiative.
+
+ So, who should regulate AI?
+
+## Government Bodies
+
+![White Government Institution Building With High Stairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/government-institution-building.jpg)
+
+ Various people, from consumers to [tech leaders, hope the government will regulate AI](https://www.makeuseof.com/what-global-tech-leaders-think-about-ai/). Publicly funded institutions have the resources to do so. Even Elon Musk and Sam Altman, two main drivers of the AI race, believe that some [privacy concerns surrounding AI](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) are too dangerous for governing bodies to overlook.
+
+ The government should focus on protecting its constituents’ privacy and civil liberties if it takes over AI regulation. Cybercriminals keep finding ways to exploit AI systems in their schemes. Individuals not well-versed in AI might easily get fooled by synthesized voices, deepfake videos, and bot-operated online profiles.
+
+ However, one major issue with the government regulating AI is that it might inadvertently stifle innovation. AI is a complex, evolving technology. Unless the officials overseeing deployment, development, and training guidelines understand how AI works, they might make premature, inefficient judgments.
+
+## AI Developers, Tech Companies, and Laboratories
+
+![Male and Female Researchers Training White Robot Arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/two-researchers-training-robot-arm.jpg)
+
+ Considering the potential roadblocks that might arise from the government monitoring AI, many would rather have tech companies spearhead regulation. They believe developers should be responsible for the tech they release. Self-regulation enables them to drive innovation and focus on advancing these systems efficiently.
+
+ Moreover, their in-depth understanding of AI will help them make fair, informed guidelines prioritizing user safety without compromising functionality. As with any technology, industry expertise streamlines monitoring. Assigning untrained officials to regulate technologies they barely understand might present more problems than benefits.
+
+ Take the 2018 U.S. Senate hearing about Facebook’s data privacy laws as an example. In this report by [The Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-hearing/), you’ll see that many lawmakers are confused with Facebook’s basic functions. So unless the U.S. Senate creates a sole department of tech specialists, they’re likely not qualified to regulate such an advanced, ever-changing system like AI.
+
+ However, the main issue with tech companies regulating themselves is that shady corporations might abuse their power. With no intervening third party, they’re basically free to do whatever they want.
+
+## End Users
+
+![Using Mobile ChatGPT App and Placing it in Hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mobile-chatgpt-app.jpg)
+
+ Some fear that government and private entities will abuse AI systems. They’re unsure about granting a handful of governing bodies total control over such powerful technologies, especially since AI is still evolving. They might eventually fight over authority rather than work toward efficient regulation.
+
+ To mitigate these risks, skeptics believe that end users deserve free rein to use AI models how they want. They say government bodies should only interfere when AI users break the law. It’s an ambitious goal, but it could technically be achieved if open-source AI developers dominated market shares.
+
+ That said, this setup puts non-tech-savvy individuals at a disadvantage. Users are responsible for setting the restrictions within their systems—unfortunately, not everyone has the resources to do so.
+
+ It’s also short-sighted to remove proprietary models from the market. The proliferation of [open-source AI models has several positive and negative impacts](https://www.makeuseof.com/positive-negative-impacts-open-source-ai-language-models/); for some, the cons outweigh the pros.
+
+## Other Entities That Play a Role in the Regulation of AI
+
+ Although major entities will spearhead the regulation of AI, there are bodies that play significant roles:
+
+### 1\. Media Outlets
+
+![Media News Reporter Interviewing Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/media-news-reporter.jpg)
+
+ Media outlets play a critical role in shaping the public’s perception of AI. They report industry developments, share new tools, bring awareness to the harmful uses of AI, and interview experts about relevant concerns.
+
+ Most of the facts end users know about AI basically come from media outlets. Publishing false data, whether on purpose or not, will cause irreversible damage—you can’t underestimate how fast misinformation spreads.
+
+### 2\. Non-Governmental Organizations
+
+ Several non-profit organizations are centered around protecting AI users’ privacy and civil liberties. They educate the public through free resources, advocate for new policies, cooperate with government officials, and voice out overlooked concerns.
+
+ The only issue with NPOs is they’re usually short on resources. Since they aren’t connected to the government, they rely on private solicitations and donations for day-to-day operations. Sadly, only a few organizations get adequate funding.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 3\. Tech Industry Associations
+
+ AI-focused tech industry associations can represent the public’s rights and interests. Like NPOs, they work with lawmakers, represent concerned individuals, advocate for fair policies, and bring awareness to specific issues.
+
+ The difference, however, is that they often have ties to private companies. Their members still do solicitations, but they’ll usually get enough funding from their parent organizations as long as they deliver results.
+
+### 4\. Academic Institutions
+
+![School University Large Classroom With Brown Tables and Chairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/school-university-large-classroom.jpg)
+
+ Although AI comes with several risks, it is inherently neutral. All biases, privacy issues, security errors, and potential cybercrime activities stem from humans, so AI by itself isn’t something to fear.
+
+ But very few already understand how modern AI models work. Misconceptions skew people’s perception of AI, perpetuating baseless fears like AI taking over humanity or stealing jobs.
+
+ Academic institutions could fill these educational gaps through accessible resources. There aren’t too many scholarly works on modern LLMs and NLP systems yet. The public can use AI more responsibly and combat cybercrimes if they wholly understand how it works.
+
+### 5\. Law Enforcement Agencies
+
+ Law enforcement agencies should expect to encounter more [AI-enabled cyberattacks](https://www.makeuseof.com/ways-ai-can-help-cybercriminals/). With the proliferation of generative models, crooks can quickly synthesize voices, generate deepfake images, scrape [personally identifiable information](https://www.makeuseof.com/what-is-personally-identifiable-information/) (PII), and even create entirely new personas.
+
+ Most agencies aren’t equipped to handle these crimes. They should invest in new systems and train their officers on modern cybercrimes; otherwise, they’ll have trouble catching these crooks.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## The Future of AI Regulation
+
+ Considering AI’s fast-paced nature, it’s unlikely for a single governing body to control it. Yes, tech leaders will hold more power than consumers, but various entities must cooperate to manage AI risks without impeding advancements. It’s best to set control measures now while artificial general intelligence (AGI) is still a distant goal.
+
+ That said, AI regulation is just as distant as AGI. In the meantime, users must observe safety practices to combat AI-driven threats. Good habits like limiting the people you connect with online and securing your digital PII already go a long way.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ The general public has differing views on AI—some believe machines will replace human workers altogether, while others claim AI is a fad. One thing everyone agrees on, however, is that AI needs stricter monitoring.
+
+ Despite the importance of AI regulation, it has taken a back seat to training. Developers are so obsessed with building the next biggest AI model that they’re trading cybersecurity for rapid advancement. The question isn’t if AI needs regulation; it’s which governing body with adequate funding, human resources, and technological capacity will take the initiative.
+
+ So, who should regulate AI?
+
+## Government Bodies
+
+![White Government Institution Building With High Stairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/government-institution-building.jpg)
+
+ Various people, from consumers to [tech leaders, hope the government will regulate AI](https://www.makeuseof.com/what-global-tech-leaders-think-about-ai/). Publicly funded institutions have the resources to do so. Even Elon Musk and Sam Altman, two main drivers of the AI race, believe that some [privacy concerns surrounding AI](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) are too dangerous for governing bodies to overlook.
+
+ The government should focus on protecting its constituents’ privacy and civil liberties if it takes over AI regulation. Cybercriminals keep finding ways to exploit AI systems in their schemes. Individuals not well-versed in AI might easily get fooled by synthesized voices, deepfake videos, and bot-operated online profiles.
+
+ However, one major issue with the government regulating AI is that it might inadvertently stifle innovation. AI is a complex, evolving technology. Unless the officials overseeing deployment, development, and training guidelines understand how AI works, they might make premature, inefficient judgments.
+
+## AI Developers, Tech Companies, and Laboratories
+
+![Male and Female Researchers Training White Robot Arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/two-researchers-training-robot-arm.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Considering the potential roadblocks that might arise from the government monitoring AI, many would rather have tech companies spearhead regulation. They believe developers should be responsible for the tech they release. Self-regulation enables them to drive innovation and focus on advancing these systems efficiently.
+
+ Moreover, their in-depth understanding of AI will help them make fair, informed guidelines prioritizing user safety without compromising functionality. As with any technology, industry expertise streamlines monitoring. Assigning untrained officials to regulate technologies they barely understand might present more problems than benefits.
+
+ Take the 2018 U.S. Senate hearing about Facebook’s data privacy laws as an example. In this report by [The Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-hearing/), you’ll see that many lawmakers are confused with Facebook’s basic functions. So unless the U.S. Senate creates a sole department of tech specialists, they’re likely not qualified to regulate such an advanced, ever-changing system like AI.
+
+ However, the main issue with tech companies regulating themselves is that shady corporations might abuse their power. With no intervening third party, they’re basically free to do whatever they want.
+
+## End Users
+
+![Using Mobile ChatGPT App and Placing it in Hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mobile-chatgpt-app.jpg)
+
+ Some fear that government and private entities will abuse AI systems. They’re unsure about granting a handful of governing bodies total control over such powerful technologies, especially since AI is still evolving. They might eventually fight over authority rather than work toward efficient regulation.
+
+ To mitigate these risks, skeptics believe that end users deserve free rein to use AI models how they want. They say government bodies should only interfere when AI users break the law. It’s an ambitious goal, but it could technically be achieved if open-source AI developers dominated market shares.
+
+ That said, this setup puts non-tech-savvy individuals at a disadvantage. Users are responsible for setting the restrictions within their systems—unfortunately, not everyone has the resources to do so.
+
+ It’s also short-sighted to remove proprietary models from the market. The proliferation of [open-source AI models has several positive and negative impacts](https://www.makeuseof.com/positive-negative-impacts-open-source-ai-language-models/); for some, the cons outweigh the pros.
+
+## Other Entities That Play a Role in the Regulation of AI
+
+ Although major entities will spearhead the regulation of AI, there are bodies that play significant roles:
+
+### 1\. Media Outlets
+
+![Media News Reporter Interviewing Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/media-news-reporter.jpg)
+
+ Media outlets play a critical role in shaping the public’s perception of AI. They report industry developments, share new tools, bring awareness to the harmful uses of AI, and interview experts about relevant concerns.
+
+ Most of the facts end users know about AI basically come from media outlets. Publishing false data, whether on purpose or not, will cause irreversible damage—you can’t underestimate how fast misinformation spreads.
+
+### 2\. Non-Governmental Organizations
+
+ Several non-profit organizations are centered around protecting AI users’ privacy and civil liberties. They educate the public through free resources, advocate for new policies, cooperate with government officials, and voice out overlooked concerns.
+
+ The only issue with NPOs is they’re usually short on resources. Since they aren’t connected to the government, they rely on private solicitations and donations for day-to-day operations. Sadly, only a few organizations get adequate funding.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 3\. Tech Industry Associations
+
+ AI-focused tech industry associations can represent the public’s rights and interests. Like NPOs, they work with lawmakers, represent concerned individuals, advocate for fair policies, and bring awareness to specific issues.
+
+ The difference, however, is that they often have ties to private companies. Their members still do solicitations, but they’ll usually get enough funding from their parent organizations as long as they deliver results.
+
+### 4\. Academic Institutions
+
+![School University Large Classroom With Brown Tables and Chairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/school-university-large-classroom.jpg)
+
+ Although AI comes with several risks, it is inherently neutral. All biases, privacy issues, security errors, and potential cybercrime activities stem from humans, so AI by itself isn’t something to fear.
+
+ But very few already understand how modern AI models work. Misconceptions skew people’s perception of AI, perpetuating baseless fears like AI taking over humanity or stealing jobs.
+
+ Academic institutions could fill these educational gaps through accessible resources. There aren’t too many scholarly works on modern LLMs and NLP systems yet. The public can use AI more responsibly and combat cybercrimes if they wholly understand how it works.
+
+### 5\. Law Enforcement Agencies
+
+ Law enforcement agencies should expect to encounter more [AI-enabled cyberattacks](https://www.makeuseof.com/ways-ai-can-help-cybercriminals/). With the proliferation of generative models, crooks can quickly synthesize voices, generate deepfake images, scrape [personally identifiable information](https://www.makeuseof.com/what-is-personally-identifiable-information/) (PII), and even create entirely new personas.
+
+ Most agencies aren’t equipped to handle these crimes. They should invest in new systems and train their officers on modern cybercrimes; otherwise, they’ll have trouble catching these crooks.
+
+## The Future of AI Regulation
+
+ Considering AI’s fast-paced nature, it’s unlikely for a single governing body to control it. Yes, tech leaders will hold more power than consumers, but various entities must cooperate to manage AI risks without impeding advancements. It’s best to set control measures now while artificial general intelligence (AGI) is still a distant goal.
+
+ That said, AI regulation is just as distant as AGI. In the meantime, users must observe safety practices to combat AI-driven threats. Good habits like limiting the people you connect with online and securing your digital PII already go a long way.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ The general public has differing views on AI—some believe machines will replace human workers altogether, while others claim AI is a fad. One thing everyone agrees on, however, is that AI needs stricter monitoring.
+
+ Despite the importance of AI regulation, it has taken a back seat to training. Developers are so obsessed with building the next biggest AI model that they’re trading cybersecurity for rapid advancement. The question isn’t if AI needs regulation; it’s which governing body with adequate funding, human resources, and technological capacity will take the initiative.
+
+ So, who should regulate AI?
+
+## Government Bodies
+
+![White Government Institution Building With High Stairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/government-institution-building.jpg)
+
+ Various people, from consumers to [tech leaders, hope the government will regulate AI](https://www.makeuseof.com/what-global-tech-leaders-think-about-ai/). Publicly funded institutions have the resources to do so. Even Elon Musk and Sam Altman, two main drivers of the AI race, believe that some [privacy concerns surrounding AI](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) are too dangerous for governing bodies to overlook.
+
+ The government should focus on protecting its constituents’ privacy and civil liberties if it takes over AI regulation. Cybercriminals keep finding ways to exploit AI systems in their schemes. Individuals not well-versed in AI might easily get fooled by synthesized voices, deepfake videos, and bot-operated online profiles.
+
+ However, one major issue with the government regulating AI is that it might inadvertently stifle innovation. AI is a complex, evolving technology. Unless the officials overseeing deployment, development, and training guidelines understand how AI works, they might make premature, inefficient judgments.
+
+## AI Developers, Tech Companies, and Laboratories
+
+![Male and Female Researchers Training White Robot Arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/two-researchers-training-robot-arm.jpg)
+
+ Considering the potential roadblocks that might arise from the government monitoring AI, many would rather have tech companies spearhead regulation. They believe developers should be responsible for the tech they release. Self-regulation enables them to drive innovation and focus on advancing these systems efficiently.
+
+ Moreover, their in-depth understanding of AI will help them make fair, informed guidelines prioritizing user safety without compromising functionality. As with any technology, industry expertise streamlines monitoring. Assigning untrained officials to regulate technologies they barely understand might present more problems than benefits.
+
+ Take the 2018 U.S. Senate hearing about Facebook’s data privacy laws as an example. In this report by [The Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-hearing/), you’ll see that many lawmakers are confused with Facebook’s basic functions. So unless the U.S. Senate creates a sole department of tech specialists, they’re likely not qualified to regulate such an advanced, ever-changing system like AI.
+
+ However, the main issue with tech companies regulating themselves is that shady corporations might abuse their power. With no intervening third party, they’re basically free to do whatever they want.
+
+## End Users
+
+![Using Mobile ChatGPT App and Placing it in Hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mobile-chatgpt-app.jpg)
+
+ Some fear that government and private entities will abuse AI systems. They’re unsure about granting a handful of governing bodies total control over such powerful technologies, especially since AI is still evolving. They might eventually fight over authority rather than work toward efficient regulation.
+
+ To mitigate these risks, skeptics believe that end users deserve free rein to use AI models how they want. They say government bodies should only interfere when AI users break the law. It’s an ambitious goal, but it could technically be achieved if open-source AI developers dominated market shares.
+
+ That said, this setup puts non-tech-savvy individuals at a disadvantage. Users are responsible for setting the restrictions within their systems—unfortunately, not everyone has the resources to do so.
+
+ It’s also short-sighted to remove proprietary models from the market. The proliferation of [open-source AI models has several positive and negative impacts](https://www.makeuseof.com/positive-negative-impacts-open-source-ai-language-models/); for some, the cons outweigh the pros.
+
+## Other Entities That Play a Role in the Regulation of AI
+
+ Although major entities will spearhead the regulation of AI, there are bodies that play significant roles:
+
+### 1\. Media Outlets
+
+![Media News Reporter Interviewing Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/media-news-reporter.jpg)
+
+ Media outlets play a critical role in shaping the public’s perception of AI. They report industry developments, share new tools, bring awareness to the harmful uses of AI, and interview experts about relevant concerns.
+
+ Most of the facts end users know about AI basically come from media outlets. Publishing false data, whether on purpose or not, will cause irreversible damage—you can’t underestimate how fast misinformation spreads.
+
+### 2\. Non-Governmental Organizations
+
+ Several non-profit organizations are centered around protecting AI users’ privacy and civil liberties. They educate the public through free resources, advocate for new policies, cooperate with government officials, and voice out overlooked concerns.
+
+ The only issue with NPOs is they’re usually short on resources. Since they aren’t connected to the government, they rely on private solicitations and donations for day-to-day operations. Sadly, only a few organizations get adequate funding.
+
+### 3\. Tech Industry Associations
+
+ AI-focused tech industry associations can represent the public’s rights and interests. Like NPOs, they work with lawmakers, represent concerned individuals, advocate for fair policies, and bring awareness to specific issues.
+
+ The difference, however, is that they often have ties to private companies. Their members still do solicitations, but they’ll usually get enough funding from their parent organizations as long as they deliver results.
+
+### 4\. Academic Institutions
+
+![School University Large Classroom With Brown Tables and Chairs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/school-university-large-classroom.jpg)
+
+ Although AI comes with several risks, it is inherently neutral. All biases, privacy issues, security errors, and potential cybercrime activities stem from humans, so AI by itself isn’t something to fear.
+
+ But very few already understand how modern AI models work. Misconceptions skew people’s perception of AI, perpetuating baseless fears like AI taking over humanity or stealing jobs.
+
+ Academic institutions could fill these educational gaps through accessible resources. There aren’t too many scholarly works on modern LLMs and NLP systems yet. The public can use AI more responsibly and combat cybercrimes if they wholly understand how it works.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 5\. Law Enforcement Agencies
+
+ Law enforcement agencies should expect to encounter more [AI-enabled cyberattacks](https://www.makeuseof.com/ways-ai-can-help-cybercriminals/). With the proliferation of generative models, crooks can quickly synthesize voices, generate deepfake images, scrape [personally identifiable information](https://www.makeuseof.com/what-is-personally-identifiable-information/) (PII), and even create entirely new personas.
+
+ Most agencies aren’t equipped to handle these crimes. They should invest in new systems and train their officers on modern cybercrimes; otherwise, they’ll have trouble catching these crooks.
+
+## The Future of AI Regulation
+
+ Considering AI’s fast-paced nature, it’s unlikely for a single governing body to control it. Yes, tech leaders will hold more power than consumers, but various entities must cooperate to manage AI risks without impeding advancements. It’s best to set control measures now while artificial general intelligence (AGI) is still a distant goal.
+
+ That said, AI regulation is just as distant as AGI. In the meantime, users must observe safety practices to combat AI-driven threats. Good habits like limiting the people you connect with online and securing your digital PII already go a long way.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-from-novice-to-pro-elevating-your-ps4-gameplay-screenshot-skills/"><u>[New] 2024 Approved From Novice to Pro Elevating Your PS4 Gameplay Screenshot Skills</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-macs-new-edge-converting-youtube-tracks-to-mp3/"><u>[New] 2024 Approved Mac's New Edge Converting YouTube Tracks to MP3</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-collabs-that-attract-and-retain-viewers/"><u>[Updated] 2024 Approved Crafting Collabs that Attract and Retain Viewers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-masterful-traffic-puller-genius/"><u>[Updated] 2024 Approved Masterful Traffic Puller Genius</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-covert-creation-of-personal-snaps-on-snapchat/"><u>[Updated] In 2024, The Covert Creation of Personal Snaps on Snapchat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/communication-breakthrough-ai-engaging-in-real-time-dialogue/"><u>Communication Breakthrough: AI Engaging in Real-Time Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-of-publicly-available-information-sources-traditional-and-contemporary-models/"><u>Comparative Analysis of Publicly Available Information Sources: Traditional and Contemporary Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-peak-of-intelligence-between-gemini-elite-and-gptplusplus/"><u>Exploring the Peak of Intelligence: Between Gemini Elite & GPT++</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-potential-of-bing-ai-chat-within-android-keyboard-configurations/"><u>Harnessing the Potential of Bing AI Chat Within Android Keyboard Configurations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-v27-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo V27 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/invest-in-quality-top-5-handhoced-stabilizers-review/"><u>Invest in Quality Top 5 Handhoced Stabilizers Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-interaction-the-impactful-cutting-edge-features-of-gpt/"><u>Next Gen Interaction: The Impactful, Cutting-Edge Features of GPT</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/professional-stability-systems-for-youtube-filmmakers/"><u>Professional Stability Systems for YouTube Filmmakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-writing-process-with-these-ai-tools/"><u>Transform Your Writing Process with These AI Tools</u></a></li>
+</ul></div>
+

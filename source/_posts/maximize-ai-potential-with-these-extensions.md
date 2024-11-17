@@ -1,7 +1,7 @@
 ---
 title: Maximize AI Potential with These Extensions
-date: 2024-11-02T17:38:47.102Z
-updated: 2024-11-07T06:09:29.739Z
+date: 2024-11-14T17:23:31.231Z
+updated: 2024-11-17T18:12:43.987Z
 tags:
   - chatgpt
   - open-ai
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 **Download:** ChatGPT Prompt Genius for [Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -76,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the **Reply** box, and you're ready to send it.
@@ -89,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 **Download:** ChatGPT Writer for [Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
@@ -104,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
@@ -121,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 **Download:** Talk-to-ChatGPT for [Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the [best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -139,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -173,16 +173,21 @@ thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-step-by-step-instructions-for-activating-high-dynamic-range-in-windows-11/"><u>[New] 2024 Approved Step-by-Step Instructions for Activating High Dynamic Range in Windows 11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-zero-cost-creativity-inject-movement-to-video-text-for-2024/"><u>[New] Zero-Cost Creativity Inject Movement to Video Text for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-revolutionizing-photo-quality-with-auto-and-smart-hdr-features/"><u>[Updated] 2024 Approved Revolutionizing Photo Quality with Auto and Smart HDR Features</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-identify-10-shadowy-instagram-story-observers/"><u>[Updated] In 2024, Identify 10 Shadowy Instagram Story Observers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boldly-entering-the-fray-googles-bard-outpaces-gpt/"><u>Boldly Entering the Fray, Google's 'Bard' Outpaces GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-legends-integrating-machine-learning-for-dandd-characters/"><u>Crafting Legends: Integrating Machine Learning for D&D Characters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-dialogue-to-device-how-chatgpt-enhances-timepiece-tech/"><u>From Dialogue to Device: How ChatGPT Enhances Timepiece Tech</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-archive-hunt-accessing-yesteryears-facebook-stories/"><u>In 2024, Archive Hunt Accessing Yesteryear's Facebook Stories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-global-chatgpt-anywhere-connectivity/"><u>Navigating Global ChatGPT: Anywhere Connectivity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-the-new-age-of-artistic-expression-via-copilot-imagery-suite/"><u>Pioneering the New Age of Artistic Expression via Copilot Imagery Suite</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/top-12-youtube-game-openers-both-free-and-fee-based-options-for-2024/"><u>Top 12 YouTube Game Openers Both Free & Fee-Based Options for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rebound-crafters-tools/"><u>[New] Rebound Crafters' Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-online-methods-to-perfect-vhs-picture-editing/"><u>[Updated] Mastering Online Methods to Perfect VHS Picture Editing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-the-art-of-media-imports-within-windows-10s-realm-for-2024/"><u>[Updated] Mastering the Art of Media Imports Within Windows 10'S Realm for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-digital-earnings-a-side-by-side-comparison/"><u>[Updated] Navigating Digital Earnings A Side-by-Side Comparison</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/clona-un-hard-drive-solid-state-con-bloqueo-seguro-en-windows/"><u>Clona Un Hard Drive Solid State Con Bloqueo Seguro en Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-y100i-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo Y100i</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-perfect-strategy-to-insert-subtitles-into-mp4-clips/"><u>In 2024, The Perfect Strategy to Insert Subtitles Into MP4 Clips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/key-takeaways-from-reviewing-zdsofts-vision-recorder-for-2024/"><u>Key Takeaways From Reviewing ZDSoft's Vision Recorder for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-your-voice-memos-on-windows-10-a-comprehensive-guide-to-usage-and-troubleshooting/"><u>Mastering Your Voice Memos on Windows 10: A Comprehensive Guide to Usage and Troubleshooting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/newly-updated-windows-11-drivers-for-amd-radeon-hd-ebyss-optimizing-performance-and-stability/"><u>Newly Updated Windows 11 Drivers for AMD Radeon HD Ebyss - Optimizing Performance & Stability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-godfall-visuals-overcoming-frame-rate-drops-and-enhancing-performance/"><u>Optimize Your Godfall Visuals: Overcoming Frame Rate Drops and Enhancing Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/permanent-erase-in-action-adding-and-setting-up-windows-11-desktop-trash/"><u>Permanent Erase in Action: Adding & Setting up Windows 11 Desktop Trash</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-driver-updates-for-windows-operating-systems-7810/"><u>Quick Guide: Driver Updates for Windows Operating Systems (7/8/10)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/remove-your-printing-device-a-comprehensive-tutorial-for-windows-users/"><u>Remove Your Printing Device: A Comprehensive Tutorial for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-windows-11-or-11s-lagging-initial-launch-issues/"><u>Resolving Windows 11 or 11S Lagging Initial Launch Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/restore-team-communication-expert-tips-to-fix-inoperative-cameras-during-microsoft-teams-meetings-on-different-versions-of-windows-os/"><u>Restore Team Communication: Expert Tips to Fix Inoperative Cameras During Microsoft Teams Meetings on Different Versions of Windows OS</u></a></li>
 </ul></div>
 

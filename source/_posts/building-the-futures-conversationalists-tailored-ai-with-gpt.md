@@ -1,7 +1,7 @@
 ---
 title: "Building the Future's Conversationalists: Tailored AI with GPT"
-date: 2024-11-01T17:08:33.784Z
-updated: 2024-11-07T11:33:21.167Z
+date: 2024-11-12T19:25:59.792Z
+updated: 2024-11-17T18:36:35.585Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/ef126118f50b6cc91b0e402fe75cfce958a6a6e6b
 
  At the time of writing, "Create a GPT" is still in beta. This means not all features are fully online, and the product isn't finished. Bear this in mind while building your GPT and prepare to encounter issues. Also, it's possible that your finished GPT may be erased when a future update comes knocking.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Give Your GPT a Primary Description and a Picture
 
  For the sake of this piece, we'll be demonstrating how to build a Dungeons and Dragons 5th Edition dungeon master.
@@ -47,23 +54,16 @@ thumbnail: https://thmb.techidaily.com/ef126118f50b6cc91b0e402fe75cfce958a6a6e6b
 2. Next, give your GPT a name. ChatGPT will suggest one for you, but you can still type in anything you want.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Once you give your GPT a name, it'll automatically create a profile picture as the next step. Thanks to ChatGPT's DALL-E integration, the images are typically pretty good. Ask it to regenerate more images if you're not happy with it. You can prompt it to create the exact image you want with some guidance.  
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
 
  You can manually change the image, name, description, and instructions for your GPT by clicking **Configure**. Click the profile picture to change it, and edit the details in the **Name** **Description** and **Instructions** fields to change them without typing prompts.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Establish a Tone and Rules for Your GPT
 
@@ -86,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/ef126118f50b6cc91b0e402fe75cfce958a6a6e6b
  If you find that it's not fulfilling your instructions as well as you want, go back to the **Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Upload Files as a Knowledge Base
@@ -106,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/ef126118f50b6cc91b0e402fe75cfce958a6a6e6b
  Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
 
  If, for instance, you were trying to make a GPT that is an expert in Florida tax laws, you would get all the Florida tax legal documents you can find and upload them here to form a knowledge base your GPT can work with.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add or Remove Capabilities
 
@@ -138,10 +145,10 @@ thumbnail: https://thmb.techidaily.com/ef126118f50b6cc91b0e402fe75cfce958a6a6e6b
  Currently, you seem to be able to add only one action at a time. If you click the **Examples** dropdown menu, you'll see a few examples of schemas OpenAI has added to aid in creating your own schema.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Configure Conversation Starters
@@ -153,26 +160,13 @@ thumbnail: https://thmb.techidaily.com/ef126118f50b6cc91b0e402fe75cfce958a6a6e6b
 3. Click the **X** next to a conversation starter block to remove it.  
 ![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can add more conversation starters as required.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Save and Publish Your GPT
@@ -210,21 +204,20 @@ thumbnail: https://thmb.techidaily.com/ef126118f50b6cc91b0e402fe75cfce958a6a6e6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-lighten-the-digital-landscape-kapwings-meme-builder/"><u>[New] In 2024, Lighten the Digital Landscape Kapwing's Meme Builder</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-automatic-youtube-playback-on-social-media-hubs-for-2024/"><u>[Updated] Mastering Automatic YouTube Playback on Social Media Hubs for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-drivers-for-msi-b350-tomahawk-compatible-with-windows-10-and-7/"><u>Download Drivers for MSI B350 Tomahawk - Compatible with Windows 10 and 7</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpts-application-safe-or-unsafe-in-cybersecurity/"><u>GPT's Application: Safe or Unsafe? In Cybersecurity</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-guffaws-in-grooves-parody-playlist/"><u>In 2024, Guffaws in Grooves Parody Playlist</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-historys-high-fliers-the-most-upvoted-threads-on-reddit/"><u>In 2024, History’s High-Fliers The Most Upvoted Threads on Reddit</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-oppo-find-n3-flip-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Oppo Find N3 Flip Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://video-capture.techidaily.com/overcoming-fullscreen-malfunctions-in-obs-for-2024/"><u>Overcoming Fullscreen Malfunctions in OBS for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/revolutionizing-business-intelligence-direct-access-to-corporate-chief-engineers-via-ai-chains-zdnet/"><u>Revolutionizing Business Intelligence: Direct Access to Corporate Chief Engineers via AI Chains | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-removing-the-windowsold-folder-on-windows-11-solved/"><u>Step-by-Step Guide: Removing the 'Windows.old' Folder on Windows 11 - Solved</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-troubleshooting-and-fixing-issues-in-windows-11-and-10/"><u>Step-by-Step Guide: Troubleshooting and Fixing Issues in Windows 11 & 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-common-issues-when-linking-up-with-logitech-keyboards/"><u>Troubleshooting Common Issues When Linking Up with Logitech Keyboards</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-why-windows-update-can-be-a-slow-experience/"><u>Understanding Why Windows Update Can Be a Slow Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-custom-drivers-on-your-pc-by-deactivating-windows-11s-driver-enforcement/"><u>Unlock Custom Drivers on Your PC by Deactivating Windows 11'S Driver Enforcement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-new-features-in-windows-10-creators-update-insider-beta-version-1503/"><u>Unveiling the New Features in Windows 10 Creators Update: Insider Beta Version 1503</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-10-troubleshooting-steps-to-unfreeze-a-stuck-computer/"><u>Windows 10 Troubleshooting: Steps to Unfreeze a Stuck Computer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-capturing-elegance-ideal-websites-for-photo-framing-for-2024/"><u>[New] Capturing Elegance Ideal Websites for Photo Framing for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-budget-friendly-video-recorder-sets-top-11-picks-for-2024/"><u>[Updated] Budget-Friendly Video Recorder Sets Top 11 Picks for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-live-and-record-flawlessly-find-the-best-conference-tech-today/"><u>[Updated] Live and Record Flawlessly - Find the Best Conference Tech Today</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-streamlined-steps-to-delete-youtube-discussions-fast/"><u>[Updated] Streamlined Steps to Delete YouTube Discussions Fast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-suspends-online-sales-of-new-apple-watch-series-9-and-ultra-service-for-previous-models-impacted-technology-news/"><u>Apple Suspends Online Sales of New Apple Watch Series 9 & Ultra; Service for Previous Models Impacted | Technology News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-mythos-and-tech-enhancing-dungeons-and-dragons-characters-with-gpt-and-dall-e/"><u>Bridging Mythos and Tech: Enhancing Dungeons & Dragons Characters with GPT & DALL-E</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apples-macbook-owners-are-benefiting-from-recent-class-action-settlement-details-unveiled-by-zdnet/"><u>How Apple's MacBook Owners Are Benefiting From Recent Class-Action Settlement: Details Unveiled by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafty-laughter-your-adobe-guide/"><u>In 2024, Crafty Laughter Your Adobe Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-premier-iphone-gif-application-compendium/"><u>In 2024, The Premier iPhone GIF Application Compendium</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-google-pixel-fold-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Google Pixel Fold Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-15-pro-max-available-at-just-001-on-amazon-the-ultimate-guide-to-snagging-this-steal/"><u>IPhone 15 Pro Max Available at Just $0.01 on Amazon – The Ultimate Guide to Snagging This Steal!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-level-sound-without-the-high-cost-explore-why-beats-new-solo-earbuds-are-your-sub-100-solution-compared-to-apples-airpods-zdnet/"><u>Next-Level Sound Without the High Cost: Explore Why Beats’ New Solo Earbuds Are Your Sub-$100 Solution Compared to Apple’s AirPods | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-time-increase-output-top-ai-powered-pdf-solutions/"><u>Save Time, Increase Output: Top AI-Powered PDF Solutions</u></a></li>
+<li><a href="https://techidaily.com/sign-dotx-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dotx file Documents Online for Free</u></a></li>
 </ul></div>
 

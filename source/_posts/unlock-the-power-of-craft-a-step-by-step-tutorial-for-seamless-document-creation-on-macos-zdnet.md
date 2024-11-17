@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Power of Craft: A Step-by-Step Tutorial for Seamless Document Creation on macOS | ZDNet"
-date: 2024-11-03T18:57:22.886Z
-updated: 2024-11-07T06:12:45.756Z
+date: 2024-11-14T16:56:44.080Z
+updated: 2024-11-17T18:34:31.305Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,16 +63,16 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,10 +86,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,21 +140,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-playful-pedal-powered-pastimes-for-2024/"><u>[New] Playful Pedal-Powered Pastimes for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-revolutionary-rider-helmet-cams-top-picks-for-23/"><u>[New] Revolutionary Rider Helmet Cams - Top Picks for '23</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-seamless-transfer-of-high-definition-fb-media-for-2024/"><u>[Updated] Seamless Transfer of High Definition FB Media for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/decoding-diacritics-the-essence-of-spanish-pronunciation/"><u>Decoding Diacritics: The Essence of Spanish Pronunciation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-tips-for-changing-your-username-on-a-windows-11-pc/"><u>Easy Tips for Changing Your Username on a Windows 11 PC</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-steps-to-producing-a-youtube-hit-music-reaction-video-guide-for-2024/"><u>Essential Steps to Producing a YouTube Hit Music Reaction Video Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-tips-on-resolving-windows-1110-malfunctions-a-diy-troubleshooting-manual/"><u>Expert Tips on Resolving Windows 11/10 Malfunctions: A DIY Troubleshooting Manual</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-the-latest-amd-graphics-card-drivers-compatible-with-windows-10-systems/"><u>Get the Latest AMD Graphics Card Drivers Compatible with Windows 10 Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/getting-started-with-free-ip-lookup-track-your-devices-online-identity/"><u>Getting Started with FREE IP Lookup - Track Your Device's Online Identity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-check-windows-10-version-the-very-easy-way/"><u>How to Check Windows 10 Version, the Very Easy Way</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-connect-a-wireless-keyboard-step-by-step/"><u>How to Connect a Wireless Keyboard [Step-by-Step]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-effectively-eliminate-malware-from-your-android-device-without-performing-a-factory-reset/"><u>How to Effectively Eliminate Malware From Your Android Device without Performing a Factory Reset</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-sony-xperia-1-v-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Sony Xperia 1 V Phones? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-motorola-moto-e13-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Moto E13 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-snap-and-tag-your-audio-favorite-to-share/"><u>[Updated] In 2024, Snap & Tag Your Audio Favorite to Share</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-introductory-tips-gradual-amplification-techniques/"><u>[Updated] Introductory Tips Gradual Amplification Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-there-word-limits-to-stay-within-when-using-chatgpt/"><u>Are There Word Limits to Stay Within when Using ChatGPT?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blitz-photo-screening-for-windows-users-for-2024/"><u>Blitz Photo Screening for Windows Users for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversation-privacy-tactics-against-gpt-savings/"><u>Conversation Privacy Tactics Against GPT Savings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/correcting-the-missteps-a-comprehensive-guide-on-how-apple-addresses-error-in-new-ipad-release-tech-insights/"><u>Correcting the Missteps: A Comprehensive Guide on How Apple Addresses Error in New iPad Release | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-the-ultimate-iphones-and-chatgpt-combo/"><u>Crafting the Ultimate iPhones and ChatGPT Combo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-claude-ai-your-gateway-to-enhanced-productivity/"><u>Discovering Claude AI: Your Gateway to Enhanced Productivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-error-remedies-top-6-chatgpt-blunders-explained/"><u>Essential Error Remedies: Top 6 ChatGPT Blunders Explained</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-engaging-audiences-on-multiple-digital-landscapes/"><u>In 2024, Engaging Audiences on Multiple Digital Landscapes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-repair-process-for-incessant-nwstoreexe-software-hiccups/"><u>Mastering the Repair Process for Incessant nw_store.exe Software Hiccups</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-tiktok-the-definitive-guide-to-optimal-video-sizing/"><u>Mastering TikTok: The Definitive Guide to Optimal Video Sizing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-great-iphone-swap-challenge-debunking-apples-urge-for-the-latest-model-insights/"><u>The Great iPhone Swap Challenge: Debunking Apple's Urge for the Latest Model | Insights</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-upgrade-efficiency-over-entertainment/"><u>Windows 11 Upgrade: Efficiency Over Entertainment</u></a></li>
 </ul></div>
 

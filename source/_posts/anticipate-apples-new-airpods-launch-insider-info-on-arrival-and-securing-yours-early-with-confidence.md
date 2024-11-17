@@ -1,7 +1,7 @@
 ---
 title: Anticipate Apple's New AirPods Launch – Insider Info on Arrival and Securing Yours Early with Confidence
-date: 2024-11-06T02:41:31.304Z
-updated: 2024-11-07T10:19:40.415Z
+date: 2024-11-13T18:25:07.894Z
+updated: 2024-11-17T18:48:25.426Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -76,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -99,13 +92,6 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -131,6 +117,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -141,6 +134,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -168,10 +168,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,16 +218,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-bounce-two-ways-to-liven-up-your-text/"><u>[New] The Art of Bounce Two Ways to Liven Up Your Text</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-cutting-edge-psd-effects-guide/"><u>[Updated] 2024 Approved Cutting-Edge PSD Effects Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advanced-srt-modification-strategies-for-pc-and-macos/"><u>Advanced SRT Modification Strategies for PC and macOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-internet-security-using-tor-on-windows-navigate-privately/"><u>Enhancing Internet Security: Using Tor on Windows Navigate Privately</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-diablo-4-experience-overcoming-stutter-and-fps-dip-on-windows-gaming-pcs/"><u>Enhancing Your Diablo 4 Experience: Overcoming Stutter and FPS Dip on Windows Gaming PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/error-message-deciphered-correcting-camera-failure-codes-0xa00f4244-on-your-windows-desktop/"><u>Error Message Deciphered: Correcting Camera Failure Codes 0xA00F4244 on Your Window's Desktop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-tips-for-running-fallout-3-seamlessly-on-windows-10-pcs/"><u>Essential Tips for Running Fallout 3 Seamlessly on Windows 10 PCs</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/exclusive-mp4-extraction-software-for-tiktok-content-for-2024/"><u>Exclusive MP4 Extraction Software for TikTok Content for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-front-row-non-sports-options/"><u>In 2024, Best Front Row Non-Sports Options</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-enhancing-chromes-audio-5-best-web-based-vocal-conversion-apps/"><u>In 2024, Enhancing Chrome's Audio 5 Best Web-Based Vocal Conversion Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-seamless-iphone-photography-during-video/"><u>[New] Seamless iPhone Photography During Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-capture-to-air-expert-tips-for-streaming-upside-down-videos-on-youtube/"><u>[Updated] From Capture to Air Expert Tips for Streaming Upside-Down Videos on Youtube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-panoramic-storytelling-simplified-top-9-tips-for-filmmakers/"><u>2024 Approved Panoramic Storytelling Simplified Top 9 Tips for Filmmakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-prompt-engineering-with-these-essential-web-based-apps/"><u>Elevate Your Prompt Engineering with These Essential Web-Based Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhance-your-online-presence-with-manycams-real-time-recording-tools-and-fake-webcams/"><u>Enhance Your Online Presence with ManyCam's Real-Time Recording Tools and Fake Webcams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-snapchats-spotlight-feature-deeply/"><u>Exploring Snapchat's Spotlight Feature Deeply</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-handle-comctl32dll-file-not-found-issues-on-your-pc/"><u>How to Correctly Handle Comctl32.dll File Not Found Issues on Your PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-b-roll-value-essential-techniques/"><u>In 2024, Maximizing B-Roll Value Essential Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-budget-friendly-tablets-comprehensive-testing-and-reviews-by-tech-experts-zdnet/"><u>Top Rated Budget-Friendly Tablets - Comprehensive Testing & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tools-for-elevating-directive-crafting-skills-web-based/"><u>Top Tools for Elevating Directive Crafting Skills, Web-Based</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-imagination-how-to-use-free-dall-e-3-via-bing/"><u>Unlock Imagination: How to Use Free DALL-E 3 via Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-microsoft-surpass-apples-silicon-with-its-new-windows-on-arm-devices-techcrunch/"><u>Will Microsoft Surpass Apple's Silicon with Its New Windows on ARM Devices? | TechCrunch</u></a></li>
 </ul></div>
 

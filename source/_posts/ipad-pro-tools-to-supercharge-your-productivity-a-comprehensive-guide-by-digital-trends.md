@@ -1,7 +1,7 @@
 ---
 title: IPad Pro Tools to Supercharge Your Productivity - A Comprehensive Guide by Digital Trends
-date: 2024-11-06T07:54:36.524Z
-updated: 2024-11-07T00:48:13.609Z
+date: 2024-11-13T18:22:26.291Z
+updated: 2024-11-17T19:18:51.430Z
 tags:
   - apple
 categories:
@@ -33,10 +33,16 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What do I mean by my flow?
@@ -51,13 +57,6 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -71,13 +70,6 @@ In any case, what that means is that instead of my escalating ranking of phones,
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -94,6 +86,13 @@ Actually, scratch that. I no longer take my iPhone to bed with me. Instead, I we
 The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -133,13 +132,6 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured reviews
 
 * [One of the best smart thermostats I've tested is not made by Ecobee or Amazon](https://www.zdnet.com/article/one-of-the-best-smart-thermostats-ive-tested-is-not-made-by-ecobee-or-amazon/)
@@ -154,6 +146,13 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -177,6 +176,13 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -190,6 +196,13 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -229,13 +242,6 @@ Notion is also available on Android and iOS as well as web platforms, so once ag
 I've set up a bunch of Notion pages and all the items that "should be on the list" but aren't actionable this week or next go onto a Notion. I regularly dig into those pages, particularly when I'm working on a corresponding project, and pull items from the page and assign them to Todoist -- but only if I intend to work on them right away, that week. 
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -286,24 +292,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-aperture-allstars-the-best-camera-lenses-to-capture-the-moment-ranked-1-10-for-2024/"><u>[New] Aperture Allstars The Best Camera Lenses to Capture the Moment, Ranked #1-10 for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-revolutionize-with-a-stroke-premier-tablet-draw-tools/"><u>[New] In 2024, Revolutionize with a Stroke Premier Tablet Draw Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-visionparts-examination/"><u>[Updated] 2024 Approved VisionParts Examination</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/audio-archive-collect-and-examine-music-files/"><u>Audio Archive Collect & Examine Music Files</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-entering-the-bios-configuration-of-a-windows-11-device/"><u>Comprehensive Tutorial on Entering the BIOS Configuration of a Windows 11 Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808049600-diy-fix-for-a-non-responsive-logitech-k780-keyboard-easy-steps-inside/"><u>DIY Fix for a Non-Responsive Logitech K780 Keyboard - Easy Steps Inside!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-benefits-of-the-barnes-and-noble-nook-glowlight-3-as-a-dim-friendly-e-reader/"><u>Exploring the Benefits of the Barnes & Noble Nook GlowLight 3 as a Dim-Friendly E-Reader</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723807899581-forgotten-gmail-password-unlock-simple-troubleshooting-steps-now/"><u>Forgotten Gmail Password? Unlock Simple Troubleshooting Steps Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-tecno-camon-20-pro-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Tecno Camon 20 Pro 5G Phone Screen?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-undersea-video-7-easy-to-follow-techniques/"><u>Mastering Undersea Video 7 Easy-to-Follow Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808100788-rekindle-your-love-for-skyrim-se-experience-unparalleled-speed-and-performance-with-our-exclusive-fps-boost/"><u>Rekindle Your Love for Skyrim SE: Experience Unparalleled Speed and Performance with Our Exclusive FPS Boost</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reviving-your-missing-desktop-icons-with-these-proven-techniques-for-windows-10-users/"><u>Reviving Your Missing Desktop Icons with These Proven Techniques for Windows 10 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/rtx-2080-super-graphics-card-driver-download-updated-for-windows-10-and-11/"><u>RTX 2080 Super Graphics Card Driver Download: Updated for Windows 10 and 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-addressing-pc-crashes-mid-game/"><u>Step-by-Step Guide: Addressing PC Crashes Mid-Game</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-best-10-torrent-sites-most-popular-in-the-world/"><u>The Best 10 Torrent Sites - Most Popular in the World</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-tutorial-for-setting-up-your-laptop-and-printer-connection-using-wifi-or-usb/"><u>The Ultimate Tutorial for Setting up Your Laptop & Printer Connection Using WiFi or USB</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-highly-rated-torrent-websites-global-ranking-and-insights/"><u>Top 10 Highly-Rated Torrent Websites: Global Ranking and Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-6-advantages-of-choosing-a-chromebook-as-your-ideal-laptop-companion-insights/"><u>Top 6 Advantages of Choosing a Chromebook as Your Ideal Laptop Companion - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-to-repairing-error-code-0x80248007-during-windows-10-update-process/"><u>Troubleshooting Guide to Repairing Error Code '0X80248007' During Windows 10 Update Process</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-shorts-visibility-enhanced-issue-resolved/"><u>[New] 2024 Approved Shorts Visibility Enhanced – Issue Resolved</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-quick-youtube-comment-removal-techniques/"><u>2024 Approved Mastering Quick YouTube Comment Removal Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/an-introduction-to-llama-2-and-its-real-world-benefits/"><u>An Introduction to Llama 2 & Its Real-World Benefits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-empowers-thousands-with-cutting-edge-ai-education-exclusive-insight/"><u>Apple Empowers Thousands with Cutting-Edge AI Education - Exclusive Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-the-futures-conversationalists-tailored-ai-with-gpt/"><u>Building the Future's Conversationalists: Tailored AI with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-ai-deployment-auto-gpt-step-by-step/"><u>Dive Into AI Deployment (Auto-GPT) Step-by-Step</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-addressing-xbox-accessory-driver-trouble-across-various-windows-versions/"><u>Guide: Addressing Xbox Accessory Driver Trouble Across Various Windows Versions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-xiaomi-redmi-note-12-proplus-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Xiaomi Redmi Note 12 Pro+ 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximize-inshot-usage-import-feature-walkthrough/"><u>Maximize InShot Usage Import Feature Walkthrough</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-plugin-roundup-top-10-free-and-paid-tools-to-elevate-your-edits/"><u>New FCPX Plugin Roundup Top 10 Free and Paid Tools to Elevate Your Edits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peering-into-the-world-of-generative-ai/"><u>Peering Into the World of Generative AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-exciting-features-of-the-new-iphone-16-pro-techies-dream-come-true/"><u>Top 5 Exciting Features of the New iPhone 16 Pro: Techies' Dream Come True!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-rated-free-f4v-media-player-compatible-with-pc-and-mac-for-seamless-video-viewing/"><u>Top Rated Free F4V Media Player: Compatible with PC & Mac for Seamless Video Viewing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-leading-mp3-player-models-featured/"><u>Ultimate Guide to the Leading MP3 Player Models - Featured</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-top-pick-of-smart-locks-for-iphones-that-blend-in-seamlessly/"><u>Ultimate Guide: Top Pick of Smart Locks for iPhones That Blend In Seamlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-gptjailbreaking-failures-7-insights/"><u>Unraveling GPTJailbreaking Failures: 7 Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-and-10-home-enabling-administrator-access/"><u>Win11 & 10 Home: Enabling Administrator Access</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ease Into New Functionality with ChatGPT's Extensions
-date: 2024-11-02T07:51:11.278Z
-updated: 2024-11-07T02:37:56.758Z
+date: 2024-11-12T16:42:19.660Z
+updated: 2024-11-17T19:32:37.766Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/a1eaffde65a5d9aa5d6c9c56b7c923db02320385e
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -54,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/a1eaffde65a5d9aa5d6c9c56b7c923db02320385e
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can [sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on **Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -70,10 +76,16 @@ thumbnail: https://thmb.techidaily.com/a1eaffde65a5d9aa5d6c9c56b7c923db02320385e
 4. Click **Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -101,18 +113,20 @@ thumbnail: https://thmb.techidaily.com/a1eaffde65a5d9aa5d6c9c56b7c923db02320385e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-quick-launch-lines-a-practical-roadmap-for-product-review-channel-founders/"><u>[New] Quick Launch Lines A Practical Roadmap for Product Review Channel Founders</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-art-of-space-arrangement-in-fostering-a-high-performing-team/"><u>[New] The Art of Space Arrangement in Fostering a High-Performing Team</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-enhancing-media-workflow-the-rise-of-magix-vpx/"><u>[Updated] Enhancing Media Workflow The Rise of Magix VPX</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/exclusive-techniques-for-monitoring-and-logging-whatsapp-conversations-for-2024/"><u>Exclusive Techniques for Monitoring and Logging WhatsApp Conversations for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-walkers-wonderland-curating-the-top-8-zombie-video-experiences/"><u>In 2024, Walkers' Wonderland Curating the Top 8 Zombie Video Experiences</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-ideapad-100-drivers-download-and-update-on-windows-11/"><u>Lenovo IdeaPad 100 Drivers Download & Update on Windows 11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pro-broadcast-beats-the-ultimate-showdown-between-vmix-and-wirecast-for-2024/"><u>Pro Broadcast Beats The Ultimate Showdown Between VMix and Wirecast for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solved-navigating-windows-11s-boot-configuration-for-beginners/"><u>Solved: Navigating Windows 11'S Boot Configuration for Beginners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-the-problem-what-to-do-when-you-see-missing-cddvd-drive-device-driver-message/"><u>Solving the Problem: What To Do When You See 'Missing CD/DVD Drive Device Driver' Message</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-installing-your-realtek-device-drivers/"><u>Step-by-Step Guide: Installing Your Realtek Device Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-restoring-realtek-hd-audio-on-microsofts-latest-operating-systems/"><u>Step-by-Step Guide: Restoring Realtek HD Audio on Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-reverting-back-to-previous-graphics-card-drivers-on-windows-10/"><u>Step-by-Step Guide: Reverting Back to Previous Graphics Card Drivers on Windows 10</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-combination-discover-5-advanced-webcams-for-clear-sound/"><u>Ultimate Combination Discover 5 Advanced Webcams for Clear Sound</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-z2-play-revelation-a-high-tech-smartphone-study-for-2024/"><u>[New] Z2 Play Revelation A High-Tech Smartphone Study for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-capturing-the-moment-expert-use-of-aiseesofts-recording-features/"><u>2024 Approved Capturing the Moment Expert Use of Aiseesoft's Recording Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-list-all-iphones-ready-for-apples-latest-ai-innovations-and-enhanced-siri-capabilities-insights-from-zdnet/"><u>Comprehensive List: All iPhones Ready for Apple’s Latest AI Innovations & Enhanced Siri Capabilities – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-online-teams-with-chatgpts-assistance/"><u>Empowering Online Teams with ChatGPT's Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-security-and-freedom-for-xr-users-how-a-vpn-is-crucial-for-headsets-such-as-the-vision-pro/"><u>Enhancing Security and Freedom for XR Users: How a VPN Is Crucial for Headsets Such as the Vision Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-mastering-vlogging-with-top-12-innovative-screen-swivel-cams/"><u>In 2024, Mastering Vlogging with Top 12 Innovative Screen Swivel Cams</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ion-audio-tailgater-plus-review-revolutionizing-car-audio-with-just-one-push/"><u>ION Audio Tailgater Plus Review - Revolutionizing Car Audio with Just One Push!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-feature-alert-capture-iphone-conversations-hands-free-with-ios-18-update-gadgetflow/"><u>New Feature Alert: Capture iPhone Conversations Hands-Free with iOS 18 Update | GadgetFlow</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/seize-your-social-media-videos-top-extensions-and-downloaders-for-firefox/"><u>Seize Your Social Media Videos! Top Extensions and Downloaders for Firefox</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-financial-logic-behind-premium-ai-experiences/"><u>The Financial Logic Behind Premium AI Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-leading-edge-of-smartphone-ai-our-top-8-apps-review/"><u>The Leading Edge of Smartphone AI: Our Top 8 Apps Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-devices-an-experts-guide-zdnet/"><u>Top-Ranking Mac Devices : An Expert's Guide - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-benefits-exclusive-new-functions-for-specific-models-of-apples-airpods-in-the-autumn-a-closer-look/"><u>Upcoming Benefits: Exclusive New Functions for Specific Models of Apple's AirPods in the Autumn - A Closer Look</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Will the iPogo Get You Banned and How to Solve It On Apple iPhone 6 Plus | Dr.fone</u></a></li>
 </ul></div>
 

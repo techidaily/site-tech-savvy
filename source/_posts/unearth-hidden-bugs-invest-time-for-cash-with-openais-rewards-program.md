@@ -1,7 +1,7 @@
 ---
 title: "Unearth Hidden Bugs: Invest Time for Cash with OpenAI’s Rewards Program"
-date: 2024-11-01T00:31:58.701Z
-updated: 2024-11-07T03:49:56.263Z
+date: 2024-11-16T19:19:27.777Z
+updated: 2024-11-17T18:43:21.603Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -59,22 +52,29 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here, you must fill in the following information:
 
@@ -93,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -108,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
@@ -139,24 +139,21 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-ace-your-iphones-advanced-tactics-for-downloading-podcasts-for-2024/"><u>[New] Ace Your iPhones Advanced Tactics for Downloading Podcasts for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-mastering-handheld-shots-no-tripod-necessary/"><u>[Updated] 2024 Approved Mastering Handheld Shots No Tripod Necessary</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-from-youtube-to-high-definition-prime-downloader-choices/"><u>[Updated] In 2024, From YouTube to High Definition Prime Downloader Choices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-ultimate-series-top-tier-webcam-grips/"><u>[Updated] In 2024, Ultimate Series Top-Tier Webcam Grips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-m1-pro-to-m1-max-assessing-the-leap-in-apples-chip-design/"><u>2024 Approved M1 Pro to M1 Max Assessing the Leap in Apple's Chip Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accelerate-your-computer-speeding-up-windows-11-vs-windows-turbocharging-techniques/"><u>Accelerate Your Computer: Speeding Up Windows 11 Vs. Windows Turbocharging Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beginner-friendly-steps-setting-up-a-vpn-connection-on-your-apple-tv/"><u>Beginner-Friendly Steps: Setting up a VPN Connection on Your Apple TV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/connecting-your-xbox-one-gamepad-to-windows-pc-a-step-by-step-tutorial/"><u>Connecting Your Xbox One Gamepad to Windows PC: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/directx-download-for-windows-11-and-10-quickly-and-easily/"><u>DirectX Download for Windows 11 & 10. Quickly & Easily!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723807936957-do-you-need-a-vpn-yes-you-do-heres-why/"><u>Do You Need a VPN? Yes, You Do. Here's Why.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevate-your-shots-the-ultimate-hdr-cameras-list/"><u>Elevate Your Shots The Ultimate HDR Cameras List</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-gameplay-glitches-launch-issues-with-league-of-legends-solved-2024-insights/"><u>Fix Your Gameplay Glitches: Launch Issues with League of Legends Solved (2024 Insights)</u></a></li>
-<li><a href="https://win-forum.techidaily.com/gratuito-conversor-de-fotos-raw-a-formato-bmp-en-linea-con-movavi/"><u>Gratuito Conversor De FOTOS RAW a Formato BMP - En Línea Con Movavi</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-seatechs-external-usb-blu-ray-writer-examining-inconsistent-writing-quality/"><u>In-Depth Analysis of SeaTech's External USB Blu-Ray Writer: Examining Inconsistent Writing Quality</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209637320-9780429577666-jean-despagnets-the-summary-of-physics-restored/"><u>Jean D'Espagnet's The Summary of Physics Restored | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-maximum-frame-rates-on-ps5xbox-series-x-with-the-new-skyrim-se-speed-upgrade-2024/"><u>Unleash Maximum Frame Rates on PS5/Xbox Series X with the New Skyrim SE Speed Upgrade, 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808235815-whats-new-in-windows-10-creators-update-insider-preview-build-1503/"><u>What's New in Windows 10 Creators Update: Insider Preview Build 1503</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-wont-my-oculus-controller-respond-tips-for-immediate-solutions/"><u>Why Won't My Oculus Controller Respond? Tips for Immediate Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zoom-troubles-overcome-screen-sharing-problems-with-these-latest-fixes/"><u>Zoom Troubles? Overcome Screen Sharing Problems with These Latest Fixes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-enhancing-video-experience-with-apple-melodies/"><u>[New] Enhancing Video Experience with Apple Melodies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-six-secrets-to-holding-your-viewers-attention/"><u>[New] The Six Secrets to Holding Your Viewers' Attention</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-your-guide-to-premium-full-screen-recorders-for-pcmac/"><u>[Updated] 2024 Approved Your Guide to Premium Full-Screen Recorders for PC/Mac</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-permanent-linkage-to-tiktok-profiles-without-hiccups/"><u>[Updated] Permanent Linkage to TikTok Profiles Without Hiccups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-quick-dive-into-apple-vision-pro-experience-my-key-findings-after-a-weekend-with-it-tech-analysis-by-zdnet/"><u>A Quick Dive Into Apple Vision Pro Experience – My Key Findings After a Weekend with It | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-logic-lines-can-silicon-seek-out-sorrow-and-joy/"><u>Beyond Logic Lines: Can Silicon Seek Out Sorrow and Joy?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-methods-for-detecting-and-controlling-temperature-on-a-macbook-pro/"><u>Easy Methods for Detecting & Controlling Temperature on a MacBook Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-slips-to-dodge-with-ai-creation-tools/"><u>Essential Slips to Dodge with AI Creation Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-can-optimize-vision-pro-for-corporate-triumph-key-upgrades-discussed/"><u>How Apple Can Optimize Vision Pro for Corporate Triumph: Key Upgrades Discussed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-11-pro-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 11 Pro Safe and Legal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-cyberspace-the-quinary-methodologies-of-cybercrime-exploiting-ai/"><u>Navigating Cyberspace: The Quinary Methodologies of Cybercrime Exploiting AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-hardware-havoc-chatgpts-fixes-at-a-glance/"><u>Navigating Hardware Havoc: ChatGPT's Fixes at a Glance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfecting-artificial-intelligence-choose-the-best-5-tools/"><u>Perfecting Artificial Intelligence: Choose the Best 5 Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ideo-editing-selections-for-social-media-for-2024/"><u>Pro Video Editing Selections for Social Media for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-magic-6-lite-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor Magic 6 Lite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-gadgets-and-peripherals-insights/"><u>Top-Rated iPad Gadgets and Peripherals - Insights</u></a></li>
 </ul></div>
 

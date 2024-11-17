@@ -1,7 +1,7 @@
 ---
 title: Getting Acquainted with LangChain Technology
-date: 2024-10-31T10:30:33.822Z
-updated: 2024-11-07T08:24:18.494Z
+date: 2024-11-10T17:37:06.093Z
+updated: 2024-11-17T16:08:40.931Z
 tags:
   - chatgpt
   - open-ai
@@ -57,15 +57,22 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 * **Responses**: LangChain provides output parser tools to give answers in a suitable format as opposed to other LLMs whose model response consists of general text. When using AI in an application, it is preferred to have a structured response that you can program against.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Getting Started With LangChain LLM
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Setting Up Your Development Environment
 
@@ -80,19 +87,6 @@ thumbnail: https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84a
 `
 
  The command above installs the packages and creates a virtual environment.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Import the Installed Dependencies
 
@@ -124,13 +118,20 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Copy and store the API key in a safe place for future use.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Developing an Application Using LangChain LLM
@@ -173,13 +174,6 @@ print(output)`
 
  Above is the expected output.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Rising Influence of LLMs
 
  LLMs consumption is growing rapidly and changing how humans interact with knowledge machines. Frameworks like LangChain are at the forefront of providing developers with a smooth and simple way to serve the LLMs to applications. Generative AI models like ChatGPT, Bard, and Hugging Face are also not left behind in advancing LLM applications.
@@ -205,24 +199,16 @@ print(output)`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-instant-video-creation-uploading-images/"><u>[New] Instant Video Creation Uploading Images</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-9-top-tier-youtube-fitness-tips-to-captivate-audiences-movement/"><u>[Updated] 2024 Approved 9 Top-Tier YouTube Fitness Tips to Captivate Audience's Movement</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-essential-methods-for-recording-youtube-live-streaming/"><u>[Updated] 2024 Approved Essential Methods for Recording YouTube LIVE Streaming</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/exploring-shared-videos-and-images-via-messenger/"><u>Exploring Shared Videos & Images via Messenger</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-import-chrome-bookmarks-to-firefox-quickly-and-easily/"><u>How to Import Chrome Bookmarks to Firefox. Quickly & Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-resolve-the-issue-of-superfetch-consuming-entire-hard-drive-space-expert-tips/"><u>How to Resolve the Issue of Superfetch Consuming Entire Hard Drive Space - Expert Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-resolve-undetected-amd-gpu-drivers-on-your-pcs-device-list-fixed/"><u>How to Resolve Undetected AMD GPU Drivers on Your PC's Device List [Fixed]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-restart-your-ps4-after-safe-mode-activation-a-comprehensive-guide/"><u>How to Restart Your PS4 After Safe Mode Activation – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-take-screenshots-on-lenovo-laptop/"><u>How to Take Screenshots on Lenovo Laptop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hp-drivers-for-windows-10-download-easily/"><u>HP Drivers for Windows 10. Download Easily</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-radiant-spectrum-enhancer/"><u>In 2024, Radiant Spectrum Enhancer</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-ultimate-handbook-insta-to-tik-tok-connectivity/"><u>In 2024, Ultimate Handbook Insta-to-Tik Tok Connectivity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/latest-features-and-enhancements-in-windows-10-creators-update-insider-preview-version-1503-what-to-expect/"><u>Latest Features and Enhancements in Windows 10 Creator’s Update (Insider Preview Version 1503) - What to Expect</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-the-process-resetting-your-windows-7-machine-fully-formatting-without-external-support/"><u>Master the Process: Resetting Your Windows 7 Machine Fully Formatting Without External Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-crash-log-analysis-for-troubleshooting-windows-issues/"><u>Mastering Crash Log Analysis for Troubleshooting Windows Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-efficiency-discover-the-best-8-artificial-intelligence-extensions-for-google-chrome/"><u>Maximize Efficiency: Discover the Best 8 Artificial Intelligence Extensions for Google Chrome</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steps-to-enable-developer-tools-in-microsoft-excel/"><u>Steps to Enable Developer Tools in Microsoft Excel</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-realme-c55-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Realme C55.</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-cultivating-a-unique-vibe-in-your-own-mukbang-content/"><u>[Updated] Cultivating a Unique Vibe in Your Own Mukbang Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-6-best-nft-platforms-for-artists/"><u>[Updated] The Ultimate List of 6 Best NFT Platforms for Artists</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-value-for-money-in-budget-4k-cameras-(1000/"><u>2024 Approved Best Value for Money in Budget 4K Cameras (<$1,000)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevating-visuals-the-shift-from-sdr-to-hdr-in-editing/"><u>2024 Approved Elevating Visuals The Shift From SDR to HDR in Editing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-watch-showdown-series-10-vs-series-8-which-one-wins-the-tech-race-zdnet/"><u>Apple Watch Showdown: Series 10 Vs. Series 8 - Which One Wins the Tech Race? | ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-nomad/"><u>Comprehensive Nomad</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-clouds-to-storage-keeping-snapshots-on-your-phone/"><u>In 2024, From Clouds to Storage Keeping Snapshots on Your Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-big-savings-on-the-new-apple-watch-series-10-at-best-buy-preorder-now-and-save-up-to-50-off/"><u>Score Big Savings on the New Apple Watch Series 10 at Best Buy - Preorder Now and Save Up to 50% Off!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-role-of-vector-databases-in-advancing-artificial-intelligence/"><u>The Role of Vector Databases in Advancing Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-trouble-refrain-from-the-google-bard-update/"><u>Unleashing Trouble? Refrain From the Google Bard Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-does-the-co-pilot-extension-do-for-chatgpt/"><u>What Does the Co-Pilot Extension Do for ChatGPT?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock the Full Potential of Craft - Your Definitive Step-by-Step macOS Document Tool Tutorial
-date: 2024-11-02T10:19:53.686Z
-updated: 2024-11-07T09:40:04.954Z
+date: 2024-11-13T19:14:26.816Z
+updated: 2024-11-17T16:38:00.148Z
 tags:
   - apple
 categories:
@@ -36,16 +36,16 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -69,10 +69,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -86,10 +86,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -140,16 +140,17 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-replay-retro-thrills-top-5-ps1-game-emulators-reviewed-for-pc/"><u>[New] 2024 Approved Replay Retro Thrills - Top 5 PS1 Game Emulators Reviewed for PC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-from-memory-to-moments-share-images-seamlessly-today/"><u>[Updated] From Memory to Moments Share Images Seamlessly Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808209012-download-and-install-utorrent-on-windows-10-no-cost-option-available-now/"><u>Download and Install uTorrent on Windows 10 - No Cost Option Available Now</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/fundamentals-of-archiving-webcam-conversations-for-2024/"><u>Fundamentals of Archiving Webcam Conversations for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808115871-immediate-remedies-for-a-lagging-hp-computer-diagnosing-the-causes/"><u>Immediate Remedies for a Lagging HP Computer - Diagnosing the Causes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-huawei-p60-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Huawei P60 Phone Now with These Tips</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-social-media-mastery-incorporating-polls-in-stories/"><u>In 2024, Social Media Mastery Incorporating Polls in Stories</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-xiaomi-redmi-note-13-proplus-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Xiaomi Redmi Note 13 Pro+ 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-windows-code-31-error-a-step-by-step-guide/"><u>Resolving Windows Code 31 Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808153754-stop-automatic-updates-on-your-windows-11-pc-with-these-easy-tricks/"><u>Stop Automatic Updates on Your Windows 11 PC with These Easy Tricks!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808354860-ultimate-list-of-top-game-torrent-websites-find-the-latest-releases/"><u>Ultimate List of Top Game Torrent Websites – Find the Latest Releases</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-dells-direct-methods-easy-screenshot-solutions/"><u>[New] Dell's Direct Methods Easy Screenshot Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-when-worlds-crumble-premium-guide-to-top-zombie-games/"><u>[Updated] 2024 Approved When Worlds Crumble Premium Guide to Top Zombie Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syma-x5c-review-best-drone-for-beginner/"><u>2024 Approved Syma X5C Review Best Drone for Beginner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-bulky-designs-next-gen-magsafe-battery-pack-charges-lightning-fast-for-ultimate-convenience/"><u>Beyond the Bulky Designs: Next-Gen MagSafe Battery Pack Charges Lightning-Fast for Ultimate Convenience!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-success-in-an-algorithmically-augmented-world/"><u>Crafting Success in an Algorithmically Augmented World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/identifying-the-beneficiary-in-ai-copyright-claims/"><u>Identifying the Beneficiary in AI Copyright Claims</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pixels-to-perfection-youtubes-beauty-color-techniques/"><u>In 2024, Pixels to Perfection Youtube's Beauty Color Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/maximize-your-impact-knowledge-of-instagrams-video-time-policy-for-2024/"><u>Maximize Your Impact Knowledge of Instagram's Video Time Policy for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-nuggets-of-knowledge-top-6-tactics-to-duplicate-windows-folder-paths/"><u>Navigating Nuggets of Knowledge: Top 6 Tactics to Duplicate Windows Folder Paths</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-resource-for-writing-youtube-videos-with-chatgpt/"><u>The Ultimate Resource for Writing YouTube Videos with ChatGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-for-the-windows-11-not-installed-message-on-your-computer/"><u>Troubleshooting Tips for the 'Windows 11 Not Installed' Message on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-solutions-to-top-6-vehicle-ai-installation-problems/"><u>Unveiling Solutions to Top 6 Vehicle AI Installation Problems</u></a></li>
 </ul></div>
 

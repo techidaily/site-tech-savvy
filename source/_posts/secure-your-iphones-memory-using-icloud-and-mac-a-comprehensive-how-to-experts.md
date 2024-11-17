@@ -1,7 +1,7 @@
 ---
 title: "Secure Your iPhone's Memory Using iCloud & Mac: A Comprehensive How-To Experts"
-date: 2024-11-03T12:30:15.736Z
-updated: 2024-11-07T05:23:20.361Z
+date: 2024-11-10T19:11:48.957Z
+updated: 2024-11-17T17:38:10.995Z
 tags:
   - apple
 categories:
@@ -31,28 +31,15 @@ Image: Maria Diaz / ZDNet
 This option gives you access to your Apple ID, iCloud, and Purchases settings. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Tap on iCloud
 
 Image: Maria Diaz / ZDNet
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Go to iCloud Backup
 
@@ -65,6 +52,13 @@ Image: Maria Diaz / ZDNet
 Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, select that, and your phone should start backing up to iCloud.
 
 5GB is not enough for a lot of us, especially if you've never backed up your iPhone. But you can choose what gets backed up to reduce the amount of data to upload to iCloud or buy more storage. If you're still over the limit and don't want to pay for a membership, then you can back up to a computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Here's how to back up your iPhone on a Mac
 
@@ -87,10 +81,10 @@ Be sure to select **Back up all of the data on your iPhone to this Mac** before 
 Creating a backup could take a few minutes or a couple of hours, depending on how much data you have to back up. Mine took a little over an hour, but I hadn't backed up my iPhone in over a year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much does iCloud cost?
@@ -113,10 +107,10 @@ Both options have their pros and cons, but I personally prefer a cloud service b
 Your purchased apps don't need to be backed up; that information is associated with your Apple ID, so they can be easily downloaded when you want them again. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is there another cloud service aside from iCloud?
@@ -155,24 +149,19 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-enhancing-lighting-and-shadows-in-obs-video/"><u>[New] Enhancing Lighting and Shadows in OBS Video</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-silent-recorders-revealed-6-undiscovered-android-and-ios-apps/"><u>[Updated] Silent Recorders Revealed 6 Undiscovered Android & iOS Apps</u></a></li>
-<li><a href="https://win-studio.techidaily.com/exclusive-short-term-deal-get-the-ultimate-dvd-editor-wonderfox-pro-for-free-at-majorgeeks/"><u>Exclusive Short-Term Deal: Get the Ultimate DVD Editor, WonderFox Pro, for Free at MajorGeeks!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723808085555-fast-track-anonymity-master-the-art-of-hiding-your-internet-identity-today/"><u>Fast Track Anonymity: Master the Art of Hiding Your Internet Identity Today</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-how-to-fix-persistent-crashes-in-manor-lords-when-played-on-a-desktop-computer/"><u>Guide: How to Fix Persistent Crashes in Manor Lords When Played on a Desktop Computer</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-meizu-21-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-poco-x5-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Poco X5 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-sony-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Sony Phones with/without a PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-a15-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy A15 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-your-laptops-screen-with-ease/"><u>Step-by-Step Guide: Capturing Your Laptop's Screen with Ease</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/the-ultimate-step-by-step-process-for-transforming-videos-through-dubbing-using-filmora/"><u>The Ultimate Step-by-Step Process for Transforming Videos Through Dubbing Using Filmora</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-repairing-the-dreaded-code-31-malfunction-in-windows/"><u>Troubleshooting and Repairing the Dreaded Code 31 Malfunction in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-boot-issues-where-computer-starts-but-has-zero-display-output/"><u>Troubleshooting Boot Issues Where Computer Starts But Has Zero Display Output</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-excessive-cpu-load-issues-in-windows-10-effective-solutions-and-tips/"><u>Troubleshooting Excessive CPU Load Issues in Windows 10 – Effective Solutions and Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-boosting-your-minecraft-performance/"><u>Ultimate Guide: Boosting Your Minecraft Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-how-to-pair-a-wireless-mouse-with-windowsmac-os-devices/"><u>Ultimate Tutorial: How to Pair a Wireless Mouse with Windows/Mac OS Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/update-usb-drivers-in-windows-10-7-8-and-81-easily/"><u>Update USB Drivers in Windows 10, 7, 8 & 8.1. Easily!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-10-high-cpu-usage-troubleshooting-the-module-installer/"><u>Windows 10 High CPU Usage: Troubleshooting the Module Installer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-11-creators-updates-kb4103429-and-kb4013418/"><u>Windows 11 Creators Updates: KB4103429 and KB4013418</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-easy-technique-storing-tweet-videos-and-images-on-cellphone/"><u>[New] 2024 Approved Easy Technique Storing Tweet Videos and Images on Cellphone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-creating-costless-webinars-on-youtube-a-handbook/"><u>2024 Approved Creating Costless Webinars on YouTube A Handbook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-enabled-revolution-in-hr-task-management/"><u>AI-Enabled Revolution in HR Task Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipated-innovations-in-visionos-the-ultimate-list-of-features-we-yearn-for-at-apples-upcoming-wwdc-event-tech-insights/"><u>Anticipated Innovations in VisionOS: The Ultimate List of Features We Yearn for at Apple’s Upcoming WWDC Event | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-champions-emerge-gpt-vs-bing-showdown/"><u>Chatbot Champions Emerge: GPT Vs. Bing Showdown</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oppo-reno-8t-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo Reno 8T? Try These Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-easily-convert-dall-e-3-webp-images-to-jpg-or-png/"><u>How to Easily Convert DALL-E 3 WebP Images to JPG or PNG</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-realme-gt-3-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Realme GT 3 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-viral-visionaries-top-meme-creators-on-social-media/"><u>In 2024, Viral Visionaries Top Meme Creators on Social Media</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-using-gpt-3-in-openai-lab/"><u>Step-by-Step Guide to Using GPT-3 in OpenAI Lab</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-iphones-ideal-vpn-providers-rankings-and-honest-assessments-zdnet/"><u>Ultimate Guide to iPhone's Ideal VPN Providers, Rankings & Honest Assessments | ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ultimate-unseen-ui-techniques-for-newcomers-for-2024/"><u>Ultimate Unseen UI Techniques for Newcomers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-functionality-of-google-play-games-on-windows/"><u>Understanding the Functionality of Google Play Games on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-to-the-newest-a-side-by-side-look-at-ipad-air-4-and-ipad-air-er-technology-insights-from-zdnet/"><u>Upgrading to the Newest: A Side-by-Side Look at iPad Air 4 and iPad Air Er | Technology Insights From ZDNET</u></a></li>
 </ul></div>
 

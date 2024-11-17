@@ -1,7 +1,7 @@
 ---
 title: "First Glimpses: Uncovering the History of AI"
-date: 2024-11-05T20:57:07.620Z
-updated: 2024-11-06T20:53:01.421Z
+date: 2024-11-11T16:45:10.607Z
+updated: 2024-11-17T16:23:38.508Z
 tags:
   - chatgpt
   - open-ai
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Technological developments accelerated during this period. The accessibility of IT resources enabled researchers to materialize theories, imagined concepts, and speculations. They were laying the foundation for cybernetics.
 
 * **1914:** Spanish civil engineer Leonardo Torres y Quevedo created El Ajedrecista, which translates to The Chess Player in English. It's an early use of automation. The Chess Player performed an endgame move using its rook and king to checkmate an opposing player.
@@ -58,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
 ![An Old and Large Supercomputer Display at the Museum](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-super-computer-display.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:CDC%5F6600%5F-%5FComputer%5FHistory%5FMuseum%5F%2830614723650%29.jpg)
 
  The term "artificial intelligence" was coined during this period. After laying the groundwork for AI, researchers began exploring use cases. Various sectors experimented with it. The technology wasn't commercially available yet—researchers focused on medical, industrial, and logistical applications.
@@ -75,23 +75,9 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 
  The middle period of AI development saw one of the most important moments of all: the coining of the term "artificial intelligence."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2001-2010: Integrating AI Into Modern Technologies
 
 ![The Black First Generation iPhone on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/original-iphone-first-gen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone%5FFirst%5FGeneration%5F8GB%5F%283680455198%29.jpg)
 
@@ -104,6 +90,13 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 * **2009:** Google developed its driverless car for four years before passing the first statewide self-driving test in 2014\. Competitors would later [enhance driverless vehicles with AI](https://www.makeuseof.com/artificial-intelligence-in-cars-safety/).
 
  Interestingly, despite this period featuring some of the most iconic tech from recent decades, AI wasn't fully on the radar for most consumers, with personal and home assistant tools like Siri and Alexa only appearing in the next period.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2011-2020: The Spread and Development of AI-Driven Applications
 
@@ -120,15 +113,22 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
  During this period, consumers were likely to use AI applications without even realizing it, even though visual and voice recognition tools (for most consumers) were still young. Towards the end of the decade, AI development kicked up a notch, but still not as dramatically as what was to come.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2021-Present: Global Tech Leaders Kick off the Great AI Race
 
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The great AI race has begun. Developers are releasing language models, and companies are researching ways to integrate AI with their products. At this rate, almost every consumer product will have an AI component.
 
@@ -162,22 +162,17 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-gameplay-reel-how-to-reviewed/"><u>[New] Gameplay Reel How-To Reviewed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>[Updated] In 2024, Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-world-of-premium-banners-for-media/"><u>2024 Approved Unlocking the World of Premium Banners for Media</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-wellness-chatgpt-driven-meal-plans/"><u>Crafting Wellness: ChatGPT-Driven Meal Plans</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-online-resources-to-find-your-dream-apartment/"><u>Discover the Best Online Resources to Find Your Dream Apartment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-eq-through-ais-perspective-on-social-dynamics/"><u>Enhance EQ Through AI's Perspective on Social Dynamics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-the-future-of-web-search-bings-ai-on-android-and-ios/"><u>Explore the Future of Web Search: Bing's AI on Android & iOS</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-aerial-choreography-the-fresh-take-on-bebops-parrot/"><u>In 2024, Aerial Choreography – The Fresh Take on Bebop's Parrot</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-youtube-earnings-a-monetization-checklist/"><u>Mastering YouTube Earnings A Monetization Checklist</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-website-visibility-with-ai-insights/"><u>Redefining Website Visibility with AI Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rethinking-auto-gpt-in-absence-of-gpt-4/"><u>Rethinking Auto-GPT in Absence of GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safeguarding-data-in-gpt-based-communication/"><u>Safeguarding Data in GPT-Based Communication</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/soluciones-para-error-de-pantalla-negra-en-windows-10-despues-del-inicio-de-sesion/"><u>Soluciones Para Error De Pantalla Negra en Windows 10 Después Del Inicio De SESIÓN</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-race-for-excellence-comparing-gemini-and-chatgpt/"><u>The Race for Excellence: Comparing Gemini and ChatGPT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-5-obstacles-preventing-idevice-gift-sending/"><u>Top 5 Obstacles Preventing iDevice Gift Sending</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/top-window-10-dvd-software-download-and-free-trial-click-here/"><u>Top Window 10 DVD Software Download & Free Trial Click Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/twitters-cleared-of-smileys-linuss-uncovering-trojans-breakdown-and-ai-gpt-issues-displayed/"><u>Twitters Cleared of Smileys, Linus's Uncovering, Trojans Breakdown, & AI GPT Issues Displayed.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlocking-fast-track-on-friend-finding-in-facebook-land/"><u>[New] In 2024, Unlocking Fast Track on Friend-Finding in Facebook Land</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevating-engagement-crafting-high-roi-animated-campaigns-on-facebook/"><u>[Updated] 2024 Approved Elevating Engagement Crafting High-ROI Animated Campaigns on Facebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/5-good-book-trailer-examples/"><u>5 Good Book Trailer Examples</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-connections-the-essential-guide-to-social-integration-for-xbox-players/"><u>Crafting Connections: The Essential Guide to Social Integration for Xbox Players</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ahead-of-the-curve-with-ios-1/"><u>Get Ahead of the Curve with iOS 1</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-x-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone X? Heres the Best Fixes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncover-5-windows-11-tools-for-professional-audio-recording/"><u>In 2024, Uncover 5 Windows 11 Tools for Professional Audio Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-watch-pro-and-apples-series-9-showdown-determining-the-best-investment-in-next-gen-smartwatches/"><u>Pixel Watch Pro and Apple's Series 9 Showdown: Determining the Best Investment in Next-Gen Smartwatches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-business-gadgetry-the-new-era-of-apple-vision-pro-enterprise-device-management-featured-by-zdnet/"><u>Revolutionizing Business Gadgetry: The New Era of Apple Vision Pro Enterprise Device Management, Featured by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mystery-behind-the-historic-windows-meltdown-and-crowdstrike-clash-a-detailed-retrospective-by-zdnet/"><u>Unraveling the Mystery Behind the Historic Windows Meltdown and CrowdStrike Clash - A Detailed Retrospective by ZDNet</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/unveiling-now-engaging-features-in-live-stream-technology/"><u>Unveiling Now: Engaging Features in Live Stream Technology</u></a></li>
 </ul></div>
 
