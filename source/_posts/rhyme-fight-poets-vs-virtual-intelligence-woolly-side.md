@@ -1,7 +1,7 @@
 ---
 title: Rhyme Fight - Poets vs Virtual Intelligence, Woolly Side
-date: 2024-11-13T16:32:14.708Z
-updated: 2024-11-17T16:32:52.461Z
+date: 2024-11-21T16:05:25.018Z
+updated: 2024-11-27T16:18:15.629Z
 tags:
   - chatgpt
   - open-ai
@@ -26,9 +26,17 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -50,16 +58,13 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -87,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
@@ -104,10 +113,7 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Writing Code?
@@ -118,29 +124,9 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -179,20 +165,24 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expert-review-dynamic-action-recording-tools/"><u>[Updated] 2024 Approved Expert Review Dynamic Action Recording Tools</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-ensuring-earning-potential-on-youtubers/"><u>[Updated] In 2024, Ensuring Earning Potential on YouTubers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-image-transitions-with-ease-and-style/"><u>[Updated] Mastering Image Transitions with Ease and Style</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-chill-championships-highlighting-cold-climates-sports/"><u>2024 Approved Chill Championships Highlighting Cold Climates Sports</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/delving-into-the-galaxy-s8s-immersive-4k-display/"><u>Delving Into the Galaxy S8's Immersive 4K Display</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/flawless-content-creation-the-4-biggest-mistakes-to-dodge-using-chatgpt/"><u>Flawless Content Creation - The 4 Biggest Mistakes to Dodge Using ChatGPT</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-14-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 14 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/mastering-pinterest-videos-to-mp3s-essential-strategies/"><u>Mastering Pinterest Videos to MP3s Essential Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preventing-predictable-problems-with-generative-tech/"><u>Preventing Predictable Problems with Generative Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplifying-complexity-pythons-role-in-gpt-3/"><u>Simplifying Complexity: Python's Role in GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-jestful-ai-portable-progress-and-cybersecurity-evolution/"><u>The Jestful AI: Portable Progress and Cybersecurity Evolution</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-selecting-6-premium-live-audio-devices-for-2024/"><u>Ultimate Guide to Selecting 6 Premium Live Audio Devices for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-power-of-individualized-chatgpt-commands/"><u>Unlocking the Power of Individualized ChatGPT Commands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-enigma-of-chatbots-debunking-9-popular-beliefs/"><u>Unraveling the Enigma of Chatbots: Debunking 9 Popular Beliefs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zerogpt-and-detectors-can-they-be-trusted-completely/"><u>ZeroGPT & Detectors: Can They Be Trusted Completely?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-enhance-your-mobile-calls-with-these-top-10-safe-and-free-chat-applications-for-iosandroid/"><u>[New] Enhance Your Mobile Calls with These Top 10 Safe & Free Chat Applications for iOS/Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-expert-strategies-for-effective-angle-rotations-on-android/"><u>[New] Expert Strategies for Effective Angle Rotations on Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-free-masterpieces-in-premiere-pro-templates-2023/"><u>[New] Free Masterpieces in Premiere Pro Templates, 2023</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-surging-social-media-accelerating-instagram-interactions/"><u>[Updated] 2024 Approved Surging Social Media Accelerating Instagram Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030092152-vobavi/"><u>「無劣化転送」: VOBファイルを安全にAVI形式に変換するテクニック</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/202n-top7/"><u>「最新動画変換ツール！202n オススメのフリーソフトライブラリTOP7」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44ki44oz44oe44cn44gn6ieq55sx44gr6kal44gf44ge77yb5yuv55s744oa44km44oz44ot44o844oj44go5lplusd5a2y5oml6acg/"><u>「アベマ」で自由に見たい！動画ダウンロードと保存手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-windows-1111/"><u>4人気の動画切り取り手法: Windows 11と11対応</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5/"><u>無料で使える人気のオンラインスクリーンレコーダー5本質選択</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-beginners-guide-converting-m4v-videos-into-common-mpg-mpeg-and-mp4-file-types-effortlessly/"><u>A Beginner's Guide: Converting M4V Videos Into Common MPG, MPEG and MP4 File Types Effortlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-sites-to-enjoy-uncut-high-school-dxd-anime-online/"><u>Best Sites to Enjoy Uncut High School DxD Anime Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-sound-fidelity-step-by-step-guide-to-convert-mp3-files-to-higher-320kbps-quality/"><u>Boosting Sound Fidelity: Step-by-Step Guide to Convert MP3 Files to Higher 320Kbps Quality</u></a></li>
+<li><a href="https://win-studio.techidaily.com/get-your-essential-microsoft-office-suite-on-windows-or-mac-for-just-25-exclusive-offer-inside/"><u>Get Your Essential Microsoft Office Suite on Windows or Mac for Just $25 - Exclusive Offer Inside!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-6-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 6</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-prime-selection-highest-quality-stands/"><u>In 2024, Prime Selection Highest Quality Stands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030257151-iphoneyoutube/"><u>IPhoneの動画音量アップ方法と、YouTubeで低音を改善するヒント</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-note-30-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Note 30 Pro</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-synergy-updating-windows-and-intels/"><u>Seamless Synergy: Updating Windows and Intels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tech-analysis-elite-parrot-ar-drone-20-for-2024/"><u>Tech Analysis Elite Parrot AR Drone 2.0 for 2024</u></a></li>
 </ul></div>
 

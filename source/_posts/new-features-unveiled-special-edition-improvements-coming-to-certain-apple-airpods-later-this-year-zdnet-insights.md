@@ -1,7 +1,7 @@
 ---
 title: "New Features Unveiled: Special Edition Improvements Coming to Certain Apple AirPods Later This Year | ZDNET Insights"
-date: 2024-11-15T16:05:17.772Z
-updated: 2024-11-17T19:25:30.727Z
+date: 2024-11-21T16:49:49.589Z
+updated: 2024-11-27T16:22:58.895Z
 tags:
   - apple
 categories:
@@ -61,19 +61,6 @@ That's secretly brilliant. It's a beta packaged as a finished product that every
 
 Now, let's take a look at each of those reasons in a bit more depth… 
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  1\. The tech really isn't ready
 
 This governs everything. You know the story. It weighs as much as one of the heavier iPads. It only runs for an hour or so. It [costs more than an iPhone, iPad, Apple Watch, AirPods, and a Mac combined](https://www.zdnet.com/article/you-can-get-an-iphone-ipad-apple-watch-airpods-and-a-mac-for-the-price-of-one-vision-pro/). 
@@ -84,6 +71,10 @@ Right now, it's ungainly and impractical. In five years, or even in two years, t
 
 By shipping the first generation Vision Pro now, Apple lets the public see and start thinking about this tech. But it also gets the time to refine it until it makes practical sense.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. The high price demand-allocates users
 
 Apple can't and won't make all that many Vision Pros. Apple knows the price point will turn off a lot of potential buyers. Hey, I'm not buying one. I have another roof repair to pay for. 
@@ -93,6 +84,10 @@ But some users _will_ pay the steep price of entry. ZDNET's editor-in-chief talk
 **Also: [This ultraportable VR headset gave me a taste of Vision Pro at a fraction of the cost](https://www.zdnet.com/article/this-ultraportable-vr-headset-gave-me-a-taste-of-vision-pro-at-a-fraction-of-the-cost/)**
 
 The bottom line is that the bottom line is helping to filter out all but the most dedicated buyers. That also gives Apple runway to further refine the product category.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. It won't disappoint mainstream users
 
@@ -106,13 +101,6 @@ Apple claims it will run thousands of iPad apps, but big whoop. My iPad runs iPa
 
 We all know the story with many gee-whiz products. They excite for a few weeks and then sit on a shelf. For most users, that would be the fate of the Vision Pro. But by limiting the number of users through its price, only the most interested will use it. The mass user base, the most likely to be disappointed, won't buy one. Therefore, they won't be disappointed in this early entry in Apple's spatial computing strategy. 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Time to find those killer apps
 
 I have no doubt there are killer apps for the Vision Pro platform. There will be some vertical industry applications that are amazing. There may also be other, more mass-market applications that are compelling reasons to buy a Vision Pro. 
@@ -120,6 +108,10 @@ I have no doubt there are killer apps for the Vision Pro platform. There will be
 **Also: [7 best practices Apple recommends when designing for VisionOS](https://www.zdnet.com/article/7-best-practices-apple-recommends-when-designing-for-visionos/)**
 
 But they don't exist yet. Now that the Vision Pro and [VisionOS](https://www.zdnet.com/article/inside-visionos-18-things-developers-need-to-know-about-coding-for-apple-vision-pro/) are out, developers can start working on apps, start experimenting, and start to see what really stands out. As Apple moves to reduce the mass and price of its Vision platform, developers will be finding apps that give users reasons to buy the device. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Get the complaints out of our systems
 
@@ -153,13 +145,6 @@ All the articles and videos we in the tech press are generating also help to edu
 
 Look at it this way. The iPhone wouldn't have been nearly as popular when it first came out if users didn't already know what an iPod was. But since users knew about storing thousands of songs, the idea of combining a music player and a phone made total sense. Pre-education reduced the sales cycle and increased the excitement for the iPhone. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  7\. Nurturing the superfans
 
 In today's media world, so-called influencers have an outsized…influence… on buying patterns. Bloggers, YouTubers, and Instagram stars have enormous followings and serve to showcase and explain products in ways that ads never could. 
@@ -171,19 +156,6 @@ But spatial computing is still new. While some influencers have had experience w
 Now that I know that modern VR is not going to make me as sick as older technology, I can spend my time evangelizing the technology. Those who are even more serious about spatial computing, and who plunk down the big bucks to buy a Vision Pro, will develop followings specifically interested in Apple's tech, and will learn all the ins-and-outs of what the tech can do.
 
 So then, when a more reasonable and approachable product comes out, there will be a superfan army, already in place and ready to promote the mass market hotness Apple is sure to introduce. 
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  8\. Already a killer app for the space-constrained
 
@@ -197,9 +169,17 @@ Apple doesn't appear to intend the Vision Pro to be primarily used while standin
 
 I can also see the Vision Pro being a wonderful off-duty distraction for those serving on naval vessels, with the very small officers' cabins and even smaller bunks for below-deck personnel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  9\. Size does matter
 
 I've harped on size and price over and over in this article. The secretly brilliant launch of the Vision Pro allows Apple to start its year-over-year refinement cycle that has served it so well with its other technology. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  10\. Time to find a compelling story
 
@@ -247,22 +227,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-from-tiktok-to-twitter-a-step-by-step-guide/"><u>[New] From TikTok to Twitter A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-profit-from-reddit-easy-style-top-13-beginner-strategies/"><u>[Updated] 2024 Approved Profit From Reddit Easy Style Top 13 Beginner Strategies</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-degrees-elevating-your-youtube-videos-for-2024/"><u>[Updated] The Art of Degrees Elevating Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beneath-the-wave-expert-strategies-for-filming-with-gopro-below-water/"><u>2024 Approved Beneath the Wave Expert Strategies for Filming with GoPro Below Water</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-insightful-forecasts-vs-starry-readings-of-destiny/"><u>AI's Insightful Forecasts Vs. Starry Readings of Destiny</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/down-fundamental-aspects-of-asmr-videos/"><u>Breakdown Fundamental Aspects of ASMR Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-dialogue-dynamics-gpt-and-googles-bard-face-off/"><u>Digital Dialogue Dynamics: GPT & Google’s Bard Face-Off</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-web-innovation-through-fourfold-gpt-strategies/"><u>Empowering Web Innovation Through Fourfold GPT Strategies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-12-pro-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 12 Pro Before the Plan Expires</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/installing-and-integrating-codegpt-with-your-vscode-workspace-a-comprehensive-tutorial/"><u>Installing & Integrating CodeGPT with Your VSCode Workspace – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-vs-code-for-swift-development/"><u>Integrating ChatGPT Into VS Code for Swift Development</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-your-career-trajectory-with-these-10-chatgpt-tools-on-linkedin/"><u>Maximize Your Career Trajectory with These 10 ChatGPT Tools on LinkedIn</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-office-operations-with-ai-driven-assistant-gpt/"><u>Streamlining Office Operations with AI-Driven Assistant GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tapping-into-the-future-activating-beta-browser-options/"><u>Tapping Into the Future: Activating Beta Browser Options</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-unsuccessful-image-saving-issue-in-win11/"><u>Troubleshooting Unsuccessful Image Saving Issue in Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-business-success-with-claude-the-smart-ai-choice/"><u>Unlocking Business Success with Claude: The Smart AI Choice</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-architects-crafting-fantasy-realms-for-marvel-for-2024/"><u>[Updated] Architects Crafting Fantasy Realms for Marvel for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-video-monitors-face-off-for-2024/"><u>[Updated] Ultimate Video Monitors Face-Off for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-total-guide-to-video-dimensions-and-proportion-harmony-on-youtube/"><u>2024 Approved Total Guide to Video Dimensions & Proportion Harmony on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/an-in-depth-look-at-winservicesexe-and-its-errors/"><u>An In-Depth Look at Winservices.exe and Its Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-explained-advantages-and-hazards/"><u>Artificial Intelligence Explained: Advantages and Hazards</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-audio-with-chatgpt-tips-for-daw-integration/"><u>Crafting Audio with ChatGPT - Tips for DAW Integration</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/discover-the-hidden-beauty-of-maingears-zero-motherboard-cables-in-newly-available-premium-desktops-starting-from-139n/"><u>Discover the Hidden Beauty of Maingear's Zero Motherboard Cables in Newly Available Premium Desktops Starting From $1,39N</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-efficiency-employ-8-custom-gpt-models-now/"><u>Elevate Efficiency: Employ 8 Custom GPT Models Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/has-ai-outpaced-openais-restraint/"><u>Has AI Outpaced OpenAI's Restraint?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-realme-narzo-n55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Realme Narzo N55 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-18-update-enables-native-phone-call-recording-without-extra-apps-insights-from-zdnet/"><u>IOS 18 Update Enables Native Phone Call Recording Without Extra Apps - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-your-secrets-safe-with-tailored-chatgpt-systems/"><u>Keeping Your Secrets Safe with Tailored ChatGPT Systems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-5-best-online-stop-motion-makers-on-2023-freeandpaid-for-2024/"><u>New 5 Best Online Stop Motion Makers on 2023 Free&Paid for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-edition-of-gpt-your-companion-in-language-study/"><u>Premium Edition of GPT, Your Companion in Language Study</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quit-juxtaposing-voices-of-ai-siri-and-chatgpt-unveiled/"><u>Quit Juxtaposing Voices of AI: Siri and ChatGPT Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-live-gold-is-becoming-xbox-game-pass-core-what-you-need-to-know/"><u>Xbox Live Gold Is Becoming Xbox Game Pass Core: What You Need to Know</u></a></li>
 </ul></div>
 

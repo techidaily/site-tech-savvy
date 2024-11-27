@@ -1,7 +1,7 @@
 ---
 title: "The Future, Unveiled: Essential Enhancements in GPT's Latest Release"
-date: 2024-11-14T16:14:55.050Z
-updated: 2024-11-17T17:16:48.242Z
+date: 2024-11-20T16:29:59.478Z
+updated: 2024-11-27T16:15:39.608Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 * [Multi-Modal Voice and Video Interactions](https://aligracehair.sjv.io/y209r3)
 * [Upgraded Code Analysis](https://appsumo.8odi.net/gmezyk)
 * [Temporary Chat](https://copa.sjv.io/6eoowq)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -56,22 +60,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
 
@@ -87,6 +82,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Multi-Modal Voice and Video Interactions
 
  Everyone [wanted to see more modality in ChatGPT](https://www.makeuseof.com/gpt-5-features-we-want-to-see/) . The new ChatGPT-4o model gives access to multi-modal voice and video interaction, allowing users to engage in continuous voice and video conversations with ChatGPT, like making a video call with a human assistant. ChatGPT-4o's conversation support, video capability, and human-like voice and emotions make this new feature different from other voice assistants.
@@ -98,16 +97,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
@@ -118,22 +108,12 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Temporary Chat
@@ -161,24 +141,20 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-earning-through-youtube-navigating-revenue-without-ads/"><u>[Updated] In 2024, Earning Through YouTube Navigating Revenue Without Ads</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-meeting-live-google-meet-to-youtube-broadcast-guide/"><u>[Updated] Meeting Live Google Meet to YouTube Broadcast Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-optimal-avi-playback-software-for-pcmobile-users/"><u>[Updated] Optimal AVI Playback Software for PC/Mobile Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-huawei-nova-y91-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Huawei Nova Y91 FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/budget-mobile-ransomware-breakthrough-the-encryption-expedition/"><u>Budget Mobile, Ransomware Breakthrough - The Encryption Expedition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-scope-of-googles-ai-gemini-venture/"><u>Decoding the Scope of Google's AI Gemini Venture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discerning-language-focused-computational-methods/"><u>Discerning Language-Focused Computational Methods</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/facebook-insights-how-to-use-it-for-beginners-easily-for-2024/"><u>Facebook Insights How to Use It for Beginners Easily for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-for-everyone-explained-simply/"><u>GPT-4 for Everyone Explained Simply</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-y36i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo Y36i Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/machine-brains-evolve-from-weak-to-formidable/"><u>Machine Brains Evolve: From Weak to Formidable</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/microsofts-ai-journey-enhances-the-bing-experience/"><u>Microsoft's AI Journey Enhances the Bing Experience</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-stay-up-to-date-with-the-latest-movie-trailers-top-ios-apps/"><u>New Stay Up-to-Date with the Latest Movie Trailers Top iOS Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-3d-printing-with-chatgpt-tips-and-tricks/"><u>Optimizing 3D Printing with ChatGPT Tips & Tricks</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/reactivating-your-iphone-what-to-do-if-you-cant-remember-the-lock-screen-code/"><u>Reactivating Your iPhone: What to Do If You Can't Remember the Lock Screen Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategic-business-expansion-via-chatgpt-and-whisper-apis/"><u>Strategic Business Expansion via ChatGPT and Whisper APIs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-privacy-dilemma-with-chatgpt-use/"><u>The Privacy Dilemma with ChatGPT Use</u></a></li>
-<li><a href="https://discover-data.techidaily.com/ultimate-guide-two-proven-techniques-for-kingstons-secure-erasure-process/"><u>Ultimate Guide: Two Proven Techniques for Kingston's Secure Erasure Process</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-join-the-social-scene-facebook-live-streams-on-roku-tv/"><u>2024 Approved Join The Social Scene Facebook Live Streams on Roku TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beating-anxiety-with-innovative-5-chatbot-therapy/"><u>Beating Anxiety with Innovative 5 Chatbot Therapy</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/cdamp3/"><u>CDAからMP3への容易な変換 -無料ガイドと手順図-</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/driving-ai-innovation-the-crucial-function-of-vector-databases/"><u>Driving AI Innovation: The Crucial Function of Vector Databases</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-fluidity-of-video-playback-in-vlc-win/"><u>Enhancing Fluidity of Video Playback in VLC Win</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/essential-tips-protecting-your-windows-10-system-from-cyber-threats-and-malware/"><u>Essential Tips: Protecting Your Windows 10 System From Cyber Threats and Malware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-thresholds-what-it-cant-understand/"><u>GPT's Thresholds: What It Can't Understand</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-10-free-image-transformers-jpg-to-gif-edition/"><u>In 2024, Best 10 FREE Image Transformers JPG to GIF Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/principles-of-learning-not-relying-on-gpt-for-grades/"><u>Principles of Learning: Not Relying on GPT for Grades</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-driver-update-capabilities-in-win7/"><u>Rapid Driver Update Capabilities in Win7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-bilingual-interactions-tips-for-implementing-chatgpt-as-a-powerful-language-translation-aid/"><u>Seamless Bilingual Interactions: Tips for Implementing ChatGPT as a Powerful Language Translation Aid</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/taking-mobile-to-new-heights-how-ai-transforms-your-bing-experience-on-android/"><u>Taking Mobile to New Heights: How AI Transforms Your Bing Experience on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-power-behind-snapchats-my-ai-explored-in-6-aspects/"><u>The Power Behind Snapchat's My AI Explored in 6 Aspects</u></a></li>
 </ul></div>
 

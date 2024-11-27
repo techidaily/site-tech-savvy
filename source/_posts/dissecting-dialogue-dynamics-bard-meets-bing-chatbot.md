@@ -1,7 +1,7 @@
 ---
 title: "Dissecting Dialogue Dynamics: Bard Meets Bing Chatbot"
-date: 2024-11-11T16:00:27.232Z
-updated: 2024-11-17T18:02:24.206Z
+date: 2024-11-21T16:21:35.622Z
+updated: 2024-11-27T16:08:02.273Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
@@ -70,10 +67,7 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 ![Screenshot Bard CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
@@ -89,21 +83,26 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
  As both platforms are going through rapid development, the user experience will continue to improve.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
 
@@ -115,29 +114,9 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Is Best for You: Bing Chat or Google Bard?
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
@@ -174,18 +153,22 @@ thumbnail: https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-fabricate-viral-gifs-via-giphy-portal/"><u>[New] Fabricate Viral Gifs via Giphy Portal</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-adjusting-stream-velocity-in-netflix/"><u>2024 Approved Adjusting Stream Velocity in Netflix</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-enhanced-solutions-for-hr-efficiency/"><u>AI Enhanced Solutions for HR Efficiency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-the-500-word-cap-with-chatgpt/"><u>Bypassing the 500-Word Cap with ChatGPT</u></a></li>
-<li><a href="https://discover-data.techidaily.com/como-realizar-copias-de-seguridad-incrementales-los-mejores-metodos-para-tu-nas-synology/"><u>Cómo Realizar Copias De Seguridad Incrementales: Los Mejores Métodos Para Tu NAS Synology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-epic-scenarios-with-ai-assistance/"><u>Crafting Epic Scenarios with AI Assistance</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommendations-the-highest-rated-18-video-recorders-now/"><u>In 2024, Expert Recommendations The Highest-Rated 18 Video Recorders Now</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pixelpranks-mememakermarket-for-2024/"><u>PixelPranks MemeMakerMarket for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009262147-post-crash-factors-the-conditions-after-an-accident-such-as-fire-or-secondary-impacts-also-contribute-to-the-severity-of-outcomes-for-those-involved/"><u>Post-Crash Factors - The Conditions After an Accident, Such as Fire or Secondary Impacts, Also Contribute to the Severity of Outcomes for Those Involved</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-ace-2-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus Ace 2 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-failed-cloud-operations-on-windows-devices/"><u>Solutions for Failed Cloud Operations on Windows Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/vod-mp4-online-movavi/"><u>VOD MP4 형식으로의 무료 Online 변환 - Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/who-wins-in-ai-battle-the-gpt-showdown-with-bing-and-bard/"><u>Who Wins in AI Battle? The GPT Showdown with Bing and Bard</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-reels-virality-unlocked-leveraging-tiktok-hacks/"><u>[New] 2024 Approved Instagram Reels Virality Unlocked Leveraging TikTok Hacks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-capturing-the-essence-of-facetime-on-facebook/"><u>[New] Capturing the Essence of FaceTime on Facebook</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-unlock-viewer-interest-with-these-5-effective-tiktok-captions/"><u>[New] In 2024, Unlock Viewer Interest with These 5 Effective TikTok Captions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-experts-playbook-top-techniques-for-youtube-to-mpeg-for-2024/"><u>[New] The Expert's Playbook Top Techniques for YouTube-to-MPEG for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-speed-up-video-on-instagram-for-2024/"><u>[Updated] How to Speed Up Video on Instagram for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726222534617-movavi/"><u>無限量數字化翻譯服務 - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-rmvb-files-to-mkv-for-free-with-movavis-web-service-get-going-today/"><u>Convert RMVB Files to MKV for Free with Movavi's Web Service - Get Going Today!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertir-videos-sin-costo-facilmente-cambio-gratuito-de-formatos-m4v-a-mp4-por-medio-de-servicios-en-linea-como-movavi/"><u>Convertir Vídeos Sin Costo Fácilmente: Cambio Gratuito De Formatos M4V a MP4 Por Medio De Servicios en Línea Como Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-d3dx924dll-is-missing-or-not-found-errors/"><u>How to Fix D3dx9_24.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/les-apps-de-diapositives-les-plus-performantes-sur-ios-et-android-un-top-10-comparatif/"><u>Les Apps De Diapositives Les Plus Performantes Sur iOS Et Android : Un Top 10 Comparatif</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpeg-video-to-animated-gif-transformation-no-cost-by-movavi/"><u>MPEG Video to Animated GIF Transformation - No Cost, by Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimiertes-downscaling-von-videos-in-mp4-format-unter-nutzung-der-movavi-softwarelosungen/"><u>Optimiertes Downscaling Von Videos in MP4-Format Unter Nutzung Der Movavi Softwarelösungen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/politica-de-retorno-no-movavi-todos-os-detalhes-explicados/"><u>Política De Retorno No Movavi: Todos Os Detalhes Explicados</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/rotation-revelations-maximizing-media-experience-with-vlc-for-2024/"><u>Rotation Revelations Maximizing Media Experience with VLC for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-to-becoming-a-9gag-meme-genius-for-2024/"><u>Step-by-Step to Becoming a 9GAG Meme Genius for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-premium-gaming-memory-chips-by-movavi-maximizing-your-pcs-potential/"><u>The Ultimate List of Premium Gaming Memory Chips by Movavi: Maximizing Your PC's Potential</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cribing-online-master-the-art-of-free-youtube-conversion-for-2024/"><u>Transcribing Online Master the Art of Free YouTube Conversion for 2024</u></a></li>
 </ul></div>
 

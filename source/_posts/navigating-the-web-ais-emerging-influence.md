@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Web: AI's Emerging Influence"
-date: 2024-11-13T17:28:45.187Z
-updated: 2024-11-17T19:33:26.550Z
+date: 2024-11-26T16:49:30.240Z
+updated: 2024-11-27T17:07:11.617Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/84164da8d50de5c78ef7a37eabfb52e8bc2ce824a
  The more users visit a specific website, the more visibility, traffic, and revenue it can generate using advertising and affiliate marketing strategies, among others. This is why businesses invest in search engine optimization (SEO) strategies to ensure their websites rank on the first page of results—allowing them to get more visibility and revenue.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Generative AI Search Could Impact Website Visibility, Traffic, and Revenue
@@ -55,21 +52,7 @@ thumbnail: https://thmb.techidaily.com/84164da8d50de5c78ef7a37eabfb52e8bc2ce824a
 
 ![Bing AI generative search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chatbot-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Microsoft Bing search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-search-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -81,13 +64,6 @@ Close
 
 ![Screenshot showing Google snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-snippet-search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Potential Implications of AI-Powered Search Engines
 
  Although it is still too early to know precisely how generative AI search will change websites, there are a few potential implications we can anticipate. Considering the traditional search model basically works by trading traffic for free content, online publications struggling with decreased web traffic may suffer from lower advertising revenue and find it harder to stay afloat.
@@ -95,6 +71,10 @@ Close
  Smaller or mid-sized independent websites with less revenue may be the first to be impacted and may become obsolete as these AI chatbots become better at providing personalized answers. Larger publications, on the other hand, may have more resources to come up with new SEO strategies or different innovative approaches to boost their website traffic.
 
  Some online publications might have to rely on AI content generators to write their articles, as they are cheaper and can churn out content faster than humans. This could lead to more bland, unauthentic, and low-quality content on the internet, as [ChatGPT-like tools aren't good enough to replace skilled writers](https://www.makeuseof.com/why-chatgpt-wont-take-writing-job/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Case for Human-Written Content
 
@@ -110,43 +90,45 @@ Close
 
  Independent websites and generative search engines may need to coexist for this new search model to work. In this regard, websites must adopt new strategies and approaches to remain relevant in an AI-driven search engine world. This includes:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Producing High-Quality Niche Content That Provides Value
 
  Although ChatGPT-like tools have been wowing users with their writing prowess, they lack the depth, accuracy, and factual correctness that human-written content provides. These tools are notorious for producing bland, shallow, and generic content, which is not good enough for some users.
 
  Content creators can capitalize on these weak points and fill in the gap to drive more website traffic by producing high-quality, niche content that covers specific topics from different angles and provides unique perspectives to users.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Using Social Media to Drive Traffic to Websites
 
 ![An illustration showing some social media app logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/social-media-apps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If search engines integrated AI chatbots end up redirecting a significant percentage of users away from websites, then online publishers need to find new ways to make up for this lost traffic. Social media is the next best place to do this, providing a direct platform to reach potential readers and drive them back to websites.
 
  Content creators can use social media platforms such as TikTok, Twitter, and Facebook to promote their content and attract more visitors.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Getting Familiar With AI Tools
 
  Artificial intelligence is not going anywhere any time soon, so it would be wise to jump on the bandwagon and get familiar with AI tools that can help you thrive. Although [content writers should not rely on AI chatbots](https://www.makeuseof.com/why-content-writers-cant-rely-ai-chatbots/) to write their articles, there are other ways to leverage these tools, including generating content ideas, researching, overcoming writer's block, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Becoming a Trusted Source of Information
 
  AI chatbots are excellent at generating coherent responses but not so good at fact-checking and verifying the accuracy of the information provided. There are already several instances of Bing's chatbot providing misleading information, which can negatively affect users' trust in AI-powered search engines.
 
 [Skilled content writers outperform AI chatbots](https://www.makeuseof.com/ways-content-writers-outperform-ai/) by fact-checking and producing relatable content that instills trust and confidence in readers. By becoming a trusted source of information, independent websites can differentiate themselves from AI-generated content and become the go-to place for readers looking for factual information.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Embracing Subscription Models
 
@@ -177,22 +159,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-preserving-your-nintendo-switch-experiences-a-guide/"><u>[New] 2024 Approved Preserving Your Nintendo Switch Experiences A Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-deciding-the-optimal-social-media-platform-tiktok-vs-youtube-shorts/"><u>[Updated] 2024 Approved Deciding the Optimal Social Media Platform TikTok Vs. YouTube Shorts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-assessment-of-vidmas-impact-on-modern-screen-recorders-for-2024/"><u>[Updated] Assessment of Vidma's Impact on Modern Screen Recorders for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-most-viewed-vids-worldwide-roundup-for-2024/"><u>[Updated] Most Viewed Vids Worldwide Roundup for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-truth-behind-asmr-video-enthusiasm-for-2024/"><u>[Updated] The Truth Behind ASMR Video Enthusiasm for 2024</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/googlegmail/"><u>「GoogleのGmailで送信後にメールが見当たらない場合、解決方法を紹介」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-human-touch-and-machine-precision-in-editing/"><u>Balancing Human Touch and Machine Precision in Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-chatgpt-bans-tips-and-tricks-explained/"><u>Bypassing ChatGPT Bans: Tips and Tricks Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-chatgpt-pales-when-it-comes-to-nuanced-writing-tasks/"><u>How ChatGPT Pales When It Comes to Nuanced Writing Tasks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-spark-10c-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Spark 10C FRP In 3 Different Ways</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-use-of-chatgpt-for-google-apps/"><u>Innovative Use of ChatGPT for Google Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-the-power-of-custom-commands/"><u>Mastering ChatGPT: The Power of Custom Commands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-pc-repair-a-guide-with-gpt-3-help/"><u>Mastering PC Repair: A Guide with GPT-3 Help</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-launches-an-ai-detector-tool-to-counter-chatgpt-generated-text/"><u>OpenAI Launches an AI Detector Tool to Counter ChatGPT-Generated Text</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/social-platforms-smartbots-which-ai-fits-your-needs/"><u>Social Platforms, Smartbots: Which AI Fits Your Needs?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-handbook-insta-to-tik-tok-connectivity-for-2024/"><u>Ultimate Handbook Insta-to-Tik Tok Connectivity for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96169719-9780824865672-zen-sand/"><u>Zen Sand | Free Book</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-essential-steps-for-resizing-videos-in-igtv/"><u>[Updated] In 2024, Essential Steps for Resizing Videos in IGTV</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/access-premium-quality-tamil-films-at-no-cost-hd-downloads-available-on-all-platforms-including-mobile-and-television/"><u>Access Premium Quality Tamil Films at No Cost – HD Downloads Available on All Platforms Including Mobile and Television</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-about-openais-revolutionary-tech/"><u>All About OpenAI's Revolutionary Tech</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/download-free-image-restoration-tool-repair-damaged-photos-at-no-cost/"><u>Download Free Image Restoration Tool: Repair Damaged Photos at No Cost</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/end-audio-blackout-vocalize-tweet-videos/"><u>End Audio Blackout Vocalize Tweet Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-heart-of-video-editing-filmoras-favorites/"><u>In 2024, The Heart of Video Editing Filmora's Favorites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inspiration-infused-da-vincis-latest-ai-prompts-for-artists/"><u>Inspiration Infused: Da Vinci's Latest AI Prompts for Artists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opt-for-basic-or-advanced-chatgpt-functionality/"><u>Opt for Basic or Advanced ChatGPT Functionality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-ai-transcribers-for-speech/"><u>Pinnacle AI Transcribers for Speech</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shellscripts-for-shellgpt-interaction-with-gpt-models/"><u>ShellScripts for ShellGPT Interaction with GPT Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shut-down-surveillance-how-to-unsubscribe-from-gpt/"><u>Shut Down Surveillance – How to Unsubscribe From GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-synergy-of-canva-and-gpt-for-design-freedom/"><u>The Synergy of Canva and GPT for Design Freedom</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-helldivers-ii-solutions-for-black-screen-at-game-start/"><u>Troubleshooting Helldivers II: Solutions for Black Screen at Game Start</u></a></li>
 </ul></div>
 

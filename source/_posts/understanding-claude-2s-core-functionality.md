@@ -1,7 +1,7 @@
 ---
 title: Understanding Claude 2'S Core Functionality
-date: 2024-11-15T18:49:58.250Z
-updated: 2024-11-17T19:04:17.556Z
+date: 2024-11-23T16:51:05.023Z
+updated: 2024-11-27T16:27:13.563Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ The AI industry moves like a whirlwind. Each day brings a new AI innovation, a s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Claude 2?
 
  Claude 2 is a [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) developed by Anthropic AI as a base for its Claude AI chatbot. It is a successor to the Claude 1 large language model released in the first quarter of 2023\. If you haven't heard of Claude AI, it's understandable. The AI model is previously unreleased on a public-facing platform, unlike Bard, ChatGPT, or Bing AI.
@@ -35,10 +39,7 @@ The AI industry moves like a whirlwind. Each day brings a new AI innovation, a s
  Trained on a massive dataset of data scrapped from all corners of the web, Claude is built to emphasize fluid and creative conversations with additional attention to safety. While safety and guardrails are sometimes an afterthought for some AI language models, Claude was designed to be as safe as possible from its foundational stage. But what's a safe AI model if it's not useful?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Can You Do With Claude AI?
@@ -46,10 +47,7 @@ The AI industry moves like a whirlwind. Each day brings a new AI innovation, a s
 ![AnthropicAI Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/anthropicai-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're wondering what you can do with the Claude AI, well, there's a lot. Like OpenAI's ChatGPT and Google's Bard, AnthropicAI's Claude can do most of what the new generation of AI chatbots can do. Everything from writing poems, speeches, and resumes to summarizing entire books and even writing code, is within Claude's capabilities.
@@ -65,28 +63,12 @@ The AI industry moves like a whirlwind. Each day brings a new AI innovation, a s
  If you are in the UK or the US, Claude AI is in open beta, and you can try it right now. Head to [Claude.ai](https://claude.ai) to sign up and start using the chatbot right away.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does Claude AI Compare to Other AI Chatbots?
 
 ![Claude 2 answers questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/claude-2-answers-questions.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [ChatGPT, Bing AI, and Bard are the three best AI chatbots](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) available. So, how does Claude AI compare to these three?
 
@@ -97,6 +79,10 @@ The AI industry moves like a whirlwind. Each day brings a new AI innovation, a s
  In terms of coding, Claude AI outperforms Bing AI in some select cases and almost always outdoes Bard AI. ChatGPT and Claude AI are almost the same in terms of coding abilities, although ChatGPT (with GPT-4) is seemingly more robust and able to handle more complicated tasks.
 
  All in all, Claude AI seems to be a solid alternative to any of the top three AI chatbots that are currently dominating the field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Claude AI: A ChatGPT Killer in the Making?
 
@@ -119,22 +105,22 @@ The AI industry moves like a whirlwind. Each day brings a new AI innovation, a s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-professional-content-creators-guide-studio-vs-beta-platform/"><u>[Updated] In 2024, Professional Content Creator's Guide Studio Vs. Beta Platform</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-unoriginal-content-in-ai-dialogue/"><u>Avoiding Unoriginal Content in AI Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claudios-battle-for-productivity-gpt-vs-everyday-task-helper/"><u>Claudio's Battle for Productivity: GPT Vs. Everyday Task Helper</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excavate-new-reads-discover-these-5-leading-ai-powered-book-services/"><u>Excavate New Reads: Discover These 5 Leading AI-Powered Book Services</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-downloading-of-films-on-your-apple-tablet-ipad-mini-air-and-pro-for-offline-viewing/"><u>Free Downloading of Films on Your Apple Tablet (iPad Mini, Air & Pro) for Offline Viewing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-converter-change-mod-files-to-mp4-format-with-ease/"><u>Free Online Converter: Change MOD Files to MP4 Format with Ease</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-a38-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-ascent-of-jake-paul-in-online-video-fame/"><u>In 2024, The Ascent of Jake Paul in Online Video Fame</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/juxtaposing-innovations-uncovering-the-differences-between-snapchat-and-bing-chat-ais-over-skype/"><u>Juxtaposing Innovations: Uncovering the Differences Between Snapchat and Bing Chat AIs Over Skype</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/love-in-a-digital-age-chatgpt-to-the-rescue/"><u>Love in a Digital Age: ChatGPT to the Rescue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-healthcare-and-nutrition-with-gpt-plugins/"><u>Revolutionize Healthcare & Nutrition with GPT Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-beginners-path-to-auto-gpt-installation-in-ubuntu/"><u>The Beginner's Path to Auto-GPT Installation in Ubuntu</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-3-applicazioni-di-backup-e-mail-piu-popolari-con-cliente-imap/"><u>Top 3 Applicazioni Di Backup E-Mail Più Popolari Con Cliente IMAP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ransomware-decode-on-the-go-tech-guide/"><u>Understanding Ransomware Decode - On-the-Go Tech Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unsubscribe-from-gpt-communication/"><u>Unsubscribe From GPT Communication</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-crafting-compelling-podcast-names-a-detailed-guide-with-idea-examples/"><u>[New] In 2024, Crafting Compelling Podcast Names A Detailed Guide with Idea Examples</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-increase-followers-on-instagram-ultimate-guide/"><u>[New] In 2024, How to Increase Followers on Instagram - Ultimate Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-ultimate-selection-of-zero-cost-online-terminal-access-for-2024/"><u>[New] Ultimate Selection of Zero-Cost Online Terminal Access for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-storytellers-supreme-curated-yt-channels/"><u>[Updated] 2024 Approved Storytellers Supreme Curated YT Channels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snapsavvy-ai-revolutionizing-edit-processes/"><u>[Updated] SnapSavvy AI Revolutionizing Edit Processes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tips-choosing-the-right-fps-for-your-slow-motion-vids/"><u>[Updated] Top Tips Choosing the Right FPS for Your Slow Motion Vids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flvasfmovavi/"><u>在線免費FLV與ASF間改編工具，用Movavi進行影片格式轉換</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-sans-frais-de-videos-m4v-au-format-wma-en-ligne-via-movavi/"><u>Conversion Sans Frais De Vidéos M4V Au Format WMA En Ligne via Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-libera-online-da-file-wma-a-formato-ogg-con-movavi/"><u>Conversione Libera Online: Da File WMA a Formato Ogg Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertidor-gratuito-de-mp3-a-flac-en-linea-por-el-dia-movavi/"><u>Convertidor Gratuito De MP3 a FLAC en Línea Por El Día - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-file-converter-ram-arquivos-pelo-movavi/"><u>Gratis Online File Converter - Ram Arquivos Pelo Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-convertitore-di-file-wma-su-internet-con-movavi/"><u>Gratuit@ - Convertitore Di File WMA Su Internet Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-download-and-use-imovie-for-your-pc-step-by-step-instructions/"><u>How to Download and Use iMovie for Your PC - Step-by-Step Instructions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-nokia-105-classic-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Nokia 105 Classic by Name | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y27-4g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y27 4G PC | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-live-coverage-10-key-approaches-in-cricket-streaming/"><u>Mastering Live Coverage 10 Key Approaches in Cricket Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tus-fotos-en-formato-cr2-directamente-al-popular-jpg-con-facilidad-guia-completa/"><u>Transforma Tus Fotos en Formato CR2 Directamente Al Popular JPG Con Facilidad - Guía Completa</u></a></li>
 </ul></div>
 

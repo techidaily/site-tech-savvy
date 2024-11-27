@@ -1,7 +1,7 @@
 ---
 title: Untrustworthy Tech? ZeroGPT's Imperfections Show
-date: 2024-11-14T17:51:29.888Z
-updated: 2024-11-17T16:45:25.966Z
+date: 2024-11-20T16:14:21.626Z
+updated: 2024-11-27T16:46:06.791Z
 tags:
   - chatgpt
   - open-ai
@@ -36,55 +36,29 @@ thumbnail: https://thmb.techidaily.com/23ad59430c3816e2e36652395dc2a68a894960015
 
  For material, we thought it would be quite fun to give ChatGPT a crack at writing an intro for this article and then comparing it against the “human-generated” intro:
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Test One: Comparing a Human and AI-Generated Article Intro
 
  The first thing we did was get ChatGPT to generate an introduction. We entered the title and gave it no further information. For the record, we used GPT-3.5 for the test.
 
 ![Screenshot of ChatGPT generated intro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-generated-intro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We then copied the text and pasted it into ZeroGPT. As you can see, the results were less than stellar.
 
 ![Screenshot of ZeroGPT incorrect response to AI intro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-incorrect-response-to-ai-intro.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  An inconspicuous start, but it does illustrate just how effective AI chatbots are. To complete the test, we let ZeroGPT analyze a human-created draft intro.
 
 ![Screenshot of ChatGPT getting human generated intro correct](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-getting-human-generated-intro-correct.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At least it got this part correct. Overall, ZeroGPT failed in this round. It did determine that at least part of the AI-generated introduction was suspect but failed to highlight specific issues.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Test Two: The False Positive Problem
 
@@ -97,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/23ad59430c3816e2e36652395dc2a68a894960015
  To be fair, I was aiming for this result. I kept the text generic and used “salesy” language. But the point that a human wrote this remains just as valid. This is not an inconvenience or something that can just be shrugged off. Errors like this can have serious ramifications for writers, students, and other professionals who create written works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Test Three: Testing ZeroGPT on Fiction
@@ -125,15 +96,16 @@ thumbnail: https://thmb.techidaily.com/23ad59430c3816e2e36652395dc2a68a894960015
 
 ![Screenshot of ZeroGPT correctly identifying AI news article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-correctly-identifying-ai-news-article.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The tool so consistently flagged each news article as AI-generated that we decided to test it on a dummy news article that we wrote for the purpose.
 
 ![Screenshot of ZeroGPT misidentifying news story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-misidentifying-news-story.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It did at least identify some of the articles as human-generated, but it flagged over 70% as AI-generated. Again, we need to be fair here; this was a fairly basic re-hash of the Bing article and was hardly Pulitzer Prize quality.
@@ -157,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/23ad59430c3816e2e36652395dc2a68a894960015
 ## Looking to the Future of AI Detection
 
 ![cyber-glasses-1938449_1280](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cyber-glasses-1938449_1280.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This may sound like we are knocking tools like ZeroGPT. This isn’t the case; they face massive challenges, and the technology is barely out of diapers. The rapid uptake of tools like ChatGPT has created a demand for AI detection, and the technology should be given a chance to mature and learn.
 
@@ -193,24 +169,17 @@ thumbnail: https://thmb.techidaily.com/23ad59430c3816e2e36652395dc2a68a894960015
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-be-inspired-today-the-essentials-of-stunning-photos-on-ig/"><u>[New] 2024 Approved Be Inspired Today! The Essentials of Stunning Photos on IG</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-discovering-soft-amplification-techniques-in-garageband/"><u>[New] 2024 Approved Discovering Soft Amplification Techniques in Garageband</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-portfolio-exceptional-webcam-supports/"><u>[New] Prime Portfolio Exceptional Webcam Supports</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-producing-square-videos-in-imovie-for-instagram-for-2024/"><u>[Updated] Step-by-Step Producing Square Videos in iMovie for Instagram for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-secrets-integrating-text-overlays-in-your-clips/"><u>[Updated] YouTube's Secrets Integrating Text Overlays in Your Clips</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/adherence-to-standards-such-as-asme-b311-and-b313-ensures-safety-and-reliability-in-piping-systems/"><u>Adherence to Standards Such as ASME B31.1 and B31.3 Ensures Safety and Reliability in Piping Systems.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/command-your-car-to-evolve-with-help-from-chatgpt/"><u>Command Your Car to Evolve with Help From ChatGPT</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/exploring-magix-music-maker-2024s-features-and-benefits/"><u>Exploring Magix Music Maker 2024'S Features & Benefits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-capabilities-of-next-gen-llama-technology/"><u>Exploring the Capabilities of Next-Gen Llama Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfecting-the-chatflow-manage-gpt-3-with-folders/"><u>Perfecting the ChatFlow: Manage GPT-3 with Folders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rethinking-occupations-with-generative-ai/"><u>Rethinking Occupations with Generative AI</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-updating-epson-xp-640-driver-for-windows-operating-system/"><u>Step-by-Step Guide: Updating Epson XP-640 Driver for Windows Operating System</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-finest-free-iphone-composition-and-photo-editing-tools-reviewed-for-2024/"><u>The Finest FREE iPhone Composition and Photo Editing Tools Reviewed for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-checklist-for-verifying-wellness-tips-from-ai/"><u>The Ultimate Checklist for Verifying Wellness Tips From AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-29-alternatives-to-gpts-pos-software/"><u>Top 29 Alternatives to GPT's POS Software</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/ultimate-tutorial-how-to-fix-and-rebuild-corrupted-partitions-in-windows-operating-systems/"><u>Ultimate Tutorial: How to Fix and Rebuild Corrupted Partitions in Windows Operating Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-how-computers-cant-take-over-creative-writing-jobs/"><u>Unveiling How Computers Can't Take Over Creative Writing Jobs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-vector-databases-in-ai/"><u>Unveiling the Power of Vector Databases in AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-blind-trust-can-lead-us-astray-in-the-age-of-ai/"><u>Why Blind Trust Can Lead Us Astray in the Age of AI</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-the-art-of-youtube-split-screens/"><u>[New] Unveiling the Art of YouTube Split-Screens</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-leverage-youtube-metrics-for-enhanced-visibility/"><u>[Updated] Leverage YouTube Metrics for Enhanced Visibility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-turing-test-and-envisioning-a-winner/"><u>Decoding the Turing Test & Envisioning a Winner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excel-ai-transformation-via-chatgpt-expertise/"><u>Excel AI Transformation via ChatGPT Expertise</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mobilize-your-storytelling-crafting-content-with-a-phone-for-2024/"><u>Mobilize Your Storytelling Crafting Content with a Phone for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proposed-alterations-streamlining-the-chatgpt-plugin-shop/"><u>Proposed Alterations: Streamlining the ChatGPT Plugin Shop</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/quick-fixes-to-keep-your-photos-app-fixed-on-win-11-for-2024/"><u>Quick Fixes to Keep Your Photos App Fixed on Win 11 for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simplify-your-digital-album-merging-duplicate-images-across-all-your-apple-devices/"><u>Simplify Your Digital Album: Merging Duplicate Images Across All Your Apple Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/to-use-or-not-to-use-a-localized-legal-expert-system-weighing-your-options/"><u>To Use or Not to Use a Localized Legal Expert System? Weighing Your Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-false-projections-in-artificial-intelligence-outputs/"><u>Unmasking False Projections in Artificial Intelligence Outputs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-artificial-intelligence-outshine-horoscopes/"><u>Will Artificial Intelligence Outshine Horoscopes?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Key to Spotting Fakebots: Mastery of Mention Cues"
-date: 2024-11-11T17:06:29.633Z
-updated: 2024-11-17T16:50:57.121Z
+date: 2024-11-23T16:46:36.237Z
+updated: 2024-11-27T16:34:31.619Z
 tags:
   - chatgpt
   - open-ai
@@ -20,23 +20,14 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is ChatGPT's GPT Mentions Feature?](https://appsumo.8odi.net/gmezyk)
 * [How to Use the GPT Mentions Feature](https://boody-eco-wear.pxf.io/qyo4oo)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -66,11 +57,19 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
  So, how can you use this?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
@@ -78,23 +77,9 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, you're chatting with Canva until you click "X" on the **Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
@@ -111,21 +96,16 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, we have hotels, flights, and trails for our trip all in one chat!
 
@@ -148,14 +128,20 @@ thumbnail: https://thmb.techidaily.com/971916a4fd1f7dd57973936b37ec8e66ff6e047a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/altitude-adeptness-the-shift-from-standard-to-pro-pilots/"><u>Altitude Adeptness: The Shift From Standard to Pro Pilots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-gpt-for-the-modern-workplace/"><u>Auto-GPT for the Modern Workplace</u></a></li>
-<li><a href="https://techidaily.com/before-you-hit-share-the-essential-guide-to-secure-and-clean-your-links/"><u>Before You Hit 'Share': The Essential Guide to Secure and Clean Your Links</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-academic-perks-essential-uses-for-student-success/"><u>ChatGPT's Academic Perks: Essential Uses for Student Success</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-volume-transitions-in-lumafusion/"><u>In 2024, Mastering Volume Transitions in Lumafusion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-ai-essential-strategies-for-modern-workspaces/"><u>Mastering AI: Essential Strategies for Modern Workspaces</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-hot-30is-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Infinix Hot 30is Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here-for-2024/"><u>[New] How to Transcribe Speech to Text in Microsoft Word Learn It Here for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-skype-call-recording-methodology-explained/"><u>[New] The Ultimate Skype Call Recording Methodology Explained</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-photo-browser-with-lightning-speed-for-2024/"><u>[New] Top Photo Browser with Lightning Speed for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-nokia-130-music-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Nokia 130 Music to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-guide-recording-netflix-videos-on-a-mac/"><u>In 2024, Essential Guide Recording Netflix Videos on a Mac</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/most-effective-gratis-applications-to-retrieve-lost-files-after-hard-drive-format/"><u>Most Effective Gratis Applications to Retrieve Lost Files After Hard Drive Format</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphone-charging-pause-alert-problem-with-these-8-steps/"><u>Solve Your iPhone Charging Pause Alert Problem with These 8 Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tutorial-streaming-and-converting-dvd-movies-directly-from-your-iphone/"><u>Tutorial: Streaming and Converting DVD Movies Directly From Your iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-converting-mov-video-format-to-crystal-clear-jpeg-photos/"><u>Ultimate Guide: Converting MOV Video Format to Crystal Clear JPEG Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-premier-video-format-changer-from-dvd-to-avi-on-windows-11/"><u>Ultimate Guide: Premier Video Format Changer From DVD to AVI on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-top-methods-for-dvd-to-audio-conversion-using-premium-software/"><u>Ultimate Guide: Top Methods for DVD-to-Audio Conversion Using Premium Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tips-on-swiftly-transforming-videos-for-smartphones/"><u>Ultimate Tips on Swiftly Transforming Videos for Smartphones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-of-matroska-video-files-mkv-step-by-step-playback-instructions/"><u>Unlocking the Secrets of Matroska Video Files (MKV): Step-by-Step Playback Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wav-and-m4a/"><u>WAV & M4A ファイル形式の違い：変換手段で覚え直しましょう</u></a></li>
 </ul></div>
 

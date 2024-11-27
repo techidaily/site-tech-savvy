@@ -1,7 +1,7 @@
 ---
 title: The Limits of Turing Test in Today's AI Lands Market
-date: 2024-11-11T17:16:50.443Z
-updated: 2024-11-17T17:52:17.036Z
+date: 2024-11-20T16:01:52.791Z
+updated: 2024-11-27T16:29:49.901Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/be4c77e4c47208a0c6a89a5dc018d347b3f89d313
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is the Turing Test Outdated?
 
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
 
@@ -46,53 +54,37 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
  It's possible that [future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. The Marcus Test
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the [New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment, [GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/), but so far, there is currently no AI model that can comprehend videos like a human. [Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  According to a research paper published on [PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112), the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the [visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can [identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the [thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014\.
 
@@ -141,17 +133,18 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-prime-fb-extra-tools-enhanced-firefox-version-compatibility/"><u>[New] Prime FB Extra Tools Enhanced Firefox Version Compatibility</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-from-tiktok-to-instagram-strategies-to-amplify-your-reels-virality/"><u>2024 Approved From TikTok to Instagram Strategies to Amplify Your Reel's Virality</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-set-extended-video-duration-on-youtube/"><u>2024 Approved Set Extended Video Duration on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-for-the-ordinary-person-claude-versus-gpt-analysis/"><u>AI for the Ordinary Person: Claude Versus GPT Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-revolutionize-your-side-business-revenue/"><u>Can ChatGPT Revolutionize Your Side Business Revenue?</u></a></li>
-<li><a href="https://facebook.techidaily.com/crafting-connections-the-essential-guide-to-social-integration-for-xbox-players/"><u>Crafting Connections: The Essential Guide to Social Integration for Xbox Players</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-workings-an-insight-into-chatgpts-shared-links/"><u>Decoding the Workings: An Insight Into ChatGPT’s Shared Links</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-access-revamped-chatbot-experience-chatgpt-plus-20-mo-us/"><u>Exclusive Access: Revamped ChatBot Experience – ChatGPT Plus ($20 Mo, US)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-find-x7-ultra-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Find X7 Ultra FRP Bypass</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/navigating-the-setup-of-a-nintendo-network-id-for-your-3ds-console/"><u>Navigating the Setup of a Nintendo Network ID for Your 3DS Console</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openai-fires-ceo-sam-altman-but-what-does-that-mean-for-chatgpt/"><u>OpenAI Fires CEO Sam Altman, but What Does That Mean for ChatGPT?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/schnell-und-einfach-hochwertige-videokonvertierung-dvd-zu-mp4-perfekt-gemacht/"><u>Schnell Und Einfach: Hochwertige Videokonvertierung - DVD Zu MP4 Perfekt Gemacht</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-youtube-editors-handbook-from-basics-to-pros/"><u>2024 Approved The YouTube Editor's Handbook From Basics to Pros</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/converti-file-opus-a-formato-m4a-gratuitamente-con-moviemaker/"><u>Converti File Opus a Formato M4A Gratuitamente Con MovieMaker</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-screen-with-ordered-icons/"><u>Enhance Your Screen with Ordered Icons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-3gp-to-mjpeg-using-movavi/"><u>Free Online Converter: Transform 3GP to MJPEG Using Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-lava-agni-2-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Lava Agni 2 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/key-technological-milestones-transforming-society-since-the-mid-19th-century/"><u>Key Technological Milestones Transforming Society Since the Mid-19th Century</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/moveavis-no-cost-online-converter-effortlessly-change-mp4-to-webm-streaming-files/"><u>Moveavi's No-Cost Online Converter: Effortlessly Change MP4 to WebM Streaming Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3-do-mp4-konvertirany-online-bez-cena-prevadzku-movavi/"><u>MP3 Do MP4 Konvertírány Online Bez Cena - Prevádzku Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repair-techniques-for-defective-primary-audio-connector-a-comprehensive-guide/"><u>Repair Techniques for Defective Primary Audio Connector: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-overcoming-the-cannot-read-file-or-folder-error-in-windows/"><u>Step-by-Step Solution: Overcoming the 'Cannot Read File or Folder' Error in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-musica-y-dialogos-de-pelicula-en-mp3-sin-gastos-utilizando-la-herramienta-convertidora-en-linea-gratuita-para-archivos-vob/"><u>Transforma Música Y Diálogos De Película en MP3 Sin Gastos Utilizando La Herramienta Convertidora en Línea Gratuita Para Archivos VOB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/poshagovoe-povtorenie-kak-sdelat-videouroki-na-movavi-instrukciya-po-formirovaniyu-tematicheskogo-kontenta/"><u>Пошаговое Повторение - Как Сделать Видеоуроки На MOVAVI: Инструкция По Формированию Тематического Контента</u></a></li>
 </ul></div>
 

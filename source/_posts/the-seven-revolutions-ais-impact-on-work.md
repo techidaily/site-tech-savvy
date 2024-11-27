@@ -1,7 +1,7 @@
 ---
 title: "The Seven Revolutions: AI's Impact on Work"
-date: 2024-11-12T16:58:28.838Z
-updated: 2024-11-17T17:53:51.066Z
+date: 2024-11-24T16:38:23.342Z
+updated: 2024-11-27T16:21:59.405Z
 tags:
   - chatgpt
   - open-ai
@@ -49,10 +49,7 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
  To do this, we envision companies like Google and Microsoft hiring massive teams of fact-checkers in the near future to train their [AI-powered search engines](https://www.makeuseof.com/ways-ai-search-engines-change-internet/) like Bard and Bing Chat.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Productivity Will Skyrocket for White-Collar Workers
@@ -71,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
 
 ![Two women looking at a computer and iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creative-activities-that-boost-your-mental-health.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Speaking of creativity, creative AI tools like DALL-E and Midjourney have taken the art world by storm. We won't get into how many artists are protesting against the use of such tools, as they deem it unfair to have them use their copyrighted artwork for reference.
 
  On a more practical note, creative AI tools will allow artists, graphic designers, interior designers, fashion designers, and product designers to work and come up with new ideas much faster. By having the AI create a rough first draft for you, it allows you the flexibility to quickly make tweaks and adjustments later on to churn out original content faster.
@@ -87,10 +77,7 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
  Generative AI hasn't quite mastered video creation yet, but given the rapid advancement of these tools, we wouldn't be surprised if we start seeing AI-made videos that are watchable (if not great) by the end of 2023\. Once good enough, filmmakers may use the tech for inspiration too.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. AI Will Run Fully-Automated Social Media Campaigns
@@ -104,10 +91,7 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
  All you'll need to do, as a social media manager, is simply type your requirements along with contextual specifics such as company history, product description, target audience, tonality, and the timeline of the campaign. The tool will take care of the rest; it'll create designs, schedule posts, put up stories, and respond to comments on your behalf.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Automation Will Lead to Shorter Workdays
@@ -118,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
 
  Since [human capital will become less necessary](https://www.makeuseof.com/types-of-jobs-risk-ai/) going forward, companies will increasingly embrace automation in white-collar jobs. But since some level of human intervention will still be required, employees in some industries will be asked to work fewer hours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Blue-Collar Jobs Will Become Far More Lucrative
 
 ![Feature cover of a happy construction worker behind his desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/feature-cover-of-a-happy-construction-worker-behind-his-desk.jpg)
@@ -127,10 +115,7 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
  Generative AI can easily learn the patterns of a desk job and produce useful results, but all of those capabilities are limited to software. This is not to say that AI isn't used in some blue-collar jobs, as it is, but software alone can't fix a leaky toilet, plow land, build a house, perform pest control, remove dents from your car, or repair a broken air conditioner.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adapt and Work With AI
@@ -158,16 +143,24 @@ thumbnail: https://thmb.techidaily.com/facaba7a5fd4b37097e51780f00827156432b8b7f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-windows-11-mov-to-avi-conversion-tutorial-for-2024/"><u>[New] Windows 11 MOV to AVI Conversion Tutorial for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-enhance-browsing-with-effortless-side-by-side-view-on-chromes-fullscreen/"><u>[Updated] 2024 Approved Enhance Browsing with Effortless Side-by-Side View on Chrome's Fullscreen</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-panoramic-photography-with-a-fisheye-effect/"><u>[Updated] Mastering Panoramic Photography with a Fisheye Effect</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/correcting-contact-details-in-protonvpn-extension/"><u>Correcting Contact Details in ProtonVPN Extension</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-7-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone 7 for Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-through-idea-stagnation-with-these-5-ai-assistants/"><u>Navigate Through Idea Stagnation With These 5 AI Assistants</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-interviewing-techniques-with-chatgpt/"><u>Optimize Your Interviewing Techniques with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quit-juxtaposing-ai-pros-and-cons-insightful-observations/"><u>Quit Juxtaposing AI Pros & Cons: Insightful Observations</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/sdr-to-hdri-step-by-step-video-enhancement-guide-for-2024/"><u>SDR to HDRI Step-by-Step Video Enhancement Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-workplace-evolved-embracing-ai-for-personal-success/"><u>The Workplace Evolved: Embracing AI for Personal Success</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-dvd-media-effective-methods-for-stripping-drm-on-windows-and-mac-computers/"><u>Unlocking Your DVD Media: Effective Methods for Stripping DRM on Windows and Mac Computers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-exclusive-list-20-complimentary-tools-for-fb-ad-producers/"><u>[New] Exclusive List 20 Complimentary Tools for Fb Ad Producers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchats-visual-language-mastering-the-art-of-gifting-with-gifs/"><u>[New] Snapchat's Visual Language Mastering the Art of Gifting with Gifs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-detective-sagas-embark-on-4-thrilling-virtual-investigations/"><u>AI Detective Sagas: Embark on 4 Thrilling Virtual Investigations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/airpods-evolution-continues-as-apple-upgrades-models-with-impressive-4-key-features/"><u>AirPods Evolution Continues as Apple Upgrades Models with Impressive 4 Key Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/busting-text-imitations-openais-ai-sleuth-for-chatgpt/"><u>Busting Text Imitations: OpenAI's AI Sleuth for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-future-languages-with-ai-and-assessing-job-market-relevance/"><u>Crafting Future Languages with AI & Assessing Job Market Relevance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-github-dialogues-with-enhanced-chatgpt-use/"><u>Cutting-Edge Github Dialogues with Enhanced ChatGPT Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proof-companies-with-key-ai-technologies-for-owners/"><u>Future-Proof Companies with Key AI Technologies for Owners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-transforming-your-spotify-listening-history-into-text-records/"><u>Guide: Transforming Your Spotify Listening History Into Text Records</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-play-40c-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Honor Play 40C</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nokia-c12-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nokia C12 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-ranking-the-best-ios-videography-tech/"><u>In 2024, Ranking the Best iOS Videography Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ai-and-laws-new-terrain/"><u>Navigating AI and Law's New Terrain</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-guide-moving-your-favorite-app-from-one-ipad-to-the-next/"><u>Step-by-Step Guide: Moving Your Favorite App From One iPad to the Next</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solution-dealing-with-hulu-error-code-rununk13-issues/"><u>Step-by-Step Solution: Dealing with Hulu Error Code RUNUNK13 Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-top-notch-iphone-compatible-security-system-that-blends-in-seamlessly-a-hidden-gem-featured/"><u>Unlock Your Potential: Top-Notch iPhone Compatible Security System That Blends In Seamlessly - A Hidden Gem Featured !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-human-brain-triumphs-over-machine-learning/"><u>Why the Human Brain Triumphs Over Machine Learning</u></a></li>
 </ul></div>
 

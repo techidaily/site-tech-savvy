@@ -1,7 +1,7 @@
 ---
 title: The Unheard Warnings in the Rise of Artificial Counseling
-date: 2024-11-13T18:41:01.087Z
-updated: 2024-11-17T18:34:18.635Z
+date: 2024-11-25T16:11:38.458Z
+updated: 2024-11-27T16:21:43.248Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a6911
 
  When it comes to mental health treatment, avoid disreputable sources altogether. Managing mental conditions can already be challenging. Having to fact-check advice puts you under unnecessary stress. Instead, focus on your recovery.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. AI Has Limited Real-World Knowledge
 
  Most generative tools have limited real-world knowledge. For instance, OpenAI only trained ChatGPT on information up until 2021\. The below screenshot of a conversation shows its struggle to pull recent reports on anxiety disorder.
@@ -54,10 +47,7 @@ thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a6911
  Likewise, ask about disproven methods. Blindly following controversial, groundless practices based on alternative medicine may worsen your condition. Stick to evidence-based options.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Security Restrictions Prohibit Certain Topics
@@ -68,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a6911
 
  However, you should be free to share your negative thoughts—they’re a reality for many. Suppressing them may just cause more complications. Only guided, evidence-based treatment plans will help patients overcome unhealthy coping mechanisms.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. AI Can’t Prescribe Medication
 
  Only licensed psychiatrists prescribe medication. AI chatbots just provide basic details about the treatment programs that mental health patients undergo. No app can write prescriptions. Even if you’ve been taking the same medicines for years, you’ll still need a doctor’s prescription.
@@ -83,9 +66,21 @@ thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a6911
 
 ![Bing Chat Explains Anxiety Medication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-prescription-meds.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Meanwhile, ChatGPT diverts the topic to alternative medicine. It likely limits outputs to prevent saying anything harmful or misleading.
 
 ![ChatGPT Can't Provide Prescription Medication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-prescription-medication.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Chatbots Present Generic Information
 
@@ -97,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a6911
 
  A professional counselor or therapist would go beyond what AI suggests. You can use AI output as a starting point to better understand academic journals and research papers, but be sure to do deeper research or consult a professional.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Self-Diagnoses Are Rarely Accurate
 
  AI enables self-diagnoses. Instead of paying for therapy, patients ask chatbots to mimic mental health professionals. It’s quicker and cheaper than booking consultations.
@@ -114,7 +102,15 @@ thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a6911
 
 ![ChatGPT Can't Determine Your Disease Based on Symptoms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-explaining-anxiety-symptoms.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As a general rule, avoid self-diagnosis altogether. Getting on the wrong treatment plan or overlooking symptoms will cause more complications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. AI Has No Access to Your Medical Records
 
@@ -124,25 +120,11 @@ thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a6911
 
 ![Sharing Finance Problems With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/telling-chatgpt-about-finance-problems.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With enough context, AI could start providing personalized plans. The problem is that generative AI tools have token limits—they only remember a finite amount of data.
 
 ![ChatGPT Addressing the Root Cause of Finance-Related Anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-finance-related-anxiety.jpg)
 
  The exact limits vary per platform. Bing Chat starts new chats after 20 turns, while ChatGPT remembers the last 3,000 words of conversations. But either way, neither tool will accommodate all your medical records. At best, generative AI tools can only string together select information, such as recent diagnoses or your current emotions.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Machines Can’t Empathize With You
 
@@ -159,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a6911
  Meanwhile, ChatGPT asks open-ended questions but provides simplistic tips you’ll find anywhere else online.
 
 ![ChatGPT Giving Advice for Depression and Debt Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-advice-for-depression.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. AI Doesn’t Track Your Progress
 
@@ -193,22 +179,24 @@ thumbnail: https://thmb.techidaily.com/e5cf76fbd383eaf326a40e9f47ba567bbfc7a6911
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-exploring-income-derived-from-each-watch-on-video-platforms/"><u>[New] In 2024, Exploring Income Derived From Each Watch on Video Platforms</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-10-budget-friendly-mmorpg-experiences-for-2024/"><u>[Updated] Top 10 Budget-Friendly MMORPG Experiences for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-s24-ultra-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy S24 Ultra Phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-bavarder-integration-for-linux-aficionados/"><u>Effortless Bavarder Integration for Linux Aficionados</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embrace-advanced-web-exploration-ai-powered-bing-for-android-and-ios/"><u>Embrace Advanced Web Exploration: AI-Powered Bing for Android & iOS.</u></a></li>
-<li><a href="https://app-tips.techidaily.com/empowering-citizen-devs-the-rising-influence-in-crafting-business-software-solutions-zdnet/"><u>Empowering Citizen Devs: The Rising Influence in Crafting Business Software Solutions | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-echoes-of-intelligence-gpt-vs-bingbot-overview/"><u>Engaging with Echoes of Intelligence: GPT Vs. BingBot Overview</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gain-superior-insights-with-free-copilot-on-turbo/"><u>Gain Superior Insights with Free Copilot on Turbo</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hp-laptop-audio-dilemma-in-windows-10-heres-how-to-restore-your-sound-output/"><u>HP Laptop Audio Dilemma in Windows 10? Here's How to Restore Your Sound Output</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-sony-xperia-10-v-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony Xperia 10 V</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-vivo-y36i-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Vivo Y36i Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premium-collection-of-animated-texts/"><u>In 2024, Premium Collection of Animated Texts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paving-way-to-master-generative-ai-ideas/"><u>Paving Way to Master Generative AI Ideas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-mastering-chatgpt-api-interactions/"><u>Pioneering Progress: Mastering ChatGPT API Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prompt-design-for-ai-examining-career-stability-implications/"><u>Prompt Design for AI: Examining Career Stability Implications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/supercharge-scheduling-the-power-of-chatgpt-in-daily-life/"><u>Supercharge Scheduling: The Power of ChatGPT in Daily Life</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-picks-for-instagram-soundtracks-and-how-to-design-a-stellar-chime-for-2024/"><u>Top Picks for Instagram Soundtracks & How to Design a Stellar Chime for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-simplified-processes-generating-your-podcasts-rss-feed-for-2024/"><u>[New] Simplified Processes Generating Your Podcast's RSS Feed for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-install-windows-movie-lab-for-creative-windows-11-users/"><u>[Updated] In 2024, Install Windows Movie Lab for Creative Windows 11 Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-guide-to-downloading-igtv-videos-on-pcmac-os/"><u>[Updated] Step-by-Step Guide to Downloading IGTV Videos on PC/Mac OS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/a-critique-of-dogmatism-for-2024/"><u>A Critique of Dogmatism for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversion-de-dvd-facile-avec-handbrake-quelle-est-la-difference-entre-h264-et-mpeg-ercodeurs/"><u>Conversion De DVD Facile Avec HandBrake : Quelle Est La Différence Entre H.264 Et MPEG-Ercodeurs ?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-intensified-illumination-for-advanced-hdr-video/"><u>Exploring Intensified Illumination for Advanced HDR Video</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-401-unauthorized-access-issue-a-step-by-step-guide/"><u>Resolving the 401 Unauthorized Access Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-setting-up-aliunde-plus-plugin-with-matrix-support-on-your-kodi-device/"><u>Step-by-Step Guide to Setting Up Aliunde Plus Plugin with Matrix Support on Your Kodi Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-your-wavpack-tracks-into-high-quality-flac-format/"><u>Step-by-Step Guide: Converting Your WavPack Tracks Into High-Quality FLAC Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-converting-flac-audio-to-aac-with-ease-for-windows-macos-and-web-applications/"><u>Step-by-Step Tutorial: Converting FLAC Audio to AAC with Ease for Windows, MacOS & Web Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-selection-of-4-free-and-easy-avi-file-format-changers-for-pcs-and-macs/"><u>The Ultimate Selection of 4 Free and Easy AVI File Format Changers for PCs & Macs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-youtube-editing-apps-and-software-recommendations/"><u>Top 10 YouTube Editing Apps & Software Recommendations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-instagram-reels-audio-extractors-choose-the-best-one/"><u>Top 4 Instagram Reels Audio Extractors - Choose the Best One!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-windows-applications-for-optimal-video-compression/"><u>Top Rated Window's Applications for Optimal Video Compression</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-videos-from-vp9-to-h264-essential-tips-for-seamless-format-switching/"><u>Transform Your Videos From VP9 to H.264: Essential Tips for Seamless Format Switching</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshoot-windows-10-printer-software/"><u>Troubleshoot Windows 10 Printer Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-instagram-stories-comprehensive-guide-to-solving-upload-issues/"><u>Troubleshooting Instagram Stories: Comprehensive Guide to Solving Upload Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Google Pixel Fold? | Dr.fone</u></a></li>
 </ul></div>
 

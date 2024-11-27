@@ -1,7 +1,7 @@
 ---
 title: "Bot Showdown: Same Idea, Different Execution"
-date: 2024-11-16T17:48:28.813Z
-updated: 2024-11-17T16:25:49.726Z
+date: 2024-11-20T16:26:04.944Z
+updated: 2024-11-27T16:39:09.536Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How I Tested Three Popular Chatbots With Creative Prompts](https://mushroom-supplies.sjv.io/gmegme)
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 * [Which Chatbot Did Best With Short Stories?](https://turtlebeacheu.sjv.io/1r0r59)
 * [Which Chatbot Did Best With Scripts?](https://godlikehost.sjv.io/vnbxzv)
 * [Which Chatbot Did Best With Social Media Bios?](https://eimmie.pxf.io/21emk7)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
  ChatGPT, Google Gemini, and Microsoft Copilot—three popular chatbots with different capabilities. As useful as they are in everyday tasks, how would they perform with creative prompts for content like songs, short stories, and imaginative social media bios? Here are the experiment’s details and results.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How I Tested Three Popular Chatbots With Creative Prompts
@@ -54,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 
  Working out which AI generator was the best came down to factors like originality, flow of writing, imaginative flair, and response time. Let's see how they did.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Chatbot Did Best With Songs?
 
  To test each chatbot’s response to a combination of themes, whether normal or random, I went for the following prompt: “Write a song about achieving your dreams and make sure the lyrics feature a koala.”
@@ -68,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
  Microsoft Copilot’s song, while not perfect in style or originality, was the most balanced and fun. In terms of length, it was short and sweet. And the koala theme became the basis for the deeper message, both aspects working together nicely. It’s a prime example of [how useful Copilot’s free GPT-4 Turbo can be](https://www.makeuseof.com/best-gpt-turbo-free/) .
 
 ![Microsoft Copilot Writing a New Song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-new-song.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Google Gemini had the fastest response time and went for a similar approach as Copilot—mixing both themes equally. But some of its imagery was strange and made little sense.
 
@@ -91,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 
 ![ChatGPT Writing a Short Story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writing-a-short-story.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The same applied to Gemini’s creation, except that its narration contained confusing elements in what seemed to be an attempt at imaginative expression. It was intriguing to see, but it missed the mark.
 
  Copilot’s writing style was smooth and accurate, but the story the chatbot automatically went for was boring, cliché even. Overall, there are better [AI story generators for serious writers](https://www.makeuseof.com/best-ai-story-generators/) who need some extra help.
@@ -111,10 +106,7 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 ![Google Gemini Writing a Play Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/google-gemini-writing-a-play-script.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The other two chatbots went for the exact same structure for the scene—perhaps because both apps use OpenAI’s data as their source. They flowed nicely enough, but there was nothing special about the results.
@@ -154,18 +146,24 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-first-frame-wins-fundamental-cinematography-for-newcomers/"><u>[New] 2024 Approved First Frame Wins Fundamental Cinematography for Newcomers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/iscovering-the-top-8-truly-efficient-advancement-services-for-2024/"><u>[New] Discovering the Top 8 Truly Efficient Advancement Services for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-transform-srt-to-video-top-10-free-subtitle-tools/"><u>[Updated] 2024 Approved Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/comprehensive-walkthrough-shifting-melodies-relocating-audio-files-from-ipad-to-desktop-compatible-with-all-operating-systems/"><u>Comprehensive Walkthrough: Shifting Melodies - Relocating Audio Files From iPad to Desktop Compatible with All Operating Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-visionos-2s-new-features-announced-at-wwdc-a-closer-look-at-the-exciting-advances-and-oddities-discussed-on-zdnet/"><u>Decoding VisionOS 2'S New Features Announced at WWDC: A Closer Look at the Exciting Advances and Oddities Discussed on ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-14-pro-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-to-crafting-transparent-gifs-online-for-free-and-quick-results/"><u>Step-by-Step Guide to Crafting Transparent GIFs Online for Free and Quick Results</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-computer-sound-using-audacity-on-pc-or-mac/"><u>Step-by-Step Guide: Capturing Computer Sound Using Audacity on PC or Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-your-video-file-from-bik-format-to-common-formats-like-mp4-avi-mkv/"><u>Step-by-Step Guide: Converting Your Video File From BIK Format to Common Formats Like MP4, AVI, MKV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-videos-into-a-perfect-169-aspect-ratio/"><u>Step-by-Step Guide: Transforming Videos Into a Perfect 16:9 Aspect Ratio</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721464152108-struggling-with-iphone-vpn-connection-issues-discover-7-effective-solutions/"><u>Struggling with iPhone VPN Connection Issues? Discover 7 Effective Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-creating-dvds-compatible-with-all-dvd-players-and-optimal-dvd-conversion-techniques/"><u>The Ultimate Guide to Creating DVDs Compatible with All DVD Players & Optimal DVD Conversion Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-creating-captivating-iphone-lengthened-photos-for-2024/"><u>[New] Creating Captivating iPhone Lengthened Photos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-strategies-in-post-processing-colors/"><u>[New] Expert Strategies in Post-Processing Colors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-dissecting-apowersofts-features-against-competitors/"><u>[New] In 2024, Dissecting Apowersoft's Features Against Competitors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/astering-the-art-of-youtubing-avoiding-the-top-8-newbie-errors/"><u>[New] Mastering the Art of YouTubing Avoiding the Top 8 Newbie Errors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-key-to-professional-filming-without-spending-free-lessons-from-the-best-in-green-screen-artistry/"><u>[Updated] 2024 Approved The Key to Professional Filming Without Spending Free Lessons From the Best in Green Screen Artistry</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apex-automotive-code-deciphering-experts-2024-tale/"><u>Apex Automotive Code Deciphering Experts - 2024 Tale</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/auditory-ambiance-music-in-instagrams-visual-narratives-for-2024/"><u>Auditory Ambiance Music in Instagram's Visual Narratives for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-pro-industry-impact-and-distinct-advantages/"><u>ChatGPT Pro: Industry Impact & Distinct Advantages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-your-free-companion-for-gpt-4s-highest-outputs/"><u>Copilot, Your Free Companion for GPT-4's Highest Outputs</u></a></li>
+<li><a href="https://games-able.techidaily.com/daily-routines-for-beating-nyts-power-network/"><u>Daily Routines for Beating NYT's Power Network</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-easier-fixes-with-the-new-iphone/"><u>Experience Easier Fixes with the New iPhone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-yuva-2-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Yuva 2 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/massive-discount-grab-a-deal-at-1100-off-macbook-pro-m1-max-for-bandh-black-friday-extravaganza-insights-from-zdnet/"><u>Massive Discount: Grab a Deal at $1,100 Off MacBook Pro M1 Max for B&H Black Friday Extravaganza - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadget-purchases-wisdom-straight-from-toms-hardware-experts/"><u>Mastering Gadget Purchases: Wisdom Straight From Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-limits-of-turing-test-in-todays-ai-lands-market/"><u>The Limits of Turing Test in Today's AI Lands Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/to-upgrade-or-not-a-detailed-look-at-ipad-air-4-versus-ipad-air-cuation-tech-analysis/"><u>To Upgrade or Not: A Detailed Look at iPad Air 4 Versus iPad Air Cuation | Tech Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-innovative-ios-18-updates-revealed-at-apple-wwdc-2024-the-dawn-of-advanced-ai-integration/"><u>Top 5 Innovative iOS 18 Updates Revealed at Apple WWDC 2024: The Dawn of Advanced AI Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tech-picks-in-depth-comparison-of-leading-brands-like-apple-and-dell-insights-from-zdnet/"><u>Top Tech Picks : In-Depth Comparison of Leading Brands Like Apple & Dell - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-creativity-chatgpt-in-creative-writing/"><u>Unleash Creativity: ChatGPT in Creative Writing</u></a></li>
 </ul></div>
 

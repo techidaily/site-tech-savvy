@@ -1,7 +1,7 @@
 ---
 title: Unlocking the True Power of ChatGPT with Add-Ons
-date: 2024-11-13T16:58:05.834Z
-updated: 2024-11-17T16:10:07.449Z
+date: 2024-11-24T16:44:12.459Z
+updated: 2024-11-27T16:43:30.243Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/d4d65dffa6d108b05861c08e391929dff0db7f6eb
 * [How to Use a ChatGPT Plugin](https://atezr.pxf.io/752omg)
 * [ChatGPT's Plugins Need More Work](https://newchic.sjv.io/jzg4zq)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ChatGPT Plugins enhance the AI by providing links to web services, but were removed due to redundancy in custom GPTs.
@@ -44,11 +48,19 @@ thumbnail: https://thmb.techidaily.com/d4d65dffa6d108b05861c08e391929dff0db7f6eb
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are third-party extensions designed to extend the functionality of ChatGPT. According to OpenAI, "Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services."
 
 ![chatgpt plugins on chatgpt plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins-on-chatgpt-plus.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The core function of a ChatGPT Plugin is to bring more useful information into ChatGPT, making the generative AI chatbot more useful.
 
@@ -61,10 +73,7 @@ thumbnail: https://thmb.techidaily.com/d4d65dffa6d108b05861c08e391929dff0db7f6eb
 ![chatgpt plugins list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins-list.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And yes, we're now calling it a platform because from here on, ChatGPT becomes more than "just a chatbot."
@@ -79,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/d4d65dffa6d108b05861c08e391929dff0db7f6eb
 
 ![chatgpt plugin instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-instructions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
 1. Open ChatGPT. In the bottom left corner, select **Settings > Beta Features,** then toggle the **Plugins** setting.
@@ -90,6 +103,10 @@ Close
  Installation should only take a moment or two. To uninstall, just select the plugin again.
 
  However, there is currently no "All Plugins" list to make it easy to unsubscribe. Also, there is no way to sort the plugins, so you're left to scroll through every page until you find what you want. Search functionality will come with a later update, but having these user-friendly UI features ready would have been useful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use a ChatGPT Plugin
 
@@ -104,24 +121,18 @@ Close
 ![chatgpt plugin planning trip with kayak](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![chatgpt plugin planning trip with kayak adding more information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak-adding-more-information.jpg)
 
 ![chatgpt plugin planning trip with kayak final suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak-final-suggestions.jpg)
 
-![skyscanner flights to malta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/skyscanner-flights-to-malta.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![skyscanner flights to malta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/skyscanner-flights-to-malta.jpg)
 
 Close
 
@@ -137,25 +148,11 @@ Close
 
  For now, you might be better off searching for yourself or using a [GPT-enabled trip-planning app](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Planning Meals and Searching for Recipies
 
  Other ChatGPT Plugins have similar issues. I first asked the Tasty ChatGPT Plugin to "[help craft a week of healthy evening meals](https://www.makeuseof.com/create-healthy-meal-plan-using-chatgpt/) for a family of five," stipulating that all meals should be vegetarian. It found three recipes in its vast library of recipes that fit the bill. Realizing that wasn't good enough, it tried to search again but failed—twice.
 
 ![chatgpt tasty plugin meal planning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tasty-plugin-meal-planning.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![chatgpt tasty plugin meal planning failure to list all meals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tasty-plugin-meal-planning-failure-to-list-all-meals.jpg)
 
@@ -165,13 +162,6 @@ Close
 
  In both cases, a regular ChatGPT prompt returned much better results, using both GPT-3.5 and GPT-4\.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a Spotify Playlist
 
  The PlaylistAI ChatGPT Plugin connects to your Spotify account and creates "unique" playlists based on your prompts. The two playlists created were decent enough (throwing in MC Hammer on the hip-hop playlist was a somewhat strange choice versus the countless better options!), and the plugin adds the playlists to your account, ready for listening.
@@ -180,14 +170,11 @@ Close
 
 ![chatgpt playlistai pluging create playlist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-pluging-create-playlist.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt playlistai plugin hip hop suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-hip-hop-suggestions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![chatgpt playlistai plugin track suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-track-suggestions.jpg)
 
@@ -198,13 +185,6 @@ Close
  The only issue arose when asking the plugin to combine the two playlists into one. PlaylistAI responded positively, showing that it had combined the two into a playlist titled "Melodic Techno Meets 90s Hip Hop," yet the playlist was still just hip-hop. In addition, PlaylistAI added three more hip-hop tracks to the original list, which isn't a problem, but it wasn't anything near what was asked.
 
  Also, right now, despite being connected to the internet and Spotify, the PlaylistAI cannot analyze an existing playlist and suggest related tracks, which, again, is frustrating.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT's Plugins Need More Work
 
@@ -227,24 +207,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-discovering-eastern-architectural-wonders-in-minecraft-for-2024/"><u>[New] Discovering Eastern Architectural Wonders in Minecraft for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mastering-video-editing-basics-on-windows-8-movie-maker-for-2024/"><u>[Updated] Mastering Video Editing Basics on Windows 8 Movie Maker for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-gpt-vs-gpt-4-practical-value/"><u>Auto-GPT Vs. GPT-4: Practical Value?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-limits-4-futuristic-features-for-gpt-5/"><u>Beyond the Limits: 4 Futuristic Features for GPT-5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/continuous-knowledge-flow-from-chatgpt-to-public/"><u>Continuous Knowledge Flow From ChatGPT to Public</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easily-track-your-apple-tv-remote-using-our-new-airtag-attachment-find-out-how/"><u>Easily Track Your Apple TV Remote Using Our New AirTag Attachment - Find Out How !</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eternalize-your-chatgpt-experiences/"><u>Eternalize Your ChatGPT Experiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ais-role-in-mental-health-outcomes/"><u>Exploring AI’s Role in Mental Health Outcomes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722996909879-fix-your-fortnite-login-issues-fast-and-easy-step-by-step-guide/"><u>Fix Your Fortnite Login Issues Fast and Easy – Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-idea-to-interface-building-web-applications-with-gpt-3/"><u>From Idea to Interface: Building Web Applications with GPT-3</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-12-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 12 Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a54-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy A54 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-chatgpt-your-android-conversation-hub/"><u>Introducing ChatGPT: Your Android Conversation Hub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/organizing-dialogues-the-power-of-precision-in-chatgpt/"><u>Organizing Dialogues: The Power of Precision in ChatGPT</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/schritt-fur-schritt-anleitung-wie-aktiviert-man-die-systemwiederherstellung-unter-windows-11/"><u>Schritt-Für-Schritt-Anleitung: Wie Aktiviert Man Die Systemwiederherstellung Unter Windows 11?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/steps-to-take-against-dubious-chatgpt-websites/"><u>Steps to Take Against Dubious ChatGPT Websites</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-way-to-a-running-steam-application/"><u>Streamline Your Way to a Running Steam Application</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/subtle-techniques-make-unwanted-backgrounds-disappear-in-videos-for-2024/"><u>Subtle Techniques Make Unwanted Backgrounds Disappear in Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expand-your-reach-effective-youtube-campaigns/"><u>[New] 2024 Approved Expand Your Reach Effective YouTube Campaigns</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-supreme-seminar-strategist-summit/"><u>[New] Supreme Seminar Strategist Summit</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-master-the-art-of-immutable-image-creation-for-2024/"><u>[Updated] Master the Art of Immutable Image Creation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726225683445-aacwmv-movavi/"><u>直通網路無成本轉化AAC音訊為WMV - 利用Movavi的即時音頻轉換工具</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-steam-web-helpers-ram-habits-with-these-five-methods/"><u>Beat Steam Web Helper's RAM Habits with These Five Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/de-bedste-metodene-til-a-omdanne-ts-i-mp4-losninger-for-windows-mac-og-nettbaserte-alternativer/"><u>De Bedste Metodene Til Å Omdanne TS I MP4: Lösninger for Windows, Mac Og Nettbaserte Alternativer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descubra-os-9-principais-criadores-de-filmes-de-aniversario-virtual-para-o-ano-de-2024/"><u>Descubra Os 9 Principais Criadores De Filmes De Aniversário Virtual Para O Ano De 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/experimente-a-excelencia-gratuita-do-movavi-adquira-agora-e-desfrute-dos-melhores-precos-de-venda/"><u>Experimente a Excelência Gratuita Do Movavi - Adquira Agora E Desfrute Dos Melhores Preços De Venda!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gartner-recognizes-abbyy-as-premier-vendor-on-magic-quadrant-for-process-mining-solutions/"><u>Gartner Recognizes ABBYY as Premier Vendor on Magic Quadrant for Process Mining Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-mxf-mkv/"><u>Movavi 提供的 MXF 至 MKV 線上無限制過渡工具 - 自由轉換影片格式</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-wmvm4v/"><u>Movaviの無料ツール - WMVとM4Vビデオ変換機能</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-converter-voor-mpeg-4-videodateien-veerkrachtig-omzetten-naar-mp4-gratis-met-movavi-konverter/"><u>Online Converter Voor MPEG-4 Videodateien - Veerkrachtig Omzetten Naar MP4 Gratis Met Movavi Konverter</u></a></li>
+<li><a href="https://win-community.techidaily.com/student-label-a-grocery-store-to-buy-some-food-and-drinks-they-carefully-read-labels-and-select-products-that-do-not-contain-peanuts-or-traces-of-nuts/"><u>Student: Label A→ Grocery Store to Buy some Food and Drinks. They Carefully Read Labels and Select Products that Do Not Contain Peanuts or Traces of Nuts.).</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-complete-hp-laptop-screen-recording-manual-for-2024/"><u>The Complete HP Laptop Screen Recording Manual for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-free-moviemaking-tools-for-pc-windows-10-8-and-amoeba/"><u>The Ultimate List of Free Moviemaking Tools for PC (Windows 10, 8, & Amoeba)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transferer-un-fichier-amv-vers-wmv-sur-internet-gratuite-methode-de-convertisseur/"><u>Transférer Un Fichier AMV Vers WMV Sur Internet Gratuite - Méthode De Convertisseur</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp3gsm-movavi/"><u>スマホMP3に変換可能なオンラインGSMファイル - 無料でMovavi</u></a></li>
 </ul></div>
 

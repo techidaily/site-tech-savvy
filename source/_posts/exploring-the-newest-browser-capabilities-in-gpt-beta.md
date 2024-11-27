@@ -1,7 +1,7 @@
 ---
 title: Exploring the Newest Browser Capabilities in GPT Beta
-date: 2024-11-10T19:35:57.945Z
-updated: 2024-11-17T19:42:47.299Z
+date: 2024-11-22T17:01:26.997Z
+updated: 2024-11-27T16:04:29.354Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
  Late on May 12, 2023, an [OpenAI blog post revealed](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) that ChatGPT's Plugin feature would become available to ChatGPT Plus users.
@@ -33,6 +37,10 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
  Up until this point, users could only [gain access to ChatGPT Plugins by signing up](https://www.makeuseof.com/how-sign-up-chatgpt-plugins/) and waiting for access.
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are ChatGPT Plugins?
 
@@ -45,13 +53,6 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
  For example, when you gain access to ChatGPT Plugins, you'll be able to use the ChatGPT Kayak Plugin to search for and streamline holiday ideas, find the best deals, and create unique holiday ideas, all from the warm embrace of the ChatGPT interface.
 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Can Browse the Web
 
@@ -69,6 +70,10 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  As you can see from the images above, ChatGPT Plus correctly identified Max Verstappen—though I did need to prompt the tool to continue.
@@ -77,29 +82,9 @@ Close
 
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Enable ChatGPT Plugins and Web Browsing
 
@@ -108,10 +93,7 @@ Close
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to your **Settings** in the bottom left-hand corner of the ChatGPT screen
@@ -122,6 +104,10 @@ Close
  After enabling both settings, you'll find new options from the ChatGPT model switcher (where you'd normally switch between GPT-3.5 and GPT-4). You'll now find an option for Web Browsing and one for Plugins.
 
  From here, you can select either Web Browsing to enable web-connected search or select **Plugin Store** to begin installing and enabling Plugins.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Is Finally Connected to the Internet
 
@@ -148,21 +134,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/1716069624410-updated-2024-approved-leveraging-built-in-recorders-on-mate-1020-and-p2010-series-to-screen-capture/"><u>[Updated] 2024 Approved Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture.</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-teachers-compendium-on-multimedia-pedagogy/"><u>2024 Approved The Teacher's Compendium on Multimedia Pedagogy</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-8-subtitle-editors-transforming-into-srt-format-for-windows-and-macos/"><u>2024 Approved Top 8 Subtitle Editors Transforming Into SRT Format for Windows & MacOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-employment-risks-the-potential-firing-scenarios/"><u>ChatGPT Employment Risks: The Potential Firing Scenarios</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dodge-these-pitfalls-chatgpt-mobile-downloads/"><u>Dodge These Pitfalls: ChatGPT Mobile Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-interactivity-top-5-personalized-gpt-3-directive-strategies/"><u>Elevating Interactivity: Top 5 Personalized GPT-3 Directive Strategies</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/enhance-your-video-with-pro-audio-editing-in-fcp-for-2024/"><u>Enhance Your Video with Pro Audio Editing in FCP for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209854570-9781912256471-kick-start-your-life/"><u>Kick Start your Life! | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-siri-chatgpt-integration-on-iphones/"><u>Mastering Siri-ChatGPT Integration on iPhones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-ai-conversation-with-alternatives/"><u>Redefining AI Conversation with Alternatives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speeding-up-hr-operations-with-gpt-prompts/"><u>Speeding Up HR Operations with GPT Prompts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-overwatchs-buffer-management-feature-and-its-impact-on-streaming-quality/"><u>Understanding Overwatch's Buffer Management Feature and Its Impact on Streaming Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visionaries-collide-blizzards-tech-allegiance-with-microsoft-redefines-ai-horizons-interview-special/"><u>Visionaries Collide: Blizzard's Tech Allegiance with Microsoft Redefines AI Horizons [Interview Special]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winxvideo-software-manual-expert-guide-on-advanced-video-enhancement-and-conversion-techniques/"><u>Winxvideo Software Manual: Expert Guide on Advanced Video Enhancement and Conversion Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unveiling-the-20-core-strategies-for-effective-facebook-video-ads/"><u>[Updated] 2024 Approved Unveiling the 20 Core Strategies for Effective Facebook Video Ads</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-11x-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 11X 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-practices-for-keeping-a-copy-of-your-ai-dialogues/"><u>Best Practices for Keeping a Copy of Your AI Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-stories-with-chatgpt-6-innovative-techniques/"><u>Craft Stories with ChatGPT: 6 Innovative Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-ai-myths-inadequate-cryptocurrency-expertise/"><u>Debunking AI Myths: Inadequate Cryptocurrency Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-cleared-tweets-linuss-leaks-revealed-trojan-truths-told-and-chatgpt-problems-unpacked/"><u>Emoji Cleared Tweets, Linus's Leaks Revealed, Trojan Truths Told, & ChatGPT Problems Unpacked.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empower-chatgpt-with-these-ultimate-9-power-tools/"><u>Empower ChatGPT with These Ultimate 9 Power Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excel-mastery-boosted-by-these-chatgpt-methods/"><u>Excel Mastery Boosted by These ChatGPT Methods</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-13-mini-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 13 mini has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-rainbow-six-sieges-latency-problems-a-step-by-step-guide/"><u>Resolving Rainbow Six Siege's Latency Problems - A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/share-the-laughs-right-top-gif-saver-for-twitter-for-2024/"><u>Share the Laughs Right Top GIF Saver for Twitter for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/spinning-media-a-quick-guide-to-rotating-videos-in-vlc/"><u>Spinning Media A Quick Guide to Rotating Videos in VLC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tackle-interrupt-handling-errors/"><u>Tackle Interrupt Handling Errors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-chatgpts-individual-instruction-feature/"><u>Understanding ChatGPT’s Individual Instruction Feature</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-make-a-splash-10-leading-music-video-makers-of/"><u>Updated In 2024, Make a Splash 10 Leading Music Video Makers Of</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-wins-gpt-clashes-with-bings-ai-and-google-bard/"><u>Who Wins? GPT Clashes with Bing's AI and Google Bard</u></a></li>
 </ul></div>
 

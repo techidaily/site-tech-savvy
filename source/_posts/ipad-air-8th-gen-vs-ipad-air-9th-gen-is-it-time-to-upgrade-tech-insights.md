@@ -1,7 +1,7 @@
 ---
 title: "IPad Air (8Th Gen) vs iPad Air (9Th Gen): Is It Time to Upgrade? | Tech Insights"
-date: 2024-11-10T17:44:30.601Z
-updated: 2024-11-17T19:37:07.709Z
+date: 2024-11-26T16:34:55.364Z
+updated: 2024-11-27T16:41:00.793Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ Apple has wrapped up its [year of iPad releases](https://www.zdnet.com/article/b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Apple
 
@@ -54,22 +58,23 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You're ready to embrace Apple's M1 supremacy
 
 The saying you can't teach an old dog new tricks doesn't really apply to the iPad Air 5\. In fact, underneath the familiar glass and aluminum exterior is Apple's ARM-based, eight-core CPU, [M1 processor](https://www.zdnet.com/article/apple-m1-vs-m2/). Trickling down from MacBooks and iMacs, Apple's M1 chip is expected to be up to 60% faster and more powerful than its A-series counterpart -- like the A14 found in the iPad Air 4\. 
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. You want a better front camera and FaceTime experience
 
@@ -78,13 +83,6 @@ Camera performance isn't typically the key selling point for tablets, let alone 
 **Also: [iPad (2022) vs. iPad Air (2022): How different are the two?](https://www.zdnet.com/article/ipad-2022-vs-ipad-air-2022/)**
 
 While the 12MP rear camera remains untouched, the front now houses a 12MP ultra-wide camera. With a wider field of view than the previous generation's 7MP FaceTime HD lens, the new iPad can take advantage of Center Stage, Apple's webcam feature that tracks and follows your face as you move around. This is particularly useful for presentations and FaceTime calls with friends and family.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. You thrive on 5G
 
@@ -98,31 +96,25 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 Image: Apple
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Price comes before anything else
 
 With the release of the new iPad Air, most third-party retailers have since marked down the 2020 model as a means to clear out inventory. The winner of this sequence is you, the consumer. At the time of writing, the iPad Air 4 can be had for as low as [$429](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-10-9-inch-Cellular-Generation-Renewed%2Fdp%2FB08PF8HCDJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff7b4c72-ce64-4598-99df-8abdf10d6d11%7Cdtp&dtb=1), less if you opt for an open-market retailer like eBay. That's more than a $150 difference compared to the new iPad Air 5 which, in a snapshot, only wins out on 5G, the front-facing camera, and processing power. If one, two, or even all three of those aspects are not on your priority list of features, then opting for the older iPad Air may be the best play here. 
 
 [Apple iPad Air (2020) $358.86 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J61FCVN%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cff7b4c72-ce64-4598-99df-8abdf10d6d11%7Cdtp&dtb=1)
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
@@ -170,15 +162,20 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/he-ultimate-conversion-guide-youtube-to-igtv-for-2024/"><u>[New] The Ultimate Conversion Guide YouTube to IGTV for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-step-by-step-process-for-perfecting-screencast-video-quality/"><u>[Updated] The Step-by-Step Process for Perfecting Screencast Video Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogue-titles-pitting-googles-translation-against-ai/"><u>Dialogue Titles: Pitting Google's Translation Against AI</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-advice-for-saving-and-archiving-periscope-footage-for-2024/"><u>Expert Advice for Saving and Archiving Periscope Footage for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-iphone-photography-focus-on-shadows/"><u>In 2024, Mastering iPhone Photography Focus on Shadows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-intel-integrated-graphic-driver-update-for-windows-users/"><u>Latest Intel Integrated Graphic Driver Update for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/non-disclosive-keeping-ai-dialogues-undetectable/"><u>Non-Disclosive Keeping: AI Dialogues Undetectable</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-securing-dialogues-against-gpt-retention/"><u>Strategies for Securing Dialogues Against GPT' Retention</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ai-its-role-rewards-and-risks-unveiled/"><u>Understanding AI: Its Role, Rewards & Risks Unveiled</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-expert-tips-to-boost-visual-impact-aes-10-text-sets/"><u>[Updated] Expert Tips to Boost Visual Impact AE's 10 Text Sets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersion-in-metaverse-leading-hmds-reviewed/"><u>[Updated] Immersion in Metaverse Leading HMDs Reviewed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-optimal-gpus-for-high-res-media-production/"><u>[Updated] In 2024, Optimal GPUs for High Res Media Production</u></a></li>
+<li><a href="https://blog-min.techidaily.com/macdvddvdmp4-h264-hevcitunes/"><u>免收Mac版DVD转码软件：任何DVD无须付费转成MP4 H264 HEVC，iTunes友好格式</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/best-tools-for-seamless-pdf-navigation-in-202e-effortlessly-swipe-through-pages-with-these-top-apps/"><u>Best Tools for Seamless PDF Navigation in 202E: Effortlessly Swipe Through Pages with These Top Apps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/cut-costs-and-customize-content-directv-now-allows-station-skipping-for-savings/"><u>Cut Costs & Customize Content - DirecTV Now Allows Station Skipping for Savings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-enhanced-browsing-bings-ai-driven-search-on-mobile/"><u>Experience Enhanced Browsing: Bing's AI-Driven Search on Mobile</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-vega-vega56-drivers-downloading-updating-and-troubleshooting-for-windows-users/"><u>Get the Latest AMD Vega Vega56 Drivers: Downloading, Updating, and Troubleshooting for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-llama-2-for-enhanced-problem-solving/"><u>Harnessing Llama 2 for Enhanced Problem-Solving</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplified-hdr-an-in-depth-examination/"><u>In 2024, Simplified HDR An In-Depth Examination</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-craft-with-8-top-ai-writing-tools/"><u>Master Your Craft with 8 Top AI Writing Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reviving-your-windows-photo-viewer-approaches-for-w10-enthusiasts-for-2024/"><u>Reviving Your Windows Photo Viewer Approaches for W10 Enthusiasts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-automated-code-writing-without-chatgpt-tools/"><u>Unlocking Automated Code Writing Without ChatGPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unwrapping-ais-essence-for-all/"><u>Unwrapping AI's Essence for All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-ai-transfer-learning-and-how-does-it-work/"><u>What Is AI Transfer Learning and How Does It Work?</u></a></li>
 </ul></div>
 

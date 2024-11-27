@@ -1,7 +1,7 @@
 ---
 title: "Voice of the Machine: Responding with Newfound Authority"
-date: 2024-11-13T19:41:56.008Z
-updated: 2024-11-17T19:08:28.039Z
+date: 2024-11-25T16:48:53.921Z
+updated: 2024-11-27T16:00:02.390Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OpenAI Gives ChatGPT a Voice
 
  On September 25, 2023, ChatGPT developer [OpenAI revealed](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak) it would give its world-leading generative AI chatbot a voice. ChatGPT users can speak directly to the chatbot and request it speak back, effectively allowing ChatGPT to converse directly with voice for the first time.
@@ -41,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
  ChatGPT's new text-to-speech model is only available to Plus and Enterprise subscribers using the official Android and iOS apps and is expected to roll out within the next two weeks (starting from September 25, 2023). Furthermore, the new voice feature is limited to English to begin with, though we would expect this to change rapidly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Can Recognize and Analyze Images and Photographs
@@ -58,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
  Like the new text-to-speech model, OpenAI will roll out image recognition in the next two weeks, though it will be available on all platforms, not just the ChatGPT app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Privacy, Security, and Other Issues
@@ -75,10 +73,7 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
  Given this is the tip of the iceberg, expect pushback against ChatGPT's newfound voice, especially once there is a predictable uptick in unsavory headlines claiming ChatGPT is being used to commit fraud and so on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Is Making ChatGPT the Go-To AI App
@@ -106,19 +101,22 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-make-a-boomerang-on-snapchat-a-comprehensive-guide/"><u>[Updated] In 2024, Make a Boomerang on Snapchat – A Comprehensive Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-channels-to-zero-cost-image-frames/"><u>[Updated] Unveiling Channels to Zero-Cost Image Frames</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bash-basics-initiating-conversations-with-chatgpt-via-shellgpt/"><u>Bash Basics: Initiating Conversations with ChatGPT via ShellGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-gpt-4-in-these-7-innovative-apps/"><u>Decoding GPT-4 in These 7 Innovative Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-claude-2-purpose-and-potential/"><u>Demystifying Claude 2: Purpose and Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-prime-crypto-inquiries-for-gpt/"><u>Exploring Prime Crypto Inquiries for GPT</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/how-to-resolve-red-dead-redemption-2s-errgfxstate-graphic-flaw-efficiently/"><u>How to Resolve Red Dead Redemption 2'S ERR_GFX_STATE Graphic Flaw Efficiently</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-written-language-and-web-integration/"><u>Mastering GPT' Written Language and Web Integration</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-enhancing-video-experience-the-role-of-background-music-integration/"><u>New Enhancing Video Experience The Role of Background Music Integration</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/operational-obs-cam-after-fix/"><u>Operational OBS Cam After Fix</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/silence-the-siri-chatgpt-debate-understanding-uniqueness/"><u>Silence the Siri-ChatGPT Debate: Understanding Uniqueness</u></a></li>
-<li><a href="https://common-error.techidaily.com/use-strong-action-verbs-titles-with-strong-action-verbs-eg-resolving-troubleshooting-can-make-your-page-appear-more-helpful-and-engaging-to-users-searching-155/"><u>Use Strong Action Verbs: Titles with Strong Action Verbs (E.g., Resolving, Troubleshooting) Can Make Your Page Appear More Helpful and Engaging to Users Searching for Solutions to Problems.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/which-is-better-for-you-a-look-at-chatgpt-with-browsing-and-chatgpt-as-a-browser-add-on/"><u>Which Is Better for You? A Look at ChatGPT with Browsing and ChatGPT as a Browser Add-On</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-k11x-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo K11x? Fixed | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-disconitro-the-ultimate-guide-for-freepaid-entry-for-2024/"><u>[New] Mastering DiscoNitro The Ultimate Guide for Free/Paid Entry for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-perfect-thumbnails-for-higher-clickthrough-rates/"><u>[Updated] 2024 Approved Crafting Perfect Thumbnails for Higher Clickthrough Rates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-sound-system-advances-announced/"><u>[Updated] 2024 Approved Sound System Advances Announced</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-impact-text-visual-effects/"><u>2024 Approved High-Impact Text Visual Effects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rmvb-mov-movavi/"><u>網上無需金錢，從 RMVB 改為 MOV - Movavi 高效格式更新</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/convert-video-voice-to-text-online-for-free-fast-and-easy-ways/"><u>Convert Video Voice to Text Online for Free Fast and Easy Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-of-arw-to-jpeg-format-on-windows-and-mac-a-step-by-step-guide/"><u>Effortless Conversion of ARW to JPEG Format on Windows and Mac - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-avi-to-mpeg-converter-by-movavi-no-downloads-required/"><u>Free Online AVI to MPEG Converter by Movavi - No Downloads Required</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gestalte-deine-fotos-mit-professionellen-filtern-and-effekten-in-der-movavi-photo-editor-app/"><u>Gestalte Deine Fotos Mit Professionellen Filtern & Effekten in Der Movavi Photo-Editor App</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-become-a-trendsetter-in-snapchat-innovate-with-dynamic-boomers/"><u>In 2024, Become a Trendsetter in SnapChat Innovate with Dynamic Boomers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-auto-track-cam-mount-for-smooth-shots/"><u>In 2024, Premier Auto-Track Cam Mount for Smooth Shots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-free-mpg-video-converter-supports-3gp-gif-mov-formats-movavi/"><u>Online Free MPG Video Converter - Supports 3GP, GIF, MOV Formats - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-ultimate-screen-recording-tools-for-enhancing-your-roblox-gaming-sessions-with-movavi/"><u>Top 7 Ultimate Screen Recording Tools for Enhancing Your Roblox Gaming Sessions with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformacion-de-imagenes-jpeg-a-png-libre-y-descargable-en-internet/"><u>Transformación De Imágenes JPEG a PNG Libre Y Descargable en Internet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/ultimate-solutions-for-correcting-ntfs-errors-in-windows-11-operating-systems/"><u>Ultimate Solutions for Correcting NTFS Errors in Windows 11 Operating Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/versie-wma-naar-aiff-met-algemene-vrije-lichamen-betalenlijk-echtzeit-converteerapp-movavi/"><u>Versie WMA Naar AIFF Met Algemene Vrije Lichamen: Betalenlijk Echtzeit-ConverteerApp - Movavi</u></a></li>
 </ul></div>
 

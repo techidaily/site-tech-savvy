@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Shutdown in Italy: Why Now?"
-date: 2024-11-11T18:26:59.657Z
-updated: 2024-11-17T17:54:18.479Z
+date: 2024-11-23T16:21:55.244Z
+updated: 2024-11-27T16:14:23.794Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,25 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Did Italy Ban ChatGPT?
 
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On March 30th, 2023, the Italian Data Protection Authority, Garante per la Protezione dei Dati Personali (GPDP), [officially announced](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9870847) a ChatGPT ban, effective immediately, that would last until ChatGPT complied with the EU's GDPR.
 
  The Italian data regulator declared that [OpenAI's ChatGPT posed several problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) and infringed the EU's privacy law. The GDPD's privacy concerns can be broken down into five key areas:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Breach of Privacy Laws
 
@@ -42,35 +54,18 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
 ![ChatGPT Onboarding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-onboarding.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Italian regulator ensures data controllers follow the general obligations outlined in the EU's privacy law, and OpenAI falls short.
 
 ### 2\. Unjustified Collection of Personal Data
 
  Asides from the breach of its privacy laws, the GDPD claims that there is no legal justification for OpenAI's massive collection and processing of personal data to train ChatGPT's algorithms. According to the Italian regulator, ChatGPT's information doesn't always match factual circumstances, so OpenAI can use falsified personal data.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. A Lack of Easily-Accessible and Transparent Information
 
  In addition, the Italian regulator pointed out that OpenAI doesn't inform users whose data it collects. This is another clear violation of the EU's privacy laws.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Lack of Age Verification Systems
@@ -78,10 +73,7 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
  The GDPD announced that ChatGPT exposes inappropriate information to users under 13 because it lacks appropriate age detection mechanisms. This underage exposure violates the EU's GDPR, which states that individuals must clearly consent to the processing of their personal data. As underage individuals, they are not to consent on their behalf.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Risk of Data Breaches
@@ -117,20 +109,17 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-efficiently-producing-quality-videos-on-the-latest-windows-os/"><u>[New] 2024 Approved Efficiently Producing Quality Videos on the Latest Windows OS</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-augmented-world-wonders-iphoneandroids-finest-games/"><u>[New] Augmented World Wonders IPhone/Android's Finest Games</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-high-definition-selecting-prime-lenses-for-professional-video/"><u>[New] Mastering High Definition Selecting Prime Lenses for Professional Video</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebooks-quintessential-video-picks-top-5-list/"><u>[Updated] In 2024, Facebook's Quintessential Video Picks - Top 5 List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alert-systems-for-counterfeit-chatgpt-websites/"><u>Alert Systems for Counterfeit ChatGPT Websites</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bots-and-copywriting-why-the-distinction-matters/"><u>Bots and Copywriting: Why the Distinction Matters</u></a></li>
-<li><a href="https://facebook.techidaily.com/designing-a-bespoke-fb-representation/"><u>Designing a Bespoke FB Representation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/direct-vs-additional-gpt-tools-for-effective-communication/"><u>Direct Vs. Additional GPT Tools for Effective Communication</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/four-tiers-of-regulatory-oversight-in-the-age-of-ai/"><u>Four Tiers of Regulatory Oversight in the Age of AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-look-at-digital-dialogues-in-social-media/"><u>In-Depth Look at Digital Dialogues in Social Media</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-discord-engaging-in-games-and-competitions/"><u>Mastering Discord: Engaging in Games & Competitions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-mozilla-thunderbirds-email-and-chat-interface-for-effortless-online-communication/"><u>Navigating Mozilla Thunderbird's Email and Chat Interface for Effortless Online Communication</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-identity-balancing-personalization-and-privacy/"><u>Protecting Identity: Balancing Personalization and Privacy</u></a></li>
-<li><a href="https://discover-help.techidaily.com/sicuro-dispositivo-di-ripristino-per-dischi-rigidi-una-guida-approfondita/"><u>Sicuro Dispositivo Di Ripristino per Dischi Rigidi: Una Guida Approfondita</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-is-the-changing-of-gpt-limited/"><u>Why Is the Changing of GPT Limited?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instagramsns/"><u>「Instagramや他のSNSへ投稿前に、動画をいかにして完璧な正方形サイズに調整するか」</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhance-your-play-experience-easy-ways-to-resolve-recurring-outriders-crashes/"><u>Enhance Your Play Experience: Easy Ways to Resolve Recurring Outriders Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fast-conversion-guide-transforming-vob-files-into-mkv-format-in-minutes/"><u>Fast Conversion Guide: Transforming VOB Files Into MKV Format in Minutes!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/focus-on-action-exclude-unwanted-surroundings/"><u>Focus on Action, Exclude Unwanted Surroundings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-methods-to-bypass-blu-ray-regional-lockout-across-various-players/"><u>Free Methods to Bypass Blu-Ray Regional Lockout Across Various Players</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-no-cost-win11-dvd-ripper-and-converter-software-now/"><u>Get Your No-Cost Win11 DVD Ripper & Converter Software Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-enable-video-looping-feature-in-vlc-player-quick-and-easy-methods/"><u>How to Enable Video Looping Feature in VLC Player - Quick and Easy Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-diy-digital-footprint-creating-youtube-thumbnails-from-mobile-devices/"><u>In 2024, DIY Digital Footprint Creating YouTube Thumbnails From Mobile Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/linking-multiple-bluetooth-audio-systems-a-step-by-step-guide/"><u>Linking Multiple Bluetooth Audio Systems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-successful-files-transfer-in-windows/"><u>Mastering the Art of Successful Files Transfer in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-pc-recovery-setbacks-expert-strategies-unveiled/"><u>Overcoming PC Recovery Setbacks - Expert Strategies Unveiled</u></a></li>
 </ul></div>
 

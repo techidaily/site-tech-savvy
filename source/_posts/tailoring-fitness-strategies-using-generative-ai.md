@@ -1,7 +1,7 @@
 ---
 title: Tailoring Fitness Strategies Using Generative AI
-date: 2024-11-15T18:51:05.894Z
-updated: 2024-11-17T18:15:14.638Z
+date: 2024-11-23T16:40:46.685Z
+updated: 2024-11-27T16:18:10.145Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Input Client’s Goals and Current Fitness Levels
 
  ChatGPT is a [great way to build a custom workout](https://www.makeuseof.com/build-a-custom-workout-generate-exercise-routines-from-experts/) plan if you explain to it exactly what your client aims to achieve. Training intensity may be different for people, depending on sex, age, size, and goals. This is why you must be specific.
@@ -38,29 +42,19 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 
  Simply inputting the client’s goals and current fitness levels while you ask ChatGPT to create the workout plan is a good starting point. After doing this, you can use other prompts and measures to create a more comprehensive workout plan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Include Preferences
 
  Now, you can ask ChatGPT to consider any other preferences your client may have. Does the client prefer home or gym workouts? How much time can they devote to training based on their schedule? Do they like group workout plans or prefer to train alone?
 
 ![Modified workout plan for 25-year-old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modified-workout-plan-for-25-year-old.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also feed the AI information about other forms of exercise your client wants to engage in, apart from the one predominant in the plan. For instance, the client may be an avid golfer who golfs multiple times a week, even as they're trying to gain muscle mass at the gym.
 
  By considering all these factors, you can create prompts to guide ChatGPT in creating a more personalized workout schedule.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use a Long Prompt
 
@@ -71,19 +65,6 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
  "Madi is a 16-year-old who wants to improve athletic performance as she plays high school football. At the same time, she wants to gain muscle because being big is an advantage in her sport, so she wants to incorporate some muscle-building exercises. However, all she has is a barbell and some plates. Prepare a muscle-building-focused workout plan that allows her to train three times a week."
 
 ![Madi's workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/madi-s-workout-plan-by-chat-gpt.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Long prompts are great if you have many clients across a wide range of fitness specialties and goals. They save you time because you just have to gather all the client’s special information and feed them to ChatGPT in well-formed sentences. Not providing context is one of the [ChatGPT prompt mistakes](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) that long prompts can help you avoid.
 
@@ -97,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 
  So, because you must properly [plan rest days for optimum fitness](https://www.makeuseof.com/plan-workout-rest-days-optimum-fitness/), you may need to adjust the plan based on your client’s schedule. You could instruct ChatGPT to reschedule the rest days or reschedule them yourself while sticking to the AI’s exercise suggestions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tweak the Plan to Make Room for Progress
 
  From time to time, you have to revisit the plan and make changes to accommodate your client’s growth. Based on what you have noticed from your client’s reports on how they feel during and after training or from watching them train, you can instruct ChatGPT to modify the workout plan it has created.
@@ -107,14 +92,11 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 
 ![Intensified workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intensified-workout-plan-by-chat-gpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For example, ChatGPT has modified the 25-year-old man’s home workout plan to make it more intense. From the image below, you’ll see that it has replaced normal push-ups with plyometric push-ups. And instead of planks, it has prescribed planks with shoulder taps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Add Other Forms of Training
 
@@ -123,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 ![Chat GPT including a gym day to a home workout plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chat-gpt-including-a-gym-day-to-a-home-workout-plan.jpg)
 
  Also, you can ask ChatGPT to add cardio, conditioning, CrossFit, or mobility exercises to a workout plan for an all-encompassing approach to fitness, depending on your client’s current needs and preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Vary the Exercises
 
@@ -155,24 +141,19 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-essential-audio-interface-guide-for-podcasters/"><u>[New] 2024 Approved Essential Audio Interface Guide for Podcasters</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-collective-chronicle-converter/"><u>[New] Collective Chronicle Converter</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-captivating-content-top-three-channel-growth-strategies/"><u>[Updated] In 2024, Captivating Content Top Three Channel Growth Strategies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elevating-social-media-interaction-via-fb-story-links/"><u>[Updated] In 2024, Elevating Social Media Interaction via FB Story Links</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-and-the-modern-courtship-landscape/"><u>AI and the Modern Courtship Landscape</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-electronics-from-toms-digital-workshop/"><u>Expert Insights on Electronics From Tom's Digital Workshop</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-malfunction-resolved-screen-responding/"><u>GPU Malfunction Resolved: Screen Responding</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revelations-on-identifying-outstanding-film-making-talents/"><u>In 2024, Revelations on Identifying Outstanding Film Making Talents</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-transform-ordinary-unboxings-into-viral-phenomena-on-insta/"><u>In 2024, Transform Ordinary Unboxings Into Viral Phenomena on Insta</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mobile-optimization-techniques-for-chatgpt/"><u>Mobile Optimization Techniques for ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/my-podcast-journey-with-ai-texting/"><u>My Podcast Journey with AI Texting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-your-files-better-with-ai-powered-chat-tools/"><u>Navigate Your Files Better with AI-Powered Chat Tools</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-what-is-emoji/"><u>New 2024 Approved What Is Emoji?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preserving-the-past-long-term-storage-of-chatgpt-interactions/"><u>Preserving the Past: Long-Term Storage of ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scam-or-not-decoding-bingchats-crypto-claims/"><u>Scam or Not? Decoding BingChat's Crypto Claims</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/symbolic-financial-guidance/"><u>Symbolic Financial Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-enigma-of-codegpt-writing-codes-without-humans/"><u>The Enigma of CodeGPT: Writing Codes without Humans?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-dji-phantom-3-pro-drone-for-2024/"><u>The Ultimate Guide to DJI Phantom 3 Pro Drone for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/thwarting-artistic-mimicry-nightshades-guide-in-the-age-of-ai/"><u>Thwarting Artistic Mimicry: Nightshade's Guide in the Age of AI</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-vfx-workflow-implementing-luts-within-after-effects/"><u>[New] Transform Your VFX Workflow Implementing LUTs Within After Effects</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-learn-to-use-emoji-and-stylings-in-discord-threads/"><u>[Updated] In 2024, Learn To Use Emoji & Stylings in Discord Threads</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-tale-transmogrifiers-guild-elite-eight/"><u>[Updated] In 2024, Tale Transmogrifiers Guild – Elite Eight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/code-writing-duel-github-copilot-vs-chatgpt-comparison/"><u>Code Writing Duel: GitHub Copilot VS. ChatGPT Comparison</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-steps-to-update-your-ubuntu-lockscreen-wallpaper/"><u>Easy Steps to Update Your Ubuntu Lockscreen Wallpaper</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/how-to-make-video-thumbnails-for-youtube/"><u>How to Make Video Thumbnails for YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-vpn-use-possible-for-chatgpt-connections/"><u>Is VPN Use Possible for ChatGPT Connections?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/separating-medical-truths-fact-checking-techniques-with-chatgpt/"><u>Separating Medical Truths: Fact-Checking Techniques with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-ai-techniques-top-7-tips-that-work/"><u>Smart AI Techniques: Top 7 Tips That Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-gpt-powered-website-building-with-4-secrets/"><u>Unlock GPT-Powered Website Building with 4 Secrets</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-record-super-slow-motion-videos-on-your-huaweisamsungiphone/"><u>Updated How to Record Super Slow Motion Videos on Your Huawei/Samsung/iPhone?</u></a></li>
 </ul></div>
 

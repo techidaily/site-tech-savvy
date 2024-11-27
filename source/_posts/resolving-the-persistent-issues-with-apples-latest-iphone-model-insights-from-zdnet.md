@@ -1,7 +1,7 @@
 ---
 title: Resolving the Persistent Issues with Apple's Latest iPhone Model - Insights From ZDNet
-date: 2024-11-13T19:27:03.047Z
-updated: 2024-11-17T18:07:09.492Z
+date: 2024-11-20T16:11:53.250Z
+updated: 2024-11-27T16:51:42.214Z
 tags:
   - apple
 categories:
@@ -28,26 +28,21 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -58,16 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -77,10 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -89,13 +72,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -103,6 +79,10 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -146,18 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-blurry-edges-to-squared-perfection-the-imovie-guide-for-instagram-videos/"><u>[New] In 2024, From Blurry Edges to Squared Perfection The iMovie Guide for Instagram Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-5-proven-methods-to-enhance-your-instagram-tv-experience/"><u>[Updated] 2024 Approved 5 Proven Methods to Enhance Your Instagram TV Experience</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavi-free-download/"><u>高性能ビデオ編集ソフトウェア Movavi Free Download – プロ向けに設計</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/concluding-your-instagram-journey-a-detailed-breakdown-for-2024/"><u>Concluding Your Instagram Journey A Detailed Breakdown for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-chatgpt-transforming-ideas-into-ai-generated-reality/"><u>Exploring ChatGPT: Transforming Ideas Into AI-Generated Reality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/geminis-milestone-redefining-value-at-1m-tokens/"><u>Gemini's Milestone: Redefining Value at $1M Tokens</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-the-pack-superior-ipad-mouse-solutions-reviewed-and-compared/"><u>Leading the Pack: Superior IPad Mouse Solutions Reviewed and Compared</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-interviews-with-chatgpts-assistance-a-step-by-step-guide/"><u>Mastering the Art of Interviews with ChatGPT's Assistance - A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/izing-youtube-thumbnails-for-better-clickthrough-rates/"><u>Optimizing YouTube Thumbnails for Better Clickthrough Rates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-work-from-home-with-chatgpt-tactics/"><u>Revolutionizing Work From Home with ChatGPT Tactics</u></a></li>
-<li><a href="https://fox-search.techidaily.com/the-ultimate-top-6-ios-audio-recording-tools-for-your-mobile-device/"><u>The Ultimate Top 6 iOS Audio Recording Tools for Your Mobile Device</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-10-best-offline-ios-games/"><u>Top 10 Best Offline iOS Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-trusting-ai-for-windows-11-unlocks-is-risky-business/"><u>Why Trusting AI for Windows 11 Unlocks Is Risky Business</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-from-front-to-back-a-step-by-step-guide-to-angled-photography-on-social-platforms/"><u>[New] From Front to Back A Step-by-Step Guide to Angled Photography on Social Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-integrating-video-conferencing-within-gmail-ecosystem-with-zoom/"><u>[New] In 2024, Integrating Video Conferencing Within Gmail Ecosystem with Zoom</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-tricks-to-perfect-time-lapses-using-samsung-cameras/"><u>[New] In 2024, Tricks to Perfect Time-Lapses Using Samsung Cameras</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-boost-your-content-visibility-facebook-video-tips-and-tricks/"><u>[Updated] 2024 Approved Boost Your Content Visibility Facebook Video Tips and Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abrindo-a-porta-para-o-suporte-multidevices-a-lista-dos-12-gravadores-mp4-mais-populares-do-movavi/"><u>Abrindo a Porta Para O Suporte Multidevices: A Lista Dos 12 Gravadores MP4 Mais Populares Do Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-the-gap-audio-to-text-in-powerpoint-slides-for-2024/"><u>Bridging the Gap Audio to Text in PowerPoint Slides for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cambia-tus-archivos-de-video-mp4-a-formatos-de-alta-calidad-mpeg-4-sp-para-el-movil-sin-costo-alguno/"><u>Cambia Tus Archivos De Video MP4 a Formatos De Alta Calidad MPEG-4 SP Para El Móvil Sin Costo Alguno</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-casting-techniques-connect-your-android-to-fire-stick-seamlessly/"><u>Easy Casting Techniques: Connect Your Android to Fire Stick Seamlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-ways-to-eliminate-stutter-in-counter-strike-global-offensive/"><u>Effortless Ways to Eliminate Stutter in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-movavi-provideo-cutter-professional-video-editing-software-for-windows-and-mac/"><u>Free Movavi ProVideo Cutter - Professional Video Editing Software for Windows and Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transforming-asf-files-into-swf-format-with-ease/"><u>Free Online Converter: Transforming ASF Files Into SWF Format with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fubotv-streaming-made-easy-for-firestick-users-installation-and-setup-instructions/"><u>FuboTV Streaming Made Easy for Firestick Users: Installation & Setup Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-omwandelen-van-nsv-naar-wmv-formaat-een-bewerking-door-movavi/"><u>Gratis Online Omwandelen Van NSV Naar WMV-Formaat: Een Bewerking Door Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp4-to-jpeg-conversion-top-free-online-tools-compared-movavi/"><u>MP4 to JPEG Conversion: Top-Free Online Tools Compared - Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-itel-a60-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Itel A60 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-tus-imagenes-jpeg-en-gratis-al-formato-gif-con-el-mejor-convertidor-en-linea/"><u>Transforma Tus Imágenes JPEG en Gratis Al Formato GIF Con El Mejor Convertidor en Línea</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformation-en-ligne-gratuite-des-fichiers-swf-avec-movavi/"><u>Transformation en Ligne Gratuite Des Fichiers SWF Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformez-votre-fichier-amv-en-video-mp4-gratuite-online-avec-movavi/"><u>Transformez Votre Fichier AMV en Vidéo MP4 Gratuite - Online Avec Movavi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/transforming-film-frames-on-insta-with-easy-steps-for-2024/"><u>Transforming Film Frames on Insta with Easy Steps for 2024</u></a></li>
 </ul></div>
 

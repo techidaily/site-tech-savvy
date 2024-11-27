@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Dull Truth: How Apple's Latest AI Innovations From WWDC May Not Excite - But That's Alright"
-date: 2024-11-16T16:17:26.336Z
-updated: 2024-11-17T17:09:56.536Z
+date: 2024-11-20T16:37:14.034Z
+updated: 2024-11-27T16:44:27.805Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ Adrian Kingsley-Hughes/ZDNET
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ZDNET's key takeaways
 
 * The Tech 21 FlexPro is available from [Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and is priced at $55.
@@ -39,10 +43,7 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -89,10 +90,7 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -131,17 +129,24 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-timestamp-on-youtube-video-link-desktop-and-mobile/"><u>[New] In 2024, How to Add Timestamp on YouTube Video Link? [Desktop and Mobile]</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-complete-guide-to-safaris-picture-in-picture-mode/"><u>[Updated] In 2024, The Complete Guide to Safari's Picture-in-Picture Mode</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-understanding-and-exploring-telegrams-online-features/"><u>2024 Approved Understanding and Exploring Telegram's Online Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-through-ages-epochs-and-early-triumphs/"><u>AI Through Ages: Epochs and Early Triumphs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cautionary-reminder-not-all-summaries-are-equally-reliable/"><u>Cautionary Reminder: Not All Summaries Are Equally Reliable</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-legal-concerns-simplified/"><u>ChatGPT Legal Concerns Simplified</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/get-informed-the-most-recent-windows-updates-and-service-packs-for-july-2024/"><u>Get Informed: The Most Recent Windows Updates and Service Packs for July 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-vs-bert-what-are-the-differences-between-the-two-most-popular-language-models/"><u>GPT Vs. BERT: What Are the Differences Between the Two Most Popular Language Models?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-v30-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted V30 Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-examining-the-new-evolution-of-sonys-s6500-player/"><u>In 2024, Examining the New Evolution of Sony's S6500 Player</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shaping-the-digital-scribe-changing-chatgpt-to-your-speak/"><u>Shaping the Digital Scribe: Changing ChatGPT to Your Speak</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/wire-free-movie-nights-crafting-the-perfect-dorm-room-home-theater-on-a-budget/"><u>Wire-Free Movie Nights: Crafting the Perfect Dorm Room Home Theater on a Budget</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-emulators-reviving-sonys-ps1-games/"><u>[New] Essential Emulators Reviving Sony's PS1 Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-players-showcase-top-rated-oculus-devices/"><u>[Updated] In 2024, The Ultimate Players Showcase Top-Rated Oculus Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-leveraging-fb-instream-ad-techniques-to-boost-engagement/"><u>2024 Approved Leveraging FB Instream Ad Techniques to Boost Engagement</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-hp-laserjet-1018-printer-drivers-free-guide-and-best-practices/"><u>Download HP LaserJet 1018 Printer Drivers: Free Guide & Best Practices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-nba-2k24s-troublesome-e66ac-glitch-comprehensive-guide-and-fixes/"><u>Eliminate NBA 2K24's Troublesome E66ac Glitch: Comprehensive Guide & Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-video-sticker-editing-adding-emojis-and-graphics-to-your-clips-on-any-device/"><u>Free Video Sticker Editing: Adding Emojis and Graphics to Your Clips on Any Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-download-efficiency-boosting-steam-and-windows-speed/"><u>Improve Download Efficiency: Boosting Steam and Windows Speed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-which-is-the-ultimate-screen-recorder-analyzing-bandicam-vs-camtasia/"><u>In 2024, Which Is the Ultimate Screen Recorder? Analyzing Bandicam vs Camtasia</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insiders-guide-to-mechanical-keyboard-modding/"><u>Insider's Guide to Mechanical Keyboard Modding</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/kostenfreier-dvd-audio-extraktor-hochwertige-audiokonvertierung-von-dvds/"><u>Kostenfreier DVD-Audio-Extraktor - Hochwertige Audiokonvertierung Von DVDs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/methodical-removal-process-for-old-gpt-communications/"><u>Methodical Removal Process for Old GPT Communications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-learning-outcomes-best-student-centric-ways-to-use-ai-chatbot/"><u>Optimizing Learning Outcomes: Best Student-Centric Ways to Use AI Chatbot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precise-detection-techniques-for-fake-bot-infiltrations/"><u>Precise Detection Techniques for Fake Bot Infiltrations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-email-modification-on-proton-browser/"><u>Step-by-Step Email Modification on Proton Browser</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-generation-of-wireless-earbuds-anticipating-new-airpods-insights-into-availability-and-pre-order-info/"><u>The Next Generation of Wireless Earbuds: Anticipating New AirPods - Insights Into Availability and Pre-Order Info</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-collection-of-4-ai-tools-to-spark-creativity/"><u>The Ultimate Collection of 4 AI Tools to Spark Creativity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-budget-friendly-tablets-professional-testing-and-reviews-zdnet/"><u>Top Budget-Friendly Tablets : Professional Testing & Reviews - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-peace-of-mind-with-these-9-chatgpt-insights/"><u>Unlock Peace of Mind with These 9 ChatGPT Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-i-prefer-apples-miniature-marvel-the-iphone-16-pro-over-the-max-variant-a-closer-look/"><u>Why I Prefer Apple's Miniature Marvel: The iPhone 16 Pro Over the Max Variant - A Closer Look</u></a></li>
 </ul></div>
 

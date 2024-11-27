@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI: The Strong versus the Subdued"
-date: 2024-11-11T16:48:14.723Z
-updated: 2024-11-17T17:07:04.112Z
+date: 2024-11-25T16:34:04.832Z
+updated: 2024-11-27T16:46:44.023Z
 tags:
   - chatgpt
   - open-ai
@@ -32,9 +32,17 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 ![ChatGPT chat and website open on two monitors](https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420be6c31ae58cdceea73012a33.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Weak AI, also known as narrow AI, refers to AI applications that are specifically designed to automate tasks requiring a particular cognitive skill. This category of AI utilizes machine learning models tailored for specific tasks such as object recognition, chatbot interactions, personal voice assistants, autocorrect systems, and Google search algorithms, among others.
 
  You might be wondering why this category of AI is referred to as "weak" AI. The term "weak" may mistakenly imply that these AI applications are lacking in some way. However, it is important to recognize that the rapid advancements in AI and their pervasive impact across various industries are largely due to narrow machine intelligence. The label "weak" indicates that these applications focus on a specific or narrow cognitive function.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Applications of Weak AI
 
@@ -54,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
  Despite the term "weak AI," it's clear that it has numerous real-world applications that we're already using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Limitations of Weak AI
 
  The primary reason for the limitations of AI today is its focus on automating specific tasks for humans. For example, ChatGPT and Google Bard are designed as [large language models (LLMs)](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/). They are specifically programmed for generating text-based content. Similarly, Midjourney and Stable Diffusion are text-to-image generators limited to this particular function.
@@ -69,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
  However, despite these limitations, tools like ChatGPT have become effectively indispensable within a short period of public release.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Strong AI or AGI?
@@ -108,29 +117,19 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
  Given the world-changing potential of AGI, extensive regulation must be in place before any such product is released to the public. It's already been [difficult enough regulating generative AI](https://www.makeuseof.com/ways-government-may-regulate-ai-tools/), and AGI will ramp those issues up another notch.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Differences Between Strong and Weak AI
 
  There are several notable differences between strong and weak AI in terms of their purpose, learning method, and problem-solving approach. Let's explore these distinctions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Purpose
 
  A notable difference between the two artificial intelligence systems lies in their purpose. Weak AI systems are primarily designed to automate specific processes and perform well-defined tasks, leading to increased efficiency in various fields.
 
  On the other hand, strong AI systems, though hypothetical, aim to mimic the functioning of the human brain. These systems can arguably possess self-awareness, consciousness, and analytical capabilities, enabling them to undertake a wide range of general tasks, much like humans.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Learning Method
 
@@ -143,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
  Weak AI systems are specifically engineered for repetitive tasks that necessitate close examination of datasets and pattern recognition. This enables the system to make reliable predictions and outcomes.
 
  In comparison, strong AI takes a problem-solving approach geared toward tackling more intricate and creative tasks. It relies on extensive datasets and continuously evolves to adapt to new conditions and challenges.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Current State of AI Technology
 
@@ -176,19 +168,19 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-creating-low-volume-effects-a-guide-for-fading-out-audio-in-logic-pro-for-2024/"><u>[New] Creating Low Volume Effects A Guide for Fading Out Audio in Logic Pro for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-ultimate-utility-watch-opens-your-macdevice-for-2024/"><u>[New] Ultimate Utility Watch Opens Your MacDevice for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>[Updated] 2024 Approved Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-master-your-mac-the-top-gif-recorder-choices-for-2024/"><u>[Updated] Master Your Mac The Top GIF Recorder Choices for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminating-your-photos-with-iphones-hdr-capabilities/"><u>2024 Approved Illuminating Your Photos with iPhone’s HDR Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-facilitated-world-design-beyond-boundaries/"><u>AI-Facilitated World Design: Beyond Boundaries</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/cairo-declaration/"><u>Cairo Declaration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chaos-or-evolution-ai-beyond-boundaries/"><u>Chaos or Evolution? AI Beyond Boundaries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-knowledge-on-openais-ethos/"><u>Essential Knowledge on OpenAI's Ethos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-post-win-11-upgrade-my-logitech-brio-cam-gone-invisible-got-answers-148-chars/"><u>Fix: Post-Win 11 Upgrade, My Logitech Brio Cam Gone Invisible - Got Answers! (148 Chars)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-language-learning-a-chatgpt-plus-approach/"><u>Interactive Language Learning: A ChatGPT Plus Approach</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/os-melhores-programas-para-produzir-e-armazenar-gifs-em-2024-ranking-do-movavi/"><u>Os Melhores Programas Para Produzir E Armazenar GIFs Em 2024: Ranking Do Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723001114329-pathfinder-update-tackles-and-eliminates-pc-freezing-offering-players-uninterrupted-fun/"><u>Pathfinder Update Tackles & Eliminates PC Freezing, Offering Players Uninterrupted Fun</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scrutinizing-chatgpt-for-personal-data-exposure/"><u>Scrutinizing ChatGPT for Personal Data Exposure</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-acclaimed-music-archives-for-visual-media/"><u>[New] Acclaimed Music Archives for Visual Media</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-your-contents-reach-without-breaching-laws/"><u>[Updated] 2024 Approved Elevating Your Content's Reach Without Breaching Laws</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-youtube-shorts-videos-without-cost-simple-techniques-exposed/"><u>Download YouTube Shorts Videos Without Cost - Simple Techniques Exposed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-guide-syncing-and-watching-films-with-subtitles-directly-from-your-television/"><u>Easy Guide: Syncing and Watching Films with Subtitles Directly From Your Television</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effective-techniques-for-converting-videos-into-written-transcripts-including-and-excluding-captions/"><u>Effective Techniques for Converting Videos Into Written Transcripts, Including and Excluding Captions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-strategies-building-your-own-plays-through-windows-media-player/"><u>Effortless Strategies: Building Your Own Plays Through Windows Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-audio-clarity-effective-methods-for-amplifying-sounds-in-windows-systems/"><u>Elevate Audio Clarity: Effective Methods for Amplifying Sounds in Windows Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-10c-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Spark 10C Phone that is Locked?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-iphone-se-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket iPhone SE for Free</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-infinix-hot-40i-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Infinix Hot 40i? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-the-ultimate-guide-to-make-a-text-collage/"><u>In 2024, The Ultimate Guide to Make a Text Collage</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-power-supplies-s-ps5-dualsense/"><u>Precision Power Supplies 'S PS5 DualSense</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zdnets-top-choice-unbeatable-all-day-battery-and-portability-combination-on-latest-laptops-tested-this-year/"><u>ZDNet's Top Choice: Unbeatable All-Day Battery and Portability Combination on Latest Laptops Tested This Year</u></a></li>
 </ul></div>
 

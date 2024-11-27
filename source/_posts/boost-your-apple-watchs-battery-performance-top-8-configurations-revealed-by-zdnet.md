@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple Watch's Battery Performance: Top 8 Configurations Revealed by ZDNet"
-date: 2024-11-14T19:39:20.430Z
-updated: 2024-11-17T17:16:44.552Z
+date: 2024-11-21T16:54:17.389Z
+updated: 2024-11-27T16:35:32.993Z
 tags:
   - apple
 categories:
@@ -50,6 +50,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -59,10 +63,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -83,11 +84,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -97,13 +106,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -112,13 +114,6 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
@@ -126,10 +121,7 @@ I've heard from many folks who have faced issues with battery life on the Apple 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test smartwatches
@@ -173,24 +165,20 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-direct-save-plus-alternative-pathways-your-instagram-video-guide/"><u>[New] Direct Save + Alternative Pathways Your Instagram Video Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/levating-your-style-with-youtubes-best-hauls-for-2024/"><u>[New] Elevating Your Style with YouTube's Best Hauls for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-enliven-snapshots-using-circular-transparency-gradient-for-2024/"><u>[New] Enliven Snapshots Using Circular Transparency Gradient for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-tailoring-your-youtube-videography-with-powerful-wm-maker-skills/"><u>[New] Tailoring Your YouTube Videography with Powerful WM Maker Skills</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-final-step-delete-your-youtube-shorts-link/"><u>[Updated] The Final Step Delete Your YouTube Shorts Link</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-code-helpers-top-7-alternatives-to-chatgpt/"><u>Cutting-Edge Code Helpers: Top 7 Alternatives to ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/disguised-dangers-identifying-phony-chatgpt-tools/"><u>Disguised Dangers: Identifying Phony ChatGPT Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-optimal-transfer-methods-iphone-camera-roll-to-snapchat-journey/"><u>In 2024, Optimal Transfer Methods IPhone Camera Roll to Snapchat Journey</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-price-scale-for-shooting-tunes-in-visual-narratives/"><u>In 2024, Price Scale for Shooting Tunes in Visual Narratives</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-oppo-a59-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo A59 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-poe-path-on-quora-for-ai-insights/"><u>Leveraging POE Path on Quora for AI Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-communication-3-methods-of-chatgpt-wolfram-alpha-synergy/"><u>Pioneering Communication: 3 Methods of ChatGPT-Wolfram Alpha Synergy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proactive-measures-for-authentic-ai-app-consumption/"><u>Proactive Measures for Authentic AI App Consumption</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-content-wonders-with-canva-and-ai-insights/"><u>Quick Content Wonders with Canva and AI Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/refining-ai-communication-top-prompting-methods-for-better-outputs/"><u>Refining AI Communication: Top Prompting Methods for Better Outputs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scrutinizing-the-sole-use-of-auto-gpt/"><u>Scrutinizing the Sole Use of Auto-GPT</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-itel-p40-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-remedying-windows-error-0x800f0831/"><u>Understanding and Remedying Windows Error 0X800F0831</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-7-artificial-intelligence-tools/"><u>Unleashing Potential: 7 Artificial Intelligence Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pro-techs-picks-the-most-excellent-screen-recorder-apps-for-2024/"><u>[New] Pro Tech's Picks The Most Excellent Screen Recorder Apps for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-capture-and-save-your-desktop-free-ways-on-windows/"><u>[Updated] In 2024, Capture & Save Your Desktop - Free Ways on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/code-vein-stuck-heres-how-to-get-unstuck-and-back-on-track/"><u>Code Vein Stuck? Here's How to Get Unstuck and Back on Track</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comparatif-des-logiciels-dexploration-et-de-sauvegarde-de-disque-ssd-choix-entre-transcend-disk-aomei-backupper-and-plus/"><u>Comparatif Des Logiciels D'Exploration Et De Sauvegarde De Disque SSD : Choix Entre Transcend Disk, AOMEI Backupper & Plus</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/convert-google-meet-chats-into-youtube-livestream-easily-for-2024/"><u>Convert Google Meet Chats Into YouTube Livestream Easily for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-motorola-g24-power-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Motorola G24 Power Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-nokia-105-classic-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Nokia 105 Classic Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mka/"><u>MKAオーディオファイルの再生手順とトラブルシューティング</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkvdvd/"><u>MKVフォーマットへのDVD変換手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp42/"><u>MP4形式への画面収録ファイル変換手法、2通り教えます！</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/online-waardigheidswaardevolle-wmv-naar-mp3-konvertor-gratuit-met-movavi/"><u>Online Waardigheidswaardevolle WMV Naar MP3 Konvertor - Gratuit Met Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pc-youtube/"><u>PC用ガイド: YouTubeの動画連携に最適化します!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-guide-transfer-youtube-vids-to-google-drive-for-zero-expense/"><u>Seamless Guide: Transfer YouTube Vids to Google Drive for Zero Expense</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-capturing-gameplay-footage-using-nvidias-geforce-shadow-play/"><u>Step-by-Step Guide: Capturing Gameplay Footage Using NVIDIA's GeForce Shadow Play</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-v30-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme V30 Phone</u></a></li>
 </ul></div>
 

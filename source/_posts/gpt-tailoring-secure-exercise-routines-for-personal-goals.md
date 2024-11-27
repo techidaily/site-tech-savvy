@@ -1,7 +1,7 @@
 ---
 title: "GPT: Tailoring Secure Exercise Routines for Personal Goals"
-date: 2024-11-13T16:07:55.589Z
-updated: 2024-11-17T18:27:34.392Z
+date: 2024-11-25T16:34:20.388Z
+updated: 2024-11-27T16:07:00.019Z
 tags:
   - chatgpt
   - open-ai
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 
  Despite a few limitations—the chatbot has limited information about the world after about 2021—it's useful for summarizing books, writing a resume, debugging code, and much more. But does it have enough information to design a workout plan for you? Here's how ChatGPT responded to common requests for three different types of workout plans.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Basic Workout Plans From ChatGPT
 
 ![ChatGPT workout plan for beginners prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-beginners-prompt.jpg)
@@ -53,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 
 ![ChatGPT workout plan for advanced athletes prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-advanced-athletes-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Meanwhile, a second plan for more seasoned athletes follows a similar format, including plenty of examples for cardio, core, and resistance training. Each section includes many options.
 
  For instance, you can decide to use resistance bands or weights for strength training or high-intensity interval training (HIIT) and cycling for cardio work.
@@ -69,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 ![Chat GPT injury recovery prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chat-gpt-injury-recovery-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What if you are recovering from an injury? It's safest (and always recommended) to consult your doctor for any specific questions about how you can exercise with an injury or other health concern, but I wanted to see how the bot would respond.
@@ -81,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 
  As someone who has recovered from a fair share of sports injuries, this is the same kind of advice I received from physicians and physical therapists when returning to activities. Again, nothing can replace personalized advice from a healthcare provider, but the chatbot gets the broad strokes correct and advises caution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How ChatGPT Creates Running Plans
 
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
@@ -88,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
 
@@ -101,22 +92,23 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from [top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/).
 
  What if you have more specific questions about how to perform the exercises correctly? The chatbot can help with that, too.
 
 ![ChatGPT deadlifts prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-deadlifts-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
 
@@ -145,24 +137,24 @@ thumbnail: https://thmb.techidaily.com/da30e1ebb9eb5ab25a7effb66e03594a33963d6af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-boost-visibility-with-a-bespoke-youtube-channel-url/"><u>[New] Boost Visibility with a Bespoke YouTube Channel URL</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-ignite-a-sizzling-online-presence-with-these-instagram-9-strategies/"><u>[New] Ignite a Sizzling Online Presence with These Instagram #9 Strategies</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-composing-engaging-podcast-thumbnails/"><u>[Updated] 2024 Approved Composing Engaging Podcast Thumbnails</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-cut-edge-video-enhancement-merging-windows-11-and-storyremix-for-creative-edits/"><u>[Updated] Cut-Edge Video Enhancement Merging Windows 11 & StoryRemix for Creative Edits</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-dominate-search-results-essential-tips-for-optimizing-youtube-videos/"><u>2024 Approved Dominate Search Results Essential Tips for Optimizing YouTube Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>2024 Approved From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adaptive-language-learning-via-chatgpt-plus-interface/"><u>Adaptive Language Learning via ChatGPT Plus Interface</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-revolution-which-professions-might-be-abolished/"><u>AI Revolution: Which Professions Might Be Abolished?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/behold-the-leader-an-authoritative-xbox-one-x-game-console-critique/"><u>Behold the Leader: An Authoritative Xbox One X Game Console Critique</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-into-smooth-chatgpt-interactions-chrome-powered-solution/"><u>Dive Into Smooth ChatGPT Interactions - Chrome-Powered Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-tweaks-required-for-better-gpt-plugin-management/"><u>Essential Tweaks Required for Better GPT Plugin Management</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fantasy-fused-with-fact-leading-ai-trajectories/"><u>Fantasy Fused with Fact: Leading AI Trajectories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fools-errand-of-intelligent-machines-recognizing-ai-hallucination/"><u>Fool's Errand of Intelligent Machines: Recognizing AI Hallucination</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/gaining-insights-how-to-ask-the-right-questions/"><u>Gaining Insights How to Ask the Right Questions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/instant-setup-for-your-ms-ergo-keyboard-4000-driver-download-tutorial/"><u>Instant Setup for Your MS Ergo Keyboard 4000 - Driver Download Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/precision-in-patient-care-how-to-confirm-ai-health-advice/"><u>Precision in Patient Care: How to Confirm AI Health Advice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/setting-standards-for-smart-systems/"><u>Setting Standards for Smart Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stop-matching-siri-with-chatgpt-their-uniqueness-spotlighted/"><u>Stop Matching Siri with ChatGPT: Their Uniqueness Spotlighted</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-hp-laptops-drivers-easily-on-windows-platform/"><u>Update Your HP Laptop's Drivers Easily on Windows Platform</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-15-things-to-do-while-listening-to-podcasts/"><u>[New] 15 Things to Do While Listening to Podcasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elevate-footage-flair-pc-and-mobile-filter-addition/"><u>[Updated] 2024 Approved Elevate Footage Flair PC & Mobile Filter Addition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-origami-inspired-miniature-asian-abodes-in-mc-for-2024/"><u>[Updated] Origami-Inspired, Miniature Asian Abodes in MC for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-your-characters-potential-with-these-essential-sound-changing-techniques-in-free-fire/"><u>[Updated] Unlock Your Character's Potential with These Essential Sound Changing Techniques in Free Fire</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-in-pursuit-of-perfection-wincams-listed-here/"><u>2024 Approved In Pursuit of Perfection WinCams Listed Here</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-secure-and-fast-instagram-to-mp4-conversion-for-windowsmac-users/"><u>2024 Approved Secure & Fast Instagram to MP4 Conversion for Windows/Mac Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkaflac-by-movavi/"><u>線上免費MKA音頻/影片FLAC化工具 - 提供 by Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726225243211-m4v3gp-movavi/"><u>在线转换M4V为3GP的免费工具 - 使用 Movavi 视频编辑软件</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-videos-with-expert-tips-for-superior-zooming-techniques-a-comprehensive-video-zoom-tutorial/"><u>Elevate Your Videos with Expert Tips for Superior Zooming Techniques - A Comprehensive Video Zoom Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-of-mkv-files-to-3gp-format-with-movavi/"><u>Free Online Conversion of MKV Files to 3GP Format with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-online-converter-aiff-en-mp3-movavi/"><u>Gratuit Online Converter AIFF en MP3 - Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movflv-movavi/"><u>MOV至FLV無成本線上格式轉換 - 利用Movavi編輯器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-jpeg-pef/"><u>Movavi JPEG 到 PEF 免費網路過渡工具 - 線上無限制使用</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimize-your-zoom-soundscape-clear-channel-balance-achieved-for-2024/"><u>Optimize Your Zoom Soundscape Clear Channel Balance Achieved for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pathways-of-file-formats-navigating-from-srt-to-others/"><u>Pathways of File Formats Navigating From SRT to Others</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-iphone-emoji-user-manual-how-to-express-with-digital-smiles/"><u>The Ultimate iPhone Emoji User Manual: How to Express with Digital Smiles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-did-mi-a-move/"><u>What Did Mi A Move?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkv-webm-movavi/"><u>원격 가용 MKV 및 WEBM 비디오를 공유적으로 변환하는 방법 - Movavi</u></a></li>
 </ul></div>
 

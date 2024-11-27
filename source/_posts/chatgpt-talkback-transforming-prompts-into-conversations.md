@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Talkback: Transforming Prompts Into Conversations"
-date: 2024-11-13T17:23:26.049Z
-updated: 2024-11-17T17:59:54.708Z
+date: 2024-11-26T16:42:54.527Z
+updated: 2024-11-27T16:46:32.417Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OpenAI Gives ChatGPT a Voice
 
  On September 25, 2023, ChatGPT developer [OpenAI revealed](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak) it would give its world-leading generative AI chatbot a voice. ChatGPT users can speak directly to the chatbot and request it speak back, effectively allowing ChatGPT to converse directly with voice for the first time.
@@ -41,16 +45,7 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
  ChatGPT's new text-to-speech model is only available to Plus and Enterprise subscribers using the official Android and iOS apps and is expected to roll out within the next two weeks (starting from September 25, 2023). Furthermore, the new voice feature is limited to English to begin with, though we would expect this to change rapidly.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Can Recognize and Analyze Images and Photographs
@@ -64,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
  Like the new text-to-speech model, OpenAI will roll out image recognition in the next two weeks, though it will be available on all platforms, not just the ChatGPT app.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Privacy, Security, and Other Issues
@@ -81,10 +73,7 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
  Given this is the tip of the iceberg, expect pushback against ChatGPT's newfound voice, especially once there is a predictable uptick in unsavory headlines claiming ChatGPT is being used to commit fraud and so on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Is Making ChatGPT the Go-To AI App
@@ -112,22 +101,24 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-maximize-ps5-space-premier-top-10-hdds/"><u>[New] Maximize PS5 Space Premier Top 10 HDDs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-tailoring-your-timing-strategy-the-ultimate-instagram-guide/"><u>[New] Tailoring Your Timing Strategy The Ultimate Instagram Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transition-smoothly-with-chromes-picture-in-picture/"><u>[New] Transition Smoothly with Chrome’s Picture In Picture</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-comprehensive-overview-of-whatsapp-voice-calls-for-2024/"><u>[Updated] Comprehensive Overview of WhatsApp Voice Calls for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accessing-ai-dialogue-bashscripting-and-shellgpt-integration/"><u>Accessing AI Dialogue: BashScripting and ShellGPT Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-the-impact-of-ai-on-search-algorithms/"><u>Assessing the Impact of AI on Search Algorithms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-unforgettable-chat-experiences-5-best-techniques-for-tailored-gpt-commands/"><u>Crafting Unforgettable Chat Experiences: 5 Best Techniques for Tailored GPT Commands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/debunking-chatgpt-windows-app-reality-check/"><u>Debunking ChatGPT Windows App - Reality Check</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-and-enhance-discover-top-9-gpt-integration-tools/"><u>Elevate & Enhance: Discover Top 9 GPT Integration Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-browser-ai-experience-with-top-7-fixes/"><u>Elevate Browser AI Experience with Top 7 Fixes</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/guia-paso-a-paso-para-respaldar-archivos-al-disco-duro-exterior-en-sistemas-operativos-windows/"><u>Guía Paso a Paso Para Respaldar Archivos Al Disco Duro Exterior en Sistemas Operativos Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo X100? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovation-unleashed-learning-to-use-free-dall-e-3-via-bing/"><u>Innovation Unleashed: Learning to Use Free DALL-E 3 via Bing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peeling-back-layers-in-ai-security-how-do-prompt-injections-work/"><u>Peeling Back Layers in AI Security: How Do Prompt Injections Work?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-how-to-successfully-upload-videos-to-your-twitch-channel/"><u>Step-by-Step Tutorial on How to Successfully Upload Videos to Your Twitch Channel</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-lightning-cable-options-your-guide/"><u>Top-Rated Lightning Cable Options : Your Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-exploring-techniques-for-uploading-twitter-videos-seamlessly-on-instagram/"><u>[New] Exploring Techniques for Uploading Twitter Videos Seamlessly on Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-ultimate-guide-top-screen-capture-apps-analysis/"><u>[New] In 2024, Ultimate Guide Top Screen Capture Apps Analysis</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-solving-grey-voids-in-gaming-capture-software/"><u>[Updated] 2024 Approved Solving Grey Voids in Gaming Capture Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-effortless-harmony-creating-engaging-and-organized-youtube-playlists-for-2024/"><u>[Updated] Effortless Harmony Creating Engaging and Organized YouTube Playlists for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aiffwav-movavi/"><u>「オンラインで簡単! AIFFファイルをWAVに自由転送 - Movavi」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726226654272-mp4-m4a-movavi/"><u>無限制網路使用：從 MP4 改變成 M4A - 使用 Movavi 流動解決方案</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavim4vgif/"><u>移行がスムーズ! MovaviでオンラインM4VからGIFへの自由変換サービス</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-video-formats-for-free-using-movavi-ogv-files-to-avi-supported/"><u>Convert Video Formats for Free Using Movavi - OGV Files to AVI Supported.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creare-un-filmato-con-il-editore-di-video-movavi-guida-facile-e-completa/"><u>Creare Un Filmato Con Il Editore Di Video Movavi: Guida Facile E Completa</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-6s-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 6s</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/legalidad-de-grabaciones-no-autorizadas-que-puedes-esperar-si-grabas-a-alguien-sin-permiso/"><u>Legalidad De Grabaciones No Autorizadas: ¿Qué Puedes Esperar Si Grabas a Alguien Sin Permiso?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/najdite-7-zacitacskych-vykroku-k-konverzi-csv-a-mp4-s-neterovymi-dvd-pouze-na-macu/"><u>Najdite 7 Začítačských Výkroku K Konverzi CSV a MP4 S Neteřovými DVD Pouze Na Macu</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-social-barriers-using-chatgpt-conversations/"><u>Overcoming Social Barriers Using ChatGPT Conversations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/recover-lost-messages-and-notifications-on-your-apple-device/"><u>Recover Lost Messages and Notifications on Your Apple Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/social-forecast-in-graphs-2023-edition-unveiled-for-2024/"><u>Social Forecast in Graphs 2023 Edition Unveiled for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swf-mp4-movavi/"><u>SWF 파일을 MP4로 원할 수 있는 인터넷에서 비용 부여 무료 변환 도구 - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-5-solutions-for-resolving-the-csgo-login-issue/"><u>Top 5 Solutions for Resolving the CS:GO Login Issue</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/virtual-cameras-revolutionized-explore-manycam-live-streaming-apps/"><u>Virtual Cameras Revolutionized: Explore ManyCam Live Streaming Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tiffjpegpngpdf-2/"><u>オンラインで簡単にTIFF画像をJPEG・PNG・PDFに変換 - 2分で完了！</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick and Easy: Your Guide to AgentDeployment on AgentGPT"
-date: 2024-11-15T16:56:30.400Z
-updated: 2024-11-17T16:01:00.096Z
+date: 2024-11-22T16:21:56.368Z
+updated: 2024-11-27T16:07:19.070Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
  To ensure you don't miss out on anything important, let's talk about the features, settings, and general usage of AgentGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Access AgentGPT
@@ -65,31 +62,21 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
  Let's ensure proper deployment by first talking about assembly.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Assemble Agent
 
  To assemble your agent, you need to provide a name and a goal.
 
 ![Assembling AgentGPT agent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/deal-finder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We have named our agent "Deal Finder." You can name your agent anything you want; just make sure that name is related to its function or goal. This will make it easy to identify your agents once you save several of them on your side panel.
 
  Although the example provides a vague goal, based on how GPT works, I'd advise you to be more specific with your goals. The more specific you are, the more efficient and accurate your agent will be. Since goals are basically prompts, you may want to [level up your prompting skills](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) to make better goals.
 
  Now, before clicking that deploy agent button, let's first configure our agent.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Configure Agent
 
@@ -98,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
  Configure your agent by clicking on **Settings,** located on the lower left of the screen. Here you will see all the basic settings.
 
 ![Basic settings in AgentGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/basic-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From here, you can set and configure your API, preferred language, model, and execution mode. Make sure to choose the latest model of GPT, as this will provide a better-performing agent. In terms of mode, you can either choose between **Automatic Mode** or **Pause Mode**. Automatic Mode allows your agent to continue executing tasks until it is finished, while Pause Mode makes your agent pause for every step it takes.
 
@@ -113,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
  Using the advanced settings, you can determine the performance of your agent and the quality of its output. Remember to balance these settings properly; the higher they are, the more expensive the operation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Deploy Agent
 
  Once you've assembled and configured your agent, you hit **Deploy Agent** for your agent to start. You can monitor the entire process through the main console of the website. When finished, you can choose to save the agent to store the output within AgentGPT. You can also save your output locally as a PDF, Image, or just a text copy.
@@ -121,19 +116,6 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
  As you can see, our Deal Finder agent successfully provided us with a promo code, a free shipping voucher, and a bundle offer!
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Limitations of AgentGPT
 
  Although AgentGPT gave us a usable output, it does have a few limitations. Firstly, AgentGPT is harder to direct as you cannot provide human input when the agent is running. Also, since you can only direct the agent by giving it a goal, you'll have to be very good at prompting your goal on your first try. Otherwise, your agent will only continue operating until it finishes or you make it stop.
@@ -141,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
  AgentGPT also does not have local file access. Although safer, it also limits functionalities that require access to your local file system. So if you plan to make a program on your local environment, do some web scrapping, or do anything that involves the need to access local files, you might want to look for other platforms such as Auto-GPT or BabyAGI.
 
  Lastly, GPT-3.5 limits the potential of AgentGPT. Although [GPT-4 is the next version from GPT-3.5](http://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/), there are significant differences between the two models. This limits AgentGPT to using only text as inputs and outputs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Future of AgentGPT
 
@@ -165,19 +151,17 @@ thumbnail: https://thmb.techidaily.com/ecc3916e90aab64f99ff84f9c45d036bcf1e08682
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-tips.techidaily.com/best-pcs-for-students-proven-choices-for-study-designing-playing-and-beyond/"><u>Best PCs for Students: Proven Choices for Study, Designing, Playing, and Beyond</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/envisioned-visions-painting-with-chatgpt-and-ai-magic/"><u>Envisioned Visions: Painting with ChatGPT & AI Magic</u></a></li>
-<li><a href="https://driver-download.techidaily.com/epson-xp-440-driver-download-and-update-easily/"><u>Epson XP-440 Driver Download & Update Easily</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-res-360-views-gear-vs-lgcam-showdown/"><u>High-Res 360 Views Gear vs LGCam Showdown</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-seamlessly-update-msi-bios-for-all-windows-systems/"><u>How to Seamlessly Update MSI BIOS for All Windows Systems</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-turbo-faster-window-photo-editor/"><u>In 2024, Turbo Faster Window Photo Editor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insight-into-grok-ai-from-elon-musk-purpose-functionality-and-costing-details/"><u>Insight Into Grok AI From Elon Musk - Purpose, Functionality & Costing Details</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ios-enthusiasts-meet-your-new-chatbuddy/"><u>IOS Enthusiasts, Meet Your New ChatBuddy</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mr-beast-net-worth-overview-for-2024/"><u>Mr. Beast Net Worth Overview for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-snapchat-spotlight-feature-for-2024/"><u>Navigating Snapchat Spotlight Feature for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prime-ai-markets-for-creativity-exchange/"><u>Prime AI Markets for Creativity Exchange</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/renewable-energy-cant-replace-fossil-fuels-overnight/"><u>Renewable Energy Can't Replace Fossil Fuels Overnight</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-your-non-functional-samsung-soundbar/"><u>Troubleshooting Tips: Resolving Issues with Your Non-Functional Samsung Soundbar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/twitter-strips-emojis-linuss-secrets-exposed-trojan-threats-unveiled-and-chatbot-pitfalls/"><u>Twitter Strips Emojis, Linus's Secrets Exposed, Trojan Threats Unveiled, & ChatBot Pitfalls.</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-beyond-youtube-3-pioneering-online-video-platforms/"><u>2024 Approved Beyond YouTube 3 Pioneering Online Video Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-apples-branding-unpacking-6-myths-of-mac-gaming/"><u>Beyond Apple's Branding: Unpacking 6 Myths of Mac Gaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/elevate-your-livestreams-using-manycam-innovative-software-for-virtual-camcorders-and-remote-filming-tech/"><u>Elevate Your Livestreams Using ManyCam – Innovative Software for Virtual Camcorders and Remote Filming Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enablingdisabling-safaris-dual-screen-feature/"><u>Enabling/Disabling Safari's Dual-Screen Feature</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-new-logitech-sound-card-drivers-for-windows-1178-users/"><u>Get the New Logitech Sound Card Drivers for Windows 11/7/8 Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-6-plus-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone 6 Plus IMEI Checker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-and-preserve-sound-on-windows-10/"><u>In 2024, Capture and Preserve Sound on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-script-writing-for-your-next-youtube-masterpiece-with-chatgpt/"><u>Innovative Script Writing for Your Next YouTube Masterpiece with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/lack-of-awareness-in-ai-prose/"><u>Lack of Awareness in AI Prose</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-new-era-of-conversational-agents-bard-vs-bing-chatbot/"><u>The New Era of Conversational Agents: Bard Vs. Bing Chatbot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitscam-takedown-with-the-advent-of-metasignature/"><u>TwitScam Takedown with the Advent of MetaSignature</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-scoring-amazing-holiday-bargains-for-your-tech-wishlist-exclusive-offers-from-newegg-zdnet/"><u>Ultimate Guide to Scoring Amazing Holiday Bargains for Your Tech Wishlist: Exclusive Offers From Newegg | ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crafting Healthier Meals with AI Expertise (ChatGPT)
-date: 2024-11-14T17:26:03.228Z
-updated: 2024-11-17T18:13:21.174Z
+date: 2024-11-22T16:40:45.678Z
+updated: 2024-11-27T16:24:18.527Z
 tags:
   - chatgpt
   - open-ai
@@ -26,11 +26,19 @@ thumbnail: https://thmb.techidaily.com/51ab56587e08f47d807c9660276e637958571843d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Get Basic Recipes and Tips on ChatGPT
 
  For the most part, ChatGPT handles basic recipe and cooking questions well. Prompts like “what's a healthy recipe for salmon?” or “how do I make a salad that tastes good?” provide fine responses for starter recipes.
 
 ![ChatGPT salmon recipe part 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-salmon-recipe-part-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In addition, the chatbot can assist with everyday cooking questions, such as providing helpful techniques for preparing eggs in a more nutritious way upon request. With its ability to provide immediate and tailored advice, this feature offers a practical resource for anyone looking to make healthier and more informed cooking choices.
 
@@ -45,30 +53,17 @@ thumbnail: https://thmb.techidaily.com/51ab56587e08f47d807c9660276e637958571843d
 ![ChatGPT healthy breakfast options part 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-breakfast-options-part-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don't feel like visiting the grocery store? Note the ingredients you already have on hand and the app can (usually) find an appropriate recipe.
 
 ![ChatGPT dinner ideas with what you have on hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dinner-ideas-with-what-you-have-on-hand.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It can also streamline your grocery shopping process. Prompt it to "please provide a healthy grocery shopping list" or "create a shopping list for a week's worth of lunch salads with plenty of protein." This option is perfect for those days when you don't have the brainpower to think about cooking.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Get ChatGPT to Teach You Cooking Skills in a Variety of Ways
@@ -77,16 +72,13 @@ thumbnail: https://thmb.techidaily.com/51ab56587e08f47d807c9660276e637958571843d
 
 ![ChatGPT healthy meal for kids directions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-meal-for-kids-part-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Meanwhile, the prompt “please provide a healthy vegetable recipe as though you are an upscale professional chef” offers a recipe for Seared Asparagus with Lemon-Herb Gremolata. With plenty of fresh herbs for flavor, it's a delicious addition to any meal. Who knew the chatbot had such elegant taste?
 
  In other words, use your prompts to find recipes that suit your needs and interests. Tailor them to your family's nutritional needs, or try out different types of cuisine from around the world.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does ChatGPT Provide Useful Nutritional Information?
 
@@ -121,20 +113,21 @@ thumbnail: https://thmb.techidaily.com/51ab56587e08f47d807c9660276e637958571843d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-11-audiophiles-choice-for-sound-capture/"><u>[New] 11 Audiophile's Choice for Sound Capture</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premier-meme-editing-software/"><u>[New] Premier Meme Editing Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-fcps-ultimate-editing-aid-best-10-plug-ins/"><u>[Updated] FCP's Ultimate Editing Aid Best 10 Plug-Ins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmenting-google-document-functionality-via-ai/"><u>Augmenting Google Document Functionality via AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-premium-path-assessing-the-trade-offs/"><u>ChatGPT's Premium Path: Assessing the Trade-Offs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fortifying-trade-secrets-through-smart-ai-dialogues/"><u>Fortifying Trade Secrets Through Smart AI Dialogues</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-xr-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone XR in the Best Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nokia-g310-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nokia G310 FRP Without Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nlp-vs-ml-understanding-key-distinctions/"><u>NLP vs ML: Understanding Key Distinctions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seeking-quality-over-quantity-why-writers-shun-chatbots/"><u>Seeking Quality over Quantity: Why Writers Shun Chatbots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-growing-concern-over-the-failure-of-artificular-intelligence-in-spotting-copycat-content/"><u>The Growing Concern over the Failure of Artificular Intelligence in Spotting Copycat Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-chatgpt-journey-top-9-key-plugin-integrations/"><u>Transform Your ChatGPT Journey: Top 9 Key Plugin Integrations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-openais-ai-secure-communication/"><u>Unlocking OpenAI's AI Secure Communication</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-a59-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo A59 5G Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-the-hidden-costs-of-using-a-linux-powered-computer/"><u>Unveiling the Hidden Costs of Using a Linux-Powered Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-characters-and-settings/"><u>[New] Crafting Characters and Settings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-beyond-the-screen-a-vr-odyssey/"><u>[Updated] 2024 Approved Beyond the Screen A VR Odyssey</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-enhance-your-meetings-top-5-live-stream-recording-tools-for-2024/"><u>[Updated] Enhance Your Meetings Top 5 Live Stream Recording Tools for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows916/"><u>『Windowsとスマートフォン両方で使える』初級者が作れる9分16秒動画の制作手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-windows-11iso-3/"><u>1. Windows 11上でISOイメージファイルを起動手順: 3つの異なるアプローチ</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/youtubepciphoneandroid/"><u>完全無料でオフライン再生可能！YouTube動画【PC・iPhone・Android】見方大特集</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-how-to-execute-system-file-checker-sfc/"><u>Command Line: How to Execute System File Checker (SFC)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-x50iplus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor X50i+ Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-masters-guide-to-4k-monitors/"><u>In 2024, Game Masters' Guide to 4K Monitors</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mp4androidios/"><u>MP4ビデオをAndroid/iOSスマートフォン対応形式にリニアコンバートするソフトウェアガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-top-11-pc-microphone-recorders-on-the-market/"><u>Ultimate Guide to the Top 11 PC Microphone Recorders on the Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-on-how-to-upload-dvd-footage-to-youtube-platform/"><u>Ultimate Tutorial on How to Upload DVD Footage to YouTube Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028164808-windows-10/"><u>Windows 10で効果的に動画を統合するためのガイド【ビデオ編集手順】</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/windows-10-3/"><u>Windows 10のスクリーン録画テクニック - オプション3つ選択肢解説</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Advocates’ Argument: The Ultimate Language Combatant"
-date: 2024-11-12T19:44:01.570Z
-updated: 2024-11-17T18:57:12.523Z
+date: 2024-11-21T16:36:31.286Z
+updated: 2024-11-27T16:15:56.819Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Google Bard: Comparing the Underlying Technology
 
@@ -59,11 +63,19 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 ![Screenshot of Google Bard answering LLM question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-answering-llm-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, this is a dated response that justifies the statement that response accuracy should always be double-checked. But a couple of other recent updates are apparent in the response too.
 
  The first is the inclusion of dark mode, which was omitted from the first iteration. The second is the inclusion of a **Google it** button and suggested follow on questions.
 
 ![Screenshot of Google Bard Google button and follow on prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-google-button-and-follow-on-prompts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  These are both welcome updates to the tool.
 
@@ -77,28 +89,22 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 ![Screenshot of ChatGPT responding to world cup attendance question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-responding-to-world-cup-attendance-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, we tried to test on non-topical data. We asked both chatbots to answer this question: "How long would it take to drive to the sun?"
 
  Google Bard first; it answered with some comprehensive details.
 
 ![Screenshot of Google Bard answering how long to drive to the sun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-answering-how-long-to-drive-to-the-sun.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We were quite disappointed with the ChatGPT response. This should have been recognized as a hypothetical question, with the result only requiring some basic arithmetic.
 
 ![Screenshot of ChatGPTs answer to driving to sun question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpts-answer-to-driving-to-sun-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To give ChatGPT a second chance, we reworded the question and asked: "How long would it take me to travel to the sun at 65mph?"
@@ -122,20 +128,10 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 ![Screenshot of GPT-4 answering Twitter question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-gpt-4-answering-twitter-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When comparing Google Bard vs. ChatGPT for accuracy, the Bard was the better performer compared to the free version of ChatGPT. If you are using the premium version of ChatGPT, there isn't much separating them. However, as with any chatbot, a pinch of salt is required when determining the accuracy of results.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Comparing Google Bard's and ChatGPT's Creativity
 
@@ -147,22 +143,12 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 ![Screenshot of Google Bard Poetry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-poetry.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When compared to the ChatGPT-3.5 answer below, this is flat and uninspiring.
 
 ![Screenshot of ChatGPT Poetry answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-poetry-answer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Although this is not an extensive test, this example shows what we found to be the case overall—ChatGPT is better at creative tasks than Google Bard.
@@ -174,13 +160,6 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
  As previously noted, measuring creativity is a judgment call, but for us, the new poem still comes up short compared to the ChatGPT effort. ChatGPT still appears to have the edge in the creativity stakes. But what about ChatGPT-4? Let's give it a bash at the same poem and see how the premium version compares.
 
 ![Screenshot of GPT-4 composing poetry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-gpt-4-composing-poetry.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once again,
 
@@ -238,15 +217,21 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-constraints-the-impermissible-questions-list/"><u>ChatGPT's Constraints: The Impermissible Questions List</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-photo-perfection-at-your-fingertips-top-10-stickers-on-iphones-and-androids/"><u>In 2024, Photo Perfection at Your Fingertips Top 10 Stickers on iPhones & Androids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-kitchen-tasks-with-chatgpt-7-essentials/"><u>Mastering Kitchen Tasks with ChatGPT - 7 Essentials</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-setup-of-chatgpt-on-your-pc-tips-for-windows-enthusiasts/"><u>Mastering the Setup of ChatGPT on Your PC: Tips for Windows Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/perfect-your-social-media-presence-wirecast-streaming-tips-for-2024/"><u>Perfect Your Social Media Presence Wirecast Streaming Tips for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/probing-the-dependability-of-zerogpt-tools-including-others/"><u>Probing the Dependability of ZeroGPT Tools, Including Others</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/syntax-spectacle-chatgpt-versus-googles-game/"><u>Syntax Spectacle: ChatGPT Versus Google's Game</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-m6-pro-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco M6 Pro 5G</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-for-updating-your-windows-epson-ds-510-driver/"><u>The Ultimate Walkthrough for Updating Your Windows Epson DS-510 Driver</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-beats-optimal-background-music-for-vids-for-2024/"><u>Unveiling Beats Optimal Background Music for Vids for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-discovering-dormant-dialogues-among-youtube-watchers/"><u>[New] Discovering Dormant Dialogues Among YouTube Watchers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-engaging-youtube-viewers-effective-interaction-strategies/"><u>[Updated] 2024 Approved Engaging YouTube Viewers Effective Interaction Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unpacking-the-impact-of-youtubes-shorts-programme/"><u>[Updated] Unpacking the Impact of YouTube's Shorts Programme</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024mp4aac/"><u>「2024年度版・簡単なMP4からAACへのダウンサイジングガイド」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44oe44kk44od44k44o85zcr44gr44gr44ot44oh44kq44ks5yq55p6c55qe44gr44kr44od44oi44gz44kl5oml6acg44cn/"><u>「ツイッター向けにビデオを効果的にカットする手順」</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-login-validation/"><u>2024 Approved Mastering YouTube Login Validation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024mp4gif5/"><u>2024年度優秀MP4GIF変換無料プログラムベスト5紹介</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1724766074023-macx-dvd-ripper-pro-windows/"><u>線上購買 MacX DVD Ripper Pro (Windows) – 完美安全度解決方案</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-8-no-cost-web-based-voice-recorders-no-signup-or-payment-necessary/"><u>Best 8 No-Cost Web-Based Voice Recorders - No Signup or Payment Necessary!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-windows-7-audio-editing-applications-top-picks-for-quality-recordings/"><u>Best Windows 7 Audio Editing Applications: Top Picks for Quality Recordings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-your-earnings-through-side-hustles-like-chatgpt-tasks-diy-pc-building-secrets-and-retro-gaming-companion-guides/"><u>Boosting Your Earnings Through Side Hustles Like ChatGPT Tasks, DIY PC Building Secrets, and Retro Gaming Companion Guides</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-fixes-for-handling-a-504-gateway-problem/"><u>Comprehensive Fixes for Handling a 504 Gateway Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-your-avi-files-perfectly-for-iphone-with-our-top-picks-of-desktop-and-cloud-services/"><u>Convert Your AVI Files Perfectly for iPhone with Our Top Picks of Desktop and Cloud Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-karaoke-magic-create-personalized-songs-and-music-videos-quickly-for-free/"><u>DIY Karaoke Magic: Create Personalized Songs & Music Videos Quickly for Free!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-lenovo-x230-up-and-running-hassle-free-driver-downloads-available-now/"><u>Get Your Lenovo X230 Up and Running: Hassle-Free Driver Downloads Available Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valheim-pc-game-stability-issues-troubleshooting-the-persistent-crashes/"><u>Valheim PC Game Stability Issues: Troubleshooting the Persistent Crashes</u></a></li>
 </ul></div>
 

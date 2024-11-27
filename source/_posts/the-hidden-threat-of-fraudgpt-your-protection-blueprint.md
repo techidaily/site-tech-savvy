@@ -1,7 +1,7 @@
 ---
 title: The Hidden Threat of FraudGPT - Your Protection Blueprint
-date: 2024-11-12T16:23:58.468Z
-updated: 2024-11-17T19:37:58.704Z
+date: 2024-11-26T16:40:52.198Z
+updated: 2024-11-27T16:53:47.076Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/dbf5bef08d727fe5e5685fdf99546537bd3c0a61b
 
 ![A scammer using a fishing rod to steal data from a person’s laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scammer-using-a-fishing-rod-to-steal-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  FraudGPT is an AI tool powered by a large language model that is particularly fine-tuned to help cyber criminals commit cybercrime. The subscription-based AI tool allows threat actors to facilitate their criminal activities like carding, phishing, and malware creation.
 
  Although details about the tool remain very limited, researchers from Netenrich, a security research firm, have uncovered several ads on the dark web advertising the tool. According to the [research report from Netenrich](https://netenrich.com/blog/fraudgpt-the-villain-avatar-of-chatgpt), the subscription fees range between $200 per month to $1,700 yearly.
@@ -43,10 +47,7 @@ thumbnail: https://thmb.techidaily.com/dbf5bef08d727fe5e5685fdf99546537bd3c0a61b
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
@@ -64,10 +65,7 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can You Protect Yourself From FraudGPT?
@@ -75,10 +73,7 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 ![worrying about red flags online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/thinking-person-using-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite being a new kind of tool, the threat posed by FraudGPT is not fundamentally different. You could say it introduces more automation and efficiency to already established methods of executing cybercrime.
@@ -95,10 +90,7 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay Informed to Protect Yourself
@@ -126,18 +118,17 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-intro-creation-made-simple-free-templates/"><u>[New] 2024 Approved Intro Creation Made Simple - Free Templates</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-duplex-monitoring-transcription-for-2024/"><u>[New] Duplex Monitoring Transcription for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-navigating-the-new-world-of-facebook-updates-for-2024/"><u>[Updated] Navigating the New World of Facebook Updates for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-filter-fallacies-rising-concerns/"><u>AI Filter Fallacies: Rising Concerns</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exceeding-expectations-with-chatgpts-token-count/"><u>Exceeding Expectations with ChatGPT's Token Count</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-kitchen-novice-to-gourmet-with-chatgpts-help/"><u>From Kitchen Novice to Gourmet with ChatGPT's Help</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oneplus-ace-2-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On OnePlus Ace 2 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-lava-yuva-2-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Lava Yuva 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016205203-hp-notebook-soundless-blues-heres-how-to-restore-your-devices-volume/"><u>HP Notebook Soundless Blues? Here’s How to Restore Your Device's Volume</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-s24-ultra-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy S24 Ultra Phone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-playlist-guide-for-youtube-enthusiasts-online-and-mobile/"><u>In 2024, The Ultimate Playlist Guide for YouTube Enthusiasts Online & Mobile</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-your-browsers-ai-potential-our-top-7-suggestions/"><u>Unleash Your Browser's AI Potential: Our Top 7 Suggestions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-top-three-ais-chatgpt-microsoft-bing-ai-google-bard/"><u>Unveiling the Top Three AIs: ChatGPT, Microsoft Bing AI, Google Bard</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-imagination-drought-hindering-vr-development/"><u>[New] In 2024, The Imagination Drought Hindering VR Development</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aking-an-impression-professional-pc-editing-strategies-for-youtube/"><u>[New] Making an Impression Professional PC Editing Strategies for YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-can-you-receive-a-monthly-check-from-youtube/"><u>[Updated] Can You Receive a Monthly Check From YouTube?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-pcmac-to-the-feed-how-to-efficiently-upload-videos-to-instagram/"><u>[Updated] From PC/Mac to the Feed How to Efficiently Upload Videos to Instagram</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/come-scaricare-e-copiare-un-dvd-sul-tuo-computer-con-lutilizzo-di-software-movimaker/"><u>Come Scaricare E Copiare Un DVD Sul Tuo Computer Con L'Utilizzo Di Software MoviMaker</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dont-lose-your-memories-activate-apples-key-icloud-function-to-prevent-accidental-photo-disappearances/"><u>Don't Lose Your Memories: Activate Apple's Key iCloud Function to Prevent Accidental Photo Disappearances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/el-poder-del-guion-grafico-en-la-narracion-visual-una-guia-facil-de-seguir-con-7-pasos/"><u>El Poder Del Guión Gráfico en La Narración Visual - Una Guía Fácil De Seguir Con 7 Pasos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tial-guide-to-creating-popularity-with-youtube-opens/"><u>Essential Guide to Creating Popularity with YouTube Opens</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-your-corsair-hs60-mic-issue-step-by-step-solution-for-unresponsive-microphone/"><u>Fix Your Corsair HS60 Mic Issue - Step by Step Solution for Unresponsive Microphone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-gaming-thumbs-for-immersive-experience/"><u>In 2024, Top Gaming Thumbs for Immersive Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verzend-retour-beheer-professionele-logistiek-losungen-van-movavi/"><u>Verzend-Retour Beheer: Professionele Logistiek Lösungen Van Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dpxmovavi/"><u>オンラインで簡単に自由にDPXファイルを変換：Movaviの解決方法</u></a></li>
 </ul></div>
 

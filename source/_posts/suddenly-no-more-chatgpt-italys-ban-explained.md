@@ -1,7 +1,7 @@
 ---
 title: Suddenly No More ChatGPT? Italy's Ban Explained
-date: 2024-11-11T19:21:15.580Z
-updated: 2024-11-17T19:00:54.033Z
+date: 2024-11-22T16:53:06.344Z
+updated: 2024-11-27T17:01:18.413Z
 tags:
   - chatgpt
   - open-ai
@@ -28,19 +28,24 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Did Italy Ban ChatGPT?
 
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On March 30th, 2023, the Italian Data Protection Authority, Garante per la Protezione dei Dati Personali (GPDP), [officially announced](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9870847) a ChatGPT ban, effective immediately, that would last until ChatGPT complied with the EU's GDPR.
 
  The Italian data regulator declared that [OpenAI's ChatGPT posed several problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) and infringed the EU's privacy law. The GDPD's privacy concerns can be broken down into five key areas:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Breach of Privacy Laws
@@ -49,38 +54,15 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 
 ![ChatGPT Onboarding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-onboarding.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Italian regulator ensures data controllers follow the general obligations outlined in the EU's privacy law, and OpenAI falls short.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Unjustified Collection of Personal Data
 
  Asides from the breach of its privacy laws, the GDPD claims that there is no legal justification for OpenAI's massive collection and processing of personal data to train ChatGPT's algorithms. According to the Italian regulator, ChatGPT's information doesn't always match factual circumstances, so OpenAI can use falsified personal data.
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. A Lack of Easily-Accessible and Transparent Information
 
@@ -89,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 ### 4\. Lack of Age Verification Systems
 
  The GDPD announced that ChatGPT exposes inappropriate information to users under 13 because it lacks appropriate age detection mechanisms. This underage exposure violates the EU's GDPR, which states that individuals must clearly consent to the processing of their personal data. As underage individuals, they are not to consent on their behalf.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Risk of Data Breaches
 
@@ -123,19 +109,17 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nhance-visibility-essential-youtube-seo-strategies-revealed/"><u>[New] Enhance Visibility Essential YouTube SEO Strategies Revealed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-aperture-alchemy-crafting-the-top-10-lens-list/"><u>[New] In 2024, Aperture Alchemy Crafting the Top 10 Lens List</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-silencing-the-spotlight-avoiding-vloggers-fears/"><u>[Updated] Silencing the Spotlight Avoiding Vlogger's Fears</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-review-of-current-smartar-eyewear-are-they-meeting-expectations/"><u>A Comprehensive Review of Current Smart/AR Eyewear: Are They Meeting Expectations?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/activating-openais-chatgpt-with-internet-access-and-extended-features/"><u>Activating OpenAI's ChatGPT with Internet Access & Extended Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advance-your-tech-comparisons-utilizing-geekbenchs-cutting-edge-benchmarking-features-for-devices/"><u>Advance Your Tech Comparisons: Utilizing Geekbench's Cutting-Edge Benchmarking Features for Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/awaiting-lift-off-spacex-may-become-rescue-mission-for-stranded-boeing-starliner-crew/"><u>Awaiting Lift-Off: SpaceX May Become Rescue Mission for Stranded Boeing Starliner Crew</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-bots-integrating-the-power-of-chatgpt-across-multiple-software-platforms/"><u>Beyond Bots: Integrating the Power of ChatGPT Across Multiple Software Platforms</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-nvidia-quadro-rtx-8000-driver-for-win-10-8-and-7-pcs/"><u>Get the Newest Nvidia Quadro RTX 8000 Driver for Win 10, 8 & 7 PCs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-htc-u23-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from HTC U23 Pro To Phone | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-sprint-showcase-short-track-22-glory/"><u>In 2024, Sprint Showcase Short Track '22 Glory</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sharp-clear-and-crisp-wxf991-camcorders-video/"><u>Sharp, Clear & Crisp: WXF991 Camcorder's Video</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/mlining-youtube-watch-order-masterclass-for-2024/"><u>Streamlining YouTube Watch Order Masterclass for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-uninterrupted-operation-of-the-fuser-application-in-windows/"><u>Troubleshooting Steps for Uninterrupted Operation of the Fuser Application in Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-proficient-content-tagging-made-simple-the-best-7-budget-friendly-online-taggification-apps-reviewed/"><u>[Updated] Proficient Content Tagging Made Simple The Best 7 Budget-Friendly Online Taggification Apps Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deceptive-gpt-extension-rips-off-fb-credentials/"><u>Deceptive GPT Extension: Rips Off FB Credentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/high-end-ai-requests-return-on-investment-analysis/"><u>High-End AI Requests - Return on Investment Analysis</u></a></li>
+<li><a href="https://win-net.techidaily.com/how-to-download-la7tv-content-in-various-formats-including-mp4-and-wmv/"><u>How to Download La7.tv Content in Various Formats Including MP4 and WMV</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nokia-g42-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nokia G42 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-hot-40-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Hot 40 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-speedwave-top-5-reasons-for-gpts-explosion/"><u>Navigating the Speedwave: Top 5 Reasons for GPT's Explosion</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-steam-marketplace-access-fixes-for-loading-failures/"><u>Reviving Your Steam Marketplace Access: Fixes for Loading Failures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-auto-gpt-and-ubuntu/"><u>Unlocking Potential with Auto-GPT & Ubuntu</u></a></li>
+<li><a href="https://win-tips.techidaily.com/vmware-vcenter-revival-procedure-comprehensive-steps-for-system-reboot-using-previous-snapshots/"><u>VMware vCenter Revival Procedure: Comprehensive Steps for System Reboot Using Previous Snapshots</u></a></li>
 </ul></div>
 

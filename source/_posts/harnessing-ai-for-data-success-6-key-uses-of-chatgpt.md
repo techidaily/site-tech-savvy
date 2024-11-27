@@ -1,7 +1,7 @@
 ---
 title: "Harnessing AI for Data Success: 6 Key Uses of ChatGPT"
-date: 2024-11-13T16:15:49.428Z
-updated: 2024-11-17T19:09:53.130Z
+date: 2024-11-20T16:39:57.396Z
+updated: 2024-11-27T16:57:53.668Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
 ![The response from ChatGPT on a prompt that ask it how to segment customer data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image3-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Suppose you want to write a script to automate a business process. You can ask ChatGPT for ideas on how to get started. All you have to do is ask it for a prompt via the chat and wait for its response. You can ask further questions or alternative viewpoints from the response.
 
 > **Case Study:** I have a business problem. I want to [create a dashboard in Excel](https://www.makeuseof.com/create-interactive-excel-dashboard/) to segment and track the behavior of my customer. I currently run a coffee shop, and a few make orders via my e-commerce website.
@@ -58,11 +62,19 @@ CALCULATE(
 
 ![A prompt response from ChatGPT about a debugging task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image1-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. To Interpret Data and Explain Complex Code
 
 ![A prompt from ChatGPT that displays the explaination of a code block](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image6-v1.jpg)
 
  ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. To Write, Edit and Generate Codes, Formula, and Syntax
 
@@ -91,17 +103,7 @@ else:
 ![A prompt that display clearly written code by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image4-v1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Learning New Skills
@@ -110,14 +112,11 @@ else:
 
 ![A prompt that show how to add a static date and time in Tableau.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image5-v1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  By writing a prompt, you can learn about new features and skills, or how to use a specific function in your favorite analytical tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Document Your Codes
 
@@ -267,13 +266,6 @@ ORDER BY e.employee_id;`
 
 ![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Data Analysts Can Use ChatGPT in Their Work
 
  Powerful AI solutions like ChatGPT boost everyone's productivity, even data analysts. Using ChatGPT's natural language processing capabilities and asking the right prompt, data analysts can quickly and accurately get ideas and insight into their tasks.
@@ -299,22 +291,24 @@ ORDER BY e.employee_id;`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-boosting-your-online-presence-a-step-by-step-guide-to-viral-youtube-shorts/"><u>[New] Boosting Your Online Presence A Step-by-Step Guide to Viral YouTube Shorts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastering-channel-growth-the-5-key-youtube-strategies/"><u>[Updated] In 2024, Mastering Channel Growth The 5 Key YouTube Strategies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills/"><u>[Updated] Speaking Like a Pro Tips to Upgrade Your Google Meet Skills</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-prime-mac-video-tools-apart-from-bandicam/"><u>2024 Approved Prime Mac Video Tools Apart From Bandicam</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-visual-verdict-clash-sj6-prodigy-versus-yis-4k-masterpiece/"><u>2024 Approved Visual Verdict Clash SJ6 Prodigy Versus Yi’s 4K Masterpiece</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-creativity-with-top-ai-enhanced-pdf-tools/"><u>Effortless Creativity with Top AI-Enhanced PDF Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/googles-palm-2-clashes-with-openais-gpt-4/"><u>Google's PaLM 2 Clashes with OpenAI's GPT-4</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-spark-20-proplus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Spark 20 Pro+ To Phone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-conversation-designing-unique-chatgpts/"><u>Innovating Conversation: Designing Unique ChatGPTs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keeping-your-conversational-data-intact-with-chatgpt/"><u>Keeping Your Conversational Data Intact with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-character-creation-11-pivotal-chatgpt-tips/"><u>Mastering Character Creation: 11 Pivotal ChatGPT Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalized-book-selection-simplified-top-5-ai-driven-literature-services/"><u>Personalized Book Selection Simplified: Top 5 AI-Driven Literature Services</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/professional-fb-ad-videos-made-simple-free-kit-included/"><u>Professional FB Ad Videos Made Simple – Free Kit Included</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trading-highs-and-lows-gpts-role-in-digital-asset-markets/"><u>Trading Highs & Lows: GPT's Role in Digital Asset Markets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vehicle-personalization-pathways-via-chatterbot-guidance/"><u>Vehicle Personalization Pathways via Chatterbot Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-movavi-wtv-converter/"><u>«無償WEB上の動画形式変換ツール - Movavi WTV Converter»</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-adding-linguistic-accessibility-to-your-igtv-videos/"><u>[New] 2024 Approved Adding Linguistic Accessibility to Your IGTV Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-drone-reality-check-gopro-karma-in-action/"><u>[New] Drone Reality Check GoPro Karma in Action</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamline-your-content-with-essential-ratio-knowledge-for-youtube/"><u>[Updated] Streamline Your Content with Essential Ratio Knowledge for YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-transform-meetings-with-easy-to-follow-zoom-sharing-tips-for-2024/"><u>[Updated] Transform Meetings with Easy-to-Follow Zoom Sharing Tips for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-mpeg-avs-movavi/"><u>1. 網路版無料移動電話影片 MPEG-AVS 改編：Movavi 轉頻器指南</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quintessential-gopro-modifications/"><u>2024 Approved Quintessential Gopro Modifications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tips-for-finding-christian-choir-songs-online-and-personalizing-them/"><u>2024 Approved Tips for Finding Christian Choir Songs Online & Personalizing Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-find-the-best-and-easy-guide-to-use/"><u>7 : Find the Best and Easy Guide to Use!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jpeg-moviavi/"><u>無料JPEGコンバートサービス - MoviAVIプログラム オンラインで利用可能</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/entendendo-o-contraste-de-mov-e-mp4-qual-tem-as-vantagens/"><u>Entendendo O Contraste De MOV E MP4: Qual Tem as Vantagens?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-konvertereen-van-aiff-naar-mp4-met-online-tools-movavi/"><u>Gratis Konvertereen Van AIFF Naar MP4 Met Online-Tools - Movavi</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-critical-asmr-series-to-experience/"><u>In 2024, Critical ASMR Series to Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-beveled-video-format-converter-m4v-to-aac-free-download-at-movavi/"><u>Online Beveled Video Format Converter M4V to AAC Free Download at Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resetting-razers-controller-fixed-in-w10-and-w11/"><u>Resetting Razer's Controller: Fixed in W10 & W11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-to-revive-an-unresponsive-astro-a20-microphone/"><u>Step-by-Step Fixes to Revive an Unresponsive Astro A20 Microphone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategie-avanzate-per-la-compressione-dei-file-video-mp4-utilizzando-il-software-di-movavi-tutorial-completo-e-facile-da-seguire/"><u>Strategie Avanzate per La Compressione Dei File Video MP4 Utilizzando Il Software Di Movavi: Tutorial Completo E Facile Da Seguire</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-voice-communication-problems-in-warzone-for-both-desktop-and-gaming-console-players/"><u>Troubleshooting Voice Communication Problems in Warzone for Both Desktop and Gaming Console Players</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/web-mef/"><u>WEB에서 자연스럽게 가격이나 무시하고 MEF 데이터의 완벽한 전환</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehending Giant Language Processors in Tech
-date: 2024-11-14T18:54:33.854Z
-updated: 2024-11-17T16:07:12.726Z
+date: 2024-11-21T16:14:20.875Z
+updated: 2024-11-27T16:33:51.880Z
 tags:
   - chatgpt
   - open-ai
@@ -58,28 +58,22 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
  But LLMs go deeper than this. They can also tailor replies to suit the emotional tone of the input. When combined with contextual understanding, the two facets are the main drivers that allow LLMs to create human-like responses.
 
  To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Limitations of LLMs?
 
@@ -100,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
  Here are some of the most widely used LLMs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. GPT
 
  Generative Pre-trained Transformer (GPT) is perhaps the most widely known LLM. GPT-3.5 powers the ChatGPT platform used for the examples in this article, while the newest version, GPT-4, is available [through a ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Microsoft also uses the latest version [in its Bing Chat platform](https://www.makeuseof.com/chatgpt-vs-bing-chat-best-generative-ai-chatbot/).
@@ -109,10 +107,7 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
  This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. BERT
@@ -135,10 +130,7 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
@@ -166,22 +158,22 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-cloud-storage-services-a-guides-choice/"><u>[New] Premium Cloud Storage Services A Guide's Choice</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-flight-horizon-masters-ranking-the-high-endurance-drones/"><u>[Updated] 2024 Approved Flight Horizon Masters Ranking the High-Endurance Drones</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-versatile-biz-decks-free-template-and-resource-options/"><u>[Updated] In 2024, Versatile Biz Decks FREE Template and Resource Options</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/achieving-youtube-financial-goals-via-viewer-statistics-for-2024/"><u>Achieving Youtube Financial Goals via Viewer Statistics for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-strategies-to-outshine-your-resume-competitors/"><u>AI-Driven Strategies to Outshine Your Resume Competitors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-and-their-capability-of-engaging-in-dialogue/"><u>Chatbots and Their Capability of Engaging in Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-forefront-ai-a-comparative-analysis-with-chatgpt/"><u>Demystifying Forefront AI: A Comparative Analysis with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-insights-into-the-world-of-pc-components-by-toms-technology-hub/"><u>Expert Insights Into the World of PC Components by Tom's Technology Hub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-hix-for-writing-mastery/"><u>Harnessing HIX for Writing Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-search-menu-opening-by-itself-on-windows-11/"><u>How to Fix the Search Menu Opening by Itself on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-s17-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-cyberspace-puzzles-unravel-4-ai-enigma-games/"><u>Interactive Cyberspace Puzzles: Unravel 4 AI Enigma Games</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/jumpstart-your-projects-using-xps-film-editor/"><u>Jumpstart Your Projects Using XP's Film Editor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/microsofts-future-ai-powered-bing/"><u>Microsoft's Future: AI-Powered Bing</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-animation-drawing-made-easy-top-software-picks-and-beyond/"><u>New Animation Drawing Made Easy Top Software Picks and Beyond</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-silent-threat-to-personal-information-from-chatgpt/"><u>The Silent Threat to Personal Information From ChatGPT</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-list-of-8-indispensable-steam-deck-add-ons-for-the-ideal-experience/"><u>The Ultimate List of 8 Indispensable Steam Deck Add-Ons for the Ideal Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-voices-of-authenticity-in-marketing/"><u>[New] 2024 Approved Voices of Authenticity in Marketing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-vision-quest-does-coding-outshine-the-box/"><u>2024 Approved Vision Quest Does Coding Outshine the Box?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi-ogv-movavi/"><u>免費線上AVI-OGV間自由轉換，體驗 Movavi 翻譯器的效能</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ving-youtube-apex-with-smart-management-tools/"><u>Achieving YouTube Apex with Smart Management Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-free-mac-video-conversion-tool-try-movavi-for-hassle-free-download-and-use/"><u>Best Free Mac Video Conversion Tool - Try Movavi for Hassle-Free Download and Use</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715701071040-explore-mp4-recording-tools-today/"><u>Explore MP4 Recording Tools Today!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flash-video-mp4/"><u>Flash Video MP4に自動変換:無料、使いやすく効率的なオンラインツール</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-of-pef-images-to-jpeg-effortless-with-movavi/"><u>Free Online Conversion of PEF Images to JPEG: Effortless with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuito-converter-imagens-webp-para-gif-online-no-site-do-movavi/"><u>Gratuito: Converter Imagens WEBP Para GIF Online No Site Do Movavi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-the-unresponsive-headset-mic-on-sony-wh-1000-series-for-desktop-computers/"><u>How to Repair the Unresponsive Headset Mic on Sony WH-1000 Series for Desktop Computers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-game-changer-implementing-custom-gaming-banners/"><u>In 2024, The Game Changer Implementing Custom Gaming Banners</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/mastering-the-art-of-capturing-fifa-18-sessions-on-ps4-tips-for-flawless-sharing/"><u>Mastering the Art of Capturing FIFA 18 Sessions on PS4 – Tips for Flawless Sharing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/snapchat-ad-101-create-stunning-and-effective-snapchat-ads/"><u>Snapchat Ad 101 Create Stunning & Effective Snapchat Ads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-12-applicaties-om-stamppunts-te-herstel/"><u>Top 12 Applicaties Om Stamppunts Te Herstel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformacion-de-videos-a-formato-wmv-una-guia-sencilla-con-movavi/"><u>Transformación De Videos a Formato WMV: Una Guía Sencilla Con Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unraveling-the-mystery-of-vr-gear-selection-wireless-elegance-versus-cable-convenience-for-2024/"><u>Unraveling the Mystery of VR Gear Selection Wireless Elegance versus Cable Convenience for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webm-and-wma/"><u>Webm & Wma 포토 갭을 해제: 가상의 공간에서 원료없이 변환 방법 - 모바비</u></a></li>
 </ul></div>
 

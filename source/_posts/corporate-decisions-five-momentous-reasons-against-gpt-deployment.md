@@ -1,7 +1,7 @@
 ---
 title: "Corporate Decisions: Five Momentous Reasons Against GPT Deployment"
-date: 2024-11-10T16:49:07.751Z
-updated: 2024-11-17T16:34:33.636Z
+date: 2024-11-22T16:17:12.877Z
+updated: 2024-11-27T16:40:53.821Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Data Leaks
 
 [ChatGPT requires a large amount of data to train and operate effectively](https://www.makeuseof.com/how-does-chatgpt-work/). The chatbot was trained using massive amounts of data derived from the internet, and it continues to be trained.
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
  Many organizations are opting to restrict employees from utilizing ChatGPT to avoid data leaks, which can damage their reputation, lead to financial losses, and put their customers and employees at risk.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Cybersecurity Risks
 
 ![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
@@ -52,15 +60,16 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
  If a company integrates ChatGPT and there are weaknesses in the chatbot's security system, attackers may be able to exploit the vulnerabilities and inject malware codes. Also, ChatGPT's ability to generate human-like responses is a golden egg for phishing attackers who can take over an account or impersonate legitimate entities to deceive company employees into sharing sensitive information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Creation of Personalized Chatbots
 
 ![robot standing in the middle of a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatbot-chatgpt-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite its innovative features, ChatGPT can produce false and misleading information. As a result, many companies have created AI chatbots for work purposes. For instance, the Commonwealth Bank of Australia asked its employees to use Gen.ai instead, an artificial intelligence (AI) chatbot that uses CommBank's information to provide answers.
@@ -75,22 +84,12 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
  Companies are restricting ChatGPT, fearing potential violations of privacy laws and industry-specific regulations.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Irresponsible Use by Employees
 
 ![Three Employees Chatting With ChatGPT Open on Desktop](https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93697161a134c6af27a69e27e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In many companies, some employees rely solely on ChatGPT responses to generate content and perform their duties. This breeds laziness in the work environment and staunches creativity and innovation.
@@ -100,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
  Although ChatGPT is a powerful tool, using it to address complex queries requiring domain-specific expertise can damage a company's operation and efficiency. Some employees may not remember to fact-check and verify responses provided by the AI chatbot, treating responses as a one size fits all solution.
 
  To mitigate problems like these, companies are placing bans on the chatbot so that employees can focus on their tasks and provide error-free solutions to users.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Bans: Better Safe Than Sorry
 
@@ -135,22 +127,20 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlocking-igtv-potential-converting-and-curating-horizontal-videos/"><u>[New] In 2024, Unlocking IGTV Potential Converting and Curating Horizontal Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/apex-fusion-hubs-all-in-one-4k-multi-touch-desktops-for-2024/"><u>Apex Fusion Hubs All-in-One 4K Multi-Touch Desktops for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/battling-fraudgpt-threats-essential-protection-tactics/"><u>Battling FraudGPT Threats: Essential Protection Tactics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-a-unique-gpt-framework/"><u>Craft a Unique GPT Framework</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/data-driven-dialogue-building-personalized-ai-engagement/"><u>Data-Driven Dialogue: Building Personalized AI Engagement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diy-upgrade-anticipating-gpt-4s-impact/"><u>DIY Upgrade: Anticipating GPT-4's Impact</u></a></li>
-<li><a href="https://win-able.techidaily.com/elite-gamers-only-defeat-grounded-pc-performance-problems-with-these-latest-strategies/"><u>Elite Gamers Only: Defeat 'Grounded' PC Performance Problems with These Latest Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hack-proof-chatterbots-a-must-do-guide/"><u>Hack-Proof Chatterbots: A Must-Do Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-or-install-aoc-monitor-drivers-on-windows-11108-systems/"><u>How to Update or Install AOC Monitor Drivers on Windows 11/10/8 Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/korek-api-untuk-menyerahkan-fotohapus-permanen-tanpa-kembalian-dengan-ease-pada-window-10/"><u>Korek Api Untuk Menyerahkan Fotohapus Permanen Tanpa Kembalian Dengan Ease Pada Window 10!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/occupational-change-are-careers-vulnerable-to-ai/"><u>Occupational Change: Are Careers Vulnerable to AI?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-chatgpt-tweaks-youll-love/"><u>Revolutionary ChatGPT Tweaks You'll Love!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-operational-principles-behind-openais-gpt-3-sharing/"><u>The Operational Principles Behind OpenAI's GPT-3 Sharing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-huawei-nova-y91-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Huawei Nova Y91 Location | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-restoring-deleted-messages-on-gmail/"><u>Ultimate Guide: Restoring Deleted Messages on Gmail</u></a></li>
-<li><a href="https://fox-links.techidaily.com/video-enthusiasts-guide-to-the-best-photo-backdrop-swappers/"><u>Video Enthusiasts' Guide to the Best Photo Backdrop Swappers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-assisted-storytelling-9-essential-guides-for-novelists/"><u>GPT-Assisted Storytelling: 9 Essential Guides for Novelists</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-tecno-phantom-v-flip-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Tecno Phantom V Flip to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-to-performance-the-truth-about-mechanical-mice/"><u>Key to Performance: The Truth About Mechanical Mice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-your-student-status-for-apple-music-savings-step-by-step-instructions/"><u>Leveraging Your Student Status for Apple Music Savings – Step-by-Step Instructions</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/optimizing-post-export-video-clarity/"><u>Optimizing Post-Export Video Clarity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-shelldll-not-found-errors-expert-advice-and-fixes-at-hand/"><u>Overcoming 'Shell.dll Not Found' Errors: Expert Advice & Fixes at Hand</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-fitness-strategies-using-generative-ai/"><u>Tailoring Fitness Strategies Using Generative AI</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-covert-guide-to-livestreaming-on-instagram-unseen-for-2024/"><u>The Covert Guide to Livestreaming on Instagram Unseen for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-goliaths-massive-language-frameworks-showcase/"><u>Top 6 Goliaths: Massive Language Frameworks Showcase</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-how-you-search-bings-ai-ready-for-mobile-devices/"><u>Transform How You Search: Bing’s AI Ready for Mobile Devices.</u></a></li>
+<li><a href="https://facebook.techidaily.com/traverse-through-virtual-relationships-in-fb-timeline/"><u>Traverse Through Virtual Relationships in FB Timeline</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/understanding-light-settings-in-youtube-video-editing-for-2024/"><u>Understanding Light Settings in YouTube Video Editing for 2024</u></a></li>
 </ul></div>
 

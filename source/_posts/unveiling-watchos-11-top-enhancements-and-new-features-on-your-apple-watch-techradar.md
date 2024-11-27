@@ -1,7 +1,7 @@
 ---
 title: "Unveiling WatchOS 11: Top Enhancements and New Features on Your Apple Watch | TechRadar"
-date: 2024-11-11T17:20:40.344Z
-updated: 2024-11-17T16:58:24.811Z
+date: 2024-11-25T16:58:56.970Z
+updated: 2024-11-27T16:50:24.334Z
 tags:
   - apple
 categories:
@@ -38,16 +38,13 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -70,10 +67,7 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
@@ -83,10 +77,7 @@ The Photos face is one of the most popular faces on the Apple Watch, given its h
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Double Tap now works with any app
@@ -96,6 +87,10 @@ One of the biggest complaints with the [Apple Watch Series 9](https://www.zdnet.
 Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Check In comes to your wrist
 
@@ -107,16 +102,13 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
 
@@ -160,22 +152,16 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-television-or-projector-unraveling-the-best-for-4k-viewing-pleasure-for-2024/"><u>[New] Television or Projector? Unraveling the Best for 4K Viewing Pleasure for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-charting-your-path-podcast-income-expectations/"><u>[Updated] Charting Your Path Podcast Income Expectations</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027145566-iso/"><u>「細切りのISOファイルをひも解ける完全ガイド - ビデオチュートリアル」</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-ultimate-money-making-guide-on-social-media/"><u>2024 Approved The Ultimate Money-Making Guide on Social Media</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-misguided-guardian-role/"><u>AI's Misguided Guardian Role?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-usage-balancing-progress-and-security/"><u>ChatGPT Usage: Balancing Progress and Security</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-brilliance-of-claude-next-gen-ai-for-your-enterprise/"><u>Discover the Brilliance of Claude: Next-Gen AI for Your Enterprise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-power-of-gpt-3s-latest-browsing-updates/"><u>Discover the Power of GPT-3's Latest Browsing Updates</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ring-various-ways-to-earn-on-youtube/"><u>Exploring Various Ways to Earn on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-source-to-system-your-auto-gpt-walkthrough/"><u>From Source to System: Your Auto-GPT Walkthrough</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrate-smartly-chatgpt-and-its-plugins-guide/"><u>Integrate Smartly: ChatGPT and Its Plugins Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-3-dimensions-chatgpt-wolfram-alpha-interaction/"><u>Navigating 3 Dimensions: ChatGPT-Wolfram Alpha Interaction</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ts-unveiled-learn-to-hide-oneself-on-video-for-2024/"><u>Secrets Unveiled? Learn to Hide Oneself on Video for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-browsing-with-gpt-extensions-or-risks/"><u>Secure Browsing with GPT: Extensions or Risks?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-insiders-techniques-for-google-voice-recordings/"><u>The Insider's Techniques for Google Voice Recordings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transformez-les-fichiers-wmv-en-haute-definition-mp4-avec-une-fidelite-garantie-de-98-aujourdhui-meme/"><u>Transformez Les Fichiers WMV en Haute Définition MP4 Avec Une Fidélité Garantie De 98%, Aujourd'hui Même</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-audio-component-overuse-of-processor-resources-in-windows-os/"><u>Troubleshooting Audio Component Overuse of Processor Resources in Windows OS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-how-to-watch-nba-in-real-time-15-effective-strategies/"><u>[New] How to Watch NBA in Real Time 15 Effective Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-supercharge-your-games-premium-top-10-drives/"><u>[New] In 2024, Supercharge Your Games Premium Top 10 Drives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-full-guide-to-instagrams-per-video-limit-for-2024/"><u>[Updated] The Full Guide to Instagram's Per-Video Limit for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-ustream-live-stream-platforms-reviewed/"><u>2024 Approved Beyond Ustream Live Stream Platforms Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-distrust-spotting-impostor-chatgpt-sites-for-security/"><u>Digital Distrust: Spotting Impostor ChatGPT Sites for Security!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-understanding-the-role-of-software-in-high-quality-screencasts/"><u>In 2024, Understanding the Role of Software in High-Quality Screencasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nondescriptive-repositories-for-intact-chatgpt-interactions/"><u>Nondescriptive Repositories for Intact ChatGPT Interactions</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/professionelle-anleitung-zur-erweiterung-ihres-surface-pro-x-mit-einer-solid-state-festplatte/"><u>Professionelle Anleitung Zur Erweiterung Ihres Surface Pro X Mit Einer Solid State Festplatte</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-digital-muse-using-chatgpt-for-dynamic-story-creation/"><u>The Digital Muse: Using ChatGPT for Dynamic Story Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-invisible-fortress-using-nightshade-to-guard-artistic-expression/"><u>The Invisible Fortress: Using Nightshade to Guard Artistic Expression</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-leading-8-chrome-addons-ai-for-enhanced-productivity/"><u>The Leading 8 Chrome Addons: AI for Enhanced Productivity</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Leveraging GPT-3 on Your Devices, Android & iOS
-date: 2024-11-14T18:36:25.106Z
-updated: 2024-11-17T18:35:38.874Z
+date: 2024-11-22T16:56:10.516Z
+updated: 2024-11-27T16:03:27.893Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ea75582ea70b2baa8f13f147c9ac0969420a2e4a8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using OpenAI's Official ChatGPT App
 
  ChatGPT is available for iOS and Android. Here's how you can use it:
@@ -49,6 +53,10 @@ Close
 
  Now you can start using ChatGPT as you would on your computer. If you cannot download the app because it's unavailable in your area, you can try using ChatGPT through the web browser method or download the third-party apps listed below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using ChatGPT Through a Smartphone Web Browser
 
  On both Android and iOS devices, you can use your phone's web browser to access ChatGPT (if you'd prefer to avoid using the official ChatGPT apps). You need to create an account, launch the website through your smartphone web browser, and you're good to go.
@@ -61,24 +69,18 @@ Close
 
 ![ChatGPT final disclaimer screen iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-final-disclaimer-screen-ios.jpg)
 
-![ChatGPT conversation screen iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-conversation-screen-iphone.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ChatGPT conversation screen iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-conversation-screen-iphone.jpg)
 
 Close
 
  Like the desktop version, you can access previous conversations, [upgrade to ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), or even enable dark mode. You can access these settings by tapping the **menu icon** in the top-left corner of your screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using ChatGPT Through Siri Shortcuts
@@ -107,13 +109,6 @@ Close
 
  That's certainly a lot of work, and whether it's worth it depends on how much you use the shortcut. At its worst, it's a neat party trick, but at its best, you have the power of GPT in your hands, now with the voice of Siri powering it. Again, this is not the most convenient way of accessing ChatGPT, but it's surprising how well it works when it does.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Third-Party ChatGPT Apps for Android and iOS
 
  If the official ChatGPT app is unavailable in your area, third-party apps are a great alternative. They provide a much more stable UI than the web version but don't just go with any third-party app with "chat" and "GPT" in its title. Most apps are garbage and want to steal your information—or worse.
@@ -121,13 +116,6 @@ Close
  If you have an iPhone, you should give [Perplexity](https://apps.apple.com/us/app/perplexity-ask-anything/id1668000334) a try. The app uses an AI-powered search engine and replicates a lot of the functionality of ChatGPT—one reason being that it's based on OpenAI's GPT technology. However, its purpose is slightly different because it is a search engine that fulfills text generation requests well. Perplexity can also provide sources for its answers, search the internet for real-time information, and even allows you to search by voice.
 
 ![Perplexity AI app sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-sources.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Perplexity AI app thread](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perplexity-ai-app-thread-1.jpg)
 
@@ -141,13 +129,14 @@ Close
 
 ![Nova GPT Android app homescreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-homescreen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Nova GPT Android app prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Nova GPT Android app text to speech](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nova-gpt-android-app-text-to-speech.jpg)
@@ -156,6 +145,10 @@ Close
 
 **Download:** Nova for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2024179/https://play.google.com/store/apps/details?id=com.scaleup.chatai&hl=en&gl=US) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Protect Yourself From Scams
 
  Amid all the excitement with AI, staying on your toes is important. You can easily fall victim to apps that steal your data, charge you for no reason, or annoy you with a constant barrage of ads.
@@ -163,10 +156,7 @@ Close
  Your best bet is to go with the official app or use the web version in the absence of it. But, then, the Siri Shortcuts method is great, too. Furthermore, if you need a third-party ChatGPT app, stick with our recommendations. However, if you want the best experience, stick to the official ChatGPT website or the official ChatGPT app, or try Microsoft's Bing AI Chat.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Power of AI in the Palm of Your Hands
@@ -192,20 +182,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-peacock-party-patter/"><u>[Updated] 2024 Approved Peacock Party Patter</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-calculating-storage-needs-for-all-day-videography-for-2024/"><u>[Updated] Calculating Storage Needs for All-Day Videography for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-virtual-aid-fb-stories-downloader/"><u>[Updated] In 2024, Virtual Aid FB Stories Downloader</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-top-5-methods-for-capturing-sound-in-windows-11/"><u>[Updated] Top 5 Methods for Capturing Sound in Windows 11</u></a></li>
-<li><a href="https://driver-install.techidaily.com/accelerate-blockchain-operations-with-installation-guide-amd-and-windows/"><u>Accelerate Blockchain Operations with Installation Guide: AMD & Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adaptive-technology-start-with-your-8-customized-models-now/"><u>Adaptive Technology: Start with Your 8 Customized Models Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augment-your-workflow-access-8-personalized-ais/"><u>Augment Your Workflow: Access 8 Personalized AIs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-basics-tomorrows-enhanced-ai-systems/"><u>Beyond Basics: Tomorrow's Enhanced AI Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-made-better-in-chrome-discover-our-top-7-fixes/"><u>ChatGPT Made Better in Chrome: Discover Our Top 7 Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deconstructing-ai-vulnerability-unraveling-the-workings-of-prompt-injections/"><u>Deconstructing AI Vulnerability - Unraveling the Workings of Prompt Injections</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/examining-gpt-4s-edge-over-gpt-35/"><u>Examining GPT-4's Edge Over GPT-3.5</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-clearfocuscutout-how-to-blur-your-youtube-videos-background/"><u>In 2024, ClearFocusCutOut How to Blur Your YouTube Video's Background</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-screenshot-to-masterpiece-explore-these-top-8-multimedia-apps/"><u>In 2024, From Screenshot to Masterpiece Explore These Top 8 Multimedia Apps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-poem-craft-via-chatgpt-interaction/"><u>The Art of Poem Craft via ChatGPT Interaction</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-leading-popular-instagram-after-effects-designs-for-2024/"><u>[New] Leading Popular Instagram After Effects Designs for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-free-money-tips-for-reddit-novices-13-best-ways/"><u>[Updated] Free Money Tips for Reddit Novices (13 Best Ways!)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inside-insights-the-ultimate-10-secret-canva-tricks/"><u>[Updated] Inside Insights The Ultimate 10 Secret Canva Tricks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-media-music-grabber-for-2024/"><u>[Updated] Social Media Music Grabber for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-virtual-accessory-fb-story-saves/"><u>[Updated] Virtual Accessory - FB Story Saves</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44kq44oz44op44kk44oz5yuv55s744kz44oz44og44oz44oe44ks5yplusw5b6x44gz44kl44gf44kb44gu44k544ob44ol44ov44o844oj44k344od44ox44ks44kk44oj44op44kk44oz44cn/"><u>「オンライン動画コンテンツを取得するためのスチュワードシップガイドライン」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44k544k44k144ox5yuv55s744ks5lplusd5a2y44gz44kl44gf44kb44gu56m25qw15oml6acg77ya5a6m5ywo6kej5ymw44cn/"><u>「スタサプ動画を保存するための究極手順：完全解剖」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/44cm44oa44oz44k55oyv44kk5luy44gr6kiy5oa26kgt77ya5yuv55s75yplusn6lui5oqa6kgt44ks5l244gj44gf5pa55rov44cn/"><u>「ダンス振り付け記憶術：動画反転技術を使った方法」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-bbc/"><u>1. BBCニュースのライブビデオダウンロード手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-transform-avi-files-into-high-definition-hd-videos-perfectly-displayed-on-hd-screens/"><u>1. Transform AVI Files Into High Definition (HD) Videos Perfectly Displayed on HD Screens</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-selections-best-mac-applications-for-videography/"><u>2024 Approved Top Selections Best Mac Applications for Videography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726026372099-dvd/"><u>新しいDVD視聴に失敗する主な理由と解決策</u></a></li>
+<li><a href="https://blog-min.techidaily.com/fix-your-youtube-playback-glitches-expert-solutions-unveiled/"><u>Fix Your YouTube Playback Glitches: Expert Solutions Unveiled!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/strategic-showdowns-unleashed-exploring-7-best-games/"><u>Strategic Showdowns Unleashed Exploring 7 Best Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-free-windows-11-dvd-authoring-software-in-202n4-burn-faster-better-quality-discs/"><u>Ultimate Guide to Free Windows 11 DVD Authoring Software in 202N4 – Burn Faster, Better Quality Discs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028294038-windows-media-player/"><u>Windows Media Player用ファイルの互換性拡張方法：詳細ガイド</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/xbox-extra-storage-best-hdd-options-reviewed/"><u>Xbox Extra Storage Best HDD Options Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030225715-mkv/"><u>マルチメディアファイルにおけるMKV形式からの自動生成文字盤除去技術</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Chatbot Convictions: The True Vs. Myth Narrative"
-date: 2024-11-13T16:37:54.175Z
-updated: 2024-11-17T17:42:14.385Z
+date: 2024-11-20T16:54:55.594Z
+updated: 2024-11-27T16:32:27.200Z
 tags:
   - chatgpt
   - open-ai
@@ -46,9 +46,17 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, just to be clear, there are known limitations to ChatGPT and the age of the data it can reference. That question was deliberately set up to expose this. However, we asked Bard the same question when [comparing Google Bard vs. ChatGPT](https://www.makeuseof.com/chatgpt-vs-google-bard/), and it got it wrong too:
 
 ![Screenshot of ChatGPT answering question about Google Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-question-about-google-bard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Chatbots may be clever, but they aren’t capable of any type of task and will sometimes fail on the simplest of questions.
 
@@ -62,27 +70,7 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
 ![Screenshot of ChatGPT answering threat to humanity question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-answering-threat-to-humanity-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But it would say that. Wouldn't it?
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. AI Chatbots Are Infallible
 
@@ -93,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 [AI hallucinations are a common form of error](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) that all too often shows just how fallible these tools are.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Chatbots Will Replace Human Interaction
@@ -104,19 +89,6 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
  The answer to this question can hark back to the section on sentience. Chatbots can mimic human responses and can certainly competently answer factual questions (mostly) and help in many ways. However, they cannot understand emotions, human experiences, and many of the nuances of conversation.
 
  Human interaction is a complex and multileveled process that involves such elements as empathy, critical thinking, emotional understanding, and intuition. None of these attributes are present in generative AI chatbots.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. AI Generative Chatbots Are Only Good for Text Interactions
 
@@ -134,16 +106,13 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
  However, for the moment at least, the potential for biased responses is an unresolved issue.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Chatbots Are Actually Real Humans
 
 ![Picture of mechanical typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/picture-of-mechanical-typewriter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Perhaps the most ludicrous myth is that behind every AI chatbot is a real human. This one is treading a delicate line between conspiracy theory and myth, we won’t dwell on this one other than to say that it's nonsense.
 
@@ -154,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
  While AI chatbots utilize machine learning techniques to improve their performance, they do not possess the ability to program themselves autonomously.
 
  The training process could be likened to the testing process of non-AI software. Training involves predefining their objectives, designing their architecture, and teaching them to generate responses based on the data in the relevant LLM. This entire progress still requires human intervention and programming expertise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AI Chatbots: Separating Fact From Fiction
 
@@ -182,21 +155,22 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-timeless-trove-of-freely-shared-works/"><u>[New] The Timeless Trove of Freely Shared Works</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-complete-guide-to-premiere-pro-full-scene-preview/"><u>2024 Approved A Complete Guide to Premiere Pro Full Scene Preview</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-xr-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone XR</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/critical-examination-of-the-conceptual-parallels-between-traditional-libraries-and-online-information-systems/"><u>Critical Examination of the Conceptual Parallels Between Traditional Libraries and Online Information Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-ai-strategies-7-proven-tips-unveiled/"><u>Cutting-Edge AI Strategies: 7 Proven Tips Unveiled</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ripods-how-to-stabilize-your-camera-without-buying-a-tripod/"><u>DIY Tripods| How to Stabilize Your Camera without Buying a Tripod</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-high-fps-drop-in-titanfall-2-simple-troubleshooting-steps/"><u>Fix High FPS Drop in Titanfall 2 - Simple Troubleshooting Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-your-writings-new-best-friend/"><u>GPT-4: Your Writing's New Best Friend</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-camon-20-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Camon 20 Pro 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-some-outdated-your-hardware-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Identify some outdated your hardware drivers with Windows Device Manager on Windows 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-s23-ultra-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy S23 Ultra Phone? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor Lock Screen Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pinnacle-of-generative-tech-notion-vs-chatgpt-analysis/"><u>Pinnacle of Generative Tech: Notion Vs. ChatGPT Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-intelligence-evaluation-beyond-the-classic-trial/"><u>Redefining Intelligence Evaluation Beyond the Classic Trial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-selective-ai-apps-for-writers/"><u>Unleashing Potential: Selective AI Apps for Writers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-ai-mirage-techniques-to-discern-real-insights-from-fake/"><u>Unveiling AI Mirage: Techniques to Discern Real Insights From Fake</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-a-viral-video-journey-6-key-strategies-on-youtube/"><u>[New] 2024 Approved Crafting a Viral Video Journey 6 Key Strategies on YouTube</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-10-unique-video-reaction-strategies-for-online-enthusiasts/"><u>[Updated] 10 Unique Video Reaction Strategies for Online Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-discreet-downloaders-ranked-2023s-best-8-selections/"><u>[Updated] 2024 Approved Discreet Downloaders Ranked 2023'S Best 8 Selections</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-fix-stuck-instagram-story-pins/"><u>[Updated] 2024 Approved Fix Stuck Instagram Story Pins</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-rated-wedding-timekeepers-a-comprehensive-android-and-ios-app-review/"><u>[Updated] Best-Rated Wedding Timekeepers A Comprehensive Android & iOS App Review</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-immerse-yourself-in-a-shared-tiktok-journey-for-2024/"><u>[Updated] Immerse Yourself in a Shared TikTok Journey for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-learning-how-chatgpt-benefits-5-key-areas-in-schools/"><u>Boosting Learning: How ChatGPT Benefits 5 Key Areas in Schools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-your-creative-catalyst-for-poetic-works/"><u>ChatGPT as Your Creative Catalyst for Poetic Works</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatterbot-security-staying-one-step-ahead/"><u>Chatterbot Security: Staying One Step Ahead</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-unique-chat-experiences/"><u>Craft Unique Chat Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-syntax-giants-unveiling-gpt-and-bert-distinctions/"><u>Dissecting Syntax Giants: Unveiling GPT & BERT Distinctions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-poco-m6-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Poco M6 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-creative-backgrounds-for-engaging-thumbnails/"><u>In 2024, Creative Backgrounds for Engaging Thumbnails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterminds-in-making-words-comparing-notion-and-gpt-3/"><u>Masterminds in Making Words: Comparing Notion and GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/skype-vs-snapchat-top-8-in-ai-divergence/"><u>Skype vs Snapchat: Top 8 in AI Divergence</u></a></li>
+<li><a href="https://win-bits.techidaily.com/snap-pictures-with-crisp-snow-like-backdrops/"><u>Snap Pictures with Crisp Snow-Like Backdrops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-quests-engaging-with-chatgpt-as-a-game-master/"><u>Virtual Quests: Engaging with ChatGPT as a Game Master</u></a></li>
 </ul></div>
 

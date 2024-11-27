@@ -1,7 +1,7 @@
 ---
 title: AI Text Without a Mirror for Flaws
-date: 2024-11-16T18:09:02.504Z
-updated: 2024-11-17T18:22:25.644Z
+date: 2024-11-22T16:07:07.457Z
+updated: 2024-11-27T16:12:03.438Z
 tags:
   - chatgpt
   - open-ai
@@ -36,31 +36,29 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
 ![False positive judgement by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/false-positive-judgement-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We then asked ChatGPT to generate a story, and in that same chat thread, we copy-pasted the generated text and asked ChatGPT whether the text was AI-created. ChatGPT's response? A confident "No."
 
 ![ChatGPT false negative judgement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-negative-judgement.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT failed at identifying human-written or AI-generated text in both cases. So how come ChatGPT cannot detect its own text? Does this mean there is no difference between AI and human text?
 
  Well, there is. We could write an entire book on the difference between the two, but it won't matter much. So, if there's a difference, why is ChatGPT or any other AI tool unable to identify these differences and accurately point out AI-generated text from a human-written one? The answer lies in [how ChatGPT works and how it generates text](http://www.makeuseof.com/how-does-chatgpt-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How ChatGPT Generates Text
 
 ![Artificial intelligence and puny human are shaking hands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-power-of-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you ask ChatGPT to generate text, it tries to mimic the human writing process. Firstly, the model behind ChatGPT—Generative Pre-trained Transformer (GPT)—has been trained on a large corpus of human text. Everything from emails, health articles, tech articles, high school essays, and just about any text you can find online has been fed to the model during training. So ChatGPT understands how each of these types of texts should be written.
 
@@ -69,16 +67,7 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
  But there's a catch. Unlike how humans write, ChatGPT does not really understand what it is writing in a way that a human would. Instead, the chatbot tries to predict what would be the most plausible next word in a sentence until it completes the write-up.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How ChatGPT Writes by Prediction
@@ -94,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
  AI chatbots like ChatGPT are designed to mimic natural human language as much as possible. So while AI text may have discernable patterns, those patterns are not so obvious even to a powerful tool like ChatGPT. This is why ChatGPT can not spot its own writing, as well as [why AI-text detector tools do not work](https://www.makeuseof.com/ai-content-detectors-dont-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Recognize Its Own Writing In the Future?
@@ -123,22 +109,21 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/phoneplusandroid-discover-the-top-10-video-making-picks/"><u>[New] IPhone+Android Discover the Top 10 Video-Making Picks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-vdy-hd-snapshot-reviews-complete-evaluation-for-2024/"><u>[New] VDY HD Snapshot Reviews Complete Evaluation for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mastering-in-game-audio-capture-in-overwatch/"><u>[Updated] 2024 Approved Mastering In-Game Audio Capture in Overwatch</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-pinnacle-predictors-top-tiktok-income-calculators/"><u>[Updated] Pinnacle Predictors Top TikTok Income Calculators</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-swift-shift-from-srt-to-text-your-modern-guide-for-speed/"><u>[Updated] Swift Shift From SRT to Text Your Modern Guide for Speed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artistic-revolution-chatbots-transforming-media-creation/"><u>Artistic Revolution: Chatbots Transforming Media Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-language-assistants-the-case-of-bing-chat-vs-gpt-3-for-professionals/"><u>Decoding Language Assistants: The Case of Bing Chat Vs. GPT-3 for Professionals</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/ejecucion-paso-a-paso-para-generar-una-imagen-del-sistema-en-windows-11/"><u>Ejecución Paso a Paso Para Generar Una Imagen Del Sistema en Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-ais-impact-on-accessibility-to-mental-health-resources/"><u>Evaluating AI’s Impact on Accessibility to Mental Health Resources</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-prompt-engineering-techniques-and-their-career-resilience/"><u>Exploring Prompt Engineering Techniques and Their Career Resilience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oppo-k11-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Oppo K11 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/initiate-local-gratis-conversational-ai-via-gpt4all/"><u>Initiate Local, Gratis Conversational AI via GPT4All</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfect-your-palate-with-ai-enhanced-gourmet-guidance/"><u>Perfect Your Palate with AI-Enhanced Gourmet Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rethinking-ai-laws-the-call-from-openais-top-boss/"><u>Rethinking AI Laws: The Call From OpenAI's Top Boss</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-comparing-leading-4k-youtube-to-mp3-extractors-for-2024/"><u>Ultimate Guide to Comparing Leading 4K YouTube to MP3 Extractors for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-podcast-names-plus-50plus-podcast-name-ideas-for-2024/"><u>Ultimate Guide to Podcast Names (Plus 50+ Podcast Name Ideas) for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whysilenceddialogues-yearning-for-chatgpt-resumption/"><u>WhySilencedDialogues: Yearning for ChatGPT Resumption</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-game-on-with-these-5-must-have-broadcast-cams/"><u>[New] Game on with These 5 Must-Have Broadcast Cams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-use-jump-cuts-in-your-vlog/"><u>[New] In 2024, How To Use Jump Cuts in Your Vlog</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-video-aesthetics-on-tiktok-dual-approach/"><u>[New] Transforming Video Aesthetics on TikTok (Dual Approach)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-guiding-principles-for-modifying-photographic-identities-on-major-social-platforms/"><u>[Updated] Guiding Principles for Modifying Photographic Identities on Major Social Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-prime-fb-extra-tools-enhanced-firefox-version-compatibility/"><u>[Updated] Prime FB Extra Tools Enhanced Firefox Version Compatibility</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/2024-techniques-for-shifting-voice-recordings-from-ios-devices-to-desktop-computers-expert-strategies/"><u>2024 Techniques for Shifting Voice Recordings From iOS Devices to Desktop Computers: Expert Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/corporate-challenges-five-reasons-to-question-ai-dialogue-systems/"><u>Corporate Challenges: Five Reasons to Question AI Dialogue Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-stop-your-everspace-2-game-from-freezingcrashing/"><u>Effective Solutions to Stop Your Everspace 2 Game From Freezing/Crashing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/export-and-share-with-ease-top-4-applications-for-gpt-3-histories/"><u>Export & Share with Ease: Top 4 Applications for GPT-3 Histories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-to-governance-in-artificial-worlds/"><u>Guide to Governance in Artificial Worlds</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mystery-unraveled-what-is-the-new-gpt/"><u>Mystery Unraveled: What Is the New GPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-6-pro-versus-iphone-13-pro-in-depth-comparison-and-buyers-guide-for-the-ultimate-smartphone/"><u>Pixel 6 Pro versus iPhone 13 Pro: In-Depth Comparison and Buyer's Guide for the Ultimate Smartphone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-content-with-chatgpt-techniques/"><u>Revolutionizing Content with ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-exclusive-deal-on-new-apple-pencil-2nd-gen-for-just-95-perfect-gift-idea-this-labor-day-sourced-by-zdnet/"><u>Unlock Exclusive Deal on New Apple Pencil (2Nd Gen) for Just $95 - Perfect Gift Idea This Labor Day, Sourced by ZDNET!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-head-to-head-comparison-sony-vegas-vs-adobe-premiere-pro-for-video-editors-for-2024/"><u>Updated Head-to-Head Comparison Sony Vegas vs Adobe Premiere Pro for Video Editors for 2024</u></a></li>
 </ul></div>
 

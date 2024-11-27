@@ -1,7 +1,7 @@
 ---
 title: Shedding Light on AI's Black Box Secrets
-date: 2024-11-16T18:05:22.371Z
-updated: 2024-11-17T16:30:02.647Z
+date: 2024-11-21T16:45:00.373Z
+updated: 2024-11-27T16:32:28.475Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are AI Black Boxes?
 
  An AI black box is an independent system that can make decisions without explaining how these decisions were reached. That's a simple definition of an AI black box.
@@ -39,10 +43,7 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
  We will set the concerns aside for the moment as we look at how AI black boxes work.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How AI Black Boxes Work
@@ -60,16 +61,7 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
  Once the training phase is completed, the black boxes can be deployed to make independent decisions based on the learned algorithms and patterns. However, the lack of transparency about how decisions are reached is one of the primary concerns surrounding AI black boxes.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Challenges and Risks of AI Black Boxes
@@ -85,10 +77,7 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
  These are known challenges, and efforts are underway to develop more accountable and transparent AI systems that can "show their workings."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the Future Hold for AI Black Boxes?
@@ -106,10 +95,7 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
  This is still a raw technology, one which is straining ethical and legal boundaries. Addressing the concerns around AI black boxes is critical to its future and development.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Black Boxes: An Ethical Dilemma
@@ -139,22 +125,16 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-essentials-of-creating-memorable-fb-slideshows-for-2024/"><u>[New] The Essentials of Creating Memorable FB Slideshows for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-art-of-seamless-editing-mastering-the-filmora-experience/"><u>2024 Approved The Art of Seamless Editing Mastering the Filmora Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-unleashed-groundbreaking-gpt-developments-that-matter-most/"><u>AI Unleashed: Groundbreaking GPT Developments That Matter Most</u></a></li>
-<li><a href="https://win11.techidaily.com/control-at-a-click-manage-windows-tray-using-keyboard-commands/"><u>Control at a Click: Manage Windows Tray Using Keyboard Commands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-ai-the-essentials-of-prompt-engineering-and-job-security/"><u>Crafting AI: The Essentials of Prompt Engineering and Job Security</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-task-management-auto-gpt-in-ubuntu/"><u>Effortless Task Management: Auto-GPT in Ubuntu</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-non-flexible-modifications-of-gpt/"><u>Exploring Non-Flexible Modifications of GPT</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-m6-pro-4g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco M6 Pro 4G? Try These Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-ai-face-off-notion-ai-vs-openais-chatgpt/"><u>Generative AI Face-Off: Notion AI Vs. OpenAI's ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-10-4g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark 10 4G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-vector-databases-in-artificinas-intelligence/"><u>Leveraging Vector Databases in Artificinas Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swift-action-for-stabilizing-plugin-service-communication/"><u>Swift Action for Stabilizing Plugin-Service Communication</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-foremost-chatgpt-techniques-for-enhanced-health-outcomes/"><u>The Foremost ChatGPT Techniques for Enhanced Health Outcomes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/to-replace-or-not-weighing-phone-and-pod-battery-lifespans/"><u>To Replace or Not: Weighing Phone & Pod Battery Lifespans</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Updated In 2024, Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-10-free-video-translators-to-mitigate-translation-risks-for-2024/"><u>Updated Top 10 Free Video Translators to Mitigate Translation Risks for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-identifying-when-unfriended-on-snapchat-for-2024/"><u>[Updated] Identifying When Unfriended on Snapchat for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-logitech-k350-webcam-drivers-and-software/"><u>Free Download: Logitech K350 Webcam Drivers and Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-redmi-note-13-proplus-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Redmi Note 13 Pro+ 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-tecno-camon-20-pro-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Tecno Camon 20 Pro 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-virtual-realitys-interactive-gear/"><u>In 2024, Unraveling Virtual Reality's Interactive Gear</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-mastering-the-basics-of-free-flv-video-converter-factory/"><u>Step-by-Step Guide: Mastering the Basics of FREE FLV Video Converter Factory</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-mov-videos-into-mp4-format-using-handbrake/"><u>Step-by-Step Guide: Transforming MOV Videos Into MP4 Format Using HandBrake</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-setting-up-diggz-xenon-plus-and-a-complimentary-add-on-with-kodi-matrix-v19/"><u>Step-by-Step Tutorial: Setting Up Diggz Xenon Plus and a Complimentary Add-On with Kodi Matrix V19</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-converting-and-sharing-videos-from-youtube-to-tiktok/"><u>The Ultimate Guide to Converting and Sharing Videos From YouTube to TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-no-cost-mts-video-format-changer-transform-your-videos-into-mov-mp4-and-more-in-high-definition/"><u>Top No-Cost MTS Video Format Changer: Transform Your Videos Into MOV, MP4 & More in High Definition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unparalleled-video-quality-the-ultimate-18-list-for-2024/"><u>Unparalleled Video Quality - The Ultimate #18 List for 2024</u></a></li>
 </ul></div>
 

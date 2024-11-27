@@ -1,7 +1,7 @@
 ---
 title: "Empowering Everyone: The Journey Into GPT-4"
-date: 2024-11-14T18:13:37.096Z
-updated: 2024-11-17T17:15:01.540Z
+date: 2024-11-22T17:02:01.848Z
+updated: 2024-11-27T16:33:55.095Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is GPT-4o?](https://ship7com.pxf.io/0zwaz3)
@@ -35,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
 So, what is GPT-4o?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is GPT-4o?
@@ -53,16 +54,13 @@ So, what is GPT-4o?
 
 ![openai gpt4o peformance chart may 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/openai-gpt4o-peformance-chart-may-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  Now, numbers are all very well and good, but what does that actually translate to? Well, again, working from OpenAI's numbers, GPT-4o "matches GPT-4 Turbo performance" for English writing and coding, is significantly faster in "non-English languages," and, most importantly, is faster and cheaper in terms of API use.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## GPT-4o Live Capabilities Are Astounding
 
@@ -77,10 +75,7 @@ So, what is GPT-4o?
  I was in Morocco recently, and even with Google Translate helping get some meaning into Arabic, the full context of the translation is never completely accurate. GPT-4o's live translation would have been incredibly useful!
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Coding and Tutoring
@@ -90,16 +85,7 @@ So, what is GPT-4o?
  The ability to debug code using just your voice is remarkable. However, its real use will only become clear when actual programmers and developers begin using the tool. While ChatGPT's coding abilities are useful, they're only as useful as the knowledge of the user, like most generative AI tools.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Does GPT-4o Launch? Is GPT-4o Free?
@@ -127,14 +113,16 @@ So, what is GPT-4o?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-pc-masterys-essential-list-for-video-download-enthusiasts/"><u>[Updated] 2024 Approved PC Mastery's Essential List for Video Download Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-snag-soundwaves-from-fb-topics/"><u>2024 Approved Snag Soundwaves From Fb Topics</u></a></li>
-<li><a href="https://win-web3.techidaily.com/a-guide-to-tiff-image-files-and-data-recovery-techniques/"><u>A Guide to TIFF Image Files and Data Recovery Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-babel-fish-assessing-new-translation-titles/"><u>AI Babel Fish: Assessing New Translation Titles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-mechanisms-behind-ai-bot-censorship/"><u>Deciphering the Mechanisms Behind AI Bot Censorship</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-communication-gateway-gpt-plus-vpn/"><u>Secure Communication Gateway: GPT + VPN?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-fabrication-frontier-pinpointing-false-patterns-by-ai-systems/"><u>The Fabrication Frontier: Pinpointing False Patterns by AI Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-game-changing-reasons-mastery-of-chatgpt-in-your-career/"><u>The Game-Changing Reasons: Mastery of ChatGPT in Your Career</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-best-windows-music-managers/"><u>[Updated] In 2024, Best Windows Music Managers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5b2x54mh5y676iom5bel5yw35o6o6i2q77ya5y2b5lu25lin5yplusv5bcr55qe5zmo5lu2ic0g5oplusq6auy6k6w5bplusg5pwi546h77yb/"><u>影片去背工具推荐：十件不可少的器件 - 提高记忆效率！</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuite-de-fichiers-raw-au-format-wmv-en-ligne-avec-movavi/"><u>Conversion Gratuite De Fichiers RAW Au Format WMV en Ligne Avec Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/creating-memes-on-9gag-tips-and-tricks/"><u>Creating Memes on 9GAG Tips and Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descarga-gratuita-para-convertir-archivos-de-video-webm-a-formato-vob-sin-problemas/"><u>Descarga Gratuita Para Convertir Archivos De Vídeo Webm a Formato VOB Sin Problemas</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/global-licensing-leader-at-abbyy-elevated-to-aiim-fellow-status/"><u>Global Licensing Leader at ABBYY Elevated to AIIM Fellow Status</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-foundational-handbook-to-youtube-business-success/"><u>In 2024, The Foundational Handbook to YouTube Business Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/png-gif-online-movavi/"><u>PNG 이미지를 GIF으로 구성보다 자유롭게 Online 전용 - Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/transform-your-office-efficiency-with-expert-strategies-for-using-slack/"><u>Transform Your Office Efficiency with Expert Strategies for Using Slack</u></a></li>
 </ul></div>
 

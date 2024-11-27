@@ -1,7 +1,7 @@
 ---
 title: "Unleash Creativity: The Best 7 Online Aid Resources"
-date: 2024-11-16T19:29:50.988Z
-updated: 2024-11-17T17:57:13.450Z
+date: 2024-11-25T17:05:01.878Z
+updated: 2024-11-27T16:21:14.090Z
 tags:
   - chatgpt
   - open-ai
@@ -40,35 +40,19 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 * **Temperature:** This parameter dictates the randomness of the AI model's output. Systems with low temperatures are less likely to sample multiple sources. You’ll get the exact, fine-tuned output even if you regenerate responses several times.
 * **Stop Sequences:** AI stops generating tokens once it hits your predetermined stop sequences. Open-ended instructions produce lengthy outputs.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Playground AI
 
 ![Generating an Image of a Dog Eating Hotdogs on Playground AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/playground-ai-generating-images.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Although Midjourney is a reliable text-to-image generator, it’s quite pricey. Aspiring prompt engineers might not want to buy tools they’ll rarely use.
 
  If you’re just studying AI art, try Playground AI. The platform lets you generate 1,000 images with Stable Diffusion 1.5, Stable Diffusion 2.1, and Playground V1 daily. You can also adjust output parameters, e.g., prompt guidance and seed.
 
  Playground AI is in no way related to the OpenAI Playground. Please don’t confuse the two.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. GPTtools
 
@@ -94,15 +78,16 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
  Also, sell prompts that solve problems. Identify what AI users commonly complain about, create ways to overcome these roadblocks, then market the prompts online.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. GitHub
 
 ![Searching Github Repositories for ChatGPT Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt-prompts.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Anyone interested in AI needs a GitHub account. It features a massive database of LLMs, programming, coding, and prompt engineering resources. You’ll find infinite repositories discussing these topics.
@@ -110,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
  You can expand your knowledge of AI by studying various resources, but you could also focus on writing prompts. In fact, there are several [unique, effective ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/). Search whatever task you want—you’ll likely find a few formulas showing you how to execute it.
 
  To further improve your skills, collaborate with other users. Free accounts get about 2,000 minutes of Actions and 120 core hours of Codespaces a month. Play around with the site a bit. You can consider upgrading to a Pro account as you take on bigger projects.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Find Anything
 
@@ -123,22 +112,12 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
  Or better yet, solely use Find Anything for art inspiration. Running it requires less technical know-how than Midjourney—beginners can practice testing text-to-image prompts here.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Eye for AI
 
 ![Generating Skull and Flower Image on EyeforAi Image Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/eyeforai-image-generator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need an affordable Midjourney alternative, try Eye for AI. It uses the Stable Diffusion 1.5 model by default, and you can start generating images right from the get-go. Just input your text prompts. You could also select helpful descriptors to improve output accuracy.
@@ -174,22 +153,22 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-social-media-post-resolution-guide-for-2024/"><u>[New] Social Media Post Resolution Guide for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-revolutionize-your-virtual-engagements-with-advanced-google-meet-customization/"><u>[Updated] 2024 Approved Revolutionize Your Virtual Engagements with Advanced Google Meet Customization</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elite-10-volume-augmenters-for-all-os/"><u>[Updated] In 2024, Elite 10 Volume Augmenters for All OS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-paint-your-posts-brightly-instagrams-triple-highlight-strategies-for-2024/"><u>[Updated] Paint Your Posts Brightly Instagram's Triple Highlight Strategies for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-pc-guide-extract-twitters-funny-images/"><u>[Updated] PC Guide Extract Twitter's Funny Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-interactive-voice-turning-prompts-into-meaningful-exchanges/"><u>AI's Interactive Voice: Turning Prompts Into Meaningful Exchanges</u></a></li>
-<li><a href="https://windows11.techidaily.com/control-windows-11s-emphasis-and-search-highlight/"><u>Control Windows 11'S Emphasis and Search Highlight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/go-mobile-bings-intelligent-search-for-your-devices-now/"><u>Go Mobile: Bing’s Intelligent Search for Your Devices Now.</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-best-funny-fictional-frequencies/"><u>In 2024, The Best Funny Fictional Frequencies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-cross-platform-use-a-step-by-step-guide-to-running-linux-on-xcode-with-an-ingenious-hack-zdnet-exclusive/"><u>Mastering Cross-Platform Use: A Step-by-Step Guide to Running Linux on Xcode with an Ingenious Hack - ZDNET Exclusive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-dungeon-architects-tools-gpt-generative-ai-in-character-design/"><u>Mastering Dungeon Architects' Tools: GPT, Generative AI in Character Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-chatgpt-barriers-to-entry-effortlessly/"><u>Overcoming ChatGPT Barriers to Entry Effortlessly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-advanced-fabrication-with-ai-powered-chatgpt/"><u>Pioneering Advanced Fabrication with AI-Powered ChatGPT</u></a></li>
-<li><a href="https://article-posts.techidaily.com/swift-recovery-reviving-windows-photo-viewer-on-modern-os-for-2024/"><u>Swift Recovery Reviving Windows Photo Viewer on Modern OS for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-three-ai-battles-chatgpt-microsoft-bing-ai-and-google-bard/"><u>Top Three AI Battles: ChatGPT, Microsoft Bing AI, and Google Bard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trio-showdown-gpt-microsofts-bing-ai-and-googles-bard-conquerors/"><u>Trio Showdown: GPT, Microsoft's Bing AI & Google's Bard Conquerors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truthcoin-exposed-fact-or-fiction/"><u>TruthCoin Exposed: Fact or Fiction?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-crack-the-code-of-tinders-elite-profiles-with-these-tricks/"><u>[New] Crack the Code of Tinder's Elite Profiles with These Tricks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-choosing-the-right-tool-for-your-youtube-to-avi-desire/"><u>[Updated] Choosing the Right Tool for Your YouTube-to-AVI Desire</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-introducing-top-tier-facebook-update-insights/"><u>[Updated] In 2024, Introducing Top-Tier Facebook Update Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-android-emulators-for-playstation-2-gaming/"><u>[Updated] Top 5 Android Emulators for PlayStation 2 Gaming</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-transform-your-virtual-meetings-using-zoom-within-the-gmail-platform-for-2024/"><u>[Updated] Transform Your Virtual Meetings Using Zoom Within the Gmail Platform for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-webmmp4/"><u>網路直讀無限自由 - MOVAVI WEBM到MP4解決方案</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726227082629-mp3aac-movavi/"><u>在線上無成本轉換MP3為AAC格式 - 利用Movavi音樂編輯工具</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effortless-video-magic-classic-80s-vhs-techniques/"><u>Effortless Video Magic Classic 80S VHS Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/ifas-big-unveil-top-laptop-selections-of-2023/"><u>IFA's Big Unveil - Top Laptop Selections of 2023</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-vivo-s18-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo S18 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-s17-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo S17 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riconversione-mov-in-ogg-gratuita-guida-passo-passo-su-movavi/"><u>Riconversione MOV in Ogg Gratuita: Guida Passo-Passo Su Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-your-perfect-9-online-anniversary-celebration-videos/"><u>The Ultimate Guide to Choosing Your Perfect 9 Online Anniversary Celebration Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-15-gif-maker-tools-compatible-with-windows-and-mac-os-ranked-by-experts/"><u>Top 15 GIF Maker Tools Compatible with Windows and Mac OS - Ranked by Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-tuoi-file-wav-in-mp4-rapidamente-e-gratuitamente-online-guida-semplice/"><u>Trasforma I Tuoi File WAV in MP4 Rapidamente E Gratuitamente Online – Guida Semplice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-capturing-screenshots-on-windows-10-using-different-methods/"><u>Ultimate Guide: Capturing Screenshots on Windows 10 Using Different Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/versterk-je-webinarrief-met-gratuite-f4vflv-konektie-overwin-met-movavi-konverteerder/"><u>Versterk Je Webinarrief Met Gratuite F4V/FLV Konektie - Overwin Met Movavi Konverteerder</u></a></li>
 </ul></div>
 

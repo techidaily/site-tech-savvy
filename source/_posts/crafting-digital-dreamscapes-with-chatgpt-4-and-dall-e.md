@@ -1,7 +1,7 @@
 ---
 title: Crafting Digital Dreamscapes with ChatGPT-4 and DALL-E
-date: 2024-11-12T18:06:32.098Z
-updated: 2024-11-17T16:17:17.422Z
+date: 2024-11-20T16:37:20.418Z
+updated: 2024-11-27T16:55:57.223Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 * [How to Use DALL-E in a ChatGPT Chat](https://zonlipartnershipprogram.pxf.io/b0rbxy)
 * [How to Use DALL-E in the ChatGPT App](https://electronicx.pxf.io/xkwqkk)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * OpenAI has integrated DALL-E, its AI image generation tool, into ChatGPT's chats, allowing users to generate images by prompting the system.
@@ -46,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
  You no longer have to leave ChatGPT to generate AI images. OpenAI has integrated its flagship AI image generation tool, DALL-E, into ChatGPT’s chats. Thanks to this, you only have to prompt ChatGPT to generate an image, similar to how you would prompt it to generate text.
 
  While prompting may be easy enough, we’ll show you how to know what GPTs in ChatGPT support DALL-E’s image generation. We’ll also tell you how to prompt ChatGPT to generate images when and how you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sign Up for ChatGPT Plus to Access DALL-E
 
@@ -72,19 +69,6 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 ![Selecting GPT mode in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-01-09-am.png)
 3. Go down to the chat box and enter a prompt that starts with “**Generate an image of**…” or something similar.  
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT generating image of a tifer and rabbit having tea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-06-12-am.png)
 4. Feel free to use follow-up prompts to improve the image to get it exactly how you want.  
 ![ChatGPT generating an image in a different style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-08-39-am.png)
@@ -100,24 +84,26 @@ thumbnail: https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af97
 ![ChatGPT menu in the mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0104.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Choosing what GPT mode to use in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0105.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT generating an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0106.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT reworking an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0107.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -152,20 +138,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-historical-insights-from-youtubes-top-10-vlogs/"><u>[Updated] 2024 Approved Historical Insights From YouTube's Top 10 Vlogs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-top-hashes-boosting-youtube-revenue-6k-milestone/"><u>[Updated] In 2024, Top Hashes Boosting YouTube Revenue $6K Milestone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-low-cost-gopro-cameras-where-to-find-them/"><u>[Updated] Low-Cost GoPro Cameras Where to Find Them</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-master-mac-gifs-top-10-recording-tools-for-2024/"><u>[Updated] Master Mac GIFs Top 10 Recording Tools for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-secrets-to-super-views-hashtag-hacks-for-game-streams/"><u>[Updated] Secrets to Super Views Hashtag Hacks for Game Streams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-reality-check-examining-gpts-8-core-issues/"><u>AI's Reality Check: Examining GPT’s 8 Core Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/co-pilot-extension-for-chatgpt-a-guide-to-its-functions-and-uses/"><u>Co-Pilot Extension for ChatGPT: A Guide to Its Functions and Uses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-techniques-integrating-chatgpt-into-3d-printing-workflows/"><u>Cutting-Edge Techniques: Integrating ChatGPT Into 3D Printing Workflows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-how-secure-is-chatgpts-digital-fortress/"><u>Evaluating How Secure Is ChatGPT’s Digital Fortress</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fourfold-check-on-ai-learning-an-educators-primer/"><u>Fourfold Check on AI Learning: An Educator's Primer</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gtx-1650-super-graphics-card-drivers-download-and-update-guide-for-windows-11/"><u>GTX 1650 Super Graphics Card Drivers Download and Update Guide for Windows 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-save-pc-sound-frequencies-and-mic-dialogue/"><u>In 2024, Save PC Sound Frequencies & Mic Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpts-role-in-smart-home-dynamics/"><u>Navigating ChatGPT's Role in Smart Home Dynamics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-artisans-algorithm-gpt-assisted-ai-masterpieces/"><u>The Artisan's Algorithm: GPT-Assisted AI Masterpieces</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-20-essential-chatgpt-trigger-words-in-github-repositories/"><u>Top 20 Essential ChatGPT Trigger Words in GitHub Repositories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-where-youtube-transforms-videos-into-art/"><u>[Updated] Understanding Where YouTube Transforms Videos Into Art</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cdsd/"><u>「コンピューターでCDからSDメモリカードへの音声移行手段」</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-easeus-assessment-for-all/"><u>2024 Approved EaseUS Assessment for All</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-choice-of-low-cost-hd-action-recorders/"><u>2024 Approved Prime Choice of Low-Cost HD Action Recorders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/canva/"><u>動画分割手順を教える! Canvaで簡易操作法と代用方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5yuv55s744gu44gw44kp44gk44gn44gm5q2i44gplus44kl5pa55rov77ya56k65a6f44gr44k544og44o844k65yyw44gz44kl44gf44kb44gu44os44oz44oi44go44ov44k2/"><u>動画のざわつきが止まる方法：確実にスムーズ化するためのヒントとワザ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ac-3-vs-aac/"><u>AC-3 Vs. AAC：主要な違いとファイル間変換手順</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cdawav/"><u>CDA音声ファイルからWAV形式への簡単な変換手順 -初学者向けチュートリアル</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-capturing-screenshots-and-recording-your-screen-in-windows-11-using-the-built-in-snip-and-sketch-app/"><u>Complete Guide: Capturing Screenshots and Recording Your Screen in Windows 11 Using the Built-In Snip & Sketch App</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/guide-to-lenovos-screen-recording-process/"><u>Guide to Lenovo's Screen Recording Process</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-x50-gt-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor X50 GT FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keep-your-dell-connected-with-ease-download-the-optimal-wi-fi-network-adapter-driver/"><u>Keep Your Dell Connected with Ease: Download The Optimal Wi-Fi Network Adapter Driver</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maplestory-wont-open-here-are-5-effective-solutions-to-get-you-back-on-track/"><u>MapleStory Won't Open? Here Are 5 Effective Solutions to Get You Back on Track!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-your-macbooks-durability-with-urban-armor-gear-a-comprehensive-protective-case-review/"><u>Maximizing Your MacBook's Durability with Urban Armor Gear – A Comprehensive Protective Case Review</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/omotons-tablet-mounting-marvel-an-in-depth-analysis-of-quality-and-affordability-with-the-t1-model/"><u>Omoton's Tablet Mounting Marvel - An In-Depth Analysis of Quality and Affordability with The T1 Model</u></a></li>
 </ul></div>
 

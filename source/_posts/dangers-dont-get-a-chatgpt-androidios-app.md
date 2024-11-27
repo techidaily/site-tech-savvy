@@ -1,7 +1,7 @@
 ---
 title: "Dangers: Don't Get a ChatGPT Android/iOS App"
-date: 2024-11-12T18:48:35.108Z
-updated: 2024-11-17T16:44:30.283Z
+date: 2024-11-20T16:51:45.518Z
+updated: 2024-11-27T16:29:31.605Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/e78eebe094750e644b67ba3878a187eacb185aa1a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fake ChatGPT Apps Are Flooding App Stores
 
 ![ChatGPT illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/chatgpt-illustration-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Both the Apple App Store and the Google Play Store have recently seen a significant surge in [AI chatbot apps](https://www.makeuseof.com/ai-chatbot-therapist-mobile-apps-pocket/), most of which only appeared shortly after the launch of ChatGPT in the last quarter of 2022\. Normally, this wouldn't be a problem. Who doesn't love an AI chatbot?
 
@@ -45,10 +53,7 @@ thumbnail: https://thmb.techidaily.com/e78eebe094750e644b67ba3878a187eacb185aa1a
  Although we tried a lot of these apps, there are still hundreds on both app stores we couldn't test. So, if you stumble on one that truly adds extra value, carefully weigh the cost of using your ChatGPT credentials on such apps. The [dark web is flooded with stolen ChatGPT accounts](https://www.makeuseof.com/why-hackers-target-chatgpt-accounts/), and using fraudulent apps is among the methods hackers are using to harvest ChatGPT accounts.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are There Legit ChatGPT Apps From Third-Party Developers?
@@ -56,16 +61,7 @@ thumbnail: https://thmb.techidaily.com/e78eebe094750e644b67ba3878a187eacb185aa1a
 ![a hand holding a Samsung phone with the Google Play store on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hand-holding-phone-showing-google-play-store.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While OpenAI doesn't have an official ChatGPT app, it would still be technically possible for third-party developers to create apps using the same technology that runs ChatGPT.
@@ -73,10 +69,7 @@ thumbnail: https://thmb.techidaily.com/e78eebe094750e644b67ba3878a187eacb185aa1a
  There are many legitimate mobile apps that use [OpenAI's GPT-3](https://www.makeuseof.com/what-is-gpt-3-and-is-it-really-the-future-of-creative-work/) and GPT-4 APIs which makes it possible to answer questions and perform tasks akin to what ChatGPT would do. However, these apps differ from ChatGPT and are not as powerful or nearly as efficient as ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Beware of Fake ChatGPT Apps
@@ -104,22 +97,22 @@ thumbnail: https://thmb.techidaily.com/e78eebe094750e644b67ba3878a187eacb185aa1a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-a-deep-dive-into-youtube-mastery-using-sony-vegas-software/"><u>[New] 2024 Approved A Deep Dive Into YouTube Mastery Using Sony Vegas Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-how-tos-on-selecting-best-ios-video-editing-software/"><u>[New] In 2024, How-To's on Selecting Best iOS Video Editing Software</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-mediameld-mixer/"><u>[New] In 2024, MediaMeld Mixer</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nfographic-exploration-premier-fifa-videos-for-2024/"><u>[New] Infographic Exploration Premier FIFA Videos for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/anderung-der-sprachauswahlmethode-bei-aomei-fonebackup-schritt-fur-schritt-anleitung/"><u>Änderung Der Sprachauswahlmethode Bei AOMEI FoneBackup - Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-a-tool-for-effective-work-scheduling/"><u>ChatGPT as a Tool for Effective Work Scheduling</u></a></li>
-<li><a href="https://facebook.techidaily.com/community-building-through-7-key-social-media-aspects/"><u>Community Building Through 7 Key Social Media Aspects</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/coordinating-a-course-through-combined-youtube-watches/"><u>Coordinating a Course Through Combined YouTube Watches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-notetaking-using-chatgpt-for-studying/"><u>Cutting-Edge Notetaking: Using ChatGPT for Studying</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-defrag-techniques-on-windows-11-enhance-speed-using-revo-uninstaller-steps/"><u>Easy Defrag Techniques on Windows 11 - Enhance Speed Using Revo Uninstaller Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-advanced-ai-forefronts-potential-versus-chatgpts-limits/"><u>Exploring Advanced AI: Forefront's Potential Versus ChatGPT's Limits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/honest-scholarship-steering-clear-from-chatgpt-dependence/"><u>Honest Scholarship: Steering Clear From ChatGPT Dependence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-to-enrich-your-imaginative-dungeon-quests/"><u>Leveraging GPT to Enrich Your Imaginative Dungeon Quests</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/machine-learning-meets-numbers-game/"><u>Machine Learning Meets Numbers Game</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-error-0x800700e1-a-step-by-step-guide-for-windows-11/"><u>Overcoming Error 0X800700E1: A Step-by-Step Guide for Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-chatgpt-use-with-siri-enabled-iphones/"><u>Seamless ChatGPT Use with Siri-Enabled iPhones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dark-side-of-seeking-help-from-artificial-intelligence/"><u>The Dark Side of Seeking Help From Artificial Intelligence</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieve-professional-results-access-to-10-basic-free-and-paid-luts-for-canon-cams-for-2024/"><u>Achieve Professional Results Access to 10 Basic Free and Paid LUTs for Canon Cams for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-speech-power-with-these-7-ai-devices/"><u>Boost Your Speech Power with These 7 AI Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-role-of-shap-in-machine-learning-clarity/"><u>Decoding the Role of SHAP in Machine Learning Clarity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-release-pineboards-unveils-bundled-offer-with-raspberry-pi-integrated-ai-hardware-and-high-speed-nvme-memory/"><u>Exclusive Release: Pineboards Unveils Bundled Offer with Raspberry Pi, Integrated AI Hardware & High-Speed NVMe Memory</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-13-proplus-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 13 Pro+ 5GFRP Lock</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-merge-skype-and-zoom-easy-techniques-for-effective-communication/"><u>In 2024, Merge Skype and Zoom Easy Techniques for Effective Communication</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-google-chromes-pip-potential-on-all-platforms/"><u>In 2024, Unlocking Google Chrome's PIP Potential on All Platforms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/inside-asuss-proart-pa-329q-a-full-review-of-a-top-tier-workstation-monitor-for-2024/"><u>Inside Asus’s ProArt PA 329Q A Full Review of a Top-Tier Workstation Monitor for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-a-standalone-chatgpt-sufficient-or-do-plugins-matter/"><u>Is a Standalone ChatGPT Sufficient, or Do Plugins Matter?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-dandd-character-creation-leveraging-chatgpt-and-dall-e/"><u>Mastering D&D Character Creation: Leveraging ChatGPT and DALL-E</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-communication-clarity-via-aptly-named-folders/"><u>Maximizing Communication Clarity via Aptly Named Folders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-productivity-gpt-in-action/"><u>Maximizing Productivity: GPT in Action</u></a></li>
+<li><a href="https://win-answers.techidaily.com/next-level-fixes-for-the-infamous-mw-warzone-error-6066-in-preparation-gaming-season/"><u>Next-Level Fixes for the Infamous MW: Warzone Error 6066 in Preparation Gaming Season</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/secrets-of-asmr-success-with-top-recorder-mics-for-2024/"><u>Secrets of ASMR Success with Top Recorder Mics for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silicon-valley-whispers-new-gpt-speculation/"><u>Silicon Valley Whispers: New GPT Speculation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-full-potential-of-3d-printing-using-ai-powered-tools/"><u>Unlock the Full Potential of 3D Printing Using AI-Powered Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-6-typical-gpt-glitches-solutions-revealed/"><u>Unraveling 6 Typical GPT Glitches: Solutions Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Data: Crucial Bot Privacy Alerts, 3-Way"
-date: 2024-11-15T19:12:58.690Z
-updated: 2024-11-17T17:42:18.862Z
+date: 2024-11-26T17:01:08.515Z
+updated: 2024-11-27T16:27:35.866Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Data Collection
 
  Most people don't use chatbots just to say hi. Modern chatbots are designed to process and respond to complex questions and requests, with users often including a lot of information in their prompts. Even if you're only asking a simple question, you don't really want it to go beyond your conversation.
@@ -55,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
@@ -80,10 +81,7 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Data Theft
@@ -99,10 +97,7 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Malware Infection
@@ -116,10 +111,7 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Chatbots Aren't Impervious to Privacy Issues
@@ -149,20 +141,17 @@ thumbnail: https://thmb.techidaily.com/1382e80fe89cdc85e3f86df652866f8b806d3041c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-the-heart-of-sims-innovative-techniques-for-recording-realistic-gameplay-for-2024/"><u>[New] Capturing the Heart of Sims Innovative Techniques for Recording Realistic Gameplay for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-from-airwaves-to-files-online-audio-capture-basics/"><u>[New] From Airwaves to Files Online Audio Capture Basics</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-vidas-interface-and-features-for-seamless-creation-experience/"><u>[New] Vida’s Interface and Features for Seamless Creation Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adapting-careers-in-an-ai-driven-world/"><u>Adapting Careers in an AI-Driven World</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-browsers-conversational-power-our-top-7-plugin-lists/"><u>Boosting Browsers' Conversational Power: Our Top 7 Plugin Lists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-through-the-noise-persuasive-proposals-and-chatgpt/"><u>Cutting Through The Noise: Persuasive Proposals & ChatGPT</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/dive-into-iphones-audio-memos-made-simple-for-2024/"><u>Dive Into iPhone's Audio Memos Made Simple for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embark-on-a-venture-into-dialogue-system-crafting/"><u>Embark on a Venture Into Dialogue System Crafting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-code-to-conversation-ai-written-tales/"><u>From Code to Conversation: AI' Written Tales</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-delete-memory-dump-files-windows-11/"><u>How to Delete Memory Dump Files Windows 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-friends-information-from-facebook-messenger-on-ios-devices/"><u>How to Retrieve Lost Friends' Information From Facebook Messenger on iOS Devices</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Why cant I install the ipogo On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-business-value-with-7-innovative-uses-of-chatgpt/"><u>Maximizing Business Value with 7 Innovative Uses of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-frequent-gpt-missteps-and-corrections-guide/"><u>Top 6 Frequent GPT Missteps & Corrections Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722991712083-troubleshooting-apex-legends-loading-issues-expert-tips/"><u>Troubleshooting Apex Legends Loading Issues - Expert Tips!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-cutting-edge-imaging-a-shoppers-selection-process/"><u>[New] Navigating Cutting-Edge Imaging A Shopper's Selection Process</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-path-to-profitable-partnership-with-your-audience-for-2024/"><u>[New] The Path to Profitable Partnership with Your Audience for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extensive-appraisal-a-look-into-bublcam-360/"><u>[Updated] Extensive Appraisal A Look Into Bublcam 360</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-chromebook-shutter-magic-4-simple-steps/"><u>2024 Approved Chromebook Shutter Magic - 4 Simple Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-gpt-addons-trustworthy/"><u>Are GPT Addons Trustworthy?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-to-procure-free-visual-frame-videos/"><u>In 2024, Techniques to Procure Free Visual Frame Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-windows-photo-workflow-with-keys/"><u>Optimizing Your Windows Photo Workflow with Keys</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-shopping-destinations-customizable-presents-with-flair/"><u>Prime Shopping Destinations Customizable Presents with Flair</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reclaiming-lost-conversations-with-ai/"><u>Reclaiming Lost Conversations with AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pros-and-cons-of-choosing-language-bots-as-a-self-employed-professional/"><u>The Pros & Cons of Choosing Language Bots as a Self-Employed Professional</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-creative-control-over-images/"><u>Unleash Creative Control Over Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-emotion-ai-and-can-it-really-understand-our-feelings/"><u>What Is Emotion AI and Can It Really Understand Our Feelings?</u></a></li>
 </ul></div>
 

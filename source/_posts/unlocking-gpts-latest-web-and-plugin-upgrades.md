@@ -1,7 +1,7 @@
 ---
 title: Unlocking GPT's Latest Web & Plugin Upgrades
-date: 2024-11-12T16:48:40.780Z
-updated: 2024-11-17T17:55:53.151Z
+date: 2024-11-23T16:44:22.464Z
+updated: 2024-11-27T16:26:23.557Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
  Late on May 12, 2023, an [OpenAI blog post revealed](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) that ChatGPT's Plugin feature would become available to ChatGPT Plus users.
@@ -35,10 +39,7 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are ChatGPT Plugins?
@@ -65,13 +66,14 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
@@ -95,10 +97,7 @@ Close
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to your **Settings** in the bottom left-hand corner of the ChatGPT screen
@@ -109,13 +108,6 @@ Close
  After enabling both settings, you'll find new options from the ChatGPT model switcher (where you'd normally switch between GPT-3.5 and GPT-4). You'll now find an option for Web Browsing and one for Plugins.
 
  From here, you can select either Web Browsing to enable web-connected search or select **Plugin Store** to begin installing and enabling Plugins.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Finally Connected to the Internet
 
@@ -142,15 +134,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-quick-steps-to-quality-content-via-studio-editor/"><u>[New] 2024 Approved Quick Steps to Quality Content via Studio Editor</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-best-budget-friendly-player-showdown-free-video-warriors-vlc-and-mpc/"><u>2024 Approved Best Budget Friendly Player Showdown Free Video Warriors (VLC & MPC)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-the-next-frontier-for-google-to-conquer-ai-market/"><u>Bard: The Next Frontier for Google to Conquer AI Market</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-office-efficiency-officedocspace-and-ai-enhanced-chatbots/"><u>Boosting Office Efficiency: OfficeDocSpace & AI-Enhanced ChatBots</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/defiance-against-data-thieves-for-2024/"><u>Defiance Against Data Thieves for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exposing-fps-fantasies-mechanical-marvels/"><u>Exposing FPS Fantasies, Mechanical Marvels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-leap-in-neural-networks-what-about-gpt-5/"><u>Next Leap in Neural Networks: What About GPT-5?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-motorola-moto-g14-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Motorola Moto G14, is it possible?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/stream-smarter-a-comprehensive-review-of-chromecast-with-google-tv-vs-firestick/"><u>Stream Smarter: A Comprehensive Review of Chromecast with Google TV vs Firestick</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/iques-for-discarding-backlogged-youtube-videos/"><u>Techniques for Discarding Backlogged YouTube Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-spread-the-rhythm-sharing-playlists-in-minutes/"><u>[New] In 2024, Spread the Rhythm Sharing Playlists in Minutes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-movie-magic-tiktok-effects-techniques/"><u>[Updated] Mastering Movie Magic TikTok Effects Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-workflow-top-8-ai-infused-chrome-plug-ins/"><u>Boost Your Workflow: Top 8 AI-Infused Chrome Plug-Ins</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-magic-on-linux-connecting-chatgpt-with-ubuntus-command-line-interface/"><u>Chatbot Magic on Linux: Connecting ChatGPT with Ubuntu's Command Line Interface</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-new-companion-for-modern-dating/"><u>ChatGPT: A New Companion for Modern Dating</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discreet-preservation-of-dialogues-with-gpt-assistant/"><u>Discreet Preservation of Dialogues with GPT Assistant</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exposing-pseudo-authors-detecting-ai-written-pieces/"><u>Exposing Pseudo-Authors: Detecting AI Written Pieces</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/improving-your-homes-hdtv-signal-a-guide-to-enhancing-indoor-digital-television-reception/"><u>Improving Your Home's HDTV Signal: A Guide to Enhancing Indoor Digital Television Reception</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-the-openai-encyclopedia/"><u>Inside Look: The OpenAI Encyclopedia</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-edits-top-17-software-for-photo-framing-cutout/"><u>Leading Edits Top 17 Software for Photo Framing Cutout</u></a></li>
+<li><a href="https://win-community.techidaily.com/les-meilleurs-outils-de-sauvegarde-sans-cout-pour-toucheurs-de-windows-10-options-testees-et-validees/"><u>Les Meilleurs Outils De Sauvegarde Sans Coût Pour Toucheurs De Windows 10 - Options Testées Et Validées</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maintaining-confidentiality-with-adaptive-chatgpts/"><u>Maintaining Confidentiality with Adaptive ChatGPTs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-conversation-overlooked-strengths-in-ai-tools/"><u>Master the Art of Conversation: Overlooked Strengths in AI Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/e-and-simple-grab-your-desired-youtube-cover-at-no-charge-for-2024/"><u>Secure & Simple Grab Your Desired YouTube Cover at No Charge for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-monitor-heat-on-your-macbook-device/"><u>Step-by-Step Guide to Monitor Heat on Your MacBook Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-20-innovative-github-dialogues-with-chatgpt/"><u>Top 20 Innovative Github Dialogues with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-gameplay-chatgpt-dall-e-for-diverse-dandd-characters/"><u>Transforming Gameplay: ChatGPT, DALL-E for Diverse D&D Characters</u></a></li>
 </ul></div>
 

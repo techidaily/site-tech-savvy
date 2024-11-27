@@ -1,7 +1,7 @@
 ---
 title: "The Future of Analysis: ChatGPT’s Six Game-Changing Techniques"
-date: 2024-11-14T16:14:35.937Z
-updated: 2024-11-17T18:34:17.587Z
+date: 2024-11-25T16:03:08.234Z
+updated: 2024-11-27T16:33:52.640Z
 tags:
   - chatgpt
   - open-ai
@@ -34,18 +34,15 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 
 ![The response from ChatGPT on a prompt that ask it how to segment customer data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image3-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Suppose you want to write a script to automate a business process. You can ask ChatGPT for ideas on how to get started. All you have to do is ask it for a prompt via the chat and wait for its response. You can ask further questions or alternative viewpoints from the response.
 
 > **Case Study:** I have a business problem. I want to [create a dashboard in Excel](https://www.makeuseof.com/create-interactive-excel-dashboard/) to segment and track the behavior of my customer. I currently run a coffee shop, and a few make orders via my e-commerce website.
 >
 > What kind of information should I collect from my customers? What key performance indicators should I measure? Which tool and type of visualization should I use? Also, what kind of cohort analysis, and what will you recommend I incorporate for my user segmentation?
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Fixing Bugs and Troubleshooting
 
@@ -65,24 +62,18 @@ CALCULATE(
 
 ![A prompt response from ChatGPT about a debugging task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image1-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. To Interpret Data and Explain Complex Code
 
 ![A prompt from ChatGPT that displays the explaination of a code block](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image6-v1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. To Write, Edit and Generate Codes, Formula, and Syntax
@@ -117,7 +108,15 @@ else:
 
 ![A prompt that show how to add a static date and time in Tableau.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image5-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By writing a prompt, you can learn about new features and skills, or how to use a specific function in your favorite analytical tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Document Your Codes
 
@@ -267,13 +266,6 @@ ORDER BY e.employee_id;`
 
 ![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Data Analysts Can Use ChatGPT in Their Work
 
  Powerful AI solutions like ChatGPT boost everyone's productivity, even data analysts. Using ChatGPT's natural language processing capabilities and asking the right prompt, data analysts can quickly and accurately get ideas and insight into their tasks.
@@ -299,15 +291,20 @@ ORDER BY e.employee_id;`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-discovering-best-phone-based-asmr-experiences/"><u>[New] 2024 Approved Discovering Best Phone-Based ASMR Experiences</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-mastering-multimedia-adding-apple-music-to-videos/"><u>[Updated] Mastering Multimedia Adding Apple Music to Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastery-over-airwaves-recording-techniques-for-live-sounds/"><u>[Updated] Mastery Over Airwaves Recording Techniques for Live Sounds</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-live-stream-struggle-picking-your-platform-obs-or-twitch/"><u>2024 Approved Live Stream Struggle Picking Your Platform – OBS or Twitch?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-explained-seamless-language-translation-techniques/"><u>ChatGPT Explained: Seamless Language Translation Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-limitations-in-the-crypto-domain/"><u>ChatGPT's Limitations in the Crypto Domain</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725286214218-dvd-dvd/"><u>DVD化ツアル - 無料動画全拓写節 DVD製造ステップバイステップ</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/human-creativity-in-writing-unmatched-by-algorithms/"><u>Human Creativity in Writing Unmatched by Algorithms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-ai-evolving-faster-the-duel-between-googles-gemini-and-chatgpt/"><u>Is AI Evolving Faster? The Duel Between Google's Gemini and ChatGPT</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pro-tips-bulk-creation-via-canva-and-ai-assistance/"><u>Pro Tips: Bulk Creation via Canva and AI Assistance</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-how-to-install-your-complete-guide-to-vrecord/"><u>[New] 2024 Approved How to Install Your Complete Guide to VRecord</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-comprehensive-blueprint-to-powerdirectors-full-potential/"><u>[Updated] In 2024, The Comprehensive Blueprint to PowerDirector's Full Potential</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-expert-tips-on-controlling-timeline-pace-in-videos/"><u>2024 Approved Expert Tips on Controlling Timeline Pace in Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-maximize-story-exposure-with-linked-fb-profile/"><u>2024 Approved Maximize Story Exposure with Linked FB Profile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-the-course-gpt-in-revolutionizing-medical-care/"><u>Charting the Course: GPT in Revolutionizing Medical Care</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-on-films-leveraging-chatgpts-ai-wisdom/"><u>Deciding on Films: Leveraging ChatGPT's AI Wisdom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-ai-responses-to-peak-performance-with-these-5-proven-techniques/"><u>Elevate AI Responses to Peak Performance with These 5 Proven Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-gpt4alls-algorithmic-maze/"><u>Inside GPT4All's Algorithmic Maze</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-web-surfing-next-gen-site-search-tech/"><u>Intelligent Web Surfing: Next-Gen Site Search Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reconsider-downloading-a-mobile-gpt-app/"><u>Reconsider Downloading a Mobile GPT App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/self-help-gone-wrong-the-hidden-dangers-in-artificial-therapy/"><u>Self-Help Gone Wrong: The Hidden Dangers in Artificial Therapy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simplified-methods-for-logging-google-voice-calls-for-2024/"><u>Simplified Methods for Logging Google Voice Calls for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-list-of-sites-to-download-stylish-text-files-for-2024/"><u>Ultimate List of Sites to Download Stylish Text Files for 2024</u></a></li>
 </ul></div>
 

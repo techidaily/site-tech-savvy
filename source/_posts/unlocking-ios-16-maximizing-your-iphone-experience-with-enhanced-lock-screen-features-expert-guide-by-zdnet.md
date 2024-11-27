@@ -1,7 +1,7 @@
 ---
 title: "Unlocking iOS 16: Maximizing Your iPhone Experience with Enhanced Lock Screen Features - Expert Guide by ZDNet"
-date: 2024-11-14T19:06:28.675Z
-updated: 2024-11-17T18:43:56.781Z
+date: 2024-11-25T16:33:06.576Z
+updated: 2024-11-27T16:07:53.849Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ Apple released iOS 16 on Sept. 12, and you can [download and install it right no
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [How to customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-customize-your-iphones-new-control-center-with-ios-18/)
@@ -32,10 +36,7 @@ Of course, the new lock screen is getting plenty of attention after users update
 **Also:** [iPhone 14 Pro scorecard: The hits and misses](https://www.zdnet.com/article/iphone-14-innovation-scorecard/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to set a custom interactive wallpaper
@@ -75,10 +76,7 @@ Don't worry, we'll go back and customize the clock and widgets for that specific
 Screenshots by Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize the clock on your iPhone's lock screen
@@ -94,22 +92,12 @@ Now for the fun part -- adding widgets.
 Screenshots by Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to add lock screen widgets on your iPhone's lock screen
 
 Apple along with third-party developers can create widgets that you can place on your lock screen as a way to provide access to glanceable information without having to do anything more than wake your iPhone -- or if you have either of the new iPhone 14 Pro models, you can quickly look at the always-on display. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -132,6 +120,10 @@ The bottom widget area has more room, and thus, more flexibility. You can have u
 You can drag and drop widgets within the box to rearrange them, or if you decide you want to delete one, tap the **\-** sign that's in the top left corner of the widget. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to edit what information a widget shows
 
@@ -169,22 +161,20 @@ Not all widgets offer extra customization, but the easiest way to find out is to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/nderstanding-youtubes-hidden-content-the-unlisted-reality-for-2024/"><u>[New] Understanding YouTube's Hidden Content The Unlisted Reality for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/adapting-chatgpt-for-cross-cultural-dialogues/"><u>Adapting ChatGPT for Cross-Cultural Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-marketplace-risks-with-chatgpt-apps-alerted/"><u>Apple's Marketplace Risks with ChatGPT Apps Alerted</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cting-revenue-allocation-for-shortform-content-makers-for-2024/"><u>Dissecting Revenue Allocation for Shortform Content Makers for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/exclusive-vr-movie-experiences-for-2024/"><u>Exclusive VR Movie Experiences for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ai-depths-power-less-to-powerful/"><u>Exploring AI Depths: Power-Less to Powerful</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/guida-passo-passo-alla-clonazione-di-un-disco-rigido-con-piu-partizioni/"><u>Guida Passo-Passo Alla Clonazione Di Un Disco Rigido Con Più Partizioni</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-made-simple-discover-manycams-ultimate-virtual-camera-solution/"><u>Live Streaming Made Simple: Discover ManyCam's Ultimate Virtual Camera Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-advanced-analysis-in-google-docs-and-spreadsheets/"><u>Navigating Advanced Analysis in Google Docs & Spreadsheets</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-windows-data-evaluation-guide/"><u>Quick Windows Data Evaluation Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sarah-silverman-leading-the-charge-against-ai-dominance/"><u>Sarah Silverman Leading the Charge Against AI Dominance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-gap-in-self-review-systems/"><u>The Gap in Self-Review Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleashing-virtual-reality-the-ultimate-iphone-experience/"><u>Unleashing Virtual Reality The Ultimate IPhone Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-the-maximum-wordcharacter-count-in-chatgpt/"><u>What's The Maximum Word/Character Count in ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-ios-chatgpt-triumphs-over-browser-counterparts/"><u>Why iOS ChatGPT Triumphs Over Browser Counterparts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guiding-you-to-untainted-stock-visuals/"><u>[New] Guiding You to Untainted Stock Visuals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-next-level-gameplay-leading-monitors-for-ps5-with-hdmi-21-features/"><u>[New] In 2024, Next-Level Gameplay Leading Monitors for PS5 with HDMI 2.1 Features</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crafting-unique-valorant-thumbnails-with-style-and-flair/"><u>2024 Approved Crafting Unique Valorant Thumbnails with Style and Flair</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/an-unforgettable-experience-with-apple-vision-pro-thrilling-yet-exhausting-reaction-to-my-top-picks-tv-series-insights/"><u>An Unforgettable Experience with Apple Vision Pro: Thrilling Yet Exhausting Reaction to My Top Picks TV Series - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beginners-primer-on-langchain-technology/"><u>Beginner’s Primer on LangChain Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-contribution-to-my-podcast-scripting/"><u>ChatGPT's Contribution to My Podcast Scripting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engage-in-fun-top-6-chatgpt-inspired-games-revealed/"><u>Engage in Fun: Top 6 ChatGPT-Inspired Games Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-mobile-device-evaluation-techniques-at-zdnet-how-we-assess-the-latest-phones/"><u>Exploring Mobile Device Evaluation Techniques at ZDNet: How We Assess the Latest Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-3-on-your-devices-android-and-ios/"><u>Leveraging GPT-3 on Your Devices, Android & iOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/protecting-your-android-smartphone-from-potential-thieves-a-comprehensive-guide/"><u>Protecting Your Android Smartphone From Potential Thieves: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secrets-of-selecting-the-best-nba-live-feed/"><u>Secrets of Selecting the Best NBA Live Feed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-magsafe-chargers-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Ranking MagSafe Chargers : Comprehensive Reviews by Tech Specialists - ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-x-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone X With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/upgrade-your-gaming-experience-watching-dvds-on-wii-using-the-versatile-can-wii-play-titles/"><u>Upgrade Your Gaming Experience: Watching DVDs on Wii Using the Versatile 'Can Wii Play' Titles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1724766258181-18/"><u>デジアーティ: 18周年を祝う限定コレクション</u></a></li>
 </ul></div>
 

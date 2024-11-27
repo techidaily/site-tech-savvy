@@ -1,7 +1,7 @@
 ---
 title: Italy's Sudden Intervention Against ChatGPT Use
-date: 2024-11-16T18:39:43.776Z
-updated: 2024-11-17T17:48:32.902Z
+date: 2024-11-25T16:43:07.004Z
+updated: 2024-11-27T16:34:23.317Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,25 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Did Italy Ban ChatGPT?
 
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On March 30th, 2023, the Italian Data Protection Authority, Garante per la Protezione dei Dati Personali (GPDP), [officially announced](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9870847) a ChatGPT ban, effective immediately, that would last until ChatGPT complied with the EU's GDPR.
 
  The Italian data regulator declared that [OpenAI's ChatGPT posed several problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) and infringed the EU's privacy law. The GDPD's privacy concerns can be broken down into five key areas:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Breach of Privacy Laws
 
@@ -42,20 +54,10 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
 ![ChatGPT Onboarding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-onboarding.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Italian regulator ensures data controllers follow the general obligations outlined in the EU's privacy law, and OpenAI falls short.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Unjustified Collection of Personal Data
@@ -63,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
  Asides from the breach of its privacy laws, the GDPD claims that there is no legal justification for OpenAI's massive collection and processing of personal data to train ChatGPT's algorithms. According to the Italian regulator, ChatGPT's information doesn't always match factual circumstances, so OpenAI can use falsified personal data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. A Lack of Easily-Accessible and Transparent Information
@@ -76,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 ### 4\. Lack of Age Verification Systems
 
  The GDPD announced that ChatGPT exposes inappropriate information to users under 13 because it lacks appropriate age detection mechanisms. This underage exposure violates the EU's GDPR, which states that individuals must clearly consent to the processing of their personal data. As underage individuals, they are not to consent on their behalf.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Risk of Data Breaches
 
@@ -117,24 +109,18 @@ thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-skyrocket-your-twitter-presence-through-livestreaming/"><u>[Updated] 2024 Approved Skyrocket Your Twitter Presence Through Livestreaming</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-night-of-the-living-dead-games-an-epic-selection/"><u>[Updated] Night of the Living Dead Games An Epic Selection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alert-beware-of-fake-chatgpt-windows-app/"><u>Alert: Beware Of Fake 'ChatGPT Windows App'</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-emergence-impact-on-keyword-optimization/"><u>ChatGPT's Emergence: Impact on Keyword Optimization</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-webcams-invisible-screen-problem/"><u>Correcting Webcam's Invisible Screen Problem</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elon-unveils-ai-understanding-groks-purpose-and-price/"><u>Elon Unveils AI: Understanding Grok's Purpose & Price</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inhibiting-factors-using-ai-for-analyzing-digital-coins/"><u>Inhibiting Factors: Using AI for Analyzing Digital Coins</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-gpt-chat-a-practical-api-overview/"><u>Integrating GPT-Chat: A Practical API Overview</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/investigating-any-flaws-in-chatgpts-shield/"><u>Investigating Any Flaws in ChatGPT’s Shield</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-linkedin-posts-with-chatgpt-techniques/"><u>Optimizing LinkedIn Posts with ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/originality-in-conversational-ai-systems/"><u>Originality in Conversational AI Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-downloading-and-watching-fandango-movies-from-your-couch-with-amazon-fire-tv/"><u>Step-by-Step Guide: Downloading and Watching Fandango Movies From Your Couch with Amazon Fire TV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quest-for-authenticity-differentiating-fake-from-genuine-ai-outputs/"><u>The Quest for Authenticity: Differentiating Fake From Genuine AI Outputs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-develop-an-interactive-and-richly-described-game-using-chatgpt/"><u>The Ultimate Tutorial: Develop an Interactive and Richly Described Game Using ChatGPT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-5-rapid-solutions-reviving-your-oculus-rift-s-headset-microphone/"><u>Top 5 Rapid Solutions: Reviving Your Oculus Rift S Headset Microphone</u></a></li>
-<li><a href="https://win-data.techidaily.com/topo-6-herramientas-de-respaldo-sin-costo-para-dispositivos-ios-en-pc-con-windows-2024/"><u>Topo 6 Herramientas De Respaldo Sin Costo Para Dispositivos iOS en PC Con Windows - 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-resolving-red-dead-redemption-iis-pc-game-freezes/"><u>Ultimate Troubleshooting Guide: Resolving Red Dead Redemption II's PC Game Freezes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-guide-to-achieving-soundless-visual-content/"><u>Updated Guide to Achieving Soundless Visual Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/words-worldwide-war-chatgpt-vs-googles-skill/"><u>Words Worldwide War: ChatGPT Vs. Google's Skill</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-navigating-board-usage-a-universal-guide-for-ios-android-and-windows-platforms/"><u>[New] Navigating Board Usage A Universal Guide for iOS, Android & Windows Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlocking-the-secrets-to-increasing-video-engagement-on-youtube/"><u>[New] Unlocking the Secrets to Increasing Video Engagement on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-blueprint-for-selecting-exceptional-hdr-cameras-for-2024/"><u>[Updated] The Blueprint for Selecting Exceptional HDR Cameras for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-meme-mechanic-generating-online-engagement-through-videos-for-2024/"><u>[Updated] The Meme Mechanic Generating Online Engagement Through Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cooler-master-strikes-back-with-lawsuits-over-intellectual-property-theft-in-radiator-innovation/"><u>Cooler Master Strikes Back with Lawsuits Over Intellectual Property Theft in Radiator Innovation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-thriving-in-the-digital-space-crafting-high-impact-fb-videos/"><u>In 2024, Thriving in the Digital Space Crafting High-Impact FB Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insights-on-the-forthcoming-tesla-mobile-device-speculated-price-points-release-dates-and-tech-specs-revealed/"><u>Insights on the Forthcoming Tesla Mobile Device - Speculated Price Points, Release Dates, and Tech Specs Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-maintaining-high-definition-clarity-while-uploading-your-videos-on-youtube/"><u>Step-by-Step Guide: Maintaining High Definition Clarity While Uploading Your Videos on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-mp4-to-gif-conversion-tools-for-windows-users-the-ultimate-guide/"><u>Top 6 MP4 to GIF Conversion Tools for Windows Users: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-your-videos-from-wmv-to-avi-format-easily/"><u>Transforming Your Videos From WMV to AVI Format Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-the-movietv-app-in-windows-11-essential-tips-for-smooth-playback/"><u>Troubleshooting the MovieTV App in Windows 11: Essential Tips for Smooth Playback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-tips-step-by-step-guide-to-overcoming-catchvideo-download-hurdles/"><u>Troubleshooting Tips: Step-by-Step Guide to Overcoming Catchvideo Download Hurdles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-does-my-rightleft-airpod-play-louder-heres-how-to-fix-it/"><u>Why Does My Right/Left AirPod Play Louder? Here's How to Fix It</u></a></li>
 </ul></div>
 

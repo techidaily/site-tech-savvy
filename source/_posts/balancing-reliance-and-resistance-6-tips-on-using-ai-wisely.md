@@ -1,7 +1,7 @@
 ---
 title: "Balancing Reliance and Resistance: 6 Tips on Using AI Wisely"
-date: 2024-11-16T16:17:59.995Z
-updated: 2024-11-17T16:50:49.441Z
+date: 2024-11-23T16:18:15.509Z
+updated: 2024-11-27T16:13:07.688Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ AI is transforming the world as we know it, with its impact felt across every in
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. AI Can Be Confidently Wrong
 
  People are increasingly relying on [AI chatbots for tasks such as writing](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/), scheduling appointments, and even making important decisions. However, the convenience of these chatbots often comes at a significant cost–they can be confidently wrong.
@@ -40,6 +44,10 @@ AI is transforming the world as we know it, with its impact felt across every in
 
  While this is just the nature of AI right now, you can see how this can become a problem. Most people don't fact-check their Google searches, and it's the same here with chatbots like ChatGPT. This can lead to misinformation, and we already have plenty of that to go around—which brings us to the second point.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. It Can Easily Be Used to Manipulate Information
 
  It's no secret that AI can be unreliable and prone to error, but one of its most insidious traits is its tendency to manipulate information. The problem is that AI lacks a nuanced understanding of your context, leading it to bend the facts to suit its own purposes.
@@ -49,22 +57,12 @@ AI is transforming the world as we know it, with its impact felt across every in
  Sure, you can easily write this off as a bug or a one-off mistake. However, this does not change the fact that these AI tools are imperfect, and we should proceed cautiously.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. It Can Hinder Your Creativity
 
 ![man with head on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-with-head-on-desk.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many professionals, such as writers and designers, are now using AI to maximize efficiency. However, it's important to understand that AI should be viewed as a tool rather than a shortcut. While the latter certainly sounds tempting, it can severely impact your creativity.
 
@@ -73,13 +71,6 @@ AI is transforming the world as we know it, with its impact felt across every in
  For instance, designers can [use Midjourney AI to create art](https://www.makeuseof.com/how-to-use-midjourney-create-ai-art/), but relying solely on AI can limit the scope of creativity. Instead of exploring new ideas, you may end up replicating existing designs. If you're a writer, you can [use ChatGPT or other AI chatbots for research](https://www.makeuseof.com/ai-writing-tools/), but if you use it as a shortcut to generate content, your writing skills will stagnate.
 
  Using AI to supplement your research is different from solely relying on it to generate ideas.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. AI Can Easily Be Misused
 
@@ -90,6 +81,10 @@ AI is transforming the world as we know it, with its impact felt across every in
  The use of AI-generated deepfakes to create explicit photos of unsuspecting women is a disturbing trend. Cybercriminals are also using AI-driven DoS attacks to prevent legitimate users from accessing certain networks. Such attacks are becoming increasingly complex and challenging to stop since they exhibit human-like characteristics.
 
  The availability of AI capabilities as open-source libraries have enabled anyone to access technologies like image and facial recognition. This poses a significant cybersecurity risk, as terrorist groups could use these technologies to launch terror attacks
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Limited Understanding of Context
 
@@ -103,6 +98,10 @@ AI is transforming the world as we know it, with its impact felt across every in
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When seeking answers to complex questions or making decisions based on subjective preferences, relying solely on AI can be risky.
 
  Asking an AI system to define the concept of friendship or to choose between two items based on subjective criteria can be a futile exercise. This is because AI lacks the ability to factor in human emotions, context, and the intangible elements essential to understanding and interpreting such concepts.
@@ -110,13 +109,6 @@ AI is transforming the world as we know it, with its impact felt across every in
  For example, if you ask an AI system to choose between two books, it may recommend the one with higher ratings, but it cannot consider your personal taste, reading preferences, or the purpose for which you need the book.
 
  On the other hand, a human reviewer can provide a more nuanced and personalized review of the book by evaluating its literary value, relevance to the reader's interests, and other subjective factors that cannot be measured objectively.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Be Careful With Artificial Intelligence
 
@@ -141,19 +133,17 @@ AI is transforming the world as we know it, with its impact felt across every in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/10-hits-you-cant-miss-on-spotify/"><u>10 Hits You Can’t Miss on Spotify</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-we-fully-reliance-on-zerogpt-doubts-remain/"><u>Can We Fully Reliance On ZeroGPT? Doubts Remain</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-clash-discovering-best-generative-ai-rivals/"><u>ChatBots Clash: Discovering Best Generative AI Rivals</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/compatible-with-windows-1187-newest-driver-releases-for-tp-links-ac-wireless-network-adapters/"><u>Compatible with Windows 11/8/7 – Newest Driver Releases for TP-Link's AC Wireless Network Adapters</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/engagement-mastery-how-to-craft-instagrams-best-puzzles-for-2024/"><u>Engagement Mastery How to Craft Instagram's Best Puzzles for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-redmi-note-12r-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Redmi Note 12R to Protect Your Individual Information</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-time-saving-guide-seconds-to-clear-background-bg/"><u>In 2024, Time-Saving Guide Seconds to Clear Background Bg</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-cash-from-conversations-boosted-systems/"><u>Making Cash From Conversations, Boosted Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-phone-required-accessing-gpt-telegram-services-directly/"><u>No Phone Required: Accessing GPT, Telegram Services Directly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-for-6-auto-aip-peculiarities/"><u>Troubleshooting Guide for 6 Auto-AIP Peculiarities</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ultimate-solution-guide-to-removing-unresponsive-external-drives-in-windows-nineteen/"><u>Ultimate Solution Guide to Removing Unresponsive External Drives in Windows Nineteen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-makes-gpt-4-superior-to-gpt-35/"><u>What Makes GPT-4 Superior to GPT-3.5?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/years-round-showcase-of-best-zero-toll-livestream-utilities/"><u>Year's Round Showcase of Best Zero-Toll LiveStream Utilities</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-legacy-linkup-software-for-2024/"><u>[New] Legacy Linkup Software for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-premiered-top-8-crowd-pleasing-ae-setups/"><u>2024 Approved Premiered Top 8 Crowd-Pleasing AE Setups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-core-versus-modified-chatgpt-engagement-platforms/"><u>Choosing the Core versus Modified ChatGPT Engagement Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-detect-misleading-data-visualizations-by-ai-systems/"><u>How to Detect Misleading Data Visualizations by AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-set-up-auto-gpt-on-ubuntu/"><u>How to Install and Set Up Auto-GPT on Ubuntu</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oneplus-12-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your OnePlus 12 Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-6-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 6 Display? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-speedy-sonic-tuning-devices-index-pc-tablet/"><u>In 2024, Speedy Sonic Tuning Devices Index (PC, Tablet)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-enhanced-multilingual-acquisition/"><u>Leveraging ChatGPT for Enhanced Multilingual Acquisition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-airpods-launch-date-approaching-key-details-and-pre-ordering-steps-revealed-by-zdnet/"><u>New AirPods Launch Date Approaching – Key Details & Pre-Ordering Steps Revealed by ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/prime-fast-windows-photo-displayer/"><u>Prime Fast Windows Photo Displayer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-most-economical-and-high-quality-headphone-picks-for-2n34/"><u>The Most Economical and High-Quality Headphone Picks for 2N34!</u></a></li>
 </ul></div>
 

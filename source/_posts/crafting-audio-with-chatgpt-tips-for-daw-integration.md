@@ -1,7 +1,7 @@
 ---
 title: Crafting Audio with ChatGPT - Tips for DAW Integration
-date: 2024-11-12T18:33:36.350Z
-updated: 2024-11-17T17:33:15.978Z
+date: 2024-11-21T16:13:15.848Z
+updated: 2024-11-27T17:00:32.456Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT in Music Production
 
  Working with ChatGPT in your music production workflow presents an interesting use case. Since it was trained on an enormous trove of text from across the internet, it understands the expressions we use to describe music, as well as the technical speak used to describe effects plugins in DAWs.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
  You can listen through the playlist below for a quick preview of the results in action. We created the sound effects by asking ChatGPT for various suggestions, then dialing the numbers into the plugin and recording the results.
 
  In the title of each track is the name of the plugin type we used, such as distortion or delay, plus the keywords we used in the prompt i.e., dense, watery, psychedelic, etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Prompt Format
 
@@ -60,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
  Keep in mind that every plugin is unique and will have different types of controls with various names. So fill in the blank part of the prompt with a list of parameters that matches the plugin you are using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Applying the Settings to Your Plugin
 
  If you use the prompt format from the previous step, ChatGPT will produce a neatly ordered table with the plugin parameters listed in the left column, and the recommended values given in the right column.
@@ -69,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 **Prompt:** I want to create a dense and rapid delay effect in Logic Pro X. What settings do you recommend I try? Summarize your answer in a table. Here are the plugin settings: Tempo Sync, Delay Time ms, Smoothing ms, LFO rate Hz, LFO Intensity %, Flutter Rate Hz, Flutter Intensity %, Feedback %, Output Dry %, Output Wet %
 
 ![Table of audio settings produced by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-plugin-settings-results.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you input ChatGPT's suggested settings, listen to the results and see what you think. Here is the result of the prompt we tried above:
 
@@ -91,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
  In addition to the basic prompt format that we've outlined, there are a few extra things you can experiment with. These tips and tricks will help you play with, or expand on, ChatGPT's responses.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Ask for an Explanation
 
  Want to know more about what a plugin parameter does or why ChatGPT picked those settings? Simply ask it to include an explanation. You can do this by adding the phrase **include explanations** to the end of your prompt.
@@ -105,16 +103,7 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 ![A table produced by ChatGPT including recommended audio settings plus explanations.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-table-explanation.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Follow-Up Questions
@@ -129,20 +118,11 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
 ![Screenshot of ChatGPT response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-logicpro-variations.jpg)
 
- Additionally, look for a couple of arrows near the top left-hand side of ChatGPT's response. You can use them to move back and forth between the different results.
-
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Additionally, look for a couple of arrows near the top left-hand side of ChatGPT's response. You can use them to move back and forth between the different results.
 
 ## ChatGPT: An Unsuspecting Music Production Tool
 
@@ -169,20 +149,22 @@ thumbnail: https://thmb.techidaily.com/c3853b005ad6636456539b898eb59cf75f875d556
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-dos-and-donts-of-instagram-live/"><u>[Updated] In 2024, The Do's and Don'ts of Instagram Live</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamless-scenes-integrating-fade-inout-effects/"><u>2024 Approved Seamless Scenes Integrating Fade In/Out Effects</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-the-msmpengexe-memory-hog-in-windows-11-a-comprehensive-guide/"><u>Dealing with the MsMpEng.exe Memory Hog in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722869966398-effective-solutions-for-addressing-black-screen-problems-in-android-smartphones/"><u>Effective Solutions for Addressing Black Screen Problems in Android Smartphones</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/from-simple-scenes-advanced-techniques-for-snapchat-edits-for-2024/"><u>From Simple Scenes Advanced Techniques for Snapchat Edits for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 11 Pro Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-where-to-download-christian-ringtones-and-how-to-customize-a-christian-ringtone/"><u>In 2024, Where To Download Christian Ringtones And How To Customize A Christian Ringtone?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/programming-evolution-the-ai-factor/"><u>Programming Evolution: The AI Factor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prolific-fiction-top-gpt-fueled-techniques-for-dynamic-characters/"><u>Prolific Fiction: Top GPT-Fueled Techniques for Dynamic Characters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-for-ai-theoretical-knowledge-and-job-security/"><u>Prompt Engineering for AI: Theoretical Knowledge and Job Security</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tap-into-ai-for-exceptional-interview-performance/"><u>Tap Into AI for Exceptional Interview Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-real-talk-on-using-local-language-models/"><u>The Real Talk on Using Local Language Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-verdict-on-using-bots-for-economic-planning/"><u>The Verdict on Using Bots for Economic Planning</u></a></li>
-<li><a href="https://games-able.techidaily.com/tips-to-quickly-identify-your-steam-user-identifier/"><u>Tips to Quickly Identify Your Steam User Identifier</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-superior-15-camcorders-for-uhd-video/"><u>[New] In 2024, Superior 15 Camcorders for UHD Video</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tep-by-step-guide-for-earning-from-every-youtube-short/"><u>[New] Step-by-Step Guide for Earning From Every YouTube Short</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-which-m1-model-suits-you-best-air-vs-pro-analysis/"><u>[Updated] In 2024, Which M1 Model Suits You Best? Air Vs. Pro Analysis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-sprinkle-some-glitter-on-your-photos-ios-and-androids-prime-10-apps/"><u>[Updated] Sprinkle Some Glitter on Your Photos IOS & Android's Prime 10 Apps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-performance-on-windows-11-top-seven-tweaks-for-game-enthusiasts/"><u>Boosting Performance on Windows 11: Top Seven Tweaks for Game Enthusiasts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-motorola-edge-40-pro-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eradicating-the-past-your-guide-to-cleaner-chatgpt-history/"><u>Eradicating the Past: Your Guide to Cleaner ChatGPT History</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forefront-vs-chatgpt-in-depth-insights-into-ai-competitiveness/"><u>Forefront vs ChatGPT: In-Depth Insights Into AI Competitiveness</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-the-innovators-guide-to-non-intrusive-audio-modulation-in-modern-videos/"><u>New 2024 Approved The Innovators Guide to Non-Intrusive Audio Modulation in Modern Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-mundane-hr-tasks-via-ai-guidance/"><u>Optimizing Mundane HR Tasks via AI Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-progress-deciphering-the-workings-of-ai-transfer-learning/"><u>Pioneering Progress: Deciphering the Workings of AI Transfer Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prevent-ai-data-collection-onsite/"><u>Prevent AI Data Collection Onsite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sophisticated-ai-enhancing-educational-outcomes/"><u>Sophisticated AI Enhancing Educational Outcomes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-preserve-chatgpt-discussions/"><u>Strategies to Preserve ChatGPT Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swiftly-solve-common-pitfalls-addressing-6-chatgpt-issues/"><u>Swiftly Solve Common Pitfalls: Addressing 6 ChatGPT Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-3-critical-issues-with-usb-c-unveiled-essential-insights/"><u>Top 3 Critical Issues with USB-C Unveiled: Essential Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Detective Sagas: Embark on 4 Thrilling Virtual Investigations"
-date: 2024-11-16T17:59:48.181Z
-updated: 2024-11-17T18:49:51.610Z
+date: 2024-11-26T16:32:22.043Z
+updated: 2024-11-27T16:42:40.797Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/3d656cbcb6ed3f0737e87c15dfee4b95bfd8fca2d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Solve the Murders
 
 ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
@@ -41,15 +45,16 @@ Author Screenshot by Mihir Patkar - No attribution required
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Gron
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Author Screenshot by Mihir Patkar - No attribution required
 
@@ -59,23 +64,9 @@ Author Screenshot by Mihir Patkar - No attribution required
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Mystery-o-Matic
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Author Screenshot by Mihir Patkar - No attribution required
 
@@ -85,9 +76,17 @@ Author Screenshot by Mihir Patkar - No attribution required
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Murdle
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Author Screenshot by Mihir Patkar - No attribution required
 
@@ -96,13 +95,6 @@ Author Screenshot by Mihir Patkar - No attribution required
  Murdle follows a similar system to Mystery-o-Matic, giving you three or four suspects, three or four locations, and three or four murder weapons every day. The mysteries get more difficult with each day, with Monday being the easiest and Sunday requiring the skills of Sherlock Holmes.
 
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
 
@@ -129,17 +121,17 @@ Author Screenshot by Mihir Patkar - No attribution required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-hysterics-hub-best-meme-tool/"><u>[New] Hysterics Hub Best Meme Tool</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-easy-guide-to-enhancing-images-via-iphone-cropping-for-2024/"><u>[Updated] The Easy Guide to Enhancing Images via iPhone Cropping for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-apex-assemblies-best-laptop-trio-for-4k-visionaries/"><u>2024 Approved Apex Assemblies Best Laptop Trio for 4K Visionaries</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1715859697126-2024-approved-explore-mp4-recording-tools-today/"><u>2024 Approved Explore MP4 Recording Tools Today!</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-pro-tip-speedy-like-video-strategies/"><u>2024 Approved Instagram Pro Tip Speedy Like-Video Strategies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-best-6-social-media-platforms-for-business/"><u>In 2024, Best 6 Social Media Platforms for Business</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interpreter-invasion-ais-battle-for-clarity/"><u>Interpreter Invasion: AI's Battle for Clarity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-natural-language-networks-le-chat-vs-gpt-3/"><u>Navigating Natural Language Networks: Le Chat vs GPT-3</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-pro-for-mac-is-the-most-popular-professional-video-editor-if-youre-planning-to-try-it-out-for-your-mac-heres-all-you-need-to-know-about-i/"><u>New Adobe Premiere Pro for Mac Is the Most Popular Professional Video Editor. If Youre Planning to Try It Out for Your Mac, Heres All You Need to Know About It</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-service-recovered-on-windows-7-desktop/"><u>Print Service Recovered on Windows 7 Desktop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-storytelling-enhanced-by-ais-intelligence/"><u>The Art of Storytelling Enhanced by AI's Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-watchful-eye-of-chatgpt-six-innovations-shaping-tech-trends/"><u>The Watchful Eye of ChatGPT: Six Innovations Shaping Tech Trends</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-2024s-top-iphone-selfie-assistants-ranked-8/"><u>[New] 2024'S Top iPhone Selfie Assistants Ranked #8</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-freebuy-one-lut-bundle-for-canon-pros/"><u>2024 Approved Free/Buy-One-LUT Bundle for Canon Pros</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-path-to-popularity-secrets-of-successful-tiktok-unboxers/"><u>2024 Approved Navigating the Path to Popularity Secrets of Successful TikTok Unboxers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-xs-max-imei-checker-by-drfone-ios/"><u>Best Free iPhone XS Max IMEI Checker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-commitment-to-ethical-sourcing/"><u>ChatGPT's Commitment to Ethical Sourcing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-personal-care-with-chatgpts-cutting-edge-uses/"><u>Elevating Personal Care with ChatGPT's Cutting-Edge Uses</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-v30-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo V30 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f15-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy F15 5G Phone Without Password?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ibuypower-gaming-machine-a-perfect-blend-of-might-and-affordability-detailed-insights/"><u>IBUYPOWER Gaming Machine: A Perfect Blend of Might and Affordability - Detailed Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-lava-storm-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Lava Storm 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-top-8-chatgpt-suggestions-for-enhancing-work-quality-in-a-digital-age/"><u>Key Top 8 ChatGPT Suggestions for Enhancing Work Quality in a Digital Age</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-mobile-transactions-the-impact-of-apples-nfc-expansion-in-iphones-on-app-developers-and-consumers-explored/"><u>Revolutionizing Mobile Transactions: The Impact of Apple's NFC Expansion in iPhones on App Developers and Consumers | Explored</u></a></li>
 </ul></div>
 

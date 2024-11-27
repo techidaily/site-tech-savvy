@@ -1,7 +1,7 @@
 ---
 title: Copilot, Your Free Companion for GPT-4's Highest Outputs
-date: 2024-11-11T18:58:30.834Z
-updated: 2024-11-17T17:57:27.730Z
+date: 2024-11-23T16:55:20.097Z
+updated: 2024-11-27T16:44:02.607Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,7 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
@@ -54,10 +51,7 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
@@ -65,25 +59,23 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
  If you want to bring Copilot up faster, you can do so by pressing **Win + C**. Or, if you're lucky enough to own a [laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/), just press that to bring up the assistant at any time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't have a Copilot button yet or use a different operating system, you can still use the [Copilot website](https://copilot.microsoft.com/). Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
  If you're on mobile, you can download the [Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or [iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445). The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Get the Most Out of GPT-4 Turbo
@@ -115,20 +107,19 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ustainable-traffic-growth-ethical-video-marketing-tips/"><u>[New] Sustainable Traffic Growth Ethical Video Marketing Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-benefits-against-risks-of-chatgpt/"><u>Balancing Benefits Against Risks of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-you-safely-leave-your-wallet-to-bots/"><u>Can You Safely Leave Your Wallet to Bots?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-titans-palm-2-vs-gpt-4-comparison/"><u>Dissecting AI Titans: PaLM 2 Vs. GPT-4 Comparison</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-to-acquiring-and-setting-up-toshiba-printing-software-on-windows-machines/"><u>Guide to Acquiring and Setting up Toshiba Printing Software on Windows Machines</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-7-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 7? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-droning-for-the-young-and-novice-top-picks/"><u>In 2024, Droning for the Young and Novice Top Picks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/shadow-flight-new-camera-frontier/"><u>Shadow Flight New Camera Frontier</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210332467-9780578949451-spirituality-instruction-manual/"><u>Spirituality Instruction Manual | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-analyzing-gpt-versions-from-one-to-four/"><u>Step by Step: Analyzing GPT Versions From One to Four</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-boosting-productivity-in-your-workspace-using-the-ipad-pro-innovation-and-strategy/"><u>The Ultimate Guide: Boosting Productivity in Your Workspace Using the iPad Pro | Innovation and Strategy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-fresh-driver-downloads-and-updates-for-hp-officejet-ex-product-4655/"><u>The Ultimate Guide: Fresh Driver Downloads & Updates for HP OfficeJet eX (Product 4655)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-creativity-bings-dall-e-3-demystified-free/"><u>Unleash Creativity: Bing's DALL-E 3 Demystified (FREE)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-huggingchat-cost-free-community-driven-alternative-to-gpt/"><u>Unveiling HuggingChat: Cost-Free, Community-Driven Alternative to GPT</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-diving-into-av1-codec-mechanics-for-2024/"><u>[New] Diving Into AV1 Codec Mechanics for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-metaverse-maps-drawn-understanding-through-6-vivid-scenarios/"><u>[New] Metaverse Maps Drawn Understanding Through 6 Vivid Scenarios</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/neftiff-movavi/"><u>移動突破: NEF到TIFF的無限制免費轉換器 - 提供由Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-free-and-premium-video-combiner-tools-for-windows-10-a-complete-guide/"><u>Best Free & Premium Video Combiner Tools for Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-convertir-archivo-mov-a-formato-de-linea-libre-usando-herramienta-online-sin-coste-movavi-explicado-paso-a-paso/"><u>Cómo Convertir Archivo MOV a Formato De Línea Libre Usando Herramienta Online Sin Coste - MOVavi Explicado Paso a Paso</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/decoding-and-repairing-critical-nmihardwarefailure-bsod-windows-bug-successfully-explained/"><u>Decoding and Repairing Critical NMI_HARDWARE_FAILURE BSOD Windows Bug Successfully Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dont-let-mystery-calls-disturb-you-how-to-shield-your-iphone-from-unknown-callers/"><u>Don't Let Mystery Calls Disturb You: How to Shield Your iPhone From Unknown Callers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/facil-comando-de-conversao-para-baixar-audio-em-mp3-do-formato-m4b-guia-detalhado/"><u>Fácil Comando De Conversão Para Baixar Áudio Em MP3 Do Formato M4B - Guia Detalhado</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-apple-iphone-se-2022-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your Apple iPhone SE (2022) Apple ID and Apple Pay</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-5-masterful-fluid-interaction-titles/"><u>In 2024, 5 Masterful Fluid Interaction Titles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavis-solution-convert-snd-formats-to-mp3wav-online-at-no-cost/"><u>Movavi's Solution: Convert .SND Formats to MP3/WAV Online at No Cost</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-heart-of-filmora-10-engaging-editing-capabilities-for-2024/"><u>The Heart of Filmora 10 Engaging Editing Capabilities for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformar-archivo-de-audio-en-mpg-sin-coste-convertidor-web-de-movavi/"><u>Transformar Archivo De Audio en MPG Sin Coste - Convertidor Web De Movavi</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-video-language-changers-to-make-your-videos-accessible/"><u>Updated Best Video Language Changers to Make Your Videos Accessible</u></a></li>
 </ul></div>
 

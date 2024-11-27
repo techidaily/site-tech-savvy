@@ -1,7 +1,7 @@
 ---
 title: Streamlining Cover Letters via Advanced AI, ChatGPT
-date: 2024-11-13T17:12:32.421Z
-updated: 2024-11-17T19:34:07.490Z
+date: 2024-11-24T16:51:26.966Z
+updated: 2024-11-27T16:36:58.022Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Your ChatGPT Account
 
 ![Screenshot of ChatGPT homepage (updated)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-chatgpt-homepage-updated.jpg)
@@ -41,28 +45,12 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
  ChatGPT-4 has a limit of 25 messages every three hours, costing $20 monthly. If you’re wondering what other artificial intelligence options exist besides ChatGPT, you might be interested in learning about [the best alternatives to ChatGPT](https://www.makeuseof.com/best-alternatives-chatgpt/).
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enter Your Custom Instructions
 
 ![Screenshot of Custom Instructions for freelance writing cover letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-custom-instructions-for-freelance-writing-cover-letter.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Before you ask ChatGPT to write content for you, you need to provide custom instructions to the platform. You do this in the custom instructions; you can access it by clicking on your name.
 
@@ -77,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 ![Screenshot of job description provided to ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-job-description-provided-to-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve completed your custom instructions, it’s time to provide a job description that ChatGPT can refer to when creating your cover letter. Remember, the key to writing an effective cover letter is addressing all the critical needs indicated in the job description.
@@ -99,36 +84,19 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 
  The first paragraph is where you provide basic details about who you are and why you want the job. You can also give a general overview of why you’re the right candidate for the job and why the position excites you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Your Qualifications
 
 ![Screenshot of summary of qualifications by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-summary-of-qualifications-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The next part of your cover letter summarizes your experience and qualifications and how they apply to the job you’re applying for. This is where you can include stories about relevant projects or situations to give the hiring manager or recruiter some insight into how you work.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Explain How You Align With the Company’s Values and Goals
 
 ![Screenshot of aligning with values and goals of organization by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-aligning-with-values-and-goals-of-organization-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this section of your cover letter, you want to illustrate that you understand the company’s mission and have done your research on the company. You want to focus on how your goals align with the organization’s, and you can also include positive factors you’ve heard about the company culture.
 
@@ -140,9 +108,17 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 
  This is where you can focus on the talents and skills you hope to bring to the team. If you want to learn more about the platform’s capabilities and how to generate the proper prompts, you may be interested in learning [ways to learn how to write effective ChatGPT prompts for the best AI answers](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/ "5 Ways to Learn How to Write Effective ChatGPT Prompts for the Best AI Answers").
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Proofread and Review the Generated Cover Letter
 
 ![Image of a math mistake](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-of-a-math-mistake.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the AI generates the different parts of your cover letter, you can put them together and read it out loud to see if it makes sense.
 
@@ -177,21 +153,24 @@ thumbnail: https://thmb.techidaily.com/efc2d305e478474af3e17a5e089941fb3280acaab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-best-in-class-steadicam-equipment-for-drone-cinematography/"><u>[New] In 2024, Best-in-Class Steadicam Equipment for Drone Cinematography</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-economic-escalade-of-ajey-and-carryminati-on-youtube/"><u>[Updated] 2024 Approved The Economic Escalade of Ajey and CarryMinati on YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-straightforward-route-scrolling-through-popular-youtube-feedbacks/"><u>[Updated] 2024 Approved The Straightforward Route Scrolling Through Popular YouTube Feedbacks</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-digital-sensations-how-vr-enhances-pleasure/"><u>[Updated] In 2024, Digital Sensations How VR Enhances Pleasure</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbot-conversational-techniques-and-human-simulation/"><u>Chatbot Conversational Techniques and Human Simulation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-artificial-intelligence-and-its-risks/"><u>Deciphering Artificial Intelligence & Its Risks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sleek-60-second-fades/"><u>In 2024, Sleek 60-Second Fades</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unpackaging-text-magic-the-best-after-effects-plugin-guide/"><u>In 2024, Unpackaging Text Magic The Best After Effects Plugin Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/journey-into-creation-merging-chatgpt-and-dall-e-for-fantasy-worlds/"><u>Journey Into Creation: Merging ChatGPT and DALL-E for Fantasy Worlds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/kidstoons-pro-deep-dive-year-2024/"><u>KidsToons Pro Deep Dive - Year 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ais-impact-on-authenticity-in-writing/"><u>Navigating AI's Impact on Authenticity in Writing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-gamers-rejoice-masterful-tips-for-a-smooth-finish-in-this-years-most-anticipated-title-crash-chronicles/"><u>PC Gamers Rejoice: Masterful Tips for a Smooth Finish in This Year's Most Anticipated Title Crash Chronicles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/renewable-resources-vs-energy-demand-a-balancing-act/"><u>Renewable Resources Vs. Energy Demand: A Balancing Act</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-zenith-of-bots-beyond-chatgpt/"><u>The Zenith of Bots Beyond ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-claude-pro-vs-advanced-gptplusplus-model/"><u>Understanding Claude Pro Vs. Advanced GPT++ Model</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-how-to-edit-videos-shot-by-sony-digital-camcorder/"><u>Updated 2024 Approved How to Edit Videos Shot by Sony Digital Camcorder</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enabling-your-brands-mobile-reach-launching-youtube-channels-with-ease/"><u>[Updated] 2024 Approved Enabling Your Brand's Mobile Reach Launching YouTube Channels with Ease</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-directly-send-snaps-from-your-phone-a-tutorial/"><u>[Updated] Directly Send Snaps From Your Phone - A Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726221313834-2024/"><u>「2024年新開賣：用照片移除對象？解決策四種最便捷入門指南」</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-adventure-cameras-showdown-gopro-vs-garmin-2e/"><u>2024 Approved Adventure Cameras Showdown GoPro Vs. Garmin (2E)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726227770022-2024/"><u>2024最佳免費音樂製作軟件：前十名推薦清單</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4a-m4v-movavi/"><u>網路上免費轉換 M4A 到 M4V - 使用 Movavi 工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convertisseurs-video-gratuits-pour-le-web-passer-flv-a-3gp-avec-movavi/"><u>Convertisseurs Vidéo Gratuits Pour Le Web : Passer FLV À 3GP Avec Movavi</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/digital-distinction-design-molding-an-animated-profile-for-2024/"><u>Digital Distinction Design Molding an Animated Profile for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-fbx-techniques-for-capturing-games-for-2024/"><u>Essential FBX Techniques for Capturing Games for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explorando-os-top-tecnicas-de-reducao-da-profundidade-de-cor-em-imagens-com-video-tutorials/"><u>Explorando Os Top Técnicas De Redução Da Profundidade De Cor Em Imagens Com Vídeo Tutorials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuita-conversione-tta-per-i-tuoi-video-impara-a-farlo-usando-movavi/"><u>Gratuita Conversione TTA per I Tuoi Video: Impara a Farlo Usando Movavi!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuito-conversor-de-formatos-vob-para-jpeg-em-miniature-online-movavi/"><u>Gratuito Conversor De Formatos VOB Para JPEG Em Miniature Online - Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-development-with-microsoft-copilot-ai/"><u>Mastering Windows Development with Microsoft Copilot AI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-disconnected-touchpad-driver-recovery-success/"><u>No More Disconnected Touchpad: Driver Recovery Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/os-melhores-editores-video-para-estabilizacao-e-correcoes-em-202-opcoes-gratuitas-and-pagas/"><u>Os Melhores Editores Vídeo Para Estabilização E Correções Em 202([!]): Opções Gratuitas & Pagas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726224334373-tta-flac-movavi/"><u>오픈소스 시청자들에겐 사용하기 쉬운 TTA FLAC 크리이트: Movavi</u></a></li>
 </ul></div>
 

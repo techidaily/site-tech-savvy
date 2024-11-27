@@ -1,7 +1,7 @@
 ---
 title: Dive Into ChatGPT's Enhancement Registrations Step-by-Step
-date: 2024-11-16T18:52:20.602Z
-updated: 2024-11-17T16:25:41.932Z
+date: 2024-11-24T16:53:09.986Z
+updated: 2024-11-27T16:15:38.273Z
 tags:
   - chatgpt
   - open-ai
@@ -30,9 +30,17 @@ thumbnail: https://thmb.techidaily.com/bf2709550851c34ad73e4e10402b84c4b2a66d479
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do ChatGPT Plugins Work?
 
 ![Monitor screen showing ChatGPT landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/monitor-screen-showing-chatgpt-landing-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT plugins are software components integrated into [the ChatGPT platform](https://www.makeuseof.com/how-does-chatgpt-work/). They provide ChatGPT with additional information, such as up-to-date news or data from proprietary sources, and enable ChatGPT to perform specific actions on behalf of users.
 
@@ -43,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/bf2709550851c34ad73e4e10402b84c4b2a66d479
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -54,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/bf2709550851c34ad73e4e10402b84c4b2a66d479
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can [sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on **Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -70,10 +72,7 @@ thumbnail: https://thmb.techidaily.com/bf2709550851c34ad73e4e10402b84c4b2a66d479
 4. Click **Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -101,22 +100,15 @@ thumbnail: https://thmb.techidaily.com/bf2709550851c34ad73e4e10402b84c4b2a66d479
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-bringing-lectures-to-life-effective-editing-techniques/"><u>[New] In 2024, Bringing Lectures to Life Effective Editing Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/our-guide-to-iconic-fonts-boosting-video-engagement-for-2024/"><u>[New] Your Guide to Iconic Fonts Boosting Video Engagement for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-saving-instagrams-trending-videos/"><u>[Updated] The Ultimate Guide to Saving Instagram's Trending Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-the-metaphorical-representation-of-the-internet-as-an-infinite-knowledge-storehouse/"><u>Assessing the Metaphorical Representation of the Internet as an Infinite Knowledge Storehouse</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-of-chatgpt-microsoft-bing-ai-google-bard/"><u>Comparative Analysis of ChatGPT, Microsoft Bing AI, Google Bard</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-features-of-the-latest-cycwagen-electric-bike-a-hands-on-review/"><u>Discover the Features of the Latest CycWagen Electric Bike - A Hands-On Review</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-harnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker/"><u>In 2024, Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-artisans-guide-to-striking-ae-title-designs/"><u>In 2024, The Artisan's Guide to Striking AE Title Designs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-f5-pro-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco F5 Pro 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-your-way-to-epic-tales-chatgpt-and-artful-ai-for-rpg-world-building/"><u>Innovate Your Way to Epic Tales: ChatGPT & Artful AI for RPG World-Building</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-an-reliable-medical-consultant/"><u>Is ChatGPT an Reliable Medical Consultant?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/one-click-bavarder-for-chatgpt-on-linux/"><u>One Click Bavarder for ChatGPT on Linux</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-support-interaction-ai-and-whatsapp-integration-guide/"><u>Streamlining Support Interaction: AI & WhatsApp Integration Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/take-control-of-your-digital-dialogues-chrome-add-on-for-ease/"><u>Take Control of Your Digital Dialogues - Chrome Add-On for Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-the-power-of-books-with-these-best-ai-based-reading-platforms/"><u>Unleash the Power of Books with These Best AI-Based Reading Platforms</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nubia-red-magic-8s-proplus-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nubia Red Magic 8S Pro+ Phone Network-Ready</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-craft-a-chic-google-collage-in-minutes-not-hours/"><u>[New] Craft a Chic Google Collage in Minutes, Not Hours</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expanding-creative-horizons-in-obs-studio-using-luts/"><u>Expanding Creative Horizons in OBS Studio Using LUTs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-converter-transform-vob-files-into-high-quality-aiff-audio-directly-on-the-web-with-movavi/"><u>Free Converter: Transform VOB Files Into High-Quality AIFF Audio Directly on the Web with Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-accessing-unseen-wi-fi-choices-in-windows-11-settings/"><u>Guide to Accessing Unseen Wi-Fi Choices in Windows 11 Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-batch-heic-image-change-to-jpeg-in-windows-11/"><u>Guide to Batch HEIC Image Change to JPEG in Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/logiciel-de-retouche-dimages-avancee-movavi-photocorrecteur-une-experience-intuitive-pour-ameliorer-votre-photographie/"><u>Logiciel De Retouche D'Images Avanceé : Movavi PhotoCorrecteur | Une Expérience Intuitive Pour Améliorer Votre Photographie</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-video-konverter-den-lette-og-pligtelige-lystenudskrivnings-app-pa-danskmarkedet/"><u>Movavi Video Konverter - Den Lette Og Pligtelige Lystenudskrivnings App På Danskmarkedet</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/revel-in-reading-booktoks-best-titles-of-the-year-for-2024/"><u>Revel in Reading BookTok’s Best Titles of the Year for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/webconversor-de-audio-gratuito-faca-sua-musica-tocar-em-qualquer-dispositivo-mp3-wma/"><u>Webconversor De Áudio Gratuito – Faça Sua Música Tocar Em Qualquer Dispositivo (MP3, WMA)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Smartwatch Showdown: In Depth Comparison Between Google's Pixel Watch and Apple's Latest Series 8"
-date: 2024-11-14T17:15:41.160Z
-updated: 2024-11-17T18:17:34.800Z
+date: 2024-11-23T16:30:40.194Z
+updated: 2024-11-27T16:09:32.234Z
 tags:
   - apple
 categories:
@@ -50,6 +50,10 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | **Watch model**           | **Apple Watch Series 10**                                                                                                                                                                                       | **Apple Watch Series 8**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -71,25 +75,19 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the Apple Watch Series 10 if...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
 
@@ -109,6 +107,10 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. It's time to upgrade
 
 If you own a Watch Series 7 or older, you may be looking to surrender your current everyday driver and opt for something fresher. As we inch closer to 2025, the Series 7 is close to being four years old, and any model that precedes that device probably feels a bit outdated or is perhaps experiencing performance dips. Last year I upgraded my Watch Series 3, which I purchased in 2020, to a [Watch SE (2nd Gen)](https://www.zdnet.com/article/the-apple-watch-se-is-just-60-off-this-memorial-day-and-its-my-favorite-purchase-this-year/) after experiencing glitching issues and poor battery life. The difference has been astounding. 
@@ -121,16 +123,13 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
 
@@ -145,13 +144,6 @@ While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/)
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -187,20 +179,22 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-steadicams-for-dslr/"><u>[New] Best Steadicams for DSLR</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-android-advantage-5-unique-playlist-downloaders-reviewed/"><u>[Updated] 2024 Approved Android Advantage 5 Unique Playlist Downloaders Reviewed</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-analyzing-tseries-earnings-via-youtube-engagement-for-2024/"><u>[Updated] Analyzing TSeries Earnings via YouTube Engagement for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-magic-of-seamless-sound-integration-in-videos/"><u>[Updated] Unveiling the Magic of Seamless Sound Integration in Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/androidios-users-guide-to-facebook-live-broadcasting/"><u>Android/iOS Users' Guide to Facebook Live Broadcasting</u></a></li>
-<li><a href="https://fox-info.techidaily.com/cutting-edge-strategies-for-efficient-lut-design/"><u>Cutting-Edge Strategies for Efficient LUT Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deconstructing-generative-ai-for-easy-compreranble/"><u>Deconstructing Generative AI for Easy Compreranble</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/dont-fall-into-these-traps-as-a-first-time-windows-11-user/"><u>Don't Fall Into These Traps as a First-Time Windows 11 User</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ng-equations-decoding-the-mathematics-behind-youtube-income-monitoring-for-2024/"><u>Earning Equations Decoding the Mathematics Behind YouTube Income Monitoring for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-simple-sounds-to-complex-compositions-empowering-audio-artists-with-chatgpt/"><u>From Simple Sounds to Complex Compositions: Empowering Audio Artists with ChatGPT</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-a-big-privacy-risk/"><u>Is ChatGPT a Big Privacy Risk?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pinnacle-extensions-combining-chatgpt-with-vs-code/"><u>Pinnacle Extensions: Combining ChatGPT with VS Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-your-life-applying-chatgpt-in-these-four-ways/"><u>Streamline Your Life: Applying ChatGPT in These Four Ways</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visionary-approaches-in-ai-discovering-the-six-pillars-of-gpts-engineer/"><u>Visionary Approaches in AI - Discovering the Six Pillars of GPT's Engineer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-creative-video-editing-for-fb-techniques-of-lc-and-bb-overlay/"><u>[New] Creative Video Editing for FB Techniques of LC and BB Overlay</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/clearer-brighter-videos-mastering-the-v22-technique-for-2024/"><u>Clearer, Brighter Videos Mastering the V2.2 Technique for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-the-best-no-cost-h2email-protected-player-for-effortless-playback-of-hevc-files/"><u>Download the Best No-Cost H.2([email Protected]) Player for Effortless Playback of .HEVC Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-free-tweet-evolution-linuss-unmasking-trojan-discourse-and-chatgpt-hurdles/"><u>Emoji-Free Tweet Evolution, Linus's Unmasking, Trojan Discourse, & ChatGPT Hurdles.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-lag-free-gaming-experience-on-avatar-frontiers-of-pandora-adventures/"><u>Enhancing Lag-Free Gaming Experience on Avatar: Frontiers of Pandora Adventures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fusing-technology-and-innovation-constructing-web-applications-with-gpt-3/"><u>Fusing Technology and Innovation: Constructing Web Applications with GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-magic-tricks-unveiling-9-daily-life-boosters/"><u>GPT's Magic Tricks: Unveiling 9 Daily Life Boosters</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-105-classic-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia 105 Classic Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-3-for-productive-task-planning/"><u>Leveraging GPT-3 for Productive Task Planning</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pushing-boundaries-with-samsungs-ue590-monitor-review-for-2024/"><u>Pushing Boundaries with Samsung's UE590 Monitor Review for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-search-technology-meets-you-bings-ai-powered-android-and-ios/"><u>Seamless Search Technology Meets You - Bing's AI-Powered Android & iOS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974215162-streamline-graphic-display-using-the-latest-update-for-intel-hd-graphics-3000-on-windows-10/"><u>Streamline Graphic Display Using the Latest Update for Intel HD Graphics 3000 on Windows 10.</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/unlocking-the-secrets-of-password-free-windows-11-system-recovery/"><u>Unlocking the Secrets of Password-Free Windows 11 System Recovery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-digital-crimes-4-ai-driven-suspenseful-mysteries/"><u>Unraveling Digital Crimes: 4 AI-Driven Suspenseful Mysteries</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-most-shared-stock-photos-and-backstories-for-2024/"><u>Unveiling the Most Shared Stock Photos & Backstories for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-versatile-implementation-of-chatgpt/"><u>Unveiling the Versatile Implementation of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-companionship-using-chatgpt-to-connect-people/"><u>Virtual Companionship: Using ChatGPT to Connect People</u></a></li>
 </ul></div>
 

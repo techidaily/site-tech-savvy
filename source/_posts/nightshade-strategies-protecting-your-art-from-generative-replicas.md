@@ -1,7 +1,7 @@
 ---
 title: "Nightshade Strategies: Protecting Your Art From Generative Replicas"
-date: 2024-11-14T16:21:28.319Z
-updated: 2024-11-17T19:44:46.768Z
+date: 2024-11-25T16:28:19.384Z
+updated: 2024-11-27T16:19:06.408Z
 tags:
   - chatgpt
   - open-ai
@@ -20,16 +20,17 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is AI Poisoning?](https://natural-cycles.sjv.io/vmebmr)
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -53,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
@@ -72,10 +70,7 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Nightshade
@@ -97,10 +92,7 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
@@ -127,19 +119,21 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/1716068979108-new-2024-approved-navigating-through-top-ps2-games-on-android-devices-a-compre-written-in-english/"><u>[New] 2024 Approved Navigating Through Top PS2 Games on Android Devices - A Compre Written in English.</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-diy-anchors-and-stabilizers-for-handheld-video/"><u>[New] In 2024, DIY Anchors and Stabilizers for Handheld Video</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-subtitle-savant-strategies-for-unparalleled-srt-file-creation/"><u>[Updated] Subtitle Savant Strategies for Unparalleled SRT File Creation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-app-development-cutting-edge-editor-tools/"><u>[Updated] Top App Development Cutting-Edge Editor Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-to-triumph-in-spotifys-ad-marketplace/"><u>2024 Approved Expert Tips to Triumph in Spotify's Ad Marketplace</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accessing-gpt-4-on-a-shoestring-budget/"><u>Accessing GPT-4 on a Shoestring Budget</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-ai-like-chatgpt-trigger-unauthorized-access-on-personal-computers/"><u>Can AI Like ChatGPT Trigger Unauthorized Access on Personal Computers?</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://solve-news.techidaily.com/preserving-video-integrity-while-transforming-mkv-files-into-mp4-format-on-a-budget-via-handbrake/"><u>Preserving Video Integrity While Transforming MKV Files Into MP4 Format on a Budget via Handbrake</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-moto-g23-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Moto G23 Black and White | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spearheading-impactful-presentation-design-with-chatgpt-insights/"><u>Spearheading Impactful Presentation Design with ChatGPT Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-digital-transformation-era-thriving-amidst-ai-advancements/"><u>The Digital Transformation Era: Thriving Amidst AI Advancements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-advantages-4-reasons-to-prefer-claude-3/"><u>Unveiling the Advantages: 4 Reasons to Prefer Claude 3</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-deciding-on-ideal-vimeo-subscription-plan/"><u>[New] Deciding on Ideal Vimeo Subscription Plan</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-harness-your-view-count-cross-platform-studio-methods/"><u>[Updated] Harness Your View Count Cross-Platform Studio Methods</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-expertly-convert-videos-on-your-device-with-the-most-trusted-apps-8/"><u>2024 Approved Expertly Convert Videos on Your Device with the Most Trusted Apps #8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-tutorial-transforming-m4v-files-into-mp4-format-with-vlc-media-player/"><u>Complete Tutorial: Transforming M4V Files Into MP4 Format with VLC Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-power-of-video-converter-factory-pro-begin-with-a-free-trial-and-seamless-subscription-process/"><u>Discover the Power of Video Converter Factory Pro - Begin with a Free Trial and Seamless Subscription Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-chromebook-video-editors-your-guide-to-the-best-free-and-subscription-based-tools/"><u>Discover the Ultimate Chromebook Video Editors: Your Guide to the Best Free and Subscription-Based Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-transforming-your-ipad-videos-into-high-quality-mp4-format/"><u>Easy Steps: Transforming Your iPad Videos Into High-Quality MP4 Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-of-links-to-different-audio-types-such-as-mp3-wav-and-flac-in-two-easy-steps/"><u>Effortless Conversion of Links to Different Audio Types Such as MP3, WAV and FLAC in Two Easy Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-streaming-successfully-watching-mkv-files-with-windows-media-player/"><u>Effortless Streaming: Successfully Watching MKV Files with Windows Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-transformation-of-mkv-videos-to-avi-with-videolans-vlc-software-a-detailed-tutorial/"><u>Effortless Transformation of MKV Videos to AVI with VideoLAN's VLC Software - A Detailed Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-pixel-7a-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Pixel 7a.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-11x-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme 11X 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/ios-enthusiasts-meet-your-new-chatbuddy/"><u>IOS Enthusiasts, Meet Your New ChatBuddy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-on-hosting-webinars-a-beginners-guide-to-zoom-for-2024/"><u>Step-by-Step on Hosting Webinars A Beginner's Guide to Zoom for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-poco-c65-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Poco C65 FRP Bypass</u></a></li>
 </ul></div>
 

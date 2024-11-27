@@ -1,7 +1,7 @@
 ---
 title: How to Detect Misleading Data Visualizations by AI Systems
-date: 2024-11-10T19:27:13.555Z
-updated: 2024-11-17T17:09:33.794Z
+date: 2024-11-22T16:55:39.103Z
+updated: 2024-11-27T16:03:06.834Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is AI Hallucination?
 
  Artificial intelligence hallucination occurs when an AI model generates outputs different from what is expected. Note that some AI models are trained to intentionally generate outputs unrelated to any real-world input (data).
@@ -47,17 +51,11 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 ![A ChatGPT prompt further querying where elon musk's factory is at in brazil](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181530.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI Hallucination in Computer Vision
@@ -73,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 ![A 4x4 montage of poodle and pork floss bun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-17-234559.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Does AI Hallucination Occur?
@@ -111,16 +106,13 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
  Here are some ways to spot AI hallucinations while using common AI applications:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Large Language Processing Models
 
 ![Picture showing Bing Chat and ChatGPT on arrowed sigsn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-showing-bing-chat-and-chatgpt-on-arrowed-sigsn.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Although rare, if you notice a grammatical error in the content produced by a large processing model, such as ChatGPT, that should raise an eyebrow and make you suspect a hallucination. Similarly, when text-generated content doesn't sound logical, correlate with the context given, or match the input data, you should suspect a hallucination.
 
@@ -129,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 ### 2\. Computer Vision
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As a branch of artificial intelligence, machine learning, and computer science, computer vision empowers computers to recognize and process images like human eyes. Using [convolutional neural networks](https://www.makeuseof.com/convolutional-neural-network-explained/), they rely on the incredible amount of visual data used in their training.
 
@@ -147,18 +132,15 @@ thumbnail: https://thmb.techidaily.com/a01c874bf96001212de2ae31da3cf8c01bb85a8c0
 
 ![Ford Blue Cruise 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ford-blue-cruise-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedmedia.viewmore.image.html/content/fordmedia/fna/us/en/news/2021/04/14/ford-mother-of-all-road-trips-bluecruise-hands-free-driving/jcr:content/rightRailPar/relatedmedia.html)
 
  Thanks to AI, self-driving cars are gradually infiltrating the auto market. Pioneers like Tesla Autopilot and Ford's BlueCruise have been championing the scene of self-driving cars. You can check out [how and what the Tesla Autopilot sees](https://www.makeuseof.com/how-and-what-the-tesla-autopilot-sees/) to get a bit of an understanding of how AI powers self-driving cars.
 
  If you own one of such cars, you would want to know if your AI car is hallucinating. One sign will be if your vehicle seems to be deviating from its normal behavior patterns while driving. For example, if the vehicle brakes or swerves suddenly without any obvious reason, your AI vehicle might be hallucinating.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AI Systems Can Hallucinate Too
 
@@ -185,16 +167,19 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-instant-reachers-handbook-livestreaming-on-facebook-via-smartphones/"><u>[Updated] In 2024, Instant Reachers' Handbook Livestreaming on Facebook via Smartphones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-photography-tutorial-how-to-shoot-and-create-impressive-hdr-portraits-for-2024/"><u>[Updated] Photography Tutorial_ How to Shoot and Create Impressive HDR Portraits for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ankers-top-notch-tactical-flashlight-a-comprehensive-guide-to-rugged-outdoor-illumination/"><u>Anker's Top-Notch Tactical Flashlight: A Comprehensive Guide to Rugged Outdoor Illumination</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-thunderbolt-driver-software-compatible-with-windows-os/"><u>Download Thunderbolt Driver Software Compatible with Windows OS</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oppo-find-n3-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Oppo Find N3 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-poco-f5-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Poco F5 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12r-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12R PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-solutions-to-overcome-vlcs-cfhd-codec-error-and-ensure-smooth-playback/"><u>Simple Solutions to Overcome VLC's CFHD Codec Error and Ensure Smooth Playback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simple-tips-and-tricks-how-to-stream-content-via-usb-onto-your-philips-smart-tv/"><u>Simple Tips & Tricks: How To Stream Content via USB Onto Your Philips Smart TV</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-sound-editing-with-these-4-strategies-to-normalize-wav-audio-files/"><u>Simplify Sound Editing with These 4 Strategies to Normalize WAV Audio Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-premiere-pro-buffering-issues-discover-over-10-effective-fixes/"><u>Solving Premiere Pro Buffering Issues: Discover Over 10 Effective Fixes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-no-money-no-problem-adding-videos-to-written-pieces/"><u>[New] 2024 Approved No Money, No Problem Adding Videos to Written Pieces</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/anish-youtube-shorts-forever-with-ease-for-2024/"><u>[New] Banish YouTube Shorts Forever with Ease for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tackling-tricky-feed-issues-hidden-youtubefacebook-videos/"><u>[New] Tackling Tricky Feed Issues Hidden YouTube/Facebook Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assisted-podcast-storytelling-experiment/"><u>AI Assisted Podcast Storytelling Experiment</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/best-solutions-for-restoring-deleted-contact-information-on-iphone/"><u>Best Solutions for Restoring Deleted Contact Information on iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/excellent-windows-apps-transforming-videos/"><u>Excellent Windows Apps Transforming Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-for-fresh-audio-innovations-latest-speculation-on-imminent-airpods-lite-and-airpods-max-debut-apple-insights-zdnet/"><u>Get Ready for Fresh Audio Innovations: Latest Speculation on Imminent AirPods Lite and AirPods Max Debut | Apple Insights - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guidelines-for-the-best-ai-chatbot-subscription-experience/"><u>Guidelines for the Best AI Chatbot Subscription Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-detailed-methodology-to-masterboard-use-in-desktopiosandroid-zoom-sessions/"><u>In 2024, Detailed Methodology to Masterboard Use in Desktop/iOS/Android Zoom Sessions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-subtitle-mastery-made-easy-10-free-online-tools/"><u>In 2024, Subtitle Mastery Made Easy - 10 Free Online Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-tech-world-through-toms-hardware-lens/"><u>Navigating the Tech World Through Tom's Hardware Lens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-and-easy-your-guide-to-agentdeployment-on-agentgpt/"><u>Quick and Easy: Your Guide to AgentDeployment on AgentGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resurgence-of-apples-enigmatic-homeos-seen-again-in-latest-tvos-development-leak-insights/"><u>Resurgence of Apple's Enigmatic homeOS Seen Again in Latest tvOS Development Leak - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-the-best-2022-ipads-for-children-insights-from-gadgetwise/"><u>The Ultimate Guide to Choosing the Best 2022 iPads for Children - Insights From GadgetWise</u></a></li>
 </ul></div>
 

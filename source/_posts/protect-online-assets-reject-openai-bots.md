@@ -1,7 +1,7 @@
 ---
 title: "Protect Online Assets: Reject OpenAI Bots"
-date: 2024-11-13T19:49:40.356Z
-updated: 2024-11-17T19:45:31.374Z
+date: 2024-11-26T16:52:40.787Z
+updated: 2024-11-27T16:02:23.015Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does OpenAI Crawling Work?
 
  A [web crawler](https://www.makeuseof.com/what-is-a-web-crawlerspider-and-how-does-it-work/) (also known as a spider or a search engine bot) is an automated program that scans the internet for information. It then compiles that information in a way that's easy for your search engine to access it.
@@ -37,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
  OpenAI's web crawler is called GPTBot, and according to [OpenAI's documentation](https://platform.openai.com/docs/gptbot), giving GPTBot access to your website can help train the AI model to become safer, and more accurate, and it can even help expand the AI model's capabilities.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Prevent OpenAI From Crawling Your Website
@@ -56,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
  Here's how to control what GPTBot can do on your website:
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Completely Block GPTBot From Accessing Your Website
@@ -71,10 +69,7 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 Disallow: /`
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Block Only Certain Pages From Being Accessed by GPTBot
@@ -89,10 +84,7 @@ Disallow: /directory-2/`
  However, keep in mind that changing the **robot.txt** file is not a retroactive solution, and any information that GPTBot may have already gathered from your website will not be recoverable.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Allows Website Owners to Opt-Out From Crawling
@@ -122,17 +114,18 @@ Disallow: /directory-2/`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-best-buys-for-your-digital-chime-preferences-in-snapchat/"><u>[Updated] Best Buys for Your Digital Chime Preferences in SnapChat</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-recover-elusive-facebook-watch-video-icon/"><u>[Updated] Recover Elusive Facebook Watch Video Icon</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/between-audio-and-video-which-platform-takes-the-lead-for-2024/"><u>Between Audio and Video, Which Platform Takes the Lead for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-professionalism-in-resume-crafting-chatgpt-techniques/"><u>Elevate Professionalism in Resume Crafting (ChatGPT Techniques)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-ai-dialogues-crafting-bespoke-chatgpt/"><u>Innovate AI Dialogues: Crafting Bespoke ChatGPT</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-visual-storytelling-with-custom-typefaces-in-after-effects-for-2024/"><u>Mastering Visual Storytelling with Custom Typefaces in After Effects for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/real-gpt-tips-to-dodge-scammers/"><u>Real GPT Tips to Dodge Scammers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/y-solutions-to-unsettle-and-reorder-youtube-songs/"><u>Speedy Solutions to Unsettle and Reorder YouTube Songs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/step-by-step-download-vimeo-to-mp4-files-for-2024/"><u>Step-by-Step Download Vimeo to MP4 Files for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategic-planning-achieving-wellness-with-ai/"><u>Strategic Planning: Achieving Wellness with AI</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-8-metaverse-vr-experiences-and-headsets/"><u>Top 8 Metaverse VR Experiences & Headsets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/which-ai-tool-leads-for-coding-github-copilot-or-gpt-3-examined/"><u>Which AI Tool Leads for Coding? GitHub Copilot or GPT-3 Examined</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-watermarking-masters-the-leading-tools-reviewed/"><u>[New] Watermarking Masters The Leading Tools Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726026816311-pc/"><u>「PC/スマホで『原神』の映像をキャプチャする簡単な手順」</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-android-screen-recording-tutorial-essentials/"><u>2024 Approved Android Screen Recording Tutorial Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-shutdown-in-italy-why-now/"><u>ChatGPT Shutdown in Italy: Why Now?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/convert-and-save-moviefone-show-downloads-in-mp4avi-format-for-pcs-and-macs/"><u>Convert & Save Moviefone Show Downloads in MP4/AVI Format for PCs & Macs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tlessly-transform-youtube-tunes-to-mp3-with-mac-for-2024/"><u>Effortlessly Transform YouTube Tunes to MP3 with Mac for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-auto-gpt-without-gpt-4-backup/"><u>Evaluating Auto-GPT without GPT-4 Backup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-chatgpt-plus-for-maximum-benefit/"><u>Evaluating ChatGPT Plus for Maximum Benefit</u></a></li>
+<li><a href="https://program-issues.techidaily.com/god-of-war-not-running-smoothly-on-pc-heres-how-to-stop-the-endless-crashes/"><u>God of War Not Running Smoothly on PC? Here's How to Stop the Endless Crashes</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/guide-facile-comment-enregistrer-vos-jeux-ps4-sur-un-hdd-exterieur/"><u>Guide Facile: Comment Enregistrer Vos Jeux PS4 Sur Un HDD Extérieur</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/limits-on-learning-machines/"><u>Limits on Learning Machines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-tasks-chatgpt-as-your-corporate-sidekick/"><u>Optimizing Tasks: ChatGPT as Your Corporate Sidekick</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-ipados-18-at-wwdc-2024-the-game-changing-feature-that-could-convert-you-to-an-apple-user-right-now-techzone/"><u>Unveiling iPadOS 18 at WWDC 2024: The Game-Changing Feature That Could Convert You to an Apple User Right Now | TechZone</u></a></li>
 </ul></div>
 

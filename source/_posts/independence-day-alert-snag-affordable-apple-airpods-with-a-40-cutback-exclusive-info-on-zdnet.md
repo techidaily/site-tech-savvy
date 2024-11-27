@@ -1,7 +1,7 @@
 ---
 title: "Independence Day Alert: Snag Affordable Apple AirPods With a $40 Cutback, Exclusive Info on ZDNET"
-date: 2024-11-15T19:36:57.890Z
-updated: 2024-11-17T16:59:31.174Z
+date: 2024-11-21T16:58:30.981Z
+updated: 2024-11-27T16:45:38.001Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc897cc8f-f17e-41e6-8410-d72f180f8ed4%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -58,23 +62,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-webcam-breakthroughs-ideas-to-try-now/"><u>[New] Webcam Breakthroughs Ideas to Try Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-artificial-intelligence-black-boxes-explained/"><u>Demystifying Artificial Intelligence: Black Boxes Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discounted-phones-and-digital-locks-a-discourse-on-cybersecurity/"><u>Discounted Phones and Digital Locks: A Discourse on Cybersecurity</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-pro-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 12 Pro Passcode not Working?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-scripting-stimulating-screen-grabbers/"><u>In 2024, Scripting Stimulating Screen-Grabbers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-class-for-seamless-plugin-installation-in-chatgpt/"><u>Master Class for Seamless Plugin Installation in ChatGPT</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/premium-mac-and-pc-fullscreen-recording-apps/"><u>Premium Mac & PC Fullscreen Recording Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/regulating-robots-four-ways-government-intervenes-in-ai/"><u>Regulating Robots: Four Ways Government Intervenes in AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-accessibility-for-your-private-chatgpt-talks/"><u>Tailoring Accessibility for Your Private ChatGPT Talks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-affordability-in-smartwatches-inside-look-at-the-apple-watch-series-se/"><u>Unlocking Affordability in Smartwatches: Inside Look at the Apple Watch Series SE</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-proplus-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro+ 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-understanding-split-screen-techniques-in-facebook-lives/"><u>[New] In 2024, Understanding Split Screen Techniques in Facebook Lives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/balanced-photography-top-phones-and-cameras-tripod/"><u>Balanced Photography Top Phones & Cameras Tripod</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-3-simplified-uses-and-functionality/"><u>Claude 3 Simplified: Uses & Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficiently-pinpoint-locations-mastering-the-art-of-placing-multiples-points-in-google-map/"><u>Efficiently Pinpoint Locations: Mastering the Art of Placing Multiples Points in Google Map</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-digital-tidying-enabling-self-deleting-windows-trash/"><u>Effortless Digital Tidying: Enabling Self-Deleting Windows Trash</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-ios-16-functions-you-must-try-today-tips-and-tricks-revealed-by-zdnet/"><u>Essential iOS 16 Functions You Must Try Today: Tips & Tricks Revealed by ZDNet</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/how-can-i-verify-if-my-data-backup-was-successfully-completed/"><u>How Can I Verify if My Data Backup Was Successfully Completed?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-recognizing-pure-and-impure-token-deals/"><u>Master the Art of Recognizing Pure and Impure Token Deals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-clarity-how-tvos-18-upgrades-your-apple-tvs-conversational-experience-for-improved-listening/"><u>Maximize Clarity: How tvOS 18 Upgrades Your Apple TV's Conversational Experience for Improved Listening</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-word-processes-with-ai-driven-gpt-assistance/"><u>Optimizing Word Processes with AI-Driven GPT Assistance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/reclaim-your-social-space-after-a-hack/"><u>Reclaim Your Social Space After a Hack</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

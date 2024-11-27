@@ -1,7 +1,7 @@
 ---
 title: "Busting Text Imitations: OpenAI's AI Sleuth for ChatGPT"
-date: 2024-11-11T19:11:11.193Z
-updated: 2024-11-17T19:37:05.234Z
+date: 2024-11-22T16:11:32.876Z
+updated: 2024-11-27T16:14:40.618Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OpenAI Launches GPT-Classifier to Help Check AI-Written Text
 
 [OpenAI's announcement](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/) comes as [scrutiny on AI-writing and AI-generated text](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) steps up and companies intergrate ChatGPT output.
@@ -37,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
  So instead of hoovering up information and recreating its best approximation, the GPT-Classifier attempts to compare similarities between known human text and known AI text to find discrepencies that reveal the source writer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-Classifier's Detection Is Currently Limited
@@ -52,10 +53,7 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 ![gpt classifier tool testing human written text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpt-classifier-tool-testing-human-written-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A cursory test of the GPT-Classifier spotted a human-generated example and marked it "very unlikely to be AI-generated," and also correctly indicated that a ChatGPT-generated snippet on USB issues was "possibly AI generated."
@@ -63,17 +61,11 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 ![gpt classifier tool testing ai written text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpt-classifier-tool-testing-ai-written-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Demand for ChatGPT Detection Is High
@@ -97,20 +89,17 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-break-through-the-crowd-key-youtube-seo-strategies-to-rank-high/"><u>[Updated] 2024 Approved Break Through the Crowd Key YouTube SEO Strategies to Rank High</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-advanced-steps-to-record-silent-videos-for-2024/"><u>[Updated] Advanced Steps to Record Silent Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-constraints-the-ineligible-question-list/"><u>AI Constraints: The Ineligible Question List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deconstructing-nlp-giants-deep-dive-into-gpt-vs-bert/"><u>Deconstructing NLP Giants: Deep Dive Into GPT Vs. BERT</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/download-the-ultimate-free-m4v-video-player-compatible-with-mac-and-pc-unlimited-watching/"><u>Download the Ultimate Free M4V Video Player: Compatible with Mac and PC, Unlimited Watching!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-and-earn-entering-the-world-of-error-hunting-at-openai/"><u>Explore and Earn: Entering the World of Error Hunting at OpenAI</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-asus-acpi-driver-issues-in-windows-10/"><u>How to Fix Asus ACPI Driver Issues in Windows 10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/innovate-how-you-connect-with-tech-best-text-interpretation-tools-on-mac/"><u>Innovate How You Connect with Tech Best Text Interpretation Tools on Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-chatgpts-co-pilot-what-this-extension-means-for-users/"><u>Inside ChatGPT's Co-Pilot: What This Extension Means for Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premier-6-titans-the-mega-model-arena/"><u>Premier 6 Titans: The Mega-Model Arena</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/quantifying-the-fortune-of-mr-beast/"><u>Quantifying the Fortune of Mr. Beast</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/revelations-on-identifying-outstanding-film-making-talents-for-2024/"><u>Revelations on Identifying Outstanding Film Making Talents for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-tasks-top-7-dynamic-ai-methods/"><u>Revolutionizing Tasks: Top 7 Dynamic AI Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/to-use-or-not-to-use-local-llm-heres-why/"><u>To Use or Not to Use Local LLM? Here's Why</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-boosting-engagement-interpreting-youtube-video-data/"><u>[New] 2024 Approved Boosting Engagement Interpreting YouTube Video Data</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-iphone-exposed-the-art-of-prolonged-photography/"><u>[New] In 2024, IPhone Exposed The Art of Prolonged Photography</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-slumber-series-evaluating-video-adaptations-of-literary-classics/"><u>[New] Slumber Series Evaluating Video Adaptations of Literary Classics</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-innovative-hubs-of-affordable-visual-content-sources/"><u>[Updated] 2024 Approved Innovative Hubs of Affordable Visual Content Sources</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-creativity-exploring-new-horizons-for-text-production/"><u>AI and Creativity: Exploring New Horizons for Text Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/balancing-reliance-and-resistance-6-tips-on-using-ai-wisely/"><u>Balancing Reliance and Resistance: 6 Tips on Using AI Wisely</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/create-stunning-slideshows-on-macos-top-5-no-cost-methods/"><u>Create Stunning Slideshows on macOS: Top 5 No-Cost Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-xs-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone XS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-microphone-problems-during-zoom-calls-on-windows-1110-computers/"><u>How to Fix Microphone Problems During Zoom Calls on Windows 11/10 Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-showdown-evaluating-advancements-from-the-iphone-14-pro-to-the-latest-iphone-15-pro-deep-dive/"><u>IPhone Showdown: Evaluating Advancements From the iPhone 14 Pro to the Latest iPhone 15 Pro Deep Dive</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-countdown-best-zombie-games-ranked/"><u>The Ultimate Countdown Best Zombie Games Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-6-overlords-vast-data-models-crowned/"><u>Ultimate 6 Overlords: Vast Data Models Crowned</u></a></li>
 </ul></div>
 

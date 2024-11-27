@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Content Interpretation: Empowering ChatGPT's PDF Reading Skills"
-date: 2024-11-16T19:07:03.216Z
-updated: 2024-11-17T18:51:23.148Z
+date: 2024-11-22T16:34:48.562Z
+updated: 2024-11-27T16:44:26.497Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,14 @@ thumbnail: https://thmb.techidaily.com/21333b0674dae8e987dce32ef856602446e7d37aa
 
 ![Screenshot of response to PDF query on the US constitution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-response-to-pdf-query-on-the-us-constitution.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are [limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/), especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Copy Text From the PDF
@@ -53,28 +54,12 @@ thumbnail: https://thmb.techidaily.com/21333b0674dae8e987dce32ef856602446e7d37aa
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
@@ -95,19 +80,14 @@ thumbnail: https://thmb.techidaily.com/21333b0674dae8e987dce32ef856602446e7d37aa
 4. Word will now convert and open the file, you can use the **Save As** command to save it as a Word or text document as preferred.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
 
@@ -144,19 +124,20 @@ thumbnail: https://thmb.techidaily.com/21333b0674dae8e987dce32ef856602446e7d37aa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-the-art-of-instagrams-visual-storytelling/"><u>[New] 2024 Approved Mastering the Art of Instagram's Visual Storytelling</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-practices-for-designing-an-engaging-youtube-teaser/"><u>[Updated] 2024 Approved Best Practices for Designing an Engaging YouTube Teaser</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-navigating-instagrams-algorithm-for-better-engagement/"><u>[Updated] 2024 Approved Navigating Instagram's Algorithm for Better Engagement</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-picture-preview-compilation-for-2024/"><u>Best Picture Preview Compilation for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-artificial-intelligence-systems-be-manipulated-through-social-engineering-tactics-similar-to-humans/"><u>Can Artificial Intelligence Systems Be Manipulated Through Social Engineering Tactics Similar to Humans?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/capture-and-share-with-ray-bans-new-meta-glasses-triple-minutes-of-video-recording/"><u>Capture and Share with Ray-Ban's New Meta Glasses: Triple Minutes of Video Recording</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chat-gpt-vs-bing-chat-the-diminishing-divide-explored/"><u>Chat GPT vs Bing Chat: The Diminishing Divide Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cut-costs-and-fund-the-new-elegoo-phecda-laser-engraver-project-on-kickstarter/"><u>Cut Costs and Fund the New Elegoo PHECDA Laser Engraver Project on Kickstarter!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-fresh-innovations-now-experience-the-new-update-on-your-ios-devices-and-apple-watch/"><u>Discover Fresh Innovations Now - Experience the New Update on Your iOS Devices and Apple Watch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-closest-ev-power-points-with-these-simple-steps/"><u>Discover the Closest EV Power Points with These Simple Steps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-snapshot-sharpening-affinitys-bg-exclusion/"><u>In 2024, Snapshot Sharpening - Affinity's Bg Exclusion</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-video-capture-leaders-revealed/"><u>Prime Video Capture Leaders Revealed</u></a></li>
-<li><a href="https://facebook.techidaily.com/zuckerbergs-litecoin-louie-innovative-pet-nomenclature/"><u>Zuckerberg's 'Litecoin Louie': Innovative Pet Nomenclature.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-formula-for-booming-subscriber-counts-in-youtubers-world/"><u>[New] 2024 Approved The Formula for Booming Subscriber Counts in Youtubers' World</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-perfecting-your-nocturnal-portrait-techniques/"><u>[Updated] 2024 Approved Perfecting Your Nocturnal Portrait Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-scalable-and-stylish-type-in-ae-with-top-choices/"><u>[Updated] Scalable and Stylish Type in AE with Top Choices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-strategies-for-scaling-your-instagram-tv-content/"><u>[Updated] Top Strategies for Scaling Your Instagram TV Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-becoming-an-expert-at-using-zoom-for-your-windows-pc-win10/"><u>2024 Approved Becoming an Expert at Using Zoom for Your Windows PC (Win10)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-free-substitutes-for-netflix-you-shouldnt-miss/"><u>Best Free Substitutes for Netflix You Shouldn't Miss</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-charms-cybercriminals-ai-strategies/"><u>Digital Charms: Cybercriminals’ AI Strategies</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/error-resuelto-windows-10-no-se-inicia-desde-unidades-duplicadas-mediante-clonezilla/"><u>Error Resuelto: Windows 10 No Se Inicia Desde Unidades Duplicadas Mediante Clonezilla</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-broad-networks-to-personalized-algorithms/"><u>From Broad Networks to Personalized Algorithms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/overcoming-connection-issues-ultimate-guide-to-resolving-camera-access-problems/"><u>Overcoming Connection Issues: Ultimate Guide to Resolving Camera Access Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-isolation-a-guide-to-chatgpt-utilization/"><u>Overcoming Isolation: A Guide to ChatGPT Utilization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/paving-the-way-for-public-dialogue-with-chatgpt/"><u>Paving the Way for Public Dialogue with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalize-fitness-journeys-with-top-7-gpt-utilities/"><u>Personalize Fitness Journeys with Top 7 GPT Utilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-powerful-impact-of-ai-in-seven-key-health-areas/"><u>The Powerful Impact of AI in Seven Key Health Areas</u></a></li>
 </ul></div>
 

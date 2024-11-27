@@ -1,7 +1,7 @@
 ---
 title: Unpacking the Multifaceted Reasons Behind Snapchat's My AI
-date: 2024-11-12T18:30:42.784Z
-updated: 2024-11-17T16:40:37.526Z
+date: 2024-11-20T17:00:29.837Z
+updated: 2024-11-27T16:14:26.186Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/d39777d8afabe33ba8272736b3e5f1d9b99069cea
 
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
@@ -57,19 +61,13 @@ Close
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. My AI Can Pull Real-Time Information
@@ -82,9 +80,17 @@ Close
 
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Snapchat’s Location Services Are Wholly Utilized
 
@@ -92,18 +98,15 @@ Close
 
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
 Close
 
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to > **Settings** \> **Privacy Controls** \> **My Location**. Toggle the Ghost Mode button to hide your location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. My AI Solves Intermediate Word Problems Correctly
 
@@ -114,13 +117,6 @@ Close
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -133,19 +129,6 @@ Close
  These incidents shouldn’t have happened in the first place, but in fairness to Snapchat, it quickly resolved My AI’s security issues. The company enforced stricter guidelines shortly after these reports.
 
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try Snapchat’s New AI Assistant
 
@@ -172,19 +155,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-action-packed-shoots-creating-dynamic-video-stories-on-youtube-for-2024/"><u>[Updated] Action-Packed Shoots Creating Dynamic Video Stories on YouTube for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-top-offline-transcription-programs-for-speech-for-2024/"><u>[Updated] Top Offline Transcription Programs for Speech for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-pci-card-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download PCI Card Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/examining-the-lenovo-p11-pro-a-top-notch-tablet-with-certain-imperfections/"><u>Examining the Lenovo P11 Pro: A Top-Notch Tablet with Certain Imperfections</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/optimal-sound-earbuds-for-video-devotees/"><u>Optimal Sound Earbuds for Video Devotees</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/cle-video-beginnings-16-youtube-selections-to-increase-watches/"><u>Pinnacle Video Beginnings 16 YouTube Selections to Increase Watches</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/professional-stabilization-tech-for-youtube-content-creators-for-2024/"><u>Professional Stabilization Tech for YouTube Content Creators for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-solution-resolving-exit-code-e-in-minecraft-when-playing-on-a-windows-pc/"><u>Step-by-Step Solution: Resolving 'Exit Code E in Minecraft when Playing on a Windows PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-for-burning-mp3s-directly-from-compact-discs-using-windows-software/"><u>Step-by-Step Tutorial for Burning MP3s Directly From Compact Discs Using Windows Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-tweaking-mouse-pointer-appearance-in-windows-10-for-personalized-comfort/"><u>Step-by-Step Tutorial: Tweaking Mouse Pointer Appearance in Windows 10 for Personalized Comfort</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-creative-process-behind-developing-the-iconic-3d-pipes-windows-wallpaper/"><u>The Creative Process Behind Developing the Iconic 3D Pipes Windows Wallpaper</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-strength-in-bose-headphones-an-in-depth-look/"><u>The Strength in Bose Headphones: An In-Depth Look</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-essential-windows-applications-must-have-tools-for-your-pc/"><u>Top 7 Essential Windows Applications: Must-Have Tools for Your PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-no-cost-aims3d-and-inkscape-professional-design-tools-to-replace-adobe-suite-on-windows/"><u>Top Rated No-Cost AIMS3D and Inkscape: Professional Design Tools to Replace Adobe Suite on Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-2022-ice-dancing-showcase-review/"><u>[New] 2024 Approved 2022 Ice Dancing Showcase Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-3-ways-to-live-stream-on-youtube-without-1000-subscribers/"><u>[New] 3 Ways to Live Stream on YouTube without 1000 Subscribers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-street-saga-best-gaming-matches-to-gta-v/"><u>[New] In 2024, Street Saga Best Gaming Matches to GTA V</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-precision-in-filming-high-quality-camera-stabilizers-guide-for-2024/"><u>[New] Precision in Filming High-Quality Camera Stabilizers Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quick-recording-tips-for-your-next-google-meet-video-call-for-2024/"><u>[New] Quick Recording Tips for Your Next Google Meet Video Call for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-cybersecurity-five-facilitators-for-fraudsters/"><u>AI's Role in Cybersecurity: Five Facilitators for Fraudsters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bots-banter-in-the-binary-battleground/"><u>Bots Banter in the Binary Battleground</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-ai-advances-interactive-apple-and-microsofts-chatgpt/"><u>Explore AI Advances: Interactive Apple & Microsoft's ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-versus-fortune-tellers-in-future-projections/"><u>GPT Versus Fortune Tellers in Future Projections</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-standards-of-dependability-in-healthcare/"><u>GPT’s Standards of Dependability in Healthcare</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-7-plus-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 7 Plus or iPad?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-record-league-of-legends/"><u>How to Record League of Legends</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-ergodynes-topo-mat-your-reliable-companion-in-combatting-workplace-fatigue/"><u>In-Depth Analysis of ErgoDyne's Topo Mat: Your Reliable Companion in Combatting Workplace Fatigue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/laymans-guide-to-ai-world/"><u>Layman's Guide to AI World</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-a54-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy A54 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strengthening-empathy-through-ai-dialogue/"><u>Strengthening Empathy Through AI Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-dangers-of-generative-techs-abilities/"><u>The Hidden Dangers of Generative Tech's Abilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/transient-virtual-escapades-worth-the-attention/"><u>Transient Virtual Escapades – Worth the Attention?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-avoiding-ai-for-windows-key-generation-is-crucial/"><u>Why Avoiding AI for Windows Key Generation Is Crucial</u></a></li>
 </ul></div>
 

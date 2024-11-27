@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Personal Data on iPhone: Hide Your Day One Notes From Unwanted Eyes"
-date: 2024-11-11T19:40:14.134Z
-updated: 2024-11-17T18:34:38.525Z
+date: 2024-11-23T16:18:37.536Z
+updated: 2024-11-27T16:45:13.064Z
 tags:
   - apple
 categories:
@@ -28,20 +28,21 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -52,10 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -63,6 +61,10 @@ Screenshot by Lance Whitney/ZDNET
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -78,13 +80,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -92,10 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -134,24 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ownloader-essentials-the-best-tools-for-offline-viewing/"><u>[New] Downloader Essentials The Best Tools For Offline Viewing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-biggest-fifa-footage-trends-in-graphics/"><u>[New] In 2024, Exploring Biggest FIFA Footage Trends in Graphics</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-snatch-free-media-treasures-from-top-4-online-creators/"><u>[New] In 2024, Snatch Free Media Treasures From Top 4 Online Creators</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-choice-webcams-boosting-podcast-quality/"><u>[New] In 2024, Top Choice Webcams Boosting Podcast Quality</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-shuffle-youtube-playlist/"><u>[Updated] In 2024, How to Shuffle YouTube Playlist</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-hd-video-recording-for-windows-10-users/"><u>2024 Approved HD Video Recording for Windows 10 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725285613682-winxvideo-ai/"><u>無料 Winxvideo AI: 高品質動画を一流圧縮できるプレミアムソフトウェア</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-i-expect-varying-response-sizes-from-chatgpt/"><u>Can I Expect Varying Response Sizes From ChatGPT?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/can-i-peruse-friends-shared-videos-and-pics-via-messenger-for-2024/"><u>Can I Peruse Friends' Shared Videos & Pics via Messenger for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evolution-or-revolution-ais-effect-on-video-game-industry/"><u>Evolution or Revolution? AI's Effect on Video Game Industry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guiding-ai-truthfulness-navigating-through-essential-prompt-cues/"><u>Guiding AI Truthfulness: Navigating Through Essential Prompt Cues</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 14 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peeking-into-the-functionality-of-predictive-ai-tools/"><u>Peeking Into the Functionality of Predictive AI Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peering-into-cyberspaces-future-7-prediction-highlights/"><u>Peering Into Cyberspace's Future: 7 Prediction Highlights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-youself-from-chatgpt-monitoring/"><u>Protecting Youself From ChatGPT Monitoring</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-the-power-of-claude-3/"><u>Unleashing the Power of Claude 3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-secure-chat-with-gpt-via-vpn/"><u>Unlocking Secure Chat with GPT via VPN?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/when-virtual-meets-real-8-ai-innovations/"><u>When Virtual Meets Real: 8 AI Innovations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-in-depth-examination-of-videoshow-24/"><u>[New] 2024 Approved In-Depth Examination of VideoShow '24</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-smooth-sound-transformation-essential-ios-apps-to-convert-youtube-mp3-wise/"><u>[New] 2024 Approved Smooth Sound Transformation Essential iOS Apps to Convert YouTube MP3-Wise</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-from-amateur-to-professional-iphone-filmmaking-8-key-tips/"><u>[New] From Amateur to Professional iPhone Filmmaking (8 Key Tips)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-transform-engagement-crafted-queries-for-personalized-ig-stories/"><u>[New] In 2024, Transform Engagement Crafted Queries for Personalized IG Stories</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-50-free-youtube-banners-come-see-them-all/"><u>[Updated] 50 FREE YouTube Banners - Come See Them All</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-videohub-app-critique-compendium/"><u>2024 Approved VideoHub App Critique Compendium</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/androidiphone-photo-overlay-wonders-top-10-free-tools-ranked/"><u>Android/iPhone Photo Overlay Wonders – Top 10 Free Tools Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-2-unveiled-insightful-exploration/"><u>Claude 2 Unveiled: Insightful Exploration</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011692150-effortless-fixes-for-fortnite-load-failures-solve-your-problems-fast/"><u>Effortless Fixes for [Fortnite Load Failures]: Solve Your Problems Fast!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-use-chatgpt-plugins/"><u>How to Install and Use ChatGPT Plugins</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-junkyard-dismantling-your-xbox-series-x-controller/"><u>Inside Junkyard - Dismantling Your Xbox Series X Controller</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-product-understanding-through-chatgpts-personas/"><u>Optimizing Product Understanding Through ChatGPT's Personas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proven-top-6-ai-powered-notes-organizing-tools-reviewed/"><u>Proven Top 6 AI-Powered Notes Organizing Tools Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ios-edge-in-chatgpt-experience/"><u>The iOS Edge in ChatGPT Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-world-of-tailored-guidance-in-ai-conversation-tools/"><u>The World of Tailored Guidance in AI Conversation Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-myths-bypassing-gpt-in-digital-coin-studies/"><u>Top 5 Myths: Bypassing GPT in Digital Coin Studies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-gpt-3-insights-choose-the-right-export-solutions/"><u>Unlocking GPT-3 Insights – Choose the Right Export Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-poetic-potential-with-chatgpt-assistance/"><u>Unlocking Poetic Potential with ChatGPT Assistance</u></a></li>
+<li><a href="https://facebook.techidaily.com/word-visualization-via-imagery-and-text-style-innovation/"><u>Word Visualization via Imagery and Text Style Innovation</u></a></li>
 </ul></div>
 

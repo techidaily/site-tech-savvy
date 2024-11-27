@@ -1,7 +1,7 @@
 ---
 title: How to Empower Your Windows-Based ChatGPT
-date: 2024-11-14T19:27:54.094Z
-updated: 2024-11-17T19:15:28.168Z
+date: 2024-11-22T16:16:24.388Z
+updated: 2024-11-27T16:25:22.367Z
 tags:
   - chatgpt
   - open-ai
@@ -28,18 +28,15 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Not Just Use ChatGPT?
 
  ChatGPT is admittedly awesome at what it does. It can be daunting to wrap your head around how these AI chatbots work, so take some time to check out [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) if you're still learning about this topic.
 
  The problem with ChatGPT is that it comes with some caveats:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. ChatGPT May Record and Use Your Responses for Training Purposes
 
@@ -58,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
  For those reasons, and primarily in its free tier, ChatGPT offers a limited number of queries, throttles performance, and tends to provide more useless replies. Quite often, ChatGPT might appear "unavailable," forcing you to wait while you keep [checking its status](https://www.makeuseof.com/is-chatgpt-down-how-find-out-chatgpt-current-status/), or may stop responding in the middle of a conversation.
 
  There are two solutions to those problems you can pay for a subscription, or you can try an alternative like FreedomGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up FreedomGPT
 
@@ -80,29 +81,17 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 ![FreedomGPT Available Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-available-model.jpg)
 2. You can store downloaded AI models anywhere. Still, saving them within FreedomGPT's folder or a subfolder is best to keep things tidy.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Even the most compact AI models can be multiple gigabytes in size, so it may take a while to download your chosen model. Fortunately, FreedomGPT will show you a download progress bar.  
 ![FreedomGPT Downloading Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-downloading-model-1.jpg)
 4. Once you've downloaded an AI mode, a new button will appear on the left, allowing you to **Select** which downloaded AI model you'd like to use.  
 ![FreedomGPT AI Model Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-ai-model-selection-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Chat With FreedomGPT
@@ -114,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 2. Press **Enter** after typing your prompt, and it will show up in FreedomGPT's conversation view. The AI model's response will appear below your prompt. If you don't like how it's going, you can cut a response short by clicking on the **Stop Responding** button, which appears while a reply is produced.  
 ![FreedomGPT Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-chatting-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Switch Models in FreedomGPT
 
  If you want to try another AI model, you don't have to exit and rerun FreedomGPT. You can switch models from within the app.
@@ -122,20 +115,6 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 ![FreedomGPT Active Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-active-model-1.jpg)
 2. The model management panel is identical to the screen you saw when you first ran FreedomGPT. You can switch to another model from this panel by clicking on **Select** before its name or **Download** and install more models.  
 ![FreedomGPT Switch Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/freedomgpt-switch-models-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Talk to an AI Whenever You Like With FreedomGPT
 
@@ -160,19 +139,19 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-leaderboard-best-following-drone-technology/"><u>[New] 2024 Approved Leaderboard Best-Following Drone Technology</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-user-testimonials-ios-vs-android-youtube-watching-habits/"><u>[New] 2024 Approved User Testimonials IOS vs Android YouTube Watching Habits</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-crafted-perfection-ranking-the-best-7-stardew-mods-7/"><u>[New] Crafted Perfection Ranking the Best 7 Stardew Mods (#7)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-discover-efficiency-the-top-10-screen-capture-software-for-mac-users/"><u>[New] Discover Efficiency The Top 10 Screen Capture Software for Mac Users</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-from-sub-to-srt-with-ease-uncover-our-top-8-software-picks-for-desktop-systems-for-2024/"><u>[Updated] From SUB to SRT with Ease! Uncover Our Top 8 Software Picks for Desktop Systems for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhance-viewing-experience-maximizing-utilization-of-picture-in-picture-on-netflix/"><u>2024 Approved Enhance Viewing Experience Maximizing Utilization of Picture-in-Picture on Netflix</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-honor-90-lite-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-translation-tussle-who-will-triumph/"><u>AI Translation Tussle: Who Will Triumph?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-barriers-with-openai-free-ai-applications/"><u>Breaking Barriers with OpenAI-Free AI Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-unleashed-still-6-strengths-of-selecting-plus-endure/"><u>ChatGPT Unleashed; Still, 6 Strengths of Selecting Plus Endure</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/digital-photography-how-to-erase-unwanted-areas/"><u>Digital Photography How to Erase Unwanted Areas</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-breaking-down-barriers-with-shared-youtube-curations/"><u>In 2024, Breaking Down Barriers with Shared YouTube Curations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-ai-how-machines-grasp-human-sentiments/"><u>Unveiling AI: How Machines Grasp Human Sentiments</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voicecommand-mastery-with-android-and-gpt-synergy/"><u>VoiceCommand Mastery with Android & GPT Synergy</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-easy-entryway-initiating-a-live-discussion-on-instagram/"><u>[New] Easy Entryway Initiating a Live Discussion on Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-how-to-evade-the-most-critical-8-mistakes-on-youtube/"><u>[New] In 2024, From Novice to Pro How to Evade the Most Critical 8 Mistakes on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unmasking-the-scope-of-non-google-augmented-reality-accessories/"><u>[New] Unmasking the Scope of Non-Google Augmented Reality Accessories</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-how-to-meet-aspect-ratio-requirements-on-twitter/"><u>[Updated] 2024 Approved How to Meet Aspect Ratio Requirements on Twitter</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-school-based-videography-crafting-quality-content/"><u>[Updated] 2024 Approved School-Based Videography Crafting Quality Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-potential-data-privacy-concern/"><u>ChatGPT: A Potential Data Privacy Concern?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatxt-powered-content-development-techniques/"><u>ChaTxt-Powered Content Development Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diving-into-the-world-of-shap-explaining-ai/"><u>Diving Into the World of SHAP Explaining AI</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-obstacles-with-avatar-pandora-unleashed-for-pc-players/"><u>Overcoming Obstacles with Avatar: Pandora Unleashed for PC Players</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-ai-explanation-guide/"><u>Simple AI Explanation Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snag-a-steep-discount-save-36-on-the-impressive-8tb-samsung-t5-ssd-post-amazon-prime-day-exclusives/"><u>Snag a Steep Discount: Save 36% on the Impressive 8TB Samsung T5 SSD Post-Amazon Prime Day Exclusives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-if-higher-payments-yield-superior-ai-results/"><u>Understanding if Higher Payments Yield Superior AI Results</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-best-ai-phone-apps-on-both-os-platforms/"><u>Unveiling the Best AI Phone Apps on Both OS Platforms</u></a></li>
 </ul></div>
 

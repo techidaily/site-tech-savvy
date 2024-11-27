@@ -1,7 +1,7 @@
 ---
 title: "Puzzle Your Way to Justice: Enter Into 4 AI Crime Games"
-date: 2024-11-10T16:52:18.942Z
-updated: 2024-11-17T16:48:26.672Z
+date: 2024-11-20T16:03:34.432Z
+updated: 2024-11-27T16:35:33.364Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/300b8b150f8464b487683b06984fcbd6662b4fb11
 
 ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Author Screenshot by Mihir Patkar - No attribution required
 
  Solve the Murders is based on a similar large language model as ChatGPT, where you play a detective who has to solve the murder mystery by chatting with AI-generated bots. At the start, you'll be given a list of facts about the murder and the players involved.
@@ -41,10 +45,7 @@ Author Screenshot by Mihir Patkar - No attribution required
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Gron
@@ -60,10 +61,7 @@ Author Screenshot by Mihir Patkar - No attribution required
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Mystery-o-Matic
@@ -71,10 +69,7 @@ Author Screenshot by Mihir Patkar - No attribution required
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Author Screenshot by Mihir Patkar - No attribution required
@@ -90,10 +85,7 @@ Author Screenshot by Mihir Patkar - No attribution required
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Author Screenshot by Mihir Patkar - No attribution required
@@ -129,20 +121,18 @@ Author Screenshot by Mihir Patkar - No attribution required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-save-photo-from-video-in-windows-11-photos-app/"><u>[Updated] How to Save Photo From Video in Windows 11 Photos App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balladry-battlegrounds-human-poets-vs-ai-pasture-pals/"><u>Balladry Battlegrounds: Human Poets vs AI Pasture Pals</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-windows-sketchpad-selections-cost-free-and-premium-plans-for-2024/"><u>Best Windows Sketchpad Selections Cost-Free & Premium Plans for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bings-new-chapter-with-innovative-artificial-insights/"><u>Bing's New Chapter with Innovative Artificial Insights</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-fitbit-charge-6-a-detailed-user-guide/"><u>Comprehensive Analysis of the Fitbit Charge 6: A Detailed User Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/easy-and-effective-techniques-to-transform-wmv-files-into-high-quality-avi-for-free/"><u>Easy & Effective Techniques to Transform WMV Files Into High-Quality AVI for Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/emerging-ai-risks-the-unseen-security-hurdles/"><u>Emerging AI Risks: The Unseen Security Hurdles</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y100a-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y100A Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-clip-connoisseurs-essential-list-of-retro-vhs-effects/"><u>In 2024, The Clip Connoisseur's Essential List of Retro VHS Effects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-5-hidden-functions-worth-exploring/"><u>Mastering ChatGPT: 5 Hidden Functions Worth Exploring</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-invalid-service-installation-inf-segment/"><u>Solving Invalid Service Installation INF Segment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-security-single-antivirus-on-windows-pcs/"><u>Streamline Security: Single Antivirus on Windows PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essential-guide-why-your-career-benefits-from-learning-chatgpt/"><u>The Essential Guide: Why Your Career Benefits From Learning ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-remote-collaboration-via-chatgpt-use/"><u>Transforming Remote Collaboration via ChatGPT Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-ai-potential-the-significance-of-usechatgpts-co-pilot-extension/"><u>Unlock AI Potential: The Significance of UseChatGPT's Co-Pilot Extension</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-process-of-android-video-u-turns/"><u>[Updated] 2024 Approved The Process of Android Video U-Turns</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rawtiff-movavi/"><u>「無料オンラインツールを使ったRAW画像からTIFFへの移行 - Movavi変換サービス」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-perfekt-losninger-for-klik-pa-google-mxf-til-mp4-konverter-i-mac-og-windows/"><u>8 Perfekt Løsninger For Klik På Google - MXF Til MP4-Konverter I Mac Og Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fix-eliminating-windows-update-error-code-0x8024402c-once-and-for-all/"><u>Comprehensive Fix: Eliminating Windows Update Error Code 0X8024402C Once and for All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversione-gratuita-da-f4v-a-mp4-online-con-movavi-segui-il-processo-passo-dopo-passo/"><u>Conversione Gratuita Da F4V a MP4 Online Con Movavi - Segui Il Processo Passo Dopo Passo!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transform-pgm-images-into-jpeg-format-with-ease-use-movavi/"><u>Free Online Converter: Transform PGM Images Into JPEG Format with Ease - Use Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/i5-vs-i7-comparatif-quel-processeur-domine-pour-les-amateurs-de-jeu-video/"><u>I5 vs I7 Comparatif : Quel Processeur Domine Pour Les Amateurs De Jeu Vidéo?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prolific-fiction-top-gpt-fueled-techniques-for-dynamic-characters/"><u>Prolific Fiction: Top GPT-Fueled Techniques for Dynamic Characters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trasforma-i-tuoi-file-3gp-in-formato-webm-libero-di-uso-guida-passo-passo-con-movavi/"><u>Trasforma I Tuoi File 3GP in Formato WebM Libero Di Uso: Guida Passo-Passo Con Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-fix-the-cannot-delete-issue-on-your-iphone-seamlessly/"><u>Ultimate Guide: How to Fix the 'Cannot Delete' Issue on Your iPhone Seamlessly</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-15-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 15 Plus to PC | Dr.fone</u></a></li>
 </ul></div>
 

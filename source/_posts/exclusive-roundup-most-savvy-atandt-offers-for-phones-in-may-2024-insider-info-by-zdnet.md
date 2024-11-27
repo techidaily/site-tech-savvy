@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Roundup: Most Savvy AT&T Offers for Phones in May 2024 | Insider Info by ZDNET"
-date: 2024-11-10T18:24:36.164Z
-updated: 2024-11-17T19:20:22.687Z
+date: 2024-11-26T16:27:59.520Z
+updated: 2024-11-27T16:03:36.274Z
 tags:
   - apple
 categories:
@@ -25,6 +25,10 @@ Below, you'll find the best iPhone deals currently available through US carriers
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best iPhone deals
 
@@ -99,10 +103,7 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [View now at T-Mobile](https://tmobile.prf.hn/click/camref:1100l3XZFI/pubref:zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/destination:https%3A%2F%2Ft-mobile.com) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Apple iPhone deals
@@ -133,6 +134,10 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 
 [Refurbished iPhones at Apple (save $100+) View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Frefurbished%2Fiphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iPhone accessory deals
 
 [Apple iPhone 15 Pro Max silicone case with MagSafe deal for $44 (save $5) $44 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPhone-Silicone-Case-MagSafe%2Fdp%2FB0CHX149WM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C45c05c64-f3c9-4037-8d41-432a4fa4689e%7Cdtp&dtb=1)
@@ -148,10 +153,7 @@ Over at T-Mobile, both new and existing customers can pick up a device from the 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these iPhone deals?
@@ -171,10 +173,7 @@ Factors influencing our recommendations include:
 The best iPhone currently on the market is the iPhone 15 Pro Max. The 6.7-inch model is the largest of the iPhone 15 line and comes stacked with Apple's latest features, such as a strong, lightweight titanium design, Dynamic Island, an A17 Pro chip, and a 48MP Main camera that shoots detailed imagery.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will the iPhone 16 come out?
@@ -182,13 +181,6 @@ The best iPhone currently on the market is the iPhone 15 Pro Max. The 6.7-inch m
 While it's too early for us to know any definitive details, Apple typically refreshes its smartphone lineup once a year. 
 
 However, if the iPad and iPhone maker follows its usual schedule, considering the iPhone 15 was launched in September 2023, we can expect an iPhone 16 to appear around September 2024.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best tech deals in 2024?
 
@@ -246,19 +238,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-showcase-your-brand-with-our-50-free-youtube-banners/"><u>[New] 2024 Approved Showcase Your Brand with Our 50 Free YouTube Banners!</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8/"><u>[New] In 2024, Transform Your Vision Into Reality Essential Movies Maker Skills on Windows 8</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-through-the-lens-through-editing-pro-secrets-of-stunning-art/"><u>[New] Through the Lens, Through Editing Pro Secrets of Stunning Art</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-exploring-instagrams-video-connectivity-techniques/"><u>[Updated] Exploring Instagram’s Video Connectivity Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advance-your-digital-dialogue-5-essential-strategies-for-optimal-chatgpt-engagement/"><u>Advance Your Digital Dialogue: 5 Essential Strategies for Optimal ChatGPT Engagement</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728485287708-asus/"><u>ASUSトラブルシューター・バックアップ計画についての包括的なガイド</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-compatible-logitech-g203-driver-for-windows-supports-windows-7-10-and-11/"><u>Download & Install Compatible Logitech G203 Driver for Windows - Supports Windows 7, 10 and 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-cv-written-skills-the-chatgpt-method/"><u>Enhancing Your CV' Written Skills: The ChatGPT Method</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-fearful-to-flourishing-embracing-the-ai-economic-shift/"><u>From Fearful to Flourishing: Embracing the AI Economic Shift</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-ai-simplified-core-ideas-exposed/"><u>Generative AI Simplified: Core Ideas Exposed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-elevating-your-enterprise-with-chatgpt/"><u>Harnessing AI: Elevating Your Enterprise with ChatGPT</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-best-practices-for-inserting-text-on-youtube-videos-effectively/"><u>In 2024, Best Practices for Inserting Text on YouTube Videos Effectively</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-spark-10c-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Spark 10C Is Unlocked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-team-communication-through-artificial-assistance/"><u>Revolutionizing Team Communication Through Artificial Assistance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-audience-level-sound-production-using-audacity/"><u>[New] Audience-Level Sound Production Using Audacity</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-sharex-insight-reviews-and-competing-choices/"><u>[New] In 2024, The ShareX Insight Reviews & Competing Choices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-premier-selection-10-premium-image-replace-kits-for-2024/"><u>[New] Premier Selection 10 Premium Image Replace Kits for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-quadcopters-for-kids-and-playtime-for-2024/"><u>Best Quadcopters for Kids & Playtime for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-frontier-gadgets-galore-top-10-vr-accessories/"><u>In 2024, Frontier Gadgets Galore Top 10 VR Accessories</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mute-instagrams-personalized-posts/"><u>Mute Instagram's Personalized Posts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-free-avi-to-mp3-converters-online-and-desktop-your-ultimate-guide/"><u>Top Free AVI to MP3 Converters Online and Desktop – Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-dvd-to-avi-converter-apps-for-windows-11-users/"><u>Top Rated DVD to AVI Converter Apps for Windows 11 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-how-to-fix-non-functioning-subtitles-in-windows-media-player/"><u>Troubleshooting Guide: How to Fix Non-Functioning Subtitles in Windows Media Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-setting-up-and-configuring-the-elementum-plugin-in-kodi-nx-5matrix/"><u>Ultimate Guide: Setting Up & Configuring the Elementum Plugin in Kodi (NX-5/Matrix)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Safe Mental Support: Mastering GPT-4 in Therapy"
-date: 2024-11-10T19:31:37.276Z
-updated: 2024-11-17T17:18:01.051Z
+date: 2024-11-23T16:16:13.300Z
+updated: 2024-11-27T16:57:05.971Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Designing Your Coach or Mental Health Professional
 
  Three are many [apps that contain chatbots acting as pocket therapists](https://www.makeuseof.com/ai-chatbot-therapist-mobile-apps-pocket/). However, there's no denying ChatGPT's level of sophistication. Just look at its meteoric adoption rate.
@@ -35,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
  No, it doesn't have a framed degree hanging on its wall or years of expensive training from an Ivy League university. However, it can mimic therapeutic techniques based on your prompts. And even though it's not a real person, [ChatGPT can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), if you know how to use it correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Art of Prompting for Mental Health Information
@@ -52,10 +53,7 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
 ![Screenshot of ChatGPT giving advice for managing stress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-2023-05-13-at-11-08-12-am.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, to mimic a trauma-informed counseling session, you might describe your situation followed by a question such as, "How can I approach managing stress with a trauma-informed perspective?"
@@ -65,10 +63,7 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
  Remember though, your AI pal is not psychic. It won't remember past conversations or know your personal history unless you tell it. So, the more details you can provide ahead of your question, the more tailored ChatGPT's response will be. Don't shy away from providing some context with your prompts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Advanced Chat GPT Training
@@ -98,10 +93,7 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
  Also, make sure to balance your use of AI with friends and family and if necessary, other mental health resources. ChatGPT is a supplement, not a substitute. Keep up with your real-world people and never replace them with a chatbot.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Know When to Seek Human Help
@@ -139,18 +131,19 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-how-to-choose-vr-headset-mobile-vr-or-tethered-vr/"><u>[New] How to Choose VR Headset? Mobile VR or Tethered VR?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-visual-storytelling-through-youtube-split-screens/"><u>[Updated] In 2024, Visual Storytelling Through YouTube Split-Screens</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/articulating-imagination-chatgpts-creative-edge/"><u>Articulating Imagination: ChatGPT's Creative Edge</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/astounding-revelation-communicate-with-ai-powered-gpt/"><u>Astounding Revelation: Communicate with AI-Powered GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-on-bilingual-ai-help-should-you-use-bing-or-chatgpt-10-factors/"><u>Deciding on Bilingual AI Help: Should You Use Bing or ChatGPT? 10 Factors</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/tless-steps-to-obtain-free-audio-for-videos-for-2024/"><u>Effortless Steps to Obtain Free Audio for Videos for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/essential-8-schedulers-to-optimize-your-instagram-posts/"><u>Essential 8 Schedulers to Optimize Your Instagram Posts</u></a></li>
-<li><a href="https://common-error.techidaily.com/halo-4-ultraedit-engineers-guide-fixing-the-2024-ue4-crash-issue/"><u>Halo 4 UltraEdit Engineer's Guide: Fixing the 2024 UE4 Crash Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-download-and-install-llama-2-locally/"><u>How to Download and Install Llama 2 Locally</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/masterful-story-structures-with-ais-assistive-chatgpt/"><u>Masterful Story Structures with AI's Assistive ChatGPT</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-rewind-and-play-the-quintet-of-best-opposite-direction-melodies-for-2024/"><u>New Rewind and Play The Quintet of Best Opposite-Direction Melodies for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevating-images-pro-techniques-for-photography-perfection/"><u>[New] Elevating Images Pro Techniques for Photography Perfection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-art-of-influencing-amplifying-instagram-post-reach/"><u>[New] In 2024, The Art of Influencing Amplifying Instagram Post Reach</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-attraction-top-20-fonts-for-impactful-youtube-thumbnails/"><u>[Updated] The Art of Attraction Top 20 Fonts for Impactful YouTube Thumbnails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-narratives-transforming-text-with-gpt-for-epic-dandd-experiences/"><u>AI Narratives: Transforming Text with GPT for Epic D&D Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anthropic-ai-accessing-claude-3-prompts/"><u>Anthropic AI: Accessing Claude 3 Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-minds-and-devices-chatgpt-on-android/"><u>Bridging Minds & Devices: ChatGPT on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-creative-webps-to-standard-pngjpg-with-dall-e-3-techniques/"><u>From Creative WebPs to Standard PNG/JPG with DALL-E 3 Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-melodic-instagram-reels-blending-music-voiceovers/"><u>In 2024, Melodic Instagram Reels Blending Music, Voiceovers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unlocking-a-new-sound-profile-free-guide-to-free-fire-voice-changes/"><u>In 2024, Unlocking a New Sound Profile Free Guide to Free Fire Voice Changes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/joining-the-duet-craze-a-beginners-handbook-to-co-creating-content-on-tiktok/"><u>Joining the Duet Craze: A Beginner's Handbook to Co-Creating Content on TikTok</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-no-strings-attached-top-10-free-online-video-editors-with-no-watermark/"><u>New In 2024, No Strings Attached Top 10 Free Online Video Editors with No Watermark</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-export-solutions-the-top-tools-for-ai-conversation-histories/"><u>Tailored Export Solutions – The Top Tools for AI Conversation Histories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-for-ensuring-no-trace-of-past-gpt-interactions/"><u>Tips for Ensuring No Trace of Past GPT Interactions</u></a></li>
 </ul></div>
 

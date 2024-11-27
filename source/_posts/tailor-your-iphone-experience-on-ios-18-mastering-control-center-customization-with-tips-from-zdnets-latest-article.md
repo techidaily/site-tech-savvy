@@ -1,7 +1,7 @@
 ---
 title: "Tailor Your iPhone Experience on iOS 18: Mastering Control Center Customization with Tips From ZDNet's Latest Article"
-date: 2024-11-11T16:36:26.290Z
-updated: 2024-11-17T17:51:08.840Z
+date: 2024-11-22T16:18:15.071Z
+updated: 2024-11-27T17:00:55.416Z
 tags:
   - apple
 categories:
@@ -28,13 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,6 +56,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -65,10 +67,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -76,13 +75,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -134,19 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-ultra-clarity-the-new-era-of-hd-monitors-envy-27/"><u>[New] Ultra Clarity The New Era of HD Monitors - Envy 27</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-concept-to-capture-the-breakdown-of-apeaks-recorder-software/"><u>[Updated] 2024 Approved From Concept to Capture The Breakdown of Apeak's Recorder Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-post-vlc-era-unveiling-new-player-titans/"><u>[Updated] In 2024, Post-VLC Era Unveiling New Player Titans</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-quick-start-to-clear-background-filming/"><u>[Updated] Quick Start to Clear Background Filming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/building-bridges-in-a-world-run-by-machine-intelligence/"><u>Building Bridges in a World Run by Machine Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-the-best-code-companion-github-copilot-or-gpt/"><u>Deciding the Best Code Companion: GitHub Copilot or GPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-best-chatgpt-face-off-with-bing-ai-and-bard/"><u>Decoding the Best: ChatGPT Face-Off with Bing AI & Bard</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-dawn-of-artificial-intelligence/"><u>Exploring the Dawn of Artificial Intelligence</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-25-backdrop-ideas-for-livestreaming/"><u>In 2024, Top 25 Backdrop Ideas for Livestreaming</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-to-stop-firefox-from-freezing-updated-techniques/"><u>Ultimate Troubleshooting Guide to Stop Firefox From Freezing - Updated Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whynosubscriptions-awaiting-gpts-return/"><u>WhyNoSubscriptions: Awaiting GPT's Return</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-how-to-create-an-affordable-customizable-virtual-reality-gear/"><u>[New] How to Create an Affordable, Customizable Virtual Reality Gear</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elite-chart-conversion-apps/"><u>[Updated] 2024 Approved Elite Chart Conversion Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlocking-av1-encoding-insights/"><u>[Updated] Unlocking AV1 Encoding Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chaos-control-harnessing-9-gpt-inspired-approaches/"><u>Chaos Control: Harnessing 9 GPT-Inspired Approaches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-dialogue-w-chatgpt-today/"><u>Dive Into Dialogue W/ ChatGPT Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-realms-for-artificial-intelligence-prompt-sharing/"><u>Exclusive Realms for Artificial Intelligence Prompt Sharing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-infinix-smart-7-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Infinix Smart 7 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/instantaneously-track-lost-discussions-on-reddit-forums/"><u>Instantaneously Track Lost Discussions on Reddit Forums</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-quoras-pathway-to-engage-with-botsllms/"><u>Leveraging Quora's Pathway to Engage with Bots/LLMs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/los-5-mejores-editores-de-imagenes-raw-sin-costo-comparativa-detallada-para-la-fotografia-perfeccionista/"><u>Los 5 Mejores Editores De Imágenes RAW Sin Costo: Comparativa Detallada Para La Fotografía Perfeccionista</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/luminarydata-restoration/"><u>LuminaryData Restoration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-global-chatgpt-usage/"><u>Mastering the Art of Global ChatGPT Usage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/video-formats-face-off-determining-the-best-av1-or-vp9/"><u>Video Formats Face Off Determining the Best, AV1 or VP9?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wma-to-mp3-transformation-guide-updated-effortless-strategies-both-offline-and-on-the-web/"><u>WMA to MP3 Transformation Guide (Updated): Effortless Strategies , Both Offline and On the Web</u></a></li>
 </ul></div>
 

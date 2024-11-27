@@ -1,7 +1,7 @@
 ---
 title: Beginner’s Primer on LangChain Technology
-date: 2024-11-11T19:52:22.222Z
-updated: 2024-11-17T16:51:09.867Z
+date: 2024-11-24T16:49:44.173Z
+updated: 2024-11-27T16:13:40.005Z
 tags:
   - chatgpt
   - open-ai
@@ -93,10 +93,7 @@ from langchain.memory import ConversationBufferWindowMemory`
 ![OpenAI API key dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-dashboard.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, click the **Create new secret key** button to get a new API key.
@@ -104,10 +101,7 @@ from langchain.memory import ConversationBufferWindowMemory`
 ![OpenAI API key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-page.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Enter the requested name of the API key.
@@ -115,10 +109,7 @@ from langchain.memory import ConversationBufferWindowMemory`
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-naming.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will receive a **secret key** prompt.
@@ -128,10 +119,7 @@ from langchain.memory import ConversationBufferWindowMemory`
  Copy and store the API key in a safe place for future use.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Developing an Application Using LangChain LLM
@@ -174,6 +162,10 @@ print(output)`
 
  Above is the expected output.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Rising Influence of LLMs
 
  LLMs consumption is growing rapidly and changing how humans interact with knowledge machines. Frameworks like LangChain are at the forefront of providing developers with a smooth and simple way to serve the LLMs to applications. Generative AI models like ChatGPT, Bard, and Hugging Face are also not left behind in advancing LLM applications.
@@ -199,20 +191,22 @@ print(output)`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-8-strategies-livestreaming-webinars-without-costs/"><u>[New] In 2024, 8 Strategies Livestreaming Webinars Without Costs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-efficient-viewing-strategies-for-instagram-content-for-2024/"><u>[Updated] Efficient Viewing Strategies for Instagram Content for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-entering-the-world-of-content-creation-sign-up-tutorial/"><u>[Updated] In 2024, Entering the World of Content Creation Sign Up Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-blueprint-for-youtube-video-narratives/"><u>ChatGPT's Blueprint for YouTube Video Narratives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-individualistic-gpt-3-writing-guidelines/"><u>Crafting Individualistic GPT-3 Writing Guidelines</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-privacy-leaked-facebook-secrets-exposed/"><u>Decoding Privacy: Leaked Facebook Secrets Exposed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/defend-website-reject-openai-bots/"><u>Defend Website: Reject OpenAI Bots</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-reno-10-proplus-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo Reno 10 Pro+ 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-samsung-galaxy-m34-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Samsung Galaxy M34 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-multilingualism-chatgpt-at-the-forefront/"><u>Interactive Multilingualism: ChatGPT at the Forefront</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-info-on-short-form-media-for-2024/"><u>Quick Info on Short Form Media for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/step-by-step-minecraft-screenshots-and-videos-for-2024/"><u>Step-by-Step Minecraft Screenshots & Videos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-or-lost-btballoondll-errors-effectively/"><u>Troubleshooting Missing or Lost btballoon.dll Errors Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-the-versatile-use-cases-for-chatgpt/"><u>Unpacking the Versatile Use Cases for ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/who-wins-the-tech-talk-comparing-gpt-and-bing-ai/"><u>Who Wins the Tech Talk: Comparing GPT & Bing AI?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-symbolize-your-brand-exclusive-access-to-free-customizable-logos/"><u>[New] 2024 Approved Symbolize Your Brand Exclusive Access to Free, Customizable Logos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-epic-viewership-winners-youtubes-ultimate-list/"><u>[Updated] 2024 Approved Epic Viewership Winners YouTube's Ultimate List</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-choosing-the-right-lights-and-cameras-for-youtube-videos/"><u>[Updated] Choosing the Right Lights & Cameras for YouTube Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-perfecti-essential-apps-for-iphone-slide-show-creation/"><u>2024 Approved Perfecti Essential Apps for iPhone Slide Show Creation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-xr-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone XR After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-steps-to-record-audio-a-guide-for-windows-similar-problem/"><u>Easy Steps to Record Audio: A Guide for Windows # Similar Problem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-guide-converting-your-dvds-into-avi-files/"><u>Effortless Guide: Converting Your DVDs Into AVI Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-guide-dividing-a-single-mp3-file-into-distinct-audio-segments/"><u>Free Guide: Dividing a Single MP3 File Into Distinct Audio Segments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-compress-your-audio-files-efficiently-and-maintain-high-quality-sound/"><u>How To Compress Your Audio Files Efficiently and Maintain High-Quality Sound</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-efficiently-downsize-your-avi-videos-leading-software-solutions-for-quality-and-fit/"><u>How to Efficiently Downsize Your AVI Videos: Leading Software Solutions for Quality & Fit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-get-free-full-hd-movie-downloads-directly-onto-your-computer/"><u>How to Get Free Full HD Movie Downloads Directly Onto Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-stream-avi-videos-using-your-chromecast-device-top-3-methods/"><u>How to Stream AVI Videos Using Your Chromecast Device - Top 3 Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-transfer-videos-compatible-with-apple-products/"><u>How to Transfer Videos Compatible with Apple Products</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-directx-error-in-warzone-a-quick-4-step-guide/"><u>Resolving the 'DirectX Error in Warzone': A Quick 4-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-se-2022-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone SE (2022)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-design-and-send-video-invites-with-these-top-ios-and-android-apps/"><u>Updated In 2024, Design and Send Video Invites with These Top iOS and Android Apps</u></a></li>
 </ul></div>
 

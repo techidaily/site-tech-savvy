@@ -1,7 +1,7 @@
 ---
 title: Peering Into the Intelligent Machine
-date: 2024-11-10T17:33:55.536Z
-updated: 2024-11-17T17:45:10.792Z
+date: 2024-11-23T16:39:48.726Z
+updated: 2024-11-27T16:58:29.194Z
 tags:
   - chatgpt
   - open-ai
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 * [How Is AI Being Used Today?](https://aligracehair.sjv.io/y209r3)
 * [The Future of AI](https://mindmanager.sjv.io/anq2nj)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * AI is like teaching computers to learn like humans by looking at data and making decisions, but it lacks common sense and emotions.
@@ -56,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
  But even with all this, computers still can't fully think or understand like humans. Modern AI systems don't have common sense, emotions, or consciousness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI in More Detail
 
 ![chatgpt read aloud feature smartphone screen with chatgpt logo blur](https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg)
@@ -64,25 +61,11 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  Artificial intelligence (AI) is a branch of computer science aiming to build machines capable of mimicking human intelligence. It involves creating algorithms that allow computers to learn from and make decisions or predictions based on data rather than following only explicitly programmed instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Machine Learning (ML)
 
  Machine learning (ML), a subset of AI, involves systems that can "learn" from data. These algorithms improve their performance as the number of datasets they learn from increases.
 
  Deep learning, a further subset of machine learning, uses artificial neural networks to make decisions and predictions. It is designed to mimic how a human brain learns and makes decisions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Natural Language Processing (NLP)
 
@@ -109,16 +92,13 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  However, despite many advancements, AI still does not possess the full spectrum of human cognitive abilities, and we are still far from achieving [true artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/). The current AI technologies are task-specific and cannot understand context outside their specific programming.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Is AI Being Used Today?
 
  AI has potential and applications that stretch far beyond the tech realm alone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Chatbots
 
@@ -132,18 +112,15 @@ Gavin Phillips/MakeUseOf
 
  HuggingChat, Claude, and Gemini (formerly Bard) are other examples of AI chatbots. These services all differ in certain ways. Some are free, some are paid, some specialize in certain areas, while others are better with general tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Data Analysis
 
  Data analysis is a key part of our world, whether in research, healthcare, business, or otherwise. Computers have been analyzing data for many years, but using artificial intelligence can take things to the next level.
 
  AI systems can more effectively detect trends, patterns, and inconsistencies than a typical computer (or human, for that matter). For example, an AI system could more distinctly highlight less obvious user habits or preferences for social media platforms, allowing it to show more personalized advertisements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Production and Design
 
@@ -155,15 +132,27 @@ Gavin Phillips/MakeUseOf
 
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [AI-generated art](https://www.makeuseof.com/ways-ai-generated-art-changing-future-of-art/) took the world by storm in 2022, with products like DALL-E, Stable Diffusion, and Midjourney becoming extremely popular. These AI text-to-image tools [take a text-based prompt and generate an art piece](https://www.makeuseof.com/ai-text-to-art-generators/) based on the request.
 
  For example, if you type "purple sunset on the moon" into DALL-E, you'll get more than one result. Some art generators also let you pick a style for your generated image, such as vintage, hyperrealistic, or anime. DALL-E has evolved a lot since its initial release and is now on its third version, DALL-E 3\. You can [use DALL-E on ChatGPT Plus](https://www.makeuseof.com/how-to-use-dall-e-chatgpt-4-ai-images/) to generate AI images in your chats.
 
 ![microsoft image creator purple sunset on moon example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-image-creator-purple-sunset-on-moon-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Microsoft Image Creator/MakeUseOf
 
 [Some artists have rejected AI art generators](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/), as they are trained on pre-existing online art to learn how to create their prompted pieces. Artists claim this is a breach of copyright and contributes to the theft of original art, an issue that already spans the web.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Future of AI
 
@@ -198,24 +187,24 @@ Microsoft Image Creator/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-decoding-the-language-of-asmr-videos-for-2024/"><u>[New] Decoding the Language of ASMR Videos for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tructuring-videos-for-maximum-impact-on-youtube-for-2024/"><u>[New] Structuring Videos for Maximum Impact on YouTube for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-keep-it-secret-live-stream-on-instagram-anonymously/"><u>[Updated] Keep It Secret Live Stream on Instagram Anonymously</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-seo-essentials-for-climbing-the-youtube-popularity-ladder-for-2024/"><u>[Updated] SEO Essentials for Climbing the YouTube Popularity Ladder for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-starting-up-key-gopro-add-ons-unveiled/"><u>2024 Approved Starting Up Key GoPro Add-Ons Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-in-arithmetic-and-algebra/"><u>AI in Arithmetic and Algebra</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bard-vs-chatgpt-googles-new-ai-showdown-announced/"><u>Bard Vs. ChatGPT: Google's New AI Showdown Announced</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/broadcasting-gpt-assisted-discussions-secure-sharing-methods/"><u>Broadcasting GPT-Assisted Discussions: Secure Sharing Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-artistic-vision-utilizing-microsofts-copilot-for-ai-creation/"><u>Elevate Your Artistic Vision: Utilizing Microsoft's Copilot for AI Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-watchlist-through-chatgpt-advice/"><u>Enhancing Your Watchlist Through ChatGPT Advice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-5-tools-crafting-ideal-ai-prompts-everywhere/"><u>Essential 5 Tools: Crafting Ideal AI Prompts Everywhere</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-the-job-market-for-ai-driven-prompt-designers/"><u>Evaluating the Job Market for AI-Driven Prompt Designers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-high-resolution-drone-flights-a-mi-examination/"><u>In 2024, High-Resolution Drone Flights A MI Examination</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g14-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G14 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-gpt-freedom-for-pc-enthusiasts/"><u>Maximizing GPT Freedom for PC Enthusiasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smartwatch-evolution-through-conversation-gpts-top-6-innovations/"><u>Smartwatch Evolution Through Conversation: GPT's Top 6 Innovations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-problem-what-to-do-when-you-encounter-a-binkw32dll-file-not-found-issue/"><u>Solving the Problem: What to Do When You Encounter a Binkw32.dll File Not Found Issue</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-high-cpu-consumption-in-the-latest-software-update/"><u>Ultimate Guide: Resolving High CPU Consumption in the Latest Software Update</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-the-x-chair-x4-is-an-essential-addition-for-any-professionals-office-space-reviewed-here/"><u>Why the X-Chair X4 Is an Essential Addition for Any Professional's Office Space Reviewed Here</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-exploring-beyond-manycam-enhanced-alternatives-for-2024/"><u>[Updated] Exploring Beyond ManyCam Enhanced Alternatives for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-pro-tips-for-iphone-burst-photo-sequences/"><u>[Updated] In 2024, Pro Tips for iPhone Burst Photo Sequences</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastery-guide-to-flawless-srt-file-construction/"><u>[Updated] Mastery Guide to Flawless SRT File Construction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/online-tod-movavi/"><u>「無料で使えるOnline TODファイルを簡単に変換: MOVAVIのコツ」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-mastering-quicktime-a-step-by-step-guide-to-efficiently-cropping-videos/"><u>1. Mastering QuickTime: A Step-by-Step Guide to Efficiently Cropping Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-gaming-and-beyond-a-deep-dive-into-the-cg318-4k-from-eizo/"><u>2024 Approved Gaming and Beyond A Deep Dive Into the CG318-4K From EIZO</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mkvm2ts-movavi/"><u>免費線上改制 MKV為M2TS - 便利版 Movavi 媒體格式工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/3gppwmvmovavi/"><u>在線無限制地自由轉換: 3GPP至WMV，利用Movavi支援工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuita-de-archivos-mp3-a-formato-aac-rapida-y-sencilla-hacerlo-online/"><u>Conversión Gratuita De Archivos MP3 a Formato AAC: Rápida Y Sencilla, Hacerlo Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/des-logiciels-gratuit-de-retouche-photographie-et-effets-visuels-ultimes-les-meilleures-options/"><u>Des Logiciels Gratuit De Retouche Photographie Et Effets Visuels Ultimes - Les Meilleures Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-wmv-to-mp4-converter-by-movavi-quick-and-effortless-video-format-change/"><u>Free Online WMV to MP4 Converter by Movavi: Quick and Effortless Video Format Change</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-dng-in-jpeg-online-vervangen-professioneel-gerechtificeren-met-movavi/"><u>Gratis DNG-In JPEG Online Vervangen - Professioneel Gerechtificeren Met Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-m34-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy M34</u></a></li>
+<li><a href="https://win-tips.techidaily.com/malwarefox-leads-the-pack-as-your-ultimate-cybersecurity-shield-for-browsers-in-2020/"><u>MalwareFox Leads the Pack as Your Ultimate Cybersecurity Shield for Browsers in 2020</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/oculus-quest-3-all-you-need-to-know-about-the-price-availability-release-schedule-and-full-tech-specs-overview/"><u>Oculus Quest 3 – All You Need to Know About the Price, Availability, Release Schedule & Full Tech Specs Overview</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/optimisation-des-machines-virtuales-hyper-v-slows-solutions-pour-accelerer-les-performances/"><u>Optimisation Des Machines Virtuales Hyper-V Slows : Solutions Pour Accélérer Les Performances</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/three-simple-techniques-for-complete-hard-drive-wipe-out-a-guide/"><u>Three Simple Techniques for Complete Hard Drive Wipe-Out: A Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transcodage-gratuit-de-fichiers-flv-vers-aiff-en-ligne-avec-movavi-guide-complet/"><u>Transcodage Gratuit De Fichiers FLV Vers AIFF en Ligne Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-blackout-after-creators-update-fixes/"><u>Win11 Blackout: After Creator's Update Fixes</u></a></li>
 </ul></div>
 

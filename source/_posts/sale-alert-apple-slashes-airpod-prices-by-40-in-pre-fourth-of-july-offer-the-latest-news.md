@@ -1,7 +1,7 @@
 ---
 title: "Sale Alert: Apple Slashes AirPod Prices by $40 in Pre-Fourth of July Offer – The Latest News"
-date: 2024-11-16T18:11:43.153Z
-updated: 2024-11-17T19:13:14.058Z
+date: 2024-11-22T17:02:16.421Z
+updated: 2024-11-27T17:00:14.856Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cf1a6527b-73dd-4c1f-86b6-4d52f3b12021%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -58,24 +62,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-pantheon-of-popularity-instagrams-top-25-icons/"><u>[New] 2024 Approved The Pantheon of Popularity Instagram's Top 25 Icons</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-saving-gifs-from-twitter-ios-and-android-guide/"><u>[New] Saving GIFs From Twitter IOS & Android Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-editing-to-sharing-using-premiere-with-youtube/"><u>[Updated] 2024 Approved From Editing to Sharing Using Premiere with YouTube</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1-top-free-alternatives-to-raid-array-software-a-comprehensive-guide/"><u>1. Top Free Alternatives to RAID Array Software: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/1728510339221-windows-111087/"><u>深度解析：Windows 11/10/8/7磁區恢復手冊指南</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-boost-mobile-5g-plans-now-available/"><u>Affordable Boost Mobile 5G Plans Now Available</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/video-apps-review-youtube-iphones-and-androids-for-2024/"><u>Best Video Apps Review YouTube iPhones & Androids for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-vivo-y28-5g-by-drfone-android/"><u>How to Bypass FRP on Vivo Y28 5G?</u></a></li>
-<li><a href="https://win-web3.techidaily.com/the-ultimate-guide-top-3-leading-ts-file-players-compatible-with-both-windows-and-mac/"><u>The Ultimate Guide: Top 3 Leading TS File Players Compatible with Both Windows and Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-utilizing-pushd-and-popd-in-your-linux-terminal/"><u>Ultimate Guide to Utilizing Pushd and Popd in Your Linux Terminal</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-and-activating-smart-app-control-in-windows-11-an-essential-tutorial/"><u>Understanding & Activating Smart App Control in Windows 11 - An Essential Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-new-features-introducing-powertoys-v079s-customizable-keyboard-shortcuts-for-enhanced-windows-control/"><u>Unleash New Features: Introducing PowerToys V0.79's Customizable Keyboard Shortcuts for Enhanced Windows Control</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>[Updated] 2024 Approved The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-assessing-visual-clarity-entering-aurora-hdr-territory/"><u>[Updated] In 2024, Assessing Visual Clarity Entering Aurora HDR Territory</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-your-personalized-music-compilation/"><u>[Updated] Your Personalized Music Compilation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crafting-viral-vignettes/"><u>Crafting Viral Vignettes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-search-precision-opt-for-perplexity-ai/"><u>Elevate Search Precision – Opt for Perplexity AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fact-no-safe-gpt-windows-version-exists/"><u>Fact: No Safe GPT Windows Version Exists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatbot-wisdom-for-productive-scheduling/"><u>Harnessing Chatbot Wisdom for Productive Scheduling</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-6s-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 6s Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/raise-the-decibels-custom-sound-adjustments-on-a-windows-10-machine/"><u>Raise the Decibels: Custom Sound Adjustments on a Windows 10 Machine</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-google-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Google</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-advantages-for-companies-using-chatgpt-technology/"><u>Strategic Advantages for Companies Using ChatGPT Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/successful-guide-downloading-and-updating-dell-latitude-e6430-drivers-on-windows/"><u>Successful Guide: Downloading & Updating Dell Latitude E6430 Drivers on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-preserving-gpt-conversations/"><u>The Art of Preserving GPT Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/triumph-trajectory-chatgpts-5-key-catalysts-for-success/"><u>Triumph Trajectory: ChatGPT’s 5 Key Catalysts for Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-is-the-legal-keeper-of-ai-assets/"><u>Who Is the Legal Keeper of AI Assets?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/freedom-awaits-explore-these-top-6-youtube-shortdowners-for-2024/"><u>Your Freedom Awaits Explore These Top 6 YouTube Shortdowners for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

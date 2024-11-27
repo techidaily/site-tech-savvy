@@ -1,7 +1,7 @@
 ---
 title: "Explore the Vitality of Apple Pages: Discover 5 Compelling Reasons"
-date: 2024-11-10T17:11:47.430Z
-updated: 2024-11-17T18:49:24.839Z
+date: 2024-11-20T16:20:29.495Z
+updated: 2024-11-27T16:47:28.129Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Comments and track changes best the competition
 
 A few years ago, I was picked up by a new publisher and was honored to get their lead editor for my work. Prior to the switch, I was using LibreOffice for everything (first drafts, edits, formatting, etc.), so I assumed I could continue down that same road. 
@@ -49,10 +53,7 @@ However, when the editor sent me the first round of edits for the first manuscri
 I was on a deadline and knew I had to try something else. So, I opened the file in Apple Pages and everything worked as expected. What really surprised me was the quality of track changes and comments in Apple Pages. Not only are changes and comments well laid out and easy to manage, but it's also easy to hide or show the comments sidebar and deal with changes. No other word processor that I've used can match how seamlessly Apple Pages handles comments and track changes. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The sharing system simplifies collaboration
@@ -66,10 +67,7 @@ All I have to do is share a document to iCloud, set it to collaborate, set the s
 If you've used the sharing feature in previous iterations, it's worth noting that Apple has changed and simplified the process. You also will need to make sure that Pages is enabled for iCloud sharing in the System Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Large template library
@@ -81,10 +79,7 @@ If you're someone who makes use of templates, Apple Pages has a great library. A
 The nice thing about the templates is they include basic covers and boilerplate text, such as for the title page, legal information, dedication, and chapters, which makes it easy to write your first novel without the added stress of formatting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Inclusive export
@@ -94,10 +89,7 @@ Apple Pages makes it possible to export your text to numerous formats. By defaul
 One thing I can say is that, when exporting to a Word format, I've never had a complaint from an editor about formatting in a document, which speaks highly to Apple Pages' transferability.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's hardware doesn't hurt
@@ -138,22 +130,24 @@ And there you have it, my friends: five reasons why Apple Pages is a must-have f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-rated-recs-top-pages-for-obtaining-snapalert-tunes/"><u>[New] Rated Recs Top Pages for Obtaining SnapAlert Tunes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-properly-merging-webcam-feed-with-desktop-screen-for-2024/"><u>[Updated] Properly Merging Webcam Feed with Desktop Screen for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-characters-and-settings-through-gpts-insights/"><u>Crafting Characters & Settings Through GPT's Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/debunking-ai-dependence-for-financial-data-study/"><u>Debunking AI Dependence for Financial Data Study</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delete-your-active-chatgpt-account/"><u>Delete Your Active ChatGPT Account</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/erstellen-eines-ssd-backups-fur-eine-kontinuierliche-datenwiederherstellung/"><u>Erstellen Eines SSD Backups Für Eine Kontinuierliche Datenwiederherstellung</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-on-eliminating-lag-in-dota-2-fresh-tips-from-2024/"><u>Expert Advice on Eliminating Lag in Dota 2 - Fresh Tips From 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-risks-with-chatgpt-mobile-apps/"><u>Exploring the Risks with ChatGPT Mobile Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sketching-success-a-guide-to-industrys-best-10-vector-apps/"><u>In 2024, Sketching Success A Guide to Industry's Best 10 Vector Apps</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/inside-look-how-mycam-shapes-your-visual-storytelling-for-2024/"><u>Inside Look How MyCam Shapes Your Visual Storytelling for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-metaai-set-to-overtake-common-ai-chatbots/"><u>Is MetaAI Set to Overtake Common AI Chatbots?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-subscriptions-for-gpt-4-however-select-plus-membership-retains-its-unique-6-features/"><u>No Subscriptions for GPT-4: However, Select Plus Membership Retains Its Unique 6 Features.</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-your-wi-fi-connections-metric-functionality/"><u>Optimizing Your Wi-Fi Connection's Metric Functionality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prose-perfection-leveraging-chatgpt-for-literary-excellence/"><u>Prose Perfection: Leveraging ChatGPT for Literary Excellence</u></a></li>
-<li><a href="https://facebook.techidaily.com/restore-past-connections-after-facebook-ban/"><u>Restore Past Connections After Facebook Ban</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-ai-to-yourselves-a-how-to-for-unique-prose/"><u>Tailoring AI to Yourselves: A How-To for Unique Prose</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/universal-access-gpt-4-unveiled-for-all/"><u>Universal Access: GPT-4 Unveiled for All</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-secret-instagram-stories-viewer-apps/"><u>[New] Top Secret Instagram Stories Viewer Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-fixed-shorts-no-more-hidden-content/"><u>[Updated] In 2024, Fixed Shorts - No More Hidden Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-initiating-efficient-conversations-on-snapchat-with-three-steps/"><u>[Updated] In 2024, Initiating Efficient Conversations on Snapchat with Three Steps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-assessment-parrot-ar-drone-20-enhanced-edition/"><u>2024 Approved Assessment Parrot AR Drone 2.0 Enhanced Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-the-art-of-mixology-a-review/"><u>ChatGPT and the Art of Mixology: A Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-fraud-detection-guide/"><u>ChatGPT Fraud Detection Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/curating-child-friendly-gpt-conversations-with-care-in-5-ways/"><u>Curating Child-Friendly GPT Conversations with Care in 5 Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/getting-past-blocks-solutions-for-4-common-problems/"><u>Getting Past Blocks: Solutions for 4 Common Problems</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-lava-blaze-2-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Blaze 2 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-ready-syncing-photos-and-videos-from-pc-for-2024/"><u>IPhone-Ready Syncing Photos & Videos From PC for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-live-participation-in-tiktok-a-step-by-step-guide-for-2024/"><u>Mastering Live Participation in TikTok A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/operation-2-compose-hypothetical-amendments-to-the-health-insurance-portability-and-accountability-act-hipaa-that-would-govern-the-handling-of-urine-sample-3/"><u>Operation 2 – Compose Hypothetical Amendments to the Health Insurance Portability and Accountability Act (HIPAA) that Would Govern the Handling of Urine Sample Data Obtained From This New Test, with Constraints as Follows:</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outdoor-peril-could-tech-talk-save-the-day/"><u>Outdoor Peril? Could Tech Talk Save the Day?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unleashing-of-chatgpt/"><u>The Unleashing of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/twitters-without-symbols-linuss-exposed-content-trojans-demystified-and-gpt-errors-spotlighted/"><u>Twitters Without Symbols, Linus’s Exposed Content, Trojans Demystified, & GPT Errors Spotlighted</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-risks-when-chatting-with-advanced-ais-like-chatgpt/"><u>Understanding Risks When Chatting with Advanced AIs Like ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionary-ventures-mindmapping-with-chatai/"><u>Visionary Ventures: Mindmapping with ChatAI</u></a></li>
+<li><a href="https://facebook.techidaily.com/which-chat-app-captivates-you-most/"><u>Which Chat App Captivates You Most?</u></a></li>
 </ul></div>
 

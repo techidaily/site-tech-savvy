@@ -1,7 +1,7 @@
 ---
 title: $349 iPad Shines as Highlight of Apple's Bold New Product Line Unveiling
-date: 2024-11-13T19:42:34.430Z
-updated: 2024-11-17T17:03:48.402Z
+date: 2024-11-24T16:01:38.851Z
+updated: 2024-11-27T17:04:53.809Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is expected at WWDC 2024?
 
 WWDC is typically the event in which Apple takes the wraps off the next major versions of its assorted operating systems. That means we should anticipate demos of iOS 18, iPadOS 18, MacOS 15, WatchOS 11, tvOS 18, and VisionOS 2.0\. 
@@ -49,10 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,24 +128,21 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-5-affordable-drones-under-500/"><u>[New] In 2024, Top 5 Affordable Drones Under $500</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-epic-viewership-winners-youtubes-ultimate-list/"><u>[Updated] In 2024, Epic Viewership Winners YouTube's Ultimate List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guaranteed-method-to-keep-youtube-shorts-out-of-sight/"><u>[Updated] In 2024, Guaranteed Method to Keep YouTube Shorts Out of Sight</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-revolutionizing-healthcare-marketing-via-social-networks/"><u>2024 Approved Revolutionizing Healthcare Marketing via Social Networks</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-the-modern-creators-ultimate-tiktok-toolkit/"><u>2024 Approved The Modern Creator’s Ultimate TikTok Toolkit</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c300-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C300</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-four-revolutionary-advantages-of-claude-3-over-gpt-3/"><u>Discovering Four Revolutionary Advantages of Claude 3 over GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engage-in-endless-learning-from-strategic-play-to-artistic-creation-via-gpt-my-bots/"><u>Engage in Endless Learning: From Strategic Play to Artistic Creation via GPT-My Bots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/familys-handbook-understanding-gpt-and-generative-tech/"><u>Family's Handbook: Understanding GPT & Generative Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-theory-to-application-comparing-bert-and-gpt/"><u>From Theory to Application: Comparing BERT and GPT</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/go-from-gaming-to-socializing-streaming-xbox-to-fb-live/"><u>Go From Gaming to Socializing Streaming Xbox to FB Live</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-thunder-gods-fury-new-age-begins/"><u>In 2024, Thunder God's Fury New Age Begins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-careers-realistic-or-virtual/"><u>Prompt Engineering Careers: Realistic or Virtual?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/six-key-concerns-overreliance-on-machine-learning/"><u>Six Key Concerns Overreliance on Machine Learning</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-for-disabling-audio-boost-in-windows-10-system/"><u>Step-by-Step Tutorial for Disabling Audio Boost in Windows 10 System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailoring-engaging-presentation-content-with-ai-assistance/"><u>Tailoring Engaging Presentation Content with AI Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/thwart-bot-harvesters-secure-your-online-space/"><u>Thwart Bot Harvesters: Secure Your Online Space</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-advanced-gadget-guidance/"><u>Tom's Tech Insights: Advanced Gadget Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-teachers-should-embrace-not-dread-ai-8-insights/"><u>Why Teachers Should Embrace, Not Dread AI (8 Insights)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-androids-finest-screen-capture-software-top-5/"><u>[New] In 2024, Android's Finest Screen Capture Software, Top 5</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-nexus-of-networked-realities-unveiling-metaverse-vs-omniverse-for-2024/"><u>[New] Nexus of Networked Realities Unveiling Metaverse Vs. Omniverse for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-to-time-lapses-with-iphone/"><u>[New] The Ultimate Guide to Time-Lapses with iPhone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-imitation-ingenuity-generating-parodies-of-films/"><u>2024 Approved Imitation Ingenuity Generating Parodies of Films</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-secure-your-preference-with-these-9-leading-websites-offering-3d-typography/"><u>2024 Approved Secure Your Preference With These 9 Leading Websites Offering 3D Typography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wmv-mkv-movavi/"><u>免費在網路上的 WMV到 MKV 動畫格式轉換 - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/capturing-your-moments-with-movavis-premium-webcam-encoding-tools/"><u>Capturing Your Moments with Movavi's Premium Webcam Encoding Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversor-libre-en-linea-de-wmv-a-mjpeg-por-movavi-transmision-perfecta-gratis/"><u>Conversor Libre en Línea De WMV a MJPEG Por Movavi – Transmisión Perfecta Gratis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-converting-audio-files-m4r-in-mp3-with-online-tools-discover-how-movavi-does-it/"><u>Gratis Converting Audio Files (M4R) in MP3 with Online Tools - Discover How Movavi Does It!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-xs-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone XS Max to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audiences-choice-top-8-best-for-uhd-blu-ray/"><u>In 2024, Audience's Choice Top 8 Best for UHD Blu-Ray</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spectacularly-in-3d-apt-selection-of-top-decks/"><u>In 2024, Spectacularly in 3D Apt Selection of Top Decks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726228218277-raf-movavi/"><u>RAF 線上免費切換服務 - Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-cult-of-the-lamb-pc-freezing-issues-step-by-step-guide/"><u>Resolving Cult of The Lamb PC Freezing Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riporta-i-file-wma-a-formato-m4b-online-gratuito-conversione-rapida-con-movavi/"><u>Riporta I File WMA a Formato M4B Online Gratuito - Conversione Rapida Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726227963473-mpg-swf-movavi/"><u>무료 MPG SWF 파일에서 웹 게시로 전환: Movavi의 가이드</u></a></li>
 </ul></div>
 

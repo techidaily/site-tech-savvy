@@ -1,7 +1,7 @@
 ---
 title: Navigating the Digital Shift in CBT Practices with ChatGPT
-date: 2024-11-13T19:19:42.295Z
-updated: 2024-11-17T19:25:27.000Z
+date: 2024-11-26T16:04:48.305Z
+updated: 2024-11-27T16:10:39.629Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT and Cognitive Behavioral Therapy
 
  What makes ChatGPT suitable for the purpose of engaging in CBT? Well, ChatGPT has been trained on a wealth of data, including findings from psychological research, making it capable of grasping context and engaging in meaningful rhetoric.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
  CBT is a practical method of psychotherapy that focuses on solving everyday problems in your life, such as identifying and changing negative thought patterns. Because CBT often includes discussions and reflections with a therapist, ChatGPT is well suited to replicate the therapeutic process.
 
  You can already [use ChatGPT to improve your emotional intelligence](https://www.makeuseof.com/use-chatgpt-develop-emotional-intelligence/), so why not use it with a CBT focus? After all, CBT has emerged in the research as one of, if not the most, effective forms of psychotherapy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Steps to Use ChatGPT for CBT
 
@@ -50,19 +58,6 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
  At the same time, if something feels off or not quite clicking, you can adjust your questions or simply tell ChatGPT in no uncertain terms that it needs to try a different approach or line of reasoning.
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Writing Effective Prompts for CBT Practice
 
  There are many [CBT apps that can help with mental health](https://word2md.com/%E2%80%A2%09https:/www.makeuseof.com/cbt-apps-improve-mental-health). However, when diving into CBT with ChatGPT, you need to train it using prompts to get actionable results.
@@ -71,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
  A good prompt is like giving your GPS coordinates. It leads to a focused, relevant, and in the case of psychotherapy, insightful conversations. Being vague is like telling your GPS, "Take me somewhere fun." You might end up at the world's largest potato museum when you hoped for the beach.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Creating Effective Prompts for CBT With ChatGPT
 
  First and foremost, set ChatGPT up to be a CBT therapist. Consider the following example:
@@ -78,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
  "Imagine you are a world-renowned psychotherapist who uses Cognitive Behavioral Therapy to treat patients of all types. You are well-versed in the most efficient methods for helping people overcome personal struggles using CBT. You are an educator, scientist, and all-around warm-hearted person who understands how to help people. You have a sense of humor, a sharp wit, clarity in communication, and the ability to tell engaging stories and anecdotes to communicate the point you're trying to make. You also ask questions when uncertain so that you can deliver the best possible advice. You also want to help people discover for themselves the issues they are having, and empower them with practical advice on how to improve their own well-being."
 
 ![ChatGPT being trained as CBT therapist-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-chatgpt-being-trained-as-cbt-therapist-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can tweak the above in a way that works best for you.
 
@@ -95,10 +87,7 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 ![ChatGPT response with advice as CBT therapist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-chatgpt-response-with-advice-as-cbt-therapist.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And if the information is not specific enough, you can ask ChatGPT to get more specific.
@@ -106,16 +95,7 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 ![ChatGPT response with actions that can be taken today](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-chatgpt-response-with-actions-that-can-be-taken-today.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Precautions and Limitations of Using ChatGPT for CBT
@@ -151,16 +131,18 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-expertise-in-image-colors-pro-techniques-revealed/"><u>[Updated] Expertise in Image Colors Pro Techniques Revealed</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/1726027882035-dvd/"><u>「無償でパソコンへDVDデータ移行のワクワク映像方法」</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-premier-gamers-app-an-in-depth-look-at-kinemaster/"><u>2024 Approved Android's Premier Gamer's App An In-Depth Look at KineMaster</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-influence-in-code-creation/"><u>AI's Influence in Code Creation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-iphoto-replacement-options-effortless-photo-management-and-sharing-solutions/"><u>Best iPhoto Replacement Options: Effortless Photo Management and Sharing Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-job-seeking-6-actionable-approaches/"><u>ChatGPT in Job Seeking: 6 Actionable Approaches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-why-altered-chatgpt-is-impractical/"><u>Exploring Why Altered ChatGPT Is Impractical</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-2020-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone SE (2020) Unavailable Issue With Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneers-in-tech-their-take-on-the-rise-of-ai/"><u>Pioneers in Tech: Their Take on the Rise of AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-prime-selection-superior-ai-driven-note-applications/"><u>The Prime Selection: Superior AI-Driven Note Applications</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-achieve-marketing-excellence-the-top-10-steps-to-mastering-smm/"><u>[New] Achieve Marketing Excellence The Top 10 Steps to Mastering SMM</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-ad-dominance-through-structured-strategic-copywriting-techniques-for-2024/"><u>[Updated] Facebook Ad Dominance Through Structured, Strategic Copywriting Techniques for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-revolutionizing-content-creation-the-insight-into-vimeos-capabilities/"><u>[Updated] Revolutionizing Content Creation The Insight Into Vimeo's Capabilities</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-leading-edge-technology-selecting-15-ultimate-cameras/"><u>2024 Approved Leading Edge Technology Selecting 15 Ultimate Cameras</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726228102531-pbm-movavi/"><u>圧倒的な機能を備えた無料PBM形式のオンライン画像変換 - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-display-issues-resolved-no-more-black-screens/"><u>Cyberpunk 2077 Display Issues Resolved - No More Black Screens</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-driver-for-your-brother-hl-l2300d-printer-here/"><u>Get the Most Recent Driver for Your Brother HL-L2300D Printer Here</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-hot-40-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Hot 40 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-honor-magic-5-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Honor Magic 5 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformar-tu-musica-aac-en-calidad-wav-con-la-herramienta-gratuita-de-movavi-online/"><u>Transformar Tu Música AAC en Calidad WAV Con La Herramienta Gratuita De Movavi Online.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-power-of-animated-special-effects-for-engaging-content/"><u>Unlocking the Power of Animated Special Effects for Engaging Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726227347193-cr2-png-movavi/"><u>오늘날의 CR2 이미지를 PNG로 자유성 원격 변환에 액세스 - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726219411649-wavmp3-movavi/"><u>ワークフローを簡素化する無料WAVファイルからMP3への直接変換 - Movavi</u></a></li>
 </ul></div>
 

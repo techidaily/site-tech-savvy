@@ -1,7 +1,7 @@
 ---
 title: "The Narrative Network: 7 Artistic Ways to Use AI in Game Writing"
-date: 2024-11-15T18:59:14.600Z
-updated: 2024-11-17T19:26:59.795Z
+date: 2024-11-26T16:22:42.362Z
+updated: 2024-11-27T16:17:59.169Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Simplify the Dialogue
 
 ![simplifying dialogue using chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/simplifying-dialogue.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 > **Prompt inspiration**: "\[Dialogue\] Simplify this dialogue and make it more conversational for a video game.”
 
@@ -48,16 +56,13 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 
  You can then ask questions about the character, and the chatbot will role-play as the NPC to give you detailed answers. You can even [use ChatGPT for fictional worldbuilding](https://www.makeuseof.com/chatgpt-fictional-worldbuilding-how-to/) and create new characters from scratch.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Convey Character by Adding Emotion
 
 ![adding emotion using chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-emotion.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 > **Prompt inspiration**: "Add the emotion of \[Insert emotion\] to these video game dialogues made by \[Insert character information and scenario\]: \[Insert dialogues\]."
 
@@ -65,38 +70,21 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 
 ![kinds of emotion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/type-of-emotion.jpeg)
 
-> **Prompt inspiration**: "What kind of emotion should \[Insert character information\] during \[Insert scenario\]?"
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+> **Prompt inspiration**: "What kind of emotion should \[Insert character information\] during \[Insert scenario\]?"
 
 ## 4\. Generate Codex Entries
 
 ![chatgpt codex entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-codex.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 > **Prompt inspiration**: "Make video game codex entries for \[insert items or characters whose codex entries you want to generate\]. Include some interconnected lore in these codex entries to make the world feel more immersive."
 
  It often gets difficult to generate unique codex entries from scratch to fit into the game world you're creating. But with ChatGPT, you can have a bottomless pool of inspiration to work with.
 
  You can ask the language model to generate all kinds of codex entries, such as item descriptions, lore tablets, character backgrounds, and even gameplay instructions. You can also instruct ChatGPT to create connections between different codex entries to make your game lore more interconnected.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Brainstorm Side Quest Ideas
 
@@ -117,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
  Barks in video games can often get repetitive and boring for players to hear again and again. And they're even more monotonous to pen down. But you can instantly set your video game apart from other titles by generating interesting barks that provide valuable information to the player.
 
  Thankfully, ChatGPT can help with this. All you need to do is provide the AI with the situation in which the bark is to be used and which character is going to say it. Then, the AI can generate a long list of barks for you to take inspiration from.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Your Video Game Scripts More Engaging With ChatGPT
 
@@ -143,19 +135,22 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dancing-to-the-tune-youtubes-hottest-music-video-responses-23/"><u>[New] 2024 Approved Dancing to the Tune YouTube's Hottest Music Video Responses, '23</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-compress-to-caption-zip-to-srt-for-video-editors-for-2024/"><u>[New] Compress to Caption ZIP-to-SRT for Video Editors for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nlocking-more-traffic-the-ultimate-list-of-keyword-tools/"><u>[New] Unlocking More Traffic The Ultimate List of Keyword Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-periscope-stars-in-snapchat-highlights/"><u>2024 Approved Periscope Stars in Snapchat Highlights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-personalization-and-privacy-in-gpt-applications/"><u>Balancing Personalization and Privacy in GPT Applications</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/cutting-edge-mounts-uninterrupted-mobile-shooting-for-2024/"><u>Cutting-Edge Mounts Uninterrupted Mobile Shooting for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/iently-shifting-videos-youtube-to-dailymotion-strategy-for-2024/"><u>Efficiently Shifting Videos YouTube to Dailymotion Strategy for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enriching-virtual-teams-engagement-through-chatai/"><u>Enriching Virtual Teams' Engagement Through ChatAI</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-spark-20c-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Spark 20C Is Unlocked</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-hardware-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to update your hardware drivers on Windows 10 & 7</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/improving-text-through-gpt-usage/"><u>Improving Text Through GPT Usage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-browsing-made-simple-unleash-bing-ai-on-your-devices/"><u>Intelligent Browsing Made Simple: Unleash Bing AI on Your Devices.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/microsoft-bing-with-ai-powered-search-how-your-search-experience-will-change/"><u>Microsoft Bing With AI-Powered Search: How Your Search Experience Will Change</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ready-for-action-top-6-thrilling-chatgpt-designed-games-await/"><u>Ready for Action? Top 6 Thrilling ChatGPT-Designed Games Await</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-for-everyone-automating-with-auto-gpt-on-ubuntu/"><u>AI for Everyone: Automating with Auto-GPT on Ubuntu</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-x6-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from X6.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-performance-today-with-the-newest-intel-nvme-drives-and-installers/"><u>Boost Performance Today with the Newest Intel NVMe Drives & Installers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-understanding-netflixs-online-entertainment-platform/"><u>Comprehensive Guide to Understanding Netflix's Online Entertainment Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-experience-with-freshly-updated-rtx-2080-super-nvidia-drivers-compatible-with-windows-1110/"><u>Enhance Your Experience with Freshly Updated RTX 2080 Super Nvidia Drivers - Compatible with Windows 11/10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-delete-your-chatgpt-history/"><u>How to Delete Your ChatGPT History</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone SE</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-the-art-of-3d-animation-with-elite-design-applications-for-2024/"><u>Mastering the Art of 3D Animation with Elite Design Applications for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-wellbeing-objectives-via-ai-insight/"><u>Navigating Wellbeing Objectives via AI Insight</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138595387-9781469751474-oh-my-gosh-i-over-slept/"><u>Oh, My Gosh I over Slept! | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scaling-up-intelligence-identifying-this-years-most-promising-ai-tech/"><u>Scaling Up Intelligence: Identifying This Year's Most Promising AI Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-artificial-intelligences-journey-boons-and-busts/"><u>Understanding Artificial Intelligence's Journey: Boons & Busts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-voice-potential-5-innovative-gpt-commands/"><u>Unleash Voice Potential: 5 Innovative GPT Commands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-genuine-tokens-from-fake-bingcrypt-schemes/"><u>Unveiling Genuine Tokens From Fake BingCrypt Schemes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating AI Boundaries Safely
-date: 2024-11-15T19:03:28.899Z
-updated: 2024-11-17T19:27:13.266Z
+date: 2024-11-24T16:31:23.017Z
+updated: 2024-11-27T16:16:22.039Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 ![Person using chatGPT on his laptop](https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe9401c395fee54d3c5c1d37695.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A ChatGPT jailbreak is any specially crafted ChatGPT prompt to get the AI chatbot to bypass its rules and restrictions.
 
  Inspired by the [concept of iPhone jailbreaking](https://www.makeuseof.com/how-to-jailbreak-iphone/), which allows iPhone users to circumvent iOS restrictions, ChatGPT jailbreaking is a relatively new concept fueled by the allure of "doing things that you aren't allowed to do" with ChatGPT. And let's be honest, the idea of digital rebellion is appealing to many people.
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
  So how did OpenAI solve this? By letting ChatGPT retains its abilities to do anything possible and then instruct it on which ones it can do.
 
  So while OpenAI tells ChatGPT, "Hey look, you aren't supposed to do this." Jailbreaks are instructions telling the chatbot, "Hey look, forget what OpenAI told you about safety. Let's try this random dangerous stuff."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Does OpenAI Say About ChatGPT Jailbreaks?
 
@@ -62,31 +70,29 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
  What does this mean? It means OpenAI will let you jailbreak ChatGPT if you don't do dangerous things with it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pros and Cons of ChatGPT Jailbreaks
 
 ![A close up view of a computer with "ChatGPT Prompts" written on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-prompt-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT jailbreaks aren't easy to build. Sure, you can go online and copy-paste ready-made ones, but there's a good chance that the jailbreak will be patched by OpenAI shortly after it goes public.
 
  Patches are even much faster if it's dangerous, like the infamous DAN jailbreak. So why do people go through the stress of crafting jailbreaks anyway? Is it just for the thrill of it, or are there practical benefits to it? What could go wrong if you choose to use a ChatGPT jailbreak? Here are the pros and cons of jailbreaking ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Pros of Using ChatGPT Jailbreaks
 
 ![A happy woman listening to headphones while using a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-happy-woman-listening-to-headphones-while-using-a-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While we can't rule out the simple thrill of doing the forbidden, ChatGPT jailbreaks have many benefits. Because of the very tight restrictions that OpenAI has put on the chatbot, the ChatGPT can sometimes appear neutered.
 
@@ -104,25 +110,11 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 ![Image of a man with his face in his hands beside a white question mark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-of-a-man-with-his-face-in-his-hands-beside-a-white-question-mark.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Jailbreaking is a double-edged sword. While it can sometimes improve accuracy, it can also significantly increase inaccuracies and [cases of AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). One of the core elements of a ChatGPT jailbreak is an instruction to the chatbot not to refuse to answer a question.
 
  While this ensures that ChatGPT answers even the most unethical of questions, it also means that the chatbot will make up responses that have no roots in facts or reality to obey the instruction of "not refusing to answer." Consequently, using jailbreaks significantly increases the chances of being fed misinformation by the chatbot.
 
  That's not all. In the hands of minors, jailbreaks can be very harmful. Think of all the "forbidden knowledge" you wouldn't want your child to read. Well, a jailbroken instance of ChatGPT wouldn't have a hard time sharing that with minors.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should You Use ChatGPT Jailbreaks?
 
@@ -157,20 +149,22 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-minimal-shake-cam-for-dynamic-shooting/"><u>[New] Minimal-Shake Cam for Dynamic Shooting</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-inside-the-mindset-of-a-photographer-polarrs-editing-techniques/"><u>[Updated] 2024 Approved Inside the Mindset of a Photographer Polarr’s Editing Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-editing-unveiling-the-top-15-cine-luts-for-action-cam/"><u>2024 Approved Immersive Editing Unveiling the Top 15 Cine LUTs for Action Cam</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-engaging-conversations-with-users-boost-ai-learning/"><u>Can Engaging Conversations with Users Boost AI Learning?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/coding-the-future-how-ai-redefines-game-design/"><u>Coding the Future: How AI Redefines Game Design</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/decode-kernel-mode-buffer-overflows-steps-to-correct-heap-errors-in-operating-systems/"><u>Decode Kernel Mode Buffer Overflows: Steps to Correct Heap Errors in Operating Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-siri-and-popular-apps-with-apples-advanced-ai-capabilities/"><u>Enhancing Siri & Popular Apps with Apple's Advanced AI Capabilities</u></a></li>
-<li><a href="https://win-lab.techidaily.com/fehlermeldung-beim-wiederherstellen-des-iphones-in-itunes-losungsansatze-und-tipps/"><u>Fehlermeldung Beim Wiederherstellen Des iPhones in iTunes: Lösungsansätze Und Tipps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-poco-x6-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Poco X6 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-wbk-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for .wbk file</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-minds-and-their-stance-on-ai-evolution/"><u>Leading Minds and Their Stance on AI Evolution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/reasons-to-favor-an-investment-in-m3-macbook-air/"><u>Reasons to Favor an Investment in M3 MacBook Air</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-10-modifications-enhancing-chatgpts-performance/"><u>Top 10 Modifications: Enhancing ChatGPT's Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-coding-experience-with-chatgpt-and-vs-code-tactics/"><u>Transforming Coding Experience with ChatGPT and VS Code Tactics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-quoras-poe-gateway-to-ai-tech/"><u>Utilizing Quora's PoE Gateway to AI Tech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-live-stream-titans-clash-twitch-vs-youtube-analysis/"><u>[New] Live-Stream Titans Clash Twitch Vs YouTube Analysis</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-celebrity-fleeting-frame-study/"><u>2024 Approved Celebrity Fleeting Frame Study</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-top-picks-from-booktik-your-next-great-adventure-awaits/"><u>2024 Approved Top Picks From #Booktik Your Next Great Adventure Awaits</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mef-jpegmovavi/"><u>無限傳輸 MEF為 JPEG：Movavi 優化網上格式更改工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bandicam/"><u>Bandicam: 真正用戶產品評估和教學解決方案</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-windows-tray-for-numeric-lock-signifiers/"><u>Customizing Windows Tray for Numeric Lock Signifiers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-digital-video-recorders-your-complete-introductory-resource/"><u>Decoding Digital Video Recorders: Your Complete Introductory Resource</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evet-farkli-turkce-best-free-upgrade-software-2024te-microsoft-windows-7-icin/"><u>Evet, Farkli! Türkçe | Best Free Upgrade Software 2024'Te Microsoft Windows 7 Için</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-convert-m4v-to-gif-with-moveavi-download-now/"><u>Free Online Converter: Convert M4V to GIF with MoveAVI - Download Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-mov-to-m4a-converter-moveavi/"><u>Free Online MOV to M4A Converter - Moveavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-tool-transforming-3gp-videos-into-gifs-effortless-conversion-with-movavi/"><u>Free Online Tool: Transforming 3GP Videos Into GIFs - Effortless Conversion with Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-complet-au-telechargement-dobs-studio-pour-les-utilisateurs-de-windows-mac-et-linux/"><u>Guide Complet Au Téléchargement D’OBS Studio Pour Les Utilisateurs De Windows, Mac Et Linux</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-solution-how-to-brighten-a-video-on-android/"><u>In 2024, [Solution] How to Brighten a Video on Android</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) with a Mask On</u></a></li>
+<li><a href="https://fox-http.techidaily.com/prime-sd-card-selections-for-optimal-gopro-hero-78-performance/"><u>Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-12-gratuit-superieur-screenshootere-pour-lesmac-2024-liste-detaillee-par-movavi/"><u>Top 12 Gratuit Superieur Screenshootere Pour Lesmac - 2024 Liste Détaillée Par Movavi</u></a></li>
 </ul></div>
 

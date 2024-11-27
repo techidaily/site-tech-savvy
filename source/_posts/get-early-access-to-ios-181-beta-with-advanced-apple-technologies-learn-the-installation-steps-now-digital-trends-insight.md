@@ -1,7 +1,7 @@
 ---
 title: Get Early Access to IOS 18.1 Beta with Advanced Apple Technologies - Learn the Installation Steps Now | Digital Trends Insight
-date: 2024-11-11T16:42:03.139Z
-updated: 2024-11-17T19:44:38.988Z
+date: 2024-11-26T17:05:33.996Z
+updated: 2024-11-27T16:00:27.535Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The cost of GPU processing
 
 Advanced AI features require substantial computational power, typically provided by high-performance GPUs. For instance, [NVIDIA's MGX with GH 200 and Grace Hopper superchip](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/) designed for AI training, inference, 5G, and HPC cost around $65,000 each. Deploying these servers regionally to support lower-end devices would be prohibitively expensive. Apple would easily need thousands of these units to support its entire user base, resulting in astronomical costs likely passed on to consumers through service fees.
@@ -45,10 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,16 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -131,24 +120,22 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-select-top-6-apps-for-creating-impressive-photo-shows/"><u>[New] 2024 Approved Select Top 6 Apps for Creating Impressive Photo Shows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-hd-screensnap-equipment/"><u>[New] In 2024, Ultimate HD Screensnap Equipment</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-unleash-clarity-in-depth-tutorial-on-video-enhancer-22/"><u>[Updated] 2024 Approved Unleash Clarity In-Depth Tutorial on Video Enhancer 2.2</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-making-audio-files-out-of-instagram-videos/"><u>[Updated] In 2024, Making Audio Files Out of Instagram Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ace-exams-easily-with-gpt-powered-notetaking/"><u>Ace Exams Easily with GPT-Powered Notetaking</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-and-the-new-wave-of-search-at-microsofts-bing/"><u>AI & The New Wave of Search at Microsoft's Bing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-revolution-mercedes-benzs-ai-chatgpt-meets-vehicle-control/"><u>Auto Revolution: Mercedes-Benz's AI ChatGPT Meets Vehicle Control</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/career-evolution-what-changes-with-gpts-rise/"><u>Career Evolution: What Changes with GPT's Rise?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-termination-dissecting-10-potential-firing-scenarios/"><u>ChatGPT and Termination: Dissecting 10 Potential Firing Scenarios</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-gpt-alerts-to-spot-phony-bot-interactions/"><u>Crafting GPT Alerts to Spot Phony Bot Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-proposals-a-guide-to-using-gpt-3/"><u>Enhancing Your Proposals: A Guide to Using GPT-3</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-a56s-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo A56s 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-the-ultimate-freelancers-toolkit-for-writer-excellence/"><u>Mastering ChatGPT: The Ultimate Freelancer's Toolkit for Writer Excellence</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-11-solutions-to-get-borderlands-3-running-smoothly-troubleshooting-guide/"><u>Top 11 Solutions to Get Borderlands 3 Running Smoothly - Troubleshooting Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-usb-c-chargers-and-adapters-a-comprehensive-guide/"><u>Top Rated USB-C Chargers & Adapters : A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205992205-troubleshooting-guide-for-non-working-mic-on-steelseries-arctis-5-a-step-by-step-solution/"><u>Troubleshooting Guide for Non-Working Mic on SteelSeries Arctis 5: A Step-by-Step Solution!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/twitters-emoji-free-zone-linuss-secrets-trojan-breakdown-and-ai-chatgpt-faults-revealed/"><u>Twitters Emoji-Free Zone, Linus's Secrets, Trojan Breakdown, & AI ChatGPT Faults Revealed.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-the-potential-of-av1-technology/"><u>Unlocking the Potential of AV1 Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/zdnet-reveals-the-4-iphone-and-macbook-models-best-to-skip-this-year/"><u>ZDNet Reveals the 4 iPhone & MacBook Models Best to Skip This Year!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-from-channels-to-champions-leveraging-lingo-in-telegram-marketing/"><u>[New] In 2024, From Channels to Champions Leveraging Lingo in Telegram Marketing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2023-revised-insights-on-samsungs-ubd-k850u/"><u>2023 Revised Insights on Samsung's UBD-K850U</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-magic-5-lite-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-titans-clash-googles-gemini-vs-openais-chatgpt/"><u>AI Titans Clash: Google's Gemini Vs. OpenAI's ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oppo-a78-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Oppo A78 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-aid-excellence-using-these-high-tech-digital-tools/"><u>Boost Aid Excellence Using These High-Tech Digital Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/boosting-facebook-ad-revenue-with-strategic-animated-content-design-for-2024/"><u>Boosting Facebook Ad Revenue with Strategic Animated Content Design for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-rpg-experience-through-chatgpt-techniques/"><u>Enhancing RPG Experience Through ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-alternative-intelligences-to-openais-sora/"><u>Explore Alternative Intelligences to OpenAI's Sora</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/governments-role-supervising-ai-through-four-lenses/"><u>Government's Role: Supervising AI Through Four Lenses</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-projects-through-music-addition-in-premiere-pro/"><u>In 2024, Perfecting Projects Through Music Addition in Premiere Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-uses-of-auto-gpt-in-business/"><u>Innovative Uses of Auto-GPT in Business</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pro-tips-for-captivating-vr-videos-top-9-strategies-for-2024/"><u>Pro Tips for Captivating VR Videos Top 9 Strategies for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-your-access-troubleshooting-chatgpt-errors/"><u>Unlocking Your Access: Troubleshooting ChatGPT Errors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-windows-live-movie-maker-tutorial-adding-a-slow-motion-effect-to-your-videos/"><u>Updated In 2024, Windows Live Movie Maker Tutorial Adding a Slow Motion Effect to Your Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voice-able-the-new-era-of-ai-and-vehicle-commands/"><u>VOICE-ABLE: The New Era of AI and Vehicle Commands</u></a></li>
 </ul></div>
 

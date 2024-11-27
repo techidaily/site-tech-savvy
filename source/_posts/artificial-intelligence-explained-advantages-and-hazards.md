@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence Explained: Advantages and Hazards"
-date: 2024-11-11T16:58:48.722Z
-updated: 2024-11-17T19:02:56.863Z
+date: 2024-11-23T16:22:43.539Z
+updated: 2024-11-27T16:32:24.347Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Artificial Intelligence?
 
  Artificial intelligence is the ability of a man-made machine or system to mimic and, in some ways, even surpass human intelligence. The term was coined by computer scientist John McCarthy in 1956, but the concept itself is much older.
@@ -43,10 +47,7 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
  The AI we use today, ANI (aka weak AI), is mainly about pattern recognition and making programmed inferences. In the same way we humans use our senses to navigate the world around us and act accordingly, AI uses the data we give it to do all sorts of things.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Examples of AI
@@ -58,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
  We made AI for the same reason we make any technology: to reduce suffering and increase pleasure. Today, AI helps us translate languages, [avoid traffic jams](https://www.makeuseof.com/tag/how-google-predicts-traffic/), prevent fraud, manage inventory, [automate household chores](https://www.makeuseof.com/tech-ease-overwhelming-feeling-everyday-tasks-chores/), create diet plans, trade stocks, create content, [make artwork](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/), study analytics, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Risks and Dangers of Using AI?
@@ -77,10 +75,7 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
  Furthermore, AI tools are now used to impersonate celebrities, politicians, and public figures via [deepfake technology](https://www.makeuseof.com/tag/what-are-deepfakes-explained/) and voice cloning. This is extremely dangerous for obvious reasons. Unfortunately, as the tech improves, it'll become more difficult to tell what's real and what's fake.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Should Be a Tool, Not a Weapon
@@ -110,20 +105,20 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-utilizing-b-footage-an-essential-filmmaking-skill/"><u>[New] Utilizing B-Footage An Essential Filmmaking Skill</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/character-crafting-mastery-gpt-and-pixel-perfect-artistry-in-rpgs/"><u>Character Crafting Mastery: GPT and Pixel-Perfect Artistry in RPGs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-the-cord-ending-chatgpts-recording-habits/"><u>Cutting the Cord: Ending ChatGPT's Recording Habits</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-nvidia-geforce-rtx-ebytes-for-winodws-1187-driver-downloads-available/"><u>Get the Latest NVIDIA GeForce RTX Ebytes for Winodws 11/8/7 - Driver Downloads Available!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratuiti-convertitori-ogg-online-per-file-audioformati-aif-movavi/"><u>Gratuiti: Convertitori OGG OnLine per File Audioformati AIF - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-quickly-toggle-off-sticky-keys-feature-on-windows-11-illustrated-instructions-included/"><u>Guide to Quickly Toggle Off Sticky Keys Feature on Windows 11 - Illustrated Instructions Included</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-f15-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy F15 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-screenshot-on-toshiba-laptop-quickly-and-easily/"><u>How to Screenshot on Toshiba Laptop – Quickly & Easily</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-14-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 14 Pro Phone FRP Lock</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-luminous-color-corrector-kit/"><u>In 2024, Luminous Color Corrector Kit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpts-standard-add-ons/"><u>Navigating ChatGPT's Standard Add-Ons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pro-tips-mastering-gpt-3-within-openai-arena/"><u>Pro Tips: Mastering GPT-3 Within OpenAI Arena</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-integration-using-ai-enriched-bing-on-android/"><u>Seamless Integration: Using AI-Enriched Bing on Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-5-best-free-ai-driven-image-editors/"><u>The 5 Best Free AI-Driven Image Editors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-access-how-to-register-for-services-sans-phone/"><u>Unlocking Access: How to Register for Services Sans Phone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-benqs-visionary-approach-to-4k-monitors-unraveled-by-the-bl2711u-review/"><u>[New] BenQ's Visionary Approach to 4K Monitors, Unraveled by the BL2711U Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-hands-on-help-quick-screen-recording-dell/"><u>[Updated] In 2024, Hands-On Help Quick Screen Recording (Dell)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-group-discussions-by-incorporating-gpt-3/"><u>Boosting Group Discussions by Incorporating GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/commanding-originality-in-ai-graphics-with-microsofts-copilot-edge/"><u>Commanding Originality in AI Graphics with Microsoft's Copilot Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/entrepreneurs-guide-navigating-through-essential-ai-applications/"><u>Entrepreneur's Guide: Navigating Through Essential AI Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-out-if-chatgpt-is-offline/"><u>Find Out if ChatGPT Is Offline</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-sony-xperia-10-v-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Sony Xperia 10 V Phone Screen?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-15-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 15 or iPad?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-mechanized-sky-dwellers-classes/"><u>In 2024, Mechanized Sky-Dwellers' Classes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-industrial-communication-private-with-gpt/"><u>Keeping Industrial Communication Private with GPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/my-experience-with-non-name-brand-tech-products-from-temu-a-positive-surprise-zdnet/"><u>My Experience with Non-Name Brand Tech Products From Temu - A Positive Surprise! | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-local-llm-advantages-and-disadvantages/"><u>Navigating Through Local LLM Advantages & Disadvantages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-swift-italian-ban-on-chatgpt-a-closer-look/"><u>The Swift Italian Ban on ChatGPT: A Closer Look</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tips-and-tricks-to-elevate-your-youtube-production-through-subtitle-integration-for-2024/"><u>Tips and Tricks to Elevate Your YouTube Production Through Subtitle Integration for 2024</u></a></li>
 </ul></div>
 

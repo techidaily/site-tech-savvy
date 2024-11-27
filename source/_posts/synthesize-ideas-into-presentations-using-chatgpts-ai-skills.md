@@ -1,7 +1,7 @@
 ---
 title: Synthesize Ideas Into Presentations Using ChatGPT's AI Skills
-date: 2024-11-14T17:27:23.441Z
-updated: 2024-11-17T19:15:16.210Z
+date: 2024-11-24T16:03:34.328Z
+updated: 2024-11-27T16:24:33.933Z
 tags:
   - chatgpt
   - open-ai
@@ -53,10 +53,7 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 ![A sample conversation with ChatGPT to generate text for a presentation.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-presentation-text.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have provided the information, ChatGPT will generate the presentation text for you. You can edit and refine the text to meet your needs and preferences. It's best to remove the structural phrases, such as the slide numbers and the image descriptions. Keep only the main text.
@@ -64,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
  If you'll be using the free version of SlidesAI, it's important to note that there are limits on the number of characters and slides. Specifically, the free version has a limit of 2500 characters and can generate no more than ten slides. You can adjust your prompt or edit the ChatGPT output if you need to work within these limits.
 
  If you want to make the whole process even easier and don't feel like editing the AI-generated text yourself, you can use yet another [AI writing tool](https://www.makeuseof.com/ai-writing-tools/) to edit ChatGPT's output.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install SlidesAI for Google Slides
 
@@ -80,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Compile the Presentation With SlidesAI
 
  With SlidesAI installed, you can now begin creating your presentation. You can do this in the same blank presentation you made in the previous step. SlidesAI will automatically add new slides and fill them with appropriate content.
@@ -97,20 +91,14 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 3. In the new window, paste your text under **Enter text**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
@@ -118,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 7. Go to the **Themes** tab and select a style.  
 ![Choosing a theme in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the **Text** tab and click **Create Slides**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
@@ -137,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
  Now you can customize the slides and add the finishing touches. Remember that AI is still prone to making mistakes, so proofread your presentation to ensure there aren't any blunders. If the main content looks good, you can then start making visual improvements like [adding animations to your slides](https://www.makeuseof.com/add-animation-google-slides/).
 
 ![The Magic Write tool in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-magic-write.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There's a chance that SlidesAI adds irrelevant images to some slides. In that case, you can replace the image with SlideAI's Magic Write tool. This feature considers the slide's content and suggests relevant stock photos.
 
@@ -178,20 +163,14 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-android-audio-alchemy-selecting-the-top-free-downloader-apps-from-youtube/"><u>[New] 2024 Approved Android Audio Alchemy Selecting the Top Free Downloader Apps From YouTube</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-essential-steps-for-elevating-wmm-content-on-vimeo-platform-for-2024/"><u>[New] Essential Steps for Elevating WMM Content on Vimeo Platform for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-cam-cover-selection/"><u>[Updated] In 2024, The Ultimate Guide to Cam Cover Selection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/biz-prowess-boosted-new-era-of-communication-with-gpt-and-whisper/"><u>Biz Prowess Boosted: New Era of Communication with GPT & Whisper</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypass-expense-with-gpt-4-essential-methods-uncovered/"><u>Bypass Expense with GPT-4: Essential Methods Uncovered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-harmonies-with-ai-chatgpt-for-daw-users/"><u>Crafting Harmonies with AI - ChatGPT for DAW Users</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-15-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 15 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pure-greenprints-accessible-templates-to-amplify-your-filmmaking-expertise/"><u>In 2024, Pure Greenprints Accessible Templates to Amplify Your Filmmaking Expertise</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-excel-slicers-a-comprehensive-tutorial-on-crafting-dynamic-data-segmentation-tools/"><u>Mastering Excel Slicers: A Comprehensive Tutorial on Crafting Dynamic Data Segmentation Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-fraudgpt-threats-protect-yourself-now/"><u>Navigating FraudGPT Threats - Protect Yourself Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-startup-errors-how-to-get-your-computer-running-smoothly-again/"><u>Resolving 'Startup Errors': How to Get Your Computer Running Smoothly Again</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stanza-squadron-vs-artificial-intelligence-offline-alpaca-edition/"><u>Stanza Squadron vs Artificial Intelligence - Offline Alpaca Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-insidious-art-of-online-manipulation/"><u>The Insidious Art of Online Manipulation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-overwatchs-buffer-management-feature-and-its-impact-on-streaming-quality/"><u>Understanding Overwatch's Buffer Management Feature and Its Impact on Streaming Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-chatgpts-potential-with-plugins/"><u>Unlocking ChatGPT's Potential with Plugins</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-loop-video-magic-keep-your-followers-hooked-with-instagram-boomers/"><u>[New] In 2024, Loop Video Magic Keep Your Followers Hooked with Instagram Boomers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-image-jokes-how-to-create-memetic-gold/"><u>2024 Approved Image Jokes How to Create Memetic Gold</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-mmos-in-vr-oculus-vs-htc-vive-vs-ps-vr/"><u>2024 Approved Mastering MMOs in VR Oculus vs HTC Vive vs PS VR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-through-web-development-hurdles-with-fourfold-gpt-guidance/"><u>Cut Through Web Development Hurdles with Fourfold GPT Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-of-browsing-with-agentgpt/"><u>Step Into the Future of Browsing with AgentGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-handbook-for-openai-api-mastery-and-applications/"><u>The Essential Handbook for OpenAI API Mastery and Applications</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://win-web3.techidaily.com/top-rating-como-hacer-una-copia-de-seguridad-completa-y-facilitar-su-acceso-en-windows-11-usando-sus-archivos-nas-de-qnap-sincronizados-con-onedrive/"><u>Top Rating: Cómo Hacer Una Copia De Seguridad Completa Y Facilitar Su Acceso En Windows 11 Usando Sus Archivos NAS De QNAP Sincronizados Con OneDrive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-era-arrives-as-enterprises-tap-into-chatgpt-and-whisper-apis/"><u>Transformative Era Arrives as Enterprises Tap Into ChatGPT & Whisper APIs</u></a></li>
 </ul></div>
 

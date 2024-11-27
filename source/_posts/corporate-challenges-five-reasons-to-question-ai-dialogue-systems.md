@@ -1,7 +1,7 @@
 ---
 title: "Corporate Challenges: Five Reasons to Question AI Dialogue Systems"
-date: 2024-11-16T17:36:17.522Z
-updated: 2024-11-17T16:04:55.260Z
+date: 2024-11-23T16:46:18.782Z
+updated: 2024-11-27T16:39:14.926Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Data Leaks
 
 [ChatGPT requires a large amount of data to train and operate effectively](https://www.makeuseof.com/how-does-chatgpt-work/). The chatbot was trained using massive amounts of data derived from the internet, and it continues to be trained.
@@ -48,38 +52,25 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 ![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While [it's unclear if ChatGPT is genuinely prone to cybersecurity risks](https://www.makeuseof.com/does-chatgpt-have-security-risks-or-issues/), there's a chance that its deployment within an organization may introduce potential vulnerabilities which cyberattackers can exploit.
 
  If a company integrates ChatGPT and there are weaknesses in the chatbot's security system, attackers may be able to exploit the vulnerabilities and inject malware codes. Also, ChatGPT's ability to generate human-like responses is a golden egg for phishing attackers who can take over an account or impersonate legitimate entities to deceive company employees into sharing sensitive information.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Creation of Personalized Chatbots
 
 ![robot standing in the middle of a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatbot-chatgpt-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite its innovative features, ChatGPT can produce false and misleading information. As a result, many companies have created AI chatbots for work purposes. For instance, the Commonwealth Bank of Australia asked its employees to use Gen.ai instead, an artificial intelligence (AI) chatbot that uses CommBank's information to provide answers.
 
  Companies like Samsung and Amazon have developed advanced natural language models, so businesses can easily create and deploy personalized chatbots based on existing transcripts. With these in-house chatbots, you can prevent the legal and reputational consequences associated with mishandling data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Lack of Regulation
 
@@ -88,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
  Additionally, the lack of regulation can diminish a company's accountability and transparency. Most companies may be confused about explaining the [AI language model's decision-making processes and security measures](https://www.makeuseof.com/ai-decision-making-cybersecurity/) to their customers.
 
  Companies are restricting ChatGPT, fearing potential violations of privacy laws and industry-specific regulations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Irresponsible Use by Employees
 
@@ -102,10 +97,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
  To mitigate problems like these, companies are placing bans on the chatbot so that employees can focus on their tasks and provide error-free solutions to users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Bans: Better Safe Than Sorry
@@ -135,24 +127,19 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-connected-platforms-sharing-videos-between-twitter-and-tumblr/"><u>[New] 2024 Approved Connected Platforms Sharing Videos Between Twitter & Tumblr</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-data-driven-odyssey-of-youtubes-statistical-storytelling-2017/"><u>[New] The Data-Driven Odyssey of YouTube's Statistical Storytelling (2017)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-scrutinizing-the-benefits-of-itops-screencasting/"><u>[Updated] 2024 Approved Scrutinizing the Benefits of ITop's Screencasting</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tactics-for-increasing-campaign-efficiency-with-smart-hashtag-usage-on-fb/"><u>[Updated] 2024 Approved Tactics for Increasing Campaign Efficiency with Smart Hashtag Usage on FB</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-intelligent-viewing-syncing-youtube-with-televisions/"><u>[Updated] In 2024, Intelligent Viewing Syncing YouTube with Televisions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-tutorial-engaging-in-a-call-on-snapchat-for-2024/"><u>[Updated] Step-By-Step Tutorial Engaging in a Call on Snapchat for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-governance-principles-and-practices/"><u>AI Governance: Principles & Practices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-growth-paving-way-for-more-hacking-opportunities/"><u>AI Growth: Paving Way for More Hacking Opportunities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amazon-prime-day-exclusive-secure-unbeatable-discounts-on-tech-gear-with-a-top-rated-surge-protector/"><u>Amazon Prime Day Exclusive: Secure Unbeatable Discounts on Tech Gear with a Top-Rated Surge Protector</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ai-interactions-my-snapchat-vs-bing-in-skype/"><u>Exploring AI Interactions: My Snapchat vs Bing in Skype</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-best-ai-gpt-versus-bing-ai-and-google-bard/"><u>Exploring the Best AI: GPT Versus Bing AI and Google Bard</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/get-the-complete-toolset-for-macxdvd-secure-your-legitimate-full-version-today-complimentary/"><u>Get the Complete Toolset for MacXDVD – Secure Your Legitimate Full Version Today, Complimentary!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-and-reviews-toms-hardware-for-savvy-shoppers/"><u>In-Depth Analysis & Reviews | Tom's Hardware for Savvy Shoppers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-aid-6-ways-to-improve-home-task-execution/"><u>Intelligent Aid: 6 Ways to Improve Home Task Execution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-machine-learning-for-personalized-content/"><u>Leveraging Machine Learning for Personalized Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shield-your-talkbots-from-data-leaks/"><u>Shield Your Talkbots From Data Leaks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ai-debate-deep-dive-10-crucial-chatbot-comparisons-between-gpt-and-bingbot/"><u>The AI Debate Deep Dive: 10 Crucial Chatbot Comparisons Between GPT and BingBot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/writing-poetry-masterpieces-using-chatgpt-techniques/"><u>Writing Poetry Masterpieces Using ChatGPT Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-avoiding-storage-woes-removing-youtube-media/"><u>[New] In 2024, Avoiding Storage Woes Removing YouTube Media</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-real-time-video-sharing-and-organizing/"><u>[New] In 2024, Real-Time Video Sharing and Organizing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-kinetic-keywords-animation-mastery-for-social-media-captions-for-2024/"><u>[New] Kinetic Keywords Animation Mastery for Social Media Captions for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-game-on-the-leading-12-youtube-videographers-for-opening-tutorials-freepaid/"><u>[Updated] Game On The Leading 12 YouTube Videographers for Opening Tutorials (Free/Paid)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-crew-for-photographic-rhythm-films/"><u>[Updated] Ultimate Crew for Photographic Rhythm Films</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-pricier-prompts-merely-premium-fluff/"><u>Are Pricier Prompts Merely Premium Fluff?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bings-smart-transformation-through-artificial-intelligence/"><u>Bing's Smart Transformation Through Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-enabled-resume-writing-a-game-changer/"><u>ChatGPT-Enabled Résumé Writing: A Game-Changer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/destiny-2-troubleshooting-guide-dealing-with-centipede-glitches/"><u>Destiny 2 Troubleshooting Guide: Dealing with Centipede Glitches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-graphics-best-open-source-ai-portfolio-apps/"><u>Gratis Graphics: Best Open Source AI Portfolio Apps</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revive-your-laptops-battery-my-cost-free-fix-for-a-non-charging-macbook-pro-tech-tips/"><u>Revive Your Laptop's Battery: My Cost-Free Fix for a Non-Charging MacBook Pro | Tech Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-sentiment-can-computers-understand-love-fear/"><u>The Art of Sentiment: Can Computers Understand Love, Fear?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-health-targets-crafting-with-chatgpt-expertise/"><u>Transformative Health Targets: Crafting with ChatGPT Expertise</u></a></li>
+<li><a href="https://app-tips.techidaily.com/zdnet-exclusive-singapore-advocates-for-financial-backing-of-ai-integration-and-carbon-neutral-goals/"><u>ZDNet Exclusive: Singapore Advocates for Financial Backing of AI Integration and Carbon-Neutral Goals</u></a></li>
 </ul></div>
 

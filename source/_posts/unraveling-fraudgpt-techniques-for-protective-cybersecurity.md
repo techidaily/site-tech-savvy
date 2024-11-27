@@ -1,7 +1,7 @@
 ---
 title: "Unraveling FraudGPT: Techniques for Protective Cybersecurity"
-date: 2024-11-14T18:09:25.650Z
-updated: 2024-11-17T19:42:17.273Z
+date: 2024-11-20T16:06:51.689Z
+updated: 2024-11-27T17:01:47.853Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is FraudGPT?
 
 ![A scammer using a fishing rod to steal data from a person’s laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scammer-using-a-fishing-rod-to-steal-data.jpg)
@@ -38,16 +42,13 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
 
  To better picture the tool, you can think of FraudGPT as ChatGPT but for fraud. But how exactly does FraudGPT work, and how are cybercriminals using it?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does FraudGPT Work?
 
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
 
@@ -64,10 +65,7 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can You Protect Yourself From FraudGPT?
@@ -75,10 +73,7 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 ![worrying about red flags online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/thinking-person-using-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite being a new kind of tool, the threat posed by FraudGPT is not fundamentally different. You could say it introduces more automation and efficiency to already established methods of executing cybercrime.
@@ -95,10 +90,7 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay Informed to Protect Yourself
@@ -126,18 +118,19 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-unplugged-entertainment-essential-free-apps-for-offline-playing-for-2024/"><u>[New] Unplugged Entertainment Essential Free Apps for Offline Playing for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube-for-2024/"><u>[Updated] Break It Down Free Techniques to Go Frame by Frame on YouTube for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-leading-edge-innovations-for-your-daily-life-for-2024/"><u>[Updated] Leading Edge Innovations for Your Daily Life for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/astonishing-fact-engage-with-chatgpt/"><u>Astonishing Fact: Engage with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-innovation-and-security-ceos-case-for-ai-regulations/"><u>Balancing Innovation and Security: CEO's Case for AI Regulations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ensuring-reliable-health-insights-from-ai-platforms/"><u>Ensuring Reliable Health Insights From AI Platforms</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-asus-rog-phone-8-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Asus ROG Phone 8 Pro?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-essential-youtube-thumbnails-capture-your-top-views/"><u>In 2024, Essential YouTube Thumbnails Capture Your Top Views</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/laughter-from-logic-can-artificial-intelligence-amuse-us/"><u>Laughter From Logic: Can Artificial Intelligence Amuse Us?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-complexities-excel-versus-chatgpt-simplicity/"><u>Mastering Complexities: Excel Versus ChatGPT Simplicity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scrutinizing-codegpt-artificial-intelligence-and-programming/"><u>Scrutinizing CodeGPT: Artificial Intelligence and Programming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-strategies-to-locate-a-persons-mobile-number-online/"><u>Unveiling Strategies to Locate a Person’s Mobile Number Online</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-securely-shutting-down-your-instagram-presence-forever/"><u>[New] 2024 Approved Securely Shutting Down Your Instagram Presence Forever</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-education-how-to-keep-young-users-safe-in-5-ways/"><u>ChatGPT in Education: How to Keep Young Users Safe, In 5 Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-business-acumen-with-essential-ai-innovations/"><u>Elevate Your Business Acumen with Essential AI Innovations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-everyday-living-with-these-9-power-moves-from-chatgpt/"><u>Enhance Everyday Living with These 9 Power Moves From ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/greenhouse-gases-vs-carbon-dioxayer-unveiling-the-truth/"><u>Greenhouse Gases Vs. Carbon Dioxayer, Unveiling the Truth</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-users-guide-best-free-screen-recording-apps-a-comprehensive-list-of-the-top-12/"><u>Mac Users’ Guide: Best Free Screen Recording Apps - A Comprehensive List of the Top 12!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-visual-enhancements-mastering-the-use-of-luts-in-ae/"><u>Professional Visual Enhancements Mastering the Use of LUTs in AE</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-yourself-deceptive-chrome-extensions-posing-as-chatgpt-threaten-facebook-security/"><u>Protect Yourself: Deceptive Chrome Extensions Posing as ChatGPT Threaten Facebook Security</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-enabling-wake-on-lan-feature-on-your-pc-with-windows-1011/"><u>Step-by-Step Guide: Enabling Wake-on-LAN Feature on Your PC with Windows 10/11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-ultimate-high-def-monitor-list-top-10-picks/"><u>The Ultimate High-Def Monitor List Top 10 Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-bings-full-potential-with-ai-powered-mobile-search/"><u>Unlock Bing’s Full Potential with AI-Powered Mobile Search</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gptbot-ais-rise-and-website-restrictions/"><u>Unveiling GPTBot: AI's Rise & Website Restrictions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-top-4-ai-story-generators-for-imagination-boosters/"><u>Unveiling Top 4 AI Story Generators for Imagination Boosters</u></a></li>
 </ul></div>
 

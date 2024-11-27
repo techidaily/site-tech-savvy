@@ -1,7 +1,7 @@
 ---
 title: "The New Apple M3 MacBook Air: An In-Depth Review of the Cutting-Edge AI Computer for Everyday Use | Tech Analysis by ZDNET"
-date: 2024-11-15T18:41:23.885Z
-updated: 2024-11-17T16:14:16.168Z
+date: 2024-11-20T16:01:45.554Z
+updated: 2024-11-27T16:42:35.426Z
 tags:
   - apple
 categories:
@@ -30,15 +30,16 @@ Here's a look at what's new for the 6th generation iPad Air.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. A bigger screen option
 
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +69,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,16 +110,16 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-15-leading-gopro-cutting-software-for-2024/"><u>[Updated] 15 Leading GoPro Cutting Software for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/dive-into-iphones-audio-memos-made-simple/"><u>Dive Into iPhone's Audio Memos Made Simple</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evasive-writing-escaping-ai-generated-narratives/"><u>Evasive Writing: Escaping AI-Generated Narratives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-did-italy-execute-an-ai-based-language-model-ban/"><u>How Did Italy Execute an AI-Based Language Model Ban?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-ipad-time-lapse-filmmaking/"><u>In 2024, The Ultimate Guide to iPad Time-Lapse Filmmaking</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-x-sound-engineer-edition-pc/"><u>In 2024, X-Sound Engineer Edition - PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peak-performance-structuring-effective-ai-dialogue/"><u>Peak Performance: Structuring Effective AI Dialogue</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/strategies-to-correct-token-misreference-errors-on-win10win11/"><u>Strategies to Correct Token Misreference Errors on Win10/Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-upgrade-for-academic-inquiry/"><u>Tech Upgrade for Academic Inquiry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolving-battleground-of-digital-defenses/"><u>The Evolving Battleground of Digital Defenses</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-linking-your-pc-with-ps-vr-headset/"><u>Ultimate Guide: Linking Your PC with PS VR Headset</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-selecting-peak-pace-for-slow-video-capture/"><u>[New] Mastering the Art of Selecting Peak Pace for Slow Video Capture</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-mp4-player-you-should-know/"><u>[Updated] Best MP4 Player You Should Know</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-unleashing-virality-steps-to-skyrocket-your-instagram-content/"><u>[Updated] In 2024, Unleashing Virality Steps to Skyrocket Your Instagram Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-tools-4-writers-elevating-the-editorial-experience/"><u>AI Tools 4 Writers: Elevating the Editorial Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-mapping-the-landscape-of-openai/"><u>Comprehensive Mapping: The Landscape of OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/culinary-creativity-unlocked-7-innovative-chatgpt-tips/"><u>Culinary Creativity Unlocked: 7 Innovative ChatGPT Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-7-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-digital-expression-with-these-6-best-nft-makers/"><u>Pioneering Digital Expression with These 6 Best NFT Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pivoting-from-chatgpt-a-guide-to-superior-options/"><u>Pivoting From ChatGPT: A Guide to Superior Options</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-resolving-ring-of-elysium-stability-issues/"><u>Troubleshooting Tips for Resolving Ring of Elysium Stability Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-snapchats-my-ai-stands-out-beyond-toys-and-games/"><u>Why Snapchat’s My AI Stands Out Beyond Toys and Games</u></a></li>
 </ul></div>
 

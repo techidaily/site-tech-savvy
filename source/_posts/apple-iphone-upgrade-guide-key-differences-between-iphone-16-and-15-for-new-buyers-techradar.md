@@ -1,7 +1,7 @@
 ---
 title: "Apple iPhone Upgrade Guide: Key Differences Between iPhone 16 & 15 for New Buyers | TechRadar"
-date: 2024-11-15T19:40:41.787Z
-updated: 2024-11-17T16:59:34.196Z
+date: 2024-11-22T17:00:44.072Z
+updated: 2024-11-27T16:56:26.218Z
 tags:
   - apple
 categories:
@@ -45,16 +45,13 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -64,13 +61,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -78,13 +68,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -104,9 +87,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -115,6 +106,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -125,10 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -165,17 +157,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-pushing-the-boundaries-of-titles-in-adobe-ae/"><u>[Updated] In 2024, Pushing the Boundaries of Titles in Adobe AE</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-interactive-multiplayer-experiences-online-for-2024/"><u>[Updated] Interactive Multiplayer Experiences Online for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-onscreen-excellence-flexible-talent-access/"><u>2024 Approved Onscreen Excellence Flexible Talent Access</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-step-by-step-excellence-optimal-software-use-and-no-software-strategies-for-vimeo/"><u>2024 Approved Step-by-Step Excellence Optimal Software Use & No-Software Strategies for Vimeo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-transformed-discover-crucial-chatgpt-features-today/"><u>AI Transformed: Discover Crucial ChatGPT Features Today</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/craft-a-compelling-metaverse-presence-with-these-tools-for-2024/"><u>Craft a Compelling Metaverse Presence with These Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-the-phantom-opening-of-microsoft-shop/"><u>Fixing the Phantom Opening of Microsoft Shop</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-y100-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo Y100 Phone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/optimize-your-time-pick-the-fastest-5-chrome-addons-for-facebook-vids/"><u>Optimize Your Time Pick the Fastest 5 Chrome Addons for Facebook Vids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ordinary-challenges-which-bot-overcomes-the-rest/"><u>Ordinary Challenges: Which Bot Overcomes the Rest?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/real-vs-fake-chatgpt-tools-on-apple-devices/"><u>Real Vs. Fake ChatGPT Tools on Apple Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/true-insights-free-pc-game-guide/"><u>True Insights: Free PC Game Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-toonbox-complete-insight-for-24-year/"><u>[New] In 2024, ToonBox Complete Insight for '24 Year</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-beatbox-your-way-up-the-ultimate-guide-for-top-10-music-vids/"><u>[Updated] 2024 Approved BeatBox Your Way Up The Ultimate Guide for Top 10 Music Vids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027810880-windows-10/"><u>画面収め技術：Windows 10のビデオファイル容量変更法</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-input-latency-troubles-in-valorant-a-comprehensive-guide-for-players/"><u>Eliminating Input Latency Troubles in Valorant: A Comprehensive Guide for Players</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-fix-persistent-launch-failures-in-persona-3-reloaded-on-windowsmacos/"><u>How to Fix Persistent Launch Failures in Persona 3 Reloaded on Windows/MacOS</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-zoom-for-fb-live-broadcasts-for-2024/"><u>Mastering Zoom for FB Live Broadcasts for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-youtubes-notable-responses/"><u>Scouring YouTube's Notable Responses</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-insta-elite-blueprint-15-proven-tips-to-amass-thousands-of-followers-rapidly/"><u>The Insta Elite Blueprint 15 Proven Tips to Amass Thousands of Followers Rapidly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-vlc-video-downloads-a-step-by-step-guide/"><u>Troubleshooting VLC Video Downloads: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-effortless-ripping-of-dvds-using-top-online-ripping-tools/"><u>Ultimate Guide: Effortless Ripping of DVDs Using Top Online Ripping Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-speedy-dvd-extraction-techniques-without-compromising-quality/"><u>Ultimate Guide: Speedy DVD Extraction Techniques Without Compromising Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-the-11-leading-text-overlay-tools-for-video-editing-across-platforms/"><u>Ultimate Guide: The 11 Leading Text-Overlay Tools for Video Editing Across Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-changing-your-mp4-files-to-wmv-with-videolans-vlc-player/"><u>Ultimate Tutorial: Changing Your MP4 Files to WMV with VideoLAN's VLC Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-of-eac-3-the-ultimate-guide-to-its-key-aspects/"><u>Unlocking the Secrets of EAC-3: The Ultimate Guide to Its Key Aspects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/video-game-mode-activated-turn-any-video-playable-on-your-console-ps4-psp-ps-vita-xbox-and-more/"><u>Video Game Mode Activated: Turn Any Video Playable on Your Console - PS4, PSP, PS Vita, Xbox & More!</u></a></li>
 </ul></div>
 

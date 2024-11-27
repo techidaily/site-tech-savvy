@@ -1,7 +1,7 @@
 ---
 title: Critical Choice Criteria for an Effective Conversational Bot
-date: 2024-11-13T18:11:54.093Z
-updated: 2024-11-17T17:15:19.802Z
+date: 2024-11-23T16:28:37.465Z
+updated: 2024-11-27T16:00:15.297Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/799b62d064a45ec31383dad7a037b165e61e53db2
 * Data privacy is a concern when using chatbots like ChatGPT, so it's important to ensure the service has good privacy policies and avoids sharing personal information.
 * AI chatbots with better contextual understanding, like ChatGPT Plus, provide more detailed responses, distinguishing them from search engines.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Response Accuracy
 
  AI chatbots can sometimes fall prey to [AI Hallucination, meaning the output can be inaccurate or illogical](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). While chatbots are good at responding to basic prompts, they occasionally struggle with longer or more complex questions. It's the kind of tradeoff you expect when talking about bleeding-edge technology.
@@ -44,23 +48,9 @@ thumbnail: https://thmb.techidaily.com/799b62d064a45ec31383dad7a037b165e61e53db2
 
 ![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While many people are beginning to use AI tools, we're still in largely uncharted territory. It's hard to predict how AI will affect society and how we will deal with it. There are also concerns that chatbots like [ChatGPT represent a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/). For example, ChatGPT developer OpenAI has stated that they review your ChatGPT conversations to further its training.
 
  It is uncertain how much data they're actually collecting and what they plan to do with it in the long term. The best you can do is ensure the service you're subscribing to has good privacy policies and you're not sharing personal data or private information with any generative AI chatbot.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Contextual Understanding
 
@@ -70,26 +60,31 @@ thumbnail: https://thmb.techidaily.com/799b62d064a45ec31383dad7a037b165e61e53db2
 
  The level of contextual understanding depends on the language model and how it's trained. Again, you should try the free version to check this for yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Knowledge Base
 
 ![Laptop screen showing computer codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/laptop-screen-showing-computer-codes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Most AI chatbots are trained on a limited knowledge base. They have information cutoffs, meaning they can't access information released beyond a certain date. This is a well-known issue with ChatGPT, which is trained on data up to September 2021\.
 
  Access to the internet is an obvious fix to this problem. Microsoft's [Bing is now powered by AI](https://www.makeuseof.com/more-likely-to-use-bing-now-powered-by-ai/), meaning Bing AI Chat also has access to the web and can access relevant and updated information without any limits. [ChatGPT Plus also has this feature in the form of plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/), but you'll have to upgrade from the free version if you want to use them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Language Model
 
  The biggest difference between AI chatbots is the [type of large language model (LLM)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) they use. For example, the free version of Perplexity uses GPT-3, while the paid version gives you access to GPT-4\. The situation is similar in the case of ChatGPT. Some chatbots, such as Bard, use Google's PaLM 2 LLM, with others use Meta's Llama or one of its many variants.
 
  Currently, most AI chatbots appear to use GPT-3 or GPT-4\. [While GPT-3 is quite capable, GPT-4 is much better](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained). The latter is better at understanding longer prompts, has better contextual understanding, and is trained on a larger dataset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Multilingual Support
 
@@ -101,18 +96,15 @@ thumbnail: https://thmb.techidaily.com/799b62d064a45ec31383dad7a037b165e61e53db2
 
  Multilingual support shouldn't be an issue as AI chatbots continue to improve. However, you should still try out a potential AI chatbot to ensure its translation features are up to par.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Cost and Plans
 
  Most AI chatbots have a free version and a premium version with advanced features. For example, ChatGPT's free version works great, but upgrading to Plus gives you access to GPT-4 and plugins. Similarly, Perplexity is free, but upgrading to Perplexity Pro gives you more GPT-4 uses and access to the file upload feature.
 
  You'll have to consider carefully whether the paid AI chatbot versions are worth it. Usually, the features are great for the price, but it depends on how much use you will get out of them. Remember that the paid versions also tend to be faster than the free ones. Paying for faster responses should be a no-brainer if your workflow involves time-sensitive projects.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should You Care About Paid Chatbot Services?
 
@@ -137,16 +129,20 @@ thumbnail: https://thmb.techidaily.com/799b62d064a45ec31383dad7a037b165e61e53db2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>[New] In 2024, Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-identifying-the-most-effective-windows-snipping-apps/"><u>[Updated] Identifying the Most Effective Windows Snipping Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-editing-tools-explored/"><u>AI-Powered Editing Tools Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehending-generative-ai-an-introduction/"><u>Comprehending Generative AI: An Introduction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-have-any-security-issues/"><u>Does ChatGPT Have Any Security Issues?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-skills-using-gpt-my-bots-in-game-mastery-and-artistry/"><u>Elevate Skills: Using GPT-My Bots in Game Mastery and Artistry</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-civi-3-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/streamlining-your-remote-podcast-setup-for-2024/"><u>Streamlining Your Remote Podcast Setup for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos-for-2024/"><u>Tailored Touch-Up Top 6 Apps to Exclude Unwanted Elements From Photos for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-shrink-your-videos-down-to-110th-the-original-size-without-sacrificing-quality/"><u>Ultimate Guide: Shrink Your Videos Down to 1/10Th the Original Size Without Sacrificing Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-googles-groundbreaking-palm-2-ai-model/"><u>Understanding Google's Groundbreaking PaLM 2 AI Model</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-vidvibes-merge-android-and-ios-insta-photos/"><u>[Updated] 2024 Approved VidVibes Merge Android & iOS Insta Photos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elite-architects-pioneering-instagram-hlv-makers/"><u>[Updated] Elite Architects Pioneering Instagram HLV Makers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pushing-limits-with-4k-vision-lgs-monitor-the-31mu97-b/"><u>[Updated] Pushing Limits with 4K Vision – LG's Monitor, the 31MU97-B</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-periscope-a-comprehensive-tutorial/"><u>2024 Approved Mastering Periscope A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-enhanced-chrome-extensions-for-superior-productivity-ranked/"><u>AI-Enhanced Chrome Extensions for Superior Productivity Ranked</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-6-plus-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 6 Plus Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-language-model-divides-gpt-vs-bert-analysis/"><u>Exploring Language Model Divides: GPT Vs. BERT Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-tales-gpts-six-secrets-for-unforgettable-dungeons/"><u>From Text to Tales: GPT's Six Secrets for Unforgettable Dungeons</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-success-starts-here-discovering-top-tracking-and-analysis-apps/"><u>Instagram Success Starts Here Discovering Top Tracking and Analysis Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-video-content-script-tips-via-chatgpt/"><u>Master Your Video Content: Script Tips via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneers-perspectives-the-next-wave-in-ai/"><u>Pioneers' Perspectives: The Next Wave in AI</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-installing-a-samsung-evo-850-ssd-as-your-new-hard-drive/"><u>Step-by-Step Guide: Installing a Samsung EVO 850 SSD as Your New Hard Drive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-illusion-of-unfailing-ai-controls/"><u>The Illusion of Unfailing AI Controls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-sudden-italian-prohibition-on-chatgpt/"><u>Understanding the Sudden Italian Prohibition on ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-redmi-a2-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Redmi A2 ?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Deal Alert: Score $60 Off the Apple Watch SE - Best Buy of 2023 on ZDNet"
-date: 2024-11-10T17:34:06.196Z
-updated: 2024-11-17T16:24:08.773Z
+date: 2024-11-20T16:17:30.423Z
+updated: 2024-11-27T16:22:11.635Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ The Apple Watch SE (2nd gen) does offer some of the same health and safety featu
 During Black Friday sales, I upgraded from the Series 3 Apple Watch to the 40mm SE model, and I've never been happier with a tech purchase. The SE has all the necessary features without the complicated bells and whistles I didn't want (or need) -- yet it still offers a crisp display, fast response rate, and seamless use. It's perfect for tracking my workouts and walks, and for quickly answering texts, emails, and more. 
 
 Grab the [Apple Watch SE (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-2nd-Gen-GPS-40mm-Starlight-Aluminum-Case-Sport-Band-S-M-Fitness-Sleep-Tracker-Crash-Detection-Heart-Rate-Monitor%2F5033741510%3F&subId1=zd-__COM_CLICK_ID__-dtp) now and upgrade your or a loved one's smartwatch setup this summer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -85,26 +89,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-crafting-the-perfect-aesthetic-with-controlled-lighting-for-2024/"><u>[New] Crafting the Perfect Aesthetic with Controlled Lighting for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-delving-into-historical-masterpieces-without-copyrights/"><u>[Updated] Delving Into Historical Masterpieces without Copyrights</u></a></li>
-<li><a href="https://win-hot.techidaily.com/4-essential-tips-for-recording-your-omegle-video-conversations/"><u>4 Essential Tips for Recording Your Omegle Video Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-content-blindness-an-escalating-hurdle/"><u>AI's Content Blindness: An Escalating Hurdle</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/downloading-and-setting-up-lenovo-x1-carbon-drive-utilities-for-windows-10/"><u>Downloading and Setting Up Lenovo X1 Carbon Drive Utilities for Windows 10 /</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-remote-work-discussions-using-ai/"><u>Elevating Remote Work Discussions Using AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/examining-the-safety-of-gpt-web-extensions/"><u>Examining the Safety of GPT Web Extensions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/expert-tips-on-finding-optimal-free-srt-translator-services-for-2024/"><u>Expert Tips on Finding Optimal Free SRT Translator Services for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-frostbite-to-neural-networks-how-ms-and-bz-transform-gaming-and-ai-talk-show-episode/"><u>From Frostbite to Neural Networks: How MS and BZ Transform Gaming & AI [Talk Show Episode]</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-effortless-music-playlist-creation-for-youtube-anywhere-webmobile/"><u>In 2024, Effortless Music Playlist Creation for YouTube, Anywhere (Web/Mobile)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-11-proipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 11 Pro/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-efficiency-the-ultimate-5-app-list-for-windows-11-users/"><u>Maximize Efficiency: The Ultimate 5 App List for Windows 11 Users</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-v30-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-of-ai-content-detection-via-gptzero/"><u>Unveiling the Secrets of AI Content Detection via GPTZero</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-cheat-sheet-mastering-googles-voice-transcription-tool/"><u>[Updated] The Complete Cheat Sheet Mastering Google's Voice Transcription Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-geoffrey-scotts-visionary-photography-on-the-movavi-platform/"><u>Discover Geoffrey Scott's Visionary Photography on the Movavi Platform</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-aspects-to-assess-before-investing-in-a-new-fitness-tracker/"><u>Essential Aspects to Assess Before Investing in a New Fitness Tracker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-web-converter-change-ogg-files-into-high-quality-flac-format-with-movavi/"><u>Free Web Converter: Change OGG Files Into High-Quality FLAC Format with Movavi</u></a></li>
+<li><a href="https://fox-search.techidaily.com/frei-verfugbare-software-zur-besten-datensynchronisation-externer-hdds-und-ssds/"><u>Frei Verfügbare Software Zur Besten Datensynchronisation Externer HDDs Und SSDs</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/gptssd/"><u>GPT硬盘数据转移指南：从大型到小型SSD最佳方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-omzetten-van-wav-naar-aiff-online-movavi-als-sollicitatiepunt/"><u>Gratis Omzetten Van WAV Naar AIFF Online - Movavi Als Sollicitatiepunt</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-tecno-pop-8-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Tecno Pop 8 FRP</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-gt-3-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme GT 3 to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lava-yuva-3-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lava Yuva 3 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-data-recovery-recover-lost-data-from-infinix-by-fonelab-android-recover-data/"><u>Infinix Data Recovery – recover lost data from Infinix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m4a-wmv-cs-0-mbps/"><u>M4A WMV 자바스크 전환 - 원활한 인터넷 코드cs용 무게 0 Mbps 회전</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-m4v-mna/"><u>Movavi로 M4V, MnA 음성 및 화면 비디오 제공하는 무세를 지울 수 있는 계속서기 - 온라인</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opgeluchtende-online-omzetter-ogg-naar-mpeg-professioneel-zorgt-movavi-voor-gratis-converting/"><u>Opgeluchtende Online Omzetter OGG Naar MPEG - Professioneel Zorgt Movavi Voor Gratis Converting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-video-editing-apps-para-enaltecer-suas-producoes-no-youtube/"><u>Top Video Editing Apps Para Enaltecer Suas Produções No Youtube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-mp4-videos-into-mpg-files-without-cost-using-movavis-web-service/"><u>Transform Your MP4 Videos Into MPG Files Without Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-to-restoring-vibrant-colors-on-your-windows-1011-display/"><u>Ultimate Guide to Restoring Vibrant Colors on Your Windows 10/11 Display</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004869417-unlock-dayz-drop-secrets-score-more-weapons-quickly/"><u>Unlock DayZ Drop Secrets: Score More Weapons Quickly!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avi-to-webm/"><u>무료 온라인 AVI to WEBM 전환 도구 사용하기 – 모바비</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

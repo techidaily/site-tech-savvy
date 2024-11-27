@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Safety: The New Non-AI Emergency Message Feature on Your iPhone with iOS 18"
-date: 2024-11-15T16:29:17.613Z
-updated: 2024-11-17T18:30:38.997Z
+date: 2024-11-22T16:10:45.031Z
+updated: 2024-11-27T16:43:49.412Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ While this move towards a [more integrated software environment](https://www.zdn
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Observations of the new S2 UX
 
 The new Sonos S2 controller app for iPadOS.
@@ -57,10 +61,7 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -76,10 +77,7 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -101,10 +99,7 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -122,16 +117,7 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -172,24 +158,18 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-effortless-large-file-sharing-iphone-to-mac-streamlined-guide/"><u>[New] 2024 Approved Effortless Large File Sharing IPhone to Mac Streamlined Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-guide-to-converting-youtubes-into-vivid-gifs-no-save/"><u>[New] In 2024, The Ultimate Guide to Converting YouTubes Into Vivid GIFs (No Save)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-gb-recorder-for-games-on-fbx/"><u>[New] Innovative GB Recorder for Games on FBX</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-exclusive-list-of-leading-free-video-editing-programs/"><u>[Updated] In 2024, Exclusive List of Leading Free Video Editing Programs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-irecorder-unleashed-a-review-revealed/"><u>[Updated] In 2024, IRecorder Unleashed A Review Revealed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-complete-reference-to-display-recording-methods/"><u>2024 Approved The Complete Reference to Display Recording Methods</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728497260402-excel/"><u>擔心打不開Excel檔案？以下是進一步分析和修復方法！</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-and-mac/"><u>最高の無料アプリ：Windows & Macで簡単にラジオ番組を録音！</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/facesave-quickly-grab-facebook-media/"><u>FaceSave Quickly Grab Facebook Media</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-xs-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone XS to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-mac-os-video-editor-turn-photos-into-beautiful-slideshows/"><u>In 2024, Mac OS Video Editor Turn Photos Into Beautiful Slideshows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-selection-top-10-mvps-of-media-player-software-compatible-with-all-gadgets/"><u>The Ultimate Selection: Top 10 MVPs of Media Player Software Compatible with All Gadgets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-tutorial-on-securely-saving-cnns-live-coverage-without-cost-using-web-tools-and-applications/"><u>The Ultimate Tutorial on Securely Saving CNN's Live Coverage Without Cost Using Web Tools & Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-techniques-for-optimizing-asf-to-wav-file-conversions/"><u>Top Techniques for Optimizing ASF to WAV File Conversions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-adding-captions-on-videos-with-imovie-and-other-options/"><u>Ultimate Guide to Adding Captions on Videos with iMovie & Other Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-mastering-m4r-file-editors-boost-your-audio-workflow/"><u>Ultimate Guide to Mastering M4R File Editors: Boost Your Audio Workflow</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-tutorial-how-to-load-media-into-freevideo-converter-factory-software-for-easy-editing/"><u>Ultimate Tutorial: How to Load Media Into FREEVIDEO CONVERTER FACTORY Software for Easy Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-surround-sound-technologies-understanding-the-distinctions-between-dts-and-dolby-digital-plus-a-guide-to-seamless-format-transformation/"><u>Unraveling Surround Sound Technologies: Understanding the Distinctions Between DTS & Dolby Digital, Plus a Guide to Seamless Format Transformation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-10rmrm/"><u>Windows 10でのRM(.rm)ファイル再生手順</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-staying-informed-recent-facebook-alterations/"><u>[New] 2024 Approved Staying Informed Recent Facebook Alterations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-jaunt-vr-journey-explained/"><u>[New] The Jaunt VR Journey Explained</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-fundamentals-of-fiction-fabrication/"><u>[Updated] Fundamentals of Fiction Fabrication</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-peak-performance-packages-best-converters-for-srt-systems-on-macwin/"><u>[Updated] Peak Performance Packages Best Converters for SRT Systems on Mac/Win</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-demand-high-still-available-but-brace-for-possible-shipping-setbacks/"><u>Apple Vision Pro Demand High: Still Available - But Brace For Possible Shipping Setbacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-visual-mastery-navigating-through-imagery-with-ease/"><u>ChatGPT Visual Mastery: Navigating Through Imagery with Ease</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/macbook-air-with-apple-m1-chip-at-unbeatable-649-top-deal-on-zdnet/"><u>MacBook Air with Apple M1 Chip at Unbeatable $649: Top Deal on ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-the-most-of-your-tech-how-to-set-up-dual-monitor-support-on-the-latest-m3-macbook-pro-blog/"><u>Making the Most of Your Tech: How to Set Up Dual Monitor Support on the Latest M3 MacBook Pro Blog</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-why-todays-teachers-must-adapt/"><u>Mastering AI: Why Today's Teachers Must Adapt</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-honor-x50-gt-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Honor X50 GT Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-affordable-tablets-comprehensive-reviews-by-industry-experts-techradar/"><u>Top Affordable Tablets : Comprehensive Reviews by Industry Experts | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-new-potential-in-content-generation-on-iphone-14-using-ios-18-exclusive-tips-from-zdnet/"><u>Unlocking New Potential in Content Generation on iPhone 14 Using iOS 18 - Exclusive Tips From ZDNet</u></a></li>
 </ul></div>
 

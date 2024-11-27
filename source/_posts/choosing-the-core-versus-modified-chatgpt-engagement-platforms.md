@@ -1,7 +1,7 @@
 ---
 title: Choosing the Core versus Modified ChatGPT Engagement Platforms
-date: 2024-11-10T19:18:42.803Z
-updated: 2024-11-17T19:12:36.796Z
+date: 2024-11-25T16:11:23.584Z
+updated: 2024-11-27T16:53:13.913Z
 tags:
   - chatgpt
   - open-ai
@@ -55,28 +55,12 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  But which of them should you use and when? What unique features do they offer?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. ChatGPT Running Default GPT-3.5
 
 ![ChatGPT running on the default GPT-3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-on-the-default-gpt-3-5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  GPT-3.5 is the default version used by both free and paid-tier ChatGPT users. It can do most of what you'd expect in any version of ChatGPT. This variant, solely powered by the GPT-3.5 turbo model, is the base version of ChatGPT and has the least capabilities of all the available models.
@@ -98,10 +82,7 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 ![ChatGPT with web browising powered by Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-with-web-browising-powered-by-bing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT with web browsing inherits all the abilities of the default GPT-4 version with the additional ability to access the internet. With this version, you can access and use data anywhere on the internet in real time, giving you access to information beyond ChatGPT's knowledge base. This allows ChatGPT to significantly expand the number of topics it can handle, far beyond the limits of its training data.
@@ -110,20 +91,25 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  In July 2023, due to abuse, OpenAI temporarily disabled the browsing feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. ChatGPT Running GPT-4 with Plugins
 
 ![ChatGPT running GPT-4 plus plugins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-gpt-4-plus-plugins.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT with plugins is probably the most versatile version of ChatGPT. Exclusively available to ChatGPT Plus users, this variant of ChatGPT significantly extends ChatGPT's abilities beyond what it was originally designed to handle. For instance, while regular ChatGPT can not interface with a PDF file or, say, create flowcharts, ChatGPT with plugins can do so effectively as long as you pick the right plugin for the task.
 
  From everything like [using ChatGPT to chat with a PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) to creating memes, you'll find a host of ChatGPT Plugins on the plugin store that does much of what you want to achieve. The list of available plugins is actively growing, and with it, the list of new things you can achieve with this version of ChatGPT. Here are some of [the best ChatGPT plugins you can try right now](https://www.makeuseof.com/best-chatgpt-plugins/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which ChatGPT Version Is the Best?
 
@@ -152,16 +138,22 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-rise-on-youtube-initiating-your-chanel-and-earning-pathway/"><u>[Updated] 2024 Approved Rise on YouTube Initiating Your Chanel & Earning Pathway</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iuoajomgupluse5geobquocteodsplusodlplusodqpluswhpueqhjog5zplus65pys44gl44kj5ael44kb44kl5zgo5roi5pww5asj5oplusb44gu44og44kv44ol44od44kv44ks44kk44oj44cnig/"><u>「頻繁なサンプル処理: 基本から始める周波数変換のテクニックガイド」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mkv3/"><u>完全無損失でMKVを切り分ける3方法：高画質維持のコツ</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862801326-experience-next-gen-gaming-with-the-dough-spectrum-black-oled-monitor-review-elite-accuracy-meets-superior-quality-performance/"><u>Experience Next-Gen Gaming with the Dough Spectrum Black OLED Monitor Review: Elite Accuracy Meets Superior Quality Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/frozen-ground-ripped-apart-from-prey-to-predator-unleashed/"><u>Frozen Ground Ripped Apart: From Prey to Predator Unleashed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-download-audiocasts-without-paying-tips-for-extracting-sound-from-social-media-clips/"><u>How to Download Audiocasts without Paying: Tips for Extracting Sound From Social Media Clips</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-hustle-smart-listen-hard-top-tasks-for-podcast-enthusiasts/"><u>In 2024, Hustle Smart, Listen Hard Top Tasks for Podcast Enthusiasts</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/innovating-your-image-tips-for-crafting-irresistible-youtube-live-graphics/"><u>Innovating Your Image Tips for Crafting Irresistible YouTube Live Graphics</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-vlc-dvd-ripping-expert-reviews-easy-instructions-and-best-substitutes/"><u>Mastering VLC DVD Ripping: Expert Reviews, Easy Instructions & Best Substitutes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/redefining-visual-standards-hdr-vs-standard-sdr/"><u>Redefining Visual Standards HDR Vs. Standard SDR</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tomtom-actioncam-2023-for-adventure-seekers/"><u>TomTom ActionCam 2023 for Adventure Seekers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-fix-confirmed-shorts-are-showing-up/"><u>[New] 2024 Approved Fix Confirmed Shorts Are Showing Up</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-x100-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo X100 Activity | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boosting-frame-rates-und-seamless-transitions-mit-ai-interpolation/"><u>Boosting Frame Rates Und Seamless Transitions Mit AI-Interpolation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conceptual-canvas-the-freshest-visual-suggestions-with-dall-e-3/"><u>Conceptual Canvas: The Freshest Visual Suggestions with DALL-E 3</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/esteemed-creators-best-of-breed-insta-hlv-makers/"><u>Esteemed Creators Best-of-Breed Insta HLV Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-newest-browser-capabilities-in-gpt-beta/"><u>Exploring the Newest Browser Capabilities in GPT Beta</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-empower-your-windows-based-chatgpt/"><u>How to Empower Your Windows-Based ChatGPT</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/introduction-to-chromium-on-the-latest-windows-11-os/"><u>Introduction to Chromium on the Latest Windows 11 OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/kickstart-your-video-enhancement-game-with-snapchat-for-2024/"><u>Kickstart Your Video Enhancement Game with Snapchat for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/my-loyalty-with-apple-watch-series-n-why-im-skipping-series-10-and-staying-content-with-what-i-have-exclusive/"><u>My Loyalty with Apple Watch Series N | Why I'm Skipping Series 10 and Staying Content With What I Have Exclusive</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolution-guide-fixing-issues-with-non-launching-steam-titles-on-windows-10/"><u>Resolution Guide: Fixing Issues with Non-Launching Steam Titles on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safe-mental-support-mastering-gpt-4-in-therapy/"><u>Safe Mental Support: Mastering GPT-4 in Therapy</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oneplus-12r-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with OnePlus 12R Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swift-remedy-kit-tackling-chatgpt-sign-in-issues/"><u>Swift Remedy Kit: Tackling ChatGPT Sign-In Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesize-ideas-into-presentations-using-chatgpts-ai-skills/"><u>Synthesize Ideas Into Presentations Using ChatGPT's AI Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-gpts-latest-web-and-plugin-upgrades/"><u>Unlocking GPT's Latest Web & Plugin Upgrades</u></a></li>
 </ul></div>
 

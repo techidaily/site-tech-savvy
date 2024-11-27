@@ -1,7 +1,7 @@
 ---
 title: "Tailored AI by NVIDIA: How It Works & Who Benefits"
-date: 2024-11-10T19:32:09.202Z
-updated: 2024-11-17T18:07:30.848Z
+date: 2024-11-21T16:26:55.578Z
+updated: 2024-11-27T17:00:52.965Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
  NVIDIA AI Foundations is available in three models: NeMo, Picasso, and BioNeMo.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NVIDIA NeMo
@@ -65,22 +62,13 @@ Image Credit: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-large-la
 
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## NVIDIA BioNeMo
 
 ![nvidia-bionemo-cloud-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-bionemo-cloud-services.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d)
 
@@ -88,15 +76,16 @@ Image Credit: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-l
 
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize [the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Who Can Use NVIDIA AI Foundations?
 
 ![NVIDIA AI Foundations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)
@@ -106,10 +95,7 @@ Image Credit: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generati
  So far, a few companies like Getty Images, Adobe, and Shutterstock have partnered with NVIDIA to develop text-to-image or video AI models. Similarly, more than a dozen big companies, including Deloitte and Morningstar, have already implemented NVIDIA's AI language models into their business operations. Biotech companies like Amgen and Insilico Medicine are also using NVIDIA's BioNeMo to develop drugs.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NVIDIA'S AI Foundation is a Game Changer
@@ -137,22 +123,24 @@ Image Credit: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-protect-privacy-with-these-critical-face-cropping-options/"><u>2024 Approved Protect Privacy with These Critical Face Cropping Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-babbage-pioneering-ai-assessment-in-the-new-era/"><u>Beyond Babbage: Pioneering AI Assessment in the New Era</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-pros-evolution-how-it-measures-up-against-gptplus/"><u>Claude Pro's Evolution: How It Measures Up Against GPT+</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-the-best-free-youtube-video-editors-for-ios-for-2024/"><u>Exploring the Best Free YouTube Video Editors for iOS for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/going-beyond-boundaries-streaming-mastery-on-facebook/"><u>Going Beyond Boundaries Streaming Mastery on Facebook</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-achieve-professional-level-youtube-transcription-without-spending/"><u>In 2024, Achieve Professional-Level YouTube Transcription Without Spending</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-fastest-rising-youtube-influencers-you-cant-miss/"><u>In 2024, The Fastest Rising YouTube Influencers You Can't Miss</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-untapped-potentials-in-chatgpt-for-better-talks/"><u>Leveraging Untapped Potentials in ChatGPT for Better Talks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mapping-ais-emergence-in-modern-times/"><u>Mapping AI's Emergence in Modern Times</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-with-ease/"><u>Navigating ChatGPT with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-more-payments-for-gpt-4-but-remember-plus-continues-to-innovate-with-6-key-features/"><u>No More Payments for GPT-4: But Remember Plus Continues to Innovate with 6 Key Features</u></a></li>
-<li><a href="https://win11.techidaily.com/re-activate-your-pc-addressing-error-code-22-in-windows-11/"><u>Re-Activate Your PC: Addressing Error Code 22 in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/scripting-success-gpt-in-podcast-making/"><u>Scripting Success: GPT in Podcast Making</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sonos-era-300-analysis-nearly-flawless-smart-audio-device-a-single-major-downside/"><u>Sonos Era 300 Analysis: Nearly Flawless Smart Audio Device - A Single Major Downside</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/stay-cool-under-pressure-with-the-havit-5-adjustable-fan-laptop-cooler-reviewed-here/"><u>Stay Cool Under Pressure with The HAVIT 5 Adjustable Fan Laptop Cooler Reviewed Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/steer-clear-of-data-mining-with-chatgpt-exit/"><u>Steer Clear of Data Mining with ChatGPT Exit</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlock-the-secrets-of-instagrams-latest-filters/"><u>[New] 2024 Approved Unlock the Secrets of Instagram's Latest Filters</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-mac-from-live-classroom-to-recorded-session/"><u>[New] Mastering Mac From Live Classroom to Recorded Session</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-get-creative-a-comprehensive-guide-to-the-best-free-slideshow-patterns/"><u>[Updated] Get Creative A Comprehensive Guide to the Best Free Slideshow Patterns</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-crafting-captivating-online-titles-simplified/"><u>2024 Approved Crafting Captivating Online Titles Simplified</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comparing-windows-11-version-history-with-free-aomei-backupper-software/"><u>Comparing Windows 11 Version History with Free AOMEI Backupper Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuita-de-archivos-mp4-a-formato-aac-online-con-herramientas-profesionales-movavi/"><u>Conversión Gratuita De Archivos MP4 a Formato AAC Online Con Herramientas Profesionales - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-aifc-to-mp4-for-free-with-movavis-online-file-converter/"><u>Convert .AIFC to MP4 for Free with Movavi's Online File Converter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echo-vocal-logging-device-iphone-model-2024/"><u>Echo Vocal Logging Device, iPhone Model 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/fixing-boot-errors-in-windows-10-post-cloning-a-comprehensive-solution/"><u>Fixing Boot Errors in Windows 10 Post-Cloning – A Comprehensive Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-tod-to-mp4-in-minutes-moveavi/"><u>Free Online Converter: Tod to MP4 in Minutes - Moveavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-transforming-flv-videos-into-wmv-format-with-ease/"><u>Free Online Converter: Transforming FLV Videos Into WMV Format with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-rendern-van-rw2-naar-jpeg-online-movavi-converter/"><u>Gratuit Rendern Van RW2 Naar JPEG Online - Movavi Converter</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instaharmony-androidplusios-photo-video-alchemy/"><u>InstaHarmony Android+iOS Photo-Video Alchemy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavis-free-web-based-convertor-para-m4a-en-formato-mkv/"><u>Movavi's FREE Web-Based Convertor Para M4A en Formato MKV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavimp3m2ts/"><u>Movaviのサポートを借りて、フリーオンラインでMP3からM2TSへ容易に変換！</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-convert-your-flv-videos-to-lossless-flac-audio-streaming-no-cost/"><u>Seamlessly Convert Your FLV Videos to Lossless FLAC Audio Streaming - No Cost!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-poco-c65-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Poco C65 Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transcodificar-de-mpeg-a-mp3-online-gratis-y-rapido-con-convertidor-profesional/"><u>Transcodificar De MPEG a MP3 Online Gratis Y Rápido Con Convertidor Profesional</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/urgent-my-videos-halted-is-it-fair-for-2024/"><u>Urgent My Videos Halted - Is It Fair for 2024</u></a></li>
 </ul></div>
 

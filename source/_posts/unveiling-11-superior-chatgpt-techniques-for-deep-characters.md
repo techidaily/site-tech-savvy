@@ -1,7 +1,7 @@
 ---
 title: Unveiling 11 Superior ChatGPT Techniques for Deep Characters
-date: 2024-11-11T19:45:16.070Z
-updated: 2024-11-17T16:11:27.079Z
+date: 2024-11-22T16:29:59.403Z
+updated: 2024-11-27T16:13:45.398Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. I Need a Name for My Character
 
 ![Character Name Results From ChatGPT Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/character-name-results-from-chatgpt-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use this prompt as is, but adding details will make the results more precise. Provide your character’s gender, occupation, key personality traits, and what their name should sound like.
 
@@ -38,9 +46,17 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
  Among the many [ways ChatGPT can help write a novel](https://www.makeuseof.com/use-chatgpt-to-write-novel/), naming characters is a huge asset that saves you a lot of brainstorming time and makes the creative process more fun.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. What Would My Character Look Like if…?
 
 ![Results for Character Description on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/results-for-character-description-on-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Say your story’s set in a particular time period and your protagonist originates from a country you’re unfamiliar with. ChatGPT can tell you what your character’s likeliest physical characteristics will be.
 
@@ -56,31 +72,11 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
 ![Prompt About Clothing on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/prompt-about-clothing-on-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Have you ever been stuck trying to name parts of medieval armor or outfits? With ChatGPT, the struggle is over.
 
  You do need to specify what clothing you’re curious about, but the chatbot will understand from the simplest terms.
 
  That said, expanding the prompt with extra info about the historical or cultural context you’re interested in can yield greater insight for your character development and world-building.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. What Style of Clothing Would People Wear in This Environment?
 
@@ -91,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
  On that point, fashion is integral in describing your fictional society, as well as your characters. If you’re having trouble visualizing this aspect of your book, OpenAI’s databases are a great source of insights.
 
  Just give ChatGPT some key details about the real or made-up setting, such as its climate and dangers, and ask what people would wear in it. You’ll get a list of tips on how to dress your characters for the occasion.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. What Language Would My Character Speak if…?
 
@@ -121,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
 ![Feedback From ChatGPT About Book Dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/feedback-from-chatgpt-about-book-dialogue.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can [use AI responsibly as a writer and editor](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) in many ways, from finding plagiarized text to building a website. So, getting constructive feedback on your writing from ChatGPT is hardly a surprise.
 
  Its computerized brain has learned from a massive collection of fiction and non-fiction materials. If you paste in part of your writing, like a dialogue or action sequence, and ask for ChatGPT’s opinion, the response can be very helpful.
@@ -128,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
  If you use the prompt above, you’ll typically get a list of what happens in the scene and a simple assessment of its flow and coherence.
 
  You can then ask the chatbot additional questions about how to improve the scene, what would make a character’s specific action more realistic, and more. ChatGPT will offer solutions to the best of its abilities.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. What Can You Tell About My Character From This Scene?
 
@@ -150,27 +136,17 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
 ![Quirk Request From ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirk-request-from-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Every important member of your book’s cast must have a special trait that makes them more intriguing. You can take an existing conversation with ChatGPT in this direction for some great ideas or describe your character in a new chat and ask for a quirk.
 
  Drawing from the character information you feed it, the algorithm will produce one or as many quirks as you like that make sense and add depth to this aspect of your story.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. What Would Make a Good Start, Climax, or Ending for My Character?
 
 ![Character Development Ending Suggestion From ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/character-development-ending-suggestion-from-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT can also generate ideas for your character’s journey. But remember that the AI learned from existing stories, so you’ll come across familiar plots and tropes. Unique ideas aren’t this chatbot’s forte.
 
@@ -179,15 +155,16 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
  The response will be detailed, insightful, and the potential start of a more productive brainstorming session. This is why [ChatGPT and DALL-E are used in D&D character creation](https://www.makeuseof.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/) so much.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Summarize My Character’s Development So Far
 
 ![ChatGPT Prompt Asking for Character Summary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-prompt-asking-for-character-summary.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here’s a final prompt that works best after a long exchange with ChatGPT. The discussion should clearly indicate what ideas you’re keeping for your character’s story and what you’re rejecting.
 
@@ -218,20 +195,20 @@ thumbnail: https://thmb.techidaily.com/61e5e75a143019f7f7c8689be3de97fce55d395ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-step-by-step-path-turning-gifs-into-stickers-across-social-media-messaging-for-2024/"><u>[New] Step-by-Step Path Turning GIFs Into Stickers Across Social Media Messaging for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-iphone-photo-burst-how-to-take-burst-images/"><u>[Updated] IPhone Photo Burst How to Take Burst Images</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-zoom-for-beginners-essential-webinar-skills-unveiled-for-2024/"><u>[Updated] Zoom for Beginners Essential Webinar Skills Unveiled for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-poco-c50-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/amd-zen-amo-upgraded-ayaneo-am01-the-new-minimalist-macintosh-inspired-pc/"><u>AMD Zen Amo Upgraded Ayaneo AM01: The New Minimalist Macintosh-Inspired PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-on-guard-protecting-privacy-against-3-main-risks/"><u>Chatbots on Guard: Protecting Privacy Against 3 Main Risks</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/crescendo-of-comprehension-musical-techniques-for-learning-languages/"><u>Crescendo of Comprehension: Musical Techniques for Learning Languages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/five-easy-steps-to-enhance-freelancing-with-chatgpt/"><u>Five Easy Steps to Enhance Freelancing with ChatGPT</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-s17e-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo S17e Is Unlocked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-link-distribution-in-ai-dialogue-exchange/"><u>Mastering Link Distribution in AI Dialogue Exchange</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/skeptics-playlist-free-pc-games-reviewed/"><u>Skeptic's Playlist: Free PC Games Reviewed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-honor-100-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Honor 100 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-linguistics-at-your-fingertips-with-palm-2/"><u>The Future of Linguistics at Your Fingertips with PaLM 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-unique-excel-skills-no-chatgpt-has/"><u>The Unique Excel Skills No ChatGPT Has</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tracking-chatgpts-health-today/"><u>Tracking ChatGPT's Health Today</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ken-burns-effect-techniques-for-camtasia-users-for-2024/"><u>[New] Ken Burns Effect Techniques for Camtasia Users for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ech-savvy-tips-for-downloading-youtube-playlists-fast/"><u>[New] Tech-Savvy Tips for Downloading YouTube Playlists Fast</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fix-slowly-loading-youtube-content-on-mobile/"><u>[Updated] In 2024, Fix Slowly Loading YouTube Content on Mobile</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-time-lapse-101-minimizing-wait-times/"><u>2024 Approved IPhone Time Lapse 101 Minimizing Wait Times</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dtstomp4-movavi/"><u>無料で利用可能なDTStoMP4変換サービス – Movaviのショートカット</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-realizar-corte-de-video-mediante-vlc-tutoria-profesional-y-actualizada-para-el-ano-2n24/"><u>Cómo Realizar Corte De Video Mediante VLC: Tutoría Profesional Y Actualizada Para El Año 2N24</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/complete-guide-seamlessly-moving-android-contacts-to-your-new-iphone/"><u>Complete Guide: Seamlessly Moving Android Contacts to Your New iPhone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/crafting-captivating-content-with-youtube-music-in-video-production-for-2024/"><u>Crafting Captivating Content with YouTube Music in Video Production for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-techniques-to-take-photos-of-your-screen-on-all-laptops-with-movavi-instructions/"><u>Effortless Techniques to Take Photos of Your Screen on All Laptops with Movavi Instructions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-meizu-21-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/install-windows-movie-lab-for-creative-windows-11-users-for-2024/"><u>Install Windows Movie Lab for Creative Windows 11 Users for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-13-optimal-video-recording-tools-compatible-with-all-gadgets-explore-movavi/"><u>Top 13 Optimal Video Recording Tools Compatible with All Gadgets - Explore Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-movies-into-wmv-files-using-top-tips-for-costless-conversion-or-quick-online-tools/"><u>Transform Your Movies Into WMV Files Using Top Tips for Costless Conversion or Quick Online Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforma-video-sin-costo-convertir-mp4-a-mxf-por-internet-utilizando-el-servicio-de-movavi/"><u>Transforma Video Sin Costo: Convertir MP4 a MXF Por Internet Utilizando El Servicio De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformez-vos-fichiers-audio-wav-en-format-aac-gratuitement-sur-movavi-guide-complet-et-efficace/"><u>Transformez Vos Fichiers Audio WAV en Format AAC Gratuitement Sur Movavi – Guide Complet Et Efficace</u></a></li>
 </ul></div>
 

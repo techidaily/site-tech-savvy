@@ -1,7 +1,7 @@
 ---
 title: No Emoji Tweets, Linus's Disclosures, Trojans Explained, & ChatGPT Faults Displayed.
-date: 2024-11-14T17:14:37.572Z
-updated: 2024-11-17T16:02:57.329Z
+date: 2024-11-21T16:02:48.169Z
+updated: 2024-11-27T16:11:32.587Z
 tags:
   - chatgpt
   - open-ai
@@ -28,35 +28,8 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## Shownotes
-
- This week, we chat about the following tech news that matters:
-
-* [Twitter Removing Legacy Verified Blue Checks](https://www.makeuseof.com/twitter-start-removing-legacy-verified-checkmarks/)
-* [Linus Tech Tips YouTube Channel Hacked, Promotes Crypto Scams](https://www.makeuseof.com/linus-tech-tips-youtube-hacked-to-promote-crypto-scams/)
-* [Amazon Expands Fire TV Lineup](https://www.makeuseof.com/amazon-expands-fire-tv-lineup/)
-
- We've got these tips and explainers:
-
-* [The Biggest Problems With OpenAI and ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/)
-* [Can Trojans Replicate Themselves?](https://www.makeuseof.com/can-trojans-replicate-themselves/)
-
- We finish the show with the following recommendations:
-
-* [Dockcase Explorer Edition](https://www.makeuseof.com/review-dockcase-explorer-edition-smart-usbc-hub/)
-* [Sim Racing Cheaters](https://youtu.be/rP%5FXkeF1DbU)
-
- Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -84,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -115,10 +85,35 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Shownotes
+
+ This week, we chat about the following tech news that matters:
+
+* [Twitter Removing Legacy Verified Blue Checks](https://www.makeuseof.com/twitter-start-removing-legacy-verified-checkmarks/)
+* [Linus Tech Tips YouTube Channel Hacked, Promotes Crypto Scams](https://www.makeuseof.com/linus-tech-tips-youtube-hacked-to-promote-crypto-scams/)
+* [Amazon Expands Fire TV Lineup](https://www.makeuseof.com/amazon-expands-fire-tv-lineup/)
+
+ We've got these tips and explainers:
+
+* [The Biggest Problems With OpenAI and ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/)
+* [Can Trojans Replicate Themselves?](https://www.makeuseof.com/can-trojans-replicate-themselves/)
+
+ We finish the show with the following recommendations:
+
+* [Dockcase Explorer Edition](https://www.makeuseof.com/review-dockcase-explorer-edition-smart-usbc-hub/)
+* [Sim Racing Cheaters](https://youtu.be/rP%5FXkeF1DbU)
+
+ Christian Cawley and Gavin Phillips host this podcast. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@gavinspavin](https://twitter.com/gavinspavin), with your suggestions for future topics.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -156,20 +151,19 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-premier-mac-mkv-solvers-list/"><u>[New] In 2024, Premier Mac MKV Solvers List</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-art-of-timelapses-recording-techniques-for-ipads-for-2024/"><u>[New] The Art of Timelapses Recording Techniques for iPads for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-top-selections-top-6-fb-lite-extractors-for-2024/"><u>[New] Top Selections #Top 6 FB Lite Extractors for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-xbox-live-breakdown-top-four-strategies-to-record-gameplay-for-2024/"><u>[New] Xbox Live Breakdown Top Four Strategies to Record Gameplay for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elevate-vfx-on-tiktok-videos-for-2024/"><u>[Updated] Elevate VFX on TikTok Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-google-bard-which-is-better/"><u>ChatGPT Vs. Google Bard: Which Is Better?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-dilemmas-navigating-through-3-chatbot-security-risks/"><u>Digital Dilemmas: Navigating Through 3 Chatbot Security Risks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harness-the-power-of-automated-content-crafting/"><u>Harness the Power of Automated Content Crafting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-access-chatgpt-from-anywhere-using-chatgpt-everywhere/"><u>How to Access ChatGPT From Anywhere Using ChatGPT Everywhere</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/icebergs-afloat-earths-fare-takes-another-shot/"><u>Icebergs Afloat, Earth's Fare Takes Another Shot</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-x9a-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor X9a to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/instant-access-to-startechs-latest-usb-graphics-adapter-drivers/"><u>Instant Access to StarTech's Latest USB Graphics Adapter Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailored-guidance-in-gpt-3-a-closer-look/"><u>Tailored Guidance in GPT-3: A Closer Look</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/uncovering-inexpensive-deals-for-your-gopro-camera/"><u>Uncovering Inexpensive Deals for Your GoPro Camera</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-ipad-video-editing-top-5-editors/"><u>Updated The Ultimate Guide to iPad Video Editing Top 5 Editors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-critical-analysis-of-the-best-free-video-chat-software-suitable-for-businesses-and-educators-for-2024/"><u>[New] Critical Analysis of the Best Free Video Chat Software Suitable for Businesses & Educators for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-core-libraries-api-dll-not-located/"><u>[Resolved] Core Libraries: API DLL Not Located</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-creative-composers-cache-essential-no-cost-afx-tools/"><u>[Updated] Creative Composer's Cache Essential, No-Cost AFX Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-expressive-youtube-aesthetics-at-no-cost/"><u>[Updated] Expressive YouTube Aesthetics at No Cost</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-navigating-zoom-on-chromebook-essential-advice/"><u>2024 Approved Navigating Zoom on Chromebook Essential Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cambie-sus-archivos-png-por-jpg-sin-coste-soluciones-en-linea-de-movavi/"><u>Cambie Sus Archivos PNG Por JPG Sin Coste: Soluciones en Línea De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-herramienta-para-transformar-imagenes-png-a-lineales-online-con-movavi/"><u>Gratis Herramienta Para Transformar Imágenes .png a Lineales Online Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratis-online-omzettingsdienst-mp4-naar-vob-movavi/"><u>Gratis Online Omzettingsdienst MP4 Naar VOB - Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-hot-40-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Hot 40 To Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movaviopusflac/"><u>Movaviで簡単フリーOPUSからFLACへの変換 - 無料!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screenshots-made-simple-free-for-2024/"><u>Screenshots Made Simple - Free for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-for-an-asus-maximus-x-hero-driver-refresh-fast-and-simple/"><u>Step-by-Step Tutorial for an ASUS Maximus X Hero Driver Refresh – Fast and Simple</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-16-reliable-iso-tools-compatible-with-both-windows-and-macos/"><u>Top 16 Reliable ISO Tools Compatible with Both Windows & macOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/x-studio-voice-synthesizer-windows-compatible-for-2024/"><u>X-Studio Voice Synthesizer, Windows Compatible for 2024</u></a></li>
 </ul></div>
 

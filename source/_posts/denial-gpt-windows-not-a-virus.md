@@ -1,7 +1,7 @@
 ---
 title: "Denial: GPT-Windows Not A Virus"
-date: 2024-11-14T16:40:15.270Z
-updated: 2024-11-17T19:45:08.460Z
+date: 2024-11-24T16:54:09.892Z
+updated: 2024-11-27T17:05:12.308Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ OpenAI's ChatGPT generative AI is being used for all manner of enterprising acti
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Desktop Client Is Actually Trojan Malware
 
  In February 2023, cybersecurity firm [Kaspersky reported](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022340/https://www.kaspersky.com/blog/chatgpt-stealer-win-client/47274/) that it had uncovered a malware campaign using ChatGPT as its lure, promising victims a free ChatGPT account with a $50 balance (to spend on [the premium version of ChatGPT](https://www.makeuseof.com/why-paid-chatgpt-professional-is-inevitable/)) and the use of a new ChatGPT desktop client.
@@ -37,6 +41,10 @@ OpenAI's ChatGPT generative AI is being used for all manner of enterprising acti
 ![chatgpt homepage march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-homepage-march-2023.png)
 
 ![kaspersky malware chatgpt desktop client download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/kaspersky-malware-chatgpt-desktop-client-download-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Kaspersky](https://www.kaspersky.com/blog/chatgpt-stealer-win-client/47274/)
 
@@ -51,10 +59,7 @@ Close
  According to Kaspersky's research, the ChatGPT desktop client malware has been spotted across Asia, Africa, Europe, and America.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## PSA: There Is No ChatGPT Desktop Client
@@ -64,10 +69,7 @@ Close
  For now, the only way to [access ChatGPT is through your browser](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/), be that on your computer or your smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3 Ways to Avoid ChatGPT Scams
@@ -77,10 +79,7 @@ Close
 3. Make sure your antivirus software is up to date, and consider installing an additional [security tool like Malwarebytes Premium](https://www.makeuseof.com/tag/reasons-upgrade-malwarebytes-premium/) to mop up any other nasties.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Avoid Anything Claiming to Be a ChatGPT Client
@@ -106,18 +105,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-6-youtuber-quizzes-to-know-what-type-of-youtuber-you-are-for-2024/"><u>[New] 6 YouTuber Quizzes to Know What Type of YouTuber You Are for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-leading-clearcut-screen-capture-options-no-commercials/"><u>[New] Leading Clearcut Screen Capture Options (No Commercials)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-ideas-to-keep-your-snapchat-streak-alive/"><u>[Updated] In 2024, Ideas to Keep Your Snapchat Streak Alive</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/guide-pratique-pour-construire-un-cd-de-restauration-personnalise-sur-emachine-pcs/"><u>Guide Pratique Pour Construire Un CD De Restauration Personnalisé Sur eMachine PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-gptzero-to-expose-fake-digital-compositions/"><u>Harnessing GPTZero to Expose Fake Digital Compositions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-time-your-shots-perfectly-tips-for-instagrams-slow-motion/"><u>In 2024, Time Your Shots Perfectly Tips for Instagram’s Slow Motion</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-bandicams-potential-for-efficient-video-capture/"><u>In 2024, Unlocking Bandicam's Potential for Efficient Video Capture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-horizons-in-language-models-googles-palm-2-revelation/"><u>New Horizons in Language Models: Google's PaLM 2 Revelation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seeking-honesty-in-chatgpts-responses/"><u>Seeking Honesty in ChatGPT's Responses</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-budget-friendly-webcams-comprehensive-guide-by-zdnet/"><u>Top 5 Budget-Friendly Webcams : Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-creativity-chatai-for-storyworlds/"><u>Unleashing Creativity: ChatAI for Storyworlds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/weaving-tales-gpt-3-and-world-design/"><u>Weaving Tales: GPT-3 and World Design</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-voice-customization-made-simple-with-these-top-apps/"><u>[New] 2024 Approved Voice Customization Made Simple with These Top Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-approach-expert-color-alteration-tactics/"><u>2024 Approved The Artisan's Approach Expert Color Alteration Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-lingo-explained-29-core-terminologies-unveiled/"><u>AI Lingo Explained: 29 Core Terminologies Unveiled</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/comprehensive-review-of-screen-recording-tools/"><u>Comprehensive Review of Screen Recording Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-netflix-functionality-back-after-glitches-on-xbox-platforms/"><u>Getting Netflix Functionality Back After Glitches on Xbox Platforms</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-c33-2023-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme C33 2023 Pattern Lock Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intelligent-systems-compared-forefront-ai-versus-chatgpts-prospects/"><u>Intelligent Systems Compared – Forefront AI Versus ChatGPT's Prospects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/just-start-chatting-chatgpt-ready/"><u>Just Start Chatting - ChatGPT Ready!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-through-clouds-and-skies-why-flight-simulator-x-gold-edition-soars-above-competitors/"><u>Navigating Through Clouds and Skies: Why Flight Simulator X Gold Edition Soars Above Competitors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/proven-methods-for-sensational-instagram-puzzle-creation-for-2024/"><u>Proven Methods for Sensational Instagram Puzzle Creation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-crafting-cover-letters-with-ai-assistance/"><u>Step-by-Step: Crafting Cover Letters with AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essence-of-claude-ai-pioneering-change-and-efficiency/"><u>The Essence of Claude AI: Pioneering Change and Efficiency</u></a></li>
 </ul></div>
 

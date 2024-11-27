@@ -1,7 +1,7 @@
 ---
 title: Unveiling Apple's Latest in Artificer Intelligence – Progress and Pitfalls Explored
-date: 2024-11-10T16:04:59.408Z
-updated: 2024-11-17T18:46:02.254Z
+date: 2024-11-25T16:58:55.611Z
+updated: 2024-11-27T16:06:44.289Z
 tags:
   - apple
 categories:
@@ -28,13 +28,14 @@ In a [previous article](https://www.zdnet.com/article/6-ways-apple-can-leapfrog-
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Apple Intelligence will bring to the company's operating system platforms
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI on the device and in the cloud
@@ -82,10 +83,7 @@ Apple has opened up a world of creative possibilities by integrating the [Image 
 **Room for improvement:** Providing more granular controls and customization options for the generated images and Genmojis, such as fine-tuning styles and attributes, could cater to more specific user preferences. Additionally, implementing features that suggest image enhancements or emoji creations based on user activity and context could further streamline the creative process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enhanced Siri and task automation
@@ -103,16 +101,7 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI capabilities across Apple products
@@ -122,6 +111,10 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Also: [What is Apple Intelligence? How the iPhone's on-device and cloud-based AI works](https://www.zdnet.com/article/what-is-apple-intelligence-how-the-iphones-on-device-and-cloud-based-ai-will-work/)**
 
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The developer story
 
@@ -146,13 +139,6 @@ Finally, the new Translation API will be unveiled. It will help developers build
 **Also: [Apple unveils an on-device AI image generator for iPhone, iPad, and Mac](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/)**
 
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
 
@@ -194,18 +180,22 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-masterful-gameplay-transmission-with-obs-studio/"><u>[New] In 2024, Masterful Gameplay Transmission with OBS Studio</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pro-video-production-mastering-the-coordination-between-windows-photos-and-storyremix/"><u>[New] Pro Video Production Mastering the Coordination Between Windows, Photos, and StoryRemix</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-building-a-successful-youtube-channel-sidestep-these-8-frequent-faux-pas-for-2024/"><u>[Updated] Building a Successful YouTube Channel Sidestep These 8 Frequent Faux Pas for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decode-ai-talk-29-must-know-words-in-artificial-intelligence/"><u>Decode AI Talk: 29 Must-Know Words in Artificial Intelligence</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oppo-a1x-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Oppo A1x 5G Is Unlocked</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-future-is-now-hot-10-vr-gear-options/"><u>In 2024, The Future Is Now Hot 10 VR Gear Options</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-video-editing-on-a-shoestring-best-software-for-2024/"><u>New Video Editing on a Shoestring Best Software for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-data-sharing-best-apps-and-extensions-for-ai-conversations/"><u>Secure Data Sharing: Best Apps & Extensions for AI Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolution-continues-surpassing-the-original-turing-test/"><u>The Evolution Continues: Surpassing the Original Turing Test</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480900871-top-11-fixes-to-restore-ring-function-on-your-iphone-no-more-missed-calls/"><u>Top 11 Fixes to Restore Ring Function on Your iPhone – No More Missed Calls!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-on-launching-ai-agents-through-agentgpt-in-your-browser/"><u>Ultimate Tutorial on Launching AI Agents Through AgentGPT in Your Browser</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-textual-innovation-generative-ais-efficiency-for-businesses/"><u>Unlocking Textual Innovation: Generative AI's Efficiency for Businesses</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-14-plus-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 14 Plus is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-explore-top-12-gear-best-on-the-go-flip-screen-cameras/"><u>[New] In 2024, Explore Top 12 Gear Best On-the-Go Flip-Screen Cameras</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-smooth-transitions-and-precision-capture-analyzing-top-obs-recorders/"><u>[New] Smooth Transitions & Precision Capture Analyzing Top OBS Recorders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-every-note-at-your-fingertips-fb-style/"><u>[Updated] In 2024, Every Note at Your Fingertips - FB Style</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726223477411-wmamp4-movavi/"><u>快速免費線上WMA至MP4變更: 經驗超群的Movavi音像檔轉換器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpeg-43gp-movavi/"><u>網路直接將MPEG-4影片轉化成3GP格式 - Movavi 自由下載解析器</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wma-ogg/"><u>移動維藍 - 免費在線 WMA 到 OGG 文件格式的無限制過渡</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/divers-formes-de-paiement-chez-movavi-options-et-avantages-expliques/"><u>Divers Formes De Paiement Chez Movavi: Options Et Avantages Expliqués</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-mastering-landscape-photography-techniques/"><u>Expert Advice: Mastering Landscape Photography Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-completa-como-hacer-video-llamadas-con-skype-desde-telefonos-inteligentes-y-ordenadores/"><u>Guía Completa: Cómo Hacer Video Llamadas Con Skype Desde Teléfonos Inteligentes Y Ordenadores</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-fix-excessive-hiperfonesys-and-pagedatasys-file-size-issues-in-windows-107-solutions-unveiled/"><u>How to Fix Excessive hiperfone.sys & pagedata.sys File Size Issues in Windows 10/7: Solutions Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-lut-applications-in-premiere-pro/"><u>In 2024, Mastering LUT Applications in Premiere Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/instant-remedies-for-dysfunctional-widgets-on-apple-touch-devices/"><u>Instant Remedies for Dysfunctional Widgets on Apple Touch Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/passer-de-av-a-numerique-pour-gratuits-toujours-avec-movavi/"><u>Passer De AV À Numérique Pour Gratuits - Toujours Avec Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshoot-and-resolve-windows-10-taskbar-problems-a-comprehensive-step-by-step-guide/"><u>Troubleshoot and Resolve Windows 10 Taskbar Problems: A Comprehensive, Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-shorts-and-tiktok-which-one-is-better-for-personal-usage-in-2024/"><u>YouTube Shorts & TikTok Which One Is Better for Personal Usage, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/aif-mp4-movavi/"><u>コレクトフリーネット AIF 動画MP4変換ソフト - Movavi</u></a></li>
 </ul></div>
 

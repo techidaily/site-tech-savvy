@@ -1,7 +1,7 @@
 ---
 title: "Why Apple's Cutting-Edge Artificial Intelligence Won’t Upgrade Past Models: Understanding the Cost of Innovation - ZDNet"
-date: 2024-11-13T17:31:19.460Z
-updated: 2024-11-17T16:30:36.546Z
+date: 2024-11-26T16:38:25.584Z
+updated: 2024-11-27T16:08:04.867Z
 tags:
   - apple
 categories:
@@ -56,10 +56,7 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -78,13 +75,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -98,10 +88,7 @@ Apple is adding natural language photo and video search to its Photos app. This 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
@@ -115,6 +102,10 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -157,10 +148,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -177,6 +165,10 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,16 +210,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ritical-channels-for-asmr-lovers/"><u>[New] Critical Channels for ASMR Lovers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-best-practices-for-engaging-with-facebook-live-content/"><u>[Updated] Best Practices for Engaging with Facebook Live Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-simplified-techniques-for-crafting-captions-on-fb-videos/"><u>[Updated] In 2024, Simplified Techniques for Crafting Captions on FB Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-your-next-great-story-selecting-free-android-editing-tools-for-2024/"><u>[Updated] Your Next Great Story Selecting Free Android Editing Tools for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-zoom-the-ultimate-guide-to-audio-recording-for-podcasts/"><u>Mastering Zoom The Ultimate Guide to Audio Recording for Podcasts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/streamlined-sound-conversion-for-tweeted-content/"><u>Streamlined Sound Conversion for Tweeted Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ethical-imperative-in-ai-regulation-openais-perspective/"><u>The Ethical Imperative in AI Regulation - OpenAI's Perspective</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-prime-notetaking-with-ai-innovations/"><u>The Ultimate Guide to Prime Notetaking with AI Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-unveiled-no-gpt-windows-client-is-not-malware/"><u>Truth Unveiled: No, GPT-Windows Client Is Not Malware</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-potential-top-7-ways-gpt-improves-workday-effectiveness/"><u>Unleash Potential: Top 7 Ways GPT Improves Workday Effectiveness</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-guide-to-start-recording-with-vlc-software/"><u>2024 Approved Guide to Start Recording with VLC Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-chuckles-a-guide-to-using-snapchats-laughing-lenses-for-2024/"><u>Capture the Chuckles A Guide to Using Snapchat’s Laughing Lenses for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-image-conversion-easily-change-your-jpg-images-into-png-format-with-movavi/"><u>Free Image Conversion: Easily Change Your JPG Images Into PNG Format with Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-effortless-youtube-content-crafting-10-basic-video-ideas-for-all/"><u>In 2024, Effortless YouTube Content Crafting 10 Basic Video Ideas for All</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-amazon-echo-show-10-gen-3-analysis-enhanced-mobility-feature/"><u>In-Depth Amazon Echo Show 10 (Gen 3) Analysis: Enhanced Mobility Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/legjobb-osszesedesekben-legjobb-ocakkal-gyujtott-tv-sorozatok-letoltesehez-movavi/"><u>Legjobb Összesedesekben: Legjobb Ócakkal Gyűjtött TV Sorozatok Letöltéséhez - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-video-creation-and-editing-on-your-mac-with-av-movivid-tutorials/"><u>Mastering Video Creation and Editing on Your Mac with Av MoviVid Tutorials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-image-rotator-verschil-in-deelgenoten/"><u>Movavi Image Rotator - Verschil in Deelgenoten</u></a></li>
+<li><a href="https://blog-min.techidaily.com/online-free-conversion-mkv-in-aac-utilizzando-il-software-movavi-video-editor/"><u>Online FREE Conversion MkV in AAC Utilizzando Il Software Movavi Video Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revolutionize-your-digital-label-changing-username-in-windows-11/"><u>Revolutionize Your Digital Label: Changing UserName in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-visual-experience-shop-the-cutting-edge-pixel-dense-viewfinity-s9-monitor-by-samsung-for-just-899-with-a-built-in-4k-webcam-grab-your-dis46/"><u>Revolutionize Your Visual Experience - Shop the Cutting-Edge Pixel-Dense ViewFinity S9 Monitor by Samsung for Just $899 with a Built-In 4K Webcam – Grab Your Discounted Deal Now, Save 44%</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamlessly-change-your-m4r-tracks-to-high-quality-aiff-file-using-our-no-cost-online-tool/"><u>Seamlessly Change Your M4R Tracks to High-Quality AIFF File Using Our No-Cost Online Tool</u></a></li>
+<li><a href="https://video-capture.techidaily.com/segmented-screen-success-is-splitcam-superior-for-2024/"><u>Segmented Screen Success Is SplitCam Superior for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-strategies-for-diagnosing-and-correcting-watchdogsys-bsod-mishaps/"><u>Step-by-Step Strategies for Diagnosing and Correcting Watchdog.sys BSOD Mishaps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-guide-dealing-with-frequent-frontier-crashes-on-windows/"><u>The Ultimate Fix Guide: Dealing with Frequent Frontier Crashes on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-top-11-dvd-writing-tools-for-mac-users-featuring-movavi/"><u>The Ultimate List of Top 11 DVD Writing Tools for Mac Users Featuring Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformar-archivos-de-video-3gp-a-formato-mp4-facilmente-y-sin-costo-usando-el-servicio-en-linea-de-convertir-videos-de-movavi/"><u>Transformar Archivos De Video 3GP a Formato MP4 Fácilmente Y Sin Costo Usando El Servicio en Línea De Convertir Videos De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/au-wmvmovavi/"><u>あなたのAU WMVを自由に変換：Movavi 無料オンラインツール</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gifogvmovavi/"><u>オンラインでフリーGIF/OGVファイルを効率よく変換:Movaviの方法</u></a></li>
 </ul></div>
 

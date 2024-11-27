@@ -1,7 +1,7 @@
 ---
 title: Collaborative Editing on Apple's Pages Using iCloud - A Step-by-Step Guide
-date: 2024-11-15T17:44:06.916Z
-updated: 2024-11-17T16:06:01.188Z
+date: 2024-11-21T16:34:03.587Z
+updated: 2024-11-27T16:22:37.037Z
 tags:
   - apple
 categories:
@@ -42,14 +42,11 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to send and receive iMessages on Windows
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to send and receive iMessages on Windows
 
 ## Use Microsoft Phone Link
 
@@ -64,10 +61,7 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
@@ -85,13 +79,6 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -119,19 +106,6 @@ Screenshot by Lance Whitney/ZDNET
 
 ## Use Intel Unison
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Install Intel Unison
 
 To use Intel Unison, download and install the app from [the Microsoft Store](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26).
@@ -139,6 +113,10 @@ To use Intel Unison, download and install the app from [the Microsoft Store](htt
 Launch the app and click the Accept & Continue button. You'll be asked how you'd like to use Unison. In the section for "Empower your PC," click the "Add your phone" button.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Pair your phone and computer
 
@@ -152,6 +130,10 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -164,18 +146,15 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,24 +192,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-youtubers-overture-orchestrating-video-triumphs/"><u>[Updated] The YouTuber’s Overture Orchestrating Video Triumphs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-good-to-great-unveiling-video-enhance-22-secrets/"><u>2024 Approved From Good to Great Unveiling Video Enhance 2.2 Secrets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-expertise-in-ai-communication-courses/"><u>Achieve Expertise in AI Communication Courses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-the-features-of-claude-pro-in-relation-to-gptplusplusplus/"><u>Assessing the Features of Claude Pro in Relation to GPT++Plus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-news-gpt-introduces-major-must-have-improvements/"><u>Breaking News: GPT Introduces Major, Must-Have Improvements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbot-security-navigating-potential-threats/"><u>Chatbot Security: Navigating Potential Threats</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-exclusive-gpts-for-you/"><u>Craft Exclusive GPTs for You</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-hugging-faces-purpose-in-ai/"><u>Dissecting Hugging Face's Purpose in AI</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/expert-review-unlocking-the-potential-with-showmore-recorder-for-2024/"><u>Expert Review Unlocking the Potential with ShowMore Recorder for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/explore-the-best-ways-to-record-sound-in-your-latest-windows-11-pc/"><u>Explore the Best Ways to Record Sound in Your Latest Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-persistent-screen-shimmer-issues-on-windows-10/"><u>Fixing Persistent Screen Shimmer Issues on Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-seed-to-story-innovative-writing-techniques-from-gpt/"><u>From Seed to Story: Innovative Writing Techniques From GPT</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-get-past-the-error-humankind-not-starting-up-on-your-computer/"><u>How to Get Past the Error: 'Humankind' Not Starting Up on Your Computer</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone XS Max?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-lava-blaze-curve-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Lava Blaze Curve 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-incompatibility-issues-steelseries-gg-and-windows-operating-system-failures/"><u>Resolving Incompatibility Issues: SteelSeries GG and Windows Operating System Failures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplifying-life-comparing-claude-and-chatgpt-skills/"><u>Simplifying Life: Comparing Claude & ChatGPT Skills</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-tasks-with-chatgpt-a-comprehensive-guide-to-effective-scheduling/"><u>Transforming Tasks with ChatGPT: A Comprehensive Guide to Effective Scheduling</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-10-best-mobile-edits-youtube-shorts-clips-on-iosandroid-for-2024/"><u>[New] 10 Best Mobile Edits YouTube Shorts Clips on iOS/Android for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-cascade-of-curiosity-concurrent-video-watching-made-easy-for-2024/"><u>[New] A Cascade of Curiosity Concurrent Video Watching Made Easy for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>[Updated] 2024 Approved Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-real-time-view-count-detectors/"><u>[Updated] Real-Time View Count Detectors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cracking-gpts-code-exposing-ai-realities/"><u>Cracking GPT's Code: Exposing AI Realities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defending-original-art-the-role-of-nightshade-in-preventing-ai-duplication/"><u>Defending Original Art: The Role of Nightshade in Preventing AI Duplication</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-efficiency-with-these-5-must-have-apps-on-windows-11/"><u>Enhance Efficiency with These 5 Must-Have Apps on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/first-steps-to-successful-vlogging-essentials/"><u>First Steps to Successful Vlogging Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-palm-2-versus-ais-gpt-4-comparative-analysis/"><u>Google's PaLM 2 Versus AI's GPT-4: Comparative Analysis</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>In 2024, Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-why-hackers-target-chatgpt-accounts/"><u>Inside Why Hackers Target ChatGPT Accounts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/instant-deal-celestial-screen-refresher/"><u>Instant Deal: Celestial Screen Refresher</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-threat-analysis-unveiling-upcoming-cyber-changes/"><u>Next-Gen Threat Analysis: Unveiling Upcoming Cyber Changes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-spreadsheet-tasks-with-chatgpt-tech/"><u>Revolutionizing Spreadsheet Tasks with ChatGPT Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-use-of-chatgpt-in-employment-searches/"><u>Strategic Use of ChatGPT in Employment Searches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tactics-for-unmasking-fake-bots-in-chatgpt-exchange/"><u>Tactics for Unmasking Fake Bots in ChatGPT Exchange</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-to-fixing-hogwarts-legacy-stutter-in-the-latest-update/"><u>Ultimate Troubleshooting Guide to Fixing Hogwarts Legacy Stutter in the Latest Update</u></a></li>
 </ul></div>
 

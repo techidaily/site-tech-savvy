@@ -1,7 +1,7 @@
 ---
 title: Is GPT a New Frontier for Cyberattacks on Banks & PCs?
-date: 2024-11-15T17:03:09.630Z
-updated: 2024-11-17T18:51:03.093Z
+date: 2024-11-23T16:39:17.162Z
+updated: 2024-11-27T16:17:39.116Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hackers, including script kiddies, can [use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
 
@@ -43,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -54,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many data breaches start with [a successful phishing attack](http://www.makeuseof.com/what-is-phishing/). Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -73,10 +75,7 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -106,24 +105,19 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-watch-nba-in-real-time-15-effective-strategies/"><u>[New] 2024 Approved How to Watch NBA in Real Time 15 Effective Strategies</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-videosnapper-quickly-download-twitter-content-on-iphone/"><u>[New] 2024 Approved VideoSnapper Quickly Download Twitter Content on iPhone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-ai-driven-nomenclature-best-10-name-generators-online/"><u>[Updated] AI-Driven Nomenclature Best 10 Name Generators Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pivoting-careers-from-novice-to-industry-veteran/"><u>[Updated] Pivoting Careers From Novice to Industry Veteran</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-screen-capture-alternatives-for-the-cost-conscious-user/"><u>2024 Approved Best Screen Capture Alternatives for the Cost-Conscious User</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-microsoft-bing-ai-vs-google-bard-which-is-the-best-ai-chatbot/"><u>ChatGPT Vs. Microsoft Bing AI Vs. Google Bard: Which Is the Best AI Chatbot?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-your-next-chapter-top-5-ai-powered-sites-and-apps-for-reading-selection/"><u>Craft Your Next Chapter: Top 5 AI-Powered Sites & Apps for Reading Selection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-protected-fitness-regimens-with-chatgpt/"><u>Crafting Protected Fitness Regimens with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evolution-of-ai-systems-anticipating-gpt-5s-debut/"><u>Evolution of AI Systems: Anticipating GPT-5's Debut?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-tips-for-setting-up-and-utilizing-nvidias-artificial-intelligence-chatbot-in-your-officehome-pc/"><u>Expert Tips for Setting Up and Utilizing NVIDIA's Artificial Intelligence Chatbot in Your Office/Home PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/explaining-picture-content-on-social-media/"><u>Explaining Picture Content on Social Media</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-chatgpt-with-kids-and-adults-alike/"><u>Exploring ChatGPT with Kids and Adults Alike</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/halt-comparing-virtual-assistants-dive-into-distinct-traits/"><u>Halt Comparing Virtual Assistants: Dive Into Distinct Traits</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-connectivity-and-convenience-integrating-zoom-into-your-xbox-experience/"><u>In 2024, Connectivity & Convenience Integrating Zoom Into Your Xbox Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/key-aspects-opting-for-ai-assisted-therapy-via-chatgpt/"><u>Key Aspects: Opting for AI-Assisted Therapy via ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-perils-of-fraudgpt-how-to-evade-its-snares/"><u>The Perils of FraudGPT: How to Evade Its Snares</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-stealthy-lens-approach-to-consuming-instagram-stories-on-desktop-and-mobile-devices/"><u>The Stealthy Lens Approach to Consuming Instagram Stories on Desktop & Mobile Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-m14-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy M14 5G Location | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-7-benefits-ai-driven-health-consults/"><u>Unveiling 7 Benefits: AI-Driven Health Consults</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-aperture-alchemy-crafting-the-top-10-lens-list/"><u>[New] 2024 Approved Aperture Alchemy Crafting the Top 10 Lens List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cutting-edge-srt-modifications-for-modern-computers/"><u>[New] 2024 Approved Cutting-Edge SRT Modifications for Modern Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-seamless-transition-strategies-upgrading-to-your-newest-iphone-with-ease-expert-advice-from-zdnet/"><u>1. Seamless Transition Strategies: Upgrading to Your Newest iPhone with Ease - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://win-community.techidaily.com/5asx5o6n55qe5qqu5qgi5lin6kal5lqg77yf5oko6zya6kab55plusl6ygt55qe5y2u5yqp56il5byp6kmz55uh5oyh5y2x/"><u>失控的檔案不見了？您需要知道的協助程式詳盡指南</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-glitz-discovering-apples-most-impactful-yet-understated-ai-advancement-announced-at-wwdc/"><u>Beyond The Glitz: Discovering Apple's Most Impactful Yet Understated AI Advancement Announced at WWDC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-down-the-myth-understanding-why-chatgpt-remains-un-jailbroken-7-insights/"><u>Breaking Down the Myth: Understanding Why ChatGPT Remains Un-Jailbroken - 7 Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/eliminate-usb-port-malfunction-in-dell-notebook/"><u>Eliminate USB Port Malfunction in Dell Notebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-your-reading-list-with-the-best-ai-book-recommender-platforms/"><u>Enhance Your Reading List with the Best AI Book Recommender Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-10-preferred-top-free-image-editing-and-overlay-apps-for-phones/"><u>In 2024, 10 Preferred Top-Free Image Editing & Overlay Apps for Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nightshade-strategies-protecting-your-art-from-generative-replicas/"><u>Nightshade Strategies: Protecting Your Art From Generative Replicas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rhyme-fight-poets-vs-virtual-intelligence-woolly-side/"><u>Rhyme Fight - Poets vs Virtual Intelligence, Woolly Side</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-resuscitate-your-suspended-chatgpt/"><u>Strategies to Resuscitate Your Suspended ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-printer-service-reset-guide/"><u>Win Printer Service Reset Guide</u></a></li>
 </ul></div>
 

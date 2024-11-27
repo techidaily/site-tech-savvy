@@ -1,7 +1,7 @@
 ---
 title: "Exploring Mobile Device Evaluation Techniques at ZDNet: How We Assess the Latest Phones"
-date: 2024-11-14T16:11:13.979Z
-updated: 2024-11-17T18:17:47.823Z
+date: 2024-11-20T16:50:36.397Z
+updated: 2024-11-27T16:10:47.153Z
 tags:
   - apple
 categories:
@@ -39,10 +39,7 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What makes a phone ZDNET recommended?
@@ -62,16 +59,7 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance
@@ -85,16 +73,7 @@ Performance testing also includes putting phones through varying levels of graph
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Cameras
@@ -107,6 +86,10 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Battery life and charging
 
 Kerry Wan/ZDNET
@@ -116,10 +99,7 @@ It's also important for us to evaluate how long phones last under light, moderat
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Special features
@@ -168,24 +148,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unlocking-slidecast-potential-the-webcam-revolution/"><u>[Updated] In 2024, Unlocking Slidecast Potential The Webcam Revolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-new-chief-raises-gpt-questions/"><u>AI's New Chief Raises GPT Questions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-group-interaction-in-virtual-setups-via-gpt/"><u>Enhancing Group Interaction in Virtual Setups via GPT</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-damaged-video-files-in-windowsmac/"><u>Fixing Damaged Video Files in Windows/Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-jobs-threatened-professional-predictions/"><u>GPT Jobs Threatened: Professional Predictions?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-c53-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme C53 Unlock Without Password</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-transforming-online-meetings-choose-from-these-top-5-recorders/"><u>In 2024, Transforming Online Meetings Choose From These Top 5 Recorders</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-turning-time-back-iphones-video-playback-reversal-guide/"><u>In 2024, Turning Time Back IPhone's Video Playback Reversal Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/asing-youtube-shorts-views-effective-tactics/"><u>Increasing YouTube Shorts Views Effective Tactics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/join-openais-quest-track-and-report-software-glitches/"><u>Join OpenAI's Quest: Track and Report Software Glitches!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/key-methods-to-change-music-speedplay-on-spotify/"><u>Key Methods to Change Music Speedplay on Spotify</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/lg-k51-smartphone-assessment-stunning-aesthetics-vs-sluggish-cpu/"><u>LG K51 Smartphone Assessment: Stunning Aesthetics vs Sluggish CPU</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/make-friends-with-ai-at-bing-start-using-now-guide/"><u>Make Friends With AI at Bing: Start Using Now Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-gpt-capabilities-with-these-9-must-try-plugins/"><u>Maximize GPT Capabilities with These 9 Must-Try Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-downgrade-in-gpts-intellectuality-claims-openai/"><u>No Downgrade in GPT's Intellectuality Claims OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-great-ai-debate-on-social-platforms/"><u>The Great AI Debate on Social Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-paperclip-algorithms-and-artificial-intelligence/"><u>The Intersection of Paperclip Algorithms & Artificial Intelligence</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/transform-your-windows-10-at-home-to-pro-efficiency/"><u>Transform Your Windows 10 at Home to Pro Efficiency</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transforming-the-future-with-artificnial-intelligence/"><u>Transforming the Future with Artificnial Intelligence</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-digital-deftness-transforming-photo-colors-professionally/"><u>[New] 2024 Approved Digital Deftness Transforming Photo Colors Professionally</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-appreciation-bundle-ultimate-selection-of-templates-for-2024/"><u>[New] Appreciation Bundle Ultimate Selection of Templates for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-setup-installing-snapchat-on-your-mac/"><u>[Updated] 2024 Approved Quick Setup Installing Snapchat on Your Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-best-no-cost-screen-players/"><u>2024 Approved Best No-Cost Screen Players</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/download-vidspot-content-in-various-formats-simple-guide-to-saving-mp4-mov-avi-files-from-vidspot/"><u>Download Vidspot Content in Various Formats - Simple Guide to Saving MP4, MOV, AVI Files From Vidspot</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-x5-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco X5 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/logitech-brio-webcam-doesnt-show-in-windows-after-recent-update-a-quick-fix-for-you-all-105-answered/"><u>Logitech Brio Webcam Doesn't Show in Windows After Recent Update - A Quick Fix for You All (10/5) [Answered]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-methods-for-iphone-users-how-to-effortlessly-stream-audio-files-in-ogg-format/"><u>Simple Methods for iPhone Users: How to Effortlessly Stream Audio Files in OGG Format</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/social-media-symphony-coordinating-video-sharing-for-2024/"><u>Social Media Symphony Coordinating Video Sharing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-your-trec-files-into-popular-video-formats-for-various-devices/"><u>Step-by-Step Guide: Converting Your TREC Files Into Popular Video Formats for Various Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-enhancing-audio-quality-by-adjusting-wav-bitrate/"><u>Step-by-Step Guide: Enhancing Audio Quality by Adjusting WAV Bitrate</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-transforming-m4a-into-wav-format-using-audacity-software/"><u>Step-by-Step Tutorial on Transforming M4A Into WAV Format Using Audacity Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-all-in-one-video-editor-and-compressor-edit-plus-shrink-your-footage/"><u>Top-Rated All-in-One Video Editor & Compressor: Edit Plus Shrink Your Footage!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-how-to-safely-rip-burn-and-copy-content-from-your-dvds-and-cds/"><u>Ultimate Guide: How To Safely Rip, Burn & Copy Content From Your DVDs And CDs</u></a></li>
 </ul></div>
 
