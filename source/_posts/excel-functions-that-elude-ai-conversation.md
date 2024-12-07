@@ -1,7 +1,7 @@
 ---
 title: Excel Functions That Elude AI Conversation
-date: 2024-09-14T16:08:07.041Z
-updated: 2024-09-17T16:09:02.369Z
+date: 2024-12-01T23:03:27.817Z
+updated: 2024-12-06T23:02:50.277Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
 
  There's hope in a few common tasks for those worried that AI may be coming for their job. Gaining extra competence in Excel’s VBA and the wide world of automated analysis tools can give you a leg up in the job market.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
  Many companies offer specialized services that enable you to connect your Excel-generated sales data via an API to monitor data in real time. Doing so saves time manually entering data into AI chatbots like ChatGPT. It also totally eliminates the need for such cumbersome analysis altogether, while still maintaining human-necessary jobs.
 
  While building out a single report can be handy, useful trends are more visible over long periods of time. Building dashboards to [visualize data trends](https://www.makeuseof.com/how-to-use-scatter-plot-predict-data-behavior-microsoft-excel/) and raise red flags immediately when things go wrong is still a highly valuable skill.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Customizable Report Creation in Excel
 
@@ -60,9 +68,17 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
 
  Make your reports more useful by adding some [simple Excel features](https://www.makeuseof.com/essential-excel-functions/). Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Easy-to-Use Forms in Excel
 
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
 
@@ -73,10 +89,7 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
@@ -104,5 +117,22 @@ thumbnail: https://thmb.techidaily.com/0c6fb3954d1e2db91c62e36b902addd3def785021
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expressive-photography-techniques-applying-motion-blur-to-faces/"><u>[New] Expressive Photography Techniques Applying Motion Blur to Faces</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-elite-choices-in-total-sweep-cinematography/"><u>[New] In 2024, Elite Choices in Total Sweep Cinematography</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-step-by-step-guide-to-efficient-telegram-web-use/"><u>[Updated] Step-By-Step Guide to Efficient Telegram Web Use</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-realme-12-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Realme 12 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-guide-to-seamless-video-integration-pip-techniques-for-mac-users/"><u>A Guide to Seamless Video Integration PIP Techniques for Mac Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/build-an-accessible-no-charge-windows-gpt-duplicate/"><u>Build an Accessible, No-Charge Windows GPT Duplicate</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-a-vpn-offer-better-anonymity-for-chatgpt/"><u>Does a VPN Offer Better Anonymity for ChatGPT?</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-xr21-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia XR21 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-corporate-communication-with-gpt-assisted-writing/"><u>Elevating Corporate Communication with GPT-Assisted Writing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-printer-drivers-installed-download-supports-windows-10-8-and-7/"><u>Get Your HP Printer Drivers Installed: Download Supports Windows 10, 8 & 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-codegpts-capabilities-in-vs-code-projects/"><u>Leverage CodeGPT's Capabilities in VS Code Projects</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-tech-pick-for-memorial-day-save-big-with-apple-watch-se-at-a-steep-discount-read-why-its-my-favorite-find-this-year-zdnet/"><u>Top Tech Pick for Memorial Day: Save Big with Apple Watch SE at a Steep Discount! Read Why It's My Favorite Find This Year | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-apple-watch-defender-screens-ultimate-buying-guide-2023-gadget-review/"><u>Top-Ranked Apple Watch Defender Screens - Ultimate Buying Guide 2023 | Gadget Review</u></a></li>
+</ul></div>
 

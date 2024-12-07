@@ -1,7 +1,7 @@
 ---
 title: "Conquering the Spreadsheet Jungle: ChatGPT & Excel Pairing"
-date: 2024-09-14T16:11:32.016Z
-updated: 2024-09-17T16:18:25.583Z
+date: 2024-12-05T21:41:17.312Z
+updated: 2024-12-07T00:03:06.522Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
  Here are some examples of common ChatGPT prompts and code that can be useful while working with Excel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Rounding Numbers
 
  To round a number to the nearest whole number, you can ask ChatGPT, "What is the formula to round a number to the nearest whole number?", and ChatGPT will respond with the formula "=ROUND(A1,0)".
@@ -55,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 ![ChatGPT showing the formula to round a number to the nearest whole number on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-round-number.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Calculating Averages
@@ -68,10 +69,7 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 ![ChatGPT showing the formula to calculate the average of cells on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-average.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Sorting and Filtering Data
@@ -79,19 +77,6 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
  You can also use ChatGPT to create macros that sort and filter data. For example, you could ask, "Can you create a macro that sorts data in ascending order?", and ChatGPT will respond with the suitable VBA code:
 
 ![ChatGPT showing an example macro for the sort filter on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-sort-filter.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. More Advanced Examples
 
@@ -109,16 +94,13 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
  As you can see, ChatGPT can provide you with the prompts and code examples you need to use Excel more effectively. Just ask ChatGPT in plain English, and it will respond with the necessary information.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Best Practices of Using ChatGPT With Excel
 
  While ChatGPT can be a powerful tool for working with Excel, it's essential to use it correctly to get the best results. Here are some best practices for using ChatGPT with Excel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Use Clear and Concise Prompts
 
@@ -127,16 +109,7 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
  For instance, a prompt like "Can you please tell me the average sales figures for the previous quarter, excluding sales from the southeast region, and sorted by date in descending order?" might be too complicated for ChatGPT to parse and provide a meaningful response accurately.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Double-Check the Generated Code
@@ -144,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
  ChatGPT is an AI-based tool, and while it's usually very accurate, it's always a good idea to double-check the generated code to ensure it's doing what you want it to do. Test the generated code with sample data to ensure it's accurate and functioning as expected.
 
  When using ChatGPT to generate a macro, review the code carefully and check for syntax errors or logical inconsistencies. Testing the macro with sample data can also help ensure it functions as expected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Start With More Straightforward Problems
 
@@ -174,5 +151,23 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-building-captivating-online-media-summaries/"><u>[New] 2024 Approved Building Captivating Online Media Summaries</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-convert-your-streaming-top-free-video-to-audio-tools/"><u>[New] 2024 Approved Convert Your Streaming Top Free Video to Audio Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-insert-youtube-playlists-seamlessly-into-a-website-for-2024/"><u>[Updated] How to Insert YouTube Playlists Seamlessly Into a Website for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/amv100-moveav/"><u>AMV動画のための100%対面なしで無料のオンライン変換サービス - MoveAV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-apple-watchs-battery-discover-the-top-8-essential-settings-tweaks-tech-insights/"><u>Boost Your Apple Watch's Battery: Discover the Top 8 Essential Settings Tweaks | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/climate-skeptics-and-the-reality-of-temperature-records/"><u>Climate Skeptics and the Reality of Temperature Records</u></a></li>
+<li><a href="https://win-trending.techidaily.com/comprehensive-guide-to-enabling-trusted-platform-module-tpm-20-compatibility-for-seamless-upgradation-to-windows-11/"><u>Comprehensive Guide to Enabling Trusted Platform Module (TPM) 2.0 Compatibility for Seamless Upgradation to Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-ace-the-hd-audiovideo-experience-in-android/"><u>In 2024, Ace the HD Audio/Video Experience in Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-without-constraints-top-gpt-utilities/"><u>Innovating Without Constraints: Top GPT Utilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-homes-optimize-daily-tasks-with-gpt/"><u>Maximizing Homes: Optimize Daily Tasks with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-smartphones-faceoff-is-moving-from-iphone-14-pro-to-iphone-16-pro-worth-the-investment-zdnet-review/"><u>Next-Gen Smartphones Faceoff: Is Moving From iPhone 14 Pro to iPhone 16 Pro Worth the Investment? | ZDNet Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-day-to-day-with-these-4-chatgpt-productivity-techniques/"><u>Optimize Day-to-Day with These 4 ChatGPT Productivity Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/resolving-the-issue-of-non-visible-icloud-backups-a-comprehensive-guide/"><u>Resolving the Issue of Non-Visible iCloud Backups: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-insider-guide-for-seamless-video-sharing-on-instagram-tv-for-2024/"><u>The Insider Guide for Seamless Video Sharing on Instagram TV for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-a-portable-powerhouse-can-the-latest-mac-mini-with-m4-processors-match-apple-tvs-size-and-performance-expert-analysis/"><u>Unveiling a Portable Powerhouse: Can the Latest Mac Mini With M4 Processors Match Apple TV's Size & Performance? | Expert Analysis</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-14-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi 14 Pro | Dr.fone</u></a></li>
+</ul></div>
 

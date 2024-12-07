@@ -1,7 +1,7 @@
 ---
 title: "To Upgrade or Not: Insider Perspectives on Why You Should Consider (or Skip) the iPhone 16 Reviewed"
-date: 2024-11-23T16:45:23.056Z
-updated: 2024-11-27T16:33:00.773Z
+date: 2024-12-01T17:55:07.537Z
+updated: 2024-12-06T23:36:14.286Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But even with all the [Apple Intelligence](https://www.zdnet.com/article/what-is
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. We need a clearer Apple Intelligence timeline
@@ -43,7 +43,7 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -57,7 +57,7 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -79,7 +79,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -124,17 +124,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/approved-break-down-the-essentials-of-youtube-sharing-on-facebook/"><u>2024 Approved Break Down The Essentials of YouTube Sharing on Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-evolution-of-openais-gpt/"><u>Exploring the Evolution of OpenAI's GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-does-apple-safeguard-user-data-in-the-cloud-for-enhanced-ai-experiences-exploring-strategies-with-zdnet/"><u>How Does Apple Safeguard User Data in the Cloud for Enhanced AI Experiences? Exploring Strategies with ZDNet</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-critical-stop-error-vgksys-on-your-pc/"><u>How to Resolve the Critical Stop Error (VGK.SYS) on Your PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-13-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 13?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovation-through-ai-for-developers/"><u>Innovation Through AI for Developers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-revenue-on-youtube-shorts-for-2024/"><u>Mastering Revenue on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-leap-apples-anticipated-release-of-camera-enabled-airpods-in-2026-insights-from-zdnet/"><u>Revolutionary Leap: Apple's Anticipated Release of Camera-Enabled AirPods in 2026 - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-roadmap-to-yotube-stardom-with-best-selling-music-videos/"><u>The Ultimate Roadmap to YoTube Stardom with Best-Selling Music Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unmask-your-computer-understanding-its-windows-based-model-name/"><u>Unmask Your Computer: Understanding Its Windows-Based Model Name</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-smart-7-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Smart 7? Here is How | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-is-revenue-derived-from-evaluating-products/"><u>[New] 2024 Approved Is Revenue Derived From Evaluating Products?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-enhancing-imagery-a-comprehensive-guide-to-video-text-effects/"><u>[New] In 2024, Enhancing Imagery A Comprehensive Guide to Video Text Effects</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-spotlight-on-starlets-snippet/"><u>[New] In 2024, Spotlight on Starlet's Snippet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-key-principles-to-uphold-youtube-civility/"><u>[New] Key Principles to Uphold YouTube Civility</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-identifying-your-individual-song-collection-on-youtube/"><u>[Updated] Identifying Your Individual Song Collection on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-laugh-tracks-for-iphone-devices/"><u>2024 Approved Laugh Tracks for iPhone Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unlocking-mini-music-magic-tips-for-shortform-soundtracks/"><u>2024 Approved Unlocking Mini-Music Magic Tips for Shortform Soundtracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-third-party-enhancements-for-chatgpt-safe/"><u>Are Third-Party Enhancements for ChatGPT Safe?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-boundaries-chatgpts-premium-perspective/"><u>Beyond Boundaries - ChatGPT's Premium Perspective</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ahead-of-the-curve-essential-anker-charging-gear-for-your-upcoming-iphone-purchase-insights/"><u>Get Ahead of the Curve: Essential Anker Charging Gear for Your Upcoming iPhone Purchase | Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-snapping-your-view-on-windows-devices/"><u>In 2024, Snapping Your View on Windows Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-real-time-engagement-critical-to-ai-knowledge-growth/"><u>Is Real-Time Engagement Critical to AI Knowledge Growth?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precision-in-ai-reactions-the-power-of-6-strategic-prompts/"><u>Precision in AI Reactions: The Power of 6 Strategic Prompts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-team-sessions-with-chatgpt-integration/"><u>Revolutionizing Team Sessions with ChatGPT Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-breakthrough-alert-apple-to-unveil-airpods-equipped-with-cameras-in-2026-says-zdnet-analysis/"><u>Tech Breakthrough Alert: Apple to Unveil AirPods Equipped with Cameras in 2026, Says ZDNet Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-art-of-description-crafting-compelling-podcast-hooks/"><u>The Art of Description Crafting Compelling Podcast Hooks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-essential-gadgets-to-maintain-the-pristine-look-of-your-iphone-13-insights/"><u>Top 3 Essential Gadgets to Maintain the Pristine Look of Your iPhone 13: Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ios-175s-remarkable-photo-recovery-feature-insights-from-apple-zdnet/"><u>Understanding iOS 17.5'S Remarkable Photo Recovery Feature: Insights From Apple | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-personal-guide-to-openais-textual-marvels/"><u>Your Personal Guide to OpenAI's Textual Marvels</u></a></li>
 </ul></div>
 

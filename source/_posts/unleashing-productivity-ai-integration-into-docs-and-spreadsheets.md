@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Productivity: AI Integration Into Docs & Spreadsheets"
-date: 2024-09-10T16:04:30.572Z
-updated: 2024-09-17T16:29:26.129Z
+date: 2024-11-29T21:42:59.549Z
+updated: 2024-12-07T01:09:01.601Z
 tags:
   - chatgpt
   - open-ai
@@ -75,24 +75,15 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
  With those steps completed, you're almost done with the setup process. The last step is to activate the GPT for Sheets and Docs extension. To do this, navigate to **Extensions > GPT for Sheets and Docs > Enable GPT functions**​​​​​​.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Can You Do With GPT-Powered Google Sheets?
 
  Are you done setting up the Google Sheets extension? What exciting things can you do with GPT-powered Google Sheets?
 
  Well, the possibilities are endless.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Generate Text
 
@@ -107,10 +98,7 @@ Screenshot was taken by the author, Maxwell Timothy
 ![Run GPT functions by cell reference](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-gpt-functions-by-cell-reference.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, we are dealing with a spreadsheet, so you probably need your results to span multiple cells. To do that, you can use the **\=GPT\_LIST** function. An example could be **\=GPT\_LIST("write five creative taglines for an ice-cream shop")** or **\=GPT\_LIST(A1)**.
@@ -118,10 +106,7 @@ Screenshot was taken by the author, Maxwell Timothy
 ![multi-cell response in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/multi-cell-response-in-gpt-for-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Translate Text
@@ -135,10 +120,7 @@ Screenshot was taken by the author, Maxwell Timothy
  To summarize text, you can either wrap a summarization prompt with the base =GPT function or use the **\=GPT\_SUMMARIZE** function. For instance, **\=GPT\_SUMMARIZE(C44)** will summarize the content of cell C44 into the active cell.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Classify Text
@@ -157,22 +139,31 @@ Screenshot was taken by the author, Maxwell Timothy
 
 ![GPT_TABLE function in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_table-function-in-gpt-for-sheets.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Copy Text Formatting
 
  When working on a spreadsheet, some formatting is a bit too loosely defined or arbitrary for Google Sheets to replicate. For cases like this, the **\=GPT\_FILL** can be a lifesaver. To use the function, demonstrate a few examples of what you need to be done and invoke the **\=GPT\_FILL** to copy the formatting. Below is a video that demonstrates how to use the function.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. Extract Data
 
  If you are working with a lot of mixed-up data or text, you can extract certain data types into assigned cells using the **\=GPT\_EXTRACT** function. For instance, you could paste a CSV file in cell B23 and use **\=GPT\_EXTRACT(B48, C48)** to extract email addresses from the CSV text to the current cell. In the function, the C48 references a cell that contains the data type to extract, in this case, email addresses.
 
 ![Data Extraction using GPT functions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/data-extraction-using-gpt-functions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Boost Your Productivity With ChatGPT Prompts in Google Sheets
 
@@ -199,5 +190,22 @@ Screenshot was taken by the author, Maxwell Timothy
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigate-must-try-world-building-games/"><u>[New] Navigate Must-Try World Building Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-brand-pixels-customizing-gaming-banners-with-style/"><u>[Updated] 2024 Approved Brand Pixels Customizing Gaming Banners with Style</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-utilizing-snapchats-prominent-personalities-highlight/"><u>[Updated] Utilizing Snapchat's Prominent Personalities Highlight</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1-best-methods-to-recover-old-versions-on-windows-7-a-step-by-step-guide/"><u>1. Best Methods to Recover Old Versions on Windows 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-intensifies-artificial-intelligence-development-unveiling-capabilities-of-the-latest-innovations/"><u>Apple Intensifies Artificial Intelligence Development: Unveiling Capabilities of the Latest Innovations</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-fixing-gzw-failures-on-pc-systems/"><u>Effective Solutions for Fixing GZW Failures on PC Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhancing-worker-engagement-through-thoughtful-space-configuration-for-2024/"><u>Enhancing Worker Engagement Through Thoughtful Space Configuration for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experts-choice-for-ultimate-magsafe-wallet-selection-of-2024-in-depth-analysis-zdnet/"><u>Experts Choice for Ultimate MagSafe Wallet Selection of 2024 - In-Depth Analysis | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-5-vision-new-functionalities-on-the-horizon/"><u>GPT-5 Vision: New Functionalities on the Horizon</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-inspired-wearables-navigating-the-next-generation-of-tech/"><u>GPT-Inspired Wearables: Navigating the Next Generation of Tech</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-iphone-7-plus-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your iPhone 7 Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-gpt-3-via-python-code/"><u>Navigating GPT-3 via Python Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sending-and-receiving-imessage-notifications-on-pc-with-windows-a-step-by-step-guide-zdnet-tips/"><u>Sending and Receiving iMessage Notifications on PC with Windows: A Step-by-Step Guide | ZDNet Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/weaving-stories-with-ai-chatgpts-guide-to-masterful-storytelling/"><u>Weaving Stories with AI: ChatGPT's Guide to Masterful Storytelling</u></a></li>
+</ul></div>
 

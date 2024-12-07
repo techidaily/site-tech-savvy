@@ -1,7 +1,7 @@
 ---
 title: "Samsung Galaxy Book 2 Ultra Takes on the Apple MacBook Pro: An In-Depth Comparison of Two Elite Computers | TechAdvisor"
-date: 2024-11-20T16:51:37.096Z
-updated: 2024-11-27T16:43:59.432Z
+date: 2024-12-02T19:02:52.782Z
+updated: 2024-12-06T19:29:31.784Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Specifications
 
@@ -55,6 +51,10 @@ Samsung
 
 ###  1\. You're committed to Samsung's ecosystem
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Samsung Unpacked
 
 [Meet the new Galaxy S23 and Book 3 Ultra All the latest innovations from Samsung, covered 's product experts.  Read now](https://www.zdnet.com/collection/samsung-unpacked/)
@@ -65,12 +65,16 @@ Samsung realized this and included benefits like the options to use a [Galaxy Ta
 
 If you've already got a Galaxy smartphone or tablet, there are definitely practical benefits to functionality that you'll receive by opting for this model. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You expect to do any gaming
 
 Macs have never matched their Windows-based counterparts when it comes to gaming. Despite the massive boost in power provided by Apple's M2 Pro and Max chips, this remains true. Of course there's the issue that a handful of gaming titles are available for MacOS, almost none of which are new or AAA games. But an equally big problem is MacBooks' lack of discrete GPUs. The Galaxy Book 3 Ultra, on the other hand, has options for an [Nvidia RTX 4050 or 4070 GPU](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/), either of which should offer frame rates that are playable to exceptional for almost any title. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want maximum software compatibility
@@ -89,13 +93,13 @@ The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook 
 
 Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -112,13 +116,13 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You're a content creator looking for a mobile desktop replacement
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You need a ton of RAM or storage
 
@@ -127,10 +131,6 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -185,19 +185,18 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-revolutionizing-your-approach-to-iptv-viewership-saving/"><u>[New] 2024 Approved Revolutionizing Your Approach to IPTV Viewership Saving</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-free-and-paid-canvas-creations-apps-for-pc-users/"><u>2024 Approved Best Free & Paid Canvas Creations Apps for PC Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beginning-virtual-conversations-zoom-meeting-setup-for-android-users/"><u>Beginning Virtual Conversations Zoom Meeting Setup for Android Users</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-11-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 11 Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-bcm20702a0-windows-drivers-download-steps-and-tips-included/"><u>Effortless BCM20702A0 Windows Drivers Download – Steps & Tips Included</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-accessibility-apple-enhances-podcast-listening-with-auto-generated-transcriptions/"><u>Enhanced Accessibility: Apple Enhances Podcast Listening with Auto-Generated Transcriptions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-gpt-to-greatness-can-claude-take-over/"><u>From GPT to Greatness: Can Claude Take Over?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/galaxy-ai-surges-in-innovation-leaderboards-amidst-googles-antitrust-challenges/"><u>Galaxy AI Surges in Innovation Leaderboards Amidst Google's Antitrust Challenges</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-sending-and-receiving-imessages-from-your-pc-with-windows-tips-and-tricks/"><u>Guide: Sending & Receiving iMessages From Your PC with Windows - Tips & Tricks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-samsung-galaxy-m54-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Samsung Galaxy M54 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-streamlining-movie-file-processing-in-windows-11/"><u>In 2024, Streamlining Movie File Processing in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-the-problem-of-a-missing-or-unfound-msvcr1t0dll-file-in-windows-systems/"><u>Solving the Problem of a Missing or Unfound MSVCR1t0.dll File in Windows Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-straps-of-2n25-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Straps of 2N25: Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-of-local-llm-pros-and-cons/"><u>Unveiling the Secrets of Local LLM Pros and Cons</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-perfecting-your-projects-proportions-with-aspect-ratio-for-2024/"><u>[New] Perfecting Your Project's Proportions with Aspect Ratio for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-sweeping-visual-upgrades-with-instagrams-chroma-key-tooling-for-2024/"><u>[New] Sweeping Visual Upgrades with Instagram’s Chroma Key Tooling for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-design-dynamics-top-20-font-choices-for-youtube-success-for-2024/"><u>[Updated] Design Dynamics Top 20 Font Choices for YouTube Success for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-mastering-the-art-of-sniping-on-mac-with-these-tools/"><u>2024 Approved Mastering the Art of Sniping on Mac with These Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-empowers-users-with-voice-activated-responses-powered-by-openai/"><u>ChatGPT Empowers Users with Voice-Activated Responses, Powered by OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-ai-creations-openais-flexible-gpt-offerings/"><u>Dive Into AI Creations: OpenAI's Flexible GPT Offerings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-cover-letters-effortlessly-using-chatgpt/"><u>Enhance Cover Letters Effortlessly Using ChatGPT</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-v30-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo V30 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gain-gpt-4-insights-at-no-cost-four-strategies/"><u>Gain GPT-4 Insights at No Cost: Four Strategies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/limited-time-offer-apple-vision-pro-at-a-surprising-discount-of-200-on-amazon-as-predicted-by-tech-experts-at-zdnet/"><u>Limited-Time Offer: Apple Vision Pro at a Surprising Discount of $200 on Amazon, as Predicted by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mistrust-in-zerogpt-when-detectors-are-blinded/"><u>Mistrust in ZeroGPT: When Detectors Are Blinded</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-quickly-set-up-hp-printerlaptop-drivers/"><u>Step-by-Step Tutorial: Quickly Set Up HP Printer/Laptop Drivers</u></a></li>
 </ul></div>
 

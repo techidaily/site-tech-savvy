@@ -1,7 +1,7 @@
 ---
 title: Avoiding Artificial Assumptions in Written Works
-date: 2024-09-14T16:02:57.008Z
-updated: 2024-09-17T16:17:44.368Z
+date: 2024-12-03T23:07:10.995Z
+updated: 2024-12-06T20:07:46.615Z
 tags:
   - chatgpt
   - open-ai
@@ -26,9 +26,17 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Dangers of AI Writing
 
  From the risk of misinformation to losing your brand voice, there are many dangers associated with using AI to produce content. Here are the top five dangers of using AI to generate written content.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Misinformation
 
@@ -40,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
  Sharing incorrect information can be particularly detrimental when it comes to topics that have the potential to negatively impact someone's health or finances.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Quality Concerns and Possible Plagiarism
 
  AI-based content generators are essentially web scrapers that can learn from data fed to them and generate new ideas or better-quality content. But they, now and then, fall short of this goal.
@@ -49,10 +61,7 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
  Another drawback of using AI to write is the increased likelihood of unintentional plagiarism.[The Guardian](https://www.theguardian.com/us-news/2023/jan/06/new-york-city-schools-ban-ai-chatbot-chatgpt) reports that one of the reasons schools in New York City banned ChatGPT is the risk of students using it to write assignments and passing them off as their work.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Algorithms Devaluing Your Content
@@ -81,29 +90,9 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
  Do you want to know if a human or AI wrote what you're reading? Being able to spot AI-generated text can help you evaluate its credibility. Here are a few ways to spot AI-generated text.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Look for Repetition of Words and Phrases
 
 ![Some text illustrating repetition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ai-repetition.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Even though GPT-3 can generate coherent sentences, AI writing tools frequently appear to have difficulty producing long-form, high-quality content.
 
@@ -127,13 +116,14 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
 ![Some factual, dry texts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bald-eagle-facts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  An AI writing tool can quickly generate facts and simple sentences but not in-depth commentaries. So if you're reading an article and notice it's heavy on facts and light on opinions, it's likely written by a bot.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Check for the Absence of Emotions or Personal Experiences
@@ -147,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
  You can also use a paid or [free plagiarism checker](https://www.makeuseof.com/free-plagiarism-detection-tools-freelancers/) to see if the text is original. If it's duplicate content, it was probably written using AI.
 
  Remember, though, AI content detector tools aren't perfect and may be ineffective against new language models and small amounts of text.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AI-Generated Text: The Risks and How to Spot It
 
@@ -176,5 +159,19 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unleash-your-vision-the-best-tiktok-editing-guide/"><u>[New] 2024 Approved Unleash Your Vision The Best TikTok Editing Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-diving-deep-into-vidmas-screen-recording-features/"><u>[New] Diving Deep Into Vidma's Screen Recording Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-leading-airtag-wallets-ranked-by-professionals-find-your-perfect-match/"><u>2024'S Leading AirTag Wallets Ranked by Professionals: Find Your Perfect Match</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/prehensive-guide-to-maximizing-channels-earnings-through-trailers-for-2024/"><u>A Comprehensive Guide to Maximizing Channels' Earnings Through Trailers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-a-world-using-ai-to-build-captivating-tales/"><u>Crafting a World: Using AI to Build Captivating Tales</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-insights-for-your-health-journey-why-these-asteriskstarsare-vital-prior-to-investing-in-a-fitness-tracker/"><u>Essential Insights for Your Health Journey: Why These asteriskstarsAre Vital Prior to Investing in a Fitness Tracker</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-mastering-color-grading-techniques-in-gopro-studio/"><u>In 2024, Mastering Color Grading Techniques in GoPro Studio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macbookdiy-dvd-burning-dvd/"><u>MacBookを使ってDIY DVD Burning: DVDプレイヤー対応の初心者向けガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-apple-watch-lifespan-8-essential-settings-to-extend-battery-duration/"><u>Maximizing Apple Watch Lifespan: 8 Essential Settings to Extend Battery Duration</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplify-collaboration-with-mematics-cloud-notes-for-2024/"><u>Simplify Collaboration with Mematic’s Cloud Notes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-first-browser-view-in-windows-11/"><u>Tailoring Your First Browser View in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-se-2022-cases-ultimate-protection-and-style-techradar/"><u>Top-Rated iPhone SE 2022 Cases: Ultimate Protection & Style | TechRadar</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Next Generation of Tech - Unraveling the Six Secrets of GPT's Engineer
-date: 2024-11-23T17:05:08.820Z
-updated: 2024-11-27T17:06:40.944Z
+date: 2024-11-30T18:33:52.556Z
+updated: 2024-12-06T16:47:30.267Z
 tags:
   - chatgpt
   - open-ai
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 
 ![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
 
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
@@ -63,13 +59,13 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Create and Edit Videos
@@ -88,15 +84,15 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Create and Modify Audio Files
 
@@ -109,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 * Adjust the sample rate, bit rate, or channels of an audio file
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Read, Edit and Create Documents
 
@@ -136,15 +136,15 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
 
@@ -171,20 +171,19 @@ thumbnail: https://thmb.techidaily.com/e6c7c0aea059b2b9594111c92d9d243c60708ba73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-depth-guide-to-maximizing-your-earnings-with-youtube-and-adsense/"><u>[New] In-Depth Guide to Maximizing Your Earnings with YouTube & AdSense</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-what-is-virtual-reality-video-in-2024/"><u>[New] What Is Virtual Reality Video, In 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-title-design-in-after-effects/"><u>2024 Approved The Art of Title Design in After Effects</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-errors-caused-by-organization-managed-features-on-windows-11/"><u>Addressing Errors Caused by Organization-Managed Features on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-ipads-for-children-kids-reviewed-by-zdnet-choose-wisely/"><u>Best iPads for Children (Kids) Reviewed by ZDNet – Choose Wisely!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/data-security-with-chatgpt-features/"><u>Data Security with ChatGPT Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-strategies-for-teamwork-on-apple-pages-using-icloud-insights-from-zdnet/"><u>Effective Strategies for Teamwork on Apple Pages Using iCloud - Insights From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fortnite-mic-not-working-fixed/"><u>Fortnite Mic Not Working [FIXED]</u></a></li>
-<li><a href="https://win-latest.techidaily.com/guida-passo-passo-per-iniziare-in-modo-effortless-il-proprio-pc-consigli-dettagliati/"><u>Guida Passo-Passo per Iniziare in Modo Effortless Il Proprio PC - Consigli Dettagliati</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-agni-2-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Lava Agni 2 5G Phone without PIN</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-pudding-patrol-tutorial-how-to-guide-to-screen-capture-software/"><u>In 2024, Pudding Patrol Tutorial How-To Guide to Screen Capture Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-dyson-ontrac-the-innovative-wireless-earphones-set-to-outshine-apple-airpods-pro/"><u>Introducing Dyson OnTrac: The Innovative Wireless Earphones Set to Outshine Apple AirPods Pro</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximize-savings-with-our-comprehensive-review-on-the-acer-aspire-e-15-budget-champion/"><u>Maximize Savings with Our Comprehensive Review on the Acer Aspire E 15 - Budget Champion!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/moderate-noise-levels/"><u>Moderate Noise Levels:</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-showdown-between-meta-quest-3-and-apple-vision-pro-revealed-is-mark-zuckerbergs-take-right-techreview-by-zdnet/"><u>The Showdown Between Meta Quest 3 & Apple Vision Pro Revealed - Is Mark Zuckerberg's Take Right? | TechReview by ZDNET</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-10-best-creative-youtube-video-reaction-ideas-you-should-know/"><u>[New] 10 Best Creative YouTube Video Reaction Ideas You Should Know</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-transition-your-facebook-vids-into-stellar-hd/"><u>[New] How to Transition Your Facebook Vids Into Stellar HD</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-ntoskrnlexe-bsod-blue-screen-error/"><u>[SOLVED] ntoskrnl.exe BSOD Blue Screen Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/customizable-generative-ai-by-nvidia-explained/"><u>Customizable Generative AI by NVIDIA Explained</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-a25-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy A25 5G Device SIM</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-moto-g23-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Moto G23 Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-plug-ins-for-gpt-and-vs-code-enhancement/"><u>Optimal Plug-Ins for GPT & VS Code Enhancement</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/utionize-your-room-strategies-to-record-clear-sound-for-2024/"><u>Revolutionize Your Room Strategies to Record Clear Sound for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209516720-9781601635143-the-lost-colonies-of-ancient-america/"><u>The Lost Colonies of Ancient America | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-photos-with-words-how-apples-cutting-edge-artificeintelligence-interprets-text-prompts-to-revamp-images-as-detailed/"><u>Transform Your Photos with Words: How Apple's Cutting-Edge ArtificeIntelligence Interprets Text Prompts to Revamp Images, as Detailed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-random-freezes-with-vision-pro-what-experts-recommend-when-things-go-awry-tech-advice-on-zdnet/"><u>Troubleshooting Random Freezes with Vision Pro: What Experts Recommend When Things Go Awry | Tech Advice on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-longer-battery-life-expert-analysis-of-2024s-best-magsafe-packs-reviews/"><u>Unleash Longer Battery Life: Expert Analysis of 2024'S Best MagSafe Packs Reviews</u></a></li>
 </ul></div>
 

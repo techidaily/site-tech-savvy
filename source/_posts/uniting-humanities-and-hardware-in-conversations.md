@@ -1,7 +1,7 @@
 ---
 title: Uniting Humanities and Hardware in Conversations
-date: 2024-11-26T16:32:14.746Z
-updated: 2024-11-27T17:18:18.750Z
+date: 2024-12-05T22:08:58.446Z
+updated: 2024-12-07T00:57:26.574Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 
  But is this fledgling AI chatbot really worth the title? Is Mistral's Le Chat better than ChatGPT?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Mistral AI's Le Chat?
 
  Le Chat is a conversational AI chatbot developed by French AI startup Mistral AI. It is powered by several Mistral-owned large language models, including Mistral Large, Mistral Small, and Mistral Next, all of which you can choose to use when interacting with the AI chatbot. Although it is a relatively new entrant in the AI chatbot space, it is rated highly because of the performance of its AI models despite their smaller size when compared to industry heavyweights like Gemini and GPT-4\.
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
  Although Le Chat doesn't enjoy the level of publicity enjoyed by ChatGPT nor the brand equity of the likes of Gemini, it has worked its way into the conversation whenever a potential ChatGPT competition is discussed. But does it deserve a place on the table?
 
  I've been wondering the same, and to find out, I tested Le Chat extensively to see how it compares to ChatGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Le Chat vs. ChatGPT: Creativity
 
@@ -71,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 
 ![Le Chat Mistral describes itself](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-describes-itself.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Both responses were appropriate in their own unique ways. ChatGPT was more invested in using vivid imagery and metaphors to describe itself, demonstrating creative flair. On the other hand, Le Chat's response is very informational and focused on describing its essence as an AI chatbot. Some may say it lacks the creative flair and artistic approach that ChatGPT's response exhibits. However, I'll go out on a limb to say I prefer Le Chat's easier-to-imagine response to ChatGPT's abstract description.
 
  I then asked ChatGPT and Le Chat to write a rap song about becoming rich from growing cucumbers—a tricky request we've used to test the creativity of other chatbots. How many rap songs can you find about cucumbers on the web?
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
  And here's Le Chat's response:
 
 ![Le Chat Mistral writes song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-writes-song.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It might be a subjective issue, but ChatGPT's response seemed like the better option here. Le Chat's lyrics seemed quite wordy and didn't really read like something a rapper would put out. To test how both lyrics would sound if they were to be made into music, we used [Suno AI music generator to generate music](https://www.makeuseof.com/suno-ai-make-music-from-text-prompt/) from the lyrics. Three out of three trials, ChatGPT's lyrics sounded way better. Below are two samples from both AI chatbots, you can be the judge of which chatbot did better.
 
@@ -103,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 
  I tried a few other creative tasks, like poems, article writing, and drafting tricky work emails with the AI chatbots. Despite showing great promise, Le Chat was clearly outdone by ChatGPT in all instances. It's important to point out that one area Le Chat was particularly strong in was crafting articles, although with some tricky prompting styles. However, in terms of all-round creativity, the medal goes to ChatGPT.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Le Chat vs. ChatGPT: Programming Skills
 
  Proficiency in coding has become a key requirement for major AI chatbots. Writing decent code is a baseline skill, but to truly stand out among the elite, an AI chatbot must demonstrate its prowess in crafting code that can effectively solve a diverse array of complex problems. We've previously [built an entire web app from scratch using ChatGPT](https://www.makeuseof.com/chatgpt-how-build-web-app/) which demonstrates its remarkable abilities as a programming tool. But how good is Le Chat at writing code?
@@ -116,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Each time we repeated the prompt, ChatGPT created a functional to-do list app using different styles. In no instance did the generated code fail to work.
@@ -126,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
  Of course, I won't judge Le Chat on one failed test. Next, I asked both chatbots to generate JavaScript and PHP code for encrypting and decrypting text. In this second test, both ChatGPT and Le Chat produced functional code that could perform the set task. However, Le Chat's version seemed like what an inexperienced entry-level programmer would write. ChatGPT's code, on the other hand, was more complete and looked like it was written by an experienced programmer.
 
  I repeated a few more programming tests involving finding and fixing bugs, and ChatGPT consistently outperformed Le Chat. In some instances, Le Chat didn't even know what it was supposed to do. There's a good chance Le Chat can measure up to ChatGPT in some areas, but coding skills don't seem to be one of them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Le Chat vs. ChatGPT: Common Sense and Logical Reasoning
 
@@ -141,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 
 ![Le Chat Mistral logical reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-logical-reasoning.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Both chatbots performed comparably on this test.
 
  Up next, we asked both chatbots a trick question: "**If a spaceship from Mars breaks into two, with one part crashing into the Atlantic Ocean near Brazil and the other into the Pacific Ocean near Japan, where do you bury the survivors?"**
@@ -152,10 +156,6 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
  Le Chat was also able to see through the trickery and responded accordingly as well:
 
 ![Le Chat Mistral answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-answers-trick-question.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I tried more trick questions, and it seemed both ChatGPT and Le Chat are quite adept at dealing with commonsense and logical reasoning prompts. However, with more complex logic questions, only ChatGPT could provide the right responses.
 
@@ -180,19 +180,21 @@ thumbnail: https://thmb.techidaily.com/d2f76001c4f2646491c0fc840a81d8218602e4920
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-pros-and-cons-of-inshot-is-it-the-ultimate-editor/"><u>[New] In 2024, Pros and Cons of InShot Is It the Ultimate Editor?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ransforming-raw-footage-expert-pc-editing-tips-for-youtube-creators/"><u>[New] Transforming Raw Footage Expert PC Editing Tips for YouTube Creators</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-flawless-soundscapes-in-the-world-of-social-media-videos/"><u>2024 Approved Flawless Soundscapes in the World of Social Media Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-gt-3-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme GT 3 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-business-unique-value-proposition/"><u>ChatGPT for Business: Unique Value Proposition</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-and-strategies-to-correct-the-black-visual-output-fault-in-your-dell-portable-computer/"><u>Expert Tips and Strategies to Correct the Black Visual Output Fault in Your Dell Portable Computer</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/fixing-dvd-playback-issues-on-apple-devices-solutions-for-macbook-imac-and-air/"><u>Fixing DVD Playback Issues on Apple Devices: Solutions for MacBook, iMac & Air</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-14-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 14 Without Passcode Now</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y200-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y200 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-with-ai-skills-for-thriving-in-technology-driven-jobs/"><u>Leading with AI: Skills for Thriving in Technology-Driven Jobs</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-inshot-adding-your-favorite-tunes-for-2024/"><u>Mastering InShot Adding Your Favorite Tunes for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-creativity-in-freelancing-with-chatgpts-six-methods/"><u>Unlocking Creativity in Freelancing with ChatGPT's Six Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-predictive-ai-and-how-does-it-work/"><u>What Is Predictive AI, and How Does It Work?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnet-reviews-unobtrusive-yet-powerful-smart-lock-solutions-for-apple-devices/"><u>ZDNet Reviews Unobtrusive Yet Powerful Smart Lock Solutions for Apple Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-personalize-your-google-meet-experience-with-fresh-backgrounds/"><u>[New] In 2024, Personalize Your Google Meet Experience with Fresh Backgrounds</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-comprehensive-srt-handbook-for-enthusiasts/"><u>[Updated] 2024 Approved The Comprehensive SRT Handbook for Enthusiasts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-no-cost-windowsmac-solutions-for-movie-lovers/"><u>2024 Approved No-Cost Windows/Mac Solutions for Movie Lovers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-which-should-you-choose/"><u>8 - Which Should You Choose?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adobe-premiere-pro-and-elements/"><u>静止画から動画への変換: Adobe Premiere Pro & Elementsで効果的な作り方</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-how-to-restore-mic-functionality-in-zoom-on-windows-11-and-10/"><u>Fixing the Issue: How to Restore Mic Functionality in Zoom on Windows 11 & 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-everyday-life-benefits-from-ais-progression/"><u>How Everyday Life Benefits From AI's Progression</u></a></li>
+<li><a href="https://blog-min.techidaily.com/les-meilleurs-ameliorateurs-gratuits-dia-pour-la-video-sous-windowsmac-une-selection-exhaustive-des-10-meilleures/"><u>Les Meilleurs Améliorateurs Gratuits D'IA Pour La Vidéo Sous Windows/Mac : Une Sélection Exhaustive Des 10 Meilleures</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/monetizing-success-a-guide-to-purchasing-youtube-content/"><u>Monetizing Success A Guide to Purchasing YouTube Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/parental-guide-to-understanding-ai-futures/"><u>Parental Guide to Understanding AI Futures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/peering-into-chatgpt-transformative-generative-tech-insights/"><u>Peering Into ChatGPT: Transformative Generative Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sync-your-oura-fitness-insights-with-strava-a-step-by-step-guide-techadvisor/"><u>Sync Your Oura Fitness Insights with Strava: A Step-by-Step Guide | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-game-changing-innovation-of-satellite-emergency-alerts-with-googles-latest-pixel-phone-insights-from-zdnet/"><u>The Game-Changing Innovation of Satellite Emergency Alerts with Google's Latest Pixel Phone | Insights From ZDNet</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-rise-of-arm-architecture-alibabas-yitian-nokia-710-crowned-fastest-cpu-for-cloud-servers/"><u>The Rise of ARM Architecture: Alibaba's Yitian Nokia 710 Crowned Fastest CPU for Cloud Servers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-your-youtube-revenue-adsense-rates-per-1k-viewer-for-2024/"><u>Understanding Your YouTube Revenue AdSense Rates Per 1K Viewer for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-potential-with-openais-bespoke-gpt-tools/"><u>Unlock Your Potential with OpenAI's Bespoke GPT Tools</u></a></li>
 </ul></div>
 

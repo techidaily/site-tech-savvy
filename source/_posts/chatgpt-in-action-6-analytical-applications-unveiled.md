@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT in Action: 6 Analytical Applications Unveiled"
-date: 2024-09-10T16:12:49.422Z
-updated: 2024-09-17T16:22:57.472Z
+date: 2024-12-03T22:25:51.695Z
+updated: 2024-12-06T22:43:16.932Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/f3c81d671c8975a0a306f74ea58cef7dc2a771840
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Refine Ideas About a Task
 
  Data analysts can leverage the capabilities of ChatGPT to refine and brainstorm about a task or case study. Since [ChatGPT](https://chat.openai.com/) can generate conversational text, you can engage it and explore various perspectives by asking questions.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/f3c81d671c8975a0a306f74ea58cef7dc2a771840
 > **Case Study:** I have a business problem. I want to [create a dashboard in Excel](https://www.makeuseof.com/create-interactive-excel-dashboard/) to segment and track the behavior of my customer. I currently run a coffee shop, and a few make orders via my e-commerce website.
 >
 > What kind of information should I collect from my customers? What key performance indicators should I measure? Which tool and type of visualization should I use? Also, what kind of cohort analysis, and what will you recommend I incorporate for my user segmentation?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Fixing Bugs and Troubleshooting
 
@@ -58,17 +66,22 @@ CALCULATE(
 
 ![A prompt response from ChatGPT about a debugging task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image1-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. To Interpret Data and Explain Complex Code
 
 ![A prompt from ChatGPT that displays the explaination of a code block](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image6-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. To Write, Edit and Generate Codes, Formula, and Syntax
@@ -96,19 +109,6 @@ else:
        print(items2)`
 
 ![A prompt that display clearly written code by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image4-v1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Learning New Skills
 
@@ -266,13 +266,6 @@ ORDER BY e.employee_id;`
 
 ![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Data Analysts Can Use ChatGPT in Their Work
 
  Powerful AI solutions like ChatGPT boost everyone's productivity, even data analysts. Using ChatGPT's natural language processing capabilities and asking the right prompt, data analysts can quickly and accurately get ideas and insight into their tasks.
@@ -296,5 +289,22 @@ ORDER BY e.employee_id;`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-effective-ways-to-archive-and-record-youtube-events/"><u>[New] Effective Ways to Archive and Record Youtube Events</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-exploring-echoes-in-social-space-an-old-fb-content-pathway/"><u>[New] Exploring Echoes in Social Space An Old FB Content Pathway</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-navigating-cross-platform-social-media-fb-vids-on-whatsapp/"><u>[New] Navigating Cross-Platform Social Media FB Vids on WhatsApp</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-6-effective-ways-of-resizing-your-igtv-videos/"><u>[Updated] 2024 Approved 6 Effective Ways of Resizing Your IGTV Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>2024 Approved From Zero to Cool Video Star Your Mac Youtube Journey Starts Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-exclusive-ipad-pro-pricing-perks-pre-prime-day-the-ultimate-tech-bargain/"><u>Apple's Exclusive iPad Pro Pricing Perks Pre-Prime Day – The Ultimate Tech Bargain</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-next-generation-of-wireless-earbuds-apples-latest-airpods-4-unveil-advanced-find-my-speaker-and-usb-c-options-tech-insights-from-zdnet/"><u>Discover the Next Generation of Wireless Earbuds – Apple's Latest AirPods 4 Unveil Advanced Find My Speaker & USB-C Options | Tech Insights From ZDNET</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-silent-spectators-manual-mastering-the-art-of-private-instagram-story-watching-pcandroidios/"><u>In 2024, Silent Spectator's Manual Mastering the Art of Private Instagram Story Watching [PC/Android/iOS]</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/john-is-the-manager-who-won-an-award-for-excellence/"><u>John Is the Manager Who Won an Award for Excellence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/msi-adopts-intels-prescribed-power-parameters-for-i9-enabled-motherboards-addressing-stability-challenges-amidst-intels-investigation-process/"><u>MSI Adopts Intel's Prescribed Power Parameters for I9-Enabled Motherboards, Addressing Stability Challenges Amidst Intel’s Investigation Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-airpods-from-apple-now-include-locator-functionality-and-usb-c-support-detailed-review-cnet/"><u>Next-Gen AirPods From Apple Now Include Locator Functionality & USB-C Support - Detailed Review | CNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-securely-syncing-and-protecting-your-iphone-data-via-icloud-and-mac-tips-from-zdnet/"><u>Step-by-Step Guide: Securely Syncing and Protecting Your iPhone Data via iCloud & Mac - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-your-living-with-gpt-innovations/"><u>Streamlining Your Living with GPT Innovations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-superiority-of-ios-for-a-seamless-chatgpt-experience/"><u>The Superiority of iOS for a Seamless ChatGPT Experience</u></a></li>
+</ul></div>
 

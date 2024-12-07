@@ -1,7 +1,7 @@
 ---
 title: The Synergy of ChatGPT and iOS's Siri Functionality
-date: 2024-09-16T16:18:42.251Z
-updated: 2024-09-17T16:13:06.012Z
+date: 2024-12-01T18:56:13.947Z
+updated: 2024-12-06T22:15:39.437Z
 tags:
   - chatgpt
   - open-ai
@@ -45,9 +45,17 @@ thumbnail: https://thmb.techidaily.com/abed13984f00a4dafd781b81f7c6f09556b0fa71b
 
 ![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -80,20 +88,25 @@ Close
 
 ![add shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![add API key here option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-api-key-here-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![paste API key in workflow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key-in-workflow.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  Congratulations, you now have your very own ChatGPT shortcut set up on your iPhone. Now for the million-dollar question: how do you use the shortcut with Siri on your iPhone?
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using the ChatGPT Shortcut With Siri on Your iPhone
 
@@ -105,18 +118,15 @@ Close
 
 ![allow speech recognition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-speech-recognition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT launched with siri](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-launched-with-siri.jpg)
 
 Close
 
  If you want to change the name of your shortcut, you can always long-press on it and select **Rename** to call it whatever you want.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is More Accessible Than We Thought
 
@@ -141,5 +151,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-enhancing-youtube-visibility-with-tubebuddy/"><u>[New] In 2024, Enhancing YouTube Visibility with TubeBuddy</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-laying-the-groundwork-for-av1-understanding/"><u>[New] Laying The Groundwork for AV1 Understanding</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-understanding-the-mechanism-for-personalizing-social-media-visuals-for-2024/"><u>[Updated] Understanding the Mechanism for Personalizing Social Media Visuals for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-segmentviewer-study-notes/"><u>2024 Approved SegmentViewer Study Notes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-intro-creator-software-for-windows-and-mac-for-2024/"><u>Best Intro Creator Software for Windows and Mac for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-broccoli-bug-solved-with-patch-update/"><u>Destiny 2: Broccoli Bug Solved with Patch Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fictitious-gpt-add-on-pilfers-login-data-from-fb/"><u>Fictitious GPT Add-On: Pilfers Login Data From FB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-adventure-navigating-gpts-roleplay-scenarios/"><u>From Text to Adventure: Navigating GPT's Roleplay Scenarios</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-excellence-a-guide-to-choosing-best-titling-talents-online/"><u>In 2024, Unraveling the Excellence A Guide To Choosing Best Titling Talents Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigate-through-helperdll-not-found-issues-effective-solutions-unveiled/"><u>Navigate Through 'Helper.dll Not Found' Issues: Effective Solutions Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/put-an-end-to-junk-text-alerts-a-tri-step-guide-for-iphone-users-insights-from-zdnet/"><u>Put an End to Junk Text Alerts: A Tri-Step Guide for iPhone Users - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spectacular-camera-showcase-for-the-year-2024/"><u>Spectacular Camera Showcase for the Year 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-explores-apples-upcoming-quiet-revolution-in-ai-announced-for-the-latest-wwdc-event/"><u>ZDNet Explores Apple's Upcoming Quiet Revolution in AI Announced for the Latest WWDC Event</u></a></li>
+</ul></div>
 

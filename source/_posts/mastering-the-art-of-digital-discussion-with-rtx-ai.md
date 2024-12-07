@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Digital Discussion with RTX AI
-date: 2024-09-16T16:26:08.065Z
-updated: 2024-09-17T16:20:40.924Z
+date: 2024-11-30T00:18:52.487Z
+updated: 2024-12-07T00:55:30.871Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Nvidia Chat with RTX?](https://newchic.sjv.io/jzg4zq)
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 * [How to Use Nvidia Chat with RTX](https://united.elfm.net/zqobdx)
 * [Is Nvidia's Chat with RTX Any Good?](https://lightailing.sjv.io/k0ez0m)
 * [What if I Don't Have an RTX 30 or 40 Series GPU?](https://homestyler.sjv.io/y209g3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,22 +56,13 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
  If you want to try out Nvidia Chat with RTX, here's how to download, install, and configure it on your computer.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Download and Install Chat with RTX
 
 ![Chat with RTX official web page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/download-chat-with-rtx.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Nvidia has made running an LLM locally on your computer much easier. To run Chat with RTX, you only need to download and install the app, just as you would with any other software. However, Chat with RTX does have some minimum specification requirements to install and use properly.
 
@@ -80,24 +79,15 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 * **Step 3:** Open the extracted folder and double-click **setup.exe**. Follow the onscreen instructions and check all the boxes during the custom installation process. After hitting **Next**​​​​​​, the installer will download and install the LLM and all dependencies.  
 ![Installation process of Chat with RTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/installing-wait.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Chat with RTX installation will take some time to finish as it downloads and installs a large amount of data. After the installation process, hit **Close**, and you're done. Now, it's time for you to try out the app.
 
 ## How to Use Nvidia Chat with RTX
 
  Although you can use Chat with RTX like a regular online AI chatbot, I strongly suggest you check its RAG functionality, which enables you to customize its output based on the files you give access to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Create RAG Folder
 
@@ -109,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
  Now your database is ready, you can set up Chat with RTX and start using it to answer your questions and queries.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Set Up Environment
 
  Open Chat with RTX. It should look like the image below.
@@ -125,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
  Under **Dataset**, make sure that the **Folder Path** option is selected. Now click on the edit icon below (the pen icon) and select the folder containing all the files you want Chat with RTX to read. You can also change the AI model if other options are available (at the time of writing, only Mistral 7B is available).
 
  You are now ready to use Chat with RTX.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Ask Chat with RTX Your Questions
 
@@ -148,10 +124,7 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
  There are many ways you can use Chat with RTX's RAG to your advantage. For example, you can use it to read through legal papers and give a summary, generate code relevant to the program you're developing, get bulleted highlights about a video you're too busy to watch, and so much more!
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4: Bonus Feature
@@ -159,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
  In addition to your local data folder, you can use Chat with RTX to analyze YouTube videos. To do so, under **Dataset**, change the **Folder Path** to **YouTube URL**.
 
 ![Set data path for YouTube](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/select-youtube-path.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Copy the YouTube URL you want to analyze and paste it below the drop-down menu. Then ask away!
 
@@ -177,6 +154,10 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
  As for other locally running AI chatbots running Mistral 7B, Chat with RTX performs better and faster. Although a big part of the performance boost comes from using higher-end GPUs, the use of Nvidia TensorRT-LLM and RTX acceleration made running Mistral 7B faster on Chat with RTX when compared to other ways of running a chat-optimized LLM.
 
  It is worth noting that the Chat with RTX version we are currently using is a demo. Later releases of Chat with RTX will likely become more optimized and deliver performance boosts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What if I Don't Have an RTX 30 or 40 Series GPU?
 
@@ -197,5 +178,22 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-capturing-lifes-moments-with-the-virb-ultra-30-an-in-depth-guide/"><u>[New] Capturing Life's Moments with the VIRB Ultra 30 – An In-Depth Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-directing-rhythms-integrating-sounds-into-youtube/"><u>[Updated] Directing Rhythms Integrating Sounds Into Youtube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-a-better-world-with-chatgpts-revolutionary-enhancements/"><u>Explore a Better World with ChatGPT's Revolutionary Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-creation-with-dall-e-in-gpt-4-environments/"><u>Exploring AI Creation with DALL-E in GPT-4 Environments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gotrax-gxl-v2-commuting-electric-scooter-review/"><u>GOTRAX GXL V2 Commuting Electric Scooter Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changefake-your-tecno-spark-20c-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Tecno Spark 20C Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-gpt-3-android-and-ios-integration/"><u>Navigating GPT-3: Android & iOS Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-ai-prose-training-chatgpt-to-reflect-you/"><u>Personalizing AI Prose: Training ChatGPT to Reflect You</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-motorola-moto-e13-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Motorola Moto E13 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-labor-day-bargain-get-your-new-2nd-gen-apple-pencil-for-just-95-with-zdnets-special-deal/"><u>Unbeatable Labor Day Bargain: Get Your New 2Nd Gen Apple Pencil for Just $95 with ZDNet's Special Deal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-most-exceptional-mac-models-expert-review-and-analysis-by-zdnet/"><u>Unveiling the Most Exceptional Mac Models - Expert Review & Analysis by ZDNet</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-visual-journey-top-12-websites-unveiling-high-quality-stock-images/"><u>Your Visual Journey - Top 12 Websites Unveiling High-Quality Stock Images</u></a></li>
+</ul></div>
 

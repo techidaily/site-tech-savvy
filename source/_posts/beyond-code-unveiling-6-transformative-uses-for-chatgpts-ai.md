@@ -1,7 +1,7 @@
 ---
 title: "Beyond Code: Unveiling 6 Transformative Uses for ChatGPT's AI"
-date: 2024-09-16T16:25:28.403Z
-updated: 2024-09-17T16:07:03.377Z
+date: 2024-12-04T17:59:08.630Z
+updated: 2024-12-06T22:47:45.644Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Create and Edit Images
 
  You can pull off a lot of interesting image manipulation tricks with [ChatGPT's Code Interpreter](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/). The best part is that you don't need any special skills to do so, all you need to do is simply describe what you want to do in plain language. The results and options might not be Photoshop grade, but they are usually quite interesting and worth the efforts.
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
 
 ![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
 
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
@@ -59,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Create and Edit Videos
 
@@ -75,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
  Here's a snapshot of some of the things you can do with a video using the ChatGPT code interpreter:
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
@@ -107,10 +123,7 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
@@ -126,19 +139,6 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
  When we asked for a new feature to be added to the project, the plugin could identify all the files that needed changes to add a new feature. When prompted, it could make these changes with no input from our end.
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
@@ -169,5 +169,18 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-ensemble-moves-syncing-your-song-collections-for-2024/"><u>[Updated] Ensemble Moves Syncing Your Song Collections for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-efficiently-removing-youtube-channels-a-device-centric-approach/"><u>2024 Approved Efficiently Removing Youtube Channels A Device-Centric Approach</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-real-vs-counterfeit-deciphering-authentic-youtube-supports/"><u>2024 Approved Real Vs. Counterfeit Deciphering Authentic YouTube Supports</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/banish-email-clutter-with-one-clever-hack-say-goodbye-to-complex-filters-and-multiple-accounts-tips/"><u>Banish Email Clutter with One Clever Hack - Say Goodbye to Complex Filters and Multiple Accounts | Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-missing-pages-in-microsoft-store-windows/"><u>Dealing with Missing Pages in Microsoft Store Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-text-based-models-for-universe-creation/"><u>Harnessing Text-Based Models for Universe Creation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50-gt-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor X50 GT Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sonos-unveils-s2-application-for-streamlined-audio-command-yet-beware-not-all-is-smooth-sailing/"><u>Sonos Unveils S2 Application for Streamlined Audio Command, Yet Beware - Not All Is Smooth Sailing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pinnacle-of-ai-dialogues-post-chatgpt/"><u>The Pinnacle of AI Dialogues Post-ChatGPT</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-quintet-of-superior-language-understanding-systems-redefining-llms/"><u>The Quintet of Superior Language Understanding Systems Redefining LLMs</u></a></li>
+</ul></div>
 

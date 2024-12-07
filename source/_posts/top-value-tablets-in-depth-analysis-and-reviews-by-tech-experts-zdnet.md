@@ -1,7 +1,7 @@
 ---
 title: "Top Value Tablets : In-Depth Analysis & Reviews by Tech Experts | ZDNet"
-date: 2024-11-25T16:41:51.109Z
-updated: 2024-11-27T16:51:32.509Z
+date: 2024-12-02T21:35:06.620Z
+updated: 2024-12-06T19:08:22.349Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Whether you need a new tablet for school or work, or are looking to upgrade with
 
 **Also:** [**The best large tablets**](https://www.zdnet.com/article/best-large-tablet/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best cheap tablets of 2024
 
 Show less 
@@ -45,7 +49,7 @@ Cons
 ## iPad (9th generation)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best cheap tablet overall
@@ -77,10 +81,14 @@ Cons
 * Performance isn't its best feature
 * No access to Google apps or services
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Fire HD 8 Plus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best small screen cheap tablet
@@ -114,10 +122,6 @@ Cons
 
 ## Lenovo Chromebook Duet 3
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best ChromeOS cheap tablet
 
 The Lenovo Chromebook Duet 3 recently came out and is an affordable Android tablet with a display that's meant to be detached from its body. Lenovo made two notable upgrades with this 2022 model: a larger 11-inch display and an additional USB-C port. The former is a mere inch more than its predecessor, but still noticeable and great for entertainment, web surfing, and basic work. 
@@ -147,6 +151,10 @@ Cons
 * Keyboard not included
 
 ## Lenovo Tab P11 Plus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best big screen cheap tablet
 
@@ -179,6 +187,10 @@ Cons
 
 ## Oukitel RT3
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best rugged cheap tablet
 
 You'd have to try incredibly hard to wreck this tablet. That's because you can submerge it in water in depths above 1.5m for 30 minutes, expose it to high-pressure water jets and steam cleaning, and drop it from 1.2m -- and it won't break. When contributing writer Adrian Kingsley Hughes got his hands on the Oukitel RT3, he called it "an upscaled version of a ruggedized smartphone." 
@@ -209,10 +221,6 @@ Cons
 
 ## Amazon Fire HD 10 Kids Pro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best cheap kids tablet
 
 When it comes to tablets for kids, ZDNET writer Maria Diaz says it's all about durability, fast performance, and warranties or policies for replacements when your kid inevitably drops or spills his milk on it. Amazon's Fire HD 10 Kids Pro tablet has all that and more, and it's a great option for parents who want to give their kids some tech for learning and reading purposes, but don't want to shell out a crazy amount of cash for a device that their kid will break in two months. 
@@ -230,7 +238,7 @@ Overall, 98% customers who have purchased this tablet at Best Buy would recommen
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best cheap tablet?
@@ -274,10 +282,6 @@ There are a few factors we consider before adding these cheap tablets to this li
 * **Durability:** A nice tablet is good and plenty, but it should also last you a long time to truly get your money's worth. Many of these tablets have rugged features, so that if you end up accidentally dropping it it won't shatter and the screen won't crack.
 * **Performance:** The downside of a cheaper piece of tech is, unfortunately, slower performance. We sought out tablets with high-performing CPUs and above-average performance, so even if you do end up opting for an inexpensive device, you aren't sacrificing high performance for a low cost.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -296,6 +300,10 @@ The best cheap tablets come from brands like Apple, Samsung, Microsoft, Amazon, 
 
 You can find more cheap Android tablets than cheap Apple tablets, but Apple usually has tablets deals during big sales events or holidays.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are cheap tablets good for students?
 
 That really depends on the kind of classwork someone will be doing. Younger children may benefit from using a tablet over a traditional laptop--with intuitive touch controls, it will be easier for them to navigate through menus and apps required to attend virtual classes or to turn in assignments. Older students will be doing more intensive coursework, and tablets aren't best suited for things like word processing or making spreadsheets. 
@@ -310,19 +318,11 @@ You'll want at least 8GB of storage, but thankfully, many new tablet models come
 
 The best cheap tablet options on this list all have great storage capacities. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Are tablets cheaper than laptops?
 
 Generally speaking, a tablet is going to be much more affordable than a traditional laptop. For basic home use, like web browsing or streaming video and music, you can pick one up for just a few hundred dollars. But if you want something more specialized, like for content creation or graphic design, the price significantly increases.
 
 **Also:** [**The best laptops you can buy**](https://www.zdnet.com/article/best-laptop/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the cheapest iPad?
 
@@ -376,20 +376,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-essential-tools-top-8-mirrorless-cams-for-professional-filmmakers/"><u>[New] 2024 Approved Essential Tools Top 8 Mirrorless Cams For Professional Filmmakers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-flashback-2022s-snowboard-x-winners/"><u>[New] Ultimate Flashback 2022'S Snowboard X Winners</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-navigating-multiple-perspectives-with-fb-lives-split-view-functionality/"><u>[Updated] In 2024, Navigating Multiple Perspectives with FB Live's Split View Functionality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-public-assessment-of-vllo-functionality/"><u>[Updated] Public Assessment of VLLO Functionality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easily-customize-your-gmail-experience-with-different-keyboard-layouts-step-by-step-tutorial/"><u>Easily Customize Your Gmail Experience with Different Keyboard Layouts - Step by Step Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-cybersecurity-teams-effective-ways-to-enhance-their-support-and-resilience/"><u>Empowering Cybersecurity Teams - Effective Ways to Enhance Their Support and Resilience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-your-browsing-privacy-discover-how-mullvad-offers-robust-security-without-using-tor-insights-from-zdnet/"><u>Enhance Your Browsing Privacy: Discover How Mullvad Offers Robust Security Without Using Tor - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-written-workflow-with-libreoffice-vs-google-docs-key-advantages-for-the-serious-writer/"><u>Enhancing Your Written Workflow with LibreOffice Vs. Google Docs: Key Advantages for the Serious Writer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-tactics-to-win-over-co-workers-and-gain-support-for-your-proposals-at-work-expert-advice-by-zdnet/"><u>Essential Tactics to Win Over Co-Workers and Gain Support for Your Proposals at Work - Expert Advice by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-unmatched-speed-with-our-free-open-source-chromium-browser-top-performance-tested-on-zdnet/"><u>Experience Unmatched Speed with Our Free, Open Source Chromium Browser - Top Performance Tested on ZDNet</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/freeze-time-like-never-before-on-the-newest-mi-phone/"><u>Freeze Time Like Never Before on the Newest Mi Phone</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-through-the-silence-of-social-networks/"><u>Navigating Through the Silence of Social Networks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/order-of-adventure-how-to-binge-the-indiana-jones-films-correctly/"><u>Order of Adventure: How to Binge the Indiana Jones Films Correctly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-se-2022-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE (2022) Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-value-in-depth-analysis-of-the-budget-friendly-moto-g-stylus-smartphone/"><u>Unveiling the Value: In-Depth Analysis of the Budget-Friendly Moto G Stylus Smartphone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-streamline-your-media-experience-with-pip-in-safari/"><u>[New] 2024 Approved Streamline Your Media Experience with PIP in Safari</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeos-easy-to-use-editing-tools-no-cost/"><u>[New] 2024 Approved Vimeo's Easy-to-Use Editing Tools, No Cost</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unlocking-screen-capture-mastery-in-windows-os/"><u>[Updated] 2024 Approved Unlocking Screen Capture Mastery in Windows OS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-transform-your-streaming-journey-by-activating-youtubes-av1-for-2024/"><u>[Updated] Transform Your Streaming Journey by Activating YouTube's AV1 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vector-insight-for-beginners-basic-forms-and-choice-tools/"><u>2024 Approved Vector Insight for Beginners Basic Forms and Choice Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/backup-blueprint-maintaining-and-moving-gpt-conversations/"><u>Backup Blueprint: Maintaining and Moving GPT Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-iphone-13-and-15-pro-top-alternatives-to-consider-after-apples-discontinuation/"><u>Beyond the iPhone 13 & 15 Pro: Top Alternatives to Consider After Apple's Discontinuation</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/craft-winning-promotional-emails-with-ease-masterclass-using-massmail-software/"><u>Craft Winning Promotional Emails with Ease: Masterclass Using Massmail Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-engaging-interactive-experienenas-with-chatgpt-integration/"><u>Creating Engaging Interactive Experienenas With ChatGPT Integration</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dell-xps-13-9345-laptop-evaluation-timeless-design-upgraded-with-qualcomms-x-elite-processor/"><u>Dell XPS 13 (9345) Laptop Evaluation: Timeless Design Upgraded with Qualcomm's X Elite Processor</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/diving-into-differences-macbook-air-vs-macbook-pro-analysis/"><u>Diving Into Differences: MacBook Air Vs. MacBook Pro Analysis</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s24plus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S24+ in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-creativity-scaling-design-with-canva-and-ai/"><u>Maximizing Creativity: Scaling Design with Canva & AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcome-iphones-obstacles-with-these-chatgpt-fixes/"><u>Overcome iPhone's Obstacles with These ChatGPT Fixes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premier-12-screen-recording-solutions-uncapped-recording/"><u>Premier 12 Screen Recording Solutions - Uncapped Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-film-production-breakthrough-fcpx-ipad-functions-that-every-filmmaker-must-know-zdnet/"><u>Revolutionizing Film Production: Breakthrough FCPx iPad Functions That Every Filmmaker Must Know - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/side-hustle-scouting-is-chatgpt-a-smart-investment/"><u>Side Hustle Scouting: Is ChatGPT a Smart Investment?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-gpt-3-exchanges-the-art-of-file-segregation/"><u>Tailoring GPT-3 Exchanges: The Art of File Segregation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-ai-capabilities-apple-must-develop-to-challenge-openai-and-google-insights/"><u>Top 10 AI Capabilities Apple Must Develop to Challenge OpenAI & Google: Insights</u></a></li>
 </ul></div>
 

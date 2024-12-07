@@ -1,7 +1,7 @@
 ---
 title: Commanding Originality in AI Graphics with Microsoft's Copilot Edge
-date: 2024-09-13T16:04:08.216Z
-updated: 2024-09-17T16:24:38.401Z
+date: 2024-12-02T17:50:55.192Z
+updated: 2024-12-07T00:40:52.241Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/f0d2cd8974292ab66746087f564b3584c21b8b24b
 * [What Is Microsoft Copilot Image Creator?](https://ancheer.sjv.io/y96bgp)
 * [How to Use Microsoft Copilot Image Generator](https://my-balance-meals.pxf.io/1r0rrg)
 * [Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?](https://turbotech.pxf.io/pyx4je)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -51,16 +55,7 @@ thumbnail: https://thmb.techidaily.com/f0d2cd8974292ab66746087f564b3584c21b8b24b
  There are two "versions" of Copilot Image Creator, though they both work similarly. You can access the Copilot Image Creator directly from Microsoft Copilot within the Edge browser, which is an exclusive Edge feature. However, not wanting to cut potential users out, you can also access it in any browser by heading to the [Copilot Image Creator](https://copilot.microsoft.com/). I'll cover the differences between each option below, but both AI image creation tools follow the same premise: you input your words, and the AI tool turns them into unique images.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Microsoft Copilot Image Generator
@@ -68,19 +63,6 @@ thumbnail: https://thmb.techidaily.com/f0d2cd8974292ab66746087f564b3584c21b8b24b
  Microsoft's Copilot Image Creator uses DALL-E 3 to create AI images. DALL-E 3 is the same AI text-to-image you'll find on ChatGPT Plus, OpenAI's premium $20 subscription tier. So here's the rub: you can use the same DALL-E 3 image creation tool with Copilot without paying a penny.
 
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only [reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/).
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Microsoft Copilot Image Creator in Edge
 
@@ -93,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/f0d2cd8974292ab66746087f564b3584c21b8b24b
  For example, I asked Copilot Image Creator to "create a 2:1 image of a person standing on a beach," which, of course, it didn't do and gave me four 1:1 images instead.
 
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, from there, I selected the image I wanted to use, pressed the "expand" icon in the bottom right corner, and selected **Landscape**. Copilot auto-magically adjusted the original image into a 2:1 1792x1024, finally fulfilling my original request.
 
@@ -110,9 +96,17 @@ Close
 
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.
 
  What I found interesting was that Image Creator images generated in Copilot on Edge will appear in your Image Creator recent images. Edits you make to the Copilot on Edge images will update across the two tools as you make them, but it's a one-way process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?
 
@@ -141,5 +135,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-smart-setup-for-your-windows-11-journey/"><u>[Updated] 2024 Approved Smart Setup for Your Windows 11 Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-compromised-windows-defense-in-win-11/"><u>Correcting Compromised Windows Defense in Win 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-engaging-content-with-chatgpt-dos-donts-for-freelancers/"><u>Crafting Engaging Content with ChatGPT: Do’s, Don'ts for Freelancers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-realme-c55-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Realme C55? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-responsibly-openais-ceo-on-ai-oversight-and-regulation/"><u>Innovating Responsibly: OpenAI’s CEO on AI Oversight and Regulation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-chatgpt-api-landscape/"><u>Navigating the ChatGPT API Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-uncharted-waters-openai-leader-calls-for-guidance/"><u>Navigating Uncharted Waters - OpenAI Leader Calls for Guidance</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-free-video-editing-solutions-for-32-bit-windows-our-top-picks-for-2024/"><u>New Free Video Editing Solutions for 32-Bit Windows Our Top Picks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-notetaking-tablet-reviews-in-depth-analysis-and-comparisons-techinsight/"><u>Top Rated Notetaking Tablet Reviews - In Depth Analysis & Comparisons | TechInsight</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-release-next-weeks-rumored-new-macbook-lineup-unveiled-in-latest-zdnet-exclusive/"><u>Upcoming Release: Next Week's Rumored New MacBook Lineup Unveiled in Latest ZDNet Exclusive</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-s24-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy S24 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-these-4-popular-igadgets-may-not-be-your-best-bet-in-the-market-a-detailed-look/"><u>Why These 4 Popular iGadgets May Not Be Your Best Bet in the Market: A Detailed Look</u></a></li>
+</ul></div>
 

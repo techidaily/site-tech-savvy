@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Imaginary Interpretations in Artificial Intelligence
-date: 2024-11-21T17:05:03.893Z
-updated: 2024-11-27T17:08:28.235Z
+date: 2024-11-30T19:43:34.914Z
+updated: 2024-12-06T22:56:34.872Z
 tags:
   - chatgpt
   - open-ai
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/72d9cc19f5dd74f14cb9e7915834c6357e497aa75
 
 ![ChatGPT's response to where Elon Musk's house is located](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181459.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On further query, ChatGPT turned up with this:
 
 ![A ChatGPT prompt further querying where elon musk's factory is at in brazil](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181530.jpg)
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/72d9cc19f5dd74f14cb9e7915834c6357e497aa75
  The challenge is to select the potato chips without hitting any leaves in the montage. This image might look tricky to a computer, and it might be unable to differentiate between the BBQ potato chips and leaves.
 
 ![A 4x4 montage of BBQ potato chips and leaves](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-17-233958.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Here's another montage with a mix of poodle and pork floss bun images. A computer would most likely be unable to differentiate between them, therefore mixing the images.
 
@@ -88,12 +80,16 @@ thumbnail: https://thmb.techidaily.com/72d9cc19f5dd74f14cb9e7915834c6357e497aa75
 
 ![Screenshot of ChatGPT giving multiple wrong answers to a prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wrong-answer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So why is ChatGPT unable to give an accurate answer to these prompts?
 
  It could be that the language model is unequipped to handle rather complex prompts such as these or that it cannot interpret the prompt accurately, ignoring the prompt on giving a similar word with a specific alphabet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do You Spot AI Hallucination?
@@ -101,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/72d9cc19f5dd74f14cb9e7915834c6357e497aa75
  It is evident now that AI applications have the potential to hallucinate—generate responses otherwise from the expected output (fact or truth) without any malicious intent. And spotting and recognizing AI hallucinations is up to the users of such applications.
 
  Here are some ways to spot AI hallucinations while using common AI applications:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Large Language Processing Models
 
@@ -114,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/72d9cc19f5dd74f14cb9e7915834c6357e497aa75
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As a branch of artificial intelligence, machine learning, and computer science, computer vision empowers computers to recognize and process images like human eyes. Using [convolutional neural networks](https://www.makeuseof.com/convolutional-neural-network-explained/), they rely on the incredible amount of visual data used in their training.
 
  A deviation from the patterns of the visual data used in training will result in hallucinations. For example, if a computer was not trained with images of a tennis ball, it could identify it as a green orange. Or if a computer recognizes a horse beside a human statue as a horse beside a real human, then an AI hallucination has occurred.
@@ -125,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/72d9cc19f5dd74f14cb9e7915834c6357e497aa75
  So to spot a computer vision hallucination, compare the output generated to what a \[normal\] human is expected to see.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Self-Driving Cars
@@ -133,7 +129,7 @@ thumbnail: https://thmb.techidaily.com/72d9cc19f5dd74f14cb9e7915834c6357e497aa75
 ![Ford Blue Cruise 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ford-blue-cruise-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedmedia.viewmore.image.html/content/fordmedia/fna/us/en/news/2021/04/14/ford-mother-of-all-road-trips-bluecruise-hands-free-driving/jcr:content/rightRailPar/relatedmedia.html)
@@ -141,6 +137,10 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
  Thanks to AI, self-driving cars are gradually infiltrating the auto market. Pioneers like Tesla Autopilot and Ford's BlueCruise have been championing the scene of self-driving cars. You can check out [how and what the Tesla Autopilot sees](https://www.makeuseof.com/how-and-what-the-tesla-autopilot-sees/) to get a bit of an understanding of how AI powers self-driving cars.
 
  If you own one of such cars, you would want to know if your AI car is hallucinating. One sign will be if your vehicle seems to be deviating from its normal behavior patterns while driving. For example, if the vehicle brakes or swerves suddenly without any obvious reason, your AI vehicle might be hallucinating.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AI Systems Can Hallucinate Too
 
@@ -167,24 +167,19 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-top-8-zero-cost-3d-vids-plugins-for-windows-and-mac-os/"><u>[New] Explore Top 8 Zero-Cost 3D Vids Plugins For Windows & Mac OS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-launching-a-graphics-career-strategies-and-steps-for-2024/"><u>[New] Launching a Graphics Career Strategies and Steps for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-revolutionizing-viewer-retention-on-youtube-with-these-powerful-strategies/"><u>[New] Revolutionizing Viewer Retention on YouTube with These Powerful Strategies</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-10-premier-travel-blogs-to-watch-online/"><u>[Updated] 10 Premier Travel Blogs to Watch Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-unveils-budget-friendly-m2-macbook-air-at-only-799-before-prime-day-sale/"><u>Apple Unveils Budget-Friendly M2 MacBook Air at Only $799 Before Prime Day Sale!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-between-the-apple-watch-ultra-and-apple-watch-series-8-a-comprehensive-guide/"><u>Choosing Between the Apple Watch Ultra and Apple Watch Series 8: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-chatgpt-for-enhancing-writers-craft/"><u>Evaluating ChatGPT for Enhancing Writers’ Craft</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/github-copilot-and-chatgpt-which-enhances-coding-efficiency-more/"><u>GitHub Copilot and ChatGPT: Which Enhances Coding Efficiency More?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-curve-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Lava Blaze Curve 5G Phone without PIN</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-redmi-a2-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Redmi A2 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-6-plus-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 6 Plus Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-bots-and-your-info-the-top-3-privacy-concerns/"><u>Interactive Bots and Your Info: The Top 3 Privacy Concerns</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamlessly-upgrade-your-workspace-with-a-second-thunderbolt-monitor-on-your-m1-mac-mini-expert-advice-from-zdnet/"><u>Seamlessly Upgrade Your Workspace with a Second Thunderbolt Monitor on Your M1 Mac Mini | Expert Advice From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-next-chapter-in-language-models-when-will-gpt-5-appear/"><u>The Next Chapter in Language Models: When Will GPT-5 Appear?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-airpods-pro-gear-and-enhancements-techradar/"><u>Top Rated AirPods Pro Gear and Enhancements | TechRadar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uncovering-the-reasons-behind-lack-of-access-to-facebook-marketplace/"><u>Uncovering the Reasons Behind Lack of Access to Facebook Marketplace</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrade-or-stay-updated-the-showdown-between-m3-and-m2-macbook-air-processors-explained/"><u>Upgrade or Stay Updated? The Showdown Between M3 and M2 MacBook Air Processors Explained.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/write-effortlessly-master-automated-writing-using-hix-and-gpt-innovations/"><u>Write Effortlessly: Master Automated Writing Using Hix and GPT Innovations</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-open-source-templates-transform-your-youtube-channel/"><u>[New] 2024 Approved Open-Source Templates Transform Your YouTube Channel</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-easy-guide-online-tools-to-save-your-youtube-videos/"><u>[New] In 2024, Easy Guide Online Tools to Save Your YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-decorating-your-wardrobe-a-guide-to-haul-edits/"><u>[Updated] Decorating Your Wardrobe A Guide to Haul Edits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-record-mov-files-on-windows-11/"><u>[Updated] How to Record MOV Files on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-authenticity-ensuring-ethical-content-generation/"><u>AI Authenticity: Ensuring Ethical Content Generation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-the-app-store-think-twice-for-your-mac-security/"><u>ChatGPT in the App Store? Think Twice for Your Mac Security</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-chatgpts-business-centric-features/"><u>Decoding ChatGPT's Business-Centric Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-how-ai-is-shaping-and-transforming-the-global-landscape/"><u>Exploring How AI Is Shaping and Transforming the Global Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gaming-retro-building-pc-a-dual-focus/"><u>Gaming Retro, Building PC – A Dual Focus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-vcruntime140dll-error-and-resolve-windows-10-application-launch-issues/"><u>How to Fix VCRUNTIME140.dll Error and Resolve Windows 10 Application Launch Issues</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-free-toolkit-for-unrestricted-story-archiving/"><u>In 2024, FREE Toolkit for Unrestricted Story Archiving</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-cut-costs-not-quality-get-final-cut-pro-with-education-discounts/"><u>New Cut Costs, Not Quality Get Final Cut Pro with Education Discounts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fix-usb-cam-drivers-securely-download-for-immediate-use/"><u>Quick-Fix USB Cam Drivers - Securely Download for Immediate Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-potential-chatgpts-role-in-interview-readiness/"><u>Unlock Potential: ChatGPT's Role in Interview Readiness</u></a></li>
 </ul></div>
 

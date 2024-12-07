@@ -1,7 +1,7 @@
 ---
 title: Unveiling Key Traits of GPT-4 and GPT-3.5
-date: 2024-11-22T16:24:06.900Z
-updated: 2024-11-27T16:03:51.735Z
+date: 2024-12-01T18:53:27.015Z
+updated: 2024-12-07T00:56:44.048Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. GPT-4 vs. GPT-3.5: Creativity
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of the most pronounced advantages of the GPT-4 model over GPT-3.5 is its ability to provide more creative replies to prompts. Don't get me wrong; GPT-3.5 is very creative. There's a long list of [creative things you can do with ChatGPT that uses the model](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/). However, it already outperforms many large language models in terms of creativity.
@@ -46,13 +46,13 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
 
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem, [ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
 
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
@@ -121,18 +121,15 @@ thumbnail: https://thmb.techidaily.com/2546a6e6db1c838a1a7b59103067ea8f9dccc09f3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-proven-approaches-to-exceptional-android-time-lapse-photography/"><u>[Updated] Proven Approaches to Exceptional Android Time-Lapse Photography</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-the-invisible-ai-black-box-functioning/"><u>Breaking Down the Invisible: AI Black Box Functioning</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/cutting-through-the-facade-real-vs-pretend-facebook-followers/"><u>Cutting Through the Facade Real vs Pretend Facebook Followers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-ipad-and-itunes-backup-guide-a-beginners-tutorial/"><u>Effortless iPad & iTunes Backup Guide - A Beginner's Tutorial</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-crypto-dialogues-with-ai-gpt/"><u>Essential Crypto Dialogues with AI GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/etiquette-for-conversing-with-virtual-helpers/"><u>Etiquette for Conversing with Virtual Helpers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-moto-g14-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola Moto G14</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-reno-8t-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo Reno 8T 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/long-overdue-but-finally-here-the-latest-upgrade-for-microsoft-excels-cloud-version-unveiled/"><u>Long Overdue, but Finally Here: The Latest Upgrade for Microsoft Excel's Cloud Version Unveiled!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-mention-triggers-for-detecting-deceptive-chatgpts/"><u>Mastering Mention Triggers for Detecting Deceptive ChatGPTs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/speed-it-up-crafting-beautiful-timelapse-videos-on-galaxy/"><u>Speed It Up Crafting Beautiful Timelapse Videos on Galaxy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-humor-of-hardware-laptop-lore-and-network-safety-chronicles/"><u>The Humor of Hardware: Laptop Lore & Network Safety Chronicles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-breakdown-advantages-and-disadvantages-of-chatgpt-platinum/"><u>The Ultimate Breakdown: Advantages & Disadvantages of ChatGPT Platinum</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-tech-titans-sharexs-challengers-exposed/"><u>[New] 2024 Approved Tech Titans ShareX's Challengers Exposed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-angle-artistry-guide-mastering-the-craft-of-video-spinning-on-social-sites/"><u>[New] 2024 Approved The Angle Artistry Guide Mastering the Craft of Video Spinning on Social Sites</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-a-dive-into-ar-sticker-technology-and-alternatives-for-2024/"><u>[New] A Dive Into AR Sticker Technology and Alternatives for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/amplify-your-pcs-wi-fi-with-8-effective-fixes-for-windows-11/"><u>Amplify Your PC's Wi-Fi with 8 Effective Fixes for Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-we-trust-chatgpt-with-our-private-details/"><u>Can We Trust ChatGPT With Our Private Details?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/enhancing-visuals-5-simple-steps-to-zoom-in-minecraft-for-2024/"><u>Enhancing Visuals 5 Simple Steps to Zoom in Minecraft for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hot-off-the-shelf-top-demanded-iphone-16-models-and-their-availability-timelines-tech-insights-by-zdnet/"><u>Hot Off the Shelf: Top Demanded iPhone 16 Models & Their Availability Timelines | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-use-effective-application-of-shared-gpt-3-links/"><u>Mastering the Use: Effective Application of Shared GPT-3 Links</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-new-gadgets-with-toms-equipment-advice-and-analysis/"><u>Navigating New Gadgets with Tom's Equipment Advice and Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quintessential-selection-best-ai-tools-for-notes/"><u>The Quintessential Selection: Best AI Tools for Notes</u></a></li>
 </ul></div>
 

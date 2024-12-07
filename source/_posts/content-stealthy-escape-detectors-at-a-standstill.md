@@ -1,7 +1,7 @@
 ---
 title: "Content Stealthy Escape: Detectors at a Standstill"
-date: 2024-11-20T17:12:25.029Z
-updated: 2024-11-27T17:03:11.537Z
+date: 2024-11-29T20:40:26.653Z
+updated: 2024-12-06T23:51:26.827Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do AI Content Detectors Work?
@@ -39,7 +39,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  This sounds great on paper, but if you've ever used an AI detection tool, you know very well they are hit-and-miss, to put it mildly. More often than not, they detect human-written content as AI, or text created by human beings as AI-generated. In fact, some are embarrassingly bad at what they're supposed to do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How Accurate Are AI Content Detectors?
@@ -49,7 +49,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 ![Writer.com's AI content detector, screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-detector-writer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So, writer.com has got it wrong.
@@ -59,10 +59,6 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  In February 2023, University of Wollongong Lecturer Armin Alimardani and Associate Professor at UNSW Sydney Emma A. Jane tested a number of popular AI content detectors, establishing that none of them are reliable. In their analysis, which was published in [The Conversation](https://theconversation.com/we-pitted-chatgpt-against-tools-for-detecting-ai-written-text-and-the-results-are-troubling-199774#:~:text=Perplexity%20measures%20how%20complex%20a,was%20produced%20by%20an%20AI.), Alimardani and Jane concluded that this AI "arms race" between text generators and detectors will pose a significant challenge in the future, especially for educators.
 
  But it's not just educators and teachers who have reason for concern: everyone does. As AI-generated text becomes ubiquitous, being able to differentiate between what's "real" and what isn't, [i.e. actually spotting when something's written by AI](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/), will become more difficult. This will have a massive impact on virtually all industries and areas of society, even personal relationships.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AI's Implications for Cybersecurity and Privacy
 
@@ -79,7 +75,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  If there is indeed an arms race between generative AI and content detectors, the former is winning. What's worse, there seems to be no solution. All we have our half-baked products that don't even work half the time, or can be tricked very easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Detect AI Content: Potential Solutions
@@ -91,6 +87,10 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  In fact, back in 2022, [University of Maryland](https://today.umd.edu/umd-researchers-create-unremovable-watermark-to-secure-intellectual-property-in-age-of-ai) researchers developed a new watermarking method for artificial neural networks. Lead researcher Tom Goldstein said at the time that his team had managed to "prove mathematically" that their watermark cannot be removed entirely.
 
  For the time being, what a regular person can do is rely on their instincts and common sense. If there is something off about the content you're reading—if it feels unnatural, repetitive, unimaginative, banal—it might have been created by software. Of course, you should also verify any information you see online, double-check the source, and stay away from shady websites.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The AI Revolution Is Underway
 
@@ -115,22 +115,24 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-numerical-leaderboard-spotlight-eighth-in-photo-blender-for-2024/"><u>[New] Numerical Leaderboard Spotlight Eighth in Photo Blender for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-pinnacle-of-personal-data-holdings/"><u>[New] The Pinnacle of Personal Data Holdings</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-dual-display-delight-mastery-of-floating-window-on-netflix/"><u>[Updated] In 2024, Dual Display Delight Mastery of Floating Window on Netflix</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-change-netflix-playback-speed/"><u>2024 Approved How to Change Netflix Playback Speed?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-webcam-options-for-professional-zoom-use/"><u>2024 Approved Optimal Webcam Options for Professional Zoom Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-global-reach-impact-of-vpn-use/"><u>ChatGPT and Global Reach: Impact of VPN Use?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conduct-free-local-chatgpt-simulation-via-gpt4all/"><u>Conduct Free, Local ChatGPT Simulation via GPT4All</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-ai-syntax-the-essential-vocabulary-list/"><u>Deciphering AI Syntax: The Essential Vocabulary List</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-se-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone SE Without Apple ID Password?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-action-sequence-alerts-mastering-4-techniques-on-the-xbox-one/"><u>In 2024, Action Sequence Alerts Mastering 4 Techniques on the Xbox One</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-instant-video-creation-uploading-images/"><u>In 2024, Instant Video Creation Uploading Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/limited-time-offer-alert-apples-vision-pro-now-on-amazon-with-an-exclusive-200-cut-zdnet-analysis/"><u>Limited-Time Offer Alert: Apple's Vision Pro Now on Amazon with an Exclusive $200 Cut | ZDNET Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-ai-tech-6-chatgpt-applications-for-documents/"><u>Revolutionary AI Tech: 6 ChatGPT Applications for Documents</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ming-sound-excellence-5-top-headsets/"><u>Streaming Sound Excellence 5 Top Headsets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-faux-fabric-of-fiction-spotting-ai-spun-stories/"><u>The Faux Fabric of Fiction: Spotting AI-Spun Stories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-strategies-for-utilizing-auto-gtp/"><u>Top Strategies for Utilizing Auto-GTP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-accessories-for-iphone-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Accessories for iPhone - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-tomorrows-digital-playground-a-comparative-study-of-metaverse-and-omniverse/"><u>[New] In 2024, Tomorrow's Digital Playground A Comparative Study of Metaverse & Omniverse</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices-for-2024/"><u>[New] Mastering Audio Best Practices for iPodcasting Interviews on iOS Devices for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-step-by-step-journey-mastering-the-art-of-gs-with-kinemaster-for-2024/"><u>[Updated] Step-by-Step Journey Mastering the Art of GS with KineMaster for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-strategic-approach-to-crafting-youtube-content-headlines/"><u>[Updated] Strategic Approach to Crafting YouTube Content Headlines</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-initiate-flawless-zoom-sessions-today/"><u>2024 Approved Initiate Flawless Zoom Sessions Today</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-playstation-palace-a-million-gaming-moves/"><u>2024 Approved PlayStation Palace A Million Gaming Moves</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehending-the-turing-tests-nature-and-victory-limits/"><u>Comprehending The Turing Test's Nature & Victory Limits</u></a></li>
+<li><a href="https://article-tips.techidaily.com/cyber-frontiers-collide-a-deep-dive-into-meta-and-omniverse-for-2024/"><u>Cyber Frontiers Collide A Deep-Dive Into Meta & Omniverse for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-apples-smart-tech-integration-the-comprehensive-guide-to-ai-enhancements-on-iphone-mac-and-ipad/"><u>Exploring Apple's Smart Tech Integration: The Comprehensive Guide to AI Enhancements on iPhone, Mac, & iPad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptzero-simplified-identifying-authentic-vs-artificial-texts/"><u>GPTZero Simplified: Identifying Authentic Vs. Artificial Texts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-huawei-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Huawei Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/inside-apples-latest-marvel-a-comprehensive-look-at-the-iphone-15-pro-with-revolutionary-titanium-frame-and-enhanced-usb-c/"><u>Inside Apple's Latest Marvel - A Comprehensive Look at the iPhone 15 Pro with Revolutionary Titanium Frame & Enhanced USB-C</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-quora-poe-for-llm-and-bot-discovery/"><u>Leveraging Quora POE for LLM & Bot Discovery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-devices-an-experts-guide/"><u>Top-Ranking Mac Devices : An Expert's Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-correcting-missing-mscsctpdll-issues/"><u>Troubleshooting Guide: Correcting Missing mscsctp.dll Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-july-2024-deals-save-big-on-iphone-apple-watches-and-ipads-smart-shopping/"><u>Unbeatable July 2024 Deals: Save Big on iPhone, Apple Watches, and iPads | Smart Shopping</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-gpts-own-writing-weaknesses/"><u>Understanding GPT's Own Writing Weaknesses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-creative-potential-large-scale-workflow-via-canva-and-chatgpt/"><u>Unleash Creative Potential - Large-Scale Workflow via Canva & ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-zoom-support-on-vision-pro-headsets-how-it-might-change-your-video-calls-tech-news/"><u>Upcoming Zoom Support on Vision Pro Headsets: How It Might Change Your Video Calls | Tech News</u></a></li>
 </ul></div>
 

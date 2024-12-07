@@ -1,7 +1,7 @@
 ---
 title: "Next Step in Talking Machines: AI Breakthroughs"
-date: 2024-09-11T16:27:04.897Z
-updated: 2024-09-17T16:22:16.208Z
+date: 2024-12-02T22:41:51.195Z
+updated: 2024-12-06T20:25:13.323Z
 tags:
   - chatgpt
   - open-ai
@@ -54,21 +54,26 @@ Image Credit:Firmbee.com/[Unsplash](https://unsplash.com/photos/person-using-bla
 
 !["Open Source" typed with a typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-source.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Although not necessarily a technical advancement, several big tech companies are interested in democratizing AI. For better or for worse, [open-source AI models are now being trained](http://www.makeuseof.com/positive-negative-impacts-open-source-ai-language-models/) and given more permissive licenses for organizations to use and fine-tune.
 
 [The Wall Street Journal reports](https://www.wsj.com/tech/ai/meta-is-developing-a-new-more-powerful-ai-system-as-technology-race-escalates-decf9451?) that Meta is buying Nvidia H100 AI accelerators and aims to develop an AI that competes with OpenAI’s recent GPT-4 model.
 
  There is currently no publicly available LLM that can match the raw performance of GPT-4\. But with Meta promising a competitive product with a more permissive license, companies can finally fine-tune a powerful LLM without the risk of trade secrets and sensitive data being exposed and used against them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI Agents and Multi-Agent Startups
 
 ![Group working on a project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/group-working-on-project.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people-using-laptop-computer-QckxruozjRg)
@@ -82,6 +87,10 @@ Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people
  Projects like the MetaGPT Multi-agent Framework aim to solve the problem by simultaneously using several AI agents to reduce such hallucinations. Multi-agent frameworks are set up to emulate how a startup company would work. Each agent in this startup will be assigned positions such as project manager, project designer, programmer, and tester. By splitting complex goals into smaller tasks and delegating them to different AI agents, these agents are more likely to achieve their given goals.
 
  Of course, these frameworks are still very early in development, and many issues still need to be solved. But with more powerful models, better AI infrastructure, and continuous research and development, it is only a matter of time before effective AI agents and multi-agent AI companies become a thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shaping Our Future With AI
 
@@ -154,15 +163,16 @@ Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people
  But it's not just about fancy AI chatbots and text-to-image generators. There are some highly speculation but incredibly impressive AI tools on the horizon.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Semantic Search With Vector Databases
 
 ![Searching With Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/semantic-search-with-google.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit:Firmbee.com/[Unsplash](https://unsplash.com/photos/person-using-black-laptop-computer-eMemmpUojlw)
 
@@ -190,13 +200,6 @@ Image Credit:Firmbee.com/[Unsplash](https://unsplash.com/photos/person-using-bla
 
 ![Group working on a project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/group-working-on-project.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people-using-laptop-computer-QckxruozjRg)
 
  Several experimental projects are currently in the works for developing AI agents that require little to no instructions to achieve a certain goal. You may remember the concepts of [AI agents from Auto-GPT](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/), the AI tool that automates its actions.
@@ -208,19 +211,6 @@ Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people
  Projects like the MetaGPT Multi-agent Framework aim to solve the problem by simultaneously using several AI agents to reduce such hallucinations. Multi-agent frameworks are set up to emulate how a startup company would work. Each agent in this startup will be assigned positions such as project manager, project designer, programmer, and tester. By splitting complex goals into smaller tasks and delegating them to different AI agents, these agents are more likely to achieve their given goals.
 
  Of course, these frameworks are still very early in development, and many issues still need to be solved. But with more powerful models, better AI infrastructure, and continuous research and development, it is only a matter of time before effective AI agents and multi-agent AI companies become a thing.
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shaping Our Future With AI
 
@@ -257,16 +247,7 @@ Image Credit:Firmbee.com/[Unsplash](https://unsplash.com/photos/person-using-bla
 !["Open Source" typed with a typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-source.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Although not necessarily a technical advancement, several big tech companies are interested in democratizing AI. For better or for worse, [open-source AI models are now being trained](http://www.makeuseof.com/positive-negative-impacts-open-source-ai-language-models/) and given more permissive licenses for organizations to use and fine-tune.
@@ -275,9 +256,17 @@ Image Credit:Firmbee.com/[Unsplash](https://unsplash.com/photos/person-using-bla
 
  There is currently no publicly available LLM that can match the raw performance of GPT-4\. But with Meta promising a competitive product with a more permissive license, companies can finally fine-tune a powerful LLM without the risk of trade secrets and sensitive data being exposed and used against them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI Agents and Multi-Agent Startups
 
 ![Group working on a project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/group-working-on-project.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people-using-laptop-computer-QckxruozjRg)
 
@@ -290,6 +279,10 @@ Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people
  Projects like the MetaGPT Multi-agent Framework aim to solve the problem by simultaneously using several AI agents to reduce such hallucinations. Multi-agent frameworks are set up to emulate how a startup company would work. Each agent in this startup will be assigned positions such as project manager, project designer, programmer, and tester. By splitting complex goals into smaller tasks and delegating them to different AI agents, these agents are more likely to achieve their given goals.
 
  Of course, these frameworks are still very early in development, and many issues still need to be solved. But with more powerful models, better AI infrastructure, and continuous research and development, it is only a matter of time before effective AI agents and multi-agent AI companies become a thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shaping Our Future With AI
 
@@ -310,5 +303,20 @@ Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-elevate-your-visual-narrative-with-top-ae-text-configurations/"><u>[New] Elevate Your Visual Narrative with Top AE Text Configurations</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-efficient-snap-catch-strategies/"><u>[Updated] 2024 Approved Efficient Snap Catch Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-kinetic-mastery-in-your-pocket-a-2023-review-of-kinemaster-on-android/"><u>[Updated] Kinetic Mastery in Your Pocket A 2023 Review of KineMaster on Android</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-professional-choices-the-very-best-8-tripods-for-4k/"><u>2024 Approved Professional Choices The Very Best 8 Tripods for 4K</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystified-the-turing-test-and-its-potential-disruption/"><u>Demystified: The Turing Test & Its Potential Disruption</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-v29-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-magic-vs-2s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor Magic Vs 2s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-6-pro-versus-iphone-13-pro-choosing-the-ultimate-high-end-smartphone-expert-comparison/"><u>Pixel 6 Pro Versus iPhone 13 Pro: Choosing the Ultimate High-End Smartphone – Expert Comparison</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-everyday-tv-glitches-a-comprehensive-fix-it-handbook/"><u>Solving Everyday TV Glitches: A Comprehensive Fix-It Handbook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-hidden-price-of-free-phones-from-wireless-providers-what-you-need-to-know/"><u>Unveiling the Hidden Price of 'Free' Phones From Wireless Providers: What You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-delegate-privacy-to-gpt/"><u>Why You Shouldn't Delegate Privacy to GPT</u></a></li>
+</ul></div>
 

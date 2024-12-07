@@ -1,7 +1,7 @@
 ---
 title: "Fictitious GPT Add-On: Pilfers Login Data From FB"
-date: 2024-11-26T16:30:09.391Z
-updated: 2024-11-27T16:56:36.078Z
+date: 2024-12-01T16:36:50.645Z
+updated: 2024-12-06T16:24:27.367Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
@@ -45,7 +45,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably [sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thousands of Facebook Accounts May Have Been Compromised
@@ -55,7 +55,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Malicious App Has Been Removed from Chrome
@@ -63,7 +63,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -87,24 +87,20 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/iscover-how-to-craft-videos-flawlessly-in-8-tools-for-2024/"><u>[New] Discover How to Craft Videos Flawlessly in 8 Tools for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-expert-advice-enhancing-control-over-snapchat-video-speed/"><u>[New] In 2024, Expert Advice Enhancing Control Over Snapchat Video Speed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unveiling-irecorders-top-screen-capabilities/"><u>[Updated] 2024 Approved Unveiling iRecorder's Top Screen Capabilities</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-revamp-your-channels-smart-tips-for-yt-profiles/"><u>[Updated] Revamp Your Channels Smart Tips for YT Profiles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-selection-of-apple-watch-bands-in-depth-analysis-and-expert-opinions/"><u>2024'S Ultimate Selection of Apple Watch Bands: In-Depth Analysis and Expert Opinions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-year-and-a-half-later-the-transformation-of-an-abandoned-iphone-insights-from-zdnet/"><u>A Year and a Half Later: The Transformation of an Abandoned iPhone – Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-hits-amazon-grab-the-uncommon-200-off-deal-before-it-ends-insights-from-zdnet/"><u>Apple Vision Pro Hits Amazon: Grab the Uncommon $200 Off Deal Before It Ends - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crisis-commands-can-tech-talk-save-lives-in-the-wild/"><u>Crisis Commands: Can Tech Talk Save Lives in the Wild?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-device-lifecycles-when-does-apple-consider-them-obsolete-expert-analysis-by-zdnet/"><u>Decoding Device Lifecycles: When Does Apple Consider Them Obsolete? Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-duckduckgo-a-comprehvew-on-its-functionality-and-privacy-assurance/"><u>Decoding DuckDuckGo: A Comprehvew on Its Functionality & Privacy Assurance</u></a></li>
-<li><a href="https://fox-search.techidaily.com/enhancing-user-experience-mastering-the-settings-adjustment-panel/"><u>Enhancing User Experience: Mastering the 'Settings Adjustment Panel'</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/explore-the-best-portable-storage-options-of-2024-usb-flash-drives-ranked/"><u>Explore the Best Portable Storage Options of 2024: USB Flash Drives Ranked</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-light-shadow-and-subtlety-in-film-coloring/"><u>In 2024, Light, Shadow & Subtlety in Film Coloring</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-protonvpn-email-and-browsing-privacy-tips/"><u>Mastering ProtonVPN: Email & Browsing Privacy Tips</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/premier-list-top-free-video-recorder-software-explored/"><u>Premier List - Top Free Video Recorder Software Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/significant-aspects-in-the-deployment-of-bot-based-solutions/"><u>Significant Aspects in the Deployment of Bot-Based Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smartwatch-showdown-google-pixel-watch-generation-3-against-apple-watch-series-9-determining-the-best-match-for-you/"><u>Smartwatch Showdown: Google Pixel Watch Generation 3 Against Apple Watch Series 9 – Determining The Best Match for You!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-role-of-chatgpts-default-features/"><u>The Role of ChatGPT's Default Features</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-transforming-shaky-videos-into-cinematic-masterpieces-with-fcpx/"><u>Updated 2024 Approved Transforming Shaky Videos Into Cinematic Masterpieces with FCPX</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-concluding-coverage-craftsmanship/"><u>[New] 2024 Approved Concluding Coverage Craftsmanship</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-overcoming-frame-loss-in-high-pace-broadcasts-with-obs/"><u>[Updated] 2024 Approved Overcoming Frame Loss in High-Pace Broadcasts with OBS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-voiceover-techniques-for-tiktok-video-amplification/"><u>[Updated] 2024 Approved Voiceover Techniques for TikTok Video Amplification</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-7-video-software-for-apple-machines/"><u>2024 Approved Prime 7 Video Software for Apple Machines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-says-no-to-rice-drying-myths-the-right-way-to-salvage-a-drenched-iphone-insider-tips-from-zdnet/"><u>Apple Says No To Rice-Drying Myths: The Right Way To Salvage A Drenched iPhone - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-fear-of-ai-top-8-teacher-insights/"><u>Breaking Down Fear of AI: Top 8 Teacher Insights</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-software-for-your-hp-deskjet-3700-free-driver-installation-guide/"><u>Get the Latest Software for Your HP Deskjet 3700 – FREE Driver Installation Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-role-in-generating-secure-and-productive-routines/"><u>GPT's Role in Generating Secure and Productive Routines</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inoculation-with-native-fungi-if-necessary-soils-can-be-treated-with-commercial-preparations-of-native-mycorrhizal-inoculants-to-bolster-existing-population83/"><u>Inoculation with Native Fungi: If Necessary, Soils Can Be Treated with Commercial Preparations of Native Mycorrhizal Inoculants to Bolster Existing Populations and Help Establish Associations with Newly Planted Crops Within a Rotation System.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macos-15-arrives-as-a-complimentary-upgrade-for-macbook-users-discover-the-must-have-functions-zdnet/"><u>MacOS 15 Arrives as a Complimentary Upgrade for MacBook Users - Discover the Must-Have Functions | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-msresourceappname-text-glitch-window11-edition/"><u>Resolving 'MsResource:AppName Text' Glitch, Window11 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-classroom-8-key-reasons-for-embracing-ai/"><u>The Future Classroom: 8 Key Reasons for Embracing AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-ai-in-academia-can-students-keep-up-with-chatgpts-speed/"><u>The Rise of AI in Academia: Can Students Keep Up with ChatGPT's Speed?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-mastering-video-speed-control-slow-down-speed-up-and-edit-with-ease/"><u>Updated 2024 Approved Mastering Video Speed Control Slow Down, Speed Up, and Edit with Ease</u></a></li>
 </ul></div>
 

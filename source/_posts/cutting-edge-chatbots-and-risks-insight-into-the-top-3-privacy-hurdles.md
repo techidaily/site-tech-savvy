@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Chatbots & Risks: Insight Into the Top 3 Privacy Hurdles"
-date: 2024-09-14T16:13:40.518Z
-updated: 2024-09-17T16:10:31.820Z
+date: 2024-11-29T16:02:03.349Z
+updated: 2024-12-06T23:47:40.880Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  But the concerns don't stop here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How Does ChatGPT Learn?
 
  In order to provide information, large language models are trained with huge amounts of data. According to [Science Focus](https://www.sciencefocus.com/future-technology/gpt-3), ChatGPT-4 alone was fed 300 billion words of information during its training period. This isn't taken straight from a few encyclopedias. Rather, chatbot developers use masses of information from the internet to train their models. This can include data from books, movies, articles, Wikipedia entries, blog posts, comments, and even review sites.
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  This is where things get a little blurry. If you ask ChatGPT-3.5 directly whether it has access to product reviews or article comments, you'll get a firm negative. As you can see in the screenshot below, GPT-3.5 states that it wasn't given access to user article comments or product reviews in its training.
 
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
 
@@ -72,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
 
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Data Theft
 
  Like any online tool or platform, chatbots are vulnerable to cybercrime. Even if a chatbot did all it could to protect users and their data, there's always a chance that a savvy hacker will manage to infiltrate its internal systems.
@@ -85,10 +97,7 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Malware Infection
@@ -102,16 +111,7 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Chatbots Aren't Impervious to Privacy Issues
@@ -139,5 +139,19 @@ thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-the-secrets-of-instagram-scheduling/"><u>[New] 2024 Approved Unlocking the Secrets of Instagram Scheduling</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-deal-alert-apple-drops-airpods-price-by-40-for-independence-day-shop-now/"><u>Exclusive Deal Alert: Apple Drops AirPods Price by 40% for Independence Day - Shop Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-google-discover-feature-step-by-step-tutorial-for-smartphones/"><u>Exploring Google Discover Feature - Step-by-Step Tutorial for Smartphones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-your-old-vhs-with-new-online-techniques/"><u>In 2024, Transform Your Old VHS with New Online Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-a-tab-on-chatgpts-operating-health/"><u>Keeping a Tab on ChatGPT's Operating Health</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fix-of-error-0x8024401c-on-windows-update-for-users-of-windows-10-and-11-systems/"><u>Master the Fix of Error 0X8024401c on Windows Update for Users of Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/mellowing-down-after-a-stormy-surge-in-windows-settings/"><u>Mellowing Down After a Stormy Surge in Windows Settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-lost-connectivity-with-destiny-2-servers/"><u>Resolved: How to Fix 'Lost Connectivity with Destiny 2 Servers'</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simulating-dialogue-in-artificayer-intelligence/"><u>Simulating Dialogue in Artificayer Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-success-innovative-ways-chatgpt-enhances-time-planning/"><u>Streamline Success: Innovative Ways ChatGPT Enhances Time Planning</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tp-link-ub400-free-driver-downloads-and-updates-guide/"><u>TP-Link UB400: Free Driver Downloads & Updates Guide</u></a></li>
+</ul></div>
 

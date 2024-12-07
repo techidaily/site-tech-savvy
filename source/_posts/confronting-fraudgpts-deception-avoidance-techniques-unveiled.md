@@ -1,7 +1,7 @@
 ---
 title: "Confronting FraudGPT's Deception: Avoidance Techniques Unveiled"
-date: 2024-11-22T16:20:38.026Z
-updated: 2024-11-27T17:09:06.010Z
+date: 2024-12-05T22:51:37.785Z
+updated: 2024-12-06T16:23:20.794Z
 tags:
   - chatgpt
   - open-ai
@@ -29,12 +29,16 @@ thumbnail: https://thmb.techidaily.com/873f9c54a1afdeacaf0a7bf0a90200e4a3988d188
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is FraudGPT?
 
 ![A scammer using a fishing rod to steal data from a person’s laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scammer-using-a-fishing-rod-to-steal-data.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  FraudGPT is an AI tool powered by a large language model that is particularly fine-tuned to help cyber criminals commit cybercrime. The subscription-based AI tool allows threat actors to facilitate their criminal activities like carding, phishing, and malware creation.
 
@@ -43,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/873f9c54a1afdeacaf0a7bf0a90200e4a3988d188
  To better picture the tool, you can think of FraudGPT as ChatGPT but for fraud. But how exactly does FraudGPT work, and how are cybercriminals using it?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does FraudGPT Work?
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/873f9c54a1afdeacaf0a7bf0a90200e4a3988d188
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
@@ -68,16 +72,12 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Can You Protect Yourself From FraudGPT?
 
 ![worrying about red flags online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/thinking-person-using-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Despite being a new kind of tool, the threat posed by FraudGPT is not fundamentally different. You could say it introduces more automation and efficiency to already established methods of executing cybercrime.
@@ -118,17 +118,20 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-dive-into-vlogging-easy-content-projects/"><u>[Updated] In 2024, Dive Into Vlogging Easy Content Projects</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-mobile-cinema-apples-no1-8-pack-free-and-paid-film-app-guide/"><u>2024 Approved Mobile Cinema Apple's No.1, 8-Pack Free & Paid Film App Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ai-avatars-online-for-2024/"><u>AI Avatars | Online for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-powered-innovations-for-modern-enterprises/"><u>ChatGPT-Powered Innovations for Modern Enterprises</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-ai-and-bitcoin-discussions-top-8-gpt-plugins-selection/"><u>Enhancing AI & Bitcoin Discussions: Top 8 GPT Plugins Selection</u></a></li>
-<li><a href="https://techtrends.techidaily.com/immediate-fixes-for-netflix-playback-issues-what-to-do-next/"><u>Immediate Fixes for Netflix Playback Issues: What to Do Next</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y78plus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y78+? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/profit-through-ai-interactions-and-tech-enthusiasm/"><u>Profit Through AI Interactions & Tech Enthusiasm</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/spreadsheet-mastery-achievements-only-excel-can-accomplish-not-chatgpt/"><u>Spreadsheet Mastery: Achievements Only Excel Can Accomplish, Not ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-the-mysteries-of-gpt-4-within-verified-sphere/"><u>Unpacking the Mysteries of GPT-4 Within Verified Sphere</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-power-of-ai-thumbnail-generators/"><u>Updated In 2024, Power of AI Thumbnail Generators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/which-will-rise-to-the-top-gpt-plus-or-perplexity/"><u>Which Will Rise To The Top? GPT Plus or Perplexity?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-downloading-vimeo-media-direct-conversion-to-mp3-format/"><u>[New] 2024 Approved Downloading Vimeo Media Direct Conversion to MP3 Format</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlocking-instagrams-hidden-revenue-opportunities/"><u>[New] 2024 Approved Unlocking Instagram's Hidden Revenue Opportunities</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boost-your-search-rankings-expert-reviews-on-7-cost-effective-video-tags-extractors-for-2024/"><u>[Updated] Boost Your Search Rankings Expert Reviews on 7 Cost-Effective Video Tags Extractors for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-but-potent-apple-ipad-mini-5-in-depth-analysis/"><u>Compact but Potent Apple iPad Mini 5 - In-Depth Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descubra-las-herramientas-gratuitas-actualizadas-para-cambiar-su-contenido-multimedia-mp4-a-formato-mp3-de-excelente-calidad/"><u>Descubra Las Herramientas Gratuitas Actualizadas Para Cambiar Su Contenido Multimedia MP4 a Formato MP3 De Excelente Calidad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-da-vincis-chatgpts-role-in-ai-artistry/"><u>Digital Da Vincis: ChatGPT's Role in AI Artistry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-training-regimens-how-combining-whoop-and-apple-watch-benefits-elite-athletes/"><u>Enhancing Training Regimens: How Combining Whoop & Apple Watch Benefits Elite Athletes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/extended-review-uncomplicated-hdr-approach-for-2024/"><u>Extended Review Uncomplicated HDR Approach for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guarding-your-digital-footprint-essential-bot-risks-revealed/"><u>Guarding Your Digital Footprint: Essential Bot Risks Revealed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-20-free-cloud-storage-service-recommendations-up-to-1tb-included/"><u>In 2024, 20 Free Cloud Storage Service Recommendations! [Up to 1TB Included]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-navigating-past-moments-using-android-videos/"><u>In 2024, Navigating Past Moments Using Android Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-honor-play-8t-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Play 8T Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/taming-machine-minds-for-mutual-benefit/"><u>Taming Machine Minds for Mutual Benefit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-photos-with-words-how-apples-cutting-edge-artificeintelligence-interprets-text-prompts-to-revamp-images-as-detailed-by-zdnet/"><u>Transform Your Photos with Words: How Apple's Cutting-Edge ArtificeIntelligence Interprets Text Prompts to Revamp Images, as Detailed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-your-home-workspace-mastering-the-ipad-pro-for-efficient-remote-working-insights/"><u>Transforming Your Home Workspace: Mastering the iPad Pro for Efficient Remote Working - Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Pseudo-AI Plugin: Purloins FACEBOOK Details"
-date: 2024-11-25T16:42:09.124Z
-updated: 2024-11-27T17:01:28.312Z
+date: 2024-12-04T00:47:40.877Z
+updated: 2024-12-06T19:24:09.344Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
@@ -45,7 +45,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably [sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thousands of Facebook Accounts May Have Been Compromised
@@ -55,7 +55,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Malicious App Has Been Removed from Chrome
@@ -63,7 +63,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -87,17 +87,20 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-simplified-techniques-for-using-the-io-screener-for-2024/"><u>[Updated] Simplified Techniques for Using the IO Screener for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-soundscapes-synopsis-a-guide-to-visual-tunes/"><u>[Updated] Soundscapes Synopsis A Guide to Visual Tunes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-streamline-your-social-media-mastering-automatic-video-playback/"><u>[Updated] Streamline Your Social Media Mastering Automatic Video Playback</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-top-audio-collections-for-screen-clips/"><u>2024 Approved Top Audio Collections for Screen Clips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/android-and-ios-tips-for-optimal-chatgpt-use/"><u>Android & iOS Tips for Optimal ChatGPT Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-latest-349-ipad-takes-center-stage-at-unpredictable-event-covered/"><u>Apple's Latest $349 iPad Takes Center Stage at Unpredictable Event Covered</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/automated-lead-generation-with-cookiebot-enhance-your-digital-marketing/"><u>Automated Lead Generation with Cookiebot: Enhance Your Digital Marketing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-rechargeable-tracking-devices-for-your-essentials-top-apple-airtag-substitutes-reviewed/"><u>Best Rechargeable Tracking Devices for Your Essentials: Top Apple AirTag Substitutes Reviewed</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/budget-friendly-3d-creation-strategies-for-calculating-and-reducing-your-printers-price-tag/"><u>Budget-Friendly 3D Creation: Strategies for Calculating and Reducing Your Printer's Price Tag</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-ready-for-ios-177-release-secure-now-and-save-on-future-updates-with-insights/"><u>Get Ready for IOS 17.7 Release – Secure Now and Save on Future Updates with Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/revel-in-richness-your-pcs-pathway-to-exceptional-video-quality/"><u>Revel in Richness Your PC's Pathway to Exceptional Video Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-potential-of-claude-3/"><u>Unlock the Potential of Claude 3</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exclusive-list-of-premium-video-downloader-apps/"><u>[Updated] Exclusive List of Premium Video Downloader Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/amazons-epic-labor-day-promo-score-an-ipad-for-only-199-learn-all-about-it/"><u>Amazon's Epic Labor Day Promo: Score an iPad for Only $199! Learn All About It</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diving-into-aether-insightful-guide-on-its-nature-and-membership-process/"><u>Diving Into Aether: Insightful Guide on Its Nature & Membership Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-ai-mastery-with-no-cost-the-copilot-advantage-in-turbo/"><u>Effortless AI Mastery with No Cost: The Copilot Advantage in Turbo</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-premier-tactics-capturing-high-quality-sporting-live-events/"><u>In 2024, Premier Tactics Capturing High-Quality Sporting Live Events</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-gt-neo-5-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme GT Neo 5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-redmi-note-12-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Redmi Note 12 Pro 5G Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-upgrading-to-ios-18-safe-for-all-ipads-understanding-potential-risks-and-compatibility-issues-guide/"><u>Is Upgrading to iOS 18 Safe for All iPads? Understanding Potential Risks and Compatibility Issues Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-the-fix-for-destiny-2s-2024-broccoli-bug-your-ultimate-cheat-sheet/"><u>Navigating the Fix for Destiny 2'S 2024 Broccoli Bug: Your Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-bike-rides-using-adaptive-lenses-and-display-technology-insights-from-zdnets-test-run/"><u>Revolutionizing Bike Rides Using Adaptive Lenses & Display Technology, Insights From ZDNET's Test Run</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-curious-case-of-gptbot-and-its-global-content-shadowing/"><u>The Curious Case of GPTBot & Its Global Content Shadowing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-true-impact-of-snapchats-my-ai-6-underrated-benefits/"><u>The True Impact of Snapchat's My AI: 6 Underrated Benefits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-iphones-a-comprehensive-walkthrough-for-using-recovery-mode/"><u>Troubleshooting iPhones: A Comprehensive Walkthrough for Using Recovery Mode</u></a></li>
 </ul></div>
 

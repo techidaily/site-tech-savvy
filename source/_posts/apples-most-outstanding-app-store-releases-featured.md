@@ -1,7 +1,7 @@
 ---
 title: Apple's Most Outstanding App Store Releases - Featured
-date: 2024-11-25T16:27:19.556Z
-updated: 2024-11-27T17:14:31.987Z
+date: 2024-12-05T19:16:48.088Z
+updated: 2024-12-06T22:02:09.822Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### iPhone App of the Year finalists
@@ -55,7 +55,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 * [Flighty](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008): An app that offers radars, taxi times, commercial flight data, and more to travelers unsure about their [plane's whereabouts](https://www.zdnet.com/article/flying-soon-flighty-is-a-must-have-ios-app-for-air-travel/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### iPad App of the Year finalists
@@ -65,7 +65,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 * [Prêt-à-Makeup](https://apps.apple.com/ai/app/pr%C3%AAt-%C3%A0-makeup/id1434594204): A digital face for makeup artists to test looks on all skin colors in all lighting conditions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mac App of the Year finalists
@@ -75,7 +75,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 * [Portal](https://apps.apple.com/us/app/portal-immersive-escapes/id1436994560): A productivity app that targets users' cognitive performance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Watch App of the Year finalists
@@ -114,14 +114,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-easily-store-linkedin-videos-here-are-6-optimal-tools-for-it/"><u>[New] Easily Store LinkedIn Videos - Here Are 6 Optimal Tools for It</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-boomerang-brilliance-keeping-users-hooked-on-ig/"><u>[New] In 2024, Boomerang Brilliance Keeping Users Hooked on IG</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-gpt-7-ai-allies-for-automated-code-creation/"><u>Beyond GPT: 7 AI Allies for Automated Code Creation</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-on-your-iphone-8-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card on Your iPhone 8 Plus Apple ID and Apple Pay</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-13-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi 13 Ultra without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-kid-friendly-ipads-the-ultimate-guide-zdnet/"><u>Top 4 Kid-Friendly iPads : The Ultimate Guide (ZDNet)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformative-writing-techniques-chatgpts-role-in-poetry/"><u>Transformative Writing Techniques: ChatGPT's Role in Poetry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-to-get-after-iphone-13-and-15-pro-expert-picks-for-your-new-smartphone-zdnet-reviews/"><u>What to Get After iPhone 13 and 15 Pro: Expert Picks for Your New Smartphone | ZDNet Reviews</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-the-loop-a-comprehensive-guide-for-instagram-videographers/"><u>[New] 2024 Approved Mastering the Loop A Comprehensive Guide for Instagram Videographers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-best-youtube-title-generators/"><u>[Updated] In 2024, Best YouTube Title Generators</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-itel-a60s-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Itel A60s Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-vs-code-experience-with-codegpt/"><u>Boost Your VS Code Experience with CodeGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-ipad-pro-sizes-11-inch-or-129-inch-with-m1m2-chips-a-comprehensive-comparison-by-zdnet/"><u>Choosing Between IPad Pro Sizes: 11-Inch or 12.9-Inch with M1/M2 Chips? A Comprehensive Comparison by ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-advice-restoring-function-to-your-iphones-broken-nearness-sensor/"><u>Expert Advice: Restoring Function to Your iPhone's Broken Nearness Sensor</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experts-roundup-the-ultimate-guide-to-choosing-a-premium-stylus-tablet-in-2021-insights-from-zdnet/"><u>Experts Roundup: The Ultimate Guide to Choosing a Premium Stylus Tablet in 202([[1]] | Insights From ZDNET</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimized-coding-with-ai-top-10-chatgpt-solutions-for-vs-code/"><u>Optimized Coding with AI: Top 10 ChatGPT Solutions for VS Code</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-asus-chromebook-c202s-series-rugged-tech-gear-for-educational-environments-and-kids-use/"><u>Review of Asus Chromebook C202S Series: Rugged Tech Gear for Educational Environments & Kids' Use</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-4-strategies-for-success-in-instagram-loop-creation/"><u>Top 4 Strategies for Success in Instagram Loop Creation</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-smart-home-devices-a-detailed-review-of-the-ring-doorbell-plus/"><u>Top Rated Smart Home Devices: A Detailed Review of the Ring Doorbell Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-codegpt-within-vs-code-ecosystem/"><u>Utilizing CodeGPT Within VS Code Ecosystem</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Does AI Solve Advanced Mathematics?
-date: 2024-11-23T17:08:19.097Z
-updated: 2024-11-27T16:31:35.205Z
+date: 2024-12-01T20:32:53.012Z
+updated: 2024-12-06T22:44:33.153Z
 tags:
   - chatgpt
   - open-ai
@@ -38,14 +38,22 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
 ![asking chatgpt to solve 8 divided by 1 plus 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![asking chatgpt to solve 5 divided by 6 minus 2 divided by 8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-2.jpg)
 
 ![Asking chatgpt to solve 1.195 minus 1.128](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![asking chatgpt to solve 2.98 minus 4 divided by 13](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-4-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -56,27 +64,15 @@ Close
 
 ![asking chatgpt to solve for the slope intercept and point slope form of y divided by 4 equals 6 plus 2 times x](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![asking chatgpt to solve for the distance a ball bounces into the air on the seventh bounce given an initial height of ten feet with each successive bounce rising to 75 percent of the previous height](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![asking chatgpt to solve the bouncing ball problem as a geometric sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![asking chatgpt to solve a quadratic equation where x squared plus six times x plus 8 equals zero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -86,10 +82,6 @@ Close
 
 ![asking chatgpt to solve for the hypotenuse of a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![asking chatgpt to solve for an angle given a three sided shape inscribed within a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-2.jpg)
 
 ![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
@@ -97,7 +89,7 @@ Close
 ![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -118,10 +110,6 @@ Close
 
 ![chatgpt gives an incorrect definition of sine after user insists that it is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
 ## Can ChatGPT Solve Calculus Problems?
@@ -139,12 +127,20 @@ Close
 ![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -162,6 +158,10 @@ Close
 * ChatGPT always answers confidently. If you aren’t familiar enough with math to discern when it gives an incorrect answer but rely on it for learning, you may develop serious misunderstandings about concepts in math over time.
 * ChatGPT bends to the will of the user. Regardless of whether you intend to manipulate its answers, it may offer incorrect information to appease you if something in your response triggers it.
 * ChatGPT may not pick up on inherent errors in the information that you give it. You should reconsider using ChatGPT for math if you aren’t familiar enough with a concept because it may simply reinforce your misunderstanding.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Carefully When Solving Math Problems
 
@@ -188,24 +188,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-discover-8-trusted-platforms-for-online-video-advancement-for-2024/"><u>[Updated] Discover 8 Trusted Platforms for Online Video Advancement for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-the-path-of-adobe-presenter-video-creation-for-2024/"><u>[Updated] Navigating the Path of Adobe Presenter Video Creation for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-picture-fusion-at-your-desktop-online/"><u>2024 Approved Picture Fusion at Your Desktop, Online</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-seventh-selection-of-aquatic-cameras/"><u>2024 Approved The Ultimate Seventh Selection of Aquatic Cameras</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-guide-mastering-the-open-source-proton-vpn-add-on-on-your-web-browser-insights-from-zdnet/"><u>A Step-by-Step Guide: Mastering the Open-Source Proton VPN Add-On on Your Web Browser - Insights From ZDNet</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/abbyys-strategic-guidance-natasha-mann-as-a-key-board-member/"><u>ABBYY's Strategic Guidance: Natasha Mann as a Key Board Member</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-and-robust-privacy-protection-in-depth-analysis-of-private-internet-access-the-top-open-source-vpn-solutions-on-zdnet/"><u>Affordable and Robust Privacy Protection: In-Depth Analysis of Private Internet Access - The Top Open Source VPN Solutions on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-evaluation-of-private-internet-access-affordable-and-robust-open-source-vpn-revealed-on-zdnet/"><u>Comprehensive Evaluation of Private Internet Access: Affordable and Robust Open-Source VPN Revealed on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/disabling-your-vpn-a-comprehensive-guide-for-various-gadgets-tech-insights-by-zdnet/"><u>Disabling Your VPN: A Comprehensive Guide for Various Gadgets | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-vpn-routers-for-optimal-privacy-and-security-tech-insights-by-zdnet/"><u>Discover the Leading VPN Routers for Optimal Privacy and Security | Tech Insights by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-selection-of-zero-cost-iphone-vpn-applications-enhanced-privacy-and-security-insights/"><u>Discover the Ultimate Selection of Zero-Cost iPhone VPN Applications – Enhanced Privacy and Security Insights!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-unbeatable-new-years-eve-vpn-bargains-top-picks-for-safe-browsing/"><u>Discover Unbeatable New Year's Eve VPN Bargains - Top Picks for Safe Browsing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-guide-to-cyberghost-vpn-best-choice-for-new-users-review-techradar/"><u>Easy Guide to CyberGhost VPN - Best Choice for New Users? (Review) | TechRadar</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/enhancing-your-nba-viewing-with-smart-techniques/"><u>Enhancing Your NBA Viewing with Smart Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-vpn-solutions-for-growing-businesses-the-zdnet-recommendations/"><u>Essential VPN Solutions for Growing Businesses - The ZDNet Recommendations</u></a></li>
-<li><a href="https://fox-links.techidaily.com/insta-prowess-guide-the-9-secrets-behind-top-posters-success-for-2024/"><u>Insta Prowess Guide The 9 Secrets Behind Top Posters' Success for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/speed-up-your-system-with-latest-nvidia-driver/"><u>Speed Up Your System with Latest Nvidia Driver</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-cache-files-from-your-android-device/"><u>Step-by-Step Guide: Removing Cache Files From Your Android Device</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-15-plus-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-improving-remote-work-communications-with-4-strategies/"><u>[New] Improving Remote Work Communications with #4 Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-explore-movies-for-free-simple-video-player-software/"><u>[Updated] 2024 Approved Explore Movies for Free Simple VIDEO Player Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-success-story-optimal-themes-and-ideas-to-boost-content/"><u>[Updated] In 2024, Channel Success Story Optimal Themes and Ideas to Boost Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-let-loose-presentation-a-comprehensive-overview-of-revolutionary-tablets-featuring-the-m4-ipad-pro-and-updated-13-inch-ipad-air-with-improved-apple-p73/"><u>Apple's 'Let Loose' Presentation - A Comprehensive Overview of Revolutionary Tablets Featuring the M4 iPad Pro and Updated 13-Inch iPad Air with Improved Apple Pencil, as Covered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-for-everyone-clear-concise-explanation/"><u>GPT-4 for Everyone: Clear, Concise Explanation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-y36-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo Y36? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sculptors-of-immersive-digital-universes/"><u>Sculptors of Immersive Digital Universes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-apple-watch-models-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Apple Watch Models of 2024: Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-intelligence-levels-strong-and-weak-contrasts/"><u>Understanding AI Intelligence Levels: Strong & Weak Contrasts</u></a></li>
 </ul></div>
 

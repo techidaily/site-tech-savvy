@@ -1,7 +1,7 @@
 ---
 title: Grasping the Copyright Conundrum in AI Realm
-date: 2024-11-22T16:32:39.692Z
-updated: 2024-11-27T16:07:25.507Z
+date: 2024-12-01T16:43:54.729Z
+updated: 2024-12-07T00:17:59.712Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Copyright? Does It Apply to Non-Human Creations?
 
  Before talking about copyright, we must first define it. According to the [US Copyright Office](https://www.copyright.gov/what-is-copyright/) (USCO), "Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression."
@@ -46,6 +50,10 @@ Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/M
 
 ![full body self-portrait of a macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_full_body.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File:Macaca%5Fnigra%5Fself-portrait%5Ffull%5Fbody.jpg)
 
 Close
@@ -61,7 +69,7 @@ Close
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## An Example of AI Copyright Rejection
@@ -73,7 +81,7 @@ Close
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
@@ -86,17 +94,9 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
 
@@ -113,7 +113,7 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Ethics of AI
@@ -141,14 +141,21 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-visionary-designs-for-future-mojave-dwellings/"><u>[New] 2024 Approved Visionary Designs for Future Mojave Dwellings</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-ensuring-thumbnails-show-shorts-video-troubleshooting/"><u>[New] Ensuring Thumbnails Show Shorts Video Troubleshooting</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-profit-strategies-galore-top-13-income-opportunities-on-reddit/"><u>[Updated] 2024 Approved Profit Strategies Galore Top 13 Income Opportunities on Reddit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-innovation-lab-assessing-chatgpts-effectiveness/"><u>Academic Innovation Lab: Assessing ChatGPT's Effectiveness</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-limits-10-ai-breakthroughs/"><u>Beyond the Limits: 10 AI Breakthroughs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/budget-friendly-video-editing-masterclass-on-vimeo-for-2024/"><u>Budget-Friendly Video Editing Masterclass on Vimeo for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-ai-utilizing-gpt-for-tailored-chatbot/"><u>Crafting Personalized AI: Utilizing GPT for Tailored ChatBot</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/t-conversion-service-from-video-to-written-form-for-2024/"><u>Expert Conversion Service From Video to Written Form for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stanzas-struggle-against-digital-minds-purebred-alpacas/"><u>Stanzas Struggle Against Digital Minds, Purebred Alpacas</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2023s-premier-alternatives-to-samsungs-gear-360-cam-for-2024/"><u>[New] 2023'S Premier Alternatives to Samsung's Gear 360 Cam for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-dissecting-viral-trends-for-immersive-fb-ad-content/"><u>[New] In 2024, Dissecting Viral Trends for Immersive FB Ad Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-avatar-architecture-your-uncomplicated-guide-to-virtual-existence/"><u>[Updated] Avatar Architecture Your Uncomplicated Guide to Virtual Existence</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-elevate-your-virtual-identity-expert-tips-for-memorable-fb-bios/"><u>[Updated] Elevate Your Virtual Identity Expert Tips for Memorable FB Bios</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-pioneering-role-in-prompt-creation-and-its-career-sustainability/"><u>AI's Pioneering Role in Prompt Creation & Its Career Sustainability</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/alternative-browsers-on-samsung-tvs-how-to-change-and-use-them/"><u>Alternative Browsers on Samsung TVs: How to Change and Use Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bard-vs-chatgpt-vs-offline-alpaca-which-is-the-best-llm/"><u>Bard Vs. ChatGPT Vs. Offline Alpaca: Which Is the Best LLM?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-myths-how-chatgpt-influences-writing-job-market/"><u>Debunking Myths: How ChatGPT Influences Writing Job Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogue-design-mastery-using-gpt-to-build-unique-bots/"><u>Dialogue Design Mastery: Using GPT to Build Unique Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-query-handling-the-perplexity-ai-advantage/"><u>Expert Query Handling – The Perplexity AI Advantage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-blending-images-with-moving-screens-on-iphone/"><u>In 2024, Blending Images with Moving Screens on iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-with-ai-best-practices-for-authors-and-proofreaders/"><u>Innovating with AI: Best Practices for Authors & Proofreaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-the-perfect-grip-on-your-iphone-and-airpods-with-our-ultimate-guide/"><u>Master the Perfect Grip on Your iPhone & AirPods with Our Ultimate Guide!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-generative-ai-an-informed-parents-guide-to-utilizing-chatgpt/"><u>Mastering Generative AI: An Informed Parent's Guide to Utilizing ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2013-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2013 Online with DigiSigner</u></a></li>
+<li><a href="https://fox-within.techidaily.com/step-by-step-guide-transferring-and-syncing-your-icloud-backups-to-a-new-iphone/"><u>Step-by-Step Guide: Transferring and Syncing Your iCloud Backups to a New iPhone</u></a></li>
 </ul></div>
 

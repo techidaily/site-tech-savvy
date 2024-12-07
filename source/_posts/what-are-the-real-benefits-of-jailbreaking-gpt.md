@@ -1,7 +1,7 @@
 ---
 title: What Are the Real Benefits of Jailbreaking GPT?
-date: 2024-09-12T16:24:34.294Z
-updated: 2024-09-17T16:22:05.426Z
+date: 2024-12-02T17:01:50.472Z
+updated: 2024-12-06T18:23:22.537Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/512ffcfa1ee952b9846f5cb7d651e43a3e26903ab
 
  So while OpenAI tells ChatGPT, "Hey look, you aren't supposed to do this." Jailbreaks are instructions telling the chatbot, "Hey look, forget what OpenAI told you about safety. Let's try this random dangerous stuff."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does OpenAI Say About ChatGPT Jailbreaks?
 
  The ease with which you could bypass the restrictions on the earliest iteration of ChatGPT suggests that OpenAI may not have anticipated its users' rapid and widespread adoption of jailbreaking. It's actually an open question whether the company foresaw the emergence of jailbreaking or not.
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/512ffcfa1ee952b9846f5cb7d651e43a3e26903ab
 
  What does this mean? It means OpenAI will let you jailbreak ChatGPT if you don't do dangerous things with it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pros and Cons of ChatGPT Jailbreaks
 
 ![A close up view of a computer with "ChatGPT Prompts" written on it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-prompt-ai.jpg)
@@ -73,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/512ffcfa1ee952b9846f5cb7d651e43a3e26903ab
 ### The Pros of Using ChatGPT Jailbreaks
 
 ![A happy woman listening to headphones while using a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-happy-woman-listening-to-headphones-while-using-a-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While we can't rule out the simple thrill of doing the forbidden, ChatGPT jailbreaks have many benefits. Because of the very tight restrictions that OpenAI has put on the chatbot, the ChatGPT can sometimes appear neutered.
 
@@ -86,16 +98,13 @@ thumbnail: https://thmb.techidaily.com/512ffcfa1ee952b9846f5cb7d651e43a3e26903ab
 
  This leads to inaccuracies or slumps in creative responses. Jailbreaks smash these restrictions and let the chatbot go full throttle, improving accuracy and creativity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Cons of Using ChatGPT Jailbreaks
 
 ![Image of a man with his face in his hands beside a white question mark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-of-a-man-with-his-face-in-his-hands-beside-a-white-question-mark.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jailbreaking is a double-edged sword. While it can sometimes improve accuracy, it can also significantly increase inaccuracies and [cases of AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). One of the core elements of a ChatGPT jailbreak is an instruction to the chatbot not to refuse to answer a question.
 
@@ -110,10 +119,7 @@ thumbnail: https://thmb.techidaily.com/512ffcfa1ee952b9846f5cb7d651e43a3e26903ab
  In light of this, avoiding jailbreaks might be a good idea. However, just like OpenAI's stance on the issue, we neither explicitly encourage nor strictly discourage trying a relatively safe jailbreak if the need arises.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## An Exciting Tool You Should Probably Avoid
@@ -141,5 +147,16 @@ thumbnail: https://thmb.techidaily.com/512ffcfa1ee952b9846f5cb7d651e43a3e26903ab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-how-to-loop-youtube-videos-on-tv/"><u>[New] In 2024, How to Loop YouTube Videos on TV</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-liveaudiovideocasting-network/"><u>[Updated] 2024 Approved LiveAudioVideocasting Network</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-step-by-step-guide-to-creating-breathtaking-tile-art/"><u>2024 Approved Step-by-Step Guide to Creating Breathtaking Tile Art</u></a></li>
+<li><a href="https://games-able.techidaily.com/co-op-play-connecting-ps5-systems/"><u>Co-Op Play: Connecting PS5 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialoguing-with-ai-composing-a-sonnet-or-haiku/"><u>Dialoguing With AI: Composing a Sonnet or Haiku</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-most-attractive-atandt-mobile-plans-for-may-2e-2024-in-depth-analysis-by-zdnet/"><u>Discover the Most Attractive AT&T Mobile Plans for May 2E 2024 - In-Depth Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gadget-gags-laptops-tale-and-the-rise-of-protected-browsing/"><u>Gadget Gags: Laptops' Tale and the Rise of Protected Browsing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/msi-afterburner-and-windows-compatibility-solving-gpu-non-detection-problems-in-w10w11/"><u>MSI Afterburner and Windows Compatibility: Solving GPU Non-Detection Problems in W10/W11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whats-behind-these-7-apps-gpt-4-capabilities/"><u>What's Behind These 7 Apps’ GPT-4 Capabilities?</u></a></li>
+</ul></div>
 

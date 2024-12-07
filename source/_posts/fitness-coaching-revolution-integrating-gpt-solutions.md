@@ -1,7 +1,7 @@
 ---
 title: "Fitness Coaching Revolution: Integrating GPT Solutions"
-date: 2024-09-12T16:04:19.440Z
-updated: 2024-09-17T16:09:51.897Z
+date: 2024-11-30T17:18:04.602Z
+updated: 2024-12-06T17:32:01.225Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
 
 ![Modified workout plan for 25-year-old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modified-workout-plan-for-25-year-old.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also feed the AI information about other forms of exercise your client wants to engage in, apart from the one predominant in the plan. For instance, the client may be an avid golfer who golfs multiple times a week, even as they're trying to gain muscle mass at the gym.
 
  By considering all these factors, you can create prompts to guide ChatGPT in creating a more personalized workout schedule.
@@ -58,7 +62,15 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
 
 ![Madi's workout plan by Chat GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/madi-s-workout-plan-by-chat-gpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Long prompts are great if you have many clients across a wide range of fitness specialties and goals. They save you time because you just have to gather all the client’s special information and feed them to ChatGPT in well-formed sentences. Not providing context is one of the [ChatGPT prompt mistakes](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) that long prompts can help you avoid.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Review the Workout Plan
 
@@ -74,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
 
  From time to time, you have to revisit the plan and make changes to accommodate your client’s growth. Based on what you have noticed from your client’s reports on how they feel during and after training or from watching them train, you can instruct ChatGPT to modify the workout plan it has created.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Increase Workout Intensity
 
  If your client is getting used to the current intensity of workouts, you can copy and paste the previous workout plan back into ChatGPT and ask the AI to create a more intense version. Then, you’ll get a whole new workout with ChatGPT, either adding more reps and sets to the exercises or creating more difficult alternatives.
@@ -90,10 +95,7 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
  For example, ChatGPT has modified the 25-year-old man’s home workout plan to make it more intense. From the image below, you’ll see that it has replaced normal push-ups with plyometric push-ups. And instead of planks, it has prescribed planks with shoulder taps.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Add Other Forms of Training
@@ -104,24 +106,15 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
 
  Also, you can ask ChatGPT to add cardio, conditioning, CrossFit, or mobility exercises to a workout plan for an all-encompassing approach to fitness, depending on your client’s current needs and preferences.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Vary the Exercises
 
  To avoid monotony and keep your client’s motivation high, you can also instruct ChatGPT to vary exercises. While this is similar to increasing exercise intensity, it is completely different because it only involves creating alternatives, not making the exercises more difficult.
 
  You can use this initiative for periods when your client is losing consistency, as it adds some spice, making their workouts more interesting. ChatGPT has many workout and exercise suggestions, so you can continue experimenting until you find something you like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Remember to Allow Your Expertise to Shine
 
@@ -146,5 +139,18 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/nveiling-your-online-income-an-all-encompassing-guide-on-measuring-youtube-growth-and-earnings-for-2024/"><u>[New] Unveiling Your Online Income An All-Encompassing Guide on Measuring YouTube Growth & Earnings for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pushing-boundaries-exquisite-fluid-gaming-selections/"><u>[Updated] In 2024, Pushing Boundaries Exquisite Fluid Gaming Selections</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-staying-within-the-limits-key-youtube-policies/"><u>[Updated] In 2024, Staying Within the Limits Key YouTube Policies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-insiders-guide-to-excellent-ppt-video-creation-for-2024/"><u>[Updated] The Insider's Guide to Excellent PPT Video Creation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advancing-the-future-with-apples-latest-ai-innovations-unveiling-capabilities-of-their-new-models-tech-insights-from-zdnet/"><u>Advancing the Future with Apple's Latest AI Innovations: Unveiling Capabilities of Their New Models - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/celebrating-maker-spirits-creative-otu-packs/"><u>Celebrating Maker Spirits Creative OTU Packs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-ios-journey-just-began/"><u>ChatGPT's iOS Journey Just Began</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-traps-avoiding-pitfalls-for-better-interactions/"><u>ChatGPT's Traps: Avoiding Pitfalls for Better Interactions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-unique-soundscapes-for-your-one-person-show/"><u>In 2024, Unique Soundscapes for Your One-Person Show</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-troubleshooting-techniques-to-restore-outlook-connectivity-issues/"><u>Mastering Troubleshooting Techniques to Restore Outlook Connectivity Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-gadgets-comprehensive-reviews-and-testing/"><u>Top-Rated MagSafe Gadgets : Comprehensive Reviews & Testing</u></a></li>
+</ul></div>
 

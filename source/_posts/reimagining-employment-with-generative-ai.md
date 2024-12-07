@@ -1,7 +1,7 @@
 ---
 title: Reimagining Employment with Generative AI
-date: 2024-11-24T16:06:14.558Z
-updated: 2024-11-27T16:49:27.927Z
+date: 2024-12-01T20:59:38.061Z
+updated: 2024-12-06T21:43:53.099Z
 tags:
   - chatgpt
   - open-ai
@@ -28,23 +28,19 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. AI Prompt Engineering Will Be a Desired Skill
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-featured.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The rise of generative AI tools has given birth to a new skill: prompt engineering. The idea behind it is simple: since the responses you get from an AI tool are heavily dependent on how well you describe your query, it has become important to [learn how to write good prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/).
 
  As a prompt engineer, your job is to optimize the large language model of an AI tool by crafting prompts that elicit specific responses, while identifying errors and untapped capabilities.
 
  Ultimately, the goal here is to make the AI tool smarter, faster, more intuitive, more creative, more accurate, more conversational, and less likely to hallucinate when talking to a user. If you're interested, you can [start your career in prompt engineering](https://www.makeuseof.com/career-in-prompt-engineering/) today to be future-ready.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Fact-Checking Will Become a Major Career
 
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
 ![Man Working on a Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/man-techie.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We saw how Google is integrating [generative AI in Google Workspace apps](https://www.makeuseof.com/google-workspace-generative-ai/) such as Gmail, Docs, Sheets, Slides, and more. Microsoft is doing the same with its Office 365 suite of productivity apps. Many more companies are implementing the tech on their own products too.
@@ -72,13 +68,13 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
 
  For some, this might be alarming, as they fear they might lose their jobs. And though that is a valid fear, you may find reassurance in knowing the [reasons AI can't replace humans at work](https://www.makeuseof.com/reasons-artificial-intelligence-cant-replace-humans/). What's perhaps more likely is that AI will simply remove the drudgery out of office work and allow more room for planning and creative thought.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Creative Jobs Will Become Much Easier
 
 ![Two women looking at a computer and iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creative-activities-that-boost-your-mental-health.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Speaking of creativity, creative AI tools like DALL-E and Midjourney have taken the art world by storm. We won't get into how many artists are protesting against the use of such tools, as they deem it unfair to have them use their copyrighted artwork for reference.
 
@@ -87,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
  In fact, we have already started seeing AI tools that can produce original music in the unique style of a specific artist, so it could be possible that musicians and songwriters will use this technology in the near future as well.
 
  Generative AI hasn't quite mastered video creation yet, but given the rapid advancement of these tools, we wouldn't be surprised if we start seeing AI-made videos that are watchable (if not great) by the end of 2023\. Once good enough, filmmakers may use the tech for inspiration too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. AI Will Run Fully-Automated Social Media Campaigns
 
@@ -101,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
  With generative AI, however, that may no longer be the case. We may soon see the launch of AI tools so capable, they can run month-long social media campaigns all by themselves with little to no oversight.
 
  All you'll need to do, as a social media manager, is simply type your requirements along with contextual specifics such as company history, product description, target audience, tonality, and the timeline of the campaign. The tool will take care of the rest; it'll create designs, schedule posts, put up stories, and respond to comments on your behalf.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Automation Will Lead to Shorter Workdays
 
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
  Blue-collar jobs such as farmer, plumber, electrician, mechanic, construction worker, and more are likely to become far more lucrative than ever before in history—perhaps even more than some white-collar jobs. Why? Because unlike white-collar work, many blue-collar jobs require manual labor and cannot be easily automated.
 
  Generative AI can easily learn the patterns of a desk job and produce useful results, but all of those capabilities are limited to software. This is not to say that AI isn't used in some blue-collar jobs, as it is, but software alone can't fix a leaky toilet, plow land, build a house, perform pest control, remove dents from your car, or repair a broken air conditioner.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Adapt and Work With AI
 
@@ -143,21 +143,22 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-weaving-visual-narratives-with-words-on-paper/"><u>[New] 2024 Approved Weaving Visual Narratives with Words on Paper</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-charting-out-your-audience-youtubes-blueprint/"><u>[New] Charting Out Your Audience YouTube's Blueprint</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-construct-clever-caricatures-on-giphy/"><u>[New] In 2024, Construct Clever Caricatures on Giphy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleashing-creativity-harnessing-the-full-potential-of-movie-maker-windows-8/"><u>[New] Unleashing Creativity Harnessing the Full Potential of Movie Maker (Windows 8)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-breaking-down-average-podcaster-salary/"><u>[Updated] In 2024, Breaking Down Average Podcaster Salary</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-counteract-vibration-for-clear-captures/"><u>2024 Approved Counteract Vibration for Clear Captures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquer-computer-chaos-with-ai-wisdom-from-chatgpt/"><u>Conquer Computer Chaos with AI Wisdom From ChatGPT</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-first-rate-biodegradable-filming-gear-tutorials/"><u>In 2024, First-Rate Biodegradable Filming Gear Tutorials</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-craft-6-innovative-approaches-with-interpreter/"><u>Mastering the Craft: 6 Innovative Approaches with Interpreter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastery-unleashed-board-games-and-visual-creation-through-my-bots-techniques/"><u>Mastery Unleashed: Board Games & Visual Creation Through My Bots Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personal-touches-changing-windows-screenshot-settings/"><u>Personal Touches: Changing Windows Screenshot Settings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergizing-machine-intelligence-3-ways-to-leverage-chatgpt-and-wolframalpha/"><u>Synergizing Machine Intelligence: 3 Ways to Leverage ChatGPT & WolframAlpha</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-digital-symphony-blizzard-and-microsoft-harmonize-gaming-and-ai-mastery-podcast-exploration/"><u>The Digital Symphony: Blizzard and Microsoft Harmonize Gaming & AI Mastery [Podcast Exploration]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-great-bot-war-googles-bard-vs-microsofts-bing-chat/"><u>The Great Bot War: Google’s Bard Vs. Microsoft's Bing Chat</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-investors-edge-tapping-into-youtube-creators-earnings-for-2024/"><u>The Investor’s Edge Tapping Into YouTube Creators' Earnings for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-forefront-ai-and-is-it-better-than-chatgpt/"><u>What Is Forefront AI and Is It Better Than ChatGPT?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sticker-shakeup-a-clean-start-to-your-tiktoks/"><u>[Updated] Sticker Shakeup A Clean Start to Your TikToks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-format-fluidity-convert-srt-quickly/"><u>[Updated] Unlocking Format Fluidity Convert SRT Quickly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-communication-to-mitigate-social-isolation/"><u>AI-Driven Communication to Mitigate Social Isolation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-top-tier-tablets-face-off-selecting-the-perfect-ipad-pro-model-from-apples-flagship-lineup-expert-advice/"><u>Apple's Top-Tier Tablets Face-Off: Selecting the Perfect iPad Pro Model From Apple’s Flagship Lineup | Expert Advice</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/customize-your-windows-photos-experience-with-unique-audio-and-aesthetic-choices/"><u>Customize Your Windows Photos Experience with Unique Audio & Aesthetic Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cut-the-clutter-organizing-chatgpt-exchanges-through-folders/"><u>Cut the Clutter: Organizing ChatGPT Exchanges Through Folders</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/discover-the-best-deal-on-microsoft-office-2019-for-both-pc-and-mac-save-big-with-a-secure-price-of-25-insights-by-zdnet/"><u>Discover the Best Deal on Microsoft Office 2019 for Both PC and Mac: Save Big with a Secure Price of $25 | Insights by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-selection-of-cost-free-creative-tools/"><u>Elite Selection of Cost-Free Creative Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-safely-procure-pure-photography-collections/"><u>How to Safely Procure Pure Photography Collections</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-oppo-reno-11-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Oppo Reno 11 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nokia-g42-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nokia G42 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-new-release-flawed-a-crucial-error-and-its-resolution-steps-insights/"><u>IPad New Release Flawed: A Crucial Error and Its Resolution Steps | Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seeking-honesty-openais-tool-for-gpt-output-verification/"><u>Seeking Honesty: OpenAI's Tool for GPT Output Verification</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-document-digitization-how-chatgpt-reads-pdfs/"><u>Streamlining Document Digitization: How ChatGPT Reads PDFs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-bitter-truth-of-ai-dialogue-nine-problematic-aspects-of-gpt/"><u>The Bitter Truth of AI Dialogue: Nine Problematic Aspects of GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolution-of-dall-e-integrated-editing-tools-surface-with-areas-needing-development/"><u>The Evolution of DALL-E: Integrated Editing Tools Surface with Areas Needing Development</u></a></li>
 </ul></div>
 

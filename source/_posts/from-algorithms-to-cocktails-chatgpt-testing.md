@@ -1,7 +1,7 @@
 ---
 title: "From Algorithms to Cocktails: ChatGPT Testing"
-date: 2024-11-24T17:15:21.784Z
-updated: 2024-11-27T16:39:11.602Z
+date: 2024-11-30T21:18:23.605Z
+updated: 2024-12-06T21:55:06.707Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Cocktails and Why ChatGPT?
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
  However, there is another option in the form of [ChatGPT](https://chat.openai.com/). On paper, ChatGPT should offer all the expertise offered up by Google Search as well as the ability to adapt to your needs in creative ways. After all, you can [use ChatGPT as a cooking assistant](https://www.makeuseof.com/use-chatgpt-cooking-assistant/), to help you [land a dream job](https://www.makeuseof.com/chatgpt-help-land-dream-job/), and more besides.
 
  As long as your prompts are sound, the AI chatbot should deliver. So, let's test that theory.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Testing ChatGPT's Abilities as a Bartender
 
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 
  I did follow up by asking for some tweaks I could make, resulting in some ideas for variations on the Old-Fashioned for another time. This included using maple syrup instead of simple syrup (as Canadians do), using flavored whiskies rather than straight bourbon or rye, and adding smoked ingredients such as oak chips.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prompt 3: "Please Tweak a Classic Cocktail to Make It Even Better."
 
  There are dozens of classic cocktails served in bars worldwide. And while the quality of ingredients and methods vary, the core is always the same. So I wanted to see if ChatGPT could offer a twist on a classic. I chose the Pina Colada, probably my second favorite cocktail behind the Old-Fashioned. But you can choose any classic cocktail you want.
@@ -71,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
  Adding a few drops of bitters to the Pina Colada really worked, adding a bitter taste to counter the sweet creaminess of a standard mix. While it still looks the same, there is a bitterness in the background.
 
 ![pina-colada-with-a-twist-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/pina-colada-with-a-twist-cocktail.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  I also tried adding cinnamon, which also worked well. However, the cinnamon upped the sweetness and overpowered some of the other flavors.
 
@@ -92,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
 
  Last but not least, I wanted to see how well ChatGPT could adapt to specific needs at specific times. So I asked it to suggest a refreshing, satisfying cocktail to drink on a midweek evening after the sun has set. After initially suggesting a simple Mojito followed by a Rum Sour (neither of which I had all the ingredients for), ChatGPT suggested an Orange Blossom (four parts gin, two parts freshly squeezed orange juice, and one part simple syrup).
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
  Every single one of its combinations worked in broad terms. There wasn't a single blend of ingredients that it suggested that led me to throw the cocktail down the sink. And that is a great start. As someone who has experimented with combining flavors, I can tell you that it's very easy to get cocktails wrong.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Three Big Takeaways From This Experiment
@@ -121,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
  The first takeaway doesn't particularly matter (you can always make up a name afterward), and the second should be adjusted to your taste (and tolerance!). But the third is an important note concerning ChatGPT; it's only as good as the prompts it receives.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Who Needs a Mixologist When You Have ChatGPT on Hand?
@@ -149,24 +149,17 @@ thumbnail: https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed82
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-movies-the-best-18-4k-recorder-list/"><u>[New] 2024 Approved Mastering Movies The Best 18 4K Recorder List</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-embrace-serenity-the-10-best-online-yoga-masters-today/"><u>[New] Embrace Serenity The 10 Best Online Yoga Masters Today</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-music-licens-written-by-john-doe/"><u>[Updated] Navigating Music Licens Written by John Doe</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-streamlining-media-transformation-from-xml-to-srt/"><u>2024 Approved Streamlining Media Transformation From XML to SRT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-research-the-new-norm-for-students/"><u>AI-Driven Research: The New Norm for Students</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crucial-storeplace-refurbishments-for-gpt-plugins-integration/"><u>Crucial Storeplace Refurbishments for GPT Plugins Integration</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cut-through-background-distraction-for-pro-images/"><u>Cut Through Background Distraction for Pro Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-concealed-smart-radios-in-apple-devices-do-you-own-a-mac-or-ipad-with-one-zdnet/"><u>Discovering Concealed Smart Radios in Apple Devices: Do You Own a Mac or iPad with One? | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dont-be-fooled-zdnet-reveals-the-top-4-apple-gadgets-to-skip-this-season/"><u>Don't Be Fooled! ZDNet Reveals the Top 4 Apple Gadgets to Skip This Season</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/download-high-definition-versions-of-top-2021-mtv-vma-winners-music-videos/"><u>Download High Definition Versions of Top 2021 MTV VMA Winners' Music Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-gourmet-creations-with-7-chatgpt-insights/"><u>Effortless Gourmet Creations with 7 ChatGPT Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-live-transmission-fixes/"><u>Mastering ChatGPT Live Transmission Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-new-control-center-in-ios-18-customization-techniques-for-iphone-users/"><u>Mastering the New Control Center in iOS 18: Customization Techniques for iPhone Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-to-ai-find-your-mentors-in-these-top-9-groups/"><u>New to AI? Find Your Mentors in These Top 9 Groups</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-more-monetary-barriers-the-best-use-of-copilot-for-a-free-gpt-4-turbo/"><u>No More Monetary Barriers: The Best Use of Copilot for a Free GPT-4 Turbo</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-influence-of-ai-pioneering-change-in-todays-world-through-technology/"><u>The Influence of AI: Pioneering Change in Today's World Through Technology</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-ultimate-guide/"><u>Tom's Tech Review: Ultimate Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-silent-messages-on-iphone-discover-15plus-methods-to-get-alerts-working-again/"><u>Troubleshooting Silent Messages on iPhone: Discover 15+ Methods to Get Alerts Working Again</u></a></li>
-<li><a href="https://extra-information.techidaily.com/windows-10-key-additions-and-tweaks-in-focus/"><u>Windows 10 Key Additions and Tweaks in Focus</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-effective-methods-for-transferring-youtube-videos-to-the-social-network/"><u>[New] Effective Methods for Transferring YouTube Videos to the Social Network</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-amd-driver-download-enhance-your-experience-with-the-radeon-rx-6900-xt-on-windows-111087-platforms/"><u>[Secure AMD Driver Download] Enhance Your Experience with the Radeon RX 6900 XT on Windows 11/10/8/7 Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-fine-tuning-windows-photos-app-incorporate-filters-and-sync-music-streaming-for-2024/"><u>[Updated] Fine-Tuning Windows Photos App Incorporate Filters & Sync Music Streaming for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-quick-guide-crafting-youtube-thumbnails-on-your-phone-for-2024/"><u>[Updated] Quick Guide Crafting YouTube Thumbnails on Your Phone for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-ai-vs-chatgpt-spotlight-on-four-game-changing-differences/"><u>Claude AI vs ChatGPT: Spotlight on Four Game-Changing Differences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discerning-dialogue-dynamos-is-gemini-pro-or-plus-chatgpt-superior/"><u>Discerning Dialogue Dynamos: Is Gemini Pro or Plus-ChatGPT Superior?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/experience-the-ios-181-preview-release-leveraging-apples-new-ai-capabilities-get-started-today/"><u>Experience the IOS 18.1 Preview Release: Leveraging Apple's New AI Capabilities | Get Started Today</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-sony-xperia-5-v-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Sony Xperia 5 V Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-dominates-seizing-1st-7th-place-in-worldwide-mobile-market-a-new-record-technews/"><u>IPhone Dominates: Seizing 1St-7th Place in Worldwide Mobile Market - A New Record! | TechNews</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-sound-savvy-mastering-podcast-playback-on-iphones-for-2024/"><u>The Sound Savvy Mastering Podcast Playback on iPhones for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-list-for-sound-alteration-applications-in-vtubing-for-2024/"><u>The Ultimate List for Sound Alteration Applications in VTubing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-chatgpt-and-academic-work/"><u>Unleashing Potential: ChatGPT & Academic Work</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling ChatGPT’s Native Tools
-date: 2024-11-24T16:18:54.247Z
-updated: 2024-11-27T16:48:56.780Z
+date: 2024-12-04T23:22:06.081Z
+updated: 2024-12-06T21:04:31.633Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are ChatGPT's Default Plugins?
@@ -66,23 +70,19 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
 ![chatgpt search with bing ask question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-ask-question-jan-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you make the request, you'll be told that GPT is currently searching the web. It may take ten or so seconds to get your results or longer if your connection is patchy, OpenAI's servers are overwhelmed, or your request contains detailed information that takes time to search for.
 
 ![chatgpt search with bing whats the weather jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-whats-the-weather-jan-2024.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When ChatGPT provides a response based on a web search, the source will always be provided in the bracketed quotation marks (**\["\]**) at the end of the response. You can regenerate the response if you're unhappy with the initial output by clicking on the circular arrow symbol under the response.
 
  Sometimes, ChatGPT provides fabricated or unreliable sources for its answers, so it's always best to check the source before using any of the information provided.
 
  It's likely that ChatGPT won't conduct a web search for data it already has access to, such as historical facts. If searching the web is necessary, make that known in your prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. DALL-E
 
@@ -96,13 +96,13 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
 ![chatgpt-dalle output mouse next to river](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-output-mouse-next-to-river.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, we ask for changes.
 
 ![chatgpt-dalle mouse next to river changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-mouse-next-to-river-changed-colour.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Though we asked ChatGPT to keep the image identical aside from one change, it made the change but also changed almost everything else about the image. Keep this downside in mind when using this plugin.
 
@@ -112,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
 ![screenshot of ChatGPT python response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-response.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If ChatGPT picks up on any errors in your code, it will notify you and provide a correction.
 
  You can upload text files and documents for analysis in a wide range of formats, including PDF, DOCX, JSON, TXT, and PPTX. You can also choose from multiple data and code formats and even upload a JPEG image of the code in question.
@@ -119,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
  After uploading the document, ChatGPT will analyze it and give you its interpretation.
 
 ![screenshot of file upload for code interpretation in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/upload-python-gpt.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also ask ChatGPT to give you Python code for the function or program you want to create. However, this isn't part of the Interpreter plugin, so it can be used with GPT-3.5 or GPT-4\.
 
@@ -141,7 +141,7 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 ![Screenshot of ChatGPT python interpreter in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-python.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -169,24 +169,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-optimizing-video-production-a-guide-to-vimeos-capabilities/"><u>[New] 2024 Approved Optimizing Video Production A Guide to Vimeo's Capabilities</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-samsungs-latest-bd-edition-k850-update/"><u>[New] In 2024, Samsung's Latest BD Edition - K850 Update</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-faster-viewing-experience-for-instagram-feed/"><u>[Updated] Faster Viewing Experience for Instagram Feed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-3d-design-for-stylish-text-creations/"><u>2024 Approved Advanced 3D Design for Stylish Text Creations</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-unlocking-youtubes-potential-establishing-an-effective-upload-cadence/"><u>2024 Approved Unlocking YouTube's Potential Establishing an Effective Upload Cadence</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-linguistic-titans-clash-gpt-vs-bert-analysis/"><u>AI's Linguistic Titans Clash: GPT Vs. BERT Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-initiating-a-human-like-discussion/"><u>ChatGPT: Initiating a Human-Like Discussion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-the-editors-journey-best-in-class-ai-tools/"><u>Enhancing the Editor's Journey: Best-in-Class AI Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-ai-tools-shaping-the-future-of-enterprise-management/"><u>Innovative AI Tools Shaping the Future of Enterprise Management</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-11x-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 11X 5G Phone FRP Lock</u></a></li>
-<li><a href="https://extra-information.techidaily.com/lg-virtual-reality-breakthrough-an-in-depth-analysis/"><u>LG Virtual Reality Breakthrough An In-Depth Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-social-barriers-using-chatgpt-conversations/"><u>Overcoming Social Barriers Using ChatGPT Conversations</u></a></li>
-<li><a href="https://facebook.techidaily.com/protect-personal-info-tracking-unauthorized-use/"><u>Protect Personal Info: Tracking Unauthorized Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dichotomy-of-reality-and-fantasy-through-ai/"><u>The Dichotomy of Reality & Fantasy Through AI</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-path-to-popularity-unveiling-tubebuddy-secrets-for-2024/"><u>The Path to Popularity Unveiling TubeBuddy Secrets for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-tech-talking-experience-with-chrome-and-ai/"><u>Transform Your Tech Talking Experience, With Chrome & AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-strengths-ios-vs-chatgpt-web-apps/"><u>Unveiling the Strengths: IOS Vs. ChatGPT Web Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/your-universal-gateway-to-anywheres-chatgpt/"><u>Your Universal Gateway to Anywhere's ChatGPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-to-premium-2024-camera-tech/"><u>[New] Ultimate Guide to Premium 2024 Camera Tech</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-nokia-c12-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Nokia C12 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-the-new-titans-of-wearables-apple-watch-ultra-vs-apple-watch-series-8-find-your-perfect-fit/"><u>Choosing Between the New Titans of Wearables: Apple Watch Ultra Vs. Apple Watch Series 8 – Find Your Perfect Fit!</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/cutting-edge-approaches-share-youtube-content-on-facebook/"><u>Cutting-Edge Approaches Share YouTube Content on Facebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-your-broadcom-ethernet-driver-issues-on-windows-11-downloads-and-update-tips/"><u>Fix Your Broadcom Ethernet Driver Issues on Windows 11 - Downloads & Update Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/giants-in-combat-google-palm-2-vs-openais-gpt-4/"><u>Giants in Combat: Google PaLM 2 Vs. OpenAI's GPT-4</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-x-fold-2-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo X Fold 2 Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-v29-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo V29</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-tool-from-openai-spots-fakes-in-chatgpt-outputs/"><u>New Tool From OpenAI Spots Fakes in ChatGPT Outputs</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/solution-implemented-for-windows-restoration-partition-drive-connection-with-intel-optane-technology/"><u>Solution Implemented for Windows Restoration Partition Drive Connection with Intel® Optane™ Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speak-steer-top-5-methods-to-control-chatgpt-with-sound/"><u>Speak, Steer: Top 5 Methods to Control ChatGPT with Sound</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sticking-with-my-iphone-14-top-4-reasons-im-skipping-the-upgrade-to-an-iphone-16-pro-review/"><u>Sticking with My iPhone 14: Top 4 Reasons I'm Skipping the Upgrade to an iPhone 16 Pro Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Innovating Responsibly: OpenAI’s CEO on AI Oversight and Regulation"
-date: 2024-11-24T16:42:47.020Z
-updated: 2024-11-27T16:28:27.303Z
+date: 2024-12-01T22:55:00.341Z
+updated: 2024-12-07T00:19:08.530Z
 tags:
   - chatgpt
   - open-ai
@@ -27,16 +27,12 @@ thumbnail: https://thmb.techidaily.com/547814a807b4543590f62321378a7a383eefe4ae6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is Sam Altman Calling for More AI Regulation?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
 
@@ -55,7 +51,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  So, it's evident that industry professionals and lawmakers are concerned about AI and its future impact. But what effect will further regulation have on the AI industry? Will it be a good or bad thing?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Will More Regulation Benefit the AI Industry?
@@ -71,12 +67,16 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Some also feel that it's far too soon to be talking about AI regulation, though the presence of AI in so many industries today would seem to contradict that view.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is AI Regulation Good News for OpenAI?
 
 ![openai logo on smartphone place on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-ai-phone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sam Altman's call for more AI regulation has raised questions about whether such constraints will actually benefit OpenAI.
 
@@ -87,7 +87,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  It isn't surprising that Altman has something of a bias here, as ChatGPT is the brainchild of the company he runs. But further regulation could lead to larger, pre-established AI companies having an advantage over smaller organizations, especially if licenses, permits, and long testing periods are made a legal requirement (as this could incur more costs and require more personnel).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Regulation Is a Point of Contention
@@ -111,22 +111,22 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/1-apples-revolutionary-vision-pro-set-for-potential-february-release-introducing-the-ultimate-streamlined-purchase-experience/"><u>1. Apple's Revolutionary Vision Pro Set for Potential February Release: Introducing the Ultimate, Streamlined Purchase Experience</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-income-levels-of-mr-beast/"><u>2024 Approved Income Levels of Mr. Beast</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/all-you-need-to-know-about-razers-groundbreaking-announcements-at-ces-2023-zdnet-insights/"><u>All You Need to Know About Razer's Groundbreaking Announcements at CES 2023 | ZDNET Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-unveils-vision-pro-the-ultimate-hub-of-entertainment/"><u>Apple Unveils Vision Pro - The Ultimate Hub of Entertainment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-guide-viewing-apples-immersive-spatial-vids-on-your-meta-quest-3/"><u>Effortless Guide: Viewing Apple's Immersive Spatial Vids on Your Meta Quest 3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-insights-a-forrester-researcher-reflects-on-mwc-2022-highlights-zdnet-analysis/"><u>Expert Insights: A Forrester Researcher Reflects on MWC 2022 Highlights - ZDNet Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-top-tier-vr-performance-on-a-shoestring-budget-in-depth-review-of-an-economical-ultraportable-vr-solution-zdnet/"><u>Get Top-Tier VR Performance on a Shoestring Budget: In-Depth Review of an Economical Ultraportable VR Solution | ZDNET</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y100a-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y100A to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-tecno-spark-10-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-the-biggest-breakthroughs-in-augmented-reality-ar-and-virtual-reality-vr-at-ces-202e-key-takeaways-from-the-event-techzoo/"><u>In-Depth: The Biggest Breakthroughs in Augmented Reality (AR) & Virtual Reality (VR) at CES 202E - Key Takeaways From the Event | TechZoo</u></a></li>
-<li><a href="https://extra-support.techidaily.com/learn-quick-image-text-alteration-online-resources-for-2024/"><u>Learn Quick Image Text Alteration Online Resources for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-pc-screenshots-step-by-step-instructions/"><u>Mastering the Art of PC Screenshots – Step-by-Step Instructions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reprogramming-fn-keys-in-windows-11-systems/"><u>Reprogramming FN Keys in Windows 11 Systems</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix Note 30 VIP Racing Edition.</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlock-fluent-interaction-italys-top-10-conversation-starters/"><u>Unlock Fluent Interaction: Italy's Top 10 Conversation Starters</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/unparalleled-selection-of-8-android-multiparty-tools-for-2024/"><u>Unparalleled Selection of 8 Android Multiparty Tools for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visionary-enterprises-at-the-forefront-of-crafting-the-metaverse-an-exclusive-zdnet-feature/"><u>Visionary Enterprises at the Forefront of Crafting the Metaverse: An Exclusive ZDNet Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-m1-chip-wins-smoothness-in-every-edit-every-time/"><u>[New] M1 Chip Wins Smoothness in Every Edit, Every Time</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-win-10s-best-recording-software-10-picks/"><u>[New] Win 10'S Best Recording Software - 10 Picks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-a-beginners-manual-for-phantoms-reverse-footage/"><u>[Updated] 2024 Approved A Beginner's Manual for Phantom's Reverse Footage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-your-first-online-phenomenal-giveaway/"><u>[Updated] Crafting Your First Online Phenomenal Giveaway</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-enhance-gameplay-the-ultimate-guide-to-using-steams-switch-controller/"><u>[Updated] In 2024, Enhance Gameplay The Ultimate Guide to Using Steam's Switch Controller</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-pro-whatsapp-tips-unlocking-untapped-potentials/"><u>[Updated] In 2024, Pro-WhatsApp Tips Unlocking Untapped Potentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/an-unforgettable-experience-my-top-rated-series-viewing-through-apple-vision-pro-a-mix-of-wonder-and-fatigue/"><u>An Unforgettable Experience: 'My Top-Rated Series' Viewing Through Apple Vision Pro - A Mix of Wonder & Fatigue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-basic-discovering-pros-and-cons-of-chatgpt-plus/"><u>Beyond Basic - Discovering Pros and Cons of ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-edge-techniques-integrating-chatgpt-into-3d-printing-workflows/"><u>Cutting-Edge Techniques: Integrating ChatGPT Into 3D Printing Workflows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/enhance-phantom-flying-top-11-add-on-gear-for-2024/"><u>Enhance Phantom Flying Top 11 Add-On Gear for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/icloud-integration-seamless-collaboration-on-apple-pages-documents-a-comprehensive-guide/"><u>ICloud Integration: Seamless Collaboration on Apple Pages Documents - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-it-time-to-switch-analyzing-performance-differences-between-m3-and-m1-macbook-pro-models-zdnet/"><u>Is It Time to Switch? Analyzing Performance Differences Between M3 & M1 MacBook Pro Models | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-and-improved-features-rollout-for-certain-apple-airpods-models-this-autumn-revealed-zdnet/"><u>New and Improved Features Rollout for Certain Apple AirPods Models This Autumn Revealed | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/piloting-progress-from-copilot-to-proco-innovation/"><u>Piloting Progress: From Copilot to Proco Innovation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/simplified-guide-to-saving-instagrams-dynamic-content-for-2024/"><u>Simplified Guide to Saving Instagram's Dynamic Content for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-digital-debate-chatgpt-versus-bings-bot-dialogues/"><u>The Digital Debate: ChatGPT Versus Bing's Bot Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whynosubscriptions-eager-for-gpt-resumption/"><u>WhyNoSubscriptions: Eager for GPT Resumption</u></a></li>
 </ul></div>
 

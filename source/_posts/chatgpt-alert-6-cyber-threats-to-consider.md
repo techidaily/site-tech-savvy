@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Alert: 6 Cyber Threats to Consider"
-date: 2024-11-23T16:21:07.542Z
-updated: 2024-11-27T17:10:13.111Z
+date: 2024-11-30T19:56:20.282Z
+updated: 2024-12-06T17:51:27.590Z
 tags:
   - chatgpt
   - open-ai
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/52c7a24defa5210eac1af6ae72d590add87c3a906
  According to [OpenAI’s terms of use](https://openai.com/policies/terms-of-use), here’s how ChatGPT handles the following data:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Personally Identifiable Information
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/52c7a24defa5210eac1af6ae72d590add87c3a906
 
  Moreover, ChatGPT asks for minimal information. You can create an account with just your name and email address.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conversations
 
  OpenAI keeps ChatGPT conversations secure, but it reserves the right to monitor them. AI trainers continuously look for areas of improvement. Since the platform comprises vast yet limited datasets, resolving errors, bugs, and vulnerabilities requires system-wide updates.
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/52c7a24defa5210eac1af6ae72d590add87c3a906
 ### Public Information
 
  According to the [BBC](https://www.sciencefocus.com/future-technology/gpt-3/), OpenAI trained ChaGPT on 300 billion words. It collects data from public web pages, like social media platforms, business websites, and comment sections. Unless you’ve gone off the grid and erased your digital footprint, ChatGPT likely has your information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Security Risks Does ChatGPT Present?
 
@@ -79,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/52c7a24defa5210eac1af6ae72d590add87c3a906
  Learn to spot hacking attempts. Although email providers filter spam messages, some crafty ones could fall through the cracks. You should still know what phishing messages look like.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Data Theft
@@ -90,9 +82,17 @@ thumbnail: https://thmb.techidaily.com/52c7a24defa5210eac1af6ae72d590add87c3a906
 
  Remember: you have no control over how crooks operate. The best approach is to contact the Federal Trade Commission (FTC) once you notice [signs of identity theft](https://www.makeuseof.com/what-is-identity-theft/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Malware Production
 
 ![Lines of Codes With Different Colors on a Black Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/lines-of-code-on-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT writes usable code snippets in different programming languages. Most samples require minimal modifications to function properly, especially if you structure a concise prompt. You could leverage this feature to develop apps and sites.
 
@@ -102,13 +102,13 @@ thumbnail: https://thmb.techidaily.com/52c7a24defa5210eac1af6ae72d590add87c3a906
 
 ![ChatGPT Refusing to Write Code for the Trojan Virus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-trojan-virus.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Meanwhile, the below photo shows that ChatGPT will give you harmful information if you phrase your prompts correctly.
 
 ![ChatGPT Writing a Code Snippet for Viruses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-code-snippet.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Intellectual Property Theft
 
@@ -118,13 +118,13 @@ thumbnail: https://thmb.techidaily.com/52c7a24defa5210eac1af6ae72d590add87c3a906
 
 ![ChatGPT Paraphrasing Text to Avoid Plagiarism](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-paraphrasing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, spinning still classifies as plagiarism. Paraphrased AI articles sometimes rank by chance, but Google generally prefers original content from reputable sources. Cheap tricks and SEO hacks can’t beat high-quality, evergreen writing.
 
  Also, Google releases multiple core updates annually. It will soon focus on removing lazy, unoriginal AI-generated pieces from SERPs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Generating Unethical Responses
 
@@ -138,13 +138,13 @@ thumbnail: https://thmb.techidaily.com/52c7a24defa5210eac1af6ae72d590add87c3a906
 
  The good news is [OpenAI hasn’t lost control of ChatGPT](https://www.makeuseof.com/openai-lost-control-chatgpt/). Its ongoing efforts in tightening restrictions stop ChatGPT from producing unethical responses, regardless of user input. Jailbreaking won’t be as easy moving forward.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Quid Pro Quo
 
 ![Searching ChatGPT on Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-play-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The rapid growth of new, unfamiliar technologies like ChatGPT creates opportunities for quid pro quo attacks. They’re social engineering tactics wherein crooks lure victims with fake offers.
 
@@ -181,14 +181,16 @@ thumbnail: https://thmb.techidaily.com/52c7a24defa5210eac1af6ae72d590add87c3a906
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-your-instagram-story-a-collection-of-100-visionary-caption-ideas/"><u>[Updated] In 2024, Your Instagram Story - A Collection of 100 Visionary Caption Ideas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-advice-establishing-daily-mantra-rituals/"><u>AI-Powered Advice: Establishing Daily Mantra Rituals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-barriers-unmasking-the-top-9-ai-bot-fallacies/"><u>Breaking Down Barriers: Unmasking the Top 9 AI Bot Fallacies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-the-powerhouses-googles-bard-and-microsofts-bing/"><u>Evaluating the Powerhouses: Google’s Bard & Microsoft's Bing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exclusive-roundup-top-tier-no-cost-luts-available/"><u>Exclusive Roundup Top-Tier, No-Cost LUTs Available</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/expert-tips-for-selectively-deleting-pics-on-iphone-while-keeping-copies-in-icloud-intact/"><u>Expert Tips for Selectively Deleting Pics on iPhone While Keeping Copies in iCloud Intact</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-download-screen-recorder-pro-for-windows-11/"><u>In 2024, Download Screen Recorder Pro for Windows 11</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-unlocking-sound-customization-adjusting-loudness-in-videoaudio-archives/"><u>New 2024 Approved Unlocking Sound Customization Adjusting Loudness in Video/Audio Archives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/score-a-budget-friendly-deal-with-the-apple-watch-series-10-at-only-99-by-preordering-through-best-buy-order-now-gadgetguru/"><u>Score a Budget-Friendly Deal with the Apple Watch Series 10 at Only $99 by Preordering Through Best Buy - Order Now! | GadgetGuru</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-inside-the-labyroud-of-vrs-latest-creations-for-2024/"><u>[Updated] Inside the Labyroud of VR's Latest Creations for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streamline-your-content-strategy-with-youtube-movie-maker/"><u>[Updated] Streamline Your Content Strategy with YouTube Movie Maker</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-invisible-scrutiny-unlocking-ig-selfie-verification-secrets/"><u>[Updated] The Invisible Scrutiny Unlocking IG Selfie Verification Secrets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/anydvd/"><u>AnyDVDライセンス解除ガイド:無制限利用方法詳細説明</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-recruitment-unveiling-6-tactics/"><u>ChatGPT for Recruitment: Unveiling 6 Tactics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-revolutionary-iphone-apps-for-virtual-reality-gaming/"><u>Discover Revolutionary IPhone Apps for Virtual Reality Gaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptzero-the-key-to-unmasking-ai-text-craftsmanship/"><u>GPTZero: The Key to Unmasking AI Text Craftsmanship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maintain-your-iphone-13s-fresh-look-with-these-essential-accessories-suggested-by-zdnet/"><u>Maintain Your iPhone 13'S Fresh Look with These Essential Accessories, Suggested by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-persistent-ps4-controller-detachments-in-windows/"><u>Tackling Persistent PS4 Controller Detachments in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-virtual-interaction-discover-our-top-5-ai-prompts-makers/"><u>Transforming Virtual Interaction: Discover Our Top 5 AI Prompts Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/water-damage-alert-fluid-seen-in-your-iphones-lightning-cable-explore-two-effective-remedies/"><u>Water Damage Alert! Fluid Seen in Your iPhone's Lightning Cable? Explore Two Effective Remedies!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Command-Driven Dialogue: Giving ChatGPT Its Voice Back"
-date: 2024-11-23T16:54:49.620Z
-updated: 2024-11-27T17:15:08.896Z
+date: 2024-12-04T21:28:48.949Z
+updated: 2024-12-06T16:12:43.217Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/c3881c9b3280f6181e5e31cdf97813641b8134501
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Gives ChatGPT a Voice
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/c3881c9b3280f6181e5e31cdf97813641b8134501
  ChatGPT's new text-to-speech model is only available to Plus and Enterprise subscribers using the official Android and iOS apps and is expected to roll out within the next two weeks (starting from September 25, 2023). Furthermore, the new voice feature is limited to English to begin with, though we would expect this to change rapidly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Can Recognize and Analyze Images and Photographs
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/c3881c9b3280f6181e5e31cdf97813641b8134501
  Like the new text-to-speech model, OpenAI will roll out image recognition in the next two weeks, though it will be available on all platforms, not just the ChatGPT app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Privacy, Security, and Other Issues
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/c3881c9b3280f6181e5e31cdf97813641b8134501
  Given this is the tip of the iceberg, expect pushback against ChatGPT's newfound voice, especially once there is a predictable uptick in unsavory headlines claiming ChatGPT is being used to commit fraud and so on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Is Making ChatGPT the Go-To AI App
@@ -101,22 +101,19 @@ thumbnail: https://thmb.techidaily.com/c3881c9b3280f6181e5e31cdf97813641b8134501
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/2024-approved-androids-5-prime-photo-tools-ultimate-editing-companion/"><u>2024 Approved Android's 5 Prime Photo Tools Ultimate Editing Companion</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-exploring-instagrams-max-video-length/"><u>2024 Approved Exploring Instagram's Max Video Length</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-youtube-videos-leveraging-chatgpt-for-scripts/"><u>Crafting YouTube Videos: Leveraging ChatGPT for Scripts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/disinformation-cleared-chatgpt-windowsnot-a-threat/"><u>Disinformation Cleared: 'ChatGPT Windows'—Not a Threat</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-charging-and-temperature-control-discover-how-to-keep-your-iphoneipadmac-fresh-top-3-in-1-magsafe-dock/"><u>Effortless Charging & Temperature Control: Discover How to Keep Your iPhone/iPad/Mac Fresh Top 3-in-1 MagSafe Dock!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-monterey-upgrade-benefits/"><u>Evaluating Monterey Upgrade Benefits</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exporting-your-favorite-tunes-from-spotify-playlists-to-editable-text-formats/"><u>Exporting Your Favorite Tunes: From Spotify Playlists to Editable Text Formats</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/first-steps-in-langchain-language-models/"><u>First Steps in LangChain Language Models</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-of-office-tech-adapting-workplace-gadgets-for-success-in-an-age-of-artificial-intelligence-insights-from-zdnet/"><u>Future of Office Tech: Adapting Workplace Gadgets for Success in an Age of Artificial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-seamless-device-integration-a-step-by-step-guide-to-using-apples-magic-universal-control-for-controlling-your-ipad-from-a-mac/"><u>Mastering Seamless Device Integration: A Step-by-Step Guide to Using Apple's Magic Universal Control for Controlling Your iPad From a Mac</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-art-of-freezing-time-a-comprehensive-guide-to-video-freeze-frames-for-2024/"><u>New The Art of Freezing Time A Comprehensive Guide to Video Freeze Frames for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-of-ai-creation-free-dall-e-3-through-microsoft-bing/"><u>Step Into the Future of AI Creation: Free DALL-E 3 Through Microsoft Bing</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/streetwise-italian-key-expressions-for-the-savvy-traveler/"><u>Streetwise Italian: Key Expressions for the Savvy Traveler</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-are-there-no-more-chatgpt-jailbreaks-7-reasons-chatgpt-jailbreaks-dont-work/"><u>Why Are There No More ChatGPT Jailbreaks? 7 Reasons ChatGPT Jailbreaks Don't Work</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-im-continuously-choosing-the-apple-watch-series-7-over-upcoming-series-10-zdnet-insights/"><u>Why I'm Continuously Choosing the Apple Watch Series 7 Over Upcoming Series 10 | ZDNET Insights</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zdnets-top-pick-charge-your-apple-devices-efficiently-and-keep-them-chilled-with-a-powerful-3-in-1-magsafe-dock/"><u>ZDNet's Top Pick: Charge Your Apple Devices Efficiently and Keep Them Chilled with a Powerful 3-in-1 MagSafe Dock!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-cognitive-conclaves-educational-yt-powerhouses-for-2024/"><u>[New] Cognitive Conclaves Educational YT Powerhouses for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-selfies-in-focus-iphones-8-innovative-tools/"><u>[New] Selfies in Focus IPhone's #8 Innovative Tools</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-accessing-social-network-videos-seamlessly-on-apple-tv/"><u>[Updated] 2024 Approved Accessing Social Network Videos Seamlessly on Apple TV</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-elite-photo-safe-houses-online/"><u>2024 Approved Elite Photo Safe Houses Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cyber-threats-can-gpt-chat-hack-bank-accounts-or-computers/"><u>Cyber Threats: Can GPT Chat Hack Bank Accounts or Computers?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-new-features-ios-181-beta-version-launched-with-enhanced-apple-ai-capabilities-get-started-today-on-zdnet/"><u>Discover the New Features: IOS 18.1 Beta Version Launched with Enhanced Apple AI Capabilities – Get Started Today on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grab-two-awesome-nomad-cases-today-bogo-offer-on-iphones-with-our-top-picks/"><u>Grab Two Awesome Nomad Cases Today - BOGO Offer on iPhones with Our Top Picks !</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978074753-hassle-free-setup-for-the-latest-acer-sound-card-drivers-learn-how/"><u>Hassle-Free Setup for the Latest Acer Sound Card Drivers - Learn How</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-hot-40i-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Hot 40i to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-ai-assessment-post-turing-paradigms/"><u>Redefining AI Assessment: Post-Turing Paradigms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-freelancers-companion-integrating-chatgpt-for-success/"><u>The Freelancer's Companion: Integrating ChatGPT for Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-of-smartphones-how-apples-cutting-edge-ai-developments-might-enhance-your-iphone-key-discoveries-revealed-by-new-study-zdnet/"><u>Unveiling the Future of Smartphones: How Apple's Cutting-Edge AI Developments Might Enhance Your iPhone - Key Discoveries Revealed by New Study | ZDNet</u></a></li>
 </ul></div>
 

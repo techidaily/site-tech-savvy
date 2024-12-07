@@ -1,7 +1,7 @@
 ---
 title: Keeping Industrial Communication Private with GPT
-date: 2024-09-12T16:22:11.655Z
-updated: 2024-09-17T16:17:07.595Z
+date: 2024-12-01T22:57:43.123Z
+updated: 2024-12-06T21:41:46.299Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
 
 ![ChatGPT showing options to disable chat history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that [OpenAI](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) says that even with this setting enabled, conversations are retained for 30 days with the option for moderators to review them for abuse before permanent deletion. Still, disabling chat history is one of the best things you can do if you want to continue using ChatGPT.
 
  Tip: If you need access to your data on ChatGPT, export them first. You can also save them by taking screenshots, writing notes manually, copy-pasting them into a separate application, or using secure cloud storage.
@@ -59,7 +63,15 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
 
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
 
@@ -85,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
 
  Anonymization is not foolproof since data can be de-anonymized. Understand [de-anonymization and how to prevent it](https://www.makeuseof.com/what-is-de-anonymization/) before utilizing any of these techniques. Evaluate the risks before you release anonymized data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Limit Access to Sensitive Data
 
  Limiting access to sensitive work data is crucial when workers are allowed to use ChatGPT. If you’re working in a leadership role, restrict access to sensitive information to authorized personnel who require it for their specific roles.
@@ -99,16 +104,7 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
  Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Be Wary of Third-Party Apps
@@ -116,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
 [Whether third-party ChatGPT apps and browser extensions are safe](https://www.makeuseof.com/third-party-chatgpt-apps-browser-extensions-safe/) is an important question to ask. Before using any of these apps for work, carefully vet and scrutinize them. Make sure that they’re not collecting and retaining information for questionable purposes.
 
  Don’t install shady apps that ask for random permissions on your phone. Verify their data handling practices to check if they align with your organization’s privacy standards.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly for Work
 
@@ -138,5 +138,19 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-leading-edge-imaging-the-most-excellent-4k-cams/"><u>[New] 2024 Approved Leading Edge Imaging The Most Excellent 4K Cams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-new-windows-11-insiders-edge-techniques/"><u>[Updated] New Windows 11 Insider's Edge Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-quick-guide-to-rearranging-your-youtube-collection/"><u>2024 Approved Quick Guide to Rearranging Your YouTube Collection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginning-a-charitable-cyber-fundraiser-on-fb-for-2024/"><u>Beginning a Charitable Cyber Fundraiser on FB for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-smartwatch-google-pixel-vs-apple-watch-series-8-a-comprehensive-review/"><u>Choosing the Right Smartwatch: Google Pixel Vs. Apple Watch Series 8 – A Comprehensive Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-startup-mastery-in-windows-11-a-comprehensible-guide/"><u>Fast Startup Mastery in Windows 11 - A Comprehensible Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-ace-3-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast OnePlus Ace 3 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-find-the-top-25-online-hubs-for-affordable-video-effectiveness/"><u>In 2024, Find the Top 25 Online Hubs for Affordable Video Effectiveness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-iphone-storage-a-step-by-step-guide-to-clearing-clutter-and-gaining-space/"><u>Maximize Your iPhone Storage: A Step-by-Step Guide to Clearing Clutter & Gaining Space</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-upcoming-enhancements-set-to-transform-your-experience-on-the-google-play-store/"><u>Top 5 Upcoming Enhancements Set to Transform Your Experience on the Google Play Store</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mac-vpn-services-comprehensive-expert-reviews-and-comparisons-zdnet/"><u>Top Rated Mac VPN Services: Comprehensive Expert Reviews & Comparisons - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-picks-the-most-durable-and-stylish-ipad-air-cases-of-2e24-expert-verified/"><u>ZDNet's Picks: The Most Durable and Stylish iPad Air Cases of 2E24 | Expert Verified</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crafting D&D Characters with ChatGPT and AI Artistry Tools
-date: 2024-09-12T16:21:45.681Z
-updated: 2024-09-17T16:13:47.178Z
+date: 2024-12-04T22:49:46.865Z
+updated: 2024-12-06T23:05:35.921Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
  If you’re playing a homebrew campaign, type in as much as you know about the lore for ChatGPT and ask it to generate a relevant backstory and background for your character. You can keep prompting it till you find something you like.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### For Character Description
 
  Now that you have a race, name, class, backstory, and background for your character, it’s time to get ChatGPT to cook up a detailed description. When typing this prompt, mention everything you want it to consider when creating the description, like unique characteristics such as scars, clothing, weapons, etc.
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
  Our prompt was: “So we need a description for Anomander Rake. What we know is that he's a chromatic dragonborn, and he is a paladin. He is male, and he is in level 1\. Based on this, what would he look like?” ChatGPT came up with black iridescent scales, golden eyes, and red-tipped horns. It also came up with voice timbre and the aura of Anomader Rake as a Paladin of Justice.
 
 ![D&D character Anomander Rake's physical description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/d-d-character-anomander-rake-s-physical-description.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### To Determine Character Traits and NPC Attributes
 
@@ -63,16 +71,7 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
  However, while generating attributes for an NPC, you should remember to tell ChatGPT to balance it according to the level of the players who will be facing the NPC. As the dungeon master, you should still make sure it’s balanced, but it would do a fairly decent job of trying to balance it.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use DALL-E 2 to Create D&D Characters
@@ -85,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
  The prompt might be too long for DALL-E 2, but you can still ask ChatGPT to shorten it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### To Create a Character Image
 
  If you’re new to it, you should first learn [how to use DALL-E 2](https://www.makeuseof.com/how-to-use-dall-e-2/) so you know how to create an account and be aware of its workings. Once that’s done, you should add a few key things to the description you give DALL-E.
@@ -102,9 +94,17 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 ![DALL-E 2's results from the prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dall-e-2-s-results-from-the-prompt.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're unhappy with the results, you can keep clicking**Generate** to create more images. If there’s an image close to what you want, click it and select**Variations** so that DALL-E can create more like that. If you find something you like, select it and click the**Download** button (represented by a download arrow) on the top right of the image. All your previously generated images are saved on the right menu, so don’t worry about losing them.
 
 All images you download from DALL-E have watermarks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use AI to Enhance All Facets of Your Game
 
@@ -125,5 +125,23 @@ All images you download from DALL-E have watermarks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-easygamerecording-by-nvidia/"><u>[New] EasyGameRecording by NVIDIA</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-sync-up-songs-and-screenshots-on-snapchat/"><u>[New] In 2024, Sync-Up Songs and Screenshots on Snapchat</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-vida-edits-with-ease-a-user-centric-perspective-review/"><u>[New] In 2024, Vida Edits with Ease A User-Centric Perspective Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-video-selfie-verification-on-instagram-helpful-or-hype-for-2024/"><u>[New] Video Selfie Verification on Instagram - Helpful or Hype for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtubers-spotlighting-niche-gaming-subcultures/"><u>[New] Youtubers Spotlighting Niche Gaming Subcultures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-leading-airtag-wallets-ranked-by-professionals-find-your-perfect-match/"><u>2024'S Leading AirTag Wallets Ranked by Professionals: Find Your Perfect Match</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-a-world-using-ai-to-build-captivating-tales/"><u>Crafting a World: Using AI to Build Captivating Tales</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-cutting-out-audio-issues-in-windows-11-expert-tips-and-tricks/"><u>Dealing with Cutting Out Audio Issues in Windows 11: Expert Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-cover-video-all-you-need-to-know/"><u>Facebook Cover Video All You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-pluses-against-perplexity-ais-elite-challenge/"><u>GPT Pluses Against Perplexity: AI's Elite Challenge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-the-next-gen-ai-claude-set-to-dominate/"><u>Is the Next-Gen AI Claude Set to Dominate?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-apple-watch-lifespan-8-essential-settings-to-extend-battery-duration/"><u>Maximizing Apple Watch Lifespan: 8 Essential Settings to Extend Battery Duration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-resolve-when-your-discord-client-wont-start-up/"><u>Steps to Resolve When Your Discord Client Won't Start Up</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-se-2022-cases-ultimate-protection-and-style-techradar/"><u>Top-Rated iPhone SE 2022 Cases: Ultimate Protection & Style | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-macbook-enhancers-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MacBook Enhancers : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+</ul></div>
 

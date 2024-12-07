@@ -1,7 +1,7 @@
 ---
 title: "Unleash Potential: Stepwise Setup of Auto-GPT"
-date: 2024-11-26T17:08:39.920Z
-updated: 2024-11-27T16:58:42.062Z
+date: 2024-12-03T20:16:10.546Z
+updated: 2024-12-06T16:04:41.554Z
 tags:
   - chatgpt
   - open-ai
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 
 ![A tab showing a tab to install Python](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After Installing Python, you can download Auto-GPT from GitHub.
 
 **Download**: [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT/releases/tag/v0.4.7) (Free)
@@ -62,11 +58,24 @@ thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe
 2. To create a key, click **Create new secret key**, input a name, then click **Create secret key**. You can then copy the API key by using **CTRL + C** or clicking the copy icon on the right.  
 ![Create API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-create-test-key.jpg)
 3. Now you have your API key, go to your Auto-GPT folder and open the **.env** file using Notepad.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the **LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This file is where all your service credentials are placed, so if you want to use a [backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/), you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Install Auto-GPT Dependencies
 
@@ -82,14 +91,10 @@ python -m autogpt
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Congratulations! You have successfully Installed Auto-GPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT
 
@@ -135,16 +140,12 @@ python -m autogpt
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To view the output, go to your Auto-GPT folder and **open auto-gpt-workspace**.
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
@@ -162,7 +163,7 @@ python -m autogpt
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/)). You'll want to set limits through your API account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
@@ -192,14 +193,16 @@ python -m autogpt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-essential-guide-to-youtubes-premier-unboxers/"><u>[New] Essential Guide to YouTube's Premier Unboxers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-infinity-series-ultra-hd-single-touch-display/"><u>[New] Infinity Series – Ultra HD, Single Touch Display</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-real-time-media-streamers-app-overview-for-2024/"><u>[Updated] Real-Time Media Streamer's App Overview for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dont-install-macchatgpt-uncovered-risks/"><u>Don't Install MacChatGPT: Uncovered Risks!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-save-your-chatgpt-chats-for-later/"><u>How to Save Your ChatGPT Chats for Later</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 13 Pro Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-tech-upgrading-phones-for-a-vr-experience/"><u>In 2024, Transformative Tech Upgrading Phones for a VR Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insight-into-auto-gpt-comparative-analysis-with-conversation-ai/"><u>Insight Into Auto-GPT: Comparative Analysis with Conversation AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-ais-potential-for-home-artisans-gpt-4/"><u>Unveiling AI's Potential for Home Artisans: GPT-4</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-thrifty-cloud-haven-budget-storage-bulk-files-handling/"><u>[New] 2024 Approved Thrifty Cloud Haven Budget Storage, Bulk Files Handling</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boosting-your-channels-free-tips-for-youtube-video-popularity-for-2024/"><u>[Updated] Boosting Your Channels Free Tips for YouTube Video Popularity for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-computers-guess-your-tomorrow-better-than-a-zodiac-card/"><u>Can Computers Guess Your Tomorrow Better Than a Zodiac Card?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-apple-understanding-your-devices-new-vintage-status-and-its-significance-tech-insights-on-zdnet/"><u>Decoding Apple: Understanding Your Device's New 'Vintage' Status and Its Significance | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finding-your-edge-in-a-future-governed-by-artificial-intelligence/"><u>Finding Your Edge in a Future Governed by Artificial Intelligence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-basic-steps-flip-video-using-vlc-software/"><u>In 2024, Basic Steps Flip Video Using VLC Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-discover-ultimate-asmr-microphones-for-clear-sounds/"><u>In 2024, Discover Ultimate ASMR Microphones for Clear Sounds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-season-new-tricks-unlock-upcoming-exclusive-features-in-certain-apple-airpod-variants-tech-insights/"><u>New Season, New Tricks: Unlock Upcoming Exclusive Features in Certain Apple AirPod Variants | Tech Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/power-your-day-with-essential-windows-10-hacks-for-2024/"><u>Power Your Day with Essential Windows 10 Hacks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-ultimate-selection-of-spontaneous-holiday-bargains-for-savvy-shoppers-featured/"><u>Uncover the Ultimate Selection of Spontaneous Holiday Bargains for Savvy Shoppers – Featured</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-auto-startup-diagnosing-why-windows-11-turns-on-by-itself/"><u>Unexpected Auto Startup: Diagnosing Why Windows 11 Turns On by Itself</u></a></li>
 </ul></div>
 

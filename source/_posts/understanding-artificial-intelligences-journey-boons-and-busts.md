@@ -1,7 +1,7 @@
 ---
 title: "Understanding Artificial Intelligence's Journey: Boons & Busts"
-date: 2024-09-15T16:25:39.454Z
-updated: 2024-09-17T16:04:03.848Z
+date: 2024-11-29T20:26:45.665Z
+updated: 2024-12-06T18:32:20.593Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Artificial Intelligence?
 
  Artificial intelligence is the ability of a man-made machine or system to mimic and, in some ways, even surpass human intelligence. The term was coined by computer scientist John McCarthy in 1956, but the concept itself is much older.
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
 
  The AI we use today, ANI (aka weak AI), is mainly about pattern recognition and making programmed inferences. In the same way we humans use our senses to navigate the world around us and act accordingly, AI uses the data we give it to do all sorts of things.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Examples of AI
 
  When you google something, AI displays the search results you're most likely to find helpful based on the keywords in your text. For example, on YouTube, AI recommends videos you're most likely to want to watch based on your watch history (and other factors).
@@ -49,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
  On Amazon, AI decides the order of the product listings, so you find what you're looking for faster. When using the self-driving mode on a Tesla, AI uses the car's sensors to perceive its surroundings and decide when to accelerate, make turns, hit the brakes, and more. We could go on, but you get the idea.
 
  We made AI for the same reason we make any technology: to reduce suffering and increase pleasure. Today, AI helps us translate languages, [avoid traffic jams](https://www.makeuseof.com/tag/how-google-predicts-traffic/), prevent fraud, manage inventory, [automate household chores](https://www.makeuseof.com/tech-ease-overwhelming-feeling-everyday-tasks-chores/), create diet plans, trade stocks, create content, [make artwork](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/), study analytics, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are the Risks and Dangers of Using AI?
 
@@ -63,10 +75,7 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
  Furthermore, AI tools are now used to impersonate celebrities, politicians, and public figures via [deepfake technology](https://www.makeuseof.com/tag/what-are-deepfakes-explained/) and voice cloning. This is extremely dangerous for obvious reasons. Unfortunately, as the tech improves, it'll become more difficult to tell what's real and what's fake.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Should Be a Tool, Not a Weapon
@@ -94,5 +103,17 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-snap-with-precision-essential-camera-angles-for-images-for-2024/"><u>[New] Snap with Precision Essential Camera Angles for Images for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-discovering-the-secrets-to-targeted-youtubes-likes-and-views/"><u>[Updated] 2024 Approved Discovering the Secrets to Targeted YouTubes Likes and Views</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-adventure-videography-supplies-for-travelers/"><u>2024 Approved Adventure Videography Supplies for Travelers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-evolution-in-content-production-software/"><u>AI Evolution in Content Production Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-amazon-echo-network-issues-how-to-get-your-smart-assistant-back-online/"><u>Dealing with Amazon Echo Network Issues: How to Get Your Smart Assistant Back Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-ai-censorship-shapes-your-interaction-with-chatbots/"><u>How AI Censorship Shapes Your Interaction with Chatbots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/key-adjustments-needed-in-the-chatgpt-plugin-ecosystem/"><u>Key Adjustments Needed in the ChatGPT Plugin Ecosystem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-defense-nightshade-for-authentic-art-preservation/"><u>Mastering AI Defense: Nightshade for Authentic Art Preservation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-se-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone SE</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-algorithms-powering-youtubes-viewer-statistics/"><u>Unseen Algorithms Powering YouTube's Viewer Statistics</u></a></li>
+</ul></div>
 

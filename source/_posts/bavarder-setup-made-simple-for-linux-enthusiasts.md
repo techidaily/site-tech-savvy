@@ -1,7 +1,7 @@
 ---
 title: Bavarder Setup Made Simple for Linux Enthusiasts
-date: 2024-09-16T16:25:17.356Z
-updated: 2024-09-17T16:17:07.123Z
+date: 2024-11-30T20:03:43.211Z
+updated: 2024-12-07T00:53:15.221Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
  Okay, let's back up. Maybe you aren't yet familiar with ChatGPT. It's a chatbot that you can communicate with by typing into a window in your web browser. You can raise questions or make requests, such as [ask ChatGPT what to watch next on Netflix](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) or [have the chatbot help you with your job search](https://www.makeuseof.com/practical-ways-to-use-chatgpt-job-search/).
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
 
 ![The Linux Bavarder chatbot desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/linux-bavarder-chatbot-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Bavarder is an app that enables you to "chit-chat" with artificial intelligence. Bavarder is built specifically for GNOME, [the most widely-used interface on Linux PCs](https://www.makeuseof.com/ways-gnome-is-best-linux-desktop/). But Bavarder works on other desktop environments as well.
 
  The name "Bavarder" is a French word referring to talking about things that don't matter or having an informal conversation about things that are not important. This implies that you probably shouldn't take the responses too seriously or turn to Bavarder for serious work.
@@ -47,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
  Bavarder doesn't actually utilize ChatGPT directly. Instead, Bavarder works with various language models that utilize the OpenAI API. Default providers include BAI Chat, CatGPT, OpenAI's own GPT 3.5 Turbo, and others.
 
  Some of the providers utilize the same learning models as ChatGPT, but that doesn't mean you can expect them to generate the same results as ChatGPT would. But to the average person, BAI Chat probably comes off as close enough to the same thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Download Bavarder
 
@@ -65,10 +77,7 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
 ![Selecting a provider in the Bavarder Linux chatbot app.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bavarder-linux-chatbot-providers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The app may seem to load for quite a while before providing a response. If you were to use BAI chat via [chatbot.theb.ai](http://chatbot.theb.ai/#/chat) in a browser, you would see your answer arrive a few words at a time as though the chatbot were typing.
@@ -76,10 +85,7 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
  Bavarder only delivers the answer all at once, so you have to wait for the AI to finish "thinking" rather than watch it think in real time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Use Bavarder on Linux?
@@ -105,5 +111,23 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-best-practices-expert-picks-for-4k-dslr-mounts/"><u>[New] Best Practices Expert Picks for 4K DSLR Mounts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-web-accessory-fb-stories-keeper/"><u>[New] In 2024, Web Accessory FB Stories Keeper</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-obs-vs-twitch-hub-best-platform-debate/"><u>[New] OBS Vs. Twitch Hub Best Platform Debate</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-the-complexity-of-large-scale-ais/"><u>Deciphering the Complexity of Large-Scale AIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/determining-the-accuracy-in-chatgpts-words/"><u>Determining the Accuracy in ChatGPT's Words</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-the-truthfulness-of-machine-learning-conclusions-with-6-cues/"><u>Enhancing the Truthfulness of Machine Learning Conclusions With 6 Cues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-why-using-a-vpn-with-your-vision-pro-and-similar-arvr-gear-is-crucial-insights/"><u>Essential Guide: Why Using a VPN with Your Vision Pro and Similar AR/VR Gear Is Crucial - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-analysis-dreame-bot-l10-pro-revolutionary-lidar-equipped-cleaning-companion/"><u>Expert Analysis: Dreame Bot L10 Pro - Revolutionary LiDAR-Equipped Cleaning Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-claude-2-its-essence-and-uses/"><u>Exploring Claude 2: Its Essence & Uses</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-turning-pics-into-time-capsules-with-videos/"><u>In 2024, Turning Pics Into Time Capsules With Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/joining-bings-ai-world-your-onboarding-tips/"><u>Joining Bing's AI World: Your Onboarding Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsung-galaxy-book-2-ultra-takes-on-the-apple-macbook-pro-an-in-depth-comparison-of-two-elite-computers-techadvisor/"><u>Samsung Galaxy Book 2 Ultra Takes on the Apple MacBook Pro: An In-Depth Comparison of Two Elite Computers | TechAdvisor</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-7-packet-opening-experience-hacks/"><u>Top 7 Packet Opening Experience Hacks</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/wiederherstellung-deiner-video-dateien-in-windows-11-eine-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Deiner Video-Dateien in Windows 11 – Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youth-empowerment-your-life-story-can-inspire-for-2024/"><u>Youth Empowerment Your Life Story Can Inspire for 2024</u></a></li>
+</ul></div>
 

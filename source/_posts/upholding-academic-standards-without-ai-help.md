@@ -1,7 +1,7 @@
 ---
 title: Upholding Academic Standards Without AI Help
-date: 2024-11-26T17:08:31.124Z
-updated: 2024-11-27T16:17:03.327Z
+date: 2024-11-30T21:45:36.195Z
+updated: 2024-12-06T21:26:00.781Z
 tags:
   - chatgpt
   - open-ai
@@ -28,17 +28,9 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Don't Rely on ChatGPT for Facts
 
 ![ChatGPT shares a factually incorrect answer.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-shares-a-factually-incorrect-answer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  While ChatGPT is certainly impressive when it comes to generating convincing responses, it’s important that you [don’t rely on it for factual information](https://www.makeuseof.com/does-chatgpt-lie/). Thanks to its impressive language capabilities, you may assume you can trust the accuracy of ChatGPT’s responses.
 
@@ -49,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
  So, while ChatGPT is a valuable tool when it comes to brainstorming ideas or engaging in thought-provoking discussions, it’s best to verify data in its responses for potential inaccuracies before you cite them anywhere.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't Use ChatGPT to Proofread Homework
@@ -60,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 
  If you’d like extra feedback, don’t hesitate to ask your peers and teachers to have a look at your work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Don't Bypass Learning Obstacles With ChatGPT
 
 ![A frustrated student stares into her laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-frustrated-student-stares-into-her-laptop.jpg)
@@ -67,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
  While ChatGPT is certainly helpful to students, it should never be used as a replacement for traditional learning experiences. Challenging assignments allow students to develop critical thinking abilities, problem-solving skills, and an enhanced understanding of the subject. If you rely solely on ChatGPT to overcome roadblocks, you will miss out on valuable learning experiences.
 
  So, instead, when facing challenges while studying, try to collaborate with your peers, seek clarification from teachers, and break down complex concepts. By actively taking part in the learning progress, you can develop a comprehensive knowledge base.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Avoid Using ChatGPT for College Essays
 
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 ![ChatGPT generates content about NYC on a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-generates-content-about-nyc-on-a-smartphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While content generated by ChatGPT isn’t usually flagged by plagiarism tools, keep in mind that AI-generated text can be detected. In fact, OpenAI, the company that developed ChatGPT, released its own AI classifier that can detect AI-written content. While [these tools may not yet be completely accurate](https://www.makeuseof.com/ai-content-detectors-dont-work/), it’s safe to assume that they will become more reliable over time.
@@ -94,15 +94,15 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 
  Instead, seek guidance from subject-matter experts or academic advisors to weigh out the pros and cons of your options. Speaking to reputable sources, engaging in discussions with your peers, and collecting diverse perspectives can help you holistically approach decision-making.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Don’t Ignore Your School’s AI-Usage Guidelines
 
  Your school or university may have certain dos and don’ts for using AI technology. For instance, your school may permit students to use AI for research purposes and idea generation. However, students may not be allowed to use these tools to complete their assignments or pass assessments.
 
  The guidelines set by your school are to ensure that students use AI tools, like ChatGPT, ethically within the academic setting. Ignoring these guidelines could lead to consequences such as disciplinary action or academic penalties. So, before you use ChatGPT for academic projects, make sure to familiarize yourself with the guidelines set by your school.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use ChatGPT as an Aid, Not a Learning Substitute
 
@@ -127,15 +127,22 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-low-cost-android-calls-compared-ranking/"><u>[New] 2024 Approved Best Low-Cost Android Calls Compared Ranking</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/30-smart-home-upgrade-the-ultimate-blink-video-doorbell-offer-during-prime-day-shopping-extravaganza-gadgetguru/"><u>$30 Smart Home Upgrade: The Ultimate Blink Video Doorbell Offer During Prime Day Shopping Extravaganza | GadgetGuru</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-blur-techniques-for-dynamic-artwork/"><u>2024 Approved The Essential Guide to Blur Techniques for Dynamic Artwork</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-breakdown-of-facebooks-user-assistance-features/"><u>A Breakdown of Facebook's User Assistance Features</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-best-free-video-translation-youtubes-extractors-and-downloader-list/"><u>In 2024, The Best-Free Video Translation YouTube's Extractors & Downloader List</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-freezes-solutions-for-stable-genshin-impact-on-pc/"><u>No More Freezes – Solutions for Stable Genshin Impact on PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unbeatable-prime-day-offer-snag-the-blink-video-doorbell-at-just-30-your-perfect-smart-home-addition-today/"><u>Unbeatable Prime Day Offer: Snag the BLINK Video Doorbell at Just $30 - Your Perfect Smart Home Addition Today!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unearthing-millennia-old-linguistic-foundations/"><u>Unearthing Millennia-Old Linguistic Foundations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unexpected-delight-how-rings-spotlight-cam-pro-exceeded-expectations-according-to-zdnet/"><u>Unexpected Delight: How Ring's Spotlight Cam Pro Exceeded Expectations, According to ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/way-day-exclusive-deal-get-an-intelligent-water-farming-system-at-a-steep-87-off/"><u>Way Day Exclusive Deal! Get an Intelligent Water Farming System at a Steep $87 Off.</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-soundseekers-avoiding-dacast-traps/"><u>[New] SoundSeekers Avoiding DaCast Traps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-integrating-yt-music-into-video-editing-suites/"><u>[Updated] Integrating YT Music Into Video Editing Suites</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-best-gear-for-stop-motion-special-effects/"><u>2024 Approved Best Gear for Stop Motion Special Effects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-leap-forward-what-to-expect-in-gpt-5s-update/"><u>AI's Leap Forward: What to Expect in GPT-5's Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-content-game-9-essential-uses-for-chatgpt/"><u>Boost Your Content Game: 9 Essential Uses for ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-and-greatest-unveiling-ios-18s-best-new-additions-spotlight-on-zdnet/"><u>Discover the Latest and Greatest: Unveiling iOS 18'S Best New Additions - Spotlight on ZDNET</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/flawlessly-integrate-your-asus-pce-ac56-wifi-adapter-with-the-latest-versions-of-windows-tutorial-issues-resolved/"><u>Flawlessly Integrate Your ASUS PCE-AC56 WiFi Adapter with the Latest Versions of Windows: Tutorial [ISSUES RESOLVED]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-and-twitter-verification-a-new-horizon-unfolds/"><u>GPT-4 & Twitter Verification: A New Horizon Unfolds</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-bridging-giants-a-comprehensive-guide-to-linking-youtube-and-tiktok/"><u>In 2024, Bridging Giants A Comprehensive Guide to Linking YouTube and TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-insights-into-daily-tasks/"><u>Integrating GPT Insights Into Daily Tasks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/neural-network-progression-the-anticipated-debut-of-gpt-5/"><u>Neural Network Progression: The Anticipated Debut of GPT-5?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-big-ai-moment-predicting-the-release-of-gpt-5/"><u>Next Big AI Moment: Predicting the Release of GPT-5?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-enrollment-tips-using-apps-without-a-mobile-number/"><u>Quick Enrollment Tips: Using Apps without a Mobile Number</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/samsung-galaxy-ai-growth-leads-surpassing-google-in-latest-tech-innovation-rankings/"><u>Samsung Galaxy AI Growth Leads, Surpassing Google in Latest Tech Innovation Rankings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-strategies-for-identifying-and-eradicating-smartphone-spyware-cybersecurity-hub/"><u>Step-by-Step Strategies for Identifying & Eradicating Smartphone Spyware | CyberSecurity Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-unregistered-package-error-in-win11-images/"><u>Steps to Resolve Unregistered Package Error in Win11 Images</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upgrade-your-smartphone-experience-the-accessory-that-makes-it-feel-like-a-superior-nintendo-switch/"><u>Upgrade Your Smartphone Experience: The Accessory That Makes It Feel Like a Superior Nintendo Switch</u></a></li>
 </ul></div>
 

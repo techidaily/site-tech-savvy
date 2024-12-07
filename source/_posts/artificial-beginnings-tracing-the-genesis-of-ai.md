@@ -1,7 +1,7 @@
 ---
 title: "Artificial Beginnings: Tracing the Genesis of AI"
-date: 2024-11-24T16:00:55.554Z
-updated: 2024-11-27T16:34:15.230Z
+date: 2024-12-05T21:44:28.437Z
+updated: 2024-12-06T21:33:42.143Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 
 ![Old, Ancient Books in Dirt and With Yellow Pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-books-yellow-pages.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Computers emerged in the mid-70s](https://www.makeuseof.com/who-built-the-first-personal-computer-and-how-does-it-compare-with-your-pc-or-laptop/), but historians trace the earliest references to AI back to the late middle ages. Scholars often wondered about future innovations. Of course, they lacked the technological resources and skills to materialize ideas.
 
 * **1305:** Theologian and Catalan mystic Ramon Llull wrote Ars Magna in the early 1300s. It details mechanical techniques for logical interreligious dialogues. The last section of Ars Magna, the Ars Generalis Ultima, explains a diagram for deriving propositions from existing information. It bears semblance to AI training.
@@ -41,13 +45,13 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 
  Although the first period looking at the roots of AI covers a vast period, there are some key moments.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1900-1950: The Dawn of Modern AI
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Technological developments accelerated during this period. The accessibility of IT resources enabled researchers to materialize theories, imagined concepts, and speculations. They were laying the foundation for cybernetics.
 
@@ -92,10 +96,6 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
 ![Camera, Smartphone, Keyboard, an Laptop on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/various-gadgets-on-table.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Companies began developing stable AI-driven solutions during this period. They integrate AI into various software and hardware systems, like virtual assistants, grammar checkers, laptops, smartphones, and [augmented reality apps](https://www.makeuseof.com/tag/best-augmented-reality-apps-android/).
 
 * **2011:** IBM developed Watson, a question-answering computer system. The company pitted it against two former champions in Jeopardy to demonstrate its capabilities—Watson the computer won.
@@ -107,7 +107,7 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
  During this period, consumers were likely to use AI applications without even realizing it, even though visual and voice recognition tools (for most consumers) were still young. Towards the end of the decade, AI development kicked up a notch, but still not as dramatically as what was to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2021-Present: Global Tech Leaders Kick off the Great AI Race
@@ -115,7 +115,7 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The great AI race has begun. Developers are releasing language models, and companies are researching ways to integrate AI with their products. At this rate, almost every consumer product will have an AI component.
@@ -126,7 +126,7 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
  There are also numerous [other AI web apps](https://www.makeuseof.com/best-ai-web-apps/) and [AI-based health apps](https://www.makeuseof.com/best-ai-apps-monitor-your-health/) available for use or in development, and so many more to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How AI Will Shape the Future
@@ -154,16 +154,15 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-multitask-media-magic-employing-netflix-picture-in-picture/"><u>[New] Multitask Media Magic Employing Netflix Picture-in-Picture</u></a></li>
-<li><a href="https://extra-support.techidaily.com/solved-total-war-warhammer-3-keeps-crashing-on-pc/"><u>[SOLVED] Total War: WARHAMMER 3 Keeps Crashing on PC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-capture-perfection-the-best-live-stream-recorders-ranked/"><u>[Updated] Capture Perfection The Best Live Stream Recorders Ranked</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-strategic-thumbnail-design-maximizing-online-exposure/"><u>[Updated] In 2024, Strategic Thumbnail Design Maximizing Online Exposure</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quick-and-simple-facial-masking-in-photos/"><u>[Updated] Quick & Simple Facial Masking in Photos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-writing-game-with-libreoffice-a-comparative-guide-to-outperforming-google-docs-writers-digest/"><u>Elevate Your Writing Game with LibreOffice - A Comparative Guide to Outperforming Google Docs | Writer's Digest</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fixing-multiple-firefox-issues-a-fresh-start-guide-insights-from-zdnet/"><u>Fixing Multiple Firefox Issues: A Fresh Start Guide - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/four-effective-strategies-small-enterprises-can-use-to-secure-additional-support/"><u>Four Effective Strategies Small Enterprises Can Use To Secure Additional Support</u></a></li>
-<li><a href="https://win-able.techidaily.com/garrys-mod-stability-issues-top-strategies-for-a-smooth-gaming-experience/"><u>Garry's Mod Stability Issues? Top Strategies for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-enabling-safaris-default-tab-opening-setting-tips-from-zdnet/"><u>Guide: Enabling Safari's Default Tab Opening Setting – Tips From ZDNet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-ergonomic-keyboard-picks-for-2n24/"><u>Top Rated Ergonomic Keyboard Picks for 2N24</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-immediate-solution-for-podcast-livestreaming/"><u>[New] In 2024, Immediate Solution for Podcast Livestreaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-expert-strategies-for-higher-youtube-shorts-revenue/"><u>[Updated] 2024 Approved Expert Strategies for Higher YouTube Shorts Revenue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-compactscreengrab-critique-report-for-2024/"><u>[Updated] CompactScreenGrab Critique Report for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-master-your-gaming-auditory-experience-with-this-best-free-app-valorant-edition/"><u>[Updated] In 2024, Master Your Gaming Auditory Experience with This Best Free App – Valorant Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/curated-selection-must-watch-lesbian-gay-bisexual-and-transgender-movies-on-netflix-july-2024/"><u>Curated Selection: Must-Watch Lesbian, Gay, Bisexual & Transgender Movies on Netflix (July 2024)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-game-changing-20-anker-charger-feature-highlighted-in-zdnets-latest-review/"><u>Discover the Game-Changing $20 Anker Charger Feature Highlighted in ZDNet's Latest Review!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/framework-of-flawed-intelligence-policy/"><u>Framework of Flawed Intelligence: Policy</u></a></li>
+<li><a href="https://win-premium.techidaily.com/page-missing-404-error-code-indicates-unavailable-content/"><u>Page Missing! 404 Error Code Indicates Unavailable Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-vanguard-verdict-which-ai-tops-gemini-or-plush-chatgpt/"><u>The Vanguard Verdict: Which AI Tops, Gemini or Plush ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-apples-innovative-perspective-the-fascinating-appeal-of-wearable-goggles-according-to-top-experts-zdnet/"><u>Unveiling Apple's Innovative Perspective: The Fascinating Appeal of Wearable Goggles According to Top Experts | ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Manuscript to Machine: Has ChatGPT Redefined Academic Writing?"
-date: 2024-09-12T16:20:54.366Z
-updated: 2024-09-17T16:02:53.803Z
+date: 2024-12-03T21:27:15.453Z
+updated: 2024-12-06T23:49:14.343Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  So, for many professors, the student essay is an excellent tool for developing critical thinking. It's also not as taxing for the students since most essays are take-home assignments.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Libraries, Internet Search, and Analytical Thinking vs. ChatGPT
 
  Before the proliferation of the internet, students had to exert double effort to research and write their essays. So, their critical and analytical thinking skills are exercised in multiple ways—searching for related literature to their topic, analysis of existing data, and how they write and present and their learnings.
@@ -56,9 +60,17 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
 ![chatgpt site open on desktop monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is the basic gist of [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/): when you ask ChatGPT anything, it doesn't send you to an article or a website. Instead, it goes through all its stored information and recognizes patterns based on what it has learned. From there, it will return an answer it predicts will satisfy your need.
 
  ChatGPT and generative AI generally do not analyze information for you. However, it will deliver results that previous writers have already processed. And, based on your question, it can also give you related results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AI as a Learning Tool: Harnessing ChatGPT to Improve Understanding
 
@@ -94,27 +106,21 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 
  Because of this, educators must find ways to make student essays more robust. For example, they can no longer assign general topics—like a book report on The Great Gatsby—because it's easy for students to ask ChatGPT or any other generative AI tool to write it for them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Student Essays Need to Evolve to Survive AI
 
  So, how can teachers, professors, and educators change the student essay to make it evolve with AI?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Make the Questions More Pointed or Personal
 
  The biggest thing that generative AI like ChatGPT cannot do is write about personal experience. After all, a student's life isn't generally available online, so generative AI cannot predict that student's life.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Write Essay Questions in the Context of Current Events
 
@@ -137,23 +143,7 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
 ![two students essay writing during class](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/essay-writing-during-class.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Essays Can Still Gauge Student Knowledge and Competence
@@ -181,5 +171,17 @@ thumbnail: https://thmb.techidaily.com/e238ad00eb0e97c8dd57c3ad56e056f669853f212
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-best-in-class-subtitle-converters-revealed-transform-sub-into-srtr-in-minutes-not-hours-for-2024/"><u>[New] Best-in-Class Subtitle Converters Revealed Transform SUB Into SRTR in Minutes, Not Hours for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-key-to-professional-filming-without-spending-free-lessons-from-the-best-in-green-screen-artistry/"><u>[New] The Key to Professional Filming Without Spending Free Lessons From the Best in Green Screen Artistry</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/asus-driver-suite-for-optimal-pc-performance/"><u>ASUS Driver Suite for Optimal PC Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-the-hype-why-opting-out-of-the-iphone-16-may-preserve-your-tech-savvy-insights/"><u>Avoid the Hype: Why Opting Out of the iPhone 16 May Preserve Your Tech Savvy - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/contrasting-future-and-past-gpt-4-versus-gpt-35/"><u>Contrasting Future & Past: GPT-4 Versus GPT-3.5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiency-hacks-and-pitfalls-when-using-ai-writing-assistants/"><u>Efficiency Hacks and Pitfalls When Using AI Writing Assistants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-cycling-how-photochromic-glasses-hud-upgraded-my-ride-insights/"><u>Revolutionizing Cycling: How Photochromic Glasses' HUD Upgraded My Ride - Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-strategies-for-reducing-chromes-high-system-resource-usage/"><u>Solution Strategies for Reducing Chrome's High System Resource Usage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-full-time-employees-guide-to-video-content-success-for-2024/"><u>The Full-Time Employee's Guide to Video Content Success for 2024</u></a></li>
+</ul></div>
 

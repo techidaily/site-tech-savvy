@@ -1,7 +1,7 @@
 ---
 title: Transform Your Living Space With Intelligent ChatGPT Controls
-date: 2024-09-13T16:05:25.431Z
-updated: 2024-09-17T16:21:41.722Z
+date: 2024-12-02T21:30:57.565Z
+updated: 2024-12-06T16:27:08.185Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT and Smart Technology
 
 ![image of white google smart speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/white-smart-speaker.jpg)
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
  Let's start with your smartphone. You can, indeed, use ChatGPT on your smartphone in the same way you'd use it on a desktop by simply accessing the tool via your web browser. You can even use ChatGPT on your smartwatch by using certain plugins,
 
  But to make ChatGPT useful in a smart home, things can't stop at one device alone. ChatGPT must be able to recognize and communicate with other smart devices, such as lights, locks, heating, and other appliances. So, is this possible yet?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can ChatGPT Work In Smart Homes?
 
@@ -54,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
 
  In the above video, you'll see Josh being asked to open blinds, give the local weather forecast, and even provide sleep advice. Josh also answered more complex questions, like which museums in California feature Andy Warhol. While this is still a work in progress, there's a lot of potential for ChatGPT to show off its skills within smart homes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Using ChatGPT to Create a Smart Home Integration
 
  You can also [use ChatGPT to write code](https://www.makeuseof.com/best-vs-code-chatgpt-extensions/) for a smart home integration.
@@ -70,15 +82,16 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
 
 ![chatgpt smart home integration instructions in chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With the Home Assistant tool, you can integrate ChatGPT into Google Nest. If you want to integrate into Alexa, ChatGPT offers instructions using the Alexa Skills Kit and AWS Lambda. To integrate into Cortana, ChatGPT can help you use code via the Bot Framework. Evidently, there are a lot of different smart home assistants that can function with ChatGPT's capabilities.
 
  However, you'll need some understanding of software code if you want to personalize ChatGPT's provided code templates quite a lot (e.g. if you want it to work with multiple smart assistants simultaneously).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using ChatGPT In Your Smart Home
@@ -90,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
  However, if you're an expert with tech, you may be able to leverage ChatGPT within your smart home by using a GitHub repository, or writing your own code (possibly by [using ChatGPT itself](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/)).
 
  But ChatGPT-enabled smart assistants may one day be widespread, allowing you to carry out all sorts of tasks using this nifty AI tool.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT May One Day Control Your Smart Home
 
@@ -119,5 +125,26 @@ thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f19
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-androids-best-top-8-gratuitous-capture-tools/"><u>[New] In 2024, Android's Best Top 8 Gratuitous Capture Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effective-strategies-for-removing-youtube-media-from-computers-for-2024/"><u>[Updated] Effective Strategies for Removing YouTube Media From Computers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-power-dynamics-strong-vs-weak/"><u>AI Power Dynamics: Strong Vs. Weak</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-implications-on-the-privacy-lands-market/"><u>ChatGPT's Implications on the Privacy Lands Market</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/copilotplus-showcases-cutting-edge-snapdragon-notebooks-join-our-live-testing-event/"><u>Copilot+ Showcases Cutting-Edge Snapdragon Notebooks: Join Our Live Testing Event!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-exploration-top-7-chatgpt-applications-for-instant-travel-planning/"><u>Effortless Exploration - Top 7 ChatGPT Applications For Instant Travel Planning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-humble-beginnings-to-powerhouse-performance-how-apples-new-mac-studio-redefines-its-legacy-as-a-modernized-mac-mini/"><u>From Humble Beginnings to Powerhouse Performance: How Apple's New Mac Studio Redefines Its Legacy as a Modernized Mac Mini</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-itel-p40-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Itel P40 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maintaining-confidentiality-in-work-chatai-usage/"><u>Maintaining Confidentiality in Work ChatAI Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-macos-security-effective-strategies-for-retrieve-keystore-passwords-cybersolutions-blog/"><u>Mastering macOS Security: Effective Strategies for Retrieve Keystore Passwords | CyberSolutions Blog</u></a></li>
+<li><a href="https://extra-information.techidaily.com/memorable-book-trailers-explored/"><u>Memorable Book Trailers Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-imaginary-interpretations-in-artificial-intelligence/"><u>Navigating Through Imaginary Interpretations in Artificial Intelligence</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-of-both-worlds-free-and-paid-time-lapse-video-editing-software/"><u>New In 2024, The Best of Both Worlds Free and Paid Time-Lapse Video Editing Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-functionality-how-to-troubleshoot-a-non-responsive-logitech-g430-microphone/"><u>Restoring Functionality: How to Troubleshoot a Non-Responsive Logitech G430 Microphone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/m-reversal-top-10-audio-distortors-for-devices/"><u>Rhythm Reversal Top 10 Audio Distortors for Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/strategies-for-bulk-tiktok-video-acquisition/"><u>Strategies for Bulk TikTok Video Acquisition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-art-of-timelapses-recording-techniques-for-ipads/"><u>The Art of Timelapses Recording Techniques for iPads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/to-upgrade-or-not-insider-perspectives-on-why-you-should-consider-or-skip-the-iphone-16-reviewed/"><u>To Upgrade or Not: Insider Perspectives on Why You Should Consider (or Skip) the iPhone 16 Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727785061735-top-rated-waterproof-smartwatches-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Waterproof Smartwatches : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+</ul></div>
 

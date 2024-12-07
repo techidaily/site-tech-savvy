@@ -1,7 +1,7 @@
 ---
 title: "Mastering Artificial Conversation: Avoiding Fatal Errors"
-date: 2024-11-23T17:08:43.058Z
-updated: 2024-11-27T17:09:51.484Z
+date: 2024-11-30T18:47:04.530Z
+updated: 2024-12-07T00:47:07.770Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Mixing Topics In a Single Chat Session
 
  While it may not seem concerning to prompt on diverse topics within the same chat session, it's worth paying attention to. ChatGPT is highly sensitive to context. Each prompt you introduce during a chat session can greatly shape the responses you receive from subsequent prompts.
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Too Many Instructions In a Single Prompt
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
@@ -91,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of [crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/). While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
@@ -119,10 +119,14 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
@@ -132,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
  "What is the meaning of life?" and "What is the best way to stay healthy?" are two examples of prompts that seem normal but are quite ambiguous. There's no definitive answer to both questions. However, ChatGPT will try to provide you with an answer that seems like hard facts. Prompts like "What is the meaning of life from a biological perspective?" or "What are some specific lifestyle changes or habits that can help improve mental health?" are good examples of specific, less ambiguous alternatives.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
 
@@ -160,18 +160,14 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-nailing-iphone-snaps-top-editing-tricks/"><u>[New] Nailing iPhone Snaps Top Editing Tricks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-your-visual-mark-implementing-neon-edged-youtubes-for-2024/"><u>[Updated] Enhancing Your Visual Mark Implementing Neon-Edged YouTubes for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tips-and-tricks-for-gopro-get-the-most-from-your-gopro/"><u>[Updated] Tips and Tricks for GoPro Get the Most From Your GoPro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-test-drive-how-this-budget-friendly-power-station-transformed-my-cross-country-journey-insights-from-zdnet/"><u>Affordable Test Drive: How This Budget-Friendly Power Station Transformed My Cross-Country Journey - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/alternative-to-teslas-powerwall-discover-the-new-anker-solix-x1-on-zdnet/"><u>Alternative to Tesla's Powerwall: Discover the New Anker Solix X1 on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/arlo-pro-5s-zdnet/"><u>Arlo Pro 5S 등장: 제가 원하는 정확한 보안 카메라를 찾기 시작 | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/brighten-your-evenings-with-new-and-improved-permanent-govee-outdoor-lighting-options-perfect-for-a-radiant-weekend-transformation/"><u>Brighten Your Evenings with New & Improved Permanent Govee Outdoor Lighting Options – Perfect for a Radiant Weekend Transformation!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquer-the-cleveland-cold-how-an-innovative-electric-snow-blower-transforms-my-winter-experience/"><u>Conquer the Cleveland Cold: How an Innovative Electric Snow Blower Transforms My Winter Experience</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-x50iplus-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor X50i+</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-exclusive-top-10-leading-fb-video-platforms/"><u>In 2024, Exclusive Top 10 Leading FB Video Platforms</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/rapid-releases-review-best-quick-gaming-selections/"><u>Rapid Releases Review Best Quick Gaming Selections</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-innovation-with-freeform-idea-generation-the-ultimate-creative-tool-for-successful-brainstorming-zdnet/"><u>Unlock Innovation with Freeform Idea Generation – The Ultimate Creative Tool for Successful Brainstorming | ZDNET</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-transform-how-you-talk-best-mobile-apps-to-alter-vocal-quality/"><u>[Updated] In 2024, Transform How You Talk Best Mobile Apps to Alter Vocal Quality</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-itel-a60-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Itel A60 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/envisioned-elegance-gpt-powered-digital-illustration/"><u>Envisioned Elegance: GPT-Powered Digital Illustration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-review-cloud-pricing-trends/"><u>In 2024, In-Depth Review Cloud Pricing Trends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-175-recovery-feature-returns-lost-images-apple-shares-insights-and-tips-zdnet/"><u>IOS 17.5 Recovery Feature Returns Lost Images, Apple Shares Insights & Tips - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-the-virtual-realm-with-confidence-the-perfect-console-selection-and-extras-to-empower-young-gamers/"><u>Navigate the Virtual Realm with Confidence: The Perfect Console Selection and Extras to Empower Young Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-workouts-ensuring-safety-through-chatgpt/"><u>Personalized Workouts: Ensuring Safety Through ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-software-picks-discover-the-latest/"><u>Top-Ranking Mac Software Picks – Discover the Latest</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-code-0x80073cf3-on-microsoft-store/"><u>Troubleshooting Error Code 0X80073CF3 on Microsoft Store</u></a></li>
 </ul></div>
 

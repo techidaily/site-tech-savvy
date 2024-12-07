@@ -1,7 +1,7 @@
 ---
 title: "Keeping Your Vision Unique in a Digital World: Nightshade for Artistic Integrity"
-date: 2024-11-26T17:13:55.621Z
-updated: 2024-11-27T16:50:17.710Z
+date: 2024-11-29T16:28:49.546Z
+updated: 2024-12-06T23:37:07.879Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694de
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694de
 * [How to Use Nightshade](https://technitya.sjv.io/dkpn02)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694de
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is AI Poisoning?
@@ -70,7 +70,7 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Nightshade
@@ -92,7 +92,7 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
@@ -119,22 +119,18 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-key-iphone-shot-design-guidelines-unveiled/"><u>[New] 2024 Approved Key iPhone Shot Design Guidelines Unveiled</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-thrilling-tales-at-the-top-engaging-openers/"><u>[New] Thrilling Tales at the Top Engaging Openers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-convert-youtube-tracks-to-mp3-safely-the-3-best-ways-for-2024/"><u>[Updated] How To Convert YouTube Tracks to MP3 Safely - The 3 Best Ways for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-creativity-the-best-ai-text-synthesizers/"><u>Boost Creativity: The Best AI Text Synthesizers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/break-writing-barriers-with-our-5-innovative-text-generators/"><u>Break Writing Barriers with Our 5 Innovative Text Generators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-frontier-gpt-vs-bings-ai-communicators/"><u>Exploring the Frontier: GPT Vs. Bing's AI Communicators</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/from-old-to-new-avoiding-hurdles-in-win7-win10-shift/"><u>From Old to New: Avoiding Hurdles in Win7-Win10 Shift</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722081242515-get-ahead-of-the-pack-with-these-7-free-ai-driven-trip-planning-tools-no-booking-hassle/"><u>Get Ahead of the Pack with These 7 Free AI-Driven Trip Planning Tools - No Booking Hassle!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-chatgpt-redefines-medical-advice-top-7-insights/"><u>How ChatGPT Redefines Medical Advice: Top 7 Insights</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-youtube-subscriber-awards-the-play-button-awards-for-creators/"><u>In 2024, YouTube Subscriber Awards! The Play Button Awards for Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maintaining-conversational-confidentiality-for-bots/"><u>Maintaining Conversational Confidentiality for Bots</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/navigate-the-post-production-maze-with-timestamps-and-labels/"><u>Navigate the Post-Production Maze with Timestamps & Labels</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/parameters-to-ponder-choosing-chatgpt-for-counseling-purposes/"><u>Parameters to Ponder: Choosing ChatGPT for Counseling Purposes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-your-menu-planning-with-these-7-chatgpt-insights/"><u>Simplify Your Menu Planning With These 7 ChatGPT Insights</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-100-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on 100 Pro without backup.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unpacking-apples-expensive-vr-gadget-why-would-you-pay-3k-for-this-tech-marvel-zdnet/"><u>Unpacking Apple’s Expensive VR Gadget - Why Would You Pay $3K for This Tech Marvel? | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-sparked-italys-instantaneous-chatgpt-prohibition/"><u>What Sparked Italy's Instantaneous ChatGPT Prohibition?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-maximizing-twitter-video-quality-full-hd-tips-for-2024/"><u>[New] Maximizing Twitter Video Quality Full HD Tips for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-in-depth-analysis-the-power-of-quantum-hdr/"><u>2024 Approved In-Depth Analysis The Power of Quantum HDR</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/cloaked-story-crafting-your-ultimate-snapguide-manual/"><u>Cloaked Story Crafting Your Ultimate Snapguide Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-sustainable-fitness-goals-using-gpt/"><u>Crafting Sustainable Fitness Goals Using GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/earn-a-cool-150-apple-gift-card-when-choosing-mac-or-ipad-for-school-expert-advice-inside/"><u>Earn a Cool $150 Apple Gift Card When Choosing Mac or iPad for School - Expert Advice Inside</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012425098-gta-e-fixing-tips-eliminate-game-lags-and-halt-the-freezes-now/"><u>GTA E Fixing Tips: Eliminate Game Lags and Halt the Freezes Now</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-mac-video-editing-made-easy-vn-video-editor-and-more/"><u>In 2024, Mac Video Editing Made Easy VN Video Editor and More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-efficiency-on-macos-using-quick-actions-features-in-finder-insights-for-advanced-users/"><u>Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights for Advanced Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/misguidance-in-the-era-of-machine-creativity/"><u>Misguidance in the Era of Machine Creativity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-windows-11-taskbar-glitch-tips-and-techniques-that-work/"><u>Resolving the Windows 11 Taskbar Glitch: Tips & Techniques That Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rethink-how-you-research-choose-perplexity-ai/"><u>Rethink How You Research - Choose Perplexity AI</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-dota-2-microphone-glitches-with-these-expert-hacks/"><u>Solve Your Dota 2 Microphone Glitches with These Expert Hacks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-solution-to-the-cant-find-msvcr71dll-problem-on-your-pc/"><u>The Ultimate Solution to the Can't Find msvcr71.dll Problem on Your PC</u></a></li>
 </ul></div>
 

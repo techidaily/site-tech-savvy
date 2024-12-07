@@ -1,7 +1,7 @@
 ---
 title: Best Practices for Avoiding Writing Gaffes with ChatGPT
-date: 2024-09-14T16:04:52.466Z
-updated: 2024-09-17T16:28:51.078Z
+date: 2024-12-05T16:03:34.981Z
+updated: 2024-12-06T18:55:34.385Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Don't Overdepend on ChatGPT
 
@@ -55,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
  To test, we asked ChatGPT to give us JSTOR research paper links on British young adult fantasy writers who have written coming-of-age stories. The AI gave us five resources with titles, volume numbers, page numbers, and authors.
 
 ![ChatGPT giving JSTOR links to wrong resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-46.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At first glance, the list looks credible. The JSTOR articles have impressive-sounding titles like "Constructing Hybrid Identity: Race and Nation in Sally Green's Half Bad Trilogy." But a Google search would quickly show that most links lead to the wrong JSTOR articles. One of the links led to a 404 landing page.
 
@@ -105,16 +113,7 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 ![ChatGPT giving a wrong answer to a prompt asking for a summary of Eric Allen's article on Hackernoon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-44.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To help ChatGPT, we copy-pasted the article in parts and asked for a summary after each upload. This time, ChatGPT was able to accomplish the task accurately. At one point, it gave us a comment instead of a summary, but we redirected it using another prompt.
@@ -122,15 +121,16 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 ![Conversation with ChatGPT asking to summarize a blog on Hackernoon by Eric Allen, which was uploaded in parts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This example was a learn-by-doing experiment on how to use ChatGPT to summarize long and technical articles effectively. However, you can now access many internet resources and [learn prompting techniques to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/).
 
  Using recommended prompts is not a fail-safe method against hallucinations, but it can help you deliver accurate results. You can also review the [best ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) for more information on prompting techniques.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Maximize ChatGPT Capabilities, but Be Mindful of Its Limits
 
@@ -155,5 +155,21 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamlining-screen-record-on-mac-via-keyboard-shortcuts/"><u>[New] 2024 Approved Streamlining Screen Record on Mac via Keyboard Shortcuts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-shine-on-top-17-studio-lights-for-youtube/"><u>[Updated] In 2024, Shine On Top 17 Studio Lights for YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unheard-vocal-verifiers-6-stealthy-smartphone-recordings/"><u>2024 Approved Unheard Vocal Verifiers 6 Stealthy Smartphone Recordings</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/achieving-a-million-on-the-map-a-strategic-view-to-sub-guide/"><u>Achieving a Million on the Map A Strategic View-to-Sub Guide</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft-iphone-data-recovery-for-mac/"><u>Aiseesoft FoneLab iPhone Data Recovery for Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-halts-new-ios-beta-release-following-iphone-malfunction-claims-zdnet/"><u>Apple Halts New iOS Beta Release Following iPhone Malfunction Claims - ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beat-the-black-restoring-display-functionality-to-your-xbox-one-console/"><u>Beat The Black: Restoring Display Functionality to Your Xbox One Console</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-i-wove-tales-into-podcast-scripts-ai-style/"><u>How I Wove Tales Into Podcast Scripts AI-Style</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-lava-storm-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Lava Storm 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-x-fold-2-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo X Fold 2 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-devices-power-with-our-non-bricky-fast-charging-magsafe-battery-pack-zdnet/"><u>Revolutionize Your Device's Power with Our Non-Bricky, Fast-Charging MagSafe Battery Pack | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-sensitive-information-using-custom-gpts/"><u>Safeguarding Sensitive Information Using Custom GPTs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-a-discounted-ipad-at-only-199-in-the-exclusive-amazon-labor-day-blowout-find-out-how/"><u>Secure a Discounted iPad at Only $199 in the Exclusive Amazon Labor Day Blowout: Find Out How</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/techniques-doptimisation-pour-la-sauvegarde-de-machines-virtuelles-guide-des-meilleures-pratiques/"><u>Techniques D'optimisation Pour La Sauvegarde De Machines Virtuelles : Guide Des Meilleures Pratiques</u></a></li>
+</ul></div>
 

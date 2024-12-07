@@ -1,7 +1,7 @@
 ---
 title: Maintaining Confidentiality in Work ChatAI Usage
-date: 2024-11-25T16:29:40.526Z
-updated: 2024-11-27T16:21:34.306Z
+date: 2024-11-30T22:28:42.453Z
+updated: 2024-12-07T00:25:26.234Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Don’t Save Your Chat History
 
  One of the simplest yet effective steps to protect your privacy is to avoid saving your chat history. ChatGPT, by default, stores all interactions between users and the chatbot. These conversations are collected to train OpenAI’s systems and are subject to inspection by moderators.
@@ -41,9 +45,17 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
 ![ChatGPT showing options to disable chat history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that [OpenAI](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) says that even with this setting enabled, conversations are retained for 30 days with the option for moderators to review them for abuse before permanent deletion. Still, disabling chat history is one of the best things you can do if you want to continue using ChatGPT.
 
  Tip: If you need access to your data on ChatGPT, export them first. You can also save them by taking screenshots, writing notes manually, copy-pasting them into a separate application, or using secure cloud storage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delete Conversations
 
@@ -59,15 +71,7 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
 
@@ -94,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
  Anonymization is not foolproof since data can be de-anonymized. Understand [de-anonymization and how to prevent it](https://www.makeuseof.com/what-is-de-anonymization/) before utilizing any of these techniques. Evaluate the risks before you release anonymized data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Limit Access to Sensitive Data
@@ -104,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
  Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Be Wary of Third-Party Apps
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 [Whether third-party ChatGPT apps and browser extensions are safe](https://www.makeuseof.com/third-party-chatgpt-apps-browser-extensions-safe/) is an important question to ask. Before using any of these apps for work, carefully vet and scrutinize them. Make sure that they’re not collecting and retaining information for questionable purposes.
 
  Don’t install shady apps that ask for random permissions on your phone. Verify their data handling practices to check if they align with your organization’s privacy standards.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly for Work
 
@@ -140,18 +140,24 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-new-era-of-streaming-leading-voices-of-female-creators/"><u>[New] In 2024, A New Era of Streaming Leading Voices of Female Creators</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-rapid-routines-easy-iphone-media-sharing/"><u>[New] Rapid Routines Easy iPhone Media Sharing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-selfie-validation-is-it-essential-for-instagram-users/"><u>[New] Selfie Validation Is It Essential for Instagram Users?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-screenflow-simplified-streamlining-your-video-projects-on-a-mac/"><u>[Updated] ScreenFlow Simplified Streamlining Your Video Projects on a Mac</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725284016663-dvd/"><u>「どんなDVDも簡単にダビング！特集：家庭で使える最新の手順解説」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-elevates-user-experience-with-openais-chatgpt-for-ios-ipados-and-macos-insights/"><u>Apple Elevates User Experience with OpenAI's ChatGPT for iOS, iPadOS, and MacOS - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fine-tuning-vehicles-via-chatgpt-interaction-tips/"><u>Fine-Tuning Vehicles via ChatGPT Interaction Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/halt-the-comparative-analysis-exploring-differences/"><u>Halt The Comparative Analysis: Exploring Differences</u></a></li>
-<li><a href="https://fox-access.techidaily.com/immersive-chronicles-virtual-realitys-history/"><u>Immersive Chronicles Virtual Reality's History</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/implications-of-dojs-legal-action-against-apple-on-the-future-of-iphones-and-app-development-tech-insight/"><u>Implications of DOJ's Legal Action Against Apple on the Future of iPhones and App Development | Tech Insight</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplifying-generative-ai-core-ideas-highlighted/"><u>Simplifying Generative AI: Core Ideas Highlighted</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-score-a-20-discount-on-an-85/"><u>Unbeatable Deal: Score a 20% Discount on an 85</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-guide-to-the-best-magsafe-compatible-devices-expertly-tested-and-reviewed/"><u>ZDNet's Ultimate Guide to the Best MagSafe Compatible Devices - Expertly Tested and Reviewed!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastering-the-art-of-tags-in-gaming-videos/"><u>[Updated] Mastering the Art of Tags in Gaming Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-inexpensive-aerial-aides-top-5-affordable-drones/"><u>2024 Approved Inexpensive Aerial Aides Top 5 Affordable Drones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-apples-powerhouses-the-mac-mini-and-mac-studio-showdown-is-the-m2-chip-superior-to-the-m1/"><u>Comparing Apple's Powerhouses: The Mac Mini and Mac Studio Showdown - Is the M2 Chip Superior to the M1?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discerning-truth-from-ai-generated-content/"><u>Discerning Truth From AI-Generated Content</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enriching-visitor-experiences-through-advanced-cookiebot-solutions/"><u>Enriching Visitor Experiences Through Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-realme-12-pro-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Realme 12 Pro 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m2-powerhouse-showdown-comparing-apples-newest-marvel-the-mac-mini-and-mac-studio-which-one-outshines-the-legendary-m1-techradar/"><u>M2 Powerhouse Showdown: Comparing Apple's Newest Marvel, the Mac Mini and Mac Studio - Which One Outshines the Legendary M1? | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mercedes-benz-infuses-gpt-ai-with-voice-in-future-cars/"><u>Mercedes-Benz Infuses GPT AI with Voice in Future Cars</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/one-tap-install-for-bavarder-linux-style/"><u>One-Tap Install for Bavarder, Linux Style</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-connection-hurdles-a-users-guide-to-fixing-microsoft-dp-adapter-issues-on-windows-11/"><u>Overcoming Connection Hurdles: A User's Guide to Fixing Microsoft DP Adapter Issues on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-installation-of-insignamo-drive-software-on-your-pc-start-now/"><u>Seamless Installation of Insignamo Drive Software on Your PC - Start Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silence-the-snoops-opt-out-of-gpts-data-harvesting/"><u>Silence the Snoops: Opt-Out of GPT's Data Harvesting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surpassing-chatgpt-10-new-language-enigmas/"><u>Surpassing ChatGPT: 10 New Language Enigmas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-list-of-top-12-leading-webm-to-mp4-converter-apps-compatible-with-windows-and-macos/"><u>The Ultimate List of Top 12 Leading WebM to MP4 Converter Apps Compatible with Windows and macOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-3-essential-pc-gaming-analytics-apps-for-enhanced-in-game-tracking/"><u>Top 3 Essential PC Gaming Analytics Apps for Enhanced In-Game Tracking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mp3-devices-features-and-reviews-zdnet/"><u>Top-Rated MP3 Devices : Features and Reviews - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-mac-efficiency-mastering-the-art-of-setting-up-and-utilizing-hot-corners-the-essential-guide/"><u>Unlocking Mac Efficiency: Mastering the Art of Setting Up & Utilizing Hot Corners - The Essential Guide</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-speed-up-or-slow-down-top-gif-editing-software-and-apps/"><u>Updated In 2024, Speed Up or Slow Down Top GIF Editing Software and Apps</u></a></li>
 </ul></div>
 

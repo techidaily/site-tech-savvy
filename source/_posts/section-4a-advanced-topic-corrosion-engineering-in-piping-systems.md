@@ -1,7 +1,7 @@
 ---
 title: "Section 4A: Advanced Topic – Corrosion Engineering in Piping Systems"
-date: 2024-11-26T16:43:26.676Z
-updated: 2024-11-27T16:19:50.721Z
+date: 2024-12-05T23:08:57.537Z
+updated: 2024-12-07T00:17:59.595Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ How and why did I come to those conclusions? Let's dig in.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,10 +63,6 @@ How and why did I come to those conclusions? Let's dig in.
 | Colors           | Midnight, Starlight, Blue, Purple, Product RED                    |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Familiar design, with one exception
 
@@ -87,16 +83,12 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
 
 If you visit [Apple's comparison tool](https://www.apple.com/iphone/compare/?modelList=iphone13,iphone14,iphone14plus), pitting the [iPhone 13 against the iPhone 14](https://www.zdnet.com/article/iphone-13-vs-iphone-14/), you'll notice that the phones use the same A15 Bionic processor. This is the first time Apple has used the previous-generation processor in a new iPhone model, with the iPhone maker relying on the already solid performance the A15 Bionic brought to the iPhone 13\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -118,6 +110,10 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Camera upgrades
 
 The biggest changes Apple made to the iPhone 14 all have to do with the camera. Apple calls the iPhone 14's camera system an "advanced dual-camera system," thanks in part to some hardware upgrades but also because of some [iOS camera software features](https://www.zdnet.com/article/ios-16-has-a-hidden-photoshop-like-feature-where-to-find-it-and-how-to-use-it-and-why-youre-going-to-love-it/) that are new this year. 
@@ -136,6 +132,10 @@ Jason Cipriani/ZDNET
 
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Safety first
 
 You can expect more features to be enabled on the iPhone 14 in future. The new [Emergency SOS via Satellite](https://www.zdnet.com/article/how-the-apple-iphone-14-connects-to-satellites-during-emergencies/) feature, for example, isn't available yet. That's supposed to go live in November and will remain a free service for the next two years. Pricing after that isn't yet known. [Garmin offers a similar service](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/837461) on stand-alone devices with price plans starting at $15 a month, but I imagine Apple will figure out a way to bundle it into its [Apple One](https://www.zdnet.com/article/verizons-new-unlimited-plan-comes-with-a-built-in-apple-one-subscription/) plans. 
@@ -147,7 +147,7 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -186,22 +186,24 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-lenssplit-viewer-insight/"><u>[New] In 2024, LensSplit Viewer Insight</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-streaming-software-showdown-the-verdict-on-wirecast-vs-obs/"><u>[New] Streaming Software Showdown The Verdict on Wirecast Vs. OBS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-hunt-for-impactful-personalities-navigating-influencer-spaces/"><u>[Updated] 2024 Approved Hunt for Impactful Personalities Navigating Influencer Spaces</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/beats-and-briefs-music-incorporation-guide-on-fb-stories-for-2024/"><u>Beats and Briefs Music Incorporation Guide on FB Stories for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-expectations-how-the-ring-spotlight-cam-pro-blew-my-mind-tech-insights-from-zdnet/"><u>Beyond Expectations: How the Ring Spotlight Cam Pro Blew My Mind | Tech Insights From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/black-friday-deal-jackery-explorer-1000-generator-discounted-by-250-save-now/"><u>Black Friday Deal: Jackery Explorer 1000 Generator Discounted by $250 - Save Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/capturing-the-spectacular-2024-total-solar-eclipse-a-journey-from-onset-to-culmination-with-exclusive-images-zealtech/"><u>Capturing the Spectacular 2024 Total Solar Eclipse: A Journey From Onset to Culmination with Exclusive Images - ZealTech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/celebrate-the-ultimate-grass-trimming-joy-with-our-remote-controlled-lawnmower-zdnet/"><u>Celebrate the Ultimate Grass-Trimming Joy with Our Remote-Controlled Lawnmower | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discount-alert-enhance-your-home-with-ges-cync-collection-lights-and-switches-at-up-to-61-off-zdnet/"><u>Discount Alert: Enhance Your Home with GE's Cync Collection - Lights and Switches at Up to 61% Off | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-jackerys-amazing-cyber-monday-offers-of-2022-up-to-40-savings-on-your-next-portable-charger-featured-by-zdnet/"><u>Discover Jackery's Amazing Cyber Monday Offers of 2022: Up to 40% Savings on Your Next Portable Charger - Featured by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-4-devices-for-easier-puppy-care-insights-from-zdnet/"><u>Essential 4 Devices for Easier Puppy Care - Insights From ZDnet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-deal-get-the-near-perfect-arlo-pro-le-p-rfs-5z-at-just-180-your-ultimate-home-security-upgrade-awaits-techtoday/"><u>Exclusive Deal: Get the Near-Perfect Arlo Pro ˈɑːləʊ P Rɒfɪs 5Z at Just $180! Your Ultimate Home Security Upgrade Awaits | TechToday</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-k11-5g-by-drfone-android/"><u>How to Bypass FRP on Oppo K11 5G?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y100i Power 5G?</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-applications-that-bridge-the-mac-and-windows-divide/"><u>Key Applications that Bridge the Mac and Windows Divide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/sharing-bygone-photos-through-snapchats-memories-feature-for-2024/"><u>Sharing Bygone Photos Through Snapchat's Memories Feature for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-and-tips-for-rewriting-texts-in-instagram-chats/"><u>Steps and Tips for Rewriting Texts in Instagram Chats</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-virtual-mastery-top-5-karate-and-taekwondo-games/"><u>[New] In 2024, Virtual Mastery Top 5 Karate and Taekwondo Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-leading-selection-of-10-free-video-subtitle-extractors/"><u>[Updated] Leading Selection of 10 Free Video Subtitle Extractors</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-refine-and-reveal-editing-fbs-recollected-moments/"><u>[Updated] Refine and Reveal Editing FB's Recollected Moments</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-guide-incorporating-tunes-into-instagram-reels/"><u>[Updated] Step-by-Step Guide Incorporating Tunes Into Instagram Reels</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-how-to-embed-youtube-in-your-gslides-presentation/"><u>2024 Approved How to Embed YouTube in Your GSlides Presentation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/access-exclusive-previews-of-upcoming-apple-vision-pro-features-through-testflight-a-step-by-step-guide-by-zdnet/"><u>Access Exclusive Previews of Upcoming Apple Vision Pro Features Through TestFlight: A Step-by-Step Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-discontinues-premium-textile-gadget-covers-embraces-new-era-of-beats-protective-cases-what-you-need-to-know/"><u>Apple Discontinues Premium Textile Gadget Covers, Embraces New Era of Beats Protective Cases – What You Need To Know</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-boundaries-vrs-educational-potential/"><u>Beyond Boundaries VR's Educational Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-modern-academia-five-key-educational-applications/"><u>ChatGPT's Role in Modern Academia: Five Key Educational Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diving-into-langchains-world/"><u>Diving Into LangChain's World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-securing-your-data-iphone-backup-strategies-using-icloud-and-mac-tools/"><u>Efficiently Securing Your Data: IPhone Backup Strategies Using iCloud and Mac Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/forging-a-safe-ai-landscape-ceo-urges-stronger-governance/"><u>Forging a Safe AI Landscape: CEO Urges Stronger Governance</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a56s-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outshine-google-searches-with-innovative-perplexity-ai/"><u>Outshine Google Searches with Innovative Perplexity AI</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpoint-disk-technology-using-windows-features/"><u>Pinpoint Disk Technology Using Windows Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/retrieve-your-mislaid-airpods-with-these-simple-steps-dont-lose-them-again/"><u>Retrieve Your Mislaid AirPods with These Simple Steps - Don't Lose Them Again!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/testing-chatgpt-for-cocktail-wizardry/"><u>Testing ChatGPT for Cocktail Wizardry</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oneplus-ace-2-pro-by-drfone-android/"><u>Three Ways to Sim Unlock OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-tutorial-how-to-download-and-setup-microsoft-store-applications-in-windows-10/"><u>Ultimate Tutorial: How to Download and Setup Microsoft Store Applications in Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diving Deep Into GPT-3 Usage at OpenAI
-date: 2024-11-25T16:29:03.745Z
-updated: 2024-11-27T16:29:31.873Z
+date: 2024-11-30T18:07:36.027Z
+updated: 2024-12-06T18:32:02.859Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is OpenAI Playground?
 
  In November 2021, the waitlist was removed for GPT-3, allowing more people to use the OpenAI API. But what most people don't know is that a version of GPT-3 is accessible through the OpenAI Playground.
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
  Now, want to give it a try? Here's how you use GPT-3 in OpenAI Playground.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Create an Account
@@ -54,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 2. Follow the signup instructions. You must input your email and a valid mobile number and answer a quick question about why you want to use OpenAI.
 3. Once that's done, click **Playground** from the navigation menu at the top of the screen. It will bring you to the **Chat** mode page, with some adjustable settings in the sidebar.  
 ![Screenshot of OpenAI's Playground interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-interface-gpt3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enter a Prompt
 
@@ -72,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
  To get the most out of GPT-3, you will need to think of a good prompt. Good prompts are specific and give context to help GPT-3 generate an appropriate answer. As a demonstration, we asked GPT-3 to "list a few names for a small dog."
 
 ![Screenshot of OpenAI Playground prompt completion.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-names.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The response listed different names for small dog **breeds** like Poodle, Chihuahua, and Yorkshire Terrier. However, we were hoping to get some suggestions for pet names. So let's try again, this time using the keywords "pet names" and "small fluffy dog."
 
@@ -95,11 +83,19 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 
 ![Screenshot of usage stats in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-usage-stats.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before getting carried away with using OpenAI Playground, quickly look at your usage stats to see how many credits you have to spend. In the top right corner of the page, click on **Personal** \> **Manage account**, then click **Usage** from the navigation bar on the left.
 
  Tokens are used to calculate the fees, and they are based on how many words, or groups of characters, you use in a prompt; this also includes the text result you get from GPT-3\. You can see how many tokens you use each time in the bottom right of the text box area.
 
  Tokens are then translated to dollars, of which you have $5 to spend in the first three months (previously $18). It's a strange pricing model to wrap your head around at first, but what matters is that it's more than enough to play with. When we tested it out over a couple of days, we only used $0.11 from our total.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Switch to a Different GPT Model
 
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 
  Remember that you'll still incur costs for each model you choose, but the cost per token will vary.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Improve Your Results
 
  The **Temperature** setting is a key parameter to play with if you want to fine-tune your results. When the temperature is set to **zero** you will get the same answer from GPT-3, even if you resubmit the exact same prompt. Raising this number will result in more varied and unpredictable answers.
@@ -125,12 +125,16 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 
 ![Three screenshots of GPT-3 generated text offering different answers for the same prompt.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-3-settings-tempearture.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is a great parameter to play around with if you want to use GPT-3 to generate ideas, such as brainstorming video ideas for YouTube or generating new social media posts. Understanding this one setting can help you to fine-tune the results you get from GPT-3\.
 
  There are lots of ways that an AI language model can help you in day-to-day tasks. For more handy tools to help you write, check out the [best AI writing extensions for Google Chrome.](https://www.makeuseof.com/best-ai-writing-extensions-chrome/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Use GPT-4 in OpenAI Playground?
@@ -146,10 +150,6 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
  It's becoming standard practice for companies like OpenAI to control the release of new models by using research previews and limited wait lists. It's also prioritizing access to developers who have strong ideas for how they might implement the technology in an app, for example.
 
  This is one reason why it's still worth playing around in GPT-3\. There are many people who are curious about generative AI and want to try it out for fun. So, while you wait for the latest model to become available, GPT-3 is your playground.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## OpenAI Playground: Open to Everyone
 
@@ -174,20 +174,22 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-prime-online-spots-for-availing-text-enhancement-files/"><u>[New] 2024 Approved Prime Online Spots for Availing Text Enhancement Files</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prove-youre-a-pro-lightning-fast-editing-in-windows-11-videos/"><u>[New] Prove You're a Pro Lightning-Fast Editing in Windows 11 Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-strategies-for-leveraging-the-question-sticker-on-instagram-for-2024/"><u>[New] The Ultimate Strategies for Leveraging the Question Sticker on Instagram for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogue-dynamics-ai-powered-approaches-for-video-game-writing/"><u>Dialogue Dynamics: AI-Powered Approaches for Video Game Writing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-versus-bing-comparing-generative-chatbot-supremacy/"><u>GPT Versus Bing: Comparing Generative Chatbot Supremacy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/implementing-chatgpt-into-your-workflows-for-enhanced-productivity/"><u>Implementing ChatGPT Into Your Workflows for Enhanced Productivity</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/journey-into-gpt-freedom-purpose-and-caution/"><u>Journey Into GPT Freedom: Purpose & Caution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-in-google-spreadsheets-and-documents/"><u>Mastering ChatGPT in Google Spreadsheets & Documents</u></a></li>
-<li><a href="https://win-great.techidaily.com/solution-guide-troubleshooting-when-your-pc-ignores-the-targeted-storage-device/"><u>Solution Guide: Troubleshooting When Your PC Ignores the Targeted Storage Device</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-up-youtube-quick-video-rendering-and-transfer-tips-for-2024/"><u>Speeding Up YouTube Quick Video Rendering & Transfer Tips for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-aftermath-of-a-digital-colossus-ceasefire/"><u>The Aftermath of a Digital Colossus Ceasefire</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-t2-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-deal-alert-apple-slashes-prices-on-the-m2-mac-mini-to-an-unprecedented-low-at-479-read-more-inside/"><u>The Ultimate Deal Alert: Apple Slashes Prices on the M2 Mac Mini to an Unprecedented Low at $479 – Read More Inside</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unbeatable-deal-top-non-apple-non-anker-magsafe-wallet-now-on-sale-discovered/"><u>Unbeatable Deal: Top Non-Apple, Non-Anker MagSafe Wallet Now On Sale - Discovered !</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-advanced-techniques-for-educators-lecture-capture-on-mac-for-2024/"><u>[New] Advanced Techniques for Educator's Lecture Capture on Mac for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-effortless-view-growth-uncovering-the-best-video-tips-and-hacks/"><u>[New] In 2024, Effortless View Growth Uncovering the Best Video Tips and Hacks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-advanced-screen-recording-techniques-for-enhanced-productivity-in-adobe-captive/"><u>2024 Approved Advanced Screen Recording Techniques for Enhanced Productivity in Adobe Captive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-discontinues-apple-pay-later-program-new-financing-alternative-under-development-revealed-by-zdnet/"><u>Apple Discontinues Apple Pay Later Program: New Financing Alternative Under Development Revealed by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-the-office-understanding-the-10-risks-to-your-job-security/"><u>ChatGPT in the Office: Understanding the 10 Risks to Your Job Security</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-future-of-ai-with-googles-bard-and-bing/"><u>Decoding the Future of AI with Google's Bard and Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delight-in-play-uncover-the-hidden-gems-of-chatgpts-games/"><u>Delight in Play: Uncover the Hidden Gems of ChatGPT's Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-tips-to-mend-chatgpt-plugin-disconnectivity-issues/"><u>Essential Tips to Mend ChatGPT Plugin Disconnectivity Issues</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-a1x-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo A1x 5G Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-12-pro-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 12 Pro Screen | Stellar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-resources-made-effortless-by-ai-prompts/"><u>Human Resources Made Effortless by AI Prompts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Does find my friends work on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-smartphone-savvy-capturing-and-storing-twitter-gifs/"><u>In 2024, Smartphone Savvy Capturing & Storing Twitter GIFs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/modern-moods-best-rated-desktop-imagery/"><u>Modern Moods Best-Rated Desktop Imagery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-browser-security-with-proton-vpn-plugin/"><u>Optimal Browser Security with Proton VPN Plugin</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-tablet-deals-on-cyber-monday-get-600-off-microsoft-surface-pro-8-post-black-friday-sale-insider/"><u>Top Tablet Deals on Cyber Monday: Get $600 Off Microsoft Surface Pro 8 Post-Black Friday Sale Insider</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshooting-iphone-battery-issues-post-ios-1751-update-discover-7-effective-solutions/"><u>Troubleshooting iPhone Battery Issues Post-iOS 17.5.1 Update: Discover 7 Effective Solutions!</u></a></li>
 </ul></div>
 

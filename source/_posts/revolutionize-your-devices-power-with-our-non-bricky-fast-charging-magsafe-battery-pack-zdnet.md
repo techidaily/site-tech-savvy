@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Device's Power with Our Non-Bricky, Fast-Charging MagSafe Battery Pack | ZDNET
-date: 2024-11-26T16:49:26.327Z
-updated: 2024-11-27T16:22:49.750Z
+date: 2024-12-05T17:25:33.590Z
+updated: 2024-12-07T00:16:27.252Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ Adrian Kingsley-Hughes/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -43,7 +43,7 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd998f7c-226e-4e30-aac6-656effe038d9%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -82,7 +82,7 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -121,20 +121,20 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-how-to-go-live-on-tiktok-on-computer/"><u>[New] 2024 Approved How to Go Live On TikTok On Computer</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-reality-altered-by-virtual-sight-for-2024/"><u>[New] Reality Altered by Virtual Sight for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-innovating-storytelling-editing-and-uploading-immersive-360-content-on-youtube/"><u>[Updated] Innovating Storytelling Editing and Uploading Immersive 360° Content on YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-record-gameplay-on-windows-11/"><u>2024 Approved How to Record Gameplay on Windows 11</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/5omplus5zue5asx5y6777ya5asn5y6f5y675bm06zuf6jmo5yig6zmk55qe6yku5lu25pa55rov/"><u>找回失去：复原去年雅虎删除的邮件方法</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-role-in-redefining-human-experience/"><u>AI's Role in Redefining Human Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/athletic-advocates-mastering-machine-dialogue/"><u>Athletic Advocates, Mastering Machine Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-bot-face-off-deciding-ai-conversation-leader/"><u>Generative Bot Face-Off - Deciding AI Conversation Leader</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-11-pro-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 11 Pro Max Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-trips-effortlessly-7-cost-free-intelligent-itinerary-aides/"><u>Navigate Trips Effortlessly - 7 Cost-Free, Intelligent Itinerary Aides</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/personalized-nutrition-strategies-using-chatgpt/"><u>Personalized Nutrition Strategies Using ChatGPT</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-ultimate-manual-for-earning-facebooks-coveted-verification/"><u>The Ultimate Manual for Earning Facebook's Coveted Verification</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-showdown-for-writers-notion-ai-vs-openai/"><u>The Ultimate Showdown for Writers: Notion AI Vs. OpenAI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-ai-interpretability-shap-e-explained/"><u>Understanding AI Interpretability: SHAP E Explained</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-from-flat-to-fantastic-3d-text-creation-tips/"><u>[New] In 2024, From Flat to Fantastic 3D Text Creation Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-pathway-to-free-final-cut-pro/"><u>[New] The Pathway to Free Final Cut Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-perfecting-virtual-sessions-best-free-and-paid-zoom-transcribing-tools/"><u>[Updated] 2024 Approved Perfecting Virtual Sessions Best Free & Paid Zoom Transcribing Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-visuals-top-10-instagram-editing-applications-for-professionals-for-2024/"><u>[Updated] Unveiling Visuals Top 10 Instagram Editing Applications for Professionals for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolution-will-claude-overtake-chatgpt/"><u>AI Revolution: Will Claude Overtake ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-bard-7-techniques-from-palm-2-improvements/"><u>Boosting Bard: 7 Techniques From PaLM 2 Improvements</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dealing-with-c1900101-error-in-win11-update/"><u>Dealing with C1900101 Error in Win11 Update</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-mastering-sound-integrating-audio-with-visuals-in-film-production/"><u>In 2024, Mastering Sound Integrating Audio with Visuals in Film Production</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-g310-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia G310 Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-mobile-cinematography-now-at-your-fingertps-how-apple-upgrades-the-iphone-with-final-cut-for-pro-level-shooting-zdnet/"><u>Masterful Mobile Cinematography Now at Your Fingertps: How Apple Upgrades the iPhone with Final Cut for Pro-Level Shooting | ZDNET</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/methods-for-restoring-full-display-in-youtube-videos/"><u>Methods for Restoring Full Display in YouTube Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-realme-11-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Realme 11 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/supercharge-dialogue-the-ultimate-10-tweaks-for-better-chatgpt/"><u>Supercharge Dialogue: The Ultimate 10 Tweaks for Better ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesizing-stories-and-verses-a-guide-with-chatgpt/"><u>Synthesizing Stories and Verses: A Guide with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-chatgpt-integrations-for-effortless-pdf-editing/"><u>Top 10 ChatGPT Integrations for Effortless PDF Editing</u></a></li>
 </ul></div>
 

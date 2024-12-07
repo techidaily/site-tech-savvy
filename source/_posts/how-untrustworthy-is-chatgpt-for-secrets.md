@@ -1,7 +1,7 @@
 ---
 title: How Untrustworthy Is ChatGPT for Secrets?
-date: 2024-11-25T17:15:06.419Z
-updated: 2024-11-27T16:29:25.423Z
+date: 2024-12-05T23:38:43.040Z
+updated: 2024-12-06T20:50:45.706Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Leaked Confidential Information Via ChatGPT
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Data Leaks Happen?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
@@ -89,24 +89,22 @@ thumbnail: https://thmb.techidaily.com/4dbf33f37ff64fa1cd0b3b86eb483d2b61e4dcfaa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-10-best-high-security-androidios-video-calling-tools-available-for-free-for-2024/"><u>[New] 10 Best High-Security Android/iOS Video Calling Tools Available for Free for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-pixels-to-perfection-design-tips-for-captivating-banners/"><u>2024 Approved Pixels to Perfection Design Tips for Captivating Banners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-solution-how-xr-glasses-beat-apples-vision-pro-and-eliminate-fomo-for-less-a-deep-dive-on-zdnet/"><u>Affordable Solution: How XR Glasses Beat Apple's Vision Pro and Eliminate FOMO for Less - A Deep Dive on ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-detox-balancing-gaming-with-real-world-fun/"><u>Digital Detox: Balancing Gaming with Real-World Fun</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-most-advanced-ar-headsets-a-comprehensive-guide/"><u>Exploring the Most Advanced AR Headsets – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-value-proposition-why-this-economical-and-functional-xr-entertainment-platform-outshines-others-uncovered-by-zdnet/"><u>Exploring the Value Proposition: Why This Economical and Functional XR Entertainment Platform Outshines Others | Uncovered by ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fusion-of-video-files-for-ios-devices-for-2024/"><u>Fusion of Video Files for iOS Devices for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-x-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone X Factory Reset? | Stellar</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-zte-blade-a73-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On ZTE Blade A73 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/managing-enterprise-devices-with-the-apple-vision-pro-a-comprehensive-guide-tech-insights/"><u>Managing Enterprise Devices with the Apple Vision Pro: A Comprehensive Guide - Tech Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-virtual-reality-security-the-importance-of-using-a-vpn-for-your-vision-pro-headset-zdnet/"><u>Navigating Virtual Reality Security: The Importance of Using a VPN for Your Vision Pro Headset | ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-vivo-y36-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Vivo Y36 Phone? Unlock It Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-vr-headsets-metas-new-vision-pro-features-an-unsettlingly-clever-apple-tech-twist-explored-by-zdnet/"><u>Revolutionizing VR Headsets: Meta's New 'Vision Pro' Features an Unsettlingly Clever Apple Tech Twist, Explored by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-is-now-apple-introduces-live-avatars-for-a-more-engaging-vision-pro-user-interface-zdnet/"><u>The Future Is Now: Apple Introduces Live Avatars for a More Engaging Vision Pro User Interface | ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transformar-mxf-en-imagenes-animadas-gif-sin-gastos-usando-herramienta-online-de-movavi/"><u>Transformar MXF en Imágenes Animadas GIF Sin Gastos Usando Herramienta Online De Movavi</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-adobe-premiere-rush-not-meeting-your-needs-explore-these-top-4-alternatives/"><u>Updated Adobe Premiere Rush Not Meeting Your Needs? Explore These Top 4 Alternatives</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-top-online-collage-makers-for-photos-and-videos-for-2024/"><u>Updated Unleash Your Creativity Top Online Collage Makers for Photos and Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vision-pros-latest-update-your-default-go-to-for-iphone-and-ipad-apps-insights-from-zdnet/"><u>Vision Pro's Latest Update: Your Default Go-To for iPhone and iPad Apps | Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-insight-into-sonyn-new-xr-headset-surpassing-vision-pro-and-including-two-critical-capabilities-for-apple-devices/"><u>ZDNet's Insight Into Sony'n New XR Headset - Surpassing Vision Pro and Including Two Critical Capabilities for Apple Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-building-blocks-to-brilliance-crafting-circles-and-spheres-in-mc/"><u>[Updated] In 2024, Building Blocks to Brilliance Crafting Circles and Spheres in MC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-minimizing-film-length-mac-solutions-for-instagram-posting/"><u>2024 Approved Minimizing Film Length Mac Solutions for Instagram Posting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/7-top-ranked-apps-for-horizontal-and-vertical-igtv-editing-for-2024/"><u>7 Top-Ranked Apps for Horizontal and Vertical IGTV Editing for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-watch-ultra-2-review-tailor-made-for-me-and-a-100-off-celebration-on-labor-day/"><u>Apple Watch Ultra 2 Review: Tailor-Made for Me and a $100 Off Celebration on Labor Day</u></a></li>
+<li><a href="https://facebook.techidaily.com/building-bridges-socially-the-7-networking-benefits/"><u>Building Bridges Socially: The 7 Networking Benefits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-guide-to-parent-approved-kids-tablets-insights-from-zdnet/"><u>Discover the Ultimate Guide to Parent-Approved Kids' Tablets | Insights From ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/excellence-in-mac-video-capturing-top-5-alternatives-to-bandicam/"><u>Excellence in Mac Video Capturing Top 5 Alternatives to Bandicam</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/five-easy-methods-to-move-high-definition-mp44k-video-files-from-your-computer-to-iphone/"><u>Five Easy Methods to Move High-Definition MP4/4K Video Files From Your Computer to iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-unblock-your-chatgpt-access-in-under-156-characters/"><u>How to Unblock Your ChatGPT Access in Under 156 Characters</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-8-to-mac-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 8 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pushing-the-boundaries-of-screen-recording-with-recmeister/"><u>Pushing the Boundaries of Screen Recording with Recmeister</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rumors-swirl-as-apple-explores-adding-breath-monitoring-feature-to-vision-pro-insights-from-zdnet/"><u>Rumors Swirl as Apple Explores Adding Breath Monitoring Feature to Vision Pro: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-an-apple-pencil-gen-2-for-only-95-save-big-during-labor-day-sales-zdnet-tech-deals/"><u>Score an Apple Pencil (Gen 2) for Only $95 - Save Big During Labor Day Sales | ZDNET Tech Deals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolutionary-stride-from-gpt-35-to-gpt-4/"><u>The Evolutionary Stride From GPT-3.5 to GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-ai-powered-pdf-tools-for-productivity-gains/"><u>Top 10 AI-Powered PDF Tools for Productivity Gains</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-to-iphone-16-pro-a-comprehensive-comparison-with-the-iphone-14-pro-on-zdnet/"><u>Upgrading to iPhone 16 Pro? A Comprehensive Comparison with the iPhone 14 Pro on ZDNet</u></a></li>
 </ul></div>
 

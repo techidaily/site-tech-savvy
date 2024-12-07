@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Deal Alert: Apple Drops AirPods Price by 40%% for Independence Day - Shop Now"
-date: 2024-11-23T16:04:04.105Z
-updated: 2024-11-27T16:30:40.288Z
+date: 2024-12-02T16:19:33.827Z
+updated: 2024-12-07T01:10:25.788Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C12cb9145-a590-47cf-aba4-3417ab6a96f2%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,15 +62,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-kickboxing-and-karate-game-round-up/"><u>[Updated] In 2024, Ultimate Kickboxing & Karate Game Round-Up</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-xiaomi-13t-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Xiaomi 13T Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/how-to-fix-samsung-tv-issues-when-playing-mkv-and-mp4-files/"><u>How to Fix Samsung TV Issues When Playing MKV and MP4 Files</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-samsung-galaxy-m14-4g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Samsung Galaxy M14 4G Is Unlocked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-vpn-promotions-available-today-exclusive-offers-by-zdnet/"><u>Top VPN Promotions Available Today - Exclusive Offers by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-mac-vpn-services-thoroughly-tested-and-reviewed-by-professionals-zdnet/"><u>Top-Rated Mac VPN Services: Thoroughly Tested & Reviewed by Professionals | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-vpn-providers-comprehensive-evaluations-by-tech-gurus-zdnet/"><u>Top-Rated VPN Providers : Comprehensive Evaluations by Tech Gurus - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-vpns-compatible-with-windows-comprehensive-analysis-and-reviews-techradar/"><u>Top-Rated VPNs Compatible with Windows: Comprehensive Analysis & Reviews | TechRadar</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-get-ready-to-rewind-top-slow-motion-video-players/"><u>Updated In 2024, Get Ready to Rewind Top Slow Motion Video Players</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-selecting-superior-free-online-srt-translation-services-tips-and-tricks/"><u>[New] In 2024, Selecting Superior Free Online SRT Translation Services Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-converting-speech-to-text-with-google-docs/"><u>2024 Approved The Ultimate Guide to Converting Speech to Text with Google Docs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/achieve-next-level-control-and-comfort-with-steelseries-engine-on-windows-11-start-your-free-download-now/"><u>Achieve Next-Level Control & Comfort with SteelSeries Engine on Windows 11 - Start Your Free Download Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/begin-a-journey-through-ai-on-bing-enrollment-steps/"><u>Begin a Journey Through AI on Bing: Enrollment Steps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/driver-package-for-u-are-u-fingerreader-v45/"><u>Driver Package for U-Are-U FingerReader V4.5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-the-markets-finest-leading-blu-raydvd-players/"><u>Explore the Market's Finest: Leading Blu-Ray/DVD Players</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-gt-3-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme GT 3 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leveraging-s2t-technology-in-professional-decks/"><u>Leveraging S2T Technology in Professional Decks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-apple-pay-the-ultimate-guide-for-seamless-in-store-and-e-commerce-transactions-insights-from-zdnet/"><u>Mastering Apple Pay: The Ultimate Guide for Seamless In-Store & E-Commerce Transactions - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-science-behind-ai-prompt-injection-threats/"><u>The Science Behind AI Prompt Injection Threats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-warning-signs-for-binggpt-coins/"><u>The Ultimate List of Warning Signs for BingGPT Coins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-tools-for-analyzing-and-conversing-on-text-files/"><u>Top 6 Tools for Analyzing and Conversing on Text Files</u></a></li>
 </ul></div>
 

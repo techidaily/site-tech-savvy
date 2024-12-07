@@ -1,7 +1,7 @@
 ---
 title: "Dissecting AI: Opportunities vs Threats to Humanity"
-date: 2024-11-24T16:59:25.066Z
-updated: 2024-11-27T16:11:22.661Z
+date: 2024-11-30T01:28:13.415Z
+updated: 2024-12-06T18:24:30.206Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Artificial Intelligence?
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  The AI we use today, ANI (aka weak AI), is mainly about pattern recognition and making programmed inferences. In the same way we humans use our senses to navigate the world around us and act accordingly, AI uses the data we give it to do all sorts of things.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Examples of AI
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  We made AI for the same reason we make any technology: to reduce suffering and increase pleasure. Today, AI helps us translate languages, [avoid traffic jams](https://www.makeuseof.com/tag/how-google-predicts-traffic/), prevent fraud, manage inventory, [automate household chores](https://www.makeuseof.com/tech-ease-overwhelming-feeling-everyday-tasks-chores/), create diet plans, trade stocks, create content, [make artwork](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/), study analytics, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Risks and Dangers of Using AI?
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  Furthermore, AI tools are now used to impersonate celebrities, politicians, and public figures via [deepfake technology](https://www.makeuseof.com/tag/what-are-deepfakes-explained/) and voice cloning. This is extremely dangerous for obvious reasons. Unfortunately, as the tech improves, it'll become more difficult to tell what's real and what's fake.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Should Be a Tool, Not a Weapon
@@ -105,21 +105,17 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-podcast-mastery-top-10-ai-driven-name-creation-tools/"><u>[New] Podcast Mastery Top 10 AI-Driven Name Creation Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-step-by-step-guide-enabling-vpn-functionality-on-home-routers-techradar/"><u>1. Step-by-Step Guide: Enabling VPN Functionality on Home Routers | TechRadar</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-6s-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 6s Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-productivity-with-chatgpt-discover-4-effective-methods-for-time-management/"><u>Boost Productivity with ChatGPT: Discover 4 Effective Methods for Time Management</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/distracted-boyfriend-meme-generator-for-2024/"><u>Distracted Boyfriend Meme Generator for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-enhanced-mac-technology-video-plus-sound-record/"><u>In 2024, Enhanced Mac Technology Video + Sound Record</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-s23-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy S23 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-entry-points-creating-an-account/"><u>In 2024, Twitters' Entry Points Creating an Account</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/making-every-gift-discovery-special/"><u>Making Every Gift Discovery Special</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-system-syndrome-expert-tips-on-fixing-sound-issues-in-lenovo-notebooks/"><u>Silent System Syndrome: Expert Tips on Fixing Sound Issues in Lenovo Notebooks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-vpn-offers-available-today-explore-the-latest-at-zdnet/"><u>Top VPN Offers Available Today - Explore the Latest at ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-right-windows-vpn-in-depth-reviews-and-comparisons-on-zdnet/"><u>Ultimate Guide to Choosing the Right Windows VPN: In-Depth Reviews and Comparisons on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-finest-mobile-vpns-of-2024-expert-evaluations-and-ratings-pcmag/"><u>Ultimate Guide to the Finest Mobile VPNs of 2024 - Expert Evaluations & Ratings | PCMag</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-top-ranking-vpns-for-gamers-fully-tested-by-pros-insights-from-zdnet/"><u>Ultimate Guide: Top-Ranking VPNs for Gamers, Fully Tested by Pros - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlimited-secure-browsing-5-year-vpn-access-at-only-35-discover-peace-of-mind-with-zdnets-exclusive-offer/"><u>Unlimited Secure Browsing: 5-Year VPN Access at Only $35 – Discover Peace of Mind with ZDNet's Exclusive Offer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-exclusive-insight-into-private-internet-access-your-guide-to-a-cost-effective-high-performance-open-source-vpn-solution/"><u>ZDNet's Exclusive Insight Into Private Internet Access - Your Guide to a Cost-Effective, High-Performance Open Source VPN Solution</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-zenith-of-zoom-audio-fine-tuning-for-peak-performance/"><u>[New] In 2024, Zenith of Zoom Audio Fine-Tuning for Peak Performance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-screens-with-active-8-a-comparative-review/"><u>[New] Mastering Screens with Active 8 - A Comparative Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-art-of-cozy-cinematography-top-5-winter-scenes/"><u>[New] The Art of Cozy Cinematography Top 5 Winter Scenes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-the-power-of-instagram-filters-your-2023-guide/"><u>[New] Unlocking the Power of Instagram Filters - Your 2023 Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-download-and-convert-aac-to-wav-format-instantly-no-cost-with-movavi-converter/"><u>1. Download and Convert AAC to WAV Format Instantly - No Cost with Movavi Converter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-text-excels-prowess-vs-ai-dialogues/"><u>Beyond Text: Excel's Prowess Vs. AI Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-next-level-visual-smart-scanning-with-iphone-16s-new-camera-functionality-echoing-google-lens-capabilities-insights-from-zdnet/"><u>Experience Next-Level Visual Smart Scanning with iPhone 16'S New Camera Functionality Echoing Google Lens Capabilities | Insights From ZDNet</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/feinabstimmung-ihres-windows-auf-samsung-ssd-professionelle-schritt-fur-schritt-guide/"><u>Feinabstimmung Ihres Windows Auf Samsung SSD: Professionelle Schritt-Für-Schritt-Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-understanding-gpt4all-functionality/"><u>Inside Look: Understanding GPT4All Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-usefulness-of-gpt-plugins-in-action/"><u>The Usefulness of GPT Plugins in Action</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-technical-operation-of-gpt-4-in-7-apps/"><u>Understanding the Technical Operation of GPT-4 in 7 Apps</u></a></li>
 </ul></div>
 

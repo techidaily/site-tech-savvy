@@ -1,7 +1,7 @@
 ---
 title: How Good Is an Algorithm at Bartending?
-date: 2024-09-12T16:29:07.604Z
-updated: 2024-09-17T16:30:04.577Z
+date: 2024-12-01T23:10:30.157Z
+updated: 2024-12-06T18:11:21.971Z
 tags:
   - chatgpt
   - open-ai
@@ -47,16 +47,11 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
@@ -66,19 +61,13 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 ![ultimate-old-fashioned-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/ultimate-old-fashioned-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I did follow up by asking for some tweaks I could make, resulting in some ideas for variations on the Old-Fashioned for another time. This included using maple syrup instead of simple syrup (as Canadians do), using flavored whiskies rather than straight bourbon or rye, and adding smoked ingredients such as oak chips.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompt 3: "Please Tweak a Classic Cocktail to Make It Even Better."
@@ -115,18 +104,15 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## So, Is ChatGPT Good at Making Cocktails?
 
  In a word, yes. But as with everything related to ChatGPT and [generative AI as a whole](https://www.makeuseof.com/what-is-generative-ai/), the key is providing the correct prompts and parameters. If you just want a classic cocktail recipe to follow, you can just type that into Google Search. However, ChatGPT comes into its own when you ask it to adapt cocktails or suggest small tweaks to improve the standard recipes.
 
  Every single one of its combinations worked in broad terms. There wasn't a single blend of ingredients that it suggested that led me to throw the cocktail down the sink. And that is a great start. As someone who has experimented with combining flavors, I can tell you that it's very easy to get cocktails wrong.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Three Big Takeaways From This Experiment
 
@@ -161,5 +147,18 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-convert-waters-10-tips-for-youtube-to-mp4mpeg/"><u>[New] Navigating the Convert Waters 10 Tips for YouTube to MP4/MPEG</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-become-a-youtube-star-essential-skills-training/"><u>[Updated] Become a YouTube Star Essential Skills Training</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-showtime-showdown-who-wins-in-obstwitch-arena-for-2024/"><u>[Updated] Showtime Showdown Who Wins in OBS/Twitch Arena for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quick-methods-for-saving-google-voice-communication/"><u>2024 Approved Quick Methods for Saving Google Voice Communication</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-implications-on-the-privacy-lands-market/"><u>ChatGPT's Implications on the Privacy Lands Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-exploration-top-7-chatgpt-applications-for-instant-travel-planning/"><u>Effortless Exploration - Top 7 ChatGPT Applications For Instant Travel Planning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-humble-beginnings-to-powerhouse-performance-how-apples-new-mac-studio-redefines-its-legacy-as-a-modernized-mac-mini/"><u>From Humble Beginnings to Powerhouse Performance: How Apple's New Mac Studio Redefines Its Legacy as a Modernized Mac Mini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-imaginary-interpretations-in-artificial-intelligence/"><u>Navigating Through Imaginary Interpretations in Artificial Intelligence</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-13-mini-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 13 mini to PC or Mac | Stellar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-clear-path-to-crisp-videography-on-a-gopro-for-2024/"><u>The Clear Path to Crisp Videography on a GoPro for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727785061735-top-rated-waterproof-smartwatches-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Waterproof Smartwatches : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+</ul></div>
 

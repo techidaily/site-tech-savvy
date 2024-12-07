@@ -1,7 +1,7 @@
 ---
 title: Simplified Steps for Local Llama 2 Installation
-date: 2024-11-24T16:41:13.153Z
-updated: 2024-11-27T17:04:56.309Z
+date: 2024-11-29T20:08:18.267Z
+updated: 2024-12-06T22:39:02.201Z
 tags:
   - chatgpt
   - open-ai
@@ -45,14 +45,10 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 ![Install-Desktop-Development-With-C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/2-install-desktop-development-with-c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you have Desktop development with C++ installed, it's time to download the Text-Generation-WebUI one-click installer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 2: Install Text-Generation-WebUI
 
@@ -70,22 +66,23 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
    ![Select operating system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/4-select-operating-system.jpg)
 3. Your anti-virus might create an alert; this is fine. The prompt is just an [antivirus false positive](https://www.makeuseof.com/what-is-antivirus-false-result/) for running a batch file or script. Click on **Run anyway**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. A terminal will open and start the setup. Early on, the setup will pause and ask you what GPU you are using. Select the appropriate type of GPU installed on your computer and hit enter. For those without a dedicated graphics card, select **None (I want to run models in CPU mode)**. Keep in mind that running on CPU mode is much slower when compared to running the model with a dedicated GPU.  
 ![Selecting GPU hardware installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/5-select-gpu-settings.jpg)
 5. Once the setup is complete, you can now launch Text-Generation-WebUI locally. You can do so by opening your preferred web browser and entering the provided IP address on the URL.  
 ![How to launch-Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/6-launch-text-generation-webui.jpg)
 6. The WebUI is now ready for use.  
-![Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/7-text-generation-webui-view.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/7-text-generation-webui-view.jpg)
+
  However, the program is only a model loader. Let's download Llama 2 for the model loader to launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Download the Llama 2 Model
 
@@ -100,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
  Note that some models may be arranged differently and may not even have the same types of information displayed. However, this type of naming convention is fairly common in the [HuggingFace](https://www.makeuseof.com/what-is-hugging-face-and-what-is-it-used-for/) Model library, so it's still worth understanding.
 
 ![HuggingFace model naming convention](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/huggingface-model-naming-convention-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this example, the model can be identified as a medium-sized Llama 2 model trained on 13 billion parameters optimized for chat inferencing using a dedicated CPU.
 
@@ -119,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/be8ed6a4e78ad75b0aa927e5deab19fb5e1ff02b9
 
 ![Placing Llama 2 model to model folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/9-place-model-to-model-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now that you have your model downloaded and placed in the model folder, it's time to configure the model loader.
 
 ## Step 4: Configure Text-Generation-WebUI
@@ -130,17 +135,14 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 3. Now click on the dropdown menu of the **Model loader** and select **AutoGPTQ** for those using a GTPQ model and **ctransformers** for those using a GGML model. Finally, click on **Load** to load your model.  
 ![Setting model loader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/10-select-model-loader.jpg)
 4. To use the model, open the Chat tab and start testing the model.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Testing Llama 2 locally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/12-testing-llama-2-locally.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Congratulations, you've successfully loaded Llama2 on your local computer!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try Out Other LLMs
 
@@ -165,20 +167,22 @@ Now that you have your model downloaded and placed in the model folder, it's tim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-exclusive-guide-turning-fb-videos-into-mp4-and-hd/"><u>[New] 2024 Approved Exclusive Guide Turning FB Videos Into MP4 & HD</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-screen-capture-software-guide-apowersoft-included-for-2024/"><u>[New] The Ultimate Screen Capture Software Guide - Apowersoft Included for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-video-capture-obs-versus-bandicam/"><u>2024 Approved The Ultimate Guide to Video Capture OBS versus Bandicam</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-with-transparent-chatgpt-interactions/"><u>Bridging the Gap with Transparent ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparing-the-mechanisms-auto-gpt-and-chatgpt-explained/"><u>Comparing the Mechanisms: Auto-GPT & ChatGPT Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harness-ai-to-supercharge-remote-work-with-these-6-tips-from-chatgpt/"><u>Harness AI to Supercharge Remote Work with These 6 Tips From ChatGPT</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-f04-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy F04 Phones with/without a PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-branded-content-collaborations-on-streaming-services/"><u>In 2024, Branded Content Collaborations on Streaming Services</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-reviews-which-smartphones-have-won-the-hearts-of-our-zdnet-team/"><u>In-Depth Reviews: Which Smartphones Have Won the Hearts of Our ZDNet Team?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-task-list-proven-strategies-to-streamline-workday-processes-tips-from-zdnet/"><u>Master Your Task List: Proven Strategies to Streamline Workday Processes - Tips From ZDNet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-video-capturing-across-devices-and-platforms/"><u>Mastering Video Capturing Across Devices and Platforms</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-best-free-online-gif-loop-generators-2023-edition-for-2024/"><u>New Best Free Online GIF Loop Generators 2023 Edition for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-the-full-capabilities-of-the-new-m4-ipad-pro-how-ai-innovations-will-shine-at-apples-wwdc/"><u>Unleashing the Full Capabilities of the New M4 iPad Pro - How AI Innovations Will Shine at Apple's WWDC</u></a></li>
-<li><a href="https://win11.techidaily.com/vanishing-variables-discreet-windows-controls/"><u>Vanishing Variables: Discreet Windows Controls</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-insiders-look-at-top-earning-instagram-tactics/"><u>[New] 2024 Approved Insider's Look at Top Earning Instagram Tactics</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-from-novice-to-pro-your-snapseed-journey-starts-here/"><u>[Updated] 2024 Approved From Novice to Pro Your Snapseed Journey Starts Here</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-4-marvel-intro-makers-online/"><u>[Updated] 2024 Approved Top 4 Marvel Intro Makers Online</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-sky-high-insights-comprehensive-phantom-4-breakdown-for-2024/"><u>[Updated] Sky-High Insights Comprehensive Phantom 4 Breakdown for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-comprehensive-guide-sending-and-receiving-imessage-on-windows-os-tips/"><u>A Comprehensive Guide: Sending & Receiving iMessage on Windows OS - Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-captivating-presentations-through-the-magic-of-chatgpt/"><u>Creating Captivating Presentations Through the Magic of ChatGPT</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/elite-multiplatform-recorder-for-pcs/"><u>Elite Multiplatform Recorder for PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-ipad-pro-embracing-apples-top-tier-tablet-that-defies-macbook-comparison-zdnet-insights/"><u>Exploring the IPad Pro: Embracing Apple's Top-Tier Tablet That Defies MacBook Comparison - ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/flying-future-understanding-the-proco-pilot-edge/"><u>Flying Future: Understanding the Proco Pilot Edge</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-how-to-get-filmora-for-free-with-the-proceeding-guide-you-can-now-get-the-full-version-of-filmora-for-free-on-your-device-without-crack-also-lea/"><u>New In 2024, How to Get Filmora for Free? With the Proceeding Guide, You Can Now Get the Full Version of Filmora for Free on Your Device without Crack. Also, Learn About some Wonderful Features of Filmora that Are a Must-Have</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nutritionists-and-trainers-optimizing-ai-exchanges/"><u>Nutritionists and Trainers: Optimizing AI Exchanges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/section-3b-five-factays-to-remember/"><u>Section 3B: Five Factays to Remember</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-10-social-media-tag-analyzers-fb-twt-and-insta/"><u>Top 10 Social Media Tag Analyzers FB, Twt & Insta</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncovering-genuine-chatbot-programming-on-ios/"><u>Uncovering Genuine ChatBot Programming on iOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-secret-score-your-complimentary-macbook-air-m3-at-best-buy-with-these-steps-learn-more-inside/"><u>Unlock the Secret: Score Your Complimentary MacBook Air M3 at Best Buy with These Steps! Learn More Inside</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watch-the-matrix-franchise-properly-best-order-to-see-them/"><u>Watch The Matrix Franchise Properly: Best Order to See Them</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-the-leap-to-one-million-tokens-marks-a-pivotal-shift-in-gemini-turbocharged-performance/"><u>Why the Leap to One Million Tokens Marks a Pivotal Shift in Gemini Turbocharged Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Advances in Artificial Linguistic Systems (GPT-1 to 4)
-date: 2024-09-13T16:22:24.620Z
-updated: 2024-09-17T16:21:57.957Z
+date: 2024-12-04T21:11:26.294Z
+updated: 2024-12-06T19:38:40.820Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are Generative Pre-Trained Transformers?
 
  Generative Pre-trained Transformers (GPTs) are a type of machine learning model used for natural language processing tasks. These models are pre-trained on massive amounts of data, such as books and web pages, to generate contextually relevant and semantically coherent language.
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 
 ![gpt 3 featured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/gpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  GPT-2 was released in 2019 by OpenAI as a successor to GPT-1\. It contained a staggering 1.5 billion parameters, considerably larger than GPT-1\. The model was trained on a much larger and more diverse dataset, combining Common Crawl and WebText.
 
  One of the strengths of GPT-2 was its ability to generate coherent and realistic sequences of text. In addition, it could generate human-like responses, making it a valuable tool for various natural language processing tasks, such as content creation and translation.
@@ -63,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 ## GPT-3
 
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Natural language processing models made exponential leaps with the release of GPT-3 in 2020\. With 175 billion parameters, GPT-3 is over 100 times larger than GPT-1 and over ten times larger than GPT-2\.
 
@@ -77,28 +89,12 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
  OpenAI also released an improved version of GPT-3, GPT-3.5, before officially launching GPT-4\.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4
 
 ![openai gpt4 model chatgpt upgrade](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-gpt4-model-chatgpt-upgrade.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  GPT-4 is the latest model in the GPT series, launched on March 14, 2023\. It's a significant step up from its previous model, GPT-3, which was already impressive. While the specifics of the model's training data and architecture are not officially announced, it certainly builds upon the strengths of GPT-3 and overcomes some of its limitations.
 
@@ -116,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
 | GPT-2 | February 2019 | Common Crawl, BookCorpus, WebText                              | 1.5 billion                  | 2048                 |
 | GPT-3 | June 2020     | Common Crawl, BookCorpus, Wikipedia, Books, Articles, and more | 175 billion                  | 4096                 |
 | GPT-4 | March 2023    | Unknown                                                        | Estimated to be in trillions | Unknown              |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Journey Through GPT Language Models
 
@@ -142,5 +142,21 @@ thumbnail: https://thmb.techidaily.com/d7456d8b7faa111d0a43957b4a5dc6a2bd7fa022e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-greatest-20-open-source-copy-free-pubg/"><u>[New] Greatest 20 Open Source, Copy-Free PUBG</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-discover-the-triple-champion-phones-for-high-res-video/"><u>[New] In 2024, Discover the Triple Champion Phones for High-Res Video</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unleashing-imagination-creating-motion-pictures-with-windows-movie-maker-for-2024/"><u>[New] Unleashing Imagination Creating Motion Pictures with Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-livestream-capturing-gear-for-online-content-makers/"><u>[Updated] 2024 Approved Best Livestream Capturing Gear for Online Content Makers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-own-blemishes-overlooked/"><u>AI's Own Blemishes Overlooked</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-video-splitters-and-editors-on-windows-systems/"><u>Best Video Splitters & Editors on Windows Systems</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/exploring-cinema-best-filming-cameras-from-35mm-to-point-and-shoot-for-2024/"><u>Exploring Cinema Best Filming Cameras From 35Mm to Point-and-Shoot for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-frames-per-second-in-slow-motion-vids-for-2024/"><u>Ideal Frames Per Second in Slow Motion Vids for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-health-potential-with-chatgpts-top-9-strategies/"><u>Maximizing Health Potential with ChatGPT's Top 9 Strategies</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-5-best-tools-to-help-you-distort-audio/"><u>New 5 Best Tools to Help You Distort Audio</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-loses-its-grip-on-gpt/"><u>OpenAI Loses Its Grip on GPT</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/king-youtubes-earning-potential-in-the-new-year-for-2024/"><u>Unlocking YouTube's Earning Potential in the New Year for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-future-of-technology-whats-new-with-siri-ios-18-and-more-from-apples-keynote-event-technews/"><u>Unveiling the Future of Technology: What's New with Siri, iOS 18 & More From Apple's Keynote Event | TechNews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-chatbots-shouldnt-be-your-tool-for-windows-11-unlocks/"><u>Why Chatbots Shouldn't Be Your Tool for Windows 11 Unlocks</u></a></li>
+</ul></div>
 

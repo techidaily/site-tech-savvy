@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Labor Day Bargain: Get Your New 2Nd Gen Apple Pencil for Just $95 with ZDNet's Special Deal"
-date: 2024-11-22T17:08:01.323Z
-updated: 2024-11-27T16:20:13.821Z
+date: 2024-11-29T23:27:16.202Z
+updated: 2024-12-06T16:07:10.508Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,19 +71,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-pro-tips-on-selecting-the-best-mac-snipers/"><u>[New] 2024 Approved Pro Tips on Selecting the Best Mac Snipers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-pc-macs-top-10-in-screencasting-capabilities-for-2024/"><u>[Updated] PC, Mac's Top 10 in Screencasting Capabilities for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bypassing-the-green-glare-tips-for-perfect-backgrounds/"><u>Bypassing the Green Glare: Tips for Perfect Backgrounds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-computers-predict-your-future-like-astrology/"><u>Can Computers Predict Your Future Like Astrology?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-you-track-blood-pressure-with-the-new-apple-watch-series-10-the-facts-revealed-by-zdnet/"><u>Can You Track Blood Pressure with the New Apple Watch Series 10? The Facts Revealed by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-veracity-in-the-realm-of-health-recommendations/"><u>GPT's Veracity in the Realm of Health Recommendations</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/groundbreaking-upgrade-for-the-premier-risc-v-laptop-increased-core-count-supercharged-frequency-at-2-ghz-plus-new-artificial-intelligence-supports/"><u>Groundbreaking Upgrade for the Premier RISC-V Laptop - Increased Core Count, Supercharged Frequency at 2 GHz, Plus New Artificial Intelligence Supports!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/harnessing-the-power-of-cookiebot-automation/"><u>Harnessing the Power of Cookiebot Automation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-exploring-differences-between-igtv-and-youtube-for-effective-posts/"><u>In 2024, Exploring Differences Between IGTV and YouTube for Effective Posts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-stepwise-guide-to-travel-back-in-time-with-facebooks-archive-laptop-and-mobile/"><u>In 2024, Stepwise Guide to Travel Back in Time with Facebook's Archive (Laptop & Mobile)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/listen-and-write-the-gratis-method/"><u>Listen and Write – The Gratis Method</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-macos-monterey-building-personalized-focus-screens-for-enhanced-productivity-tips-and-tricks/"><u>Mastering MacOS Monterey: Building Personalized Focus Screens for Enhanced Productivity - Tips & Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smartwatch-showdown-decoding-the-battle-between-googles-latest-pixel-timepiece-and-apples-cutting-edge-series-9-determine-your-ultimate-wrist-companion-toda6/"><u>Smartwatch Showdown: Decoding the Battle Between Google's Latest Pixel Timepiece and Apple's Cutting-Edge Series 9 – Determine Your Ultimate Wrist Companion Today!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-crystal-clear-sound-on-your-apple-tv-with-the-latest-upgrade-to-tvos-18-expert-analysis-by-zdnet/"><u>Unlock Crystal Clear Sound on Your Apple TV with the Latest Upgrade to tvOS 18 | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-how-to-autoplay-youtube-videos-on-facebook/"><u>[New] 2024 Approved How to Autoplay Youtube Videos on Facebook?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-quick-tips-for-professional-adjustments-in-ps/"><u>[New] 2024 Approved Quick Tips for Professional Adjustments in PS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-demystifying-the-journey-to-knowing-who-watches-you/"><u>[New] In 2024, Demystifying the Journey to Knowing Who Watches You</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tep-by-step-guide-to-background-dimming-in-videos/"><u>[New] Step-by-Step Guide to Background Dimming in Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-finding-non-inshot-video-software-for-pcs/"><u>2024 Approved Finding Non-Inshot Video Software for PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-mobile-gaming-devices-of-2022-a-comprehensive-guide/"><u>Best Mobile Gaming Devices of 2022 - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/decoding-windows-10-imports-a-deep-dive-into-file-transfer/"><u>Decoding Windows 10 Imports A Deep Dive Into File Transfer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mapping-authenticity-navigating-through-fake-data-generated-by-ai/"><u>Mapping Authenticity: Navigating Through Fake Data Generated by AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-flight-basic-vs-premium-copilot-systems/"><u>Mastering Flight: Basic Vs. Premium Copilot Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/my-iphones-journey-over-the-past-three-years-a-visual-tribute/"><u>My iPhone's Journey Over the Past Three Years – A Visual Tribute</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-big-savings-get-incredible-discounts-on-apples-affordable-airpods-in-time-for-the-fourth-of-july-celebrations/"><u>Score Big Savings: Get Incredible Discounts on Apple's Affordable AirPods in Time for the Fourth of July Celebrations</u></a></li>
+<li><a href="https://win-webster.techidaily.com/top-rated-seagate-disk-imaging-tools-for-windows-11-10-8-and/"><u>Top-Rated Seagate Disk Imaging Tools for Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-arduino-new-usb-drivers-for-enhanced-windows-integration/"><u>Update Your Arduino: New USB Drivers for Enhanced Windows Integration</u></a></li>
 </ul></div>
 

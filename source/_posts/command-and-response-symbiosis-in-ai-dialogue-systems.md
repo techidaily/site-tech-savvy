@@ -1,7 +1,7 @@
 ---
 title: Command and Response Symbiosis in AI Dialogue Systems
-date: 2024-09-10T16:05:37.742Z
-updated: 2024-09-17T16:13:28.183Z
+date: 2024-12-03T17:00:55.059Z
+updated: 2024-12-06T22:05:51.973Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OpenAI Gives ChatGPT a Voice
 
  On September 25, 2023, ChatGPT developer [OpenAI revealed](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak) it would give its world-leading generative AI chatbot a voice. ChatGPT users can speak directly to the chatbot and request it speak back, effectively allowing ChatGPT to converse directly with voice for the first time.
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
 
  ChatGPT's new text-to-speech model is only available to Plus and Enterprise subscribers using the official Android and iOS apps and is expected to roll out within the next two weeks (starting from September 25, 2023). Furthermore, the new voice feature is limited to English to begin with, though we would expect this to change rapidly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Can Recognize and Analyze Images and Photographs
 
  The second part of OpenAI's ChatGPT update is the ability to analyze and talk images uploaded to the tool. The visual image analysis option was featured in the GPT-4 update videos but hasn't been discussed much since that time ([ChatGPT Code Interpreter aside](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/)).
@@ -49,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
  Calling it "similar to Google Lens" does it an injustice, really. The ability to chat back and forth about the image to gain more information and context makes it extremely useful for a broad range of settings. However, it's important to note the fine print, with OpenAI making it clear that it has limited ChatGPT's "ability to analyze and make direct statements about people" for privacy and accuracy reasons. Still, could an OpenAI-powered "Who Is This" tool be in the works for the future? (Let's hope not!)
 
  Like the new text-to-speech model, OpenAI will roll out image recognition in the next two weeks, though it will be available on all platforms, not just the ChatGPT app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Privacy, Security, and Other Issues
 
@@ -61,16 +73,7 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
  Given this is the tip of the iceberg, expect pushback against ChatGPT's newfound voice, especially once there is a predictable uptick in unsavory headlines claiming ChatGPT is being used to commit fraud and so on.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Is Making ChatGPT the Go-To AI App
@@ -96,5 +99,24 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-understanding-facebook-messengers-signaling-with-a-blue-splash/"><u>[New] In 2024, Understanding Facebook Messenger's Signaling With a Blue Splash</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-next-level-recording-discover-budget-friendly-choices/"><u>[Updated] Next-Level Recording Discover Budget-Friendly Choices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-techniques-in-archiving-web-based-music-tracks-for-2024/"><u>[Updated] Techniques in Archiving Web-Based Music Tracks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-integration-into-dev-practices/"><u>AI Integration Into Dev Practices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-eats-a-chefs-handbook-to-food-photography/"><u>Capturing Eats A Chef's Handbook to Food Photography</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/confronting-fraudgpts-deception-avoidance-techniques-unveiled/"><u>Confronting FraudGPT's Deception: Avoidance Techniques Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-precision-steps-for-hassle-free-ipad-and-iphone-recordings/"><u>In 2024, Precision Steps for Hassle-Free iPad & iPhone Recordings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-7-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-time-tagging-in-picture-editing-software/"><u>In 2024, Time Tagging in Picture Editing Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insiders-look-at-chatbot-privacy-pitfalls-the-three-most-crucial/"><u>Insider's Look at Chatbot Privacy Pitfalls: The Three Most Crucial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-pro-showdown-deciding-on-the-right-flagship-tablet-for-your-needs-macworld-review/"><u>IPad Pro Showdown: Deciding on the Right Flagship Tablet for Your Needs | MacWorld Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-video-content-for-youtube-success/"><u>Mastering Video Content for YouTube Success</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcome-window-shutdown-issue-win10-mode/"><u>Overcome Window Shutdown Issue, Win10 Mode</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protect-your-chatbots-from-unauthorized-inquiry/"><u>Protect Your Chatbots From Unauthorized Inquiry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-apple-watch-series-9ultra-2-at-unbeatable-prices-before-stoppage-prime-locations-zdnet-insights/"><u>Secure Your Apple Watch Series 9/Ultra 2 at Unbeatable Prices Before Stoppage: Prime Locations | ZDNet Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-evolution-of-wireless-earbuds-apple-rumored-to-unveil-cameras-on-new-airpods-by-2026-exclusive/"><u>The Next Evolution of Wireless Earbuds: Apple Rumored to Unveil Cameras on New AirPods by 2026 Exclusive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-airtag-peripherals-expert-opinions-and-ratings-zdnet/"><u>Ultimate List of AirTag Peripherals : Expert Opinions and Ratings | ZDNet</u></a></li>
+</ul></div>
 

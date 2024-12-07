@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Historic CrowdStrike-Windows Meltdown Event of 2024 - A Comprehensive Timeline"
-date: 2024-11-20T17:12:52.780Z
-updated: 2024-11-27T16:00:43.668Z
+date: 2024-12-02T21:43:06.294Z
+updated: 2024-12-06T23:52:04.776Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,20 +176,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-facestream-recorder-pro-messenger/"><u>[New] FaceStream Recorder Pro-Messenger</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-youtubes-realm-to-igtvs-domain-3-ways/"><u>[New] From YouTube's Realm to IGTV's Domain (3 Ways)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-waveform-overlaps-the-crossfade-method-for-2024/"><u>[Updated] Mastering Waveform Overlaps The Crossfade Method for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-techniques-optimal-live-cricket-broadcasting/"><u>In 2024, Top 10 Techniques Optimal Live Cricket Broadcasting</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mastering-bsod-resolution-on-modern-windows-os/"><u>Mastering BSOD Resolution on Modern Windows OS</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-best-of-the-web-top-rated-free-online-video-combiners/"><u>New Best of the Web Top-Rated Free Online Video Combiners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-electric-leaf-blowers-expert-picks-and-reviews/"><u>Top Rated Electric Leaf Blowers : Expert Picks & Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-outdoor-projection-systems-comprehensive-expert-reviews-and-comparisons-zdnet/"><u>Top Rated Outdoor Projection Systems - Comprehensive Expert Reviews & Comparisons | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-solar-power-banks-reviews-and-comparisons/"><u>Top Rated Portable Solar Power Banks - Reviews and Comparisons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-electric-scooters-a-comprehensive-guide-zdnet/"><u>Top-Rated Electric Scooters : A Comprehensive Guide - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-led-flashlight-reviews-insights-from-industry-experts-techradar/"><u>Top-Rated LED Flashlight Reviews - Insights From Industry Experts | TechRadar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-outdoor-projection-screens-comprehensive-reviews-and-buyers-guide-insights-from-tech-experts/"><u>Top-Rated Outdoor Projection Screens: Comprehensive Reviews & Buyer's Guide - Insights From Tech Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-projector-picks-expert-reviews-and-comparisons/"><u>Top-Rated Portable Projector Picks - Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-new-in-ipados-18-discover-release-information-zero-cost-feature-upgrades-and-fresh-news/"><u>What's New in iPadOS 18? Discover Release Information, Zero Cost Feature Upgrades & Fresh News!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unlock-your-films-potential-top-11-color-grading-and-correction-methods-for-2024/"><u>[New] Unlock Your Film's Potential Top 11 Color Grading and Correction Methods for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevated-viewership-status-symbolized-by-buttons-for-2024/"><u>[Updated] Elevated Viewership Status Symbolized by Buttons for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-nextgen-codec-battle-is-av1-trumping-vp9-quality-in-2024/"><u>[Updated] NextGen Codec Battle Is AV1 Trumping VP9 Quality, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-social-media-savvy-key-hashtags-to-utilize-today/"><u>2024 Approved Social Media Savvy Key Hashtags to Utilize Today</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-4k-media-apps-for-windows-7-free-downloads-and-how-tos/"><u>Best 4K Media Apps for Windows 7: Free Downloads & How-To's!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-convenience-ethical-implications-of-using-ai-for-windows-keys/"><u>Beyond Convenience: Ethical Implications of Using AI for Windows Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conquer-effective-chatbot-dialogue-top-strategies-for-writing-winning-prompts/"><u>Conquer Effective Chatbot Dialogue: Top Strategies for Writing Winning Prompts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cookiebot-the-cutting-edge-solution-for-customized-user-experience-and-data-insights/"><u>Cookiebot: The Cutting-Edge Solution for Customized User Experience and Data Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-x90s-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo X90S Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-whats-next-for-apple-in-gaming-exploring-clues-and-predictions-from-industry-experts/"><u>Inside Look: What's Next for Apple in Gaming? Exploring Clues and Predictions From Industry Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/precision-voice-transformation-through-morphvox/"><u>Precision Voice Transformation Through MorphVOX</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-ai-inputs-returns-on-financial-front/"><u>Premium AI Inputs - Returns on Financial Front?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-strategy-for-leveraging-apple-pay-both-in-store-and-digitally-tips-by-zdnet-experts/"><u>The Ultimate Strategy for Leveraging Apple Pay Both In-Store & Digitally - Tips by ZDNet Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-your-smartphone-why-you-should-consider-the-iphone-16-pro-over-the-iphone-lete-14-pro/"><u>Upgrading Your Smartphone: Why You Should Consider the iPhone 16 Pro Over the iPhone Lete 14 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-might-want-to-pause-on-these-four-key-macbook-models-expert-analysis/"><u>Why You Might Want to Pause on These Four Key MacBook Models - Expert Analysis</u></a></li>
 </ul></div>
 

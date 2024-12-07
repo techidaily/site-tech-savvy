@@ -1,7 +1,7 @@
 ---
 title: Reassessing Paperclips Through AI's Lens of Innovation
-date: 2024-09-13T16:13:01.640Z
-updated: 2024-09-17T16:02:14.031Z
+date: 2024-12-02T21:19:43.941Z
+updated: 2024-12-06T22:19:57.060Z
 tags:
   - chatgpt
   - open-ai
@@ -28,11 +28,19 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Paperclip Maximizer Problem Explained
 
  This thought experiment that even a completely harmless AI could eventually wipe out humanity was first called the Paperclip Maximizer simply because paperclips were chosen to show what the AI could do as they have little apparent danger and won't cause emotional distress when compared to other areas that this problem applies to such as curing cancer or winning wars.
 
 ![Grayscale photo of a futuristic robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/artificial-general-intelligence.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The first experiment appeared in Swedish philosopher Nick Bostrom's 2003 paper, [Ethical Issues in Advanced Artificial Intelligence](https://www.researchgate.net/publication/229001428%5FEthical%5FIssues%5Fin%5FAdvanced%5FArtificial%5FIntelligence), which included the paperclip maximizer to show the existential risks an advanced enough AI could use.
 
@@ -46,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 
  The AI isn't hostile to humans; it's just indifferent. An AI that only cares about maximizing the number of paperclips would therefore wipe out humanity and essentially convert them into paperclips to reach its goal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does the Paperclip Maximizer Problem Apply to AI?
 
  Research and experiment mentions of the paperclip maximizer problem all mention a hypothetical extremely powerful optimizer or a highly intelligent agent as the acting party here. Still, the problem applies to AI as much as it fits the role perfectly.
@@ -57,9 +69,17 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 
 ![A robot holding a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/what-is-openai-gym-and-what-can-you-do-with-it-featured-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The bigger issue highlighted by the paperclip maximizer is instrumental convergence. It can also be highlighted using the Riemann hypothesis, in which case an AI designed to solve the hypothesis might very well decide to take over all of Earth's mass and convert it into computronium (the most efficient computer processors possible) to build supercomputers to solve the problem and reach its goal.
 
  Bostrom himself has emphasized that he doesn't believe that the paperclip maximizer problem will ever be a real issue, but his intention was to illustrate the dangers of creating superintelligent machines without knowing how to control or program them not to be existentially risky to human beings. [Modern AI systems like ChatGPT have problems too](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), but they're far from the superintelligent AI systems being talked about in the paperclip maximize problem, so there's no reason to panic just yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Advanced AI Systems Need Superior Control
 
@@ -84,12 +104,24 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-image-borders-in-instagram-photography/"><u>[New] 2024 Approved Mastering Image Borders in Instagram Photography</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-utilize-your-appletv-for-a-smooth-view-of-fb-videos-online/"><u>[New] How to Utilize Your AppleTV for a Smooth View of FB Videos Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/76263904-new-in-2024-revolutionize-your-branding-50-free-youtube-banners-inside/"><u>[New] In 2024, Revolutionize Your Branding - 50 Free YouTube Banners Inside!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-faces-incorporating-motion-blur-in-photos-with-picsart/"><u>[New] Mastering Faces Incorporating Motion Blur in Photos with Picsart</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-does-the-sub4sub-strategy-improve-content-consumption/"><u>[Updated] In 2024, Does the Sub4Sub Strategy Improve Content Consumption?</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/aacitunes/"><u>AAC形式でiTunesへ曲転送するための対処法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-chatgpts-creativity-to-mirror-your-style/"><u>Enhancing ChatGPT's Creativity to Mirror Your Style</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exciting-times-for-everyone-gpt-4-is-now-free-plus-still-shines-with-6-benefits/"><u>Exciting Times for Everyone: GPT-4 Is Now Free; Plus Still Shines with 6 Benefits</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 13 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-vs-ipad-pro-showdown-why-you-might-prefer-the-affordable-option/"><u>IPad Air Vs. IPad Pro Showdown: Why You Might Prefer the Affordable Option</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-quest-3-leaps-ahead-with-ai-capabilities-before-apples-release-your-step-by-step-enablement-tutorial/"><u>Meta Quest 3 Leaps Ahead with AI Capabilities Before Apple's Release - Your Step-by-Step Enablement Tutorial</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-best-apps-for-making-reaction-video-for-2024/"><u>New Best Apps for Making Reaction Video for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skys-new-choreographer-gopro-karma-takes-center-stage/"><u>Sky's New Choreographer GoPro Karma Takes Center Stage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-generation-of-tech-unraveling-the-six-secrets-of-gpts-engineer/"><u>The Next Generation of Tech - Unraveling the Six Secrets of GPT's Engineer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-right-language-assistant-bing-chat-or-gpt-3-which-is-better-6-factors/"><u>The Right Language Assistant: Bing Chat or GPT-3, Which Is Better? 6 Factors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-archiving-ai-conversations/"><u>The Ultimate Guide to Archiving AI Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unique-selling-points-of-chatgpt-for-companies/"><u>Unique Selling Points of ChatGPT for Companies</u></a></li>
+</ul></div>
 

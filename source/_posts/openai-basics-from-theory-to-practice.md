@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Basics: From Theory to Practice"
-date: 2024-11-20T16:01:43.984Z
-updated: 2024-11-27T16:35:59.567Z
+date: 2024-11-30T01:16:36.995Z
+updated: 2024-12-06T17:25:58.479Z
 tags:
   - chatgpt
   - open-ai
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 [Crunchbase reports](https://www.crunchbase.com/organization/openai/company%5Ffinancials) that OpenAI LP has amassed over $11.3B in funding over five rounds from its founders and contributors in addition to a $1 billion investment from Microsoft in 2019\. So it's no surprise that this research company has covered huge milestones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. ChatGPT
@@ -66,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 
  The latest generation, ChatGPT-4, has 45 billion parameters, which means it has been trained in a more extensive dataset of text and code than its predecessor, making it more accurate, creative, and fluent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. DALL-E
 
 ![DALL-E Playground Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dall-e-playground-homepage.jpg)
@@ -81,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
  This AI model can generate visual content like paintings and memes for product designs, fliers, commercial and campaign posters, research, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Codex
@@ -89,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 ![codex js sandbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/codex-js-sandbox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Released in 2021, Codex was based on the language model GPT-3 family—an AI model that can generate code. It could create code that is as good, or even better, than those written by human programmers.
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 
  OpenAI was founded to advance AI research and prevent its monopolization. But the research company faces challenges on different fronts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Regulatory Issues
 
  AI has advanced faster than we expected. There are now models that can generate text and images within seconds. And there are concerns that malicious entities could use this to create misinformation, spread fake news and chaos.
@@ -109,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
  For instance, there have been instances where DALL-E-generated images were used to spread fake news due to how original they looked.
 
  OpenAI has begun creating regulatory measures trying to prevent these scenarios. But some of these measures have also prevented the use of the models, even within normal parameters.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Secrecy vs. Openness
 
@@ -123,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 ### 3\. Ethical Issues
 
  There have been cases where [OpenAI’s models have shown biased content](https://www.makeuseof.com/does-chatgpt-lie/) due to the type of training data they were built with. Addressing this problem is complicated as it will need a lot of fine-tuning and comprehensive data selection. And even at that, it would be almost impossible to eradicate biased results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Competition
 
@@ -151,22 +151,14 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-innovative-tech-for-live-video-recording-webcam-with-vlc/"><u>[New] In 2024, Innovative Tech for Live Video Recording – Webcam with VLC</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-leveraging-seo-in-youtube-a-title-and-tags-guidebook/"><u>[Updated] In 2024, Leveraging SEO in Youtube A Title & Tags Guidebook</u></a></li>
-<li><a href="https://driver-download.techidaily.com/brother-l2-2690-dw-printer-driver-updates-how-to-install-easily/"><u>Brother L2 2690 DW Printer Driver Updates - How to Install Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-authenticity-avoiding-copyright-infringement/"><u>ChatGPT Authenticity: Avoiding Copyright Infringement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-extensions-register-and-unleash-potential/"><u>ChatGPT Extensions: Register & Unleash Potential</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/complete-evaluation-the-dji-inspire-1-unveiled-for-2024/"><u>Complete Evaluation The DJI Inspire 1 Unveiled for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/re-and-download-50-free-youtube-banners/"><u>Explore & Download 50 FREE YouTube Banners!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-beat-the-norm-with-mac-audio-guide/"><u>In 2024, Beat the Norm with Mac Audio Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-y55s-5g-2023-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo Y55s 5G (2023) Phones with/without a PC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-unlock-the-full-potential-of-your-iphones-voice-memo/"><u>In 2024, Unlock the Full Potential of Your iPhone's Voice Memo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-sales-solutions-that-stand-out-from-openais-offering/"><u>Innovative Sales Solutions That Stand Out From OpenAI’s Offering</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-remote-collaboration-the-power-of-chatgpt/"><u>Optimizing Remote Collaboration: The Power of ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ps5-storage-enhancement-the-ultimate-tutorial-on-adding-an-ssd-hardware-upgrade/"><u>PS5 Storage Enhancement: The Ultimate Tutorial on Adding an SSD Hardware Upgrade</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sky-high-planning-no-cost-choose-among-7-ai-travel-helpers/"><u>Sky High Planning, No Cost – Choose Among 7 AI Travel Helpers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-7-best-tools-that-use-ai-to-make-presentations-for-you/"><u>The 7 Best Tools That Use AI to Make Presentations for You</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-high-performance-hardware-tips-from-toms-domain/"><u>Unveiling High-Performance Hardware Tips From Tom's Domain</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/value-assessment-gpt-plus-subscription/"><u>Value Assessment: GPT Plus Subscription</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-the-photo-date-addition-process/"><u>[Updated] Streamlining the Photo Date-Addition Process</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-launch-errors-in-hogwarts-legacy-expert-tips-to-get-the-game-running-smoothly/"><u>Common Launch Errors in Hogwarts Legacy: Expert Tips to Get the Game Running Smoothly</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-c50-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco C50 Phone FRP Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-pro-vs-iphone-14-pro-assessing-the-value-of-upgrading-insights/"><u>IPhone 16 Pro Vs. IPhone 14 Pro: Assessing the Value of Upgrading - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-gpt-experience-with-1-to-9-essentials/"><u>Optimize GPT Experience with #1 to #9 Essentials</u></a></li>
+<li><a href="https://fox-where.techidaily.com/refine-your-photos-top-5-tools-for-sharpening-blurry-pictures/"><u>Refine Your Photos: Top 5 Tools for Sharpening Blurry Pictures</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-hygiene-smart-toilets-adopt-health-screening-tech-zdnet/"><u>Revolutionizing Hygiene: Smart Toilets Adopt Health Screening Tech | ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-msvcr1not-found-issues-in-helldivers-game/"><u>Troubleshooting Tips for 'MSVCR1nOT FOUND' Issues in Helldivers Game</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-ai-potential-for-improved-health-outcomes/"><u>Unleashing AI Potential for Improved Health Outcomes</u></a></li>
 </ul></div>
 

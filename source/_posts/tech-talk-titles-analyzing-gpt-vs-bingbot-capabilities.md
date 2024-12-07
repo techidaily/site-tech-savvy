@@ -1,7 +1,7 @@
 ---
 title: "Tech Talk Titles: Analyzing GPT Vs. BingBot Capabilities"
-date: 2024-11-22T16:13:40.770Z
-updated: 2024-11-27T16:54:46.281Z
+date: 2024-12-05T19:34:17.628Z
+updated: 2024-12-06T19:39:17.337Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 
  Despite these nuances, ChatGPT and Bing execute similar functions. With the correct prompts, they could write essays, answer general knowledge queries, recap books, and scrutinize arguments, among other tasks. Just expect varied responses based on their trained datasets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Conversational Language
 
  ChatGPT and Bing both use the GPT model. This advanced natural language processing (NLP) system responds to prompts with human-like text. It answers follow-up questions, analyzes problems, and challenges non-factual statements.
@@ -50,15 +46,15 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 
 ![Having a Casual, Normal Conversation With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-normal-conversation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the other hand, [Bing AI uses GPT-4](https://blogs.bing.com/search/march%5F2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4), an iteration of ChatGPT’s language model. Its output sounds casual and genuine.
 
 ![Generating Creative Responses from Microsoft Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-bing-creative-responses.jpg)
 
  Currently, you can only [access GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/) by upgrading to ChatGPT Plus for $20 a month.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Data Accuracy
 
@@ -72,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 
  It’s also worth noting that Bing's AI cites sources. Neither platform guarantees 100% accuracy, but knowing which resources to double-check streamlines fact-checking.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Mathematical Precision
 
  ChatGPT and Bing AI understand math. The bots can analyze equations, perform computations based on their datasets, and generate output through their language models.
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 ![ChatGPT Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solving-physics-questions.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Bing AI answers the same physics question correctly.
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Security Measures
@@ -107,11 +107,7 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 ![Bing AI Ends Conversation for Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bingai-security-feature.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Accessibility
@@ -121,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
  Alternatively, Bing AI offered cross-platform accessibility right from the get-go. Its chat feature is available on the [Bing](https://www.bing.com) website, a Microsoft Edge browser extension, and Bing’s mobile app. You could even [use Bing Chat on Skype](https://www.makeuseof.com/use-bing-chat-on-skype/) by adding it to your contacts.
 
  Perhaps the only limitation of Bing AI is that it doesn’t run on third-party browsers, like Mozilla Firefox, Safari, and Google Chrome. You’ll have to download Microsoft Edge. Although seemingly trivial, you might find it inconvenient if Edge isn’t your default browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Sign-Up Process
 
@@ -132,13 +132,13 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Functionality
 
 ![Setting Custom Instructions for Prompts on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/custom-instructions-on-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bing's AI bot has a more advanced language model and broader dataset, boosting its functionality over ChatGPT. It even uses its search engine before responding. You can expect to get more accurate, reliable responses and up-to-date information.
 
@@ -161,7 +161,7 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
  Although affordable, subscription fees are unnecessary expenses. Instead of losing $240 per year on ChatGPT Plus, explore Bing's AI first. It already runs on GPT-4, and since [Microsoft plans to monetize Bing through advertisements](https://www.reuters.com/technology/microsofts-bing-plans-ai-ads-early-pitch-advertisers-2023-02-17/), the platform will likely stay free.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Token Limits
@@ -195,20 +195,16 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unveiling-the-art-of-recording-discord-conversations-in-real-time/"><u>[New] In 2024, Unveiling the Art of Recording Discord Conversations in Real-Time</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-maximizing-game-capture-with-bandicam-essentials-for-the-year-2023-for-2024/"><u>[New] Maximizing Game Capture with Bandicam - Essentials for the Year 2023 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-starting-point-auditions-approach-to-soft-volume-increase-for-2024/"><u>[New] Starting Point Audition's Approach to Soft Volume Increase for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tactics-for-designing-attention-grabbing-thumbnails/"><u>[Updated] Expert Tactics for Designing Attention-Grabbing Thumbnails</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cost-effective-recorder-selections-for-youtube-vloggers/"><u>[Updated] In 2024, Cost-Effective Recorder Selections for YouTube Vloggers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-creating-impactful-podcast-titles-with-ease-and-comprehensively-sampled-ideas/"><u>2024 Approved Creating Impactful Podcast Titles with Ease & Comprehensively Sampled Ideas</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oneplus-12r-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypass-ais-windows-11-keys-at-your-own-risk/"><u>Bypass AI's Windows 11 Keys at Your Own Risk</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-ais-frailty-understanding-how-prompt-injections-work/"><u>Inside AI's Frailty: Understanding How Prompt Injections Work</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-enhanced-multilingual-acquisition/"><u>Leveraging ChatGPT for Enhanced Multilingual Acquisition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-conversations-with-chatgpts-wolfram-integration/"><u>Optimizing Conversations with ChatGPT's Wolfram Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/selecting-chatgpt-as-a-tool-for-enhancing-mental-health-outcomes/"><u>Selecting ChatGPT as a Tool for Enhancing Mental Health Outcomes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209841460-9780692538128-the-emerald-doorway/"><u>THE EMERALD DOORWAY | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-flip-side-using-ai-to-combat-malware/"><u>The Flip Side: Using AI to Combat Malware</u></a></li>
-<li><a href="https://win-premium.techidaily.com/understanding-botnets-a-beginners-guide-to-their-functioning-explained-simply/"><u>Understanding Botnets: A Beginner's Guide to Their Functioning Explained Simply</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-crafting-team-videos-to-foster-viewership-and-following/"><u>[New] In 2024, Crafting Team Videos to Foster Viewership and Following</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-elite-recording-tech-top-10-cam-devices-windows-11/"><u>[Updated] 2024 Approved Elite Recording Tech Top 10 Cam Devices Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-pinnacle-of-1980s-movie-magic-in-editing/"><u>[Updated] Pinnacle of 1980S Movie Magic in Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-windows-10-mic-not-detecting-or-functioning-issue/"><u>Diagnosing and Solving Windows 10 Mic Not Detecting or Functioning Issue</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-tecno-phantom-v-flip-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Tecno Phantom V Flip Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-mac-or-ipad-equipped-with-an-hidden-intelligent-audio-device-find-out-now-tech-insights/"><u>Is Your Mac or iPad Equipped with an Hidden Intelligent Audio Device? Find Out Now! | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-apple-pay-a-comprehensive-guide-to-using-it-both-in-store-and-on-the-web-benefits-explained/"><u>Mastering Apple Pay: A Comprehensive Guide to Using It Both In-Store and On the Web - Benefits Explained</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-missing-data-from-windows-1011s-search-feature/"><u>Restoring Missing Data From Windows 10/11'S Search Feature</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-your-creative-chatgpt-side-chrome-extension-advantage/"><u>Unlock Your Creative ChatGPT Side - Chrome Extension Advantage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-to-iphone-16-pros-and-cons-insight-experts/"><u>Upgrading to iPhone 16: Pros & Cons - Insight Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-ipad-airs-amazing-features-can-leave-even-an-ipad-pro-owner-wishing-they-switched-expert-review-by-zdnet/"><u>Why the iPad Air's Amazing Features Can Leave Even an iPad Pro Owner Wishing They Switched | Expert Review by ZDNet</u></a></li>
 </ul></div>
 

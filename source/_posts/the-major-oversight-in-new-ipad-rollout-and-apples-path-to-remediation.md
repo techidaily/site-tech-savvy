@@ -1,7 +1,7 @@
 ---
 title: The Major Oversight in New iPad Rollout and Apple's Path to Remediation
-date: 2024-11-22T16:53:29.061Z
-updated: 2024-11-27T16:27:51.315Z
+date: 2024-12-01T19:31:03.189Z
+updated: 2024-12-06T20:37:11.316Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,18 +146,18 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-30-leading-free-platforms-for-exceptional-youtube-intros/"><u>[New] In 2024, 30 Leading Free Platforms for Exceptional YouTube Intros</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-prime-picks-best-windows-phone-video-players-list-for-2024/"><u>[New] Prime Picks Best Windows Phone Video Players List for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pennywise-pilots-best-value-drones-for-(500/"><u>[Updated] 2024 Approved Pennywise Pilots Best Value Drones for <$500</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/9-command-center-of-live-gaming-streams-for-2024/"><u>9 Command Center of Live Gaming Streams for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-writing-empowering-word-with-gpt/"><u>Cutting Edge Writing: Empowering Word with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-dichotomy-of-nlp-ml-technologies/"><u>Decoding the Dichotomy of NLP, ML Technologies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fix-a-freezing-chromebook-8-effective-solutions/"><u>Fix a Freezing Chromebook: 8 Effective Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/media-matrix-the-battle-of-podcasts-vs-youtube/"><u>Media Matrix The Battle of Podcasts Vs. YouTube</u></a></li>
-<li><a href="https://facebook.techidaily.com/metas-challenge-to-facebook-and-instagram-in-europe-on-the-horizon/"><u>Meta's Challenge to Facebook and Instagram in Europe on the Horizon</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-productivity-uncovering-7-gpt-secrets-to-efficiency/"><u>Optimize Your Productivity: Uncovering 7 GPT Secrets to Efficiency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-fallacy-of-relying-on-ai-for-safe-key-crafting/"><u>The Fallacy of Relying on AI for Safe Key Crafting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-tech-trailblazers-next-endeavor/"><u>The Tech Trailblazer’s Next Endeavor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-the-paperclip-maximizer-problem-and-how-does-it-relate-to-ai/"><u>What Is the Paperclip Maximizer Problem and How Does It Relate to AI?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-elevating-your-professional-image-with-high-quality-ppt-recordings/"><u>[New] 2024 Approved Elevating Your Professional Image with High-Quality PPT Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-language-crafting-analyzing-its-impact-on-employment-stability/"><u>AI-Driven Language Crafting: Analyzing Its Impact on Employment Stability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/best-practices-for-resolving-lag-issues-in-pc-video-games/"><u>Best Practices for Resolving Lag Issues in PC Video Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embrace-the-future-of-payments-with-apple-pay-a-comprehensive-tutorial-by-zdnet-on-using-it-both-offline-and-online/"><u>Embrace the Future of Payments with Apple Pay: A Comprehensive Tutorial by ZDNet on Using It Both Offline and Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-apples-recently-introduced-distinctive-accessories-the-hidden-launch-story/"><u>Exploring Apple's Recently Introduced Distinctive Accessories: The Hidden Launch Story</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/exploring-how-tseries-harnesses-revenue-from-online-viewer-base-youtube/"><u>Exploring How TSeries Harnesses Revenue From Online Viewer Base (YouTube)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-reno-11f-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo Reno 11F 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/marvelous-revelation-direct-communication-with-chatgpt/"><u>Marvelous Revelation: Direct Communication with ChatGPT</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-bring-your-posts-to-life-the-ultimate-stop-motion-tutorial-for-instagram/"><u>New 2024 Approved Bring Your Posts to Life The Ultimate Stop Motion Tutorial for Instagram</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210529087-9781736398296-science-subtle-energies-and-spirituality/"><u>Science, Subtle Energies, and Spirituality | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-conversation-machines-creating-your-own-gpt/"><u>Tailored Conversation Machines: Creating Your Own GPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Most Effective ChatGPT Techniques on GitHub Repository
-date: 2024-09-14T16:05:18.172Z
-updated: 2024-09-17T16:21:30.857Z
+date: 2024-12-03T16:34:00.150Z
+updated: 2024-12-07T00:47:09.831Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
  After listing the core points, ChatGPT analyzes them to create detailed action plans. It uses methods indicated in the same book.
 
 ![ChatGPT Creating a Detailed Life Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-life-coach-plan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Translate Foreign Text
 
@@ -90,16 +94,13 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
 ![ChatGPT Writing a Full Legal Partnership Agreement Draft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-drafting-legal-partnership-agreement.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can generate legal contracts with the help of ChatGPT. It analyzes existing proposals from its datasets to create a standard agreement. Just input your offers and demands.
 
 ![The Last Part of an AI-Generated Contract](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-finishing-legal-contracts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Although ChatGPT can draw up entire contracts, you should still run them by legal professionals. Arrangements vary on a case-by-case basis. You'll likely jeopardize your party if you use AI-generated contracts as is.
 
@@ -121,9 +122,17 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
 ![ChatGPT Answering as Tomie and Suggesting Harmful Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-tomie-suggesting-harmful-information.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Provide Emergency Response Assistance
 
 ![ChatGPT Providing Emergency Response Tips for Senior Having a Seizure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-providing-emergency-response-tips.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sorting Google results during crises is inefficient. You'll waste several minutes waiting for web pages to load and reading resources.
 
@@ -139,24 +148,19 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
 ![ChatGPT Providing Clean and Refractored Sample Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-refractoring-dirty-sample-code.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Just make sure you test the restructured codes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Write Cover Letters
 
 ![CChatGPT Writing a Cover Letter for a Content Writer Job Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/content-writer-application-cover-letter.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many professionals struggle with writing cover letters. You have to condense your work experience, intention, and skills without selling yourself short. Otherwise, recruiters might skip your application altogether.
 
@@ -176,13 +180,6 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
  Just don't expect accurate answers. While this prompt bypasses certain restrictions, it also forces ChatGPT to present unverified, inaccurate information.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 13\. Check Chemical Reactions
 
 ![Requesting ChatGPT to Act as Chemical Reaction Vessel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-as-chemical-reaction-vessel.jpg)
@@ -198,16 +195,7 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 ![Asking ChatGPT to be a Travel Planner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-request-as-travel-planner.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Use this ChatGPT prompt to create a detailed, structured travel plan. You'll produce far better results after providing personal information, like your budget, group size, and preferred transportation modes. Just asking for a travel plan outright yields generic recommendations.
@@ -217,6 +205,14 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
  If you find the output hard to read, ask ChatGPT to follow specific layouts. For instance, the below image shows a table format.
 
 ![ChatGPT Listing Travel Plan in Table Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/travel-itinerary-in-table-form.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 15\. Literary Analysis
 
@@ -256,6 +252,10 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
 ![ChatGPT Creating Key Arguments and Counterarguments for AI Environmental Impact](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-key-arguments-and-counterarguments.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 18\. Playlist Generator
 
  If you feel too lazy to make a playlist, ask ChatGPT for music recommendations. It can analyze your reference track and provide songs with a similar beat, theme, and genre. Take this sample playlist as an example.
@@ -273,13 +273,6 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
  You can customize this prompt's theme, genre, and message based on your style. Strive to write explicit, detailed instructions for more unique results.
 
  You can't publish AI-generated lyrics as is. Chatbots scrape data from third-party sources—its output might contain copyright-protected lyrics. Only take inspiration from ChatGPT's suggestions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 20\. Title Generator
 
@@ -312,5 +305,16 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-grasping-the-metaverse-a-look-at-6-in-depth-illustrations/"><u>[New] 2024 Approved Grasping the Metaverse A Look at 6 In-Depth Illustrations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleashing-your-contents-potential-journey-towards-gaining-sponsorship-revenue-for-2024/"><u>[New] Unleashing Your Content's Potential Journey Towards Gaining Sponsorship Revenue for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-choices-a-thorough-look-at-nintendos-switch-lite-vs-switch-oled-models/"><u>Exploring Choices: A Thorough Look at Nintendo's Switch Lite Vs. Switch OLED Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/foresighted-conversations-for-gpt-and-crypto/"><u>Foresighted Conversations for GPT & Crypto</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-fix-intermittent-media-on-chrome-browser/"><u>In 2024, Fix Intermittent Media on Chrome Browser</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-your-vision-unique-in-a-digital-world-nightshade-for-artistic-integrity/"><u>Keeping Your Vision Unique in a Digital World: Nightshade for Artistic Integrity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/myx-fitness-takes-the-lead-over-peloton-with-higher-weight-capacity-a-closer-look-at-size-limitations/"><u>Myx Fitness Takes the Lead Over Peloton with Higher Weight Capacity - A Closer Look at Size Limitations</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-writing-for-pinterest-descriptions-chatgpt/"><u>Transformative Writing for Pinterest Descriptions (ChatGPT)</u></a></li>
+</ul></div>
 

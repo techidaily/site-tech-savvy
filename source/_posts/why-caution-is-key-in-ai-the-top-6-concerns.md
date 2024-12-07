@@ -1,7 +1,7 @@
 ---
 title: "Why Caution Is Key in AI: The Top 6 Concerns"
-date: 2024-09-10T16:01:17.673Z
-updated: 2024-09-17T16:06:53.181Z
+date: 2024-12-02T18:25:38.748Z
+updated: 2024-12-06T21:00:36.829Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ AI is transforming the world as we know it, with its impact felt across every in
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. AI Can Be Confidently Wrong
 
  People are increasingly relying on [AI chatbots for tasks such as writing](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/), scheduling appointments, and even making important decisions. However, the convenience of these chatbots often comes at a significant cost–they can be confidently wrong.
@@ -40,6 +44,10 @@ AI is transforming the world as we know it, with its impact felt across every in
 
  While this is just the nature of AI right now, you can see how this can become a problem. Most people don't fact-check their Google searches, and it's the same here with chatbots like ChatGPT. This can lead to misinformation, and we already have plenty of that to go around—which brings us to the second point.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. It Can Easily Be Used to Manipulate Information
 
  It's no secret that AI can be unreliable and prone to error, but one of its most insidious traits is its tendency to manipulate information. The problem is that AI lacks a nuanced understanding of your context, leading it to bend the facts to suit its own purposes.
@@ -52,6 +60,10 @@ AI is transforming the world as we know it, with its impact felt across every in
 
 ![man with head on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-with-head-on-desk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Many professionals, such as writers and designers, are now using AI to maximize efficiency. However, it's important to understand that AI should be viewed as a tool rather than a shortcut. While the latter certainly sounds tempting, it can severely impact your creativity.
 
  When AI chatbots are used as a shortcut, people tend to copy and paste content instead of generating unique ideas. This approach might seem tempting because it saves time and effort but fails to engage the mind and promote creative thinking.
@@ -59,6 +71,10 @@ AI is transforming the world as we know it, with its impact felt across every in
  For instance, designers can [use Midjourney AI to create art](https://www.makeuseof.com/how-to-use-midjourney-create-ai-art/), but relying solely on AI can limit the scope of creativity. Instead of exploring new ideas, you may end up replicating existing designs. If you're a writer, you can [use ChatGPT or other AI chatbots for research](https://www.makeuseof.com/ai-writing-tools/), but if you use it as a shortcut to generate content, your writing skills will stagnate.
 
  Using AI to supplement your research is different from solely relying on it to generate ideas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. AI Can Easily Be Misused
 
@@ -79,28 +95,12 @@ AI is transforming the world as we know it, with its impact felt across every in
  For example, consider a chatbot that is programmed to assist customers with their queries about a product. While the chatbot may be able to answer basic questions about the product's features and specifications, it may struggle to provide personalized advice or recommendations based on the customer's unique needs and preferences.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. It Can't Replace Human Judgment
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When seeking answers to complex questions or making decisions based on subjective preferences, relying solely on AI can be risky.
 
@@ -131,5 +131,20 @@ AI is transforming the world as we know it, with its impact felt across every in
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-expert-picks-for-superior-steadicams-in-aerial-cinema/"><u>[New] In 2024, Expert Picks for Superior Steadicams in Aerial Cinema</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/18466470-new-in-2024-wave-goodbye-to-costs-with-our-50-free-banners-offer/"><u>[New] In 2024, Wave Goodbye to Costs with Our 50 Free Banners Offer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-inject-life-into-posts-change-your-voice-with-ease-on-insta-for-2024/"><u>[New] Inject Life Into Posts Change Your Voice with Ease on Insta for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-knowledge-sharing-broad-impact/"><u>ChatGPT Knowledge Sharing: Broad Impact</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-2024-guide-12-excellent-free-disk-defragmenter-programs-available-now/"><u>Essential 2024 Guide: 12 Excellent, Free Disk Defragmenter Programs Available Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-deal-get-your-hands-on-the-topmost-essential-app-for-all-new-mac-users-now-at-a-steep-discount-featured/"><u>Exclusive Deal: Get Your Hands on the Topmost Essential App for All New Mac Users - Now at a Steep Discount, Featured !</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/fotografien-in-das-jpeg-format-auf-ios-umwandeln-losungsweg/"><u>Fotografien in Das JPEG-Format Auf iOS Umwandeln - Lösungsweg</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/propose-6-economical-alternatives-to-sora-ai/"><u>Propose 6 Economical Alternatives to Sora AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-roadmap-to-success-for-apple-vision-pro-key-upgrades-and-strategies-according-to-zdnet/"><u>The Roadmap to Success for Apple Vision Pro: Key Upgrades and Strategies According to ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-repairing-directinputdll-errors-in-microsoft-applications/"><u>Troubleshooting and Repairing directinput.dll Errors in Microsoft Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-a-top-tier-iphone-ability-you-might-have-missed-out-on-an-insiders-guide/"><u>Unveiling a Top-Tier iPhone Ability You Might Have Missed Out On - An Insider's Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-do-websites-censor-gptbot-unveiling-digital-regulations/"><u>Why Do Websites Censor GPTBot? Unveiling Digital Regulations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-hd-video-converter-macos/"><u>WinX HD Video Converter macOS最常聽到的疑難解答：線上客戶服務</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use Nightshade to Protect Your Artwork From Generative AI
-date: 2024-09-12T16:28:41.114Z
-updated: 2024-09-17T16:29:25.111Z
+date: 2024-11-30T20:02:11.102Z
+updated: 2024-12-06T16:43:28.089Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -39,11 +43,19 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  Stopping generative AI tools using copyright images to train is difficult, and artists from all walks of life have struggled to protect their work from AI training datasets. But now, that's all changing with the advent of Nightshade, a free AI tool built to poison the output of generative AI tools—and finally let artists take some power back.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is AI Poisoning?
 
  AI poisoning is the act of "poisoning" the training dataset of an AI algorithm. This is similar to providing wrong information to the AI on purpose, resulting in the trained AI malfunctioning or failing to detect an image. Tools like Nightshade alter the pixels in a digital image in such a manner that it appears to be completely different to the AI training on it, but largely unchanged from the original to the human eye.
 
 ![Robot Hand Holding Paintbrush Over Colorful Canvas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/robot-hand-holding-paintbrush.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-robot-ai-generate-art-mid-2294823599)
 
@@ -58,10 +70,7 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
  Compared to other digital artwork protection tools like Glaze, Nightshade is offensive. [Glaze prevents AI algorithms from mimicking](https://www.makeuseof.com/how-to-use-glaze-protect-art-from-ai/) the style of a particular image, while Nightshade changes the image's appearance to the AI. Both tools are built by Ben Zhao, Professor of Computer Science at the University of Chicago.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Nightshade
@@ -83,10 +92,7 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
 4. Adjust the **Intensity** and **Render Quality** dials according to your preferences. Higher values add stronger poisoning but can also introduce artifacts in the output image.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, click the **Save As** button under the **Output** section to select a destination for the output file.
@@ -111,5 +117,23 @@ Thongden Studio/[Shutterstock](https://www.shutterstock.com/image-photo/hand-rob
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-intriguing-book-trailers-on-display-for-2024/"><u>[New] Intriguing Book Trailers on Display for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-grow-to-1k-per-month-master-the-art-of-ig-popularity/"><u>[Updated] 2024 Approved Grow to 1K Per Month Master the Art of IG Popularity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-a-guide-for-aspiring-graders-essential-tips-from-these-top-7/"><u>[Updated] A Guide for Aspiring Graders Essential Tips From These Top 7</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-building-brands-on-instagram-a-playbook-for-sponsorship-success-for-2024/"><u>[Updated] Building Brands on Instagram A Playbook for Sponsorship Success for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-your-compreran-guide-to-creating-viral-ad-videos-for-free/"><u>[Updated] In 2024, Your Compreran Guide to Creating Viral Ad Videos for Free</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-capturing-stories-the-best-cinematographic-techniques/"><u>2024 Approved Capturing Stories The Best Cinematographic Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/altman-out-openai-adapts-gpt-under-scrutiny/"><u>Altman Out, OpenAI Adapts; GPT Under Scrutiny</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/amplify-and-transform-changing-your-audible-image-on-ig-for-2024/"><u>Amplify and Transform Changing Your Audible Image on IG for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-create-a-presentation/"><u>How to Use ChatGPT to Create a Presentation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastery-in-erasing-chatgpt-logs/"><u>Mastery in Erasing ChatGPT Logs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-multilingualism-chatgpt-as-your-translation-companion/"><u>Navigating Multilingualism: ChatGPT as Your Translation Companion</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/e-and-revamp-your-youtube-clips-using-wm-maker-for-2024/"><u>Refine and Revamp Your YouTube Clips Using WM Maker for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-crossroads-of-ai-moderation-and-human-interaction-patterns/"><u>The Crossroads of AI Moderation and Human Interaction Patterns</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rise-of-chatbots-shaping-modern-media-artistry/"><u>The Rise of Chatbots: Shaping Modern Media Artistry</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/tutorial-windows-movie-maker-for-effective-animation-designs/"><u>Tutorial Windows Movie Maker for Effective Animation Designs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/urgent-update-from-apple-protect-yourself-against-the-rising-tide-of-mercenary-hackers/"><u>Urgent Update From Apple: Protect Yourself Against the Rising Tide of Mercenary Hackers</u></a></li>
+</ul></div>
 

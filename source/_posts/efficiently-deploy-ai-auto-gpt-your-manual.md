@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Deploy AI (Auto-GPT): Your Manual"
-date: 2024-09-15T16:20:31.403Z
-updated: 2024-09-17T16:09:10.354Z
+date: 2024-12-03T20:21:34.467Z
+updated: 2024-12-06T16:27:01.745Z
 tags:
   - chatgpt
   - open-ai
@@ -63,7 +63,15 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This file is where all your service credentials are placed, so if you want to use a [backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/), you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Install Auto-GPT Dependencies
 
@@ -75,17 +83,15 @@ pip install -r requirements.txt
 3. Once you press enter, your terminal will download and install all the required dependencies.  
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-4.jpg)
 4. After installation, try opening Auto-GPT using:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
  Congratulations! You have successfully Installed Auto-GPT.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT
 
@@ -110,10 +116,7 @@ python -m autogpt
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you give your last goal, you can hit enter for Auto-GPT to run.
@@ -138,18 +141,19 @@ python -m autogpt
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To view the output, go to your Auto-GPT folder and **open auto-gpt-workspace**.
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Auto-GPT Limitations
 
@@ -188,5 +192,24 @@ python -m autogpt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-unleash-your-inner-comedy-with-gif-mastery/"><u>[New] 2024 Approved Unleash Your Inner Comedy with GIF Mastery</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ain-more-views-beginners-guide-to-youtube-seo-for-2024/"><u>[New] Gain More Views Beginner’s Guide to YouTube SEO for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-elevate-your-clicking-skills-with-these-top-12-pc-titles/"><u>[Updated] 2024 Approved Elevate Your Clicking Skills with These Top 12 PC Titles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-screen-record-on-dell-laptop/"><u>[Updated] In 2024, How to Screen Record on Dell Laptop</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-securing-your-playtime-with-diverse-gaming-screen-capture-software-for-2024/"><u>[Updated] Securing Your Playtime with Diverse Gaming Screen Capture Software for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pinterest-vid-extractor-guide-top-5-free-tools-summary/"><u>2024 Approved Pinterest Vid Extractor Guide Top 5 FREE Tools Summary</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-combat-arcade-nintendo-switch-edition-max-156/"><u>2024 Approved Ultimate Combat Arcade Nintendo Switch Edition (Max 156)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-potency-spectrum-from-strong-to-weak-forms/"><u>AI's Potency Spectrum: From Strong to Weak Forms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-medical-decisions-shouldnt-hinge-on-bot-suggestions/"><u>Critical Medical Decisions Shouldn't Hinge on Bot Suggestions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m-macbook-pro-multitasking-mastery-setting-up-dual-monitors-for-seamless-workflow-zdnet-exclusive/"><u>M-Macbook Pro Multitasking Mastery: Setting Up Dual Monitors for Seamless Workflow | ZDNet Exclusive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-control-center-tweaks-for-ios-18-users-tips-and-tricks/"><u>Mastering Control Center Tweaks for iOS 18 Users – Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-ios-experience-expert-tips-on-hidden-siri-voice-shortcuts-for-iphone-users/"><u>Maximize Your iOS Experience: Expert Tips on Hidden Siri Voice Shortcuts for iPhone Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-profitable-proposal-writing-via-gpt-powered-methods/"><u>Pioneering Profitable Proposal Writing via GPT-Powered Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-esr-qui2-series-ultra-fast-magsafe-charging-for-iphone-16s-with-cooler-performance-as-reviewed-on-zdnet/"><u>Revolutionary ESR Qui2 Series: Ultra-Fast MagSafe Charging for iPhone 16S With Cooler Performance, as Reviewed on ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/scopri-i-primissimi-software-per-lettorieditor-pdf-una-lista-dei-migliori-6-alternative-per-i-tuoi-bisogni-digitali/"><u>Scopri I Primissimi Software per Lettori/Editor PDF: Una Lista Dei Migliori 6 Alternative Per I Tuoi Bisogni Digitali</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/top-3-methods-capturing-your-twitch-live-sessions-on-windows/"><u>Top 3 Methods: Capturing Your Twitch Live Sessions on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-best-buy-bargains-in-june-2024-insider-tips/"><u>Top-Rated Best Buy Bargains in June 2024 - Insider Tips</u></a></li>
+</ul></div>
 

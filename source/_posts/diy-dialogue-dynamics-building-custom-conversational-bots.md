@@ -1,7 +1,7 @@
 ---
 title: "DIY Dialogue Dynamics: Building Custom Conversational Bots"
-date: 2024-11-24T17:16:12.978Z
-updated: 2024-11-27T16:13:26.303Z
+date: 2024-12-03T21:07:41.523Z
+updated: 2024-12-06T19:48:03.964Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Provide ChatGPT with Custom Data?
 
  Feeding ChatGPT with custom data and providing updated information beyond its knowledge cutoff date provides several benefits over just using ChatGPT as usual. Here are a few of them:
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
 * **Download:**[Git](https://git-scm.com/downloads) (Free)
 * **Download:**[Microsoft Visual Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Python3 and Microsoft C++ Installation Notes
 
  When installing Python3, make sure that you tick the **Add python.exe to PATH** option before clicking **Install Now**. This is important as it allows you to access Python in any directory on your computer.
@@ -57,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/314203aa70ce1cd280de1b8caed9dd68a2d3fe23b
 ![Adding Python to PATH](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/1-download-python.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When Installing Microsoft C++, you'll want to install **Microsoft Visual Studio Build Tools** first. Once installed, you can tick the **Desktop development with C++** option and click **Install** with all the optional tools automatically ticked on the right sidebar.
@@ -91,7 +99,7 @@ pip install langchain openai chromadb tiktoken unstructured
 ![Creating secret API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/generate-api-key.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will be provided with a string of characters. This is your OpenAI API key. Copy it by clicking on the copy icon on the side of the API key. Keep note that this API key should be kept secret. Do not share it with others unless you really intend for them to use it with you.
@@ -101,7 +109,7 @@ pip install langchain openai chromadb tiktoken unstructured
 ![Adding API key as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-api-key.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you have successfully set up your virtual environment and added your OpenAI API key as an environment variable. You can now provide your custom data to ChatGPT.
@@ -113,10 +121,6 @@ pip install langchain openai chromadb tiktoken unstructured
 ![Adding custom data for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-data.jpg)
 
  As you can see from the screenshot above, I've added a text file containing a made-up personal schedule, an article I wrote on [AMD's Instinct Accelerators](https://www.makeuseof.com/what-are-amd-instinct-ai-accelerators/), and a PDF document.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 4: Querying ChatGPT Through Terminal
 
@@ -137,7 +141,7 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 ![Asking custom ChatGPT about topic outside knowledge cut off data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/m250x.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
@@ -151,10 +155,6 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
  Another issue is that querying ChatGPT like this takes more time to load when compared to asking ChatGPT directly.
 
  Lastly, the only model currently available is GPT-3.5 Turbo. So even if you have access to GPT-4, you won't be able to use it to power your custom ChatGPT instance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Custom ChatGPT Is Awesome But Limited
 
@@ -179,24 +179,19 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-upload-and-share-like-a-pro-quick-and-easy-gif-tutorial-for-instagram-users-for-2024/"><u>[New] Upload and Share Like a Pro Quick & Easy GIF Tutorial for Instagram Users for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-vimeo-profile-picture-constraints-for-2024/"><u>[Updated] Vimeo Profile Picture Constraints for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/amazing-deal-alert-grab-your-new-ipad-at-only-199-with-amazons-labor-day-discount-the-latest/"><u>Amazing Deal Alert: Grab Your New iPad at Only $199 with Amazon's Labor Day Discount - The Latest !</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-elevates-my-fav-tv-show-viewing-a-tale-of-joy-strangeness-and-exhaustion-coverage/"><u>Apple Vision Pro Elevates My Fav TV Show Viewing - A Tale of Joy, Strangeness & Exhaustion | Coverage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-cybersecurity-unveiling-the-hidden-dangers-to-bank-data/"><u>ChatGPT and Cybersecurity: Unveiling the Hidden Dangers to Bank Data</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-on-a-massive-scale-with-facebook-twitter-instagram-and-you-tube/"><u>Connect on a Massive Scale with Facebook, Twitter, Instagram and You-Tube</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/creating-captivating-vimeo-video-content/"><u>Creating Captivating Vimeo Video Content</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y78plus-t1-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y78+ (T1) Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-how-apples-innovative-vision-pro-headset-will-revolutionize-the-market-with-a-customized-library-of-more-than-600-new-apps-expert-insights/"><u>Discover How Apple's Innovative Vision Pro Headset Will Revolutionize the Market with a Customized Library of More than 600 New Apps – Expert Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/know-your-ai-acronyms-the-must-know-list/"><u>Know Your AI Acronyms: The Must-Know List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prompt-designers-in-demand-fact-or-fiction/"><u>Prompt Designers in Demand: Fact or Fiction?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-presentations-with-smart-ai-technology/"><u>Revolutionizing Presentations with Smart AI Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/time-savvy-techniques-a-guide-to-leveraging-chatgpt-for-efficiency/"><u>Time Savvy Techniques: A Guide to Leveraging ChatGPT for Efficiency</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tips-for-efficient-zoom-meeting-arrangements-on-android/"><u>Tips for Efficient Zoom Meeting Arrangements on Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-strategies-to-achieve-viral-success-on-tiktok/"><u>Top 10 Strategies to Achieve Viral Success on TikTok</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-wallet-reviews-industry-experts-verdicts-zdnet/"><u>Top-Rated AirTag Wallet Reviews : Industry Experts' Verdicts - ZDNet</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/transform-your-digital-assets-top-7-tools-to-create-nfts-for-2024/"><u>Transform Your Digital Assets - Top 7 Tools to Create NFTs for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-13-ultra-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Xiaomi 13 Ultra Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-wave-riders-picks-premium-action-cameras-2023/"><u>[Updated] Wave Riders’ Picks Premium Action Cameras 2023</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-exploring-8-youtube-fitness-hacks-that-energize-audiences/"><u>2024 Approved Exploring 8 YouTube Fitness Hacks That Energize Audiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-guide-to-safaris-picture-in-picture-mode/"><u>2024 Approved The Complete Guide to Safari's Picture-in-Picture Mode</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-todays-misinformation-landscape/"><u>AI's Role in Today's Misinformation Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copilot-is-the-best-way-to-use-gpt-4-turbo-for-free/"><u>Copilot Is the Best Way to Use GPT-4 Turbo for Free</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-11x-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 11X 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-imovie-why-does-it-alter-my-videos/"><u>In 2024, IMovie Why Does It Alter My Videos?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-apple-watch-lifetime-on-a-single-charge-discover-key-settings-adjustments-for-better-efficiency-insights/"><u>Maximize Apple Watch Lifetime on a Single Charge: Discover Key Settings Adjustments for Better Efficiency | Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pure-playthings-select-free-pc-games/"><u>Pure Playthings: Select Free PC Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unplanned-thrill-of-snagging-apples-17-usb-c-earpods-on-prime-day-a-tech-enthusiasts-revelation-at-zdnet/"><u>The Unplanned Thrill of Snagging Apple's $17 USB-C EarPods on Prime Day – A Tech Enthusiast’s Revelation at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-generative-ais-role-in-tech/"><u>Understanding Generative AI's Role in Tech</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-c33-2023-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme C33 2023 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-true-eco-friendliness-of-electric-cars/"><u>Unveiling the True Eco-Friendliness of Electric Cars</u></a></li>
 </ul></div>
 

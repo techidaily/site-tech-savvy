@@ -1,7 +1,7 @@
 ---
 title: The Top 5 Corporate Barricades Preventing ChatGPT Use
-date: 2024-09-14T16:21:20.332Z
-updated: 2024-09-17T16:28:01.555Z
+date: 2024-12-03T21:08:10.073Z
+updated: 2024-12-06T21:54:12.526Z
 tags:
   - chatgpt
   - open-ai
@@ -44,17 +44,33 @@ thumbnail: https://thmb.techidaily.com/0968d8a1a40875b1d0f1ddcaf4e9e5bab94f3c356
 
  Many organizations are opting to restrict employees from utilizing ChatGPT to avoid data leaks, which can damage their reputation, lead to financial losses, and put their customers and employees at risk.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Cybersecurity Risks
 
 ![Person Wearing a Mask Sitting on Chair while Using a Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pexels-tima-miroshnichenko-5380605.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While [it's unclear if ChatGPT is genuinely prone to cybersecurity risks](https://www.makeuseof.com/does-chatgpt-have-security-risks-or-issues/), there's a chance that its deployment within an organization may introduce potential vulnerabilities which cyberattackers can exploit.
 
  If a company integrates ChatGPT and there are weaknesses in the chatbot's security system, attackers may be able to exploit the vulnerabilities and inject malware codes. Also, ChatGPT's ability to generate human-like responses is a golden egg for phishing attackers who can take over an account or impersonate legitimate entities to deceive company employees into sharing sensitive information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Creation of Personalized Chatbots
 
 ![robot standing in the middle of a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatbot-chatgpt-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Despite its innovative features, ChatGPT can produce false and misleading information. As a result, many companies have created AI chatbots for work purposes. For instance, the Commonwealth Bank of Australia asked its employees to use Gen.ai instead, an artificial intelligence (AI) chatbot that uses CommBank's information to provide answers.
 
@@ -69,28 +85,12 @@ thumbnail: https://thmb.techidaily.com/0968d8a1a40875b1d0f1ddcaf4e9e5bab94f3c356
  Companies are restricting ChatGPT, fearing potential violations of privacy laws and industry-specific regulations.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Irresponsible Use by Employees
 
 ![Three Employees Chatting With ChatGPT Open on Desktop](https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93697161a134c6af27a69e27e.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In many companies, some employees rely solely on ChatGPT responses to generate content and perform their duties. This breeds laziness in the work environment and staunches creativity and innovation.
 
@@ -125,5 +125,21 @@ thumbnail: https://thmb.techidaily.com/0968d8a1a40875b1d0f1ddcaf4e9e5bab94f3c356
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-first-steps-on-social-landscape-creating-a-facebook-account/"><u>[New] 2024 Approved First Steps on Social Landscape Creating a Facebook Account</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-concrete-jungles-to-eco-havens-rethinking-urban-living/"><u>[New] 2024 Approved From Concrete Jungles to Eco Havens Rethinking Urban Living</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-time-warp-your-snapchat-slideshow-guide/"><u>[New] 2024 Approved Mastering Time Warp Your Snapchat Slideshow Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-huawei-nova-y91-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Huawei Nova Y91 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/assessing-the-vive-cosmos-a-robust-entry-in-a-crowded-vr-headset-battlefield/"><u>Assessing the Vive Cosmos - A Robust Entry in a Crowded VR Headset Battlefield</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/dissecting-the-efficiency-of-vidmas-screen-recorders/"><u>Dissecting the Efficiency of Vidma's Screen Recorders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/foresighted-conversations-for-gpt-and-crypto/"><u>Foresighted Conversations for GPT & Crypto</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-easy-steps-to-create-talking-memoji-on-iphone-free/"><u>In 2024, Easy Steps To Create Talking Memoji on iPhone Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-your-vision-unique-in-a-digital-world-nightshade-for-artistic-integrity/"><u>Keeping Your Vision Unique in a Digital World: Nightshade for Artistic Integrity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-ios-experience-expert-tips-on-hidden-siri-voice-shortcuts-for-iphone-users/"><u>Maximize Your iOS Experience: Expert Tips on Hidden Siri Voice Shortcuts for iPhone Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/myx-fitness-takes-the-lead-over-peloton-with-higher-weight-capacity-a-closer-look-at-size-limitations/"><u>Myx Fitness Takes the Lead Over Peloton with Higher Weight Capacity - A Closer Look at Size Limitations</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-7-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 7 Location | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722544378779-top-free-and-open-source-substitutes-for-microsoft-office/"><u>Top Free and Open Source Substitutes for Microsoft Office</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-writing-for-pinterest-descriptions-chatgpt/"><u>Transformative Writing for Pinterest Descriptions (ChatGPT)</u></a></li>
+</ul></div>
 

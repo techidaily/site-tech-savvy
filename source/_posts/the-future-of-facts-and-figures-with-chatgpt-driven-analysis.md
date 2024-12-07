@@ -1,7 +1,7 @@
 ---
 title: The Future of Facts and Figures with ChatGPT-Driven Analysis
-date: 2024-11-24T16:57:52.375Z
-updated: 2024-11-27T16:33:07.445Z
+date: 2024-11-29T19:28:52.598Z
+updated: 2024-12-07T00:24:06.702Z
 tags:
   - chatgpt
   - open-ai
@@ -28,15 +28,15 @@ thumbnail: https://thmb.techidaily.com/84dab43ab035d91cb56a4eae408b40758af9a9a2b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Refine Ideas About a Task
 
  Data analysts can leverage the capabilities of ChatGPT to refine and brainstorm about a task or case study. Since [ChatGPT](https://chat.openai.com/) can generate conversational text, you can engage it and explore various perspectives by asking questions.
 
 ![The response from ChatGPT on a prompt that ask it how to segment customer data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image3-v1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Suppose you want to write a script to automate a business process. You can ask ChatGPT for ideas on how to get started. All you have to do is ask it for a prompt via the chat and wait for its response. You can ask further questions or alternative viewpoints from the response.
 
@@ -62,17 +62,9 @@ CALCULATE(
 
 ![A prompt response from ChatGPT about a debugging task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image1-v1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. To Interpret Data and Explain Complex Code
 
 ![A prompt from ChatGPT that displays the explaination of a code block](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image6-v1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
 
@@ -103,7 +95,7 @@ else:
 ![A prompt that display clearly written code by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image4-v1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Learning New Skills
@@ -113,10 +105,14 @@ else:
 ![A prompt that show how to add a static date and time in Tableau.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image5-v1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By writing a prompt, you can learn about new features and skills, or how to use a specific function in your favorite analytical tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Document Your Codes
 
@@ -266,6 +262,10 @@ ORDER BY e.employee_id;`
 
 ![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Data Analysts Can Use ChatGPT in Their Work
 
  Powerful AI solutions like ChatGPT boost everyone's productivity, even data analysts. Using ChatGPT's natural language processing capabilities and asking the right prompt, data analysts can quickly and accurately get ideas and insight into their tasks.
@@ -291,24 +291,18 @@ ORDER BY e.employee_id;`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-driving-engagement-and-growth-the-role-of-brand-in-youtube-success/"><u>[New] 2024 Approved Driving Engagement and Growth The Role of Brand in YouTube Success</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-unveiling-best-live-stream-tools-for-gamers/"><u>[New] 2024 Approved Unveiling Best Live-Stream Tools for Gamers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-progressive-procedure-masterful-method-with-applewatch/"><u>[Updated] Progressive Procedure Masterful Method with AppleWatch</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-top-10-facebook-video-platforms/"><u>[Updated] Unveiling the Top 10 Facebook Video Platforms</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/enhanced-with-cookiebot-technology/"><u>Enhanced with Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-5g-continues-to-thrive-amidst-startup-hurdles-insights-from-zdnet-analysis/"><u>How 5G Continues to Thrive Amidst Startup Hurdles: Insights From ZDNet Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-windows-10-keeps-restarting-issue-easily/"><u>How To Solve Windows 10 Keeps Restarting Issue Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/launch-of-apple-vision-pro-exploring-the-future-at-the-developers-conference-tech-news/"><u>Launch of Apple Vision Pro: Exploring the Future at the Developers Conference - Tech News</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-5-and-windows-combo-a-handy-guide-for-controllers/"><u>PlayStation 5 & Windows Combo: A Handy Guide for Controllers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-stanford-ai-innovation-the-demise-of-bulky-virtual-reality-gear-on-horizon/"><u>Revolutionary Stanford AI Innovation: The Demise of Bulky Virtual Reality Gear on Horizon</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-fitness-how-meta-quest-transformed-my-workout-routine-a-deep-dive-into-the-supernatural-app-experience/"><u>Revolutionize Your Fitness: How Meta Quest Transformed My Workout Routine - A Deep Dive Into the Supernatural App Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/samsung-delays-vr-headset-release-eyes-late-2024-launch-after-project-vision-pro-led-advancements/"><u>Samsung Delays VR Headset Release, Eyes Late 2024 Launch After Project Vision Pro LED Advancements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-mastering-the-art-of-returning-your-apple-vision-pro/"><u>Step-by-Step Guide: Mastering the Art of Returning Your Apple Vision Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-next-visionary-leap-how-qualcomms-alignment-with-google-and-samsung-is-shaping-future-mr-smart-glasses/"><u>The Next Visionary Leap: How Qualcomm's Alignment with Google and Samsung Is Shaping Future MR Smart Glasses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-the-workplace-with-xr-and-digital-twins-a-comprehensive-enterprise-strategy-for-enhanced-user-interaction-insights-by-zdnet/"><u>Transforming the Workplace with XR & Digital Twins: A Comprehensive Enterprise Strategy for Enhanced User Interaction - Insights by ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-test-asus-rog-rapture-gt-ax11000-for-gamers-experience-pinnacle-speed-and-features/"><u>Ultimate Test: Asus ROG Rapture GT-AX11000 for Gamers - Experience Pinnacle Speed & Features</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-infinix-note-30i-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Infinix Note 30i</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-magic-of-apples-ar-glasses-enthusiastic-insights-into-a-future-of-wearable-tech/"><u>Unveiling the Magic of Apple's AR Glasses: Enthusiastic Insights Into a Future of Wearable Tech</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-from-start-to-finish-cropping-and-editing-videos-with-avidemux-for-2024/"><u>Updated From Start to Finish Cropping and Editing Videos with Avidemux for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-top-igtv-gurus-you-cant-miss/"><u>[New] 2024 Approved Top IGTV Gurus You Can't Miss</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fearless-filming-mastering-your-first-10-clips/"><u>[New] In 2024, Fearless Filming Mastering Your First 10 Clips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-hololens-breakthrough-by-microsoft-a-3d-reality-revolution/"><u>[Updated] HoloLens Breakthrough by Microsoft – A 3D Reality Revolution</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>2024 Approved Black Hero 4 or Ghost-S Choosing the Best Motorsport Camera</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-video-editors-top-8-linux-picks/"><u>2024 Approved Ultimate Video Editors Top 8 Linux Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-sidekick-a-comparison-of-the-google-pixel-watch-vs-apple-watch-series-9/"><u>Choosing the Right Sidekick: A Comparison of the Google Pixel Watch Vs. Apple Watch Series 9</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-smart-responses-via-python-plus-gpt-3/"><u>Crafting Smart Responses via Python + GPT-3</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebooks-10-best-music-clips-making-them-happen/"><u>Facebook's 10 Best Music Clips Making Them Happen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-v29-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo V29 FRP Locks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-your-chatgpt-experience-on-macos/"><u>Optimizing Your ChatGPT Experience on macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/solving-six-frequent-vehicle-ai-system-implementation-problems/"><u>Solving Six Frequent Vehicle AI System Implementation Problems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/which-action-cam-wins-max-360-vs-hero-11-analysis/"><u>Which Action Cam Wins Max 360 vs Hero 11 Analysis</u></a></li>
 </ul></div>
 

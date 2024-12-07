@@ -1,7 +1,7 @@
 ---
 title: "AI's Potency Spectrum: From Strong to Weak Forms"
-date: 2024-11-24T16:24:13.484Z
-updated: 2024-11-27T16:03:23.952Z
+date: 2024-12-02T00:53:23.049Z
+updated: 2024-12-06T20:49:37.679Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Weak AI?
 
 ![ChatGPT chat and website open on two monitors](https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420be6c31ae58cdceea73012a33.jpg)
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  You might be wondering why this category of AI is referred to as "weak" AI. The term "weak" may mistakenly imply that these AI applications are lacking in some way. However, it is important to recognize that the rapid advancements in AI and their pervasive impact across various industries are largely due to narrow machine intelligence. The label "weak" indicates that these applications focus on a specific or narrow cognitive function.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Applications of Weak AI
@@ -72,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  However, despite these limitations, tools like ChatGPT have become effectively indispensable within a short period of public release.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Strong AI or AGI?
 
 ![Image of a white robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image-of-a-white-robot.jpg)
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  Despite the largely theoretical nature of AGI, it clearly has enormous potential.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Limitations of Strong AI
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  Given the world-changing potential of AGI, extensive regulation must be in place before any such product is released to the public. It's already been [difficult enough regulating generative AI](https://www.makeuseof.com/ways-government-may-regulate-ai-tools/), and AGI will ramp those issues up another notch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Differences Between Strong and Weak AI
@@ -134,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  In contrast, AGI mechanisms require extensive amounts of data to perform general duties, aiming to mimic the cognitive processes of the human mind. Consequently, AGIs employ data clustering and linking methods to process and analyze information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Approach for Problem-Solving
@@ -168,22 +168,20 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-exploring-the-hottest-stock-photos-and-their-journeys/"><u>[New] Exploring the Hottest Stock Photos & Their Journeys</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-1-to-5-of-windows-free-screen-capture-apps/"><u>[New] Unveiling the #1 to #5 of Windows Free Screen Capture Apps</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-channel-growth-essential-steps-for-youtube-backlink-creation/"><u>[Updated] Channel Growth Essential Steps for YouTube Backlink Creation</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-charting-the-course-through-facebooks-most-watched-vids/"><u>2024 Approved Charting the Course Through Facebook's Most Watched Vids</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-pioneering-the-igtv-landscape-uploading-expert-tips/"><u>2024 Approved Pioneering the IGTV Landscape Uploading Expert Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/adding-apple-music-a-guide-to-enhanced-videos/"><u>Adding Apple Music A Guide to Enhanced Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/articulate-your-intentions-five-voice-commands-for-gpt/"><u>Articulate Your Intentions: Five Voice Commands for GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/authenticator-openais-device-to-identify-fake-chatgpt-texts/"><u>Authenticator: OpenAI's Device to Identify Fake ChatGPT Texts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-predictive-ai-functionality-uncovered/"><u>Demystifying Predictive AI: Functionality Uncovered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fear-or-freedom-how-to-embrace-ai-for-todays-educators/"><u>Fear or Freedom? How to Embrace AI for Today's Educators</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-reduce-ai-hallucination-with-these-6-prompting-techniques/"><u>How to Reduce AI Hallucination With These 6 Prompting Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-youtube-to-animated-gifs-conversion-guide-online-tutorial-for-success/"><u>In 2024, Youtube to Animated GIFs Conversion Guide Online Tutorial for Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chatbot-revolution-creating-from-create-a-gpt-foundations/"><u>The ChatBot Revolution: Creating From Create a GPT Foundations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-eu-blueprint-on-ai-insights-into-chatgpt-evolution/"><u>The EU Blueprint on AI: Insights Into ChatGPT Evolution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-strategies-leveraging-chatgpt-skills-for-data-analysis/"><u>Top 6 Strategies: Leveraging ChatGPT Skills for Data Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ubuntu-terminal-power-up-using-shellgpt-for-gpt-conversations/"><u>Ubuntu Terminal Power-Up: Using ShellGPT for GPT Conversations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-ultimate-war-strategists-guide-selecting-top-7-total-war-challenges/"><u>[New] 2024 Approved The Ultimate War Strategists' Guide Selecting Top 7 Total War Challenges</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-perfect-places-to-procure-pixel-ringers-online/"><u>[Updated] 2024 Approved Perfect Places to Procure Pixel Ringers Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-chuckle-cache-uncovering-the-best-twitters-comedy-threads/"><u>[Updated] Chuckle Cache Uncovering the Best Twitters Comedy Threads</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/1-ultimate-guide-the-best-youtube-4k-converters-reviewed/"><u>1. Ultimate Guide: The Best YouTube 4K Converters Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-chatbots-set-to-replace-human-se-experts/"><u>Are Chatbots Set to Replace Human SE Experts?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/formulating-balanced-meal-plans-via-ai-help/"><u>Formulating Balanced Meal Plans via AI Help</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-dynamic-color-balance-helper/"><u>In 2024, Dynamic Color Balance Helper</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-air-m1-laptop-at-an-unbeatable-price-of-649-find-your-bargain-on-zdnet/"><u>MacBook Air M1 Laptop at an Unbeatable Price of $649 – Find Your Bargain on ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-cv-creation-with-chatgpt/"><u>Mastering CV Creation with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-scrutinized-in-legal-arena-by-silverman-and-fellow-creatives/"><u>OpenAI Scrutinized in Legal Arena by Silverman and Fellow Creatives</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-future-of-high-speed-connections-pci-sigs-latest-unveil-superior-copperlynk-cabling-for-the-upcoming-pcie-5and6-standards-anticipating-release-of-gen-7.106/"><u>The Future of High-Speed Connections: PCI-SIG's Latest Unveil - Superior CopperLynk Cabling for the Upcoming PCIe 5&6 Standards; Anticipating Release of Gen 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-protectors-for-the-new-iphone-16-and-iphone-16-pro-unbiased-reviews-by-tech-specialists-zdnet/"><u>Top-Rated Protectors for the New iPhone 16 & iPhone 16 Pro : Unbiased Reviews by Tech Specialists - ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/your-gameplay-our-archive-top-6-minecraft-recording-tactics-for-2024/"><u>Your Gameplay, Our Archive Top 6 Minecraft Recording Tactics for 2024</u></a></li>
 </ul></div>
 

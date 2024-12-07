@@ -1,7 +1,7 @@
 ---
 title: Breaking Down the EU Artificial Intelligence Act and Its Influence on GPT-Based Dialogue Systems
-date: 2024-11-25T17:07:30.918Z
-updated: 2024-11-27T16:03:47.334Z
+date: 2024-12-03T19:01:36.508Z
+updated: 2024-12-07T00:09:44.745Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the EU AI Act?
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
  While the EU AI Act has several objectives, its main aim is to somewhat reign in AI. This will be done by assessing the risk levels of AI systems, ensuring they follow EU laws, and enforcing transparency requirements for AI systems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Who Will Be Affected by the EU AI Act?
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 ![wooden court hammer on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/court-hammer-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While the EU AI Act is still in the works, there are concerns over how it will affect AI researchers, developers, and users within the EU.
@@ -74,12 +74,16 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
  Evidently, the scope is large, spanning the AI industry. Thousands of AI organizations may be affected by this act, including ChatGPT creator, OpenAI. This has led to contention between the EU and OpenAI CEO Sam Altman. In fact, Altman has threatened to pull OpenAI, and therefore ChatGPT, out of the EU because of it. So, why has he made such a striking statement?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Is Sam Altman Threatening to Pull ChatGPT From the EU?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
 
@@ -90,10 +94,6 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Altman hasn't outright stated that ChatGPT won't comply with these rules. In fact, the CEO would like to cooperate, but only if it is technically possible for OpenAI. [Time](https://time.com/6282325/sam-altman-openai-eu/) reports that Altman stated OpenAI would attempt to comply, but the company has criticized how the EU AI Act proposal is currently worded.
 
  Interestingly, this threat came shortly after [Altman advocated for further AI regulation within the US](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/) to mitigate the risks of AI development. We'll leave how that looks up to you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The EU's AI Act Could Alter AI Development
 
@@ -116,22 +116,22 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-dynamic-hues-the-artists-toolkit-for-change/"><u>[New] 2024 Approved Dynamic Hues The Artist's Toolkit for Change</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-novices-approach-to-acquiring-picture-frames/"><u>[Updated] 2024 Approved A Novice's Approach to Acquiring Picture Frames</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-ig-music-companion/"><u>[Updated] 2024 Approved The Ultimate IG Music Companion</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-sony-xperia-5-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Sony Xperia 5 V Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/activision-cybersecurity-breach-explored-whats-next-for-gaming-industry-giants/"><u>Activision Cybersecurity Breach Explored: What's Next for Gaming Industry Giants?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-face-off-my-snapchat-vs-bings-skype-bot/"><u>AI Face-Off: My Snapchat vs Bing's Skype Bot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breakthrough-in-accessibility-how-apples-latest-feature-enables-eye-gestures-to-command-your-ios-devices-analysis-by-zdnet/"><u>Breakthrough in Accessibility: How Apple's Latest Feature Enables Eye Gestures to Command Your iOS Devices | Analysis by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-distinctions-between-language-processors/"><u>Deciphering the Distinctions Between Language Processors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-efficiency-4-chatgpt-based-tactics-for-time-management/"><u>Enhancing Efficiency: 4 ChatGPT-Based Tactics for Time Management</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-microsoft-surface-go-a-budget-friendly-tablets-unique-quirks/"><u>Exploring the Microsoft Surface Go: A Budget-Friendly Tablet's Unique Quirks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gptclosedqs-reopening-schedule-pursuit/"><u>GPTClosedQs: Reopening Schedule Pursuit</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-crypto-conversations-via-gpt-3/"><u>Mastering Crypto Conversations via GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-apple-watch-endurance-with-our-expert-tips-on-key-configuration-tweaks/"><u>Maximize Apple Watch Endurance with Our Expert Tips on Key Configuration Tweaks</u></a></li>
-<li><a href="https://driver-install.techidaily.com/opengl-texture-mapping-steps/"><u>OpenGL Texture Mapping Steps</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-digital-artistry-an-in-depth-look-at-the-superior-quality-and-user-experience-with-huions-kamvas-gt-191-drawing-device/"><u>Revolutionizing Digital Artistry: An In-Depth Look at the Superior Quality and User Experience with Huion's Kamvas GT-191 Drawing Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-a-superior-mac-vpn-in-depth-testing-and-expert-analysis-by-zdnet/"><u>Ultimate Guide to Choosing a Superior Mac VPN: In-Depth Testing & Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-does-image-smoothing-streamline-the-creative-process/"><u>[New] Does Image Smoothing Streamline the Creative Process?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-building-a-professional-online-network-hub/"><u>[Updated] Building a Professional Online Network Hub</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-expert-advice-how-to-share-your-imovie-videos-on-vimeo/"><u>2024 Approved Expert Advice How to Share Your iMovie Videos on Vimeo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-recent-showcase-of-ai-innovations-what-we-didnt-see-but-could-expect-in-the-future-zdnet/"><u>Apple's Recent Showcase of AI Innovations - What We Didn't See, but Could Expect in the Future? | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-the-new-m4-powered-mac-mini-compete-with-a-tiny-form-factor-like-apple-tv-insights-from-zdnet/"><u>Can the New M4-Powered Mac Mini Compete with a Tiny Form Factor Like Apple TV? - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/illusory-botnet-adapter-steals-on-facebook-username-and-password/"><u>Illusory Botnet Adapter: Steals on Facebook Username & Password</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-virtual-escapes-tour-techniques/"><u>In 2024, Navigating Virtual Escapes Tour Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-apple-ignoring-customer-needs-by-not-offering-iphone-cases-we-demand-attention/"><u>Is Apple Ignoring Customer Needs by Not Offering iPhone Cases? We Demand Attention!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-linksys-security-a-comprehensive-compilation-of-default-passwords-and-usernames/"><u>Navigating Linksys Security : A Comprehensive Compilation of Default Passwords and Usernames</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oneplus-12-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from OnePlus 12</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/restore-clean-communication-in-virtual-meetings/"><u>Restore Clean Communication in Virtual Meetings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tactical-defenses-against-fraudgpt-your-cybersecurity-companion/"><u>Tactical Defenses Against FraudGPT: Your Cybersecurity Companion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-blueprint-for-capturing-compelling-powerpoint-presentations-for-2024/"><u>The Blueprint for Capturing Compelling PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727789295610-top-ranking-mac-software-a-comprehensive-guide-by-zdnet/"><u>Top-Ranking Mac Software : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-ios-15-find-out-eligible-iphone-models-and-begin-your-download-today/"><u>Unlocking iOS 15: Find Out Eligible iPhone Models & Begin Your Download Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-iphone-15-excels-in-meeting-demands-of-seasoned-users-in-depth-review-experts/"><u>Why the iPhone 15 Excels in Meeting Demands of Seasoned Users | In-Depth Review Experts</u></a></li>
 </ul></div>
 

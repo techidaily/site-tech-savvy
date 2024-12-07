@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 Pros: The Ultimate Copilot Experience"
-date: 2024-11-25T17:12:19.174Z
-updated: 2024-11-27T16:50:01.376Z
+date: 2024-12-02T19:39:33.181Z
+updated: 2024-12-06T22:19:45.258Z
 tags:
   - chatgpt
   - open-ai
@@ -27,12 +27,16 @@ thumbnail: https://thmb.techidaily.com/38deee1fec1c0bec7cba4dcb61a1033e4c5fd684f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is GPT-4 Turbo?
 
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
 
@@ -42,6 +46,10 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
@@ -50,25 +58,17 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing **Win + C**. Or, if you're lucky enough to own a [laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/), just press that to bring up the assistant at any time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you don't have a Copilot button yet or use a different operating system, you can still use the [Copilot website](https://copilot.microsoft.com/). Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
@@ -79,7 +79,7 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
@@ -107,18 +107,24 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-auditory-aspects-in-inshot-video-creation-for-2024/"><u>[New] Auditory Aspects in InShot Video Creation for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-mastering-multimedia-adding-apple-music-to-videos-for-2024/"><u>[New] Mastering Multimedia Adding Apple Music to Videos for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-mastering-snapchat-flip-your-videos-backwards/"><u>[New] Mastering Snapchat Flip Your Videos Backwards</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-effortless-media-incorporation-youtube-to-slides-for-2024/"><u>[Updated] Effortless Media Incorporation YouTube to Slides for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-mac-content-for-snapchat-compatibility/"><u>[Updated] Mastering Mac Content for Snapchat Compatibility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/code-assistants-clash-github-copilot-vs-chatgpt-battle/"><u>Code Assistants Clash: GitHub Copilot Vs. ChatGPT Battle</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descargue-y-convierta-archivos-swf-en-mp4-sin-costo-con-el-convertidor-de-video-online-libre-de-movavi/"><u>Descargue Y Convierta Archivos SWF en MP4 Sin Costo Con El Convertidor De Video Online Libre De Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-your-next-favorite-film-with-ai-guidance/"><u>Discover Your Next Favorite Film with AI Guidance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/effortless-media-transformation-with-leading-clipconverter-replacements/"><u>Effortless Media Transformation with Leading ClipConverter Replacements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-alert-apple-issues-fresh-advisory-on-rogue-cyber-arms-threats-is-your-device-at-risk/"><u>IPhone Alert: Apple Issues Fresh Advisory on Rogue Cyber Arms Threats – Is Your Device at Risk?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-new-territory-add-ons-in-your-chatgpt-experience/"><u>Navigating New Territory: Add-Ons in Your ChatGPT Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-kid-friendly-ipad-picks-techradar/"><u>Top 5 Kid-Friendly iPad Picks | TechRadar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unbiased-comparison-the-leading-alternative-to-apple-and-tiles-wallet-airtags-revealed/"><u>Unbiased Comparison: The Leading Alternative to Apple & Tile's Wallet AirTags Revealed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-melodic-memory-bank-save-and-analyze-music-files-for-2024/"><u>[New] Melodic Memory Bank Save & Analyze Music Files for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-seasons-skate-top-10-2022-review/"><u>2024 Approved Season's Skate Top 10 - 2022 Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-recruitment-tips-navigating-linkedin-with-10-helpful-insights/"><u>AI-Driven Recruitment Tips: Navigating LinkedIn with 10 Helpful Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210292820-9781645156260-beyond-yourself/"><u>Beyond Yourself | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-upgraded-evolution-of-apples-airpod-lineup-the-4-most-notable-features-revealed-zdnet/"><u>Explore the Upgraded Evolution of Apple's AirPod Lineup - The 4 Most Notable Features Revealed | ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100t to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-passport-photos-made-simple-10-free-high-quality-images-available/"><u>In 2024, Passport Photos Made Simple 10 Free, High-Quality Images Available</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-precision-cutting-on-iphone-best-practices-and-apps/"><u>In 2024, Precision Cutting on iPhone Best Practices and Apps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-honor-x50iplus-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Honor X50i+ FRP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/individualism-at-the-forefront-gpts-unique-command-features/"><u>Individualism at the Forefront: GPT's Unique Command Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-claudes-realm-accelerating-innovation-and-efficiency/"><u>Inside Claude's Realm: Accelerating Innovation and Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-mind-of-gpt4all-working-details/"><u>Inside the Mind of GPT4All: Working Details</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-apple-pay-usage-a-guide-for-in-store-and-e-commerce-transactions-expert-tips-from-zdnet/"><u>Mastering Apple Pay Usage: A Guide for In-Store and E-Commerce Transactions - Expert Tips From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/silence-running-apps-on-windows-11/"><u>Silence Running Apps on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-setting-up-multiple-network-interfaces-on-macos-for-enhanced-connectivity-options/"><u>Step-by-Step Guide: Setting Up Multiple Network Interfaces on macOS for Enhanced Connectivity Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-remedy-fixing-joy-con-connection-errors-in-nintendo-switch/"><u>Swift Remedy: Fixing Joy-Con Connection Errors in Nintendo Switch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-sleuths-guide-to-authentic-chatai-in-apple-store/"><u>The Sleuth's Guide to Authentic ChatAI in Apple Store</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-lava-yuva-3-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Lava Yuva 3 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-bing-ai-chat-in-android-keyboard-technology/"><u>Unveiling the Power of Bing AI Chat in Android Keyboard Technology</u></a></li>
 </ul></div>
 

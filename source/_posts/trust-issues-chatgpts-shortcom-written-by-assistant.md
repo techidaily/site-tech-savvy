@@ -1,7 +1,7 @@
 ---
 title: "Trust Issues: ChatGPT's Shortcom Written by Assistant"
-date: 2024-11-26T16:41:14.637Z
-updated: 2024-11-27T16:44:00.688Z
+date: 2024-12-02T18:36:12.281Z
+updated: 2024-12-06T18:58:49.048Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. ChatGPT Has Limited Knowledge
 
 ![Pig-to-heart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pig-to-heart.jpg)
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  Therefore, it cannot get current news on developments in medical fields. Yes, ChatGPT is unaware of the pig-to-human heart transplant or any other very recent breakthroughs in medical science.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. ChatGPT May Produce Incorrect Information
@@ -50,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  Because ChatGPT cannot independently research or verify material, it cannot differentiate between fact and fiction. Respected medical journals, including the Journal of the American Medical Association (JAMA), have established strict regulations that only humans can write scientific studies published in the journal. As a result, [you should constantly fact-check ChatGPT's responses](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. ChatGPT Does Not Physically Examine You
 
  Medical diagnoses are not solely dependent on symptoms. Physicians can gain insights into the pattern and severity of an illness through a patient's physical examination. In order to diagnose patients, doctors today use both medical technologies and the five senses.
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  ChatGPT cannot perform a complete virtual checkup or even a physical examination; it can only reply to the symptoms you provide as messages. For a patient's safety and care, errors in physical examination—or completely ignoring physical examination—can be harmful. Because ChatGPT didn't physically examine you, it will offer an incorrect diagnosis.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. ChatGPT Can Provide False Information
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. ChatGPT Is Just an AI Language Model
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Not a Replacement for Your Doctor
@@ -117,24 +117,15 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensible-guide-to-efficient-zoom-capturing/"><u>[New] Comprehensible Guide to Efficient Zoom Capturing</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/niting-content-creators-microphones-that-speak-to-every-yt-style-and-genre-for-2024/"><u>[New] Uniting Content Creators Microphones That Speak to Every YT Style and Genre for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-metaverse-maps-drawn-understanding-through-6-vivid-scenarios/"><u>2024 Approved Metaverse Maps Drawn Understanding Through 6 Vivid Scenarios</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/best-zero-cost-uhd-media-software-featuring-h265-hevc-encoding-compatible-with-windows-10macos-expert-reviews-for-2020/"><u>Best Zero Cost UHD Media Software Featuring H.265 HEVC Encoding Compatible with Windows 10/MacOS - Expert Reviews for 2020</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cd-revival-why-physical-music-formats-are-making-a-comeback/"><u>CD Revival: Why Physical Music Formats Are Making a Comeback</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/deciphering-lgs-4k-innovations-through-a-detailed-review/"><u>Deciphering LG's 4K Innovations Through a Detailed Review</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-gigabytes-upcoming-marvel-the-gold-encased-intel-xtreme-aorus-z790-motherboard-with-giant-cooling-features/"><u>Discover Gigabyte's Upcoming Marvel - The Gold Encased Intel Xtreme Aorus Z790 Motherboard with Giant Cooling Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-enable-ad-free-emails-in-gmail-with-one-easy-hack-the-surprising-twist-you-should-know-techsavvy/"><u>How to Enable Ad-Free Emails in Gmail with One Easy Hack: The Surprising Twist You Should Know | TechSavvy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-unlink-programs-from-your-google-drive-account-a-comprehensive-tutorial/"><u>How To Unlink Programs From Your Google Drive Account - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-nokia-130-music-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Nokia 130 Music Device</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-razer-blade-stealth-n-redefining-thin-and-light-laptop-excellence/"><u>In-Depth Analysis of the Razer Blade Stealth N - Redefining Thin and Light Laptop Excellence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-the-innovative-bike-suv-a-revolutionary-alternative-to-cars-discover-the-unexpected/"><u>Is the Innovative 'Bike SUV': A Revolutionary Alternative to Cars? Discover the Unexpected!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/labor-day-savings-alert-score-a-24-discount-on-walmarts-apple-airtag-four-pack-deal-insights-from-zdnet/"><u>Labor Day Savings Alert: Score a $24 Discount on Walmart's Apple AirTag Four-Pack Deal | Insights From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/managing-generative-ai-expectations-top-5-strategies-for-cios-insights-from-zdnet/"><u>Managing Generative AI Expectations: Top 5 Strategies for CIOs - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-efficient-data-management-using-premade-tables-in-google-sheets-according-to-experts-at-zdnet/"><u>Master the Art of Efficient Data Management Using Premade Tables in Google Sheets, According to Experts at ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-pop-up-allowance-adjusting-settings-in-mozilla-firefox-zdnet-guide/"><u>Mastering Pop-Up Allowance: Adjusting Settings in Mozilla Firefox (ZDNet Guide)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-making-and-inspecting-google-doc-outlines-expert-tips/"><u>Mastering the Art of Making & Inspecting Google Doc Outlines: Expert Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-recruitment-game-how-influential-business-leaders-unlock-attraction-of-premier-tech-talent-expert-tips-on-zdnet/"><u>Mastering the Recruitment Game: How Influential Business Leaders Unlock Attraction of Premier Tech Talent – Expert Tips on ZDNET</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-guide-to-screenflow-pros-mac-edition/"><u>[New] The Ultimate Guide to ScreenFlow Pro's Mac Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-celebrating-the-best-top-stop-motion-films-of-all-times/"><u>[Updated] Celebrating the Best Top Stop-Motion Films of All Times</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-free-online-cinemas-a-guide-to-12-popular-choices/"><u>Best Free Online Cinemas: A Guide to 12 Popular Choices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boundaries-of-ai-the-unanswerable-list/"><u>Boundaries of AI: The Unanswerable List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhanced-sound-experience-lgs-latest-free-audio-enhancement-a-hit-among-apple-fans/"><u>Enhanced Sound Experience: LG's Latest Free Audio Enhancement - A Hit Among Apple Fans!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/narrative-nuance-and-conflict-creation-with-gpts-9-strategies/"><u>Narrative Nuance and Conflict Creation with GPT's 9 Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-googles-artificial-intelligence-project-the-gemini-pursuit/"><u>Understanding Google's Artificial Intelligence Project - The Gemini Pursuit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionaries-converge-globally-minded-perspectives-on-ai/"><u>Visionaries Converge: Globally-Minded Perspectives on AI</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/win-81-media-converter-tools-available-for-free-discover-handbrake-and-more/"><u>Win 8.1 Media Converter Tools Available for Free: Discover HandBrake and More!</u></a></li>
 </ul></div>
 

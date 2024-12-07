@@ -1,7 +1,7 @@
 ---
 title: "AI Renaissance: Discover How GPT’s New Features Elevate Us"
-date: 2024-09-10T16:01:43.111Z
-updated: 2024-09-17T16:20:17.825Z
+date: 2024-12-01T00:24:14.417Z
+updated: 2024-12-06T18:05:42.178Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/47328e721f28970d7edb2a0d9d90e472269e175fd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Image Input and Output Capabilities](https://parisrhonecom.sjv.io/zqobqr)
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/47328e721f28970d7edb2a0d9d90e472269e175fd
 * [Multi-Modal Voice and Video Interactions](https://aligracehair.sjv.io/y209r3)
 * [Upgraded Code Analysis](https://appsumo.8odi.net/gmezyk)
 * [Temporary Chat](https://copa.sjv.io/6eoowq)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/47328e721f28970d7edb2a0d9d90e472269e175fd
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -71,16 +83,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
@@ -88,10 +91,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
@@ -120,13 +120,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
  Temporary Chat is available to both Plus and Free tier users. You can access it through the model drop-down menu by selecting the Temporary Chat option. Once activated, you can now enjoy a private and non-persistent chat experience.
@@ -146,5 +139,18 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-pursuit-of-perfection-zooming-into-high-quality-video/"><u>[Updated] Pursuit of Perfection Zooming Into High-Quality Video</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-leading-airtag-wallets-ranked-by-professionals-find-your-perfect-match/"><u>2024'S Leading AirTag Wallets Ranked by Professionals: Find Your Perfect Match</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-silent-writing-slip-shadows/"><u>GPT's Silent Writing Slip Shadows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-12-pro-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-a79-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo A79 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-air-face-off-exploring-the-pros-and-cons-of-apples-m3-and-m2-models/"><u>MacBook Air Face-Off: Exploring the Pros and Cons of Apple's M3 & M2 Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-apple-watch-lifespan-8-essential-settings-to-extend-battery-duration/"><u>Maximizing Apple Watch Lifespan: 8 Essential Settings to Extend Battery Duration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/paragon-customer-communications-embraces-abbyys-intelligent-automation-for-a-revolutionary-digital-shift/"><u>Paragon Customer Communications Embraces ABBYY's Intelligent Automation for a Revolutionary Digital Shift</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-thumbnails-for-maximum-youtube-impact-for-2024/"><u>Tailoring Thumbnails for Maximum YouTube Impact for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-se-2022-cases-ultimate-protection-and-style-techradar/"><u>Top-Rated iPhone SE 2022 Cases: Ultimate Protection & Style | TechRadar</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshoot-your-video-only-audio-glitch-in-windows-media-player-using-our-quick-methods/"><u>Troubleshoot Your Video-Only Audio Glitch in Windows Media Player Using Our Quick Methods</u></a></li>
+</ul></div>
 

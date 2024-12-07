@@ -1,7 +1,7 @@
 ---
 title: Structuring Healthful Eating Routines With ChatGPT
-date: 2024-11-24T16:56:25.327Z
-updated: 2024-11-27T16:18:03.567Z
+date: 2024-12-06T01:11:46.097Z
+updated: 2024-12-06T19:04:04.224Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
 
  ChatGPT can indeed help you create a healthy meal plan. In fact, it can help you create anything you’d like, even an unhealthy meal plan. But before you use ChatGPT to help you build your meal plan, there are several factors of your meal plan you need to figure out first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Meal Plan Preferences
 
  First, you have to decide on what your goals are. Are you meal planning to lose weight, maintain your weight, or [gain weight in a healthy way](https://www.makeuseof.com/weight-gain-apps/)? Secondly, do you have any specific food preferences, allergies, or restrictions?
@@ -56,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
 
 ![ChatGPT AI chatbot online tool TDEE BMR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tdee-bmr.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve decided on those particulars of your healthy meal plan, you can use ChatGPT to help with your basal metabolic rate (BMR) and total daily energy expenditure (TDEE)—if you don't already know. TDEE is an estimate of your total calories burned daily.
 
  BMR is the energy your body uses while at rest. Knowing these numbers is important to your particular goals. All you have to do is type "**How do I calculate my TDEE and BMR?**" into ChatGPT, and it automatically generates the needed equations and formulas.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use ChatGPT to Create a Healthy Meal Plan
@@ -78,15 +70,15 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
 
 ![chatgpt AI chatbot online tool meal plan example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-meal-plan-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here are some examples of prompts you can type into ChatGPT to help you build a healthy meal plan. A healthy meal plan is different for everyone, so always add as many or as few details as you want.
 
 * Five-day vegan meal plan for weight loss that serves two adults with three meals per day, has a 30-minute cook time, costs $10 per meal, and contains 1800 calories per day.
 * Two-week vegetarian meal plan that caters to nut allergies, serves one, and includes three meals per day. No more than one hour of cooking time with an included grocery list.
 * One-week meal plan with three meals, one snack, and no dietary restrictions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Problems With ChatGPT Meal Plans
 
@@ -99,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
  This can result in spending an enormous amount of money on groceries and lots of extra unused ingredients.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Better Meal Planning Alternatives to ChatGPT
@@ -109,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
  The [SideChef app can help you meal plan better](https://www.makeuseof.com/review-sidechef-app-meal-plan-eat-healthier/) and eat healthier. It is an app that creates a meal plan based on your dietary restrictions, cooking goal, serving size, and ingredients to avoid.
 
 ![SideChef meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-meal-plan-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![SideChef preferences mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-preferences.jpg)
 
@@ -127,6 +123,10 @@ Close
 ![Eat this much meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-meal-plan.jpg)
 
 ![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -155,18 +155,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-leveraging-past-conversations-on-twitter-for-2024/"><u>[New] Leveraging Past Conversations on Twitter for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-revolutionary-approaches-to-share-fb-videos-on-whatsapp/"><u>[New] Revolutionary Approaches to Share FB Videos on WhatsApp</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-five-revolutionary-facebook-enhancements/"><u>[Updated] 2024 Approved Top Five Revolutionary Facebook Enhancements</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-navigating-the-world-of-hulu-recordings-windowsmaciosandroid/"><u>[Updated] In 2024, Navigating the World of Hulu Recordings Windows/Mac/iOS/Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/799-deal-alert-grab-the-compact-anker-portable-charger-from-zdnet-now/"><u>$799 Deal Alert! Grab the Compact Anker Portable Charger From ZDNET Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/amazing-deal-alert-unboxing-the-ring-spotlight-cam-pro-special-offer-this-labor-day-tech-insights/"><u>Amazing Deal Alert: Unboxing the Ring Spotlight Cam Pro - Special Offer This Labor Day! | Tech Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-communication-devices-for-outdoor-enthusiasts-the-top-walkie-talkies-of-2022-zdnets-picks/"><u>Best Communication Devices for Outdoor Enthusiasts - The Top Walkie-Talkies of 2022, ZDNet's Picks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-workspace-with-these-5-exceptional-indoor-plants-a-guide-from-zdnet/"><u>Boost Your Workspace with These 5 Exceptional Indoor Plants: A Guide From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-most-exceptional-2022-inflatable-kayaks-as-featured-by-zdnet-a-comprehensive-guide/"><u>Discover the Most Exceptional 2022 Inflatable Kayaks as Featured by ZDNet: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-common-steam-errors-in-windows-11/"><u>Fixing Common Steam Errors in Windows 11</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-12-mini-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 12 mini without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fundamental-steps-for-transforming-pins-into-audios/"><u>In 2024, Fundamental Steps for Transforming Pins Into Audios</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-surprising-discovery-the-power-of-ring-spotlight-cam-pro-unveiled/"><u>ZDNet's Surprising Discovery: The Power of Ring Spotlight Cam Pro Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-harnessing-instagrams-power-for-financial-gain/"><u>[Updated] 2024 Approved Harnessing Instagram's Power for Financial Gain</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-optimal-tools-for-educators-lesson-archiving/"><u>2024 Approved Optimal Tools for Educator's Lesson Archiving</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-innovators-clash-chatgpt-against-google-bards-brainpower/"><u>AI Innovators Clash: ChatGPT Against Google Bard's Brainpower</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-privacy-landscape-explored/"><u>ChatGPT's Privacy Landscape Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparison-gpt-vs-bing-bot-top-10-distinctions/"><u>Comparison: GPT Vs. Bing Bot - Top 10 Distinctions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generating-new-ways-with-kids-and-parents/"><u>Generating New Ways with Kids & Parents</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-lava-blaze-pro-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Lava Blaze Pro 5G Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-microsoft-edge-icons-regularity/"><u>How to Halt Microsoft Edge Icons' Regularity</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-camera-review-the-ultimate-guide-to-best-videographics/"><u>In 2024, Camera Review - The Ultimate Guide to Best Videographics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-canva-and-gpt-for-rapid-design-output/"><u>Mastering Canva & GPT for Rapid Design Output</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-for-securely-exporting-chatgpt-interactions/"><u>Tips for Securely Exporting ChatGPT Interactions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-compilation-winning-16-free-media-players/"><u>Ultimate Compilation Winning 16 Free Media Players</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/windows-10-dvd-drive-recognition-issue-completed-solution/"><u>Windows 10 DVD Drive Recognition Issue - Completed Solution</u></a></li>
 </ul></div>
 

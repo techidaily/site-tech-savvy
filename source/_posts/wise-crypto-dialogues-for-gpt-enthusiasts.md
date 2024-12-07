@@ -1,7 +1,7 @@
 ---
 title: Wise Crypto Dialogues for GPT Enthusiasts
-date: 2024-09-10T16:09:31.065Z
-updated: 2024-09-17T16:13:14.649Z
+date: 2024-12-04T22:18:54.542Z
+updated: 2024-12-06T20:51:37.722Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/e4213c5e4c86e998d9e846588016dba7deca4bf69
 * **Result**:  
 ![Screenshot of ChatGPT showing how to do advanced trading](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/learn-to-do-advanced-trading.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whenever you want to upgrade your skills, you easily get overwhelmed with every detail you must consider. In this case, the prompt will help you narrow down these details, so you can focus on the most important aspects.
 
 ## 3\. Summarize a Whitepaper
@@ -54,13 +58,14 @@ thumbnail: https://thmb.techidaily.com/e4213c5e4c86e998d9e846588016dba7deca4bf69
 * **Result**:  
 ![Screesnhot of ChatGPT Summarizing a Whitepaper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/summarizing-a-whitepaper.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With many crypto projects in the market, you don't want to spend thousands of hours going through endless whitepapers. Use this prompt to summarize any crypto whitepaper and get a quick, firm grasp of what the project entails.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Review Smart Contracts
@@ -74,40 +79,13 @@ thumbnail: https://thmb.techidaily.com/e4213c5e4c86e998d9e846588016dba7deca4bf69
 
  This is perhaps one of the most ingenious ways to use ChatGPT in crypto. Considering the many scams in the industry, it's wise to complete a technical analysis of every smart contract you wish to use or participate in. Paste the smart contract into ChatGPT and let it tell you if it's malicious.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Get Crypto Terms Explanations
 
 * **Prompt**: Help me understand Zk Rollups. Tell me what they are, how they work, and their benefits and concerns, and list a few examples. Also, how will they impact the blockchain industry in general? Ensure your explanation is simple, clear, and well-structured.
 * **Result**:  
 ![Screenshot of ChatGPT offering Crypto Terms Explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-crypto-terms-explanations.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The cryptocurrency industry is fast evolving. A few years back, we thought Bitcoin's only use was as a store of value and currency. Today courtesy of [Bitcoin ordinals](https://www.makeuseof.com/what-are-bitcoin-ordinals-how-differ-from-nfts/), Bitcoin can now support NFTs. Often, you'll come across many such crypto terms that need some explaining, and this prompt helps you to understand them better.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Make Investment Strategies
 
@@ -117,20 +95,21 @@ thumbnail: https://thmb.techidaily.com/e4213c5e4c86e998d9e846588016dba7deca4bf69
 
  If you want to take control of your financial future and have chosen cryptocurrency as the tool for growth, ChatGPT can be a great companion. This prompt, for instance, can help you get started with crypto staking the safest way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Create a "Getting Started" Plan
 
 * **Prompt**: I want to learn how to code in Solidity. I have a coding background in HTML, CSS, and JavaScript languages. However, it's been three years since I last coded. I need a personalized step-by-step plan to help me get started with Solidity and master it in 6 months. Include essential resources, recommended online courses, best practices, and practical coding exercises to build a strong foundation in developing smart contracts on the Ethereum blockchain. Additionally, include tips on debugging and common pitfalls to help me navigate the learning process smoothly.
 * **Result**:  
 ![Screenshot of ChatGPT Creating A Getting Started Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-a-getting-started-plan.jpg)
 
- The crypto industry is growing, and more professionals will be needed to help develop solutions. So, if you need a guide on how to get started with anything in crypto, this prompt (or similar) can get ChatGPT to design a great plan specifically for you.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The crypto industry is growing, and more professionals will be needed to help develop solutions. So, if you need a guide on how to get started with anything in crypto, this prompt (or similar) can get ChatGPT to design a great plan specifically for you.
 
 ## 8\. Brainstorm Token Project Ideas
 
@@ -157,7 +136,15 @@ thumbnail: https://thmb.techidaily.com/e4213c5e4c86e998d9e846588016dba7deca4bf69
 * **Result**:  
 ![Screenshot of ChatGPT Role-play Vitalik Buterin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/role-play-anyone-for-their-crypto-opinion.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Yes, you can have fun with ChatGPT too. This prompt exemplifies how you can turn ChatGPT into a crypto thought leader and get their opinion without DMing them on social media. You can even go further and generate a conversation with two personalities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Crypto Prompts Are Like Cheat Codes
 
@@ -184,5 +171,26 @@ thumbnail: https://thmb.techidaily.com/e4213c5e4c86e998d9e846588016dba7deca4bf69
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-scouting-the-best-screenshot-and-recorders-of-today/"><u>[Updated] 2024 Approved Scouting the Best Screenshot & Recorders of Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-video-quality-with-apple-music-addition/"><u>[Updated] Unlock Video Quality with Apple Music Addition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-video-content-free-downloader-apps-guide/"><u>[Updated] Unlocking Video Content Free Downloader Apps Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delve-into-ais-directive-abilities-with-custom-chatgpt-commands/"><u>Delve Into AI's Directive Abilities with Custom ChatGPT Commands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/groundbreaking-dialogue-strategies-with-ai/"><u>Groundbreaking Dialogue Strategies with AI</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guide-pour-creer-un-disque-de-demarrage-windows-11-avec-une-cle-usb-comment-faire-du-pe-win/"><u>Guide Pour Créer Un Disque De Démarrage Windows 11 Avec Une Clé USB : Comment Faire Du PE WIN</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-zoomjoint-reporting/"><u>In 2024, ZoomJoint Reporting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personal-project-excellence-via-innovative-ai-tech/"><u>Personal Project Excellence via Innovative AI Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-into-the-rights-behind-machine-made-masterpieces/"><u>Probing Into the Rights Behind Machine-Made Masterpieces</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-installation-get-the-latest-amd-radeon-rx-6800-xt-drivers-now/"><u>Seamless Installation: Get the Latest AMD Radeon RX 6800 XT Drivers Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-copy-today-apple-vision-pro-available-in-512gb-and-1tb-get-the-details/"><u>Secure Your Copy Today: Apple Vision Pro Available in 512GB & 1TB - Get the Details</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/selective-superiority-is-gemini-or-chatgptplus-best/"><u>Selective Superiority: Is Gemini or ChatGPT+ Best?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplified-guide-swiftly-moving-your-macbook-data-surprisingly-straightforward-methods-revealed/"><u>Simplified Guide: Swiftly Moving Your MacBook Data - Surprisingly Straightforward Methods Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-latest-upgrade-for-photography-enthusiasts-exploring-iphone-ns-revolutionary-camera-button-gadget-digest/"><u>The Latest Upgrade for Photography Enthusiasts: Exploring iPhone N's Revolutionary Camera Button | Gadget Digest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-reasons-why-upgrading-to-an-iphone-16-pro-is-not-necessary-for-iphone-14-users-perspective/"><u>Top 4 Reasons Why Upgrading to an iPhone 16 Pro Is Not Necessary for iPhone 14 Users Perspective</u></a></li>
+<li><a href="https://discover-community.techidaily.com/ultimate-guide-to-the-leading-dji-4k-video-editor-tools-for-windows-and-mac-202n-edition/"><u>Ultimate Guide to the Leading DJI 4K Video Editor Tools for Windows & Mac - 202N Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unleash-gaming-potential-using-obs-recording-features-for-2024/"><u>Unleash Gaming Potential - Using OBS Recording Features for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-final-cut-pro-x-crashing-heres-the-ultimate-fix-for-2024/"><u>Updated Final Cut Pro X Crashing? Heres the Ultimate Fix for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/visual-mastery-top-rated-edit-corrections/"><u>Visual Mastery: Top-Rated Edit Corrections</u></a></li>
+</ul></div>
 

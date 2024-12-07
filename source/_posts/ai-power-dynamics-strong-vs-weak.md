@@ -1,7 +1,7 @@
 ---
 title: "AI Power Dynamics: Strong Vs. Weak"
-date: 2024-11-24T16:11:36.103Z
-updated: 2024-11-27T17:02:20.267Z
+date: 2024-11-29T23:25:43.878Z
+updated: 2024-12-07T00:14:50.135Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
  You might be wondering why this category of AI is referred to as "weak" AI. The term "weak" may mistakenly imply that these AI applications are lacking in some way. However, it is important to recognize that the rapid advancements in AI and their pervasive impact across various industries are largely due to narrow machine intelligence. The label "weak" indicates that these applications focus on a specific or narrow cognitive function.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Applications of Weak AI
 
  ChatGPT, Midjourney, Stable Diffusion, DALL-E, and Bard are just a few examples of the AI tools that took the world by storm in 2022 and 2023\. It is remarkable that so many [professions are utilizing their widespread application](http://www.makeuseof.com/how-different-professions-using-ai/), even sparking debates about the potential for AI to replace humans and leaving many of us with the question, "[Can ChatGPT replace me?](http://www.makeuseof.com/can-chatgpt-replace-me/)"
@@ -72,19 +68,23 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
  However, despite these limitations, tools like ChatGPT have become effectively indispensable within a short period of public release.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Strong AI or AGI?
 
 ![Image of a white robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image-of-a-white-robot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In contrast to weak AI exists strong AI, also known as artificial general intelligence (AGI). This form of AI is based on the belief that computational power can emulate human brain capabilities, including analytical thinking and other intellectual abilities. Strong AI aims to create machines capable of performing any intellectual task that a human can do, not necessarily in the same way as humans.
 
  Unlike weak AI, strong AI does not rely on specific programmed models for performing narrow tasks. Instead, it possesses the potential to handle general tasks by simulating human brain functions. AGI has the ability to enable technological systems to evolve over time and adapt to changes in the environment.
 
  It will be strong AI that will likely lead to the singularity. However, it is important to note that strong AI is still a distant goal, as much of the work in this field remains largely theoretical. The concept of strong AI itself often draws inspiration from science fiction movies and novels.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Applications of Strong AI
 
@@ -98,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
  Despite the largely theoretical nature of AGI, it clearly has enormous potential.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Limitations of Strong AI
 
  Strong AI or AGI has the potential to be transformative for our society. However, several considerations and challenges must be addressed when implementing such systems.
@@ -114,12 +110,16 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
  Given the world-changing potential of AGI, extensive regulation must be in place before any such product is released to the public. It's already been [difficult enough regulating generative AI](https://www.makeuseof.com/ways-government-may-regulate-ai-tools/), and AGI will ramp those issues up another notch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Differences Between Strong and Weak AI
 
  There are several notable differences between strong and weak AI in terms of their purpose, learning method, and problem-solving approach. Let's explore these distinctions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Purpose
 
@@ -127,15 +127,15 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
  On the other hand, strong AI systems, though hypothetical, aim to mimic the functioning of the human brain. These systems can arguably possess self-awareness, consciousness, and analytical capabilities, enabling them to undertake a wide range of general tasks, much like humans.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Learning Method
 
  Narrow AI and AGI systems also diverge in their learning methods. Narrow AI relies on specific datasets to learn patterns and perform repetitive tasks. Typically, weak AI processes data by classifying it based on predetermined criteria.
 
  In contrast, AGI mechanisms require extensive amounts of data to perform general duties, aiming to mimic the cognitive processes of the human mind. Consequently, AGIs employ data clustering and linking methods to process and analyze information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Approach for Problem-Solving
 
@@ -168,24 +168,18 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/apple-reveals-how-deleted-images-return-with-ios-175-update-and-next-steps-explained-zdnet/"><u>Apple Reveals How Deleted Images Return with iOS 17.5 Update & Next Steps Explained | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-between-web-and-ai-with-agentgpt/"><u>Bridging the Gap Between Web & AI – With AgentGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cease-receiving-junk-text-alerts-a-user-friendly-guide-to-stop-spam-sms-on-iphones-in-just-three-steps/"><u>Cease Receiving Junk Text Alerts: A User-Friendly Guide to Stop Spam SMS on iPhones in Just Three Steps</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/come-duplicare-una-partizione-di-windows-11-su-unssd-utilizzando-tecniche-avanzate/"><u>Come Duplicare Una Partizione Di Windows 11 Su Un'SSD Utilizzando Tecniche Avanzate</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-ai-slang-keywords-everyone-should-know/"><u>Demystifying AI Slang: Keywords Everyone Should Know</u></a></li>
-<li><a href="https://blog-min.techidaily.com/download-winx-dvd-ripping-software-free-tool-for-high-quality-dvd-extraction-in-multiple-formats-including-mp4-and-avi-for-smartphones-and-tablets/"><u>Download WinX DVD Ripping Software: Free Tool for High-Quality DVD Extraction in Multiple Formats Including MP4 and AVI for Smartphones and Tablets</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/gag-galore-a-treasury-of-no-cost-memes/"><u>Gag Galore A Treasury of No-Cost Memes</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/guide-complet-pour-la-restauration-dun-profil-dutilisateur-perdu-dans-windows/"><u>Guide Complet Pour La Restauration D'un Profil D'Utilisateur Perdu Dans Windows #</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-archive-your-interactive-discussions-with-ai/"><u>How to Archive Your Interactive Discussions with AI</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo S18? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-gionee-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Gionee? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-ultimate-mini-drone-compilation-for-buyers/"><u>In 2024, Ultimate Mini-Drone Compilation for Buyers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-enhancing-group-conferences-with-chatgpt/"><u>Leveraging AI: Enhancing Group Conferences with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-cbt-with-chatgpt-techniques-and-usage/"><u>Maximizing CBT with ChatGPT: Techniques and Usage</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/premium-top-11-list-audio-recording-essentials-for-2024/"><u>Premium Top 11 List - Audio Recording Essentials for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/privacy-in-digital-dialogues-top-3-bot-safety-risks/"><u>Privacy in Digital Dialogues: Top 3 Bot Safety Risks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uncover-the-truth-can-i-tell-if-my-airtag-is-monitoring-me/"><u>Uncover the Truth: Can I Tell If My AirTag Is Monitoring Me?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-3d-blu-ray-players/"><u>[Updated] Best 3D Blu-Ray Players</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-guide-through-natures-threats-and-triumphs/"><u>AI Guide Through Nature's Threats and Triumphs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/android-users-setting-up-your-voicegpt/"><u>Android Users: Setting Up Your VoiceGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claudes-clash-with-chatgpt-who-has-the-edge/"><u>Claude's Clash with ChatGPT: Who Has The Edge?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/deep-dive-sonys-s6700-updates-review-for-2024/"><u>Deep Dive Sony's S6700 Updates Review for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-the-reimagined-bioshock-2-remaster-with-improved-graphics/"><u>Experience the Reimagined BioShock 2 Remaster with Improved Graphics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-the-lowdown-on-ipados-v18-free-distribution-arrival-periods-and-notable-new-functions/"><u>Get the Lowdown on iPadOS v18: Free Distribution, Arrival Periods, and Notable New Functions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-effortlessly-implement-microsoft-copilot-on-macos/"><u>How to Effortlessly Implement Microsoft Copilot on macOS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-find-x7-ultra-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo Find X7 Ultra to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-functionality-to-windows-photos-with-registering-packages/"><u>Reinstating Functionality to Windows Photos with Registering Packages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-12-and-pro-protective-covers-2023-edition-featured-by-zdnet/"><u>Top-Rated iPhone 12 & Pro Protective Covers - 2023 Edition Featured by ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-skype-microphone-issues-on-windows-11/"><u>Troubleshooting Guide: How to Fix Skype Microphone Issues on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-the-phanteks-eclipse-g360a-your-top-choice-for-an-affordable-pc-case-at-just-59/"><u>Unbeatable Deal: The Phanteks Eclipse G360A, Your Top Choice for an Affordable PC Case at Just $59</u></a></li>
 </ul></div>
 

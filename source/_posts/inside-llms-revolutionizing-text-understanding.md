@@ -1,7 +1,7 @@
 ---
 title: "Inside LLMs: Revolutionizing Text Understanding"
-date: 2024-09-14T16:23:16.707Z
-updated: 2024-09-17T16:12:05.823Z
+date: 2024-12-03T19:38:22.076Z
+updated: 2024-12-06T16:36:32.324Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is a Large Language Model?
 
  In its simplest terms, an LLM is a massive database of text data that can be referenced to generate human-like responses to your prompts. The text comes from a range of sources and can amount to billions of words.
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 * **Social Media**: Social media represents a huge resource of natural language. LLMs use text from major platforms like Facebook, Twitter, and Instagram.
 
  Of course, having a huge database of text is one thing, but LLMs need to be trained to make sense of it to produce human-like responses. How it does this is what we cover next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do LLMs Work?
 
@@ -67,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
  To summarize, LLMs use a massive text database with a combination of deep learning and NLG techniques to create human-like responses to your prompts. But there are limitations to what this can achieve.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Limitations of LLMs?
 
 ![woman frustrated at response from computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/woman-frustrated-at-response-from-computer.jpg)
@@ -81,10 +93,7 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Examples of Popular LLMs
@@ -121,10 +130,7 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
@@ -150,5 +156,22 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-video-editor-how-to-edit-instagram-video/"><u>[New] In 2024, Instagram Video Editor How to Edit Instagram Video</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-story-straightforward-recording-tips-for-2024/"><u>[New] Instagram Story Straightforward Recording Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-branding-with-visuals-inserting-watermarks-into-youtube-vids/"><u>[Updated] 2024 Approved Branding with Visuals Inserting Watermarks Into YouTube Vids</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-what-are-facebook-reels-and-how-to-make/"><u>[Updated] In 2024, What Are Facebook Reels and How to Make</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-master-your-craft-exclusive-free-templates-and-tips-for-2024/"><u>[Updated] Master Your Craft Exclusive Free Templates & Tips for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-the-10-best-iphone-and-android-apps-to-make-into-videos-for-2024/"><u>[Updated] The 10 Best iPhone & Android Apps to Make Into Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehende-research-via-conversational-ai/"><u>Comprehende Research via Conversational AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-dynamics-ai-versus-machine-translators/"><u>Decoding Dynamics: AI Versus Machine Translators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-top-6-artificial-intelligence-enhancements-in-iphones-with-ios-18-an-early-look-and-future-prospects/"><u>Discover the Top 6 Artificial Intelligence Enhancements in iPhones with iOS 18: An Early Look & Future Prospects</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-web-analytics-with-the-power-of-cookiebot-software-solutions/"><u>Elevate Web Analytics with the Power of Cookiebot Software Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y100t-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y100t Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-ai-prose-training-chatgpt-to-reflect-you/"><u>Personalizing AI Prose: Training ChatGPT to Reflect You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-biz-strategy-with-chatgpt-whisper-apis/"><u>Revolutionizing Biz Strategy with ChatGPT, Whisper APIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-threshold-of-acceptability-in-chatgpt-usage-at-the-office/"><u>The Threshold of Acceptability in ChatGPT Usage at the Office</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-most-exceptional-mac-models-expert-review-and-analysis-by-zdnet/"><u>Unveiling the Most Exceptional Mac Models - Expert Review & Analysis by ZDNet</u></a></li>
+</ul></div>
 

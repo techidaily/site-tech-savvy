@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air Face-Off: Exploring the Pros and Cons of Apple's M3 & M2 Models"
-date: 2024-11-20T17:04:36.555Z
-updated: 2024-11-27T16:22:53.821Z
+date: 2024-12-02T17:24:57.546Z
+updated: 2024-12-06T21:15:51.208Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **MacBook Air M3** | **MacBook Air M2**                           |                                              |
@@ -53,7 +49,7 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the M3 MacBook Air if...
@@ -61,7 +57,7 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You want the fastest Wi-Fi support available
@@ -98,12 +94,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 Cliff Joseph/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. The $100 price difference means a lot
 
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
@@ -112,15 +112,15 @@ Will you be mainly using your laptop for web surfing, streaming, listening to mu
 
 **Also:** [**I recommend this 15-inch MacBook Air to most people, and it's still $250 off**](https://www.zdnet.com/article/i-recommend-this-15-inch-macbook-air-to-most-people-and-its-still-250-off/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. You're expecting the M3 to be a bigger upgrade
 
 If you were expecting a radical redesign with the latest MacBook, you won't get it from the M3 Air. It looks nearly identical to the M2, and aside from the anodization seal on the midnight color that reduces fingerprints, even the colors aren't anything new. The real changes are on the inside, so if you want something that simply looks like it's the latest thing, you won't get any benefit from picking the M3 over the M2\. 
 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -156,16 +156,20 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-cam-problem-solved-operation-normal/"><u>[New] Cam Problem Solved Operation Normal</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-trends-that-make-your-meme-epidemic/"><u>[New] In 2024, Trends That Make Your Meme Epidemic</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-zombies-unleashed-a-curated-list/"><u>[Updated] In 2024, Essential Zombies Unleashed A Curated List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dive-into-gptzeros-capabilities-for-textual-source-identification/"><u>Dive Into GPTZero's Capabilities for Textual Source Identification</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-innovation-to-action-google-reveals-revolutionary-ai-bard/"><u>From Innovation to Action: Google Reveals Revolutionary AI, 'Bard'</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-change-pictures-into-fun-animated-gif-files/"><u>How To Seamlessly Change Pictures Into Fun Animated GIF Files</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/identifying-ai-delusions-recognizing-fake-data-interpretations/"><u>Identifying AI Delusions: Recognizing Fake Data Interpretations</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-unlocking-the-money-machine-of-youtube-videos-for-creators/"><u>In 2024, Unlocking the Money Machine of YouTube Videos for Creators</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-htc-u23-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On HTC U23</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-11-irresistible-last-minute-holiday-purchase-offers/"><u>Top 11 Irresistible Last-Minute Holiday Purchase Offers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/your-ultimate-guide-to-choosing-a-tablet-amazon-fire-vs-apples-ipad/"><u>Your Ultimate Guide to Choosing a Tablet - Amazon Fire Vs. Apple's iPad</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-conquer-your-screen-top-10-simple-youtube-projects-for-all-creators/"><u>[New] In 2024, Conquer Your Screen Top 10 Simple YouTube Projects for All Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-apps-best-10-software-to-capture-your-screens/"><u>[New] In 2024, Essential Apps Best 10 Software to Capture Your Screens</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-step-by-step-guide-to-scripting-engaging-youtube-videos/"><u>2024 Approved Step-by-Step Guide to Scripting Engaging YouTube Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-html-overload-fixing-windows-11-mail-format-glitches/"><u>Avoiding HTML Overload: Fixing Windows 11 Mail Format Glitches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/early-entry-into-apple-vision-pro-secure-your-spot-with-testflight-now-a-step-by-step-guide-by-zdnet/"><u>Early Entry Into Apple Vision Pro: Secure Your Spot with TestFlight Now! – A Step-by-Step Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emoji-eradicated-tweets-linus-unravelled-trojan-truth-and-ais-main-mishaps-with-chatgpt/"><u>Emoji Eradicated Tweets, Linus Unravelled, Trojan Truth, and AI's Main Mishaps with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-basics-to-bots-understanding-openais-api-strengths/"><u>From Basics to Bots: Understanding OpenAI’s API Strengths</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-uses-of-chatgpt-wolframalpha-fusion-tools/"><u>Innovative Uses of ChatGPT-WolframAlpha Fusion Tools</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/losung-fur-iphone-im-internet-explorer-nicht-sichtbar/"><u>Lösung Für iPhone Im Internet Explorer Nicht Sichtbar</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/master-the-six-key-tips-to-stop-dreamlight-valley-from-crashing-on-your-computer/"><u>Master the Six Key Tips to Stop Dreamlight Valley From Crashing on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-start-gpt-4-for-current-chatgpt-engagements/"><u>Quick Start: GPT-4 for Current ChatGPT Engagements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/remote-revolution-with-chatgpt-the-ultimate-guide-for-freelancers/"><u>Remote Revolution with ChatGPT: The Ultimate Guide for Freelancers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailor-your-next-read-explore-these-innovative-ai-powered-book-apps/"><u>Tailor Your Next Read: Explore These Innovative AI-Powered Book Apps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-samsung-galaxy-s24-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy S24 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/versnellend-online-3gp-naar-3g2-omzetten-gratuit-expertise-van-movavi-voor-veilig-codecconversie/"><u>Versnellend Online 3GP Naar 3G2 Omzetten Gratuit - Expertise Van Movavi Voor Veilig Codecconversie</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Four Legal Frameworks Governing AI Technology
-date: 2024-09-11T16:12:19.139Z
-updated: 2024-09-17T16:21:07.224Z
+date: 2024-11-29T17:30:32.502Z
+updated: 2024-12-06T16:24:05.800Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Data Privacy and Protection Regulations
 
 ![a lock in a blue digital field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/privacy-lock-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of the primary concerns with AI technologies is data privacy and security. Artificial intelligence systems are data-hungry machines. They need data to operate, more data to be efficient, and even more data to improve. While this isn't a problem, the way this data is sourced, the nature of it, and how it is processed and stored is one of the biggest talking points surrounding AI regulations.
 
@@ -48,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 ## 2\. Development of an Ethical AI Framework
 
 ![binary code background showing a woman face to face with a robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/muo-photo-standard-10-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  AI companies frequently boast about their commitment to ethical guidelines in developing AI systems. At least on paper, they are all proponents of responsible AI development. In the media, Google execs have emphasized how the company takes AI safety and ethics seriously. Similarly, "Safe and ethical AI" is a mantra for OpenAI's CEO, Sam Altman. These are quite applaudable.
 
@@ -76,16 +88,13 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 * Overseeing the ethical review process of AI projects
 * Collaboration and cross-country cooperation on AI safety and ethics
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Addressing Copyright and Intellectual Property Concerns
 
 ![An illustration of copyright thief](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/copyright-protected-illustration.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Existing copyright laws and legal frameworks crumble in the face of Artificial Intelligence. The way AI tools, especially generative AI tools, are designed makes them seem like a publicly endorsed copyright infringement machine that you can't do anything about.
 
@@ -103,10 +112,7 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 * Clear pathways for collaboration with right holders. If AI systems are going to use people's intellectual property anyway, there should be clear pathways or frameworks for AI developers and rights-owners to collaborate, especially in terms of financial compensations, if the derivative work of such intellectual properties is commercialized.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Regulation Is a Desperately Needed Fix
@@ -130,5 +136,20 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-strategic-social-sharing-master-facebook-story-linking/"><u>[New] Strategic Social Sharing Master Facebook Story Linking</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-copyright-freedom-tunes-best-free-melodies-for-zen/"><u>[Updated] 2024 Approved Copyright-Freedom Tunes - Best Free Melodies for Zen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-causes-and-fixes-for-apple-watch-touchscreen-problems/"><u>Common Causes and Fixes for Apple Watch Touchscreen Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-codegpt-real-world-coding-capabilities/"><u>Delving Into CodeGPT: Real-World Coding Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-fear-to-proficiency-excel-and-chatgpt-duo/"><u>From Fear to Proficiency: Excel & ChatGPT Duo</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-nubia-z50-ultra-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nubia Z50 Ultra Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2013-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2013 document electronically</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-14-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone 14</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-apples-enhanced-logic-pro-ai-powered-virtual-bandmates-for-ipad-and-mac-explore-the-future-of-music-creation/"><u>Introducing Apple's Enhanced Logic Pro: AI-Powered Virtual Bandmates for iPad & Mac - Explore the Future of Music Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-entrepreneurs-ai-toolkit-necessary-innovations-to-know/"><u>The Entrepreneur's AI Toolkit: Necessary Innovations to Know</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/542016-9781451603866-the-sivananda-companion-to-meditation/"><u>The Sivananda Companion to Meditation | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-ipad-air-outshines-the-ipad-pro-in-this-review-insider-tips-and-thoughts-from-zdnet/"><u>Why the iPad Air Outshines the iPad Pro in This Review - Insider Tips and Thoughts From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zerogpt-inadequacy-doubting-detection-tools/"><u>ZeroGPT Inadequacy: Doubting Detection Tools</u></a></li>
+</ul></div>
 

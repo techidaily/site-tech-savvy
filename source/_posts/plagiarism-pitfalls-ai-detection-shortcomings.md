@@ -1,7 +1,7 @@
 ---
 title: "Plagiarism Pitfalls: AI Detection Shortcomings"
-date: 2024-11-26T16:35:06.313Z
-updated: 2024-11-27T17:03:28.438Z
+date: 2024-12-06T00:19:47.408Z
+updated: 2024-12-06T18:12:55.863Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do AI Content Detectors Work?
 
  AI content detectors are specialized tools that determine whether something was written by a computer program or a human. If you just Google the words "AI content detector," you'll see [there are dozens of detectors](https://www.makeuseof.com/accurate-ai-text-detectors/) out there, all claiming they can reliably differentiate between human and non-human text.
@@ -39,7 +35,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  This sounds great on paper, but if you've ever used an AI detection tool, you know very well they are hit-and-miss, to put it mildly. More often than not, they detect human-written content as AI, or text created by human beings as AI-generated. In fact, some are embarrassingly bad at what they're supposed to do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How Accurate Are AI Content Detectors?
@@ -49,7 +45,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 ![Writer.com's AI content detector, screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-detector-writer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So, writer.com has got it wrong.
@@ -59,6 +55,10 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  In February 2023, University of Wollongong Lecturer Armin Alimardani and Associate Professor at UNSW Sydney Emma A. Jane tested a number of popular AI content detectors, establishing that none of them are reliable. In their analysis, which was published in [The Conversation](https://theconversation.com/we-pitted-chatgpt-against-tools-for-detecting-ai-written-text-and-the-results-are-troubling-199774#:~:text=Perplexity%20measures%20how%20complex%20a,was%20produced%20by%20an%20AI.), Alimardani and Jane concluded that this AI "arms race" between text generators and detectors will pose a significant challenge in the future, especially for educators.
 
  But it's not just educators and teachers who have reason for concern: everyone does. As AI-generated text becomes ubiquitous, being able to differentiate between what's "real" and what isn't, [i.e. actually spotting when something's written by AI](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/), will become more difficult. This will have a massive impact on virtually all industries and areas of society, even personal relationships.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AI's Implications for Cybersecurity and Privacy
 
@@ -75,7 +75,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  If there is indeed an arms race between generative AI and content detectors, the former is winning. What's worse, there seems to be no solution. All we have our half-baked products that don't even work half the time, or can be tricked very easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Detect AI Content: Potential Solutions
@@ -89,7 +89,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  For the time being, what a regular person can do is rely on their instincts and common sense. If there is something off about the content you're reading—if it feels unnatural, repetitive, unimaginative, banal—it might have been created by software. Of course, you should also verify any information you see online, double-check the source, and stay away from shady websites.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI Revolution Is Underway
@@ -115,20 +115,22 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-adding-soundtracks-to-shareable-fb-moments/"><u>[Updated] In 2024, Adding Soundtracks to Shareable FB Moments</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlock-the-potential-of-fb-chronicles-with-free-apps/"><u>[Updated] In 2024, Unlock the Potential of FB Chronicles with Free Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/archive-your-future-with-chatgpt/"><u>Archive Your Future with ChatGPT</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719152004902-are-you-a-future-metaverse-architect-join-facebooks-quest/"><u>Are You a Future Metaverse Architect? Join Facebook's Quest</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-perfect-cover-letters-a-guide-with-gpt-3/"><u>Crafting Perfect Cover Letters: A Guide with GPT-3</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oneplus-11-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On OnePlus 11 5G</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discovering-10-prime-websites-for-surprise-box-offers/"><u>Discovering 10 Prime Websites for Surprise Box Offers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-newest-nvidia-mx150-drivers-compatible-with-all-windows-versions/"><u>Download the Newest Nvidia MX150 Drivers – Compatible with All Windows Versions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fantasy-meets-fact-innovations-by-ai/"><u>Fantasy Meets Fact: Innovations by AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-ai-allies-simulating-the-sora-experience/"><u>Free AI Allies: Simulating the Sora Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-pova-5-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Pova 5 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/poetic-duels-between-bards-gpt-and-offline-woolies/"><u>Poetic Duels Between Bards, GPT, & Offline Woolies</u></a></li>
-<li><a href="https://common-error.techidaily.com/system-check-needed-confirming-your-gpus-support-for-d3d11-is-crucial-for-running-the-software/"><u>System Check Needed: Confirming Your GPU's Support for D3D11 Is Crucial for Running the Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-text-to-speech-into-chatgpt-steering/"><u>Transforming Text-to-Speech Into ChatGPT Steering</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-professional-stability-essentials-for-youtube-videographers/"><u>[Updated] Professional Stability Essentials for YouTube Videographers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/academic-savings-with-digiarty-securing-a-student-discount-on-essential-software/"><u>Academic Savings with Digiarty: Securing a Student Discount on Essential Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/androids-screen-capture-4-easy-techniques/"><u>Android's Screen Capture 4 Easy Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/buy-these-three-new-apple-devices-announced-at-wwdc-today-plus-your-guide-on-how-and-where-to-pre-order-them-tech-insights/"><u>Buy These Three New Apple Devices Announced at WWDC Today - Plus, Your Guide on How and Where to Pre-Order Them | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-evolution-nine-methods-by-ai/"><u>Content Evolution: Nine Methods by AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowered-conversations-across-languages-via-chatgpt/"><u>Empowered Conversations Across Languages via ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-data/"><u>How to recover lost data from Nubia Red Magic 8S Pro?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-8-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 8 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mirage-gpt-modifier-exfiltrates-fb-accounts/"><u>Mirage GPT Modifier: Exfiltrates FB Accounts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premier-6-titans-massive-mlm-models-unveiled/"><u>Premier 6 Titans: Massive MLM Models Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/puzzling-the-digital-sphere-join-4-ai-enhanced-crime-games/"><u>Puzzling the Digital Sphere: Join 4 AI-Enhanced Crime Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/secure-macx-dvd-ripper-pro-at-low-costs-exclusive-online-offer-with-savings/"><u>Secure MacX DVD Ripper Pro at Low Costs - Exclusive Online Offer With Savings!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-chatgpt-for-peak-household-performance/"><u>Tailoring ChatGPT for Peak Household Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-creativity-with-anthropics-claude-3/"><u>Unleashing Creativity with Anthropic's Claude 3</u></a></li>
 </ul></div>
 

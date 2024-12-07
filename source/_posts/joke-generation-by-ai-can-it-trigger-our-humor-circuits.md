@@ -1,7 +1,7 @@
 ---
 title: "Joke Generation by AI: Can It Trigger Our Humor Circuits?"
-date: 2024-11-25T17:05:38.992Z
-updated: 2024-11-27T16:22:29.313Z
+date: 2024-12-04T00:52:19.879Z
+updated: 2024-12-07T00:42:15.967Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does ChatGPT Generate Comedy?
@@ -52,12 +52,16 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 * **Joke Two:** A man walks into a bar with a piece of asphalt under his arm. He says to the bartender, "I'll take a beer and one for the road."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Can ChatGPT Do?
 
 ![Screenshot of ChatGPT Knock Knock Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-knock-knock-joke.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This is an evolving technology that has limitations. It is unlikely to replace stand-up comedians anytime soon. But is it a useful tool for comedy? Let's discuss some of the ways that AI can be used in comedy.
 
@@ -74,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 
 ![Screenshot ChatGPT Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-chatgpt-joke.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When it comes to comedy and laughter, there is still plenty that AI can't do. For instance, human nature means that we often laugh at things that shouldn't be funny. A browse through "fail videos" on YouTube illustrates this point perfectly.
 
  This is the crux of the matter; there are still plenty of limitations when it comes to AI making us laugh. For example, would AI think someone crashing a tree down on their house was funny? Not yet, as there are contextual problems here that AI still hasn't overcome. Here are some of the laughter-related things that AI can't do.
@@ -92,16 +92,12 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 * **Joke Six:** I saw this advert in a window that said: "Television for sale, $1, volume stuck on full." I thought, "I can't turn that down."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Future of AI In Comedy?
 
 ![Screenshot AI Joke about the future of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-ai-joke-about-the-future-of-ai.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There are moral and ethical implications to consider here. However, these fall outside the scope of the question that this article poses: Can AI make us laugh?
 
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 
 * **Joke Seven:** There are 10 types of people in the world: Those that understand binary numbers and those that don't!
 * **Joke Eight:** Why did the computer go to the doctor? Because it had a virus!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Last Laugh
 
@@ -141,20 +141,22 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-mitigating-virtual-reality-nausea/"><u>[New] In 2024, Mitigating Virtual Reality Nausea</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-tailor-your-fb-theme-with-footage/"><u>[Updated] In 2024, Tailor Your FB Theme with Footage</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726029620705-dvd-2024/"><u>「超高音質楽曲を取り出せる DVDからの方法 簡単指南2024年版」</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-sophisticated-style-advanced-tiktok-filters/"><u>2024 Approved Sophisticated Style Advanced TikTok Filters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-leading-vr-devices-ranked-in-depth-analysis-and-expert-assessments-from-zdnet/"><u>2024'S Leading VR Devices Ranked: In-Depth Analysis and Expert Assessments From ZDNET</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-x-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone X</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cost-analysis-of-crafting-an-apple-vision-pro-headset-insights-and-estimates/"><u>Cost Analysis of Crafting an Apple Vision Pro Headset - Insights and Estimates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/disney-unveils-revolutionary-multi-user-vr-treadmill-for-immersive-gaming-experiences-discover-the-magic/"><u>Disney Unveils Revolutionary Multi-User VR Treadmill for Immersive Gaming Experiences – Discover the Magic!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expressive-emojis-and-images-kinemaster-tips-for-2024/"><u>Expressive Emojis & Images KineMaster Tips for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-apples-expanded-dev-program-boosting-support-for-ios-17-visionos-and-additional-platforms-zdnet-coverage/"><u>Introducing Apple’s Expanded Dev Program: Boosting Support for iOS 17, VisionOS, and Additional Platforms - ZDNET Coverage</u></a></li>
-<li><a href="https://games-able.techidaily.com/linking-headphones-to-sony-gaming-system/"><u>Linking Headphones to Sony Gaming System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-level-immersion-awaits-as-oculus-rifts-get-game-changing-3-boosts-for-gamers-and-entertainment-fans/"><u>Next-Level Immersion Awaits as Oculus Rifts Get Game-Changing 3 Boosts for Gamers & Entertainment Fans!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/remedying-no-audio-in-obs-sessions/"><u>Remedying No Audio in OBS Sessions</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782071-9781620551110-the-great-goddess/"><u>The Great Goddess | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vision-pro-integrates-tiktok-features-enhances-user-scroll-experience-zdnet/"><u>Vision Pro Integrates TikTok Features, Enhances User Scroll Experience - ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-audience-advocacy-nurturing-connections-in-the-digital-age/"><u>[New] In 2024, Audience Advocacy Nurturing Connections in the Digital Age</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-premiere-pro-starter-pack-2023-edition-free-for-2024/"><u>[Updated] Premiere Pro Starter Pack - 2023 Edition (Free) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-unbeatable-deals-save-40-on-apple-airpods-before-independence-day-find-out-how/"><u>1. Unbeatable Deals: Save $40 on Apple AirPods Before Independence Day - Find Out How!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-rekindle-ambition-top-10-motivational-moments/"><u>2024 Approved Rekindle Ambition Top 10 Motivational Moments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1724766120166-2024/"><u>2024年注目のベスト! クリスマス期間限定 子ども達向けおすすめアニメ映画ランキング</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compelling-features-of-the-ipad-air-that-might-make-you-think-twice-about-your-ipad-pro-a-detailed-review/"><u>Compelling Features of the iPad Air That Might Make You Think Twice About Your iPad Pro - A Detailed Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-tones-integrating-chatgpt-with-daws-for-sound/"><u>From Text to Tones: Integrating ChatGPT with DAWs for Sound</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fusing-tech-and-tunes-leveraging-ai-for-sound-creation/"><u>Fusing Tech and Tunes: Leveraging AI for Sound Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-bard-the-next-challenger-to-dominant-chatgpt/"><u>Google's 'Bard': The Next Challenger to Dominant ChatGPT</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-successfully-move-recovered-emails-from-edb-file-to-operational-exchange-server/"><u>How to Successfully Move Recovered Emails From EDB File to Operational Exchange Server</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-15-pro-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 15 Pro without Apple Account</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/machine-learning-vs-student-creativity-in-essay-composition/"><u>Machine Learning Vs. Student Creativity in Essay Composition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/pinnacle-12-apps-for-unlimited-screen-recording-for-2024/"><u>Pinnacle 12 Apps for Unlimited Screen Recording for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-your-setup-with-microsoft-ergonomic-keyboard-4000-driver-download-quick-tips/"><u>Streamline Your Setup with Microsoft Ergonomic Keyboard 4000 Driver Download – Quick Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/taking-photos-steadily-on-one-leg-in-2024/"><u>Taking Photos Steadily on One Leg, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ten-tips-to-perfect-your-gpt-dialogue-experience/"><u>Ten Tips to Perfect Your GPT Dialogue Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-chatgpt-on-terminal-exploring-shellgpt-techniques/"><u>Unleash ChatGPT on Terminal: Exploring ShellGPT Techniques</u></a></li>
 </ul></div>
 

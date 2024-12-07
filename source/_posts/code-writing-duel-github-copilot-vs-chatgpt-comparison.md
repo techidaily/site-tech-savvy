@@ -1,7 +1,7 @@
 ---
 title: "Code Writing Duel: GitHub Copilot VS. ChatGPT Comparison"
-date: 2024-09-10T16:22:23.855Z
-updated: 2024-09-17T16:15:35.170Z
+date: 2024-11-29T20:22:20.584Z
+updated: 2024-12-06T16:38:11.906Z
 tags:
   - chatgpt
   - open-ai
@@ -44,15 +44,16 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
 
  So, which one should you be using?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GitHub Copilot?
 
  GitHub Copilot is an AI-powered code completion tool developed by GitHub in collaboration with OpenAI. With the power of GPT-4, it provides real-time code suggestions as you type, helping to streamline the coding process. It is a paid service that you can easily use with most popular environments, including Visual Studio, Visual Studio Code, Vim/Neovim, Azure Data Studio, and JetBrains.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT?
@@ -62,10 +63,7 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
  This makes it a good programming tool as it can help clarify concepts, provide explanations, and even generate pseudocode based on user input. ChatGPT is a versatile tool. You can use it for non-coding tasks like planning, brainstorming, and problem-solving, all of which are useful in software development.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comparing GitHub Copilot and ChatGPT
@@ -97,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
 
 ![Easy code refactoring with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/using-requests-in-github-copilot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your subscription to GitHub Copilot also comes bundled with GitHub Copilot Chat. You can use it to ask coding questions, debug your program, and generate new lines of code. GitHub Copilot Chat generates usable code that will be a good fit for your project:
 
 ![Customized code generation with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/generate-code-with-github-copilot.jpg)
@@ -118,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
 
 ![Asking development related questions with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/asking-developer-questions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re learning to code, you can prompt ChatGPT to generate pseudocode to help you explore different solutions for a specific problem.
 
  Here’s how ChatGPT provided a way to query the minimum, maximum, and average price of products within a collection class:
@@ -128,15 +123,16 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
 
 ![Reverse engineering code snippet with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-explaining-code.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When it comes to understanding concepts or getting a detailed explanation of a coding topic, ChatGPT excels. Its ability to generate human-like responses makes it an ideal learning tool that any programmer can use. Whether it's a complex algorithm or a programming principle you're trying to grasp, ChatGPT can break it down into understandable parts.
 
  What’s great about ChatGPT is that it offers a completely free version that you can use throughout your learning process. Of course, a paid subscription does have extra benefits like better response quality and plugins. But overall, as long as you [employ prompting techniques](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/), the free version should work fine as a learning tool.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You Can Always Use Both
@@ -150,13 +146,6 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
  If you’re a student, you can benefit from free access to GitHub Copilot. Combine that with OpenAI’s already free ChatGPT-3.5 Turbo, and you’ll have both tools without paying a cent!
 
  A monthly GitHub Copilot subscription and the freely available ChatGPT-3.5 should provide enough assistance for both personal and professional projects. If you still feel like you need that slight edge, then shelling out extra for [useful ChatGPT plugins](https://www.makeuseof.com/best-chatgpt-plugins/) may also be worth the investment.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There Are Alternatives
 
@@ -179,5 +168,24 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-guide-to-cheap-video-conferencing-tools-for-computers/"><u>[New] 2024 Approved Essential Guide to Cheap Video Conferencing Tools for Computers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-complete-2023-bandicam-insight-and-tips/"><u>[New] 2024 Approved The Complete 2023 Bandicam Insight & Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-top-8-youtube-rank-tracker-tools-unveiled/"><u>2024 Approved Top 8 YouTube Rank Tracker Tools Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-upgraded-microsofts-ai-breakthrough/"><u>Bing Upgraded: Microsoft’s AI Breakthrough</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-facebook-updates-with-chatgpt-insights/"><u>Boost Your Facebook Updates with ChatGPT Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/easy-ways-to-recognize-and-repair-hidden-or-faulty-speakers-in-windows-10/"><u>Easy Ways to Recognize and Repair Hidden or Faulty Speakers in Windows 10</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/hassle-free-transition-migrate-windows-8-or-81-to-any-hardware-quickly-and-securely/"><u>Hassle-Free Transition: Migrate Windows 8 or 8.1 to Any Hardware Quickly and Securely</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-90-gt-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor 90 GT Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/insta-reel-power-mimicking-high-flying-tiktok-methods/"><u>Insta Reel Power Mimicking High-Flying TikTok Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/limits-of-linguistic-intelligence-in-gpt/"><u>Limits of Linguistic Intelligence in GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/score-a-macbook-air-m1-for-an-amazing-bargain-at-just-649-exclusive-offer-spotted-by-zdnet/"><u>Score a MacBook Air M1 for an Amazing Bargain at Just $649 - Exclusive Offer Spotted by ZDNet!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/step-by-step-to-mastering-adobes-cloud-storage-capabilities-and-options/"><u>Step-by-Step to Mastering Adobe's Cloud Storage Capabilities & Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-conversations-androids-chatgpt-widget-guide/"><u>Streamline Conversations: Android's ChatGPT Widget Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailor-your-iphone-experience-with-ios-18-control-center-customization-tips-zdnet/"><u>Tailor Your iPhone Experience with iOS 18 Control Center Customization Tips | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/techs-elite-showdown-googles-gemini-versus-openais-chatgpt/"><u>Tech's Elite Showdown: Google's Gemini Versus OpenAI’s ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-for-locking-in-early-bird-discounts-on-the-latest-tech-iphone-15-watch-ultra-2-expert-guide-by-zdnet/"><u>Tips for Locking in Early Bird Discounts on the Latest Tech: IPhone 15, Watch Ultra 2 | Expert Guide by ZDNET</u></a></li>
+</ul></div>
 

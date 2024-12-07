@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Potential: Integrating ChatGPT with Add-Ons"
-date: 2024-11-26T17:12:19.260Z
-updated: 2024-11-27T16:55:26.975Z
+date: 2024-12-02T22:28:36.991Z
+updated: 2024-12-06T17:41:02.461Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Are ChatGPT Plugins?](https://ukaidot.sjv.io/daqnoj)
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 * [ChatGPT's Plugins Need More Work](https://newchic.sjv.io/jzg4zq)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are third-party extensions designed to extend the functionality of ChatGPT. According to OpenAI, "Plugins are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services."
@@ -61,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
  The core function of a ChatGPT Plugin is to bring more useful information into ChatGPT, making the generative AI chatbot more useful.
 
  For example, you could use the Kayak and Expedia ChatGPT Plugins when you want to use ChatGPT to create a trip itinerary or the Polygon Plugin to get up-to-date information on crypto markets, stocks, and forex.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Many ChatGPT Plugins Are There?
 
@@ -80,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/436acba0c9c893929d5ec6208fba8a64936bfc6bd
 
 ![chatgpt enable beta features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-enable-beta-features.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![chatgpt plugin store option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-store-option.jpg)
 
 ![chatgpt plugin instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-instructions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -100,15 +96,15 @@ Close
 
  However, there is currently no "All Plugins" list to make it easy to unsubscribe. Also, there is no way to sort the plugins, so you're left to scroll through every page until you find what you want. Search functionality will come with a later update, but having these user-friendly UI features ready would have been useful.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use a ChatGPT Plugin
 
  How you use a ChatGPT Plugin depends on the plugin you install. But the general gist of ChatGPT plugin usage is similar to regular ChatGPT; you ask your question, and ChatGPT provides an answer. The accuracy of your answer [depends on the quality of your prompt](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/), but now also depends on the quality of the ChatGPT Plugin.
 
  It's also worth remembering that ChatGPT Plugins are still a beta feature. The ChatGPT Plugin ecosystem isn't fully up and running yet, and despite the number of available plugins, not all of them work as they should—or as we might like.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Planning a Trip
 
@@ -116,15 +112,23 @@ Close
 
 ![chatgpt plugin planning trip with kayak](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![chatgpt plugin planning trip with kayak adding more information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak-adding-more-information.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![chatgpt plugin planning trip with kayak final suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugin-planning-trip-with-kayak-final-suggestions.jpg)
 
-![skyscanner flights to malta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/skyscanner-flights-to-malta.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![skyscanner flights to malta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/skyscanner-flights-to-malta.jpg)
 
 Close
 
@@ -134,19 +138,15 @@ Close
 
 ![chatgpt cannot enable plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-cannot-enable-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That said, the travel plugins fared much better when tasked with a trip in the US. The Kayak plugin quickly found flights and a hotel for a solo trip from Miami to New York, staying in a four-star hotel with a gym and pool. In this case, my prompt was more specific, had fewer variables, and was easier for the plugin to plan.
 
 ![chatgpt kayak plugin plans trip to new york](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-kayak-plugin-plans-trip-to-new-york.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For now, you might be better off searching for yourself or using a [GPT-enabled trip-planning app](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Planning Meals and Searching for Recipies
 
@@ -155,10 +155,6 @@ Close
 ![chatgpt tasty plugin meal planning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tasty-plugin-meal-planning.jpg)
 
 ![chatgpt tasty plugin meal planning failure to list all meals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-tasty-plugin-meal-planning-failure-to-list-all-meals.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -177,6 +173,10 @@ Close
 ![chatgpt playlistai plugin hip hop suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-hip-hop-suggestions.jpg)
 
 ![chatgpt playlistai plugin track suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-track-suggestions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![chatgpt playlistai plugin playlist in spotify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-playlistai-plugin-playlist-in-spotify.jpg)
 
@@ -207,20 +207,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-skype-the-top-10-audio-capture-tools/"><u>[New] 2024 Approved Skype The Top 10 Audio Capture Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-a-drone-transformed-with-yuneecs-typhoon-q500/"><u>[New] In 2024, A Drone Transformed with Yuneec's Typhoon Q500</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-quick-simple-steps-to-saving-twitters-emotive-graphics-gifs/"><u>[New] In 2024, Quick, Simple Steps to Saving Twitter’s Emotive Graphics (GIFs)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ners-ultimate-list-of-must-have-video-tech-for-2024/"><u>Beginner's Ultimate List of Must-Have Video Tech for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/blur-free-photography-ranked-10-best-web-editing-tools/"><u>Blur-Free Photography Ranked 10 Best Web Editing Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/closer-than-ever-how-the-arlo-pro-5s-stands-on-the-brink-of-perfection-smartsecurity-insights/"><u>Closer than Ever: How the Arlo Pro 5S Stands on the Brink of Perfection | SmartSecurity Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-stellar-presentations-with-the-power-of-chatgpt-ai/"><u>Crafting Stellar Presentations with the Power of ChatGPT AI</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/directing-youtube-and-twitter-videos-via-whatsapp-messages-for-2024/"><u>Directing YouTube & Twitter Videos via WhatsApp Messages for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-nokia-xr21-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Nokia XR21</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tales-reimagined-integrating-chatgpt-in-creative-writing/"><u>Tales Reimagined: Integrating ChatGPT in Creative Writing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-path-to-a-liberated-chat-experience-on-win/"><u>The Path to a Liberated Chat Experience on Win</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-shielded-canvas-leveraging-nightshade-for-authentic-artwork-defense/"><u>The Shielded Canvas: Leveraging Nightshade for Authentic Artwork Defense</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truthgpt-unveiled-police-raid-mullvad-vpn-the-best-free-pc-games-and-mechanical-keyboards-explained/"><u>TruthGPT Unveiled, Police Raid Mullvad VPN, the Best Free PC Games, and Mechanical Keyboards Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-core-of-gpt4alls-operation/"><u>Unveiling the Core of GPT4All's Operation</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-picks-in-gimbals-to-elevate-your-drone-imagery-for-2024/"><u>[New] Top Picks in Gimbals to Elevate Your Drone Imagery for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-prime-tips-for-soundless-videography-for-2024/"><u>[Updated] Prime Tips for Soundless Videography for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-faux-pas-how-to-sidestep-these-blunders/"><u>ChatGPT Faux Pas: How to Sidestep These Blunders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-selection-of-18-premium-deals-for-high-performance-laptops-this-prime-day-insider-tips-on-hp-apple-and-razer-from-zdnets-tech-experts.50/"><u>Discover the Ultimate Selection of 18 Premium Deals for High-Performance Laptops This Prime Day: Insider Tips on HP, Apple, and Razer From ZDNet's Tech Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tweaks-for-maximum-performance-in-windows-11/"><u>Essential Tweaks for Maximum Performance in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-capture-motion-blur-photos-with-iphone-for-2024/"><u>How to Capture Motion Blur Photos with iPhone for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-call-of-duty-mobile-warzone-20-for-pc-players/"><u>How to Fix Persistent Crashes in Call of Duty Mobile Warzone 2.0 for PC Players</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-5-strategies-for-avoiding-vr-nausea/"><u>In 2024, 5 Strategies for Avoiding VR Nausea</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-k11x-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo K11x and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-nutrition-with-chatgpt-help/"><u>Personalized Nutrition with ChatGPT Help</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y55s-5g-2023-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y55s 5G (2023) Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/section-2b-five-facts-to-remember/"><u>Section 2B: Five Facts to Remember</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-your-inbox-chaos-with-this-one-simple-email-hack-no-rule-juggling-needed-techwise/"><u>Simplify Your Inbox Chaos with This One Simple Email Hack – No Rule Juggling Needed! | TechWise</u></a></li>
 </ul></div>
 

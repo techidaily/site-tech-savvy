@@ -1,7 +1,7 @@
 ---
 title: "AI in Play: Crafting Next-Gen Virtual Experiences"
-date: 2024-11-20T17:07:50.763Z
-updated: 2024-11-27T16:02:45.728Z
+date: 2024-12-06T00:33:14.049Z
+updated: 2024-12-06T22:18:54.585Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How AI Could Democratize Video Games
 
 ![a screenshot of the steam "new releases" page showing a lot of games that were all released on the day the screenshot was taken (May 19th)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/steam-new-releases-page.jpg)
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
  This increase in the number of games being released is arguably good because of the vastly expanded variety of experiences now available. More people are making games than ever before, presenting viewpoints and perspectives that we may not have had a chance to see if the games industry had remained the way it was the in the 90s and early 2000s. It’s not much of a logical leap to say that AI would only strengthen this effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### AI-Assistants to Make Games With
@@ -53,23 +49,19 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
  Of course, all of this assumes that the issue of AI being trained on unwitting creatives’ work has been solved. Currently, the two biggest barriers to this technology becoming widely used are related to public image and legality. Right now, most AI is trained on work without the original creator's permission, and thanks to this, much AI-driven work isn't exactly well-received online.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How AI Could Oversaturate Video Games
 
 ![A chart showing the number of games relased on Steam each year from 2006 to 2023. The chart shows a huge increase in released games from 2014-2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chart-showing-increased-in-games-released-on-steam-each-year-steam-db.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While it’s true that AI will help more people make video games, it could also lead to a huge glut in the market, and that has caused some problems for the games industry in the past. With AI assistance, it will become even easier for low-effort developers to churn out low-quality, low-price games as a quick scam. This has already been an issue in previous years, with 2017 seeing Valve remove 173 asset flip games from the storefront as reported by [Gamesindustry.biz](https://www.gamesindustry.biz/valve-removes-173-asset-flipping-games-from-steam).
 
  AI assistants could make these games easier to produce and make it harder to detect such games, as AI-generated content can at least appear marginally different from bundles of pre-bought assets currently used. When you add the ability for the incredibly young and inexperienced to make a game because they feel like it, it’s not hard to see why the introduction of AI assistants would make some people nervous.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Another Gaming Explosion
@@ -82,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
 
 ![screenshot of Google I/O 2023 showing a woman and man on opposite sides of the stage with a screen between them showing an AI-assistant helping to write a story.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-io-stage-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
 
  While we’ve talked at length about both the potential positives and negatives of the future of AI-assisted game design, it’s worth remembering that all of these potential issues can and should be accounted for. If Valve and other large digital retailers wish to avoid a repeat of previous gaming crashes, then it would almost certainly be wise to try to enact some slightly stricter quality control guidelines that are industry-wide.
@@ -89,6 +85,10 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
  The simple capping of how many games a company can release without special permission would be a good start. It would limit how many games in a backlog a publisher is allowed to release, but staggering a launch of an entire backlog over a few days seems a small price to pay for keeping the industry motoring along healthily.
 
  On top of that, the games industry should not wait until legislation is imposed upon it by the government. Self-imposed codes and standards are an important part of any industry, from the Comic Code Authority to the ESRB; these self-policing policies are an important part of a healthy industry. People in positions of power within the industry need to start thinking about how we restrict the power that AI has over creative human expression now and not when it's too late.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Could AI Be the Future of Gaming?
 
@@ -113,22 +113,22 @@ Image Credit: Google/[YouTube](https://www.youtube.com/watch?v=cNfINi5CNbY)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-canvas-clearance-techniques-for-uncluttered-image-frames/"><u>[New] Canvas Clearance Techniques for Uncluttered Image Frames</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-ideal-choices-our-exclusive-top-10-gopro-case-picks/"><u>[New] Ideal Choices Our Exclusive Top 10 GoPro Case Picks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-complete-guide-to-conquering-video-editing-with-vivocut/"><u>[Updated] The Complete Guide to Conquering Video Editing with VivoCut</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-as-your-ally-composing-confidential-company-emails/"><u>AI as Your Ally: Composing Confidential Company Emails</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-intellectual-ladder-high-to-low-rungs/"><u>AI's Intellectual Ladder: High to Low Rungs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquer-the-kitchen-7-applications-of-ai-in-cooking/"><u>Conquer the Kitchen: 7 Applications of AI in Cooking</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-safe-are-external-chatgpt-browser-additions-or-tools/"><u>How Safe Are External ChatGPT Browser Additions or Tools?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-construct-memetic-mirth/"><u>In 2024, Construct Memetic Mirth</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y56-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y56 5G Lock Screen Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intellects-edge-beyond-alan-turings-legacy/"><u>Intellect's Edge: Beyond Alan Turing's Legacy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/make-your-creative-dreams-come-true-dall-e-3-on-microsoft-bing-free/"><u>Make Your Creative Dreams Come True: DALL-E 3 on Microsoft Bing (Free)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimal-accessories-for-your-high-quality-gopro/"><u>Optimal Accessories for Your High-Quality GoPro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prompt-perfection-top-5-ai-tutorials-online/"><u>Prompt Perfection: Top 5 AI Tutorials Online</u></a></li>
-<li><a href="https://fox-that.techidaily.com/spotify-on-ios-addressing-app-stability-concerns-prevent-it-from-shutting-down-while-your-phone-is-locked/"><u>Spotify on iOS: Addressing App Stability Concerns – Prevent It From Shutting Down While Your Phone Is Locked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-fix-guide-for-6-typical-sticker-setup-issues/"><u>The Ultimate Fix Guide for 6 Typical Sticker Setup Issues</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-unparalleled-audio-adventure-of-the-logitech-g533/"><u>The Unparalleled Audio Adventure of the Logitech G533</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-dull-to-dynamic-top-5-ai-writing-catalysts/"><u>Transforming Dull to Dynamic: Top 5 AI Writing Catalysts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-save-funny-tweet-graphics-gifs-in-minutes/"><u>[New] 2024 Approved How To Save Funny Tweet Graphics (GIFs) in Minutes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-10-viral-exercise-routines-to-keep-your-channel-thriving/"><u>[New] In 2024, 10 Viral Exercise Routines to Keep Your Channel Thriving</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-innovative-approaches-for-mosaic-photography/"><u>[New] In 2024, Innovative Approaches for Mosaic Photography</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-exploring-screenflow-features-a-mac-developers-perspective/"><u>2024 Approved Exploring ScreenFlow Features – A Mac Developer's Perspective</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-watch-showdown-series-10-versus-series-8-which-one-wins-your-heart-and-wallet-zdnet/"><u>Apple Watch Showdown: Series 10 versus Series 8 – Which One Wins Your Heart (and Wallet)? | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enigma-online-join-the-adventure-of-4-cybernetic-mysteries/"><u>Enigma Online: Join the Adventure of 4 Cybernetic Mysteries</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/game-on-with-these-5-must-have-broadcast-cams-for-2024/"><u>Game on with These 5 Must-Have Broadcast Cams for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guidelines-to-maintain-discretion-in-ai-interactions/"><u>Guidelines to Maintain Discretion in AI Interactions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-lava-blaze-2-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Lava Blaze 2 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/immediate-deactivation-of-chatgpt/"><u>Immediate Deactivation of ChatGPT</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-innovation-vr-controllers-reviewed/"><u>In 2024, Leading Innovation VR Controllers Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-disputes-allegations-of-gpts-dumbing-down/"><u>OpenAI Disputes Allegations of GPT's Dumbing Down</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-the-efficacy-of-codegpt-could-it-streamline-development/"><u>Probing the Efficacy of CodeGPT: Could It Streamline Development?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/think-twice-before-whispering-confidentials-to-chatgpt/"><u>Think Twice Before Whispering Confidentials to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-truth-how-do-i-detect-if-my-privacy-is-compromised-by-apples-airtag/"><u>Uncover the Truth: How Do I Detect If My Privacy Is Compromised by Apple's AirTag?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210704587-9789948812845-nkat-taalmt-mnha/"><u>نقاط تعلمت منها | Free Book</u></a></li>
 </ul></div>
 

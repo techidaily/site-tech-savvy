@@ -1,7 +1,7 @@
 ---
 title: "Token Triumph: Gemini’s $1M Impact Shifted"
-date: 2024-09-11T16:19:32.550Z
-updated: 2024-09-17T16:20:59.075Z
+date: 2024-12-01T20:07:11.337Z
+updated: 2024-12-06T22:15:55.229Z
 tags:
   - chatgpt
   - open-ai
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is a Context Window?](https://united.elfm.net/zqobdx)
 * [Why Gemini 1.5's Context Window Is a Big Deal](https://homestyler.sjv.io/y209g3)
 * [Will Gemini 1.5 Live Up to Expectations?](https://uperfect.sjv.io/g1jgba)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,15 +56,16 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  At the time of writing, Anthropic's Claude 2.1's 200k context window is the largest context window of any generally available AI model. This is followed by GPT-4 Turbo with a 128k context window. Google Gemini 1.5 is bringing a one million context window, four times larger than anything in the market. This leads to the big question: what's the big deal with a one million token context window?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Gemini 1.5's Context Window Is a Big Deal
 
 ![Gemini app running on an Android phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gemini-app-running-on-an-android-phone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Smartmockups](https://smartmockups.com/mockup/oiB7aZ8XtYS)
@@ -80,16 +89,7 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 ![gemini advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gemini-advanced.PNG)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If everything goes as planned, Gemini 1.5 could potentially outperform [the best AI models in the market](https://www.makeuseof.com/best-large-language-models/). However, considering Google's many failures at building a stable AI model, it's important to err on the side of caution. Bumping up the context window of a model alone doesn't automatically make the model better.
@@ -115,5 +115,22 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-photos-into-dynamic-time-lapses-the-gopro-way/"><u>[New] Transform Your Photos Into Dynamic Time-Lapses The GoPro Way</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-magix-acid-pro-unveiled-and-options-examined/"><u>[Updated] Magix ACID Pro Unveiled & Options Examined</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-mastering-unlocking-your-personalized-tiktok-hashtag-for-2024/"><u>[Updated] Mastering Unlocking Your Personalized TikTok Hashtag for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigate-effortlessly-how-to-clear-your-browsers-youtube-cache/"><u>[Updated] Navigate Effortlessly How to Clear Your Browser's YouTube Cache</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-photo-upload-to-your-social-feeds-tips-and-tricks/"><u>[Updated] Quick Photo Upload to Your Social Feeds – Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-censorship-strategies-within-ai-chatbot-ecosystems/"><u>Assessing Censorship Strategies Within AI Chatbot Ecosystems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bringing-ai-home-gpt-4s-universal-reach/"><u>Bringing AI Home: GPT-4's Universal Reach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-macbook-air-and-macbook-pro-a-comprehensive-guide-to-finding-the-perfect-apple-laptop-for-your-needs-zdnet-insights/"><u>Choosing Between MacBook Air and MacBook Pro: A Comprehensive Guide to Finding the Perfect Apple Laptop for Your Needs - ZDNet Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blending-beats-and-visuals-a-tutorial-on-youtube-music-addition/"><u>In 2024, Blending Beats and Visuals A Tutorial on YouTube Music Addition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-infinix-smart-7-hd-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Infinix Smart 7 HD? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-restoration-the-key-four-issues/"><u>Mastering ChatGPT Restoration: The Key Four Issues</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/redeeming-compromised-movmp4-through-quicktime-playback/"><u>Redeeming Compromised MOV/MP4 Through QuickTime Playback</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-choices-for-ultra-compact-tablets-of-2nvbtznw85zandp197/"><u>Smart Choices for Ultra-Compact Tablets of 2#NvBTZnw85z&p=197</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-6-benefits-mastering-chatgpt-for-career-enhancement/"><u>Top 6 Benefits: Mastering ChatGPT for Career Enhancement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-presents-the-ultimate-list-of-2023-festive-season-ipad-bargains/"><u>ZDNet Presents: The Ultimate List of 2023 Festive Season iPad Bargains</u></a></li>
+</ul></div>
 

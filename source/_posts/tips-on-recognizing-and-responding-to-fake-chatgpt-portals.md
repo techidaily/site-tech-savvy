@@ -1,7 +1,7 @@
 ---
 title: Tips on Recognizing and Responding to Fake ChatGPT Portals
-date: 2024-09-16T16:03:35.333Z
-updated: 2024-09-17T16:08:58.068Z
+date: 2024-12-05T00:59:36.787Z
+updated: 2024-12-06T17:46:17.364Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Identify a ChatGPT Phishing Site
 
@@ -51,6 +55,10 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 
  All are seemingly linked to ChatGPT; all are completely fake.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Website Design and Layout
 
 ![ChatGPT's homepage displayed on a laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-s-homepage-displayed-on-a-laptop-screen.jpg)
@@ -67,9 +75,17 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 
  In contrast, if a website sells ChatGPT-related products, such as AI writing detection tools, premium ChatGPT prompts, courses, etc., you should check its reliability thoroughly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Other Ways to Assess the Credibility of a Website
 
 ![A Hook Stealing Login Credentials From a Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/phishing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The following signs can help you assess the credibility and trustworthiness of a suspicious website selling ChatGPT-related products:
 
@@ -81,13 +97,6 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
 ![official chatgpt website with https lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/official-chatgpt-website-with-https-lock.jpg)
 * Search using the website's URL on Google or any other search engine. If there are bad reviews or negative comments about the website on public forums, that's another sign it could be malicious.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * If there are no details about the company that owns the website or the site lacks important pages (like a privacy policy or contact page), it might be a scam.
 * If the website doesn't have any reviews or online presence, that suggests it's pretty new, so it's best to steer clear of it.
 
@@ -98,13 +107,6 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
  If you see any signs mentioned above or the website appears suspicious at first glance, report it immediately (for example, to CISA in the USA and the NCSC in the UK—both national computer crime agencies for their respective countries). Do not use your personal information, not even to log in, and do not use credit cards or other financial information. Also, avoid downloading attachments or clicking website links.
 
  Besides that, post about the website with its URL in a public forum (somewhere like Reddit or X) and explain why you believe it is suspicious. It will prevent other users from falling victim to it and maybe encourage a security researcher to investigate it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Already Fallen Victim to a ChatGPT Phishing Website? Here's What to Do Next
 
@@ -124,16 +126,7 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
  If you have clicked on a link or a popup on the website, [check your browser for signs of hijacking](https://www.makeuseof.com/what-is-browser-hijacking/). If it appears that your browser has been hijacked, uninstall it completely and then install it again.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't Fall Prey to ChatGPT Phishing Websites
@@ -155,5 +148,22 @@ Image Credit: Descrier/[Flickr](https://www.flickr.com/photos/61502033@N02/14258
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-how-to-switch-on-windows-11s-hdr-functionality/"><u>[New] 2024 Approved How to Switch On Windows 11'S HDR Functionality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-converting-iphones-solo-vids-into-duos/"><u>[Updated] Converting iPhones' Solo Vids Into Duos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-muse-8-aids-from-gpt-to-content-makers/"><u>Artificial Muse: 8 Aids From GPT to Content Makers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-honor-magic-5-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Honor Magic 5 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-direct-chatgpt-and-enhanced-gpt-tools/"><u>Choosing Between Direct ChatGPT & Enhanced GPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-duality-of-innovation-and-authenticity-with-chatgpt/"><u>Decoding the Duality of Innovation & Authenticity with ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/destiny-2-voice-chat-not-working-here-are-proven-fixes-to-reconnect-with-friends/"><u>Destiny 2 Voice Chat Not Working? Here Are Proven Fixes to Reconnect with Friends</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/die-allerneuste-top-liste-der-beliebtesten-abenteuer-songs-gratuit-und-vollstandig-aktualisiert-fur-2n3/"><u>Die Allerneuste Top-Liste Der Beliebtesten Abenteuer Songs - Gratuit Und Vollständig Aktualisiert Für 2N3!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enlightening-ai-dialogues-premier-training-programs/"><u>Enlightening AI Dialogues: Premier Training Programs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-fix-the-issue-when-you-see-liquid-inside-charger-port-on-your-iphone-expert-advice-and-methods-gizmodotech/"><u>How to Fix the Issue When You See 'Liquid Inside Charger Port' On Your iPhone: Expert Advice & Methods | GizmodoTech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-frames-to-fabulous-the-ultimate-list-of-photo-plugins/"><u>In 2024, Frames to Fabulous The Ultimate List of Photo Plugins</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-mix-fold-3-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-gamers-channel-income-guide-for-2024/"><u>Techno-Gamers' Channel Income Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-costs-of-interacting-with-chatgpt/"><u>The Hidden Costs of Interacting with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-implications-of-the-ipad-pros-tandem-oled-screen-insights-into-upcoming-display-technologies/"><u>The Implications of the iPad Pro's Tandem OLED Screen: Insights Into Upcoming Display Technologies</u></a></li>
+</ul></div>
 

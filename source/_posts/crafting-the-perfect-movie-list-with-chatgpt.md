@@ -1,7 +1,7 @@
 ---
 title: Crafting the Perfect Movie List with ChatGPT
-date: 2024-11-20T16:52:22.553Z
-updated: 2024-11-27T17:05:57.743Z
+date: 2024-11-30T16:50:04.157Z
+updated: 2024-12-07T00:36:09.245Z
 tags:
   - chatgpt
   - open-ai
@@ -49,11 +49,7 @@ Imagine you are a movie and TV show recommendation expert. A user wants to find 
 ![Similar tv shows recommendation from ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/similar-tv-shows-recommendation-from-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Try a Different Genre
@@ -69,7 +65,7 @@ I've seen a lot of TV shows based on spy, romance, and war themes. I want you to
 ![radically different TV shows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radically-different-tv-shows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Identify Movies With a Desired Storyline
@@ -86,10 +82,6 @@ I would like to request a list of five TV shows that feature a female protagonis
 
 ![TV shows with a certain storyline-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tv-shows-with-a-certain-storyline-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Help Remember a Movie You've Forgotten
 
  You probably have that one movie you've seen in the past and would love to see again but can't remember the name. Maybe you saw it at a young age or just don't have great luck with keeping movie names in memory. ChatGPT can help you hunt down that elusive movie. Just describe every bit of the movie you can remember. Names of any actor you can recall, major scenes, storyline, every element you can think of, and let ChatGPT do its magic.
@@ -102,6 +94,14 @@ I would like to request a list of five TV shows that feature a female protagonis
 
 ![ChatGPT finds movies from description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-finds-movies-from-description.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Use ChatGPT to Discover Lesser-Known or Underrated Movies
 
  There are a lot of hidden gems sitting around in the catalogs of streaming services. A number of them are better than similar titles with better publicity. ChatGPT can help you discover some of these lesser-known movies you may have overlooked.
@@ -109,10 +109,6 @@ I would like to request a list of five TV shows that feature a female protagonis
  How? You can start by using prompts like: "Can you suggest some hidden gems in the comedy genre that most people haven't seen?" Or "What are some underrated historical Korean TV shows that deserve more attention, why are they worth seeing, and what's their IMDB score?"
 
 ![Underated Korean Tv series suggested by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/underated-korean-tv-series-suggested-by-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Research Movies Starring Your Favorite Actors
 
@@ -125,6 +121,10 @@ I would like to request a list of five TV shows that feature a female protagonis
 * Can you suggest some animated movies suitable for children with voice acting by Tom Hanks?
 
 ![Action movies featuring Dwayne--The Rock--Johnson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/action-movies-featuring-dwayne-the-rock-johnson.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Discover Movies From Short Clips
 
@@ -157,24 +157,22 @@ I would like to request a list of five TV shows that feature a female protagonis
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmonizing-content-and-platform-youtubes-brief-melodies-explained/"><u>[New] 2024 Approved Harmonizing Content and Platform YouTube's Brief Melodies Explained</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-tailoring-your-vimeo-experience-from-free-to-pro/"><u>[New] In 2024, Tailoring Your Vimeo Experience From Free to Pro</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-banishing-blackout-blues-from-youtube-videos/"><u>[Updated] In 2024, Banishing Blackout Blues From YouTube Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/p-dive-into-the-fundamentals-of-youtube-shorts-for-2024/"><u>A Deep Dive Into The Fundamentals of YouTube Shorts for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-in-action-comparing-githubs-copilot-and-chatgpt/"><u>AI in Action: Comparing GitHub's Copilot and ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-mastery-unleashed-delving-into-transfer-learning-methods/"><u>AI Mastery Unleashed: Delving Into Transfer Learning Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-general-guidance-how-chatgpt-tailors-instructions-to-you/"><u>Beyond General Guidance: How ChatGPT Tailors Instructions to You</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engage-with-ease-mastering-the-rtx-conversational-bot/"><u>Engage With Ease: Mastering the RTX Conversational Bot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-your-windows-chat-with-unbounded-gpt/"><u>Free Your Windows Chat with Unbounded GPT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-google-pixel-8-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Google Pixel 8 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ultimate-affordable-game-controllers-under-100/"><u>In 2024, Ultimate Affordable Game Controllers Under $100</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/iphone-under-the-moonlight-photography-tips/"><u>IPhone Under the Moonlight Photography Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/one-idea-for-three-assessing-ais-creativity-metrics/"><u>One Idea for Three: Assessing AI's Creativity Metrics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimal-chatgpt-command-strategies-unveiled/"><u>Optimal ChatGPT Command Strategies Unveiled</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preserve-your-virtual-discussions-with-gpt/"><u>Preserve Your Virtual Discussions with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/remote-efficiency-unlocked-the-sixest-benefits-of-chatgpt/"><u>Remote Efficiency Unlocked: The Sixest Benefits of ChatGPT</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/testing-the-waters-a-thorough-assessment-of-the-jackery-powerbar-and-its-built-in-ac-connection/"><u>Testing the Waters: A Thorough Assessment of the Jackery PowerBar and Its Built-In AC Connection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-office-tasks-with-the-help-of-gpt-technology/"><u>Transforming Office Tasks with the Help of GPT Technology</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-capture-the-best-sound-quality-your-ultimate-guidebook-to-recording-podcasts-via-zoom/"><u>[New] Capture the Best Sound Quality Your Ultimate Guidebook to Recording Podcasts via Zoom</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-stardew-ginger-island-playbook-for-2024/"><u>[New] The Ultimate Stardew Ginger Island Playbook for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-elite-camera-lineup-for-total-sphere-coverage/"><u>[Updated] 2024 Approved Elite Camera Lineup for Total Sphere Coverage</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-leverage-larger-thumbnails-for-video-success-for-2024/"><u>[Updated] Leverage Larger Thumbnails for Video Success for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessible-chatgpt-dialogue-for-android-users/"><u>Accessible ChatGPT Dialogue for Android Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/do-apples-airpods-pro-hold-up-since-their-launch-in-202-cuffs-assessing-worthiness-and-value/"><u>Do Apple's AirPods Pro Hold Up Since Their Launch in 202 Cuffs? Assessing Worthiness and Value</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embarking-on-the-road-with-vision-pros-travel-feature-heres-your-comprehensive-guide-before-departure/"><u>Embarking on the Road with Vision Pro's Travel Feature? Here's Your Comprehensive Guide Before Departure</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-mastering-the-art-of-uplifting-daily-existence-videos/"><u>In 2024, Mastering the Art of Uplifting Daily Existence Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-mindset-of-openais-creators/"><u>Inside the Mindset of OpenAI's Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mobile-market-update-samsung-surpasses-apples-shipment-figures-amidst-new-contender-emerges/"><u>Mobile Market Update: Samsung Surpasses Apple's Shipment Figures Amidst New Contender Emerges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-pc-issues-efficiently-through-chatai/"><u>Navigating PC Issues Efficiently Through ChatAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-setup-adding-an-extra-thunderbolt-display-to-your-m1-mac-mini-a-simple-guide/"><u>Seamless Setup: Adding an Extra Thunderbolt Display to Your M1 Mac Mini - A Simple Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-switching-your-iphones-language-and-region-settings/"><u>Step-by-Step Guide: Switching Your iPhone's Language and Region Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-screensaver-ultimate-guide-2023-zdnet/"><u>Top Rated Apple Watch Screensaver - Ultimate Guide 2023 (Zdnet)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-discover-auditory-wolf-screams/"><u>Updated In 2024, Discover Auditory Wolf Screams</u></a></li>
 </ul></div>
 

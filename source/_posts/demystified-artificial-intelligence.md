@@ -1,7 +1,7 @@
 ---
 title: Demystified Artificial Intelligence
-date: 2024-11-20T17:14:28.451Z
-updated: 2024-11-27T16:52:57.858Z
+date: 2024-12-04T19:50:48.173Z
+updated: 2024-12-06T23:00:03.672Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
 
  So, let's break down artificial intelligence into its most simple terms. How does AI work, and how is it being used?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Simplest Explanation of AI
 
  Artificial intelligence is like teaching computers to learn just like humans, therefore simulating how humans think. AI does this by looking at lots of data or examples and then using that to make decisions or predictions.
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
 
 ![chatgpt read aloud feature smartphone screen with chatgpt logo blur](https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  Artificial intelligence (AI) is a branch of computer science aiming to build machines capable of mimicking human intelligence. It involves creating algorithms that allow computers to learn from and make decisions or predictions based on data rather than following only explicitly programmed instructions.
@@ -70,6 +70,10 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
  Machine learning (ML), a subset of AI, involves systems that can "learn" from data. These algorithms improve their performance as the number of datasets they learn from increases.
 
  Deep learning, a further subset of machine learning, uses artificial neural networks to make decisions and predictions. It is designed to mimic how a human brain learns and makes decisions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Natural Language Processing (NLP)
 
@@ -100,9 +104,17 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  AI has potential and applications that stretch far beyond the tech realm alone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Chatbots
 
 ![chatgpt dalle logo creation on smartphone screen](https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc239157d241009df908a14c3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Gavin Phillips/MakeUseOf
 
@@ -112,19 +124,11 @@ Gavin Phillips/MakeUseOf
 
  HuggingChat, Claude, and Gemini (formerly Bard) are other examples of AI chatbots. These services all differ in certain ways. Some are free, some are paid, some specialize in certain areas, while others are better with general tasks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Data Analysis
 
  Data analysis is a key part of our world, whether in research, healthcare, business, or otherwise. Computers have been analyzing data for many years, but using artificial intelligence can take things to the next level.
 
  AI systems can more effectively detect trends, patterns, and inconsistencies than a typical computer (or human, for that matter). For example, an AI system could more distinctly highlight less obvious user habits or preferences for social media platforms, allowing it to show more personalized advertisements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Production and Design
 
@@ -142,16 +146,12 @@ Gavin Phillips/MakeUseOf
 
 ![microsoft image creator purple sunset on moon example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-image-creator-purple-sunset-on-moon-example.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Microsoft Image Creator/MakeUseOf
 
 [Some artists have rejected AI art generators](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/), as they are trained on pre-existing online art to learn how to create their prompted pieces. Artists claim this is a breach of copyright and contributes to the theft of original art, an issue that already spans the web.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Future of AI
@@ -187,18 +187,17 @@ Microsoft Image Creator/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-animationpros-complete-guide-24/"><u>[Updated] AnimationPros Complete Guide '24</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y78t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y78t Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-next-phase-brings-heightened-security-threats/"><u>AI's Next Phase Brings Heightened Security Threats</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-user-corrections-improve-ai-learning-in-chatgpt-platforms/"><u>Can User Corrections Improve AI Learning in ChatGPT Platforms?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-the-right-llm-unraveling-the-pros-and-cons-quickly/"><u>Choosing the Right LLM: Unraveling the Pros & Cons Quickly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-conversations-unveiling-the-process-of-chatgpt/"><u>Decoding Conversations: Unveiling the Process of ChatGPT</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-itel-a60-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Itel A60 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/investigating-windows-process-hostaggregate-use-and-security-implications/"><u>Investigating Windows' Process HostAggregate: Use & Security Implications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-image-format-change-with-dall-e-webp-output/"><u>Mastering Image Format Change with DALL-E WebP Output</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-no-compatible-hardware-error-in-rainbow-six-extraction/"><u>Resolving 'No Compatible Hardware' Error in Rainbow Six Extraction</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revive-your-ipad-now-a-comprehensive-walkthrough-to-hard-restart-all-models/"><u>Revive Your iPad Now! A Comprehensive Walkthrough to Hard Restart All Models</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/schritt-fur-schritt-guide-synchronisierung-von-qnap-nas-drives-uber-onedrive-in-windows-versionen-11-10-8-and-nicht-7/"><u>Schritt-Für-Schritt-Guide: Synchronisierung Von QNAP NAS Drives Über OneDrive in Windows (Versionen 11, 10, 8 & Nicht 7)</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-cinema-experience-on-ps5/"><u>Streamline Your Cinema Experience on PS5</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-webcam-integration-for-flawless-gameplay-logs/"><u>[New] 2024 Approved Webcam Integration for Flawless Gameplay Logs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-pro-level-screen-recording-on-pc-and-mac-uncovered/"><u>[New] In 2024, Pro-Level Screen Recording on PC & Mac Uncovered</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-11-useful-youtube-seo-tips-to-help-rank-your-video-high/"><u>[Updated] In 2024, 11 Useful YouTube SEO Tips to Help Rank Your Video High</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tgagif-movavi/"><u>網路直接無成本的TGA到GIF改造 - 使用Movavi圖像編輯工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-inspired-infographics-and-data-tables/"><u>ChatGPT-Inspired Infographics and Data Tables</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-apple-m2-powered-macbook-air-deals-at-just-749-during-amazons-prime-day-bonanza-insights/"><u>Exclusive: Apple M2-Powered MacBook Air Deals at Just $749 During Amazon's Prime Day Bonanza - Insights</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-p55plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P55+ Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/major-improvements-in-iphone-16-make-diy-repairs-simpler-insights-from-apple-tech-news/"><u>Major Improvements in iPhone 16 Make DIY Repairs Simpler - Insights From Apple | Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dynamics-of-colossal-machine-learning-constructs/"><u>The Dynamics of Colossal Machine Learning Constructs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-ideal-iphone-16pro-case-in-2-professional-insights/"><u>Ultimate Guide to Choosing the Ideal iPhone 16/Pro Case in 2지: Professional Insights</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-a59-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo A59 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-europes-ai-act-and-its-implications-for-advanced-conversational-interfaces-including-gpt-type-models/"><u>Unveiling Europe’s AI Act and Its Implications for Advanced Conversational Interfaces Including GPT-Type Models</u></a></li>
 </ul></div>
 

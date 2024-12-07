@@ -1,7 +1,7 @@
 ---
 title: Deciphering the Secrecy Surrounding ChatGPT
-date: 2024-09-10T16:18:52.832Z
-updated: 2024-09-17T16:12:03.620Z
+date: 2024-12-04T20:10:32.153Z
+updated: 2024-12-06T21:11:28.622Z
 tags:
   - chatgpt
   - open-ai
@@ -40,9 +40,17 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 
  Ethical considerations aside, there are serious concerns that Open AI is violating the General Data Protection Regulation (GDPR), and other similar privacy laws. Due to these concerns, [Italy officially banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) in March 2023, with the country's data protection authority accusing Open AI of violating user privacy with its data collection practices in more than one way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT's Privacy Policy: What You Need to Know
 
 ![ChatGPT logo on dark purple background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-policy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  How much data does OpenAI collect from ChatGPT users directly, and how? The service's [privacy policy](https://openai.com/policies/privacy-policy) offers some answers.
 
@@ -62,33 +70,31 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 
  You can sign up to use ChatGPT with your Google or Microsoft account, but that would not be a very good idea, as convenient as it may seem. In order to protect your privacy, you should create an account with an email, preferably using a secure and encrypted email service like [ProtonMail or Tutanota](https://www.makeuseof.com/protonmail-vs-tutanota-which-encrypted-email-is-best/).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Limit What You Share
 
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Delete Your Information
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the [California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/). So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is It Time to Regulate ChatGPT?
 
  After Italy broke the ice, talks of regulating ChatGPT and other AI products intensified. In April 2023, the European Data Protection Board (an independent European Union body that enforces GDPR) set up a task force to explore potential regulatory measures. Governments of several EU member states did the same, per [Reuters](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/).
 
  Around the same time, the National Telecommunications and Information Administration in the United States began looking at the possibility of regulating artificial intelligence, and it's safe to assume governments around the world will take similar regulatory action in the years to come. Some fear excessive regulation could stifle progress, so it's more than likely the debates will continue as the world tries to navigate this landscape.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly
 
@@ -111,5 +117,19 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-frame-perfect-capture-leading-slow-motion-cameras-reviewed/"><u>[New] Frame-Perfect Capture Leading Slow Motion Cameras Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-gimbals-matched-for-high-res-dslrs/"><u>[Updated] Best Gimbals Matched for High-Res DSLRs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-explore-the-finest-5-android-photo-editing-apps/"><u>[Updated] In 2024, Explore the Finest 5 Android Photo Editing Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-music-mastery-essentials-high-quality-dj-video-samples/"><u>[Updated] Music Mastery Essentials High-Quality DJ Video Samples</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-the-perfect-movie-list-with-chatgpt/"><u>Crafting the Perfect Movie List with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-googles-ai-gemini-its-mission-and-current-endeavors/"><u>Deciphering Google's AI Gemini: Its Mission and Current Endeavors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detecting-flaws-in-chatgpts-security-layer/"><u>Detecting Flaws in ChatGPT’s Security Layer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enhance-your-browsing-fixing-fuzzy-videos-in-chrome-and-phone-apps-for-2024/"><u>Enhance Your Browsing Fixing Fuzzy Videos in Chrome and Phone Apps for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/premier-videography-instruments-for-2024/"><u>Premier Videography Instruments for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplifying-age-verification-on-tiktok-accounts-for-2024/"><u>Simplifying Age Verification on TikTok Accounts for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/solving-scan-errors-identifying-common-reasons-behind-windows-scanner-malfunctions/"><u>Solving Scan Errors: Identifying Common Reasons Behind Windows Scanner Malfunctions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/titans-of-tech-talk-blending-blizzards-magic-with-microsofts-machine-intelligence-interview/"><u>Titans of Tech Talk: Blending Blizzard's Magic with Microsoft's Machine Intelligence [Interview]</u></a></li>
+</ul></div>
 

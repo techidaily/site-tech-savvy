@@ -1,7 +1,7 @@
 ---
 title: "The Brush in the Cloud: Crafting Vivid AI Art with GPT"
-date: 2024-09-14T16:19:48.519Z
-updated: 2024-09-17T16:14:57.239Z
+date: 2024-12-03T16:16:59.316Z
+updated: 2024-12-06T19:36:17.942Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 
  The short answer is no. ChatGPT is not an image generation system and cannot directly output images. However, it can help create text-based descriptions of images that can then be used as input into other image generation systems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Workarounds for Generating AI Images With ChatGPT
 
 ![chatgpt as a prompt generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-as-a-prompt-generator.jpg)
@@ -47,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
  There are two main ways to generate AI images using ChatGPT: using it as a prompt generator for your favorite AI image generator, and using OpenAI's DALL-E.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Use ChatGPT as a Prompt Generator
@@ -68,10 +69,7 @@ You will now act as a prompt generator. I will describe an image to you, and you
 Create an image of a tranquil beach scene at sunset. The sun is just touching the horizon, casting warm orange and pink hues across the sky. The water is calm and reflective, with gentle waves lapping against the shore. In the distance, you can see silhouettes of palm trees against the colorful sky. The beach is deserted except for a few seagulls wandering along the shoreline. Capture the peacefulness and serenity of this moment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use OpenAI's DALL-E
@@ -80,9 +78,17 @@ Create an image of a tranquil beach scene at sunset. The sun is just touching th
 
  Similar to ChatGPT, DALL-E is accessible for free through OpenAI's website. If you need help fine-tuning your prompts for DALL-E, you can also use ChatGPT to generate variations of your initial prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Would ChatGPT Ever Be Able to Create Images Directly?
 
  ChatGPT is not currently able to generate images directly, and it is unlikely that this capability will be added soon. The telltale sign of this is the existence of DALL-E, which provides this ability. For the foreseeable future, it is best to think of ChatGPT as a tool for generating text and use other models like DALL-E for image generation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Creating Better Image Generation Prompts With ChatGPT
 
@@ -107,5 +113,22 @@ Create an image of a tranquil beach scene at sunset. The sun is just touching th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-instagram-video-a-complete-guide-to-content-posting/"><u>[New] In 2024, Instagram Video A Complete Guide to Content Posting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-photo-inspector-fast-and-reliable/"><u>[Updated] Superior Photo Inspector, Fast & Reliable</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-prowess-in-phrasing-best-tags-for-gamer-videos/"><u>2024 Approved Prowess in Phrasing Best Tags for Gamer Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-power-dynamics-strong-vs-weak/"><u>AI Power Dynamics: Strong Vs. Weak</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-writing-simplified-by-hix/"><u>AI-Powered Writing Simplified by HIX</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-recent-ipad-launch-hit-a-snag-with-major-oversight-corrective-measures-explained-analysis-by-zdnet/"><u>Apple's Recent iPad Launch Hit a Snag with Major Oversight; Corrective Measures Explained | Analysis by ZDNet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/free-downloaders-download-youtube-thumbnail-for-free-for-2024/"><u>Best Free Downloaders Download YouTube Thumbnail for Free for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/command-driven-dialogue-giving-chatgpt-its-voice-back/"><u>Command-Driven Dialogue: Giving ChatGPT Its Voice Back</u></a></li>
+<li><a href="https://win11.techidaily.com/full-method-to-turn-off-wsl-in-windows-1011/"><u>Full Method to Turn Off WSL in Windows 10/11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-macos-security-effective-strategies-for-retrieve-keystore-passwords-cybersolutions-blog/"><u>Mastering macOS Security: Effective Strategies for Retrieve Keystore Passwords | CyberSolutions Blog</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamlessly-moving-your-memories-a-guide-to-uploading-google-photos-into-icloud/"><u>Seamlessly Moving Your Memories: A Guide to Uploading Google Photos Into iCloud</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/to-upgrade-or-not-insider-perspectives-on-why-you-should-consider-or-skip-the-iphone-16-reviewed/"><u>To Upgrade or Not: Insider Perspectives on Why You Should Consider (or Skip) the iPhone 16 Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/workplace-transformation-by-ai-innovations/"><u>Workplace Transformation by AI Innovations</u></a></li>
+</ul></div>
 

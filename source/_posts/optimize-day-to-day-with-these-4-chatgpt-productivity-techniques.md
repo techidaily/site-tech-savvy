@@ -1,7 +1,7 @@
 ---
 title: Optimize Day-to-Day with These 4 ChatGPT Productivity Techniques
-date: 2024-11-23T16:46:47.092Z
-updated: 2024-11-27T16:28:16.304Z
+date: 2024-11-30T19:30:48.999Z
+updated: 2024-12-06T22:13:37.685Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 ![ChatGPT Eisenhower Matrix example prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-eisenhower-matrix-example-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This approach is named for [U.S. President Dwight D. Eisenhower](https://www.presidency.ucsb.edu/documents/address-the-second-assembly-the-world-council-churches-evanston-illinois) , who once quoted a former college president's philosophy about time management in a speech.
 
  "I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent," said Eisenhower.
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 ![ChatGPT ABCD Method part two](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-abcd-method-part-two.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As this example shows, the chatbot sorts your activities into assignments that require immediate attention (such as working your shift for the day), as well as those that can go on the back burner for a little while (such as returning a call to your doctor's office).
@@ -66,15 +62,15 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
  For the most part, the chatbot can help you determine which of your many tasks deserves your attention the most. For anyone who gets overwhelmed by too many pending responsibilities, this is a simple way to let technology take on a little of the decision-making for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Streamline Your Workflow With ChatGPT
 
  Depending on your profession, ChatGPT can also offer specific advice for speeding up your workflow. In this example, we prompted the chatbot to address a common time suck: reading and responding to emails.
 
 ![ChatGPT email prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-email-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For this prompt, the chatbot provided some general advice about using templates and unsubscribing from as much as possible. However, you can also drill down to get more specific advice for these issues as well.
 
@@ -82,15 +78,19 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 ![ChatGPT unnecessary email advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-unnecessary-email-advice.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For a more proactive take, the chatbot can also find ways to automate some of your routine tasks. For this example, we prompted ChatGPT to provide some automation ideas for a realtor.
 
 ![ChatGPT automation ideas for a realtor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-automation-ideas-for-a-realtor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT provided several tips in regard to email marketing, virtual tours, and property listing syndication services that can help realtors excel in their line of work while saving some time. Prompt the chatbot for some advice about time management in your own career for more specific tips.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Break Down a Large Project Into Manageable Sections
 
@@ -99,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
  In instances like these, you can even prompt ChatGPT to assume various roles. In this case, we had it present the information like a professional organizer, with a focus on getting through the process as quickly and efficiently as possible.
 
 ![ChatGPT decluttering prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-decluttering-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The chatbot provided a series of tips for decluttering more efficiently. Many of them focused on speeding up the process, such as the advice to make rapid decisions about whether to keep or donate a particular item.
 
@@ -113,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 ![ChatGPT procrastination prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-procrastination-prompt.jpg)
 
  The chatbot offered plenty of practical advice about eliminating unnecessary steps and visualizing the end result for motivation. Given the sheer amount of information that ChatGPT can pull from, it can likely suggest time-saving options for your situation, too. Remember to provide detailed, specific prompts to get the best advice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Save Time With ChatGPT
 
@@ -137,18 +137,19 @@ thumbnail: https://thmb.techidaily.com/42f2023e8fbcdfdd01f86d9db51a4f7bd6fa603af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-facebook-video-players-list/"><u>[New] In 2024, The Ultimate Facebook Video Players List</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-tips-for-constructing-motivating-daily-routine-vids/"><u>[New] In 2024, Tips for Constructing Motivating Daily Routine Vids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmented-efficiency-with-xr-technology-score-a-frugal-deal-at-20-off-for-amazons-prime-day-featuring-three-virtual-screens-per-macbook-zdnet/"><u>Augmented Efficiency with XR Technology: Score a Frugal Deal at 20% Off for Amazon's Prime Day - Featuring Three Virtual Screens per MacBook! | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/black-friday-breakdown-how-vr-headsets-became-the-must-have-gadget-eclipsing-even-apples-airpods-exclusive-report-by-zdnet/"><u>Black Friday Breakdown: How VR Headsets Became the Must-Have Gadget, Eclipsing Even Apple's AirPods | Exclusive Report by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-productivity-during-prime-day-with-3x-vr-display-on-discounted-xr-glasses-see-how-it-works/"><u>Boost Your Productivity During Prime Day with 3X VR Display on Discounted XR Glasses – See How It Works!</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-14-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi 14 Ultra Location Settings | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-guide-why-using-a-vpn-is-crucial-for-your-vision-pro-and-similar-arvr-devices/"><u>Essential Guide: Why Using a VPN Is Crucial for Your Vision Pro and Similar AR/VR Devices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/handling-non-compatible-media-coding-methods/"><u>Handling Non-Compatible Media Coding Methods</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-best-value-for-money-8-ace-free-srt-apps-reviewed/"><u>In 2024, Best Value for Money 8 Ace Free SRT Apps Reviewed</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/masterful-concealment-of-wireless-networks-windows-style/"><u>Masterful Concealment of Wireless Networks, Windows Style</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210703534-9781959561064-quantum-origins/"><u>Quantum Origins | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-mfc71udll-absence-in-windows-os/"><u>Solving Mfc71u.dll Absence in Windows OS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-integrating-images-into-your-insta-world/"><u>[New] Integrating Images Into Your Insta World</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elevate-creativity-discover-the-best-android-drawing-apps-of-all-time/"><u>[Updated] Elevate Creativity Discover the Best Android Drawing Apps of All Time</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-pick-mics-for-youtube-entrepreneurs/"><u>[Updated] Expert Pick Mics for YouTube Entrepreneurs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-amateur-to-pro-instagram-video-tutorials-for-2024/"><u>[Updated] From Amateur to Pro Instagram Video Tutorials for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-dive-deep-into-obs-advanced-techniques-for-game-capture/"><u>[Updated] In 2024, Dive Deep Into OBS Advanced Techniques for Game Capture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-unveils-easier-iphone-16-repairs-whats-new-and-why-it-matters-for-tech-enthusiasts-zdnet/"><u>Apple Unveils Easier iPhone 16 Repairs - What's New & Why It Matters for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-walkthrough-installing-microsofts-surface-pro-4-drivers-in-windows-environment/"><u>Complete Walkthrough: Installing Microsoft's Surface Pro 4 Drivers in Windows Environment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detailed-steps-for-lifting-blocks-on-your-gpt-account/"><u>Detailed Steps for Lifting Blocks on Your GPT Account</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-honor-x50-frp-by-drfone-android/"><u>How Can We Bypass Honor X50 FRP?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-well-does-the-new-iphone-14-meet-user-expectations-an-in-depth-analysis/"><u>How Well Does the New iPhone 14 Meet User Expectations? An In-Depth Analysis</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-nokia-g310-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Nokia G310 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nightshade-your-artistic-ally-in-the-age-of-generative-duplication/"><u>Nightshade: Your Artistic Ally in the Age of Generative Duplication</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-dawn-of-enhanced-ai-gpt-4-arrival/"><u>The Dawn of Enhanced AI: GPT-4 Arrival</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-ai-writing-enhancers-for-efficient-content-creation/"><u>Top 8 AI Writing Enhancers for Efficient Content Creation</u></a></li>
 </ul></div>
 

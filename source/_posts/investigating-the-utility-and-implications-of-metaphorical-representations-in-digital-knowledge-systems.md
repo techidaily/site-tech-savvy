@@ -1,7 +1,7 @@
 ---
 title: Investigating the Utility and Implications of Metaphorical Representations in Digital Knowledge Systems
-date: 2024-11-21T16:58:46.494Z
-updated: 2024-11-27T17:12:20.894Z
+date: 2024-12-02T19:21:33.328Z
+updated: 2024-12-06T21:49:21.819Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Differences between Google Bard and Bing Chat?
@@ -44,23 +44,19 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
 
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Accuracy
 
@@ -77,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Ease of Use
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
@@ -97,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
  We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As both platforms are going through rapid development, the user experience will continue to improve.
 
@@ -113,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
  GPT-4 is a generative model. It generates answers based on the text it's been trained on. By contrast, [LaMDA works differently](https://www.makeuseof.com/what-is-google-lamda-ai/)—it is a discriminative model, meaning it can distinguish between various kinds of text.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
 
@@ -153,22 +153,24 @@ thumbnail: https://thmb.techidaily.com/3fc4ce39cf32e051d437369f1ad4829a21ac17b8d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-efficient-consumption-of-facebook-live-events-and-videos-for-2024/"><u>[New] Efficient Consumption of Facebook Live Events & Videos for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-refine-your-images-quickly-freepaid-lut-options-for-canon-for-2024/"><u>[New] Refine Your Images Quickly - Free/Paid LUT Options for Canon for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-navigating-screen-space-enlargement-on-youtube/"><u>[Updated] Navigating Screen Space Enlargement on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-alternative-to-apples-optometry-woes-how-xr-glasses-solved-my-visual-needs-with-zero-regrets/"><u>Affordable Alternative to Apple's Optometry Woes: How XR Glasses Solved My Visual Needs with Zero Regrets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-innovative-vision-pro-labs-spark-enthusiastic-reactions-among-tech-developers-confirms-company-zdnet/"><u>Apple’s Innovative Vision Pro Labs Spark Enthusiastic Reactions Among Tech Developers, Confirms Company | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-the-nuances-of-remote-interactions-in-virtual-spaces-a-deep-dive-into-unexpected-vr-jumps-and-online-handshakes-zdnet/"><u>Discovering the Nuances of Remote Interactions in Virtual Spaces: A Deep Dive Into Unexpected VR Jumps and Online Handshakes | ZDnet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-insight-sonys-revolutionary-xr-headset-unveiled-at-ces-2024-key-takeaw/"><u>Exclusive Insight: Sony's Revolutionary XR Headset Unveiled at CES 2024 – Key Takeaw</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fhss-changes-the-carrier-frequency-rapidly-according-to-a-pseudorandom-sequence-known-to-both-ends-of-the-communication-link/"><u>FHSS Changes the Carrier Frequency Rapidly According to a Pseudorandom Sequence Known to Both Ends of the Communication Link.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/high-fidelity-enhances-virtual-universe-with-second-life-acquisition-insights-from-zdnet/"><u>High Fidelity Enhances Virtual Universe with Second Life Acquisition: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-experience-apples-immersive-3d-content-with-the-meta-quest-3-headset-vr-gadget-reviews/"><u>How to Experience Apple's Immersive 3D Content with the Meta Quest 3 Headset | VR Gadget Reviews</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-start-promoting-smart-a-beginners-guide-to-using-telegram/"><u>In 2024, Start Promoting Smart A Beginner's Guide to Using Telegram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mira-the-ar-solution-for-businesses-now-backed-by-apple-recent-tech-acquisition-insights/"><u>Mira: The AR Solution for Businesses, Now Backed by Apple | Recent Tech Acquisition Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/reestablishing-clear-audio-conversations-on-valorant-pc/"><u>Reestablishing Clear Audio Conversations on Valorant PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-into-the-future-of-gaming-disney-unveils-a-shared-vr-walking-treadmill-learn-how-it-transforms-your-interactive-playtime-zdnet/"><u>Step Into the Future of Gaming: Disney Unveils a Shared VR Walking Treadmill - Learn How It Transforms Your Interactive Playtime | ZDNET</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-on-how-to-pair-your-ps4-gamepad/"><u>Ultimate Tutorial on How to Pair Your PS4 Gamepad</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-by-drfone-android/"><u>Universal Unlock Pattern for Vivo</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/web-development-simplified-crafting-interactive-sites-with-chatgpt-integration/"><u>Web Development Simplified: Crafting Interactive Sites with ChatGPT Integration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-content-game-with-extended-instagram-videos/"><u>[New] Elevate Your Content Game with Extended Instagram Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-cutting-out-background-sounds-in-skype-chats/"><u>[New] In 2024, Cutting Out Background Sounds in Skype Chats</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-exploring-non-google-ar-visual-interactions/"><u>[Updated] Exploring Non-Google Ar Visual Interactions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-zoom-transcription-software/"><u>2024 Approved Best Zoom Transcription Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-without-accounts-innovative-applications/"><u>ChatGPT Without Accounts: Innovative Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-dialogue-dominance-enhanced-gemini-vs-plus-chatgpt/"><u>Decoding Dialogue Dominance: Enhanced Gemini Vs. Plus-ChatGPT</u></a></li>
+<li><a href="https://article-helps.techidaily.com/decoding-the-best-hdr-cameras-for-professionals-for-2024/"><u>Decoding the Best HDR Cameras for Professionals for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-workings-of-these-gpt-4-powered-apps/"><u>Decoding the Workings of These GPT-4 Powered Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-the-differences-our-experience-with-mistral-ais-le-chat-versus-chatgpt/"><u>Evaluating the Differences: Our Experience with Mistral AI's Le Chat versus ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exciting-news-for-apple-developers-enhance-your-code-with-our-latest-complimentary-ai-upgrades/"><u>Exciting News for Apple Developers: Enhance Your Code with Our Latest Complimentary AI Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-on-the-newest-iphone-15-unmatched-performance-that-attracts-both-novices-and-pro-enthusiasts-review/"><u>Expert Advice on the Newest iPhone 15: Unmatched Performance That Attracts Both Novices and 'Pro' Enthusiasts Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-origins-of-the-2024-crowdstrike-windows-crisis-insights-and-lessons-from-a-retrospective-analysis-zdnet/"><u>Exploring the Origins of the 2024 CrowdStrike-Windows Crisis: Insights and Lessons From a Retrospective Analysis | ZDNET</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-use-of-telegram-in-a-step-by-step-approach/"><u>Mastering the Use of Telegram in a Step-by-Step Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/musk-discloses-grok-intelligence-deciphering-its-meaning-and-fees/"><u>Musk Discloses Grok Intelligence - Deciphering Its Meaning and Fees</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-bards-impact-vocabulary-that-never-dies/"><u>The Bard's Impact: Vocabulary That Never Dies</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-facebook-gateway-evaluating-its-effectiveness-in-user-login-across-platforms/"><u>The Facebook Gateway: Evaluating Its Effectiveness in User Login Across Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/user-anonymity-on-the-line-with-chatgpt/"><u>User Anonymity on the Line with ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-latest-mac-studio-has-held-off-my-upgrade-to-a-new-m1-max-mac-mini-insights-for-tech-enthusiasts/"><u>Why the Latest Mac Studio Has Held Off My Upgrade to a New M1 Max Mac Mini: Insights for Tech Enthusiasts</u></a></li>
 </ul></div>
 

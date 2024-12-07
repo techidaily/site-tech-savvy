@@ -1,7 +1,7 @@
 ---
 title: "From Ideas to Delivery: Creating Presentations with ChatGPT"
-date: 2024-09-13T16:22:39.730Z
-updated: 2024-09-17T16:06:44.738Z
+date: 2024-12-02T00:39:31.716Z
+updated: 2024-12-06T19:43:23.400Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a Presentation From Scratch With ChatGPT
 
  Before diving into creating a presentation with ChatGPT, let's go over the steps involved. We'll use a combination of two AI tools to make this presentation.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
  Of course, like most other [AI presentation tools](https://www.makeuseof.com/tools-use-ai-to-make-presentation/), the free version of SlidesAI has limitations. You can only create three presentations per month, and the text for each presentation is limited to 2500 characters. You can purchase a paid plan to extend these limits.
 
  Once you've generated the presentation, all that is left is to make some final changes and export the presentation to any format you like. If you want to create a PowerPoint slideshow with AI, you can follow these same steps and then export the slideshow to PowerPoint.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Generate the Presentation Text With ChatGPT
 
@@ -57,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
  If you'll be using the free version of SlidesAI, it's important to note that there are limits on the number of characters and slides. Specifically, the free version has a limit of 2500 characters and can generate no more than ten slides. You can adjust your prompt or edit the ChatGPT output if you need to work within these limits.
 
  If you want to make the whole process even easier and don't feel like editing the AI-generated text yourself, you can use yet another [AI writing tool](https://www.makeuseof.com/ai-writing-tools/) to edit ChatGPT's output.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install SlidesAI for Google Slides
 
@@ -91,24 +103,18 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 8. When all is set, go back to the **Text** tab and click **Create Slides**.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Add the Finishing Touches and Export the Presentation
 
@@ -128,19 +134,6 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to **File > Download** and then select **Microsoft PowerPoint**.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Create Efficient Presentations in Minutes
 
@@ -167,5 +160,24 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-master-earning-plan-top-5-highest-paying-ig-posts-for-2024/"><u>[Updated] Master Earning Plan Top 5 Highest Paying IG Posts for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-the-ultimate-guide-to-mastering-apple-pay-in-store-and-online-usage-tips-why-its-a-smart-choice/"><u>1. The Ultimate Guide to Mastering Apple Pay: In-Store & Online Usage Tips - Why It's a Smart Choice</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-flipping-fun-facts-into-memes-with-kinemaster/"><u>2024 Approved Flipping Fun Facts Into Memes with KineMaster</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-reveal-the-best-7-video-streaming-apps-to-go-live-on-youtube-iphoneandroid/"><u>2024 Approved Reveal the Best 7 Video Streaming Apps to Go Live on YouTube (iPhone/Android)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automate-your-writing-tasks-with-hix-ai-and-gpt-4/"><u>Automate Your Writing Tasks With HIX AI and GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-emotions-the-quest-for-empathetic-ai/"><u>Deciphering Emotions: The Quest for Empathetic AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystified-the-turing-test-and-its-potential-disruption/"><u>Demystified: The Turing Test & Its Potential Disruption</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/how-to-write-podcast-script-plus-10plus-free-examples/"><u>How To Write Podcast Script (Plus 10+ Free Examples)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-co-marketing-brands-and-youtubes-dynamic-duo/"><u>In 2024, Co-Marketing Brands and YouTube's Dynamic Duo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-make-each-second-count-engaging-activities-that-blend-learning-and-multitasking/"><u>In 2024, Make Each Second Count Engaging Activities that Blend Learning and Multitasking</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/in-depth-analysis-of-movavis-strategies-in-altering-asylum-regulations/"><u>In-Depth Analysis of Movavi's Strategies in Altering Asylum Regulations</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-mouse-gesture-tricks-in-microsofts-modern-edge-browser/"><u>Learn Mouse Gesture Tricks in Microsoft's Modern Edge Browser</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-6-pro-versus-iphone-13-pro-choosing-the-ultimate-high-end-smartphone-expert-comparison/"><u>Pixel 6 Pro Versus iPhone 13 Pro: Choosing the Ultimate High-End Smartphone – Expert Comparison</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-workflows-integrating-gpt-for-enhanced-output/"><u>Streamline Workflows: Integrating GPT for Enhanced Output</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-key-traits-of-gpt-4-and-gpt-35/"><u>Unveiling Key Traits of GPT-4 and GPT-3.5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-hidden-price-of-free-phones-from-wireless-providers-what-you-need-to-know/"><u>Unveiling the Hidden Price of 'Free' Phones From Wireless Providers: What You Need to Know</u></a></li>
+</ul></div>
 

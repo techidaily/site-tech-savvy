@@ -1,7 +1,7 @@
 ---
 title: Discovering GPT Autonomy - Distinctions From Conversational AI
-date: 2024-09-13T16:05:18.529Z
-updated: 2024-09-17T16:25:53.930Z
+date: 2024-12-05T18:11:05.991Z
+updated: 2024-12-06T23:18:22.831Z
 tags:
   - chatgpt
   - open-ai
@@ -26,11 +26,19 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Auto-GPT?
 
  Auto-GPT is an open-source AI project built on ChatGPT's Generative Pre-trained Transformer (GPT). At its core, Auto-GPT gives GPT the ability to act autonomously without requiring a human agent to prompt its every action. It isn't a novel technology, and it isn't a new [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/). And it is definitely not a new AI chatbot—we've had enough of those for a year.
 
  So, yes, Auto-GPT gives GPT the ability to act autonomously. Why is that cool? What makes Auto-GPT any different from ChatGPT?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Does Auto-GPT Differ from ChatGPT?
 
@@ -39,6 +47,10 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
  Let's say you wanted to plan your kid's birthday with ChatGPT. What do you do? Well, you head to ChatGPT and type in "Help me plan a birthday party for my 8-year-old daughter." In a few seconds, ChatGPT spits out a list of things you should account for.
 
 ![ChatGPT plans birthday party](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plans-birthday-party.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT provided a list that told us to plan for the birthday theme, venue, gifts, food and drinks, decorations, guest lists, and all the usual suspects. The thing is, planning a birthday is complex with a subset of problems. So we took up two subsets of problems, sending invitations to our guest lists and shopping for gifts. This meant we had to prompt ChatGPT once again, this time asking how to plan our guest lists and send out invitations as well as gift ideas and the best places to get them.
 
@@ -56,6 +68,10 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
 
  Still not convincing? Well, there is the scary spawn of Auto-GPT called [Chaos-GPT](http://twitter.com/chaos%5Fgpt) that shares its supervillain manifesto on Twitter. A parody of some sort (we hope), Chaos-GPT is an Auto-GPT project tasked with the destruction of humanity. While the actions Chaos-GPT plans to take seem scary and practical, it's generally laughable because it doesn't have access to take those actions. But let's hope it never gets those accesses so we don't laugh our way to extinction.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does Auto-GPT Work?
 
  Auto-GPT [works much like ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) but with the added ability that AI agents offer. You can picture AI agents as personal assistants. Just as a personal assistant helps schedule and manage tasks for their employer, an AI agent can be programmed to perform specific tasks or make decisions based on a set of rules and a predefined goal.
@@ -67,10 +83,7 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
  So, Auto-GPT is basically GPT paired with a companion robot that tells GPT what to do. You tell the companion robot what your goal is, and the robot, in turn, uses GPT and several APIs to carry out every step needed to achieve whatever goal you've set for it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Auto-GPT: An Exciting Future for AI
@@ -94,5 +107,18 @@ Artificial intelligence is racing ahead so fast that even the most adept minds s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-cutting-edge-creativity-on-tiktok-mastering-video-designs-in-minutes-for-2024/"><u>[Updated] Cutting-Edge Creativity on TikTok Mastering Video Designs in Minutes for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-overview-in-depth-analysis-of-costs-capabilities-and-hands-on-reviews-for-tech-enthusiasts/"><u>Apple Vision Pro Overview: In-Depth Analysis of Costs, Capabilities & Hands-On Reviews for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automating-analysis-with-chatgpt-in-spreadsheets/"><u>Automating Analysis with ChatGPT in Spreadsheets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-your-vision-essential-windows-10-tips-for-future-directors-for-2024/"><u>Craft Your Vision Essential Windows 10 Tips for Future Directors for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interacting-seamlessly-with-nvidias-ai-conversation-agent/"><u>Interacting Seamlessly with Nvidia's AI Conversation Agent</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-note-50-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme Note 50</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-releases-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top-Rated iPhone Releases - Comprehensive Testing & Reviews by Tech Experts</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199715642-troubleshoot-and-fix-your-pcs-0x000000d1-error-in-minutes-no-tech-know-how-required/"><u>Troubleshoot and Fix Your PC's 0X000000D1 Error in Minutes - No Tech Know-How Required</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-apple-watch-series-se-stellar-quality-meets-competitive-pricing/"><u>Unveiling the Apple Watch Series SE: Stellar Quality Meets Competitive Pricing</u></a></li>
+</ul></div>
 

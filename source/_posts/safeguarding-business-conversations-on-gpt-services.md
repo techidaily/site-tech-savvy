@@ -1,7 +1,7 @@
 ---
 title: Safeguarding Business Conversations on GPT Services
-date: 2024-09-12T16:04:47.968Z
-updated: 2024-09-17T16:20:03.696Z
+date: 2024-11-29T23:37:45.688Z
+updated: 2024-12-06T22:04:06.357Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Don’t Save Your Chat History
 
  One of the simplest yet effective steps to protect your privacy is to avoid saving your chat history. ChatGPT, by default, stores all interactions between users and the chatbot. These conversations are collected to train OpenAI’s systems and are subject to inspection by moderators.
@@ -41,9 +45,17 @@ thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f
 
 ![ChatGPT showing options to disable chat history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that [OpenAI](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) says that even with this setting enabled, conversations are retained for 30 days with the option for moderators to review them for abuse before permanent deletion. Still, disabling chat history is one of the best things you can do if you want to continue using ChatGPT.
 
  Tip: If you need access to your data on ChatGPT, export them first. You can also save them by taking screenshots, writing notes manually, copy-pasting them into a separate application, or using secure cloud storage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delete Conversations
 
@@ -59,7 +71,15 @@ thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f
 
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
 
@@ -70,19 +90,6 @@ thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f
  The massive ChatGPT data leak from June 2022 to May 2023 illustrates how important this point is. [Search Engine Journal](https://www.searchenginejournal.com/massive-leak-of-chatgpt-credentials-over-100000-accounts-affected/489801/#close) reports that over 100,000 ChatGPT account credentials were compromised and sold on dark web marketplaces because of the incident.
 
  Limit interactions with ChatGPT to non-confidential queries and avoid sharing proprietary details. Moreover, apply good password hygiene and enable two-factor authentication to prevent compromising your account.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Use Data Anonymization Techniques
 
@@ -110,19 +117,6 @@ thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f
 
  Don’t install shady apps that ask for random permissions on your phone. Verify their data handling practices to check if they align with your organization’s privacy standards.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use ChatGPT Responsibly for Work
 
  Maintaining privacy while using ChatGPT for work is tricky. If you absolutely must use ChatGPT to do your job, understand the privacy risks involved. There’s no fail-safe method to protect your data once you hand them over to an AI tool. But you can take steps to cut the chances of data leaks.
@@ -144,5 +138,26 @@ thumbnail: https://thmb.techidaily.com/dd9c870afbe3f2dfe92f1ba00bd92b9730edbfc9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-story-viewer-view-facebook-stories-anonymously/"><u>[Updated] 2024 Approved Facebook Story Viewer View Facebook Stories Anonymously</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-ipad-pro-comparing-11-inch-and-129-inch-models-with-latest-m1m2-chips-expert-insights/"><u>Choosing the Right iPad Pro: Comparing 11-Inch & 12.9-Inch Models with Latest M1/M2 Chips - Expert Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-teaching-and-learning-with-5-innovative-chatgpt-strategies/"><u>Elevating Teaching and Learning with 5 Innovative ChatGPT Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grasping-the-copyright-conundrum-in-ai-realm/"><u>Grasping the Copyright Conundrum in AI Realm</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-i-overcame-apples-limited-fov-with-budget-friendly-xr-glasses-insights-from-a-zdnet-review/"><u>How I Overcame Apple's Limited FOV with Budget-Friendly XR Glasses - Insights From a ZDNet Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-vs-2-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic Vs 2 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-spark-10c-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-tutorial-on-youtube-thumbnail-extraction-for-all-os-enthusiasts/"><u>In 2024, Tutorial on YouTube Thumbnail Extraction for All OS Enthusiasts</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unlock-premiere-pros-full-potential-top-15-must-have-plugins-free/"><u>In 2024, Unlock Premiere Pros Full Potential Top 15 Must-Have Plugins (Free)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-roleplay-elements-fusing-technology-and-art-in-dungeons-and-dragons/"><u>Innovating Roleplay Elements: Fusing Technology & Art in Dungeons & Dragons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-the-simplified-audio-experience-of-sonos-new-s2-app-but-dont-overlook-these-key-limitations/"><u>Introducing the Simplified Audio Experience of Sonos' New S2 App - But Don't Overlook These Key Limitations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maintaining-confidentiality-in-work-chatai-usage/"><u>Maintaining Confidentiality in Work ChatAI Usage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-choices-foremost-audio-craftsmen-for-iphones-for-2024/"><u>Optimal Choices Foremost Audio Craftsmen for iPhones for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/seamless-integration-of-moviemaker-6-into-your-device-for-2024/"><u>Seamless Integration of Moviemaker 6 Into Your Device for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-3-sites-to-find-free-huawei-unlock-codes-to-unlock-your-huawei-phone-by-drfone-android/"><u>Top 3 Sites to Find Free Huawei Unlock Codes to Unlock Your Huawei Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-iphones-comprehensive-reviews-by-industry-experts-zdnet/"><u>Top-Ranking iPhones : Comprehensive Reviews by Industry Experts - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-protectors-the-ultimate-guide-to-iphone-16-and-16-pro-cases-reviews-by-tech-gurus/"><u>Top-Rated Protectors: The Ultimate Guide to iPhone 16 & 16 Pro Cases - Reviews by Tech Gurus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Sony Xperia 5 V | Dr.fone</u></a></li>
+</ul></div>
 

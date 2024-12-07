@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Fraud Detection Guide
-date: 2024-09-12T16:06:00.021Z
-updated: 2024-09-17T16:26:42.077Z
+date: 2024-11-29T17:10:08.176Z
+updated: 2024-12-06T23:17:05.776Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Email has been used as a scam vector for many years, be it to spread malware, blackmail victims, or steal valuable information. Now, ChatGPT's name is being used in email scams to trick recipients.
 
  In April 2023, many news publications began reporting a wave of phishing emails written specifically by ChatGPT. Because ChatGPT can write content upon a user's request, cybercriminals have begun using the AI chatbot to write phishing emails that they can then use in their malicious campaigns.
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like browser extensions, cybercriminals can also use ChatGPT's name to spread malicious apps. Malicious apps are nothing new and have been used for years to deploy malware, steal data, and monitor device activity. Now, ChatGPT's well-known name is being used to push malicious apps.
 
  In February 2023, it was found that cybercriminals had developed a fake ChatGPT app to spread Windows and Android malware. As reported by [Bleeping Computer](https://www.bleepingcomputer.com/news/security/hackers-use-fake-chatgpt-apps-to-push-windows-android-malware/), malicious actors capitalized on OpenAI's ChatGPT Plus to convince users that they could sign up for a free version of the typically premium tool. The cybercriminals' goal here is to either steal credentials or deploy malware.
@@ -61,10 +69,7 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Malware Created by ChatGPT
@@ -78,15 +83,16 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. ChatGPT Phishing Sites
 
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Phishing attacks are often conducted using malicious websites. These sites are designed to log the keystrokes you enter so that valuable data can be stolen and exploited.
 
@@ -115,5 +121,21 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-harnessing-tech-acquiring-fb-status-video-content/"><u>[New] 2024 Approved Harnessing Tech Acquiring FB Status Video Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-optimizing-video-playback-sizes-on-youtube/"><u>[New] In 2024, Optimizing Video Playback Sizes on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-transforming-simple-videos-text-addition-in-windows-10s-photos-software-for-2024/"><u>[Updated] Transforming Simple Videos Text Addition in Windows 10'S Photos Software for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-x-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone X</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/addressing-6-standard-stickers-system-setbacks/"><u>Addressing 6 Standard Stickers' System Setbacks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-7-first-person-shooters-of-the-year/"><u>Best 7 First-Person Shooters of the Year</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-stealthy-escape-detectors-at-a-standstill/"><u>Content Stealthy Escape: Detectors at a Standstill</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-dialogue-dynamics-building-custom-conversational-bots/"><u>DIY Dialogue Dynamics: Building Custom Conversational Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-algorithms-to-cocktails-chatgpt-testing/"><u>From Algorithms to Cocktails: ChatGPT Testing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuita-conversor-de-archivos-aif-para-wmv-en-linea-herramienta-oficial-de-movavi/"><u>Gratuita Conversor De Archivos AIF Para WMV en Línea - Herramienta Oficial De Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-defy-2-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Defy 2 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-in-depth-camera-comparison-reveals-unexpected-champion-tech-analysis-by-zdnet/"><u>Pixel 9 Pro XL vs iPhone 15 Pro: In-Depth Camera Comparison Reveals Unexpected Champion | Tech Analysis by ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-strengths-of-fongo-a-detailed-look-at-your-top-voip-choice-in-canada/"><u>Unveiling the Strengths of Fongo - A Detailed Look at Your Top VoIP Choice in Canada</u></a></li>
+</ul></div>
 

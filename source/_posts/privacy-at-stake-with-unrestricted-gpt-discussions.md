@@ -1,7 +1,7 @@
 ---
 title: Privacy at Stake with Unrestricted GPT Discussions
-date: 2024-11-22T16:57:53.262Z
-updated: 2024-11-27T16:09:44.390Z
+date: 2024-12-02T19:16:34.807Z
+updated: 2024-12-06T21:35:29.756Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Leaked Confidential Information Via ChatGPT
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Data Leaks Happen?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
@@ -89,16 +89,19 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-crusader-kings-2-not-launching/"><u>[Solved] Crusader Kings 2 Not Launching</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/become-a-hero-in-code-with-openais-flaw-hunting-bonus-program/"><u>Become a Hero in Code with OpenAI's Flaw Hunting Bonus Program</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridge-to-a-smart-future-with-ai-on-bing-beginners-guide/"><u>Bridge to a Smart Future with AI on Bing: Beginner's Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-top-9-wellness-innovations-for-modern-living/"><u>ChatGPT’s Top 9 Wellness Innovations for Modern Living</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-network-connection-errors-due-to-unplugged-cables/"><u>Fixing Windows Network Connection Errors Due to Unplugged Cables</u></a></li>
-<li><a href="https://win-community.techidaily.com/getting-started-with-the-microsoft-windows-insider-program-benefits-and-enrollment-guide/"><u>Getting Started with the Microsoft Windows Insider Program: Benefits & Enrollment Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-pro-3-cam-exploration-a-deep-dive-into-ions-latest-offer/"><u>In 2024, Pro 3 Cam Exploration A Deep Dive Into ION's Latest Offer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-camera-recording-top-10-camcorders-of-2024/"><u>Mastering Camera Recording Top 10 Camcorders of 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/resolving-the-critical-issue-how-a-faulty-battery-safety-mechanism-could-compromise-your-airtags-and-more/"><u>Resolving the Critical Issue: How a Faulty Battery Safety Mechanism Could Compromise Your AirTags & More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-persuasive-edge-of-apples-new-iphone-16-pro-vs-max-model-what-to-know-before-you-upgrade-this-year-expert-analysis-at-zdnet/"><u>The Persuasive Edge of Apple's New iPhone 16 Pro Vs. Max Model: What to Know Before You Upgrade This Year | Expert Analysis at ZDNET</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ideal-choices-the-best-9-gif-recorder-software-on-your-pc-for-2024/"><u>[New] Ideal Choices The Best 9 GIF Recorder Software on Your PC for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-tale-bearers-school-distinguished-dothee/"><u>[New] Tale Bearers School - Distinguished Dothee</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-selecting-the-best-online-platforms-for-budget-stock-media/"><u>[Updated] In 2024, Selecting the Best Online Platforms for Budget Stock Media</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-learn-the-art-of-pairing-captions-with-visuals-for-tiktoks-for-2024/"><u>[Updated] Learn the Art of Pairing Captions with Visuals for TikToks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-zoom-tricks-for-chromebook-users/"><u>[Updated] Ultimate Zoom Tricks for Chromebook Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/become-the-star-of-your-match-unique-tinder-profile-ideas-to-try-for-2024/"><u>Become the Star of Your Match - Unique Tinder Profile Ideas to Try for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-unbeatable-black-friday-offers-for-apple-airpods-ranked-best/"><u>Discover Unbeatable Black Friday Offers for Apple AirPods - Ranked Best</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dispel-vanishing-graphics-failure/"><u>Dispel Vanishing Graphics Failure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolving-tech-talk-6-ways-to-leverage-chatgpts-conductor/"><u>Evolving Tech Talk - 6 Ways to Leverage ChatGPT's Conductor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-latest-upgrade-iphone-16s-revolutionary-camera-button-revealed-by-zdnet/"><u>Exploring the Latest Upgrade: IPhone 16'S Revolutionary Camera Button Revealed by ZDNet</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-and-easy-the-best-iphone-video-rotation-apps/"><u>Free and Easy The Best iPhone Video Rotation Apps</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-day-discounts-securing-the-best-deal-on-the-apple-watch-series-se-now-just-80-cheaper-insights-from-zdnet/"><u>Prime Day Discounts: Securing the Best Deal on the Apple Watch Series SE, Now Just $80 Cheaper - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-you-switch-to-ipad-air-5-from-ipad-air-navigate-the-pros-and-cons-in-depth-analysis-tech-gurus/"><u>Should You Switch to iPad Air 5 From iPad Air Navigate the Pros and Cons | In-Depth Analysis Tech Gurus</u></a></li>
 </ul></div>
 

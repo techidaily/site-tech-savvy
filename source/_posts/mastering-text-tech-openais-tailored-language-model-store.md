@@ -1,7 +1,7 @@
 ---
 title: "Mastering Text Tech: OpenAI’s Tailored Language Model Store"
-date: 2024-09-13T16:06:05.389Z
-updated: 2024-09-17T16:28:48.124Z
+date: 2024-12-04T16:08:48.799Z
+updated: 2024-12-06T19:27:41.975Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/a7016d3aa04c528b81e29774cf3e5aa2f27aaaf88
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -51,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/a7016d3aa04c528b81e29774cf3e5aa2f27aaaf88
  On the left sidebar of the ChatGPT interface, you should see **Explore GPTs** instead of simply **Explore**. Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Find the Best Custom GPTs in the GPT Store
@@ -69,18 +70,23 @@ thumbnail: https://thmb.techidaily.com/a7016d3aa04c528b81e29774cf3e5aa2f27aaaf88
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
@@ -105,5 +111,24 @@ thumbnail: https://thmb.techidaily.com/a7016d3aa04c528b81e29774cf3e5aa2f27aaaf88
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-secure-and-enhance-slack-communications-with-top-10-free-audio-apps/"><u>[New] In 2024, Secure & Enhance Slack Communications with Top 10 Free Audio Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-dive-into-ios-screenshots-a-comprehensive-youtube-guide-for-2024/"><u>[Updated] Dive Into iOS Screenshots A Comprehensive YouTube Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-leveraging-look-up-table-techniques-for-richer-images-in-pscc-for-2024/"><u>[Updated] Leveraging Look-Up Table Techniques for Richer Images in PSCC for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-gradual-dimming-of-sound-in-audacity-masterclass/"><u>2024 Approved Gradual Dimming of Sound in Audacity Masterclass</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-key-approaches-converting-visual-content-on-pinterest-to-audio/"><u>2024 Approved Key Approaches Converting Visual Content on Pinterest To Audio</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-honor-magic-6-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Honor Magic 6 PC | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/a-beginners-guide-to-using-siri-in-your-tiktok-videos/"><u>A Beginner's Guide to Using Siri in Your TikTok Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adapting-to-remote-work-6-powerful-chatgpt-tools/"><u>Adapting to Remote Work: 6 Powerful ChatGPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-revolutionizing-fitness-coaching-techniques/"><u>ChatGPT: Revolutionizing Fitness Coaching Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-through-complexity-in-employee-correspondence/"><u>Cutting Through Complexity in Employee Correspondence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-take-on-the-new-iphone-15-why-it-stands-out-for-tech-enthusiasts-insights-from-zdnet/"><u>Expert Take on the New iPhone 15: Why It Stands Out for Tech Enthusiasts | Insights From ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guida-completa-ai-migliori-programmi-gratuiti-per-il-trasferimento-dei-file-dvd-a-windows-supporto-multi-formato-mp4-avi-wmv/"><u>Guida Completa Ai Migliori Programmi Gratuiti per Il Trasferimento Dei File DVD a Windows: Supporto Multi-Formato (MP4, AVI, WMV)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpt-sign-in-hurdles-with-ease/"><u>Navigating ChatGPT Sign-In Hurdles with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-fights-back-against-gpt-dumbing-rumors/"><u>OpenAI Fights Back Against GPT Dumbing Rumors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/risks-avoid-mobile-gpt-app-downloads/"><u>Risks: Avoid Mobile GPT App Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safety-and-efficacy-the-ai-way-of-crafting-workouts/"><u>Safety & Efficacy: The AI Way of Crafting Workouts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-m54-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy M54 5G</u></a></li>
+</ul></div>
 

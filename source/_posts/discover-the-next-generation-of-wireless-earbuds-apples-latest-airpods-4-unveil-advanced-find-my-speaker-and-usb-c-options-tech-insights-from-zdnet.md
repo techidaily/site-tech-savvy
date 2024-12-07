@@ -1,7 +1,7 @@
 ---
 title: Discover the Next Generation of Wireless Earbuds – Apple's Latest AirPods 4 Unveil Advanced Find My Speaker & USB-C Options | Tech Insights From ZDNET
-date: 2024-11-22T16:52:11.610Z
-updated: 2024-11-27T16:32:41.677Z
+date: 2024-12-05T18:34:49.137Z
+updated: 2024-12-06T23:30:01.505Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,24 +128,16 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-enhanced-visual-fidelity-with-srgb/"><u>[New] Enhanced Visual Fidelity with Srgb</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-avoid-common-mistakes-mastering-youtube-tags-wisely/"><u>[Updated] 2024 Approved Avoid Common Mistakes - Mastering YouTube Tags Wisely</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-connect-tv-audiences-with-creative-fb-livestream-strategies-for-2024/"><u>[Updated] Connect TV Audiences with Creative FB Livestream Strategies for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-immersive-inventory-visualization/"><u>[Updated] Immersive Inventory Visualization</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-streamline-success-a-review-of-top-name-generators/"><u>[Updated] Streamline Success A Review of Top Name Generators</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-revealing-the-best-in-class-splitcams-videography-edge/"><u>2024 Approved Revealing the Best in Class SplitCam's Videography Edge</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/choosing-the-perfect-phone-for-your-child-see-our-expert-picks-on-zdnets-best-list/"><u>Choosing the Perfect Phone for Your Child? See Our Expert Picks on ZDNet's Best List!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-user-experience-3-ways-to-boost-mouse-speed/"><u>Enhancing User Experience: 3 Ways to Boost Mouse Speed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/occupational-survival-how-to-thrive-post-ai-revolution/"><u>Occupational Survival: How to Thrive Post-AI Revolution?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-premier-manual-for-subtitle-precision-via-web-resources/"><u>The Premier Manual for Subtitle Precision via Web Resources</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-power-plant-discounts-available-in-february-2023-uncover-them-on-zdnet/"><u>Top 6 Power Plant Discounts Available in February 2023 - Uncover Them on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-entry-level-portable-power-bank-review-unboxing-the-ecoflow-river-3-insider-info-from-zdnet/"><u>Top Entry-Level Portable Power Bank Review: Unboxing the EcoFlow River ˈ3 - Insider Info From ZDNet!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-video-doorbells-expert-picks-and-reviews/"><u>Top Rated Video Doorbells : Expert Picks and Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-comparison-leading-electric-grills-according-to-consumer-ratings-and-tests/"><u>Ultimate Comparison: Leading Electric Grills According to Consumer Ratings and Tests</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unexpected-brilliance-in-home-surveillance-a-detailed-look-at-rings-spotlight-cam-pro-zdnet-insights/"><u>Unexpected Brilliance in Home Surveillance - A Detailed Look at Ring's Spotlight Cam Pro | ZDNET Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-ultimate-spooky-automatons-for-halloween-2022-featured-on-zdnet/"><u>Unveiling the Ultimate Spooky Automatons for Halloween 2022, Featured on ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-the-waterproof-blink-mini-2-outshines-wyze-cam-models-for-home-security-insights-from-zdnet-experts/"><u>Why the Waterproof Blink Mini 2 Outshines Wyze Cam Models for Home Security | Insights From ZDNET Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnet-reviews-how-the-ecoflow-river-3-stands-out-as-an-exceptional-portable-battery-for-newcomers-in-power-storage-technology/"><u>ZDNet Reviews: How the EcoFlow River 3 Stands Out as an Exceptional Portable Battery for Newcomers in Power Storage Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-surprising-experience-with-the-ring-spotlight-cam-pro-an-unanticipated-success/"><u>ZDNet's Surprising Experience with the Ring Spotlight Cam Pro: An Unanticipated Success!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-capturing-the-thrill-top-techniques-for-win10-games/"><u>[Updated] Capturing the Thrill Top Techniques for Win10 Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-camera-clash-hero5-black-versus-session/"><u>2024 Approved Ultimate Camera Clash Hero5 Black Versus Session</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/al-gore-or-misinformation-fact-checking-for-clarity/"><u>Al Gore or Misinformation? Fact-Checking for Clarity</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/fehlerfreie-handbrake-nutzung-auf-windows-10-losungsansatze-und-ersatzprogramme/"><u>Fehlerfreie HandBrake-Nutzung Auf Windows 10 – Lösungsansätze Und Ersatzprogramme</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/full-application-evaluation-through-az-video-logger-for-2024/"><u>Full Application Evaluation Through AZ Video Logger for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-v27-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo V27 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-zero-cost-avi-video-editors-our-top-5-recommendations/"><u>New Zero-Cost AVI Video Editors Our Top 5 Recommendations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pushing-boundaries-of-gpts-interactive-capacity/"><u>Pushing Boundaries of GPT's Interactive Capacity</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-excel-2019-files-from-virus-infected-pen-drives-for-free-stellar-by-stellar-guide/"><u>Recover Excel 2019 Files from Virus-Infected Pen Drives for Free | Stellar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-chatgpt-integrations-for-efficient-pdf-management/"><u>Top 10 ChatGPT Integrations for Efficient PDF Management</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mac-computers-comprehensive-list-and-reviews-zdnet/"><u>Top Rated Mac Computers : Comprehensive List & Reviews - ZDNet</u></a></li>
 </ul></div>
 

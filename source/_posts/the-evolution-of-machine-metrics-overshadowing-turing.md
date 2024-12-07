@@ -1,7 +1,7 @@
 ---
 title: The Evolution of Machine Metrics, Overshadowing Turing
-date: 2024-09-13T16:00:13.279Z
-updated: 2024-09-17T16:19:55.297Z
+date: 2024-12-02T23:19:09.860Z
+updated: 2024-12-06T16:10:10.100Z
 tags:
   - chatgpt
   - open-ai
@@ -46,9 +46,17 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 
  It's possible that [future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. The Marcus Test
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the [New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
@@ -57,13 +65,6 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  According to a research paper published on [PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112), the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the [visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
@@ -82,10 +83,7 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the [reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
@@ -95,15 +93,16 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes [AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  According to the AI classification framework developed by [Chris Saad](https://docsend.com/view/et7755yasfpj3iy6), the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
@@ -132,5 +131,20 @@ Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vecto
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-removing-cluttered-photo-backgrounds/"><u>[New] Techniques for Removing Cluttered Photo Backgrounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-strength-of-details-why-hdr-triumphs-over-sdr/"><u>[New] The Strength of Details Why HDR Triumphs Over SDR</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027994259-20248/"><u>「2024年の最新写真に変えて、一番いい動画を簡単に作成！トップ8ピック」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-the-hype-why-opting-out-of-the-iphone-16-may-preserve-your-tech-savvy-insights/"><u>Avoid the Hype: Why Opting Out of the iPhone 16 May Preserve Your Tech Savvy - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/contrasting-future-and-past-gpt-4-versus-gpt-35/"><u>Contrasting Future & Past: GPT-4 Versus GPT-3.5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiency-hacks-and-pitfalls-when-using-ai-writing-assistants/"><u>Efficiency Hacks and Pitfalls When Using AI Writing Assistants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-mundane-to-magical-weaving-wonders-with-chatgpt/"><u>From Mundane to Magical: Weaving Wonders with ChatGPT</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-pro-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme 12 Pro 5G Phone without Google Account?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-suspicious-chatgpt-websites-safely/"><u>Identifying Suspicious ChatGPT Websites Safely</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-cycling-how-photochromic-glasses-hud-upgraded-my-ride-insights/"><u>Revolutionizing Cycling: How Photochromic Glasses' HUD Upgraded My Ride - Insights</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-comprehensible-guide-to-skypes-mp3-recorder-for-2024/"><u>The Comprehensible Guide to Skype's MP3 Recorder for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/understanding-instagram-video-count-constraints/"><u>Understanding Instagram Video Count Constraints</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-computers-insights-from-toms-hardware-hub/"><u>Unraveling the World of Computers: Insights From Tom's Hardware Hub</u></a></li>
+</ul></div>
 

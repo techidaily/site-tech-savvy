@@ -1,7 +1,7 @@
 ---
 title: "GPT Pluses Against Perplexity: AI's Elite Challenge"
-date: 2024-11-21T17:20:55.734Z
-updated: 2024-11-27T16:49:31.334Z
+date: 2024-12-02T16:43:34.179Z
+updated: 2024-12-06T18:32:36.792Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Technology (GPT-3 vs. GPT-4)
 
  The difference in language models is immediately where things get interesting. ChatGPT's free version gives you access to GPT-3.5, the large language model that most of us are familiar with now. Upgrading to the Plus version gives you access to GPT-4, [a more impressive language model than its predecessor](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/).
@@ -51,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 ![Perplexity homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Perplexity AI is more of a search engine that provides suggestions and sources in response to your queries. It is designed to search the web in real-time to provide up-to-date information on various topics. The new GPT-4 powered Copilot feature is also useful as it can guide your search experience with interactive inputs to tailor personalized responses.
 
  Both of them are useful AI tools for entirely different purposes. Perplexity is a great free tool for conducting research, while ChatGPT can help you summarize that research and make it presentable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Pricing
 
@@ -90,16 +90,12 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
 ![Perplexity AI Popular Topics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-popular-topics.PNG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  The Perplexity app also boasts a voice command feature that allows users to send prompts hands-free. While there are [ways to control ChatGPT Plus with your voice](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/), there is no official feature that can help you do so.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Speed and Stability
@@ -113,7 +109,7 @@ Close
  Both of these chatbots are also matched in terms of stability. OpenAI gives priority access to Plus subscribers, so you can access the service even during peak usage hours. Perplexity AI has a relatively smaller user base, and stability issues aren't something to worry about.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Comparison With Bing
@@ -123,6 +119,10 @@ Close
  It works similarly to Perplexity but uses the newer GPT-4 language model. This means Bing Chat is the best of both worlds. It can access information from the internet in real-time, provide sources, and solve complex problems.
 
  Unfortunately, it still feels like a beta version at the moment. Microsoft is being cautious with its approach, and this means that Bing Chat simply won't respond to prompts it considers "controversial." However, it's still worth trying out as it's free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Plus vs. Perplexity: Two Impressively Different Chatbots
 
@@ -149,24 +149,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-navigating-the-maze-of-selecting-film-teasers-music/"><u>[New] 2024 Approved Navigating the Maze of Selecting Film Teasers' Music</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-record-games-with-no-hassle-nvidia-way/"><u>[Updated] 2024 Approved Record Games with No Hassle - NVIDIA Way</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-state-of-the-art-gaming-capture-systems-not-just-fbx-files/"><u>[Updated] 2024 Approved State-of-the-Art Gaming Capture Systems, Not Just FBX Files</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-election-excursions-best-gamified-democracy-sites/"><u>[Updated] Election Excursions Best Gamified Democracy Sites</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-discover-10-premium-video-players-for-ultimate-hd-vids-android/"><u>[Updated] In 2024, Discover 10 Premium Video Players for Ultimate HD Vids, Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-infused-search-microsoft-bing-redefined/"><u>AI-Infused Search: Microsoft Bing Redefined</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-logic-pro-evolves-with-new-artificial-intelligence-features-transforming-ios-and-macos-music-production-as-covered/"><u>Apple's Logic Pro Evolves with New Artificial Intelligence Features, Transforming iOS and macOS Music Production as Covered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversational-engineering-customize-with-gpts-methodologies/"><u>Conversational Engineering: Customize with GPT's Methodologies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decision-guide-how-to-decide-on-your-next-macbook-comparing-features-of-m3-vs-m2-versions-techradar/"><u>Decision Guide: How to Decide on Your Next MacBook - Comparing Features of M3 Vs. M2 Versions | TechRadar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-ai-prompt-elite-cost-in-light-of-benefits/"><u>Evaluating AI Prompt Elite Cost in Light of Benefits</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixed-audio-issue-discord-back-online/"><u>Fixed Audio Issue: Discord Back Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-adapting-to-diverse-candidate-personalities/"><u>In 2024, Adapting to Diverse Candidate Personalities</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-mastering-sleep-optimal-asmr-experiences-and-picks/"><u>In 2024, Mastering Sleep Optimal ASMR Experiences & Picks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-for-flawless-computer-fixes/"><u>Leveraging AI for Flawless Computer Fixes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-the-art-of-moving-files-top-7-strategies-for-iphone-to-pc-transfer/"><u>Mastering the Art of Moving Files: Top 7 Strategies for iPhone-to-PC Transfer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-domestic-life-chatgpts-6-productivity-methods/"><u>Revolutionize Domestic Life: ChatGPT's 6 Productivity Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/survival-guide-for-ai-dominated-professions-six-essentials/"><u>Survival Guide for AI-Dominated Professions: Six Essentials</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-shells-role-in-accessing-gpt-powered-conversation/"><u>The Shell's Role in Accessing GPT-Powered Conversation</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/unmountable-boot-volume-blue-screen-of-death-troubleshooting-for-windows-11-users/"><u>UNMOUNTABLE BOOT VOLUME Blue Screen of Death Troubleshooting for Windows 11 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-7-superior-video-players-on-mac/"><u>[Updated] Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-quickest-windowed-image-analyzer/"><u>2024 Approved Quickest Windowed Image Analyzer</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-12-motion-activated-cameras-featuring-location-tracking/"><u>Best 12 Motion-Activated Cameras Featuring Location Tracking</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-reasons-no-place-for-chatgpt-in-crypto-research/"><u>Essential Reasons: No Place for ChatGPT in Crypto Research</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unwind-in-a-world-of-top-stress-busters/"><u>In 2024, Unwind in a World of Top Stress Busters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/level-up-the-cutest-and-most-creative-chatgpt-games/"><u>Level Up: The Cutest & Most Creative ChatGPT Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-results-with-gpt-top-7-methods-to-boost-workday-prod/"><u>Maximize Results with GPT: Top 7 Methods to Boost Workday Prod</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-tech-budget-july-2024s-finest-deals-on-iphones-sleek-apple-watches-cutting-edge-ipads-and-more-discover-inside-secrets-at-zdnet/"><u>Maximize Your Tech Budget: July 2024'S Finest Deals on IPhones, Sleek Apple Watches, Cutting-Edge iPads & More - Discover Inside Secrets at ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-6/"><u>MP3の明るい声を手に入れよう! 人気フリー音量上げツールとサイトランキング6位</u></a></li>
+<li><a href="https://games-able.techidaily.com/resetting-windows-to-unlock-steam-games-error/"><u>Resetting Windows to Unlock Steam Games Error</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/score-big-with-savings-the-8tb-samsung-t5-ssd-at-just-36-off-on-amazon-insights-by-zdnet/"><u>Score Big with Savings! The 8TB Samsung T5 SSD at Just 36% Off on Amazon | Insights by ZDNET</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/mlined-approach-upload-your-videos-from-youtube-to-dailymotion-for-2024/"><u>Streamlined Approach Upload Your Videos From YouTube to Dailymotion for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-basics-of-how-openais-gpt-3-utilizes-shared-links/"><u>The Basics of How OpenAI's GPT-3 Utilizes Shared Links</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-science-behind-oled-an-explanation-of-its-working-process/"><u>The Science Behind OLED: An Explanation of Its Working Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/untruths-chatgpts-ineffectiveness-for-crypto-predictions/"><u>Untruths: ChatGPT's Ineffectiveness for Crypto Predictions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-crafts-brilliance-comparing-notion-ai-with-chatgpt/"><u>Who Crafts Brilliance? Comparing Notion AI with ChatGPT</u></a></li>
 </ul></div>
 

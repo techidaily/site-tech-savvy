@@ -1,7 +1,7 @@
 ---
 title: Introducing AI Companion, GPT for Enhanced Productivity
-date: 2024-09-16T16:04:59.643Z
-updated: 2024-09-17T16:16:29.597Z
+date: 2024-12-03T18:07:28.522Z
+updated: 2024-12-06T22:17:46.300Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 
 ![interaction with ChatGPT asking it to arrange tasks via the ABCDE method](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t184949-148.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After asking ChatGPT to help you prioritize tasks, try using these follow-up prompts:
 
 * **Add a task to your task list**: “ChatGPT, please add ‘Prepare presentation for the marketing meeting’ to my to-do list for tomorrow.”
@@ -55,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 * **Edit tasks**: “ChatGPT, can you update the deadline for the report to the day after tomorrow?”
 
  Tip: Avoid giving long-winded and complicated instructions to get the best results. Keep each request as simple and as straightforward as possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Ask ChatGPT for Writing Assistance
 
@@ -95,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 * “Summarize the key points from the email thread about \[subject\] so I can quickly catch up.”
 * “Can you suggest a follow-up email template for when a client expresses interest in our product?”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Ask ChatGPT to Assist You in Gaining New Skills and Expertise
 
  Masterclasses, courses, and certifications are now available online. But if you need a more personalized approach, you can ask ChatGPT to teach you one-on-one, like a virtual tutor.
@@ -102,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
  ChatGPT can give you insights across disciplines and help you dive into new technologies or concepts. In the example below, we asked it to discuss [HIPAA privacy](https://www.makeuseof.com/search/?q=hipaa). It gave us a summary of the federal law, focusing on the most critical points.
 
 ![conversation with ChatGPT about HIPAA privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-04t190351-135.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As of this writing, ChatGPT can provide information up to its last knowledge update in September 2021\. [Forbes](https://www.forbes.com.au/news/innovation/chatgpt-removes-september-2021-knowledge-cutoff/) reports that Open AI will soon remove the knowledge cut-off restriction for all users. However, the timeline for this update is still unclear.
 
@@ -113,10 +129,7 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 * "Can you teach me how to \[skill\]?"
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Ask ChatGPT for Personalized Recommendations
@@ -138,13 +151,6 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 * “I’m planning a vacation to \[destination\]. Can you recommend some must-visit attractions and activities?”
 
  Tip: ChatGPT is designed to understand and respond to natural language queries, so feel free to communicate with it conversationally.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Say Hello to Your Personal Assistant, ChatGPT
 
@@ -169,5 +175,17 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twittervidstowebm-direct-media-conversion/"><u>[New] In 2024, TwitterVidsToWebM Direct Media Conversion</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-smart-exposure-the-ultimate-guide-to-hdr-tech-in-cameras/"><u>[New] Mastering Smart Exposure The Ultimate Guide to HDR Tech in Cameras</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-cone-capture-equipment/"><u>[New] Perfect Cone Capture Equipment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-integrating-luts-into-professional-movie-post-processing/"><u>[Updated] Integrating Luts Into Professional Movie Post-Processing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-ai-adventures-with-copilot-and-turbo-combined/"><u>Elevate Your AI Adventures: With Copilot and Turbo Combined</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eu-levies-2b-penalty-on-apple-over-app-store-antitrust-violations-technews/"><u>EU Levies $2B Penalty on Apple Over App Store Antitrust Violations - TechNews</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/maximize-efficiency-with-one-hub-for-all-your-ai-tools-heres-how-i-did-it-and-why-you-should-too/"><u>Maximize Efficiency with One Hub for All Your AI Tools – Here's How I Did It and Why You Should Too!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mini-tablets-comprehensive-reviews-and-comparisons-techadvisor/"><u>Top-Ranking Mini Tablets : Comprehensive Reviews & Comparisons | TechAdvisor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-and-apple-watch-skin-guards-ultimate-shields-for-your-devices-in-2/"><u>Top-Rated iPhone and Apple Watch Skin Guards - Ultimate Shields for Your Devices in 2</u></a></li>
+</ul></div>
 

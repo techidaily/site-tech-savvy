@@ -1,7 +1,7 @@
 ---
 title: Cost-Prohibitive Factors Preventing New Apple AI Innovations on Legacy iPhones - Insights
-date: 2024-11-22T16:16:59.646Z
-updated: 2024-11-27T16:26:38.368Z
+date: 2024-12-05T21:59:04.356Z
+updated: 2024-12-07T00:55:55.587Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,16 +120,18 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-enabling-windows-11-dynamic-hdr-capability/"><u>[Updated] Enabling Windows 11 Dynamic HDR Capability</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-expert-roundup-best-free-vs-premium-windows-graphics-apps/"><u>[Updated] In 2024, Expert Roundup Best Free vs Premium Windows Graphics Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-high-definition-wonders-with-the-nikon-d500/"><u>2024 Approved High Definition Wonders with the Nikon D500</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-tablet-showdown-the-best-picks-of-2erry-2024-as-ranked-by-experts-zdnet/"><u>Affordable Tablet Showdown: The Best Picks of 2Erry 2024 as Ranked by Experts | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-ai-balancing-harmony-and-ethics/"><u>Deciphering AI: Balancing Harmony and Ethics</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-spark-10c-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Spark 10C Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-social-media-live-services-showdown-facebook-vs-youtube-vs-twitter-spaces/"><u>In 2024, Social Media Live Services Showdown Facebook Vs. YouTube Vs. Twitter Spaces</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seven-pioneering-gpt-applications-in-fitness-tech/"><u>Seven Pioneering GPT Applications in Fitness Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-meta-quest-3s-future-with-ai-features-before-apple-vision-pro-arrives-setup-guide/"><u>Unlocking Meta Quest 3'S Future with AI Features Before Apple Vision Pro Arrives: Setup Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-tablet-excellence-how-the-ipad-air-outshines-the-ipad-pro-reviews-by-tech-gurus-zdnet-insights/"><u>Unveiling Tablet Excellence: How the iPad Air Outshines the iPad Pro, Reviews by Tech Gurus | ZDNET Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-big-sur-tech-requirements-a-quick-reference-guide/"><u>[New] In 2024, Big Sur Tech Requirements A Quick Reference Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cutting-edge-video-techniques-for-windows-11-users/"><u>[Updated] Cutting-Edge Video Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-diverting-photographs-extracting-scenes-as-stills-in-photos-app/"><u>[Updated] Diverting Photographs Extracting Scenes as Stills in Photos App</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-video-platforms-at-a-glance-comparing-vimeo-and-youtube/"><u>[Updated] In 2024, Video Platforms at a Glance Comparing Vimeo & YouTube</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728506180292-windows-7/"><u>「忙しくても簡単なWindows 7データの安全バックアップ手順」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-exclusive-lodging-welcomes-apple-airplay-enhance-your-stay-with-hygienic-media-control/"><u>1. Exclusive Lodging Welcomes Apple AirPlay: Enhance Your Stay with Hygienic Media Control</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/best-of-the-best-top-webcam-recording-tools-for-windows-10/"><u>Best of the Best Top Webcam Recording Tools for Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-buzz-around-apples-upcoming-ar-spectacles-and-economical-vision-devices-what-we-know-so-far-innovatetech/"><u>Exploring the Buzz Around Apple's Upcoming AR Spectacles & Economical Vision Devices – What We Know So Far | InnovateTech</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-the-art-of-australian-dialects/"><u>Master the Art of Australian Dialects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-connectivity-addressing-errors-between-chatgpt-and-plugins/"><u>Streamlining Connectivity: Addressing Errors Between ChatGPT & Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-ai-solutions-for-extensive-online-investigations/"><u>Ultimate AI Solutions for Extensive Online Investigations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-2024s-finest-magsafe-wallets-in-depth-analysis-and-expert-opinions/"><u>Ultimate List of 2024'S Finest MagSafe Wallets: In-Depth Analysis and Expert Opinions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-dialogue-with-chatgpt-now/"><u>Unleash Dialogue with ChatGPT Now</u></a></li>
 </ul></div>
 

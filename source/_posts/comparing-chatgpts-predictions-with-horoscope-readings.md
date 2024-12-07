@@ -1,7 +1,7 @@
 ---
 title: Comparing ChatGPT's Predictions with Horoscope Readings
-date: 2024-11-23T16:18:57.174Z
-updated: 2024-11-27T16:01:00.230Z
+date: 2024-12-02T22:40:54.838Z
+updated: 2024-12-06T19:59:27.639Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,13 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Customize Your ChatGPT Fortune-Teller…
 
 ![Hands Over Fortune Telling Crystal Ball](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hands-over-fortune-telling-crystal-ball.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortune-tellers have a particular mystique about them, which you'll instantly recognize from the movies.
 
@@ -47,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
  Generating this persona was simplicity itself, prompting ChatGPT to "Respond the following as if you are a wise fortune teller."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Choose Your ChatGPT Fortune Telling Questions Wisely
 
 ![Fortune Teller doing a Reading for a Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fortune-teller-doing-a-reading-for-a-client-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another thing we've learned from movies is that knowing the future is a dangerous thing. As a large language model which has already ingested and digested most of the internet, ChatGPT, or Agnes, as she now calls herself, could possibly make reliable predictions of when and how you're going to die. You probably don't want to know, so don't ask.
 
@@ -60,16 +64,12 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 
  What follows is her prediction and how it played out in real life.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Well Did ChatGPT Predict the Future?
 
 ![A Woman Opening the Card on the Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-woman-opening-the-card-on-the-table.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  My prompt to Agnes was: "Today is June 1st, 2023\. Please do a reading for the next two weeks."
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 ![chatgpt fortune transcript](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-fortune-transcript.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Predicted the Future as Well as Any Magazine Horoscope
@@ -143,22 +143,22 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-unlock-youtubes-best-viewing-experience-with-ratios/"><u>[New] Unlock YouTube's Best Viewing Experience with Ratios</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-a-treasure-trove-guide-to-public-domain-images/"><u>[Updated] In 2024, A Treasure Trove Guide to Public Domain Images</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-sharpen-your-visual-storytelling-advanced-kinemaster-zoom-techniques/"><u>[Updated] Sharpen Your Visual Storytelling Advanced Kinemaster Zoom Techniques</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-f54-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy F54 5G Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prepare-for-the-end-of-google-one-vpn-transition-options-and-alternatives-awaiting-you-as-closure-nears-on-june-20th/"><u>Prepare for the End of Google One VPN: Transition Options and Alternatives Awaiting You as Closure Nears on June 20Th</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protect-your-device-expert-tips-for-identifying-and-cleansing-spyware-from-cell-phones-tech-insights/"><u>Protect Your Device: Expert Tips for Identifying and Cleansing Spyware From Cell Phones | Tech Insights</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/utionize-viewing-experience-the-best-yt-reaction-methods/"><u>Revolutionize Viewing Experience The Best YT Reaction Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-unlimited-internet-access-with-5-year-vpn-save-35-explore-deals-on-zdnet/"><u>Secure Unlimited Internet Access with 5-Year VPN: Save $35 - Explore Deals on ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-your-online-privacy-with-a-35-5-year-vpn-plan-limited-offer-on-zdnet/"><u>Secure Your Online Privacy with a $35 5-Year VPN Plan - Limited Offer on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/setting-up-your-vpn-on-windows-11-a-step-by-step-guide/"><u>Setting Up Your VPN on Windows 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-integrating-protonvpn-into-your-browsing-with-a-free-chrome-addon/"><u>Step-by-Step Guide: Integrating ProtonVPN Into Your Browsing with a Free Chrome Addon</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-setting-up-a-vpn-connection-on-windows-11-tips-and-tricks/"><u>Step-by-Step Guide: Setting Up a VPN Connection on Windows 11 – Tips and Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-instructions-activating-vpn-features-in-home-routers-insights-by-zdnet/"><u>Step-by-Step Instructions: Activating VPN Features in Home Routers - Insights by ZDNet</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/thrilling-insights-unpacking-the-joy-of-using-ddpai-mini3-dashcam/"><u>Thrilling Insights: Unpacking the Joy of Using DDpai Mini3 Dashcam</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/trouble-with-windows-11-hevc-support-get-the-free-hevc-codec-pack-now/"><u>Trouble with Windows 11 HEVC Support? Get the Free HEVC Codec Pack Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-the-origins-behind-the-windows-meltdown-involving-crowdstrike-in-2-2024/"><u>Unraveling the Mystery: The Origins Behind the Windows Meltdown Involving CrowdStrike in 2지 2024년</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-recipe-rendezvous-top-30-channels-with-a-taste-for-success/"><u>[New] 2024 Approved Recipe Rendezvous Top 30 Channels with a Taste for Success</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-integration-for-the-tech-savvy-mac-user-for-2024/"><u>[New] Snapchat Integration for the Tech-Savvy Mac User for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-xiaomi-11-a-new-era-of-high-fidelity-video-recording/"><u>[Updated] In 2024, Xiaomi 11 A New Era of High Fidelity Video Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-infused-inspiration-5-groundbreaking-writing-tools/"><u>AI-Infused Inspiration: 5 Groundbreaking Writing Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-original-ai-images-with-microsofts-copilot-toolkit/"><u>Creating Original AI Images with Microsoft's Copilot Toolkit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-latest-innovations-uncover-new-developments-in-iphone-ipad-and-mac-tech-including-artificial-intelligence-coming-this-fall-as-reported/"><u>Discover the Latest Innovations! Uncover New Developments in iPhone, iPad, and Mac Tech Including Artificial Intelligence Coming This Fall as Reported</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-the-elite-selection-of-2024s-top-airtag-add-ons-and-enhancements-zdnet-reviews/"><u>Expert Picks: The Elite Selection of 2024'S Top AirTag Add-Ons and Enhancements | ZDNET Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-sites-with-intelligent-indexing-tools/"><u>Future Sites with Intelligent Indexing Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-assess-if-your-iphone-fits-in-upgrade-echelons/"><u>How to Assess if Your iPhone Fits in Upgrade Echelons</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-from-casual-gamer-to-pro-elevating-your-minecraft-recordings-with-a-mac/"><u>In 2024, From Casual Gamer to Pro Elevating Your Minecraft Recordings with a Mac</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2022) Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-showdown-comparing-iphone-15-pro-and-iphone-13-pro-making-an-informed-upgrade-decision-digital-gadget-review/"><u>IPhone Showdown: Comparing iPhone 15 Pro and iPhone 13 Pro – Making an Informed Upgrade Decision | Digital Gadget Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-the-past-archive-your-chatgpt-conversations/"><u>Keeping the Past: Archive Your ChatGPT Conversations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/prime-visual-cutting-software-for-windows-editors-choice-list-for-2024/"><u>Prime Visual Cutting Software for Windows - Editor’s Choice List for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/professional-enterprise-level-tailwind-plus-nextjs-dashboard-template-exclusive-creativesim/"><u>Professional Enterprise-Level Tailwind + Next.js Dashboard Template - Exclusive Creativesim</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
 

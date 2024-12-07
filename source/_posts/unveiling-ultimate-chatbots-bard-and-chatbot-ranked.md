@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Ultimate Chatbots: Bard & ChatBot Ranked"
-date: 2024-09-10T16:24:30.747Z
-updated: 2024-09-17T16:03:44.467Z
+date: 2024-12-03T17:25:47.916Z
+updated: 2024-12-06T16:04:12.048Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
  There were differences between how both models approached the question. First up, we will look at Google Bard's answer.
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
@@ -75,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
@@ -92,10 +97,7 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
  As both platforms are going through rapid development, the user experience will continue to improve.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
@@ -107,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
  GPT-4 is a generative model. It generates answers based on the text it's been trained on. By contrast, [LaMDA works differently](https://www.makeuseof.com/what-is-google-lamda-ai/)—it is a discriminative model, meaning it can distinguish between various kinds of text.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
 
@@ -123,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
  Both tools are incredibly powerful and can generate intelligent answers to any prompt. But both have pros and cons, and the ultimate choice is likely to be decided by factors like user preferences and the desired output type.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
 
@@ -152,5 +151,26 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-swift-rescaling-perfect-mac-pixels-with-youtube/"><u>[New] Swift Rescaling Perfect Mac Pixels with YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-online-archive-copyright-free-gaming-harmonies/"><u>[Updated] Free Online Archive Copyright-Free Gaming Harmonies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-tricks-to-increase-viewership-on-your-tiktok-unboxing-sessions/"><u>[Updated] In 2024, Tricks to Increase Viewership on Your TikTok Unboxing Sessions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-android-recorder-commercial-free/"><u>[Updated] Top Android Recorder - Commercial-Free</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-art-of-revisiting-historical-facebook-posts-mobilelaptop/"><u>2024 Approved The Art of Revisiting Historical Facebook Posts (Mobile/Laptop)</u></a></li>
+<li><a href="https://fox-search.techidaily.com/best-practices-for-constructing-incremental-backups-on-windows-server-2008-r2/"><u>Best Practices for Constructing Incremental Backups on Windows Server 2008 R2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expertly-evaluated-ultimate-list-of-apple-watches-for-2eplust-year-in-depth-analysis-and-ratings/"><u>Expertly Evaluated Ultimate List of Apple Watches for 2E+t Year: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/googles-innovation-alert-how-does-gemini-stack-up-against-chatgpt/"><u>Google's Innovation Alert: How Does Gemini Stack Up Against ChatGPT?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-effortlessly-blur-images-captured-by-iphones-4-methods-for-2024/"><u>How to Effortlessly Blur Images Captured by iPhones (4 Methods) for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-essential-web-pages-free-whoosh-sound-packs/"><u>New 2024 Approved Essential Web Pages Free Whoosh Sound Packs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/quick-methods-saving-your-google-voice-dialogues/"><u>Quick Methods Saving Your Google Voice Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-the-fortunes-of-disappointed-sonos-owners-with-apples-help-zdnet/"><u>Reviving the Fortunes of Disappointed Sonos Owners with Apple's Help | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-securely-syncing-and-protecting-your-iphone-data-via-icloud-and-mac-tips-from-zdnet/"><u>Step-by-Step Guide: Securely Syncing and Protecting Your iPhone Data via iCloud & Mac - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/superior-ai-platforms-for-effective-internet-browsing/"><u>Superior AI Platforms for Effective Internet Browsing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-18-unbeatable-prime-day-deals-on-laptops-from-leading-brands-like-hp-apple-and-razer-exposed/"><u>Top 18 Unbeatable Prime Day Deals on Laptops From Leading Brands Like HP, Apple & Razer Exposed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-iphone-offers-in-july-2024-exclusive-savings-spotlight/"><u>Top iPhone Offers in July 2024: Exclusive Savings Spotlight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727790648910-top-rated-airtag-wallets-in-2/"><u>Top Rated AirTag Wallets in 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-potential-misuse-of-gpt-technology/"><u>Unveiling the Potential Misuse of GPT Technology</u></a></li>
+</ul></div>
 

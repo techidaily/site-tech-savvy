@@ -1,7 +1,7 @@
 ---
 title: "Unmasking FraudGPT: Proactive Steps for Cyber Safety"
-date: 2024-09-11T16:19:29.495Z
-updated: 2024-09-17T16:16:38.768Z
+date: 2024-12-02T19:27:40.694Z
+updated: 2024-12-06T18:42:21.896Z
 tags:
   - chatgpt
   - open-ai
@@ -32,15 +32,27 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 
 ![A scammer using a fishing rod to steal data from a person’s laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scammer-using-a-fishing-rod-to-steal-data.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  FraudGPT is an AI tool powered by a large language model that is particularly fine-tuned to help cyber criminals commit cybercrime. The subscription-based AI tool allows threat actors to facilitate their criminal activities like carding, phishing, and malware creation.
 
  Although details about the tool remain very limited, researchers from Netenrich, a security research firm, have uncovered several ads on the dark web advertising the tool. According to the [research report from Netenrich](https://netenrich.com/blog/fraudgpt-the-villain-avatar-of-chatgpt), the subscription fees range between $200 per month to $1,700 yearly.
 
  To better picture the tool, you can think of FraudGPT as ChatGPT but for fraud. But how exactly does FraudGPT work, and how are cybercriminals using it?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does FraudGPT Work?
 
 ![A collage of details involved in browsing displayed on top of a device help my a person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/web-of-trust.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-control-collage-concept%5F30589263.htm#query=safe%20browsing&position=45&from%5Fview=search&track=ais)
 
@@ -55,6 +67,10 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  If tools like ChatGPT can help cyber criminals commit crimes despite all efforts to make these AI chatbots safe, now think of the power a tool like FraudGPT could bring, considering it was specifically fine-tuned on malicious materials to make it suitable for cybercrime. It's like the evil twin of ChatGPT put on steroids.
 
  So, to use the tool, criminals could just prompt the chatbot as they'd do with ChatGPT. They could ask it to, say, write a phishing email for Jane Doe, who works at company ABC, or maybe ask it to write malware using C++ to steal all the PDF files from a Windows 10 computer. Criminals would basically just come up with evil mechanization and let the chatbot do the heavy lifting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Can You Protect Yourself From FraudGPT?
 
@@ -74,10 +90,7 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
  For more on how to protect yourself, read our guide on [how to protect yourself in the era of AI](https://www.makeuseof.com/how-to-protect-privacy-ai/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay Informed to Protect Yourself
@@ -103,5 +116,26 @@ Image Credit: [Freepik](https://www.freepik.com/free-photo/standard-quality-cont
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-8-tools-to-record-computer-sound-and-microphone/"><u>[New] In 2024, 8 Tools to Record Computer Sound and Microphone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-cloud-consortium-choices-best-spaces-revealed/"><u>[Updated] Cloud Consortium Choices Best Spaces Revealed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-live-photography-to-continuous-visual-storytelling-for-2024/"><u>[Updated] Live Photography to Continuous Visual Storytelling for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-the-ultimate-guide-to-mastering-apple-pay-in-store-and-online-usage-tips-why-its-a-smart-choice/"><u>1. The Ultimate Guide to Mastering Apple Pay: In-Store & Online Usage Tips - Why It's a Smart Choice</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-secrets-attracting-youtube-affiliates-with-minimal-channel-size/"><u>2024 Approved Secrets Attracting YouTube Affiliates with Minimal Channel Size</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-integration-into-dev-practices/"><u>AI Integration Into Dev Practices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apex-6-lions-large-scale-nlp-prowess-recognized/"><u>Apex 6 Lions: Large-Scale NLP Prowess Recognized</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/automate-your-writing-tasks-with-hix-ai-and-gpt-4/"><u>Automate Your Writing Tasks With HIX AI and GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-emotions-the-quest-for-empathetic-ai/"><u>Deciphering Emotions: The Quest for Empathetic AI</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-step-by-step-guide-to-boost-your-social-media-presence-with-instagram-hashtags/"><u>In 2024, Step-by-Step Guide to Boost Your Social Media Presence with Instagram Hashtags</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-tecno-spark-10c-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Tecno Spark 10C FRP</u></a></li>
+<li><a href="https://win-data.techidaily.com/is-it-feasible-to-embed-your-business-emblem-in-flipbook-projects-with-flipbuilder/"><u>Is It Feasible to Embed Your Business Emblem in FlipBook Projects with FlipBuilder?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-gen-ai-escalating-cybersecurity-concerns/"><u>Next-Gen AI: Escalating Cybersecurity Concerns</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protect-your-chatbots-from-unauthorized-inquiry/"><u>Protect Your Chatbots From Unauthorized Inquiry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-workflows-integrating-gpt-for-enhanced-output/"><u>Streamline Workflows: Integrating GPT for Enhanced Output</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-evolution-of-wireless-earbuds-apple-rumored-to-unveil-cameras-on-new-airpods-by-2026-exclusive/"><u>The Next Evolution of Wireless Earbuds: Apple Rumored to Unveil Cameras on New AirPods by 2026 Exclusive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-airtag-peripherals-expert-opinions-and-ratings-zdnet/"><u>Ultimate List of AirTag Peripherals : Expert Opinions and Ratings | ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-fcp-without-paying-tips-for-2024/"><u>Unlock FCP without Paying - Tips for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-key-traits-of-gpt-4-and-gpt-35/"><u>Unveiling Key Traits of GPT-4 and GPT-3.5</u></a></li>
+</ul></div>
 

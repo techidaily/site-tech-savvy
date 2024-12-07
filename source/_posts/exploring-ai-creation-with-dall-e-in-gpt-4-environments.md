@@ -1,7 +1,7 @@
 ---
 title: Exploring AI Creation with DALL-E in GPT-4 Environments
-date: 2024-11-22T16:25:48.983Z
-updated: 2024-11-27T16:19:27.425Z
+date: 2024-12-02T19:54:16.284Z
+updated: 2024-12-06T17:59:39.754Z
 tags:
   - chatgpt
   - open-ai
@@ -20,19 +20,11 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Sign Up for ChatGPT Plus to Access DALL-E](https://printrendy.pxf.io/xyboy5)
 * [How to Use DALL-E in a ChatGPT Chat](https://zonlipartnershipprogram.pxf.io/b0rbxy)
 * [How to Use DALL-E in the ChatGPT App](https://electronicx.pxf.io/xkwqkk)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
  You no longer have to leave ChatGPT to generate AI images. OpenAI has integrated its flagship AI image generation tool, DALL-E, into ChatGPT’s chats. Thanks to this, you only have to prompt ChatGPT to generate an image, similar to how you would prompt it to generate text.
 
  While prompting may be easy enough, we’ll show you how to know what GPTs in ChatGPT support DALL-E’s image generation. We’ll also tell you how to prompt ChatGPT to generate images when and how you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sign Up for ChatGPT Plus to Access DALL-E
 
@@ -76,13 +64,19 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 2. Check the top-left corner of the chat to ensure that it says **ChatGPT 4**. If not, click the dropdown and select it.  
 ![Selecting GPT mode in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-01-09-am.png)
 3. Go down to the chat box and enter a prompt that starts with “**Generate an image of**…” or something similar.  
-![ChatGPT generating image of a tifer and rabbit having tea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-06-12-am.png)
-4. Feel free to use follow-up prompts to improve the image to get it exactly how you want.  
-![ChatGPT generating an image in a different style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-08-39-am.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ChatGPT generating image of a tifer and rabbit having tea](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-06-12-am.png)
+4. Feel free to use follow-up prompts to improve the image to get it exactly how you want.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![ChatGPT generating an image in a different style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-21-at-11-08-39-am.png)
 
  You can download the image by clicking it and hitting the download button in the window's top-right corner.
 
@@ -94,12 +88,20 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
 ![ChatGPT menu in the mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0104.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choosing what GPT mode to use in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0105.PNG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ChatGPT generating an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0106.PNG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT reworking an image in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/img_0107.PNG)
@@ -137,18 +139,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-twitter-marketing-101-step-by-step-guide/"><u>[New] Twitter Marketing 101 Step-by-Step Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-setting-up-your-social-media-presence-with-twitter/"><u>[Updated] 2024 Approved Setting Up Your Social Media Presence with Twitter</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600269020-windows/"><u>「ステラ・データリカバリ - Windows版無償の効果的なデータ回復プログラム」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-bots-5-innovative-ai-tools-for-crypto-success/"><u>Beyond Bots: 5 Innovative AI Tools for Crypto Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficiently-navigating-through-llama-2s-interface/"><u>Efficiently Navigating Through Llama 2'S Interface</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-festive-spirit-with-a-bargain-exclusive-offer-apple-airpods-at-40-off-unveiled-ahead-of-july-fourth-celebrations/"><u>Elevate Your Festive Spirit with a Bargain! Exclusive Offer: Apple AirPods at 40% Off - Unveiled Ahead of July Fourth Celebrations</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guide-accessing-and-enjoying-the-new-apple-tvplus-streaming-platform/"><u>Guide: Accessing and Enjoying the New Apple TV+ Streaming Platform</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-12plus-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme 12+ 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/linear-bavarder-procedure-on-a-linux-device/"><u>Linear Bavarder Procedure on a Linux Device</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/st-digital-revenue-prognosticator-for-2024/"><u>No-Cost Digital Revenue Prognosticator for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/steps-for-uploading-your-dvd-content-onto-youtube/"><u>Steps for Uploading Your DVD Content Onto YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-tablet-picks-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Tablet Picks : Comprehensive Reviews by Tech Gurus - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-hidden-megabytes-on-your-iphone-effective-methods-to-clear-space-and-enhance-performance/"><u>Unlock Hidden Megabytes on Your iPhone: Effective Methods to Clear Space and Enhance Performance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-efficient-recording-methods-for-skype-calls-using-obs/"><u>[New] In 2024, Efficient Recording Methods for Skype Calls Using OBS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-the-secrets-of-slow-motion-expert-advice-using-photo-apps-and-websites/"><u>[New] Unlock the Secrets of Slow Motion Expert Advice Using Photo Apps & Websites</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-financial-overview-total-investment-for-music-clip-shootings/"><u>[Updated] Financial Overview Total Investment for Music Clip Shootings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-smooth-path-from-instagram-visuals-to-mp3-sound/"><u>[Updated] Smooth Path From Instagram Visuals to Mp3 Sound</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-guide-to-professional-photo-coloring/"><u>[Updated] The Ultimate Guide to Professional Photo Coloring</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-of-ai-written-content-spotting-fake-texts/"><u>Beware of AI-Written Content: Spotting Fake Texts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-future-architect-of-your-smart-home-experience/"><u>ChatGPT: The Future Architect of Your Smart Home Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expertly-selected-ultimate-mac-applications-listing-cnet/"><u>Expertly Selected Ultimate Mac Applications Listing | CNET</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/funny-carousel-image-builder/"><u>Funny Carousel Image Builder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hugging-face-clarity-on-its-role-in-ai/"><u>Hugging Face: Clarity on Its Role in AI</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-go-from-gaming-to-socializing-streaming-xbox-to-fb-live/"><u>In 2024, Go From Gaming to Socializing Streaming Xbox to FB Live</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nine-considerations-determining-the-viability-of-prompt-crafting-professionals/"><u>Nine Considerations Determining the Viability of Prompt Crafting Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rediscovering-my-smartphone-after-three-years-an-in-depth-analysis-for-tech-enthusiasts-zdnet-insights/"><u>Rediscovering My Smartphone After Three Years: An In-Depth Analysis for Tech Enthusiasts | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reignite-creativity-top-9-perks-of-upgrading-to-chatgpt-plus/"><u>Reignite Creativity: Top 9 Perks of Upgrading to ChatGPT Plus</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-syncing-your-fire-stick-controller-perfectly/"><u>Ultimate Guide: Syncing Your Fire Stick Controller Perfectly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unearthing-claude-2-its-purpose-and-impact/"><u>Unearthing Claude 2: Its Purpose & Impact</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-130-music-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia 130 Music Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-ultimate-magsafe-compatible-wallet-appleanker-alternative-on-massive-sale-gadgetguru/"><u>Unveiling the Ultimate MagSafe Compatible Wallet: Apple/Anker Alternative on Massive Sale! | GadgetGuru</u></a></li>
 </ul></div>
 

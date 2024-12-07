@@ -1,7 +1,7 @@
 ---
 title: Introducing Anthropic's Comprehensible AI Stores
-date: 2024-11-26T16:29:34.376Z
-updated: 2024-11-27T16:23:01.804Z
+date: 2024-12-02T20:37:12.684Z
+updated: 2024-12-06T23:55:55.393Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is Anthropic's Prompt Library?](https://bluettieu.pxf.io/nlgoka)
@@ -31,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 * [Is the Anthropic Prompt Library Any Good?](https://review-au.sjv.io/wqnrq3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
  Anthropic's prompt library is simple to use—and better still, it's completely free.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Anthropic's Prompt Library?
 
 ![anthropic prompt library options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-options.jpg)
@@ -64,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
  It's a nice touch for those who spend time perfecting their prompt prowess and want to share these tips with the world.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Anthropic's Prompt Library
 
  As said, Anthropic has covered a vast number of subjects in its prompt library. The prompts take different formats depending on the subject matter.
@@ -72,15 +68,19 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
 ![anthropic prompt library dream interpreter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-dream-interpreter-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Whereas the Corporate Clairvoyant prompt features a user input designed to analyze and summarize a report, highlighting important features.
 
 ![anthropic prompt library corporate clairvoyant option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-corporate-clairvoyant-option.jpg)
 
- Using any of the prompts is simple: just copy and paste them into Claude (or another AI chatbot), tweak them to your liking, and you're good to go.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Using any of the prompts is simple: just copy and paste them into Claude (or another AI chatbot), tweak them to your liking, and you're good to go.
 
 ## Is the Anthropic Prompt Library Any Good?
 
@@ -96,13 +96,13 @@ thumbnail: https://thmb.techidaily.com/0446f5b055fa9f04a308ea9069332fcaf65671fcf
 
 ![claude 3 dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-dream-interpreter-prompt-library-output.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While ChatGPT 4 responded:
 
 ![chatgpt plus dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-plus-dream-interpreter-prompt-library-output.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's pretty similar, covering the same thoughts, feelings, and imagery. However, given the number of websites, blog posts, and books both tools have been trained on, those details are relatively easy to discern.
 
@@ -141,21 +141,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-budget-friendly-video-recorder-sets-top-11-picks/"><u>[New] 2024 Approved Budget-Friendly Video Recorder Sets Top 11 Picks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-navigating-the-social-maze-tweets-plus-tumble-videos/"><u>[New] 2024 Approved Navigating the Social Maze Tweets + Tumble Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-cost-effective-gaming-selecting-the-best-keyboard-choices-for-2024/"><u>[New] Cost-Effective Gaming Selecting the Best Keyboard Choices for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-celebrating-the-best-ten-music-video-lives-for-2024/"><u>[Updated] Celebrating the Best Ten Music Video Lives for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-exploring-huawei-p10s-network-performance-and-coverage/"><u>2024 Approved Exploring Huawei P10's Network Performance & Coverage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-appeal-the-cybersecurity-concerns-with-chatgpt/"><u>AI Appeal: The Cybersecurity Concerns with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-vs-se-future-search-landscape/"><u>AI vs SE: Future Search Landscape?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cha-ching-for-better-ai-invest-in-10-gpt-modifications/"><u>Cha-Ching for Better AI: Invest in 10 GPT Modifications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-unveiled-the-ai-enthusiasts-guide/"><u>Chatbots Unveiled: The AI Enthusiast's Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eliminating-chatgpts-monopoly-on-conversation/"><u>Eliminating ChatGPT's Monopoly on Conversation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-chatgpt-can-help-you-land-your-dream-job/"><u>How ChatGPT Can Help You Land Your Dream Job</u></a></li>
-<li><a href="https://games-able.techidaily.com/securing-peak-performance-8-cpu-cooler-selection-tips/"><u>Securing Peak Performance: 8 CPU Cooler Selection Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-ai-tools-beyond-gpt-for-code-automation/"><u>Top 7 AI Tools Beyond GPT for Code Automation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-a18-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo A18 Phone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-home-weather-monitors-for-2vearly-2024/"><u>Top-Rated Home Weather Monitors for 2Vearly 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ranking-the-top-16-youtube-intros-to-amplify-views/"><u>[Updated] Ranking the Top 16 YouTube Intros to Amplify Views</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-strategies-to-enhance-gopros-electric-efficiency-for-2024/"><u>[Updated] Strategies to Enhance GoPro's Electric Efficiency for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazons-e-readers-and-tablets-decoded-how-kindle-differs-from-the-fire-tablet/"><u>Amazon's E-Readers & Tablets Decoded: How Kindle Differs From the Fire Tablet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/become-an-interview-pro-leveraging-chatgpt-expertise/"><u>Become an Interview Pro: Leveraging ChatGPT Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensively-understanding-hugging-face/"><u>Comprehensively Understanding Hugging Face</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-ios-makes-a-difference-in-your-daily-chatgpt-use/"><u>How iOS Makes a Difference in Your Daily ChatGPT Use</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/rise-and-shine-on-these-overlooked-meme-platforms/"><u>Rise and Shine on These Overlooked Meme Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722985062023-say-goodbye-to-tormented-souls-pc-glitches-crash-free-gaming-experience-guaranteed/"><u>Say Goodbye to Tormented Souls PC Glitches - Crash-Free Gaming Experience Guaranteed!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ethical-dilemma-of-using-chatgpt-in-professional-environments/"><u>The Ethical Dilemma of Using ChatGPT in Professional Environments</u></a></li>
 </ul></div>
 

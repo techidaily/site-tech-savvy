@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Traps: Avoiding Pitfalls for Better Interactions"
-date: 2024-11-22T16:48:58.899Z
-updated: 2024-11-27T16:21:23.682Z
+date: 2024-12-03T18:42:23.902Z
+updated: 2024-12-06T21:49:34.037Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Too Many Instructions In a Single Prompt
 
  ChatGPT is capable of handling several directives within a single prompt. Yet, there's a threshold to the number of instructions it can manage simultaneously without compromising the quality of its responses. You may have encountered online prompts containing numerous instructions that appear to function well. However, this isn't always the case, and there's a nuanced approach required to ensure optimal results.
@@ -60,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 * Let's talk about the budget
 
  The second set of prompts will produce much more detailed information and relevant responses.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Being Overly Specific With Your Instructions
 
@@ -84,11 +92,7 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
@@ -107,23 +111,19 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Not Being Clear and Specific With Your Instructions
 
@@ -134,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
@@ -160,17 +160,24 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-deciphering-numbers-an-introduction-to-facebook-insight/"><u>[New] 2024 Approved Deciphering Numbers An Introduction to Facebook Insight</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-what-lies-behind-the-unlisted-tag-on-youtube/"><u>[Updated] In 2024, What Lies Behind the 'Unlisted' Tag on YouTube?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-maximizing-impact-reddit-post-best-practices-unveiled-for-2024/"><u>[Updated] Maximizing Impact Reddit Post Best Practices Unveiled for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-6-free-image-editors-that-can-replace-photoshop-effectively/"><u>Discover 6 Free Image Editors That Can Replace Photoshop Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-scam-alert-to-twitsignature-metas-progressive-stride/"><u>From Scam Alert to TwitSignature: Meta's Progressive Stride</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ideal-blueprint-top-6-fresh-mojave-homes/"><u>Ideal Blueprint Top 6 Fresh Mojave Homes</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/listeners-lens-sound-study-for-2024/"><u>Listener's Lens Sound Study for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/mastering-macos-sierra-installation-procedures/"><u>Mastering macOS Sierra Installation Procedures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prioritized-improvements-to-craft-an-ideal-gpt-plugin-marketplace/"><u>Prioritized Improvements to Craft an Ideal GPT Plugin Marketplace</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rise-of-bard-googles-new-ai-ambition-against-chatgpt/"><u>The Rise of 'Bard': Google's New AI Ambition Against ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-did-italy-declare-an-immediate-ban-on-ai-language-models/"><u>Why Did Italy Declare an Immediate Ban on AI Language Models?</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/1728481183618-windows-10/"><u>Windows 10でバックアップがうまくいかない場合、すぐに修正する方法</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-10-ultimate-editing-strategies-for-viral-tiktoks/"><u>[New] 2024 Approved 10 Ultimate Editing Strategies for Viral TikToks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-narrative-artistry-accolades-1-8-distinguished-academies/"><u>[New] In 2024, Narrative Artistry Accolades #1-#8 Distinguished Academies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-scale-up-visuals-without-diminishing-clarity/"><u>[New] In 2024, Scale Up Visuals Without Diminishing Clarity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-crafting-igtv-cover-photos/"><u>[New] Step-by-Step Guide to Crafting IGTV Cover Photos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-essential-audio-gear-for-active-cameras/"><u>[Updated] 2024 Approved Essential Audio Gear for Active Cameras</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-from-ordinary-to-extraordinary-transform-your-facebook-profile-with-these-tips/"><u>[Updated] From Ordinary to Extraordinary Transform Your Facebook Profile with These Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-your-essential-guide-to-mobile-asmr-sounds/"><u>[Updated] Your Essential Guide to Mobile ASMR Sounds</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-instant-tiktok-video-archive-boundless-and-clean/"><u>2024 Approved Instant TikTok Video Archive Boundless & Clean</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-ramps-up-artificial-intelligence-prowess-with-latest-innovations-discover-the-power-of-new-models-zdnet/"><u>Apple Ramps Up Artificial Intelligence Prowess with Latest Innovations – Discover the Power of New Models | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmented-challenges-the-future-of-ai-security/"><u>Augmented Challenges: The Future of AI Security</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defending-against-data-breaches-in-personalized-ai-systems/"><u>Defending Against Data Breaches in Personalized AI Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-math-problem-solving-with-chatgpt/"><u>Exploring Math Problem-Solving with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/grab-the-cheapest-apple-watch-series-n9-ever-special-offer-ends-soon-dont-miss-out/"><u>Grab the Cheapest Apple Watch Series N9 Ever! Special Offer Ends Soon, Don't Miss Out .</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-protection-at-a-glance-choosing-the-ideal-smart-lock-for-iphone-users-reviews/"><u>Seamless Protection at a Glance: Choosing the Ideal Smart Lock for iPhone Users Reviews</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-gpu-load-and-strain-in-windows-our-top-6-tool-list/"><u>Tackling GPU Load & Strain in Windows: Our Top 6 Tool List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ranking-of-the-best-mobile-gaming-devices-according-to-zdnet/"><u>The Ultimate Ranking of the Best Mobile Gaming Devices According to ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-new-possibilities-how-apples-enhanced-iphone-nfc-for-third-party-integration-boosts-user-experience-insights/"><u>Unlock New Possibilities: How Apple's Enhanced iPhone NFC for Third-Party Integration Boosts User Experience Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-claude-3-dominates-chatgpt-unpacking-the-four-benefits/"><u>Why Claude 3 Dominates ChatGPT - Unpacking the Four Benefits</u></a></li>
 </ul></div>
 

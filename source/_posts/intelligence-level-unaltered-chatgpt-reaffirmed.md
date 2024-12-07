@@ -1,7 +1,7 @@
 ---
 title: "Intelligence Level Unaltered: ChatGPT Reaffirmed"
-date: 2024-11-23T16:50:08.223Z
-updated: 2024-11-27T16:55:56.883Z
+date: 2024-12-03T21:41:25.147Z
+updated: 2024-12-06T22:20:29.954Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT Getting Worse?
@@ -41,7 +41,7 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
  Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stanford Study Suggests ChatGPT Drop Off
@@ -57,16 +57,12 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 ![chatgpt study answers changing chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 ![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
@@ -77,7 +73,7 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  The report explains that ChatGPT's large language model chain of thought "did not work" when presented with the questions in June. Conversation drift has always been a notable issue with LLMs, but the extreme variance in responses suggests performance issues and changes to ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT Getting Worse? OpenAI Says No
@@ -89,6 +85,10 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  Furthermore, Welinder later pointed to OpenAI's releases for ChatGPT and the constant stream of updates the company has delivered throughout 2023\.
 
  Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can OpenAI Restore ChatGPT to Its Original State?
 
@@ -115,21 +115,17 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-complete-guide-navigating-google-podcast-app/"><u>[New] Complete Guide Navigating Google Podcast App</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-evaluating-the-top-video-streaming-apps-for-phones/"><u>[Updated] 2024 Approved Evaluating the Top Video Streaming Apps for Phones</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-live-to-share-top-tech-for-high-quality-youtube-livestreams/"><u>[Updated] In 2024, Live to Share Top Tech For High-Quality YouTube Livestreams</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-streaming-aerial-adventures-on-fb-from-dji-drone/"><u>[Updated] In 2024, Streaming Aerial Adventures on FB From DJI Drone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-iphones-best-video-editor-pick-cameo-vs-filmorago-analysis-for-2024/"><u>[Updated] IPhone's Best Video Editor Pick Cameo Vs. FilmoraGo Analysis for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-itel-p55-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Itel P55 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automatic-closing-of-safari-tabs-in-macos-sonoma-step-by-step-guide/"><u>Automatic Closing of Safari Tabs in macOS Sonoma - Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-depth-of-apples-artificial-intelligence-unveiling-ai-capabilities-for-iphone-macbook-and-ipad/"><u>Exploring the Depth of Apple's Artificial Intelligence: Unveiling AI Capabilities for iPhone, MacBook & iPad</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/infuse-kinetic-smear-into-photos-in-photoshop/"><u>Infuse Kinetic Smear Into Photos in Photoshop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipad-pro-versus-macbook-air-showdown-determining-the-ultimate-choice-for-your-needs-insights-from-zdnet/"><u>IPad Pro versus MacBook Air Showdown: Determining the Ultimate Choice for Your Needs - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipados-18-unveiled-at-wwdc-2024-the-game-changing-features-that-could-persuade-you-to-choose-apples-tablet-today-insights-from-zdnet/"><u>IPadOS 18 Unveiled at WWDC 2024: The Game-Changing Features That Could Persuade You to Choose Apple’s Tablet Today - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-based-communication-to-deter-solitude/"><u>Leveraging GPT-Based Communication to Deter Solitude</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-start-codegpt-with-visual-studio-code/"><u>Quick Start: CodeGPT with Visual Studio Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-enterprise-productivity-top-5-companies-embrace-apple-vision-pros-game-changing-features-insights/"><u>Revolutionizing Enterprise Productivity: Top 5 Companies Embrace Apple Vision Pro's Game-Changing Features - Insights</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/top-pick-ultimate-guide-to-the-best-free-and-premium-screen-capture-tools-for-windows-10-8-and/"><u>Top Pick: Ultimate Guide to the Best Free & Premium Screen Capture Tools for Windows 10, 8 &</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/avi12windowsmac/"><u>オススメの最高の無料AVI再生ソフトウェア12本、WindowsとMac用</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-affordable-skycabinet-mass-data-hoarding-on-a-budget/"><u>[New] 2024 Approved Affordable SkyCabinet Mass Data Hoarding on a Budget</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-master-youtube-monetization-tips-to-boost-income-via-shorts/"><u>[New] 2024 Approved Master YouTube Monetization Tips to Boost Income via Shorts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-personalized-content-sharing-on-vimeo-basic-plus-and-pro-explained/"><u>[New] Personalized Content Sharing on Vimeo Basic, Plus & Pro Explained</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-cutting-edge-video-recording-for-windows-users/"><u>[Updated] Cutting-Edge Video Recording for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/directive-approach-to-prevent-fake-outputs-in-machine-learning/"><u>Directive Approach to Prevent Fake Outputs in Machine Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-simple-to-sophisticated-ai-dialogue-journey/"><u>From Simple to Sophisticated: AI Dialogue Journey</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/hoe-snel-kunt-u-data-terugkaatsen-op-een-buitenlands-harde-schijf-na-het-verliezen-van-een-partitie-huidige-tips-voor-de-beste-seo-prestaties/"><u>Hoe Snel Kunt U Data Terugkaatsen Op Een Buitenlands Harde Schijf Na Het Verliezen Van Een Partitie? - Huidige Tips Voor De Beste SEO-Prestaties</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-honor-90-lite-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Honor 90 Lite</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-best-online-bunches-of-premium-quality-vector-icons/"><u>In 2024, Best Online Bunches of Premium-Quality Vector Icons</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-release-of-magicard-rio-pro-driver-for-modern-systems-windows-11817-supported/"><u>Latest Release of Magicard Rio Pro Driver for Modern Systems: Windows 11/8.1/7 Supported</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-bypass-chatgpts-input-limits/"><u>Strategies to Bypass ChatGPT's Input Limits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unwrap-your-best-bargain-yet-score-apple-airpods-at-an-unbelievable-40-off-pre-fourth-of-july-celebration-insights/"><u>Unwrap Your Best Bargain Yet: Score Apple AirPods at an Unbelievable $40 Off Pre-Fourth of July Celebration – Insights</u></a></li>
 </ul></div>
 

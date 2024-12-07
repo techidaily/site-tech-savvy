@@ -1,7 +1,7 @@
 ---
 title: What's Behind These 7 Apps’ GPT-4 Capabilities?
-date: 2024-11-22T16:01:11.463Z
-updated: 2024-11-27T17:01:24.221Z
+date: 2024-11-30T23:05:08.610Z
+updated: 2024-12-06T16:12:08.911Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,13 @@ thumbnail: https://thmb.techidaily.com/26d450fdec75a3cb5316781ad73e34df68fc7b736
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Duolingo
 
 ![Picture of Duolingo Max App Logo-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-of-duolingo-max-app-logo-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
@@ -50,6 +50,10 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 * **Roleplay Feature:** The roleplay feature is designed to allow students to practice real-life conversations with characters from the app. The examples cited by Duolingo include discussing vacation plans, ordering coffee in Parisian cafés, or going furniture shopping.
 
  GPT-4 is being used to create a reactive and responsive learning environment where no two conversations are alike. The first version is restricted to English speakers wanting to learn Spanish or French and is available only on iOS. Duolingo Max is priced at $29.99 monthly or $167.99 for an annual subscription.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Be My Eyes
 
@@ -65,21 +69,17 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  The Be My Eyes Virtual Volunteer is in beta testing; the company hopes to roll it out to the public soon. It will be available for free to all blind and low-vision members on both Android and iOS platforms.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Khan Academy
 
 ![Screenshot of Khan Academy Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-khan-academy-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the topic of worthwhile causes, another early adopter of GPT-4 is Khan Academy, a [free online course platform](https://www.khanacademy.org/signup). This non-profit organization's mission statement is to offer free, world-class education to anyone.
 
  Khan Academy sees GPT-4 as a virtual teacher. The roll-out of the app is limited, with the teaching assistant (dubbed Khanmigo) only available to a limited number of users. However, a [Khan Academy waitlist](https://www.khanacademy.org/khan-labs) exists for those wanting to help test the product. Successful applicants are asked to donate $20 per month.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Does Khan Academy Use GPT-4?
 
@@ -102,13 +102,13 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  The Khan Academy app is free across all platforms; students and teachers can sign up online to join [Khan Academy](https://www.khanacademy.org/signup).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Stripe
 
 ![Screenshot of Stripe Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-stripe-homepage.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Stripe is a payment processing platform that allows all types of businesses to accept and send payments online and provides other business management tools.
 
@@ -125,6 +125,10 @@ Image Credit: [Duolingo](https://blog.duolingo.com/duolingo-max/)
  From a user's perspective, Stripe has stated that the software can give a staggering level of insight into a user's business. This helps them understand how each business uses the platform and allows them to customize support resources tailored to the end user's needs.
 
  The developers say that the new system will be able to understand users' questions fully. It can also scan support documentation and offer solutions or highlight relevant text within documents.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. ChatSonic
 
@@ -148,35 +152,23 @@ Image Credit: ChatSonic
 
  ChatSonic is free to try, and the paid version starts at $12.67 per month. Full details are available on the [WriteSonic](https://writesonic.com/chat) website.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Bing AI
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
  Microsoft was an early adopter of GPT-4, which it integrated into its Bing search page. A Bing app is now available for Android and iOS, bringing the power of GPT-4 to the mobile masses.
 
  The Bing app is representative of the next generation of search engines and, in true ChatGPT style, is capable of far more than just listing relevant results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What Can You Use the Bing AI App For?
 
@@ -192,6 +184,10 @@ Close
  In short, this app can do everything that the original ChatGPT can, but with lots more features and access to current data sources.
 
 **Download**: Bing AI for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023057/https://play.google.com/store/apps/details?id=com.microsoft.bing) | [iOS](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Petey
 
@@ -210,6 +206,10 @@ Image Credit: Petey Assistant
  It has all the usual features you'd expect from a ChatGPT-based app. However, the inclusion of GPT-4 brings the added benefit of access to real-time data, which comes into its own with its Apple Music integration. Without GPT-4, this feature can only use music released before the GPT-3.5 cut-off date (around late 2021).
 
 **Download**: [Petey](https://apps.apple.com/us/app/petey-ai-assistant/id6446047813) for iOS ($3.99 Premium version required for GPT-4)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## GPT-4: A New Level of Artificial Intelligence
 
@@ -238,24 +238,19 @@ Image Credit: Petey Assistant
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-tools-for-creative-video-content/"><u>[New] 2024 Approved Essential Tools for Creative Video Content</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-youtube-short-content-techniques-unveiled-for-2024/"><u>[Updated] Essential YouTube Short Content Techniques Unveiled for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquer-the-cold-with-confidence-the-definitive-shoppers-handbook-to-picking-a-top-notch-snow-blower-zdnet-insights/"><u>Conquer the Cold with Confidence: The Definitive Shopper's Handbook to Picking a Top-Notch Snow Blower | ZDNET Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975029829-effortless-installation-of-usb-camera-drivers-free-easy-downloads-now/"><u>Effortless Installation of USB Camera Drivers: Free, Easy Downloads Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exceptional-deal-the-near-perfect-arlo-pro-just-at-180-offers-optimal-home-surveillance/"><u>Exceptional Deal: The Near-Perfect Arlo Pro 지스로, Just at $180 Offers Optimal Home Surveillance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-unmatched-illumination-the-enhanced-govee-outdoor-lighting-setup-for-a-vibrant-evening-ambiance-zdnet/"><u>Experience Unmatched Illumination: The Enhanced Govee Outdoor Lighting Setup for a Vibrant Evening Ambiance | ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-growth-and-impact-of-electric-car-adoption/"><u>Exploring the Growth and Impact of Electric Car Adoption</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-viewing-options-witness-the-april-8th-lunar-eclipse-with-googles-live-stream-zdnet/"><u>Free Viewing Options: Witness the April 8Th Lunar Eclipse with Google's Live Stream | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-plan-perfect-labor-day-celebrations-expert-advice-and-strategies-by-zdnet-experts/"><u>How to Plan Perfect Labor Day Celebrations: Expert Advice & Strategies by ZDNET Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/illuminate-your-yard-with-the-brightest-govee-led-permanent-lights-upgrade-your-outdoors-this-saturday/"><u>Illuminate Your Yard with the Brightest Govee LED Permanent Lights - Upgrade Your Outdoors This Saturday!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-11-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 11 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-unlocking-youtubes-secrets-for-profound-visibility-gains/"><u>In 2024, Unlocking YouTube's Secrets for Profound Visibility Gains</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-sony-reigning-supremely-with-their-latest-summer-ready-portable-speakers-our-in-depth-analysis-zdnet/"><u>Is Sony Reigning Supremely with Their Latest Summer-Ready Portable Speakers? Our In-Depth Analysis | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/labor-day-deal-alert-snag-the-blink-outdoor-4-camera-system-and-floodlight-combo-at-an-unbeatable-price-of-80/"><u>Labor Day Deal Alert: Snag the Blink Outdoor 4-Camera System & Floodlight Combo at an Unbeatable Price of $80!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/labor-day-exclusive-snag-the-blink-mini-2-security-camera-at-a-whopping-25-off-unmatched-deal-of-the-season/"><u>Labor Day Exclusive: Snag the Blink Mini 2 Security Camera at a Whopping 25% Off - Unmatched Deal of the Season!</u></a></li>
-<li><a href="https://win11.techidaily.com/1719322695938-new-windows-11-users-beware-of-these-top-8-errors/"><u>New Windows 11 Users, Beware of These Top 8 Errors</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-quintessential-guide-to-selecting-premium-drone-engines/"><u>The Quintessential Guide to Selecting Premium Drone Engines</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/tout-sur-la-protection-de-windows-10-64-bit-avec-notre-solution-gratuite-de-sauvegarde-logicielle/"><u>Tout Sur La Protection De Windows 10 (64-Bit) Avec Notre Solution Gratuite De Sauvegarde Logicielle</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-from-behind-the-scenes-creating-10-facebook-videos-for-2024/"><u>[New] From Behind the Scenes Creating #10 Facebook Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-money-making-masters-youtubes-financial-kings/"><u>2024 Approved Money-Making Masters YouTube's Financial Kings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-secrets-in-watching-the-instagram-story-narrative/"><u>2024 Approved Secrets in Watching The Instagram Story Narrative</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-to-use-or-not-to-use-sns-hdr-pro-reviewed/"><u>2024 Approved To Use or Not to Use SNS HDR Pro Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-innovation-on-track-for-iphones-unveiling-clues-from-apples-recent-acquisition-insights/"><u>AI Innovation on Track for iPhones? Unveiling Clues From Apple's Recent Acquisition Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-gpt-3-to-claude-3-identifying-four-key-differences/"><u>From GPT-3 to Claude 3: Identifying Four Key Differences</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-eliminate-youtube-short-headaches-with-these-tips/"><u>In 2024, Eliminate YouTube Short Headaches with These Tips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-avoid-and-reverse-strikes-on-your-youtube-channel/"><u>In 2024, How to Avoid and Reverse Strikes on Your YouTube Channel</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/langsam-gehende-abfahrtsprache-fur-deutsche/"><u>Langsam Gehende Abfahrtsprache Für Deutsche</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-giants-of-social-networking-fb-twtr-igtv-and-gotube/"><u>Navigating the Giants of Social Networking: FB, TWTR, IGTV, and GoTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-gpts-input-restrictions/"><u>Navigating Through GPT's Input Restrictions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revealing-truth-behind-winchatgpt-extension/"><u>Revealing Truth Behind WinChatGPT Extension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sham-botnet-swipes-on-facebook-credentials/"><u>Sham Botnet: Swipes on FACEBOOK Credentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-latency-ledger-chatgpt-4-versus-its-gpt-35-counterpart/"><u>The Latency Ledger: ChatGPT-4 Versus Its GPT-3.5 Counterpart</u></a></li>
 </ul></div>
 

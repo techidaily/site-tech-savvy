@@ -1,7 +1,7 @@
 ---
 title: "Mastering GPT-3: A Guide to Writing in Your Voice"
-date: 2024-11-20T16:30:25.335Z
-updated: 2024-11-27T16:24:53.269Z
+date: 2024-12-02T00:56:01.007Z
+updated: 2024-12-06T19:48:37.340Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 Ways to Teach ChatGPT to Write Like You
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
  Both options require a different approach, which you can check out below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Training ChatGPT With Samples of Your Work
@@ -62,7 +62,7 @@ Extract the writing style in the text provided below. Please study the tone, wor
 ![Result of writing Style extraction by ChatGPT-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/result-of-writing-style-extraction-by-chatgpt-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, one sample might not be enough to thoroughly capture every aspect of your writing style. So, you can repeat the prompt above with three to five more samples within the same ChatGPT conversation. After iterating through the number of samples you wish to use, you can then use the prompt below to unify the extracted styles.
@@ -76,10 +76,6 @@ Unify all the extracted writing styles and present them in a clear detailed form
 Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, explanation style, and other stylistic elements in order to mimic the unique style of the author of the text below. Use the same stylistic elements to write an article on the topic: "Some article topic goes here." [Paste the sample here]
 
  Also, for the best results, we recommend using GPT-4 and, specifically, the GPT-4 Code Interpreter plugin for the task. You'll be able to work with more text or even, ideally, stack several articles in a text or word file and ask ChatGPT to analyze the content for its writing style.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Training ChatGPT Using a Personal Preference Map (PPM)
 
@@ -103,6 +99,10 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
 
  Another advantage of using a PPM is the flexibility and portability it offers. You can easily tweak the writing style with precision by hanging a few words. You can also use the PPM in a different AI chatbot like Claude AI or Google Bard. We used the PPM above [on the Claude AI chatbot](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/) and asked it to give it a topic to write. It was able to replicate as many of the stylistic elements used by the target author as possible.
@@ -110,7 +110,7 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make ChatGPT Work for You
@@ -136,16 +136,20 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-does-immediate-subscription-enhance-user-engagement-on-youtube/"><u>[New] In 2024, Does Immediate Subscription Enhance User Engagement on Youtube?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-enhance-browsing-with-effortless-side-by-side-view-on-chromes-fullscreen/"><u>[New] In 2024, Enhance Browsing with Effortless Side-by-Side View on Chrome's Fullscreen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-bartender-or-just-a-computer/"><u>AI Bartender or Just a Computer?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-gaming-gains-graphed-income-insights-on-finn/"><u>In 2024, Gaming Gains Graphed Income Insights on Finn</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instavox-the-art-of-adding-music-to-images/"><u>InstaVox The Art of Adding Music to Images</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/italys-immediate-intervention-in-banning-the-chatgpt-giant/"><u>Italy's Immediate Intervention in Banning the ChatGPT Giant</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-neural-network-nuances-avoidably/"><u>Navigating Neural Network Nuances Avoidably</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionary-insights-7-ways-to-use-chatgpts-vision-ai/"><u>Revolutionary Insights: 7 Ways to Use ChatGPT's Vision AI</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-disruptions-solving-the-age-of-empires-4-stability-issue-on-pc/"><u>Say Goodbye to Disruptions: Solving the Age of Empires 4 Stability Issue on PC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/streaming-success-story-which-video-site-tops-others-vimeo-youtube-for-2024/"><u>Streaming Success Story Which Video Site Tops Others – Vimeo, YouTube for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-spectrum-of-intelligence-from-gpt-1-through-gpt-4/"><u>The Spectrum of Intelligence: From GPT-1 Through GPT-4</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-live-in-action-2023-edition/"><u>[New] 2024 Approved Facebook Live in Action 2023 Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastering-screen-capture-hp-notebook-techniques/"><u>[Updated] 2024 Approved Mastering Screen Capture HP Notebook Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-eight-destinations-for-3d-typography/"><u>[Updated] 2024 Approved Top Eight Destinations for 3D Typography</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-snippets-guide-essential-info-inside/"><u>2024 Approved YouTube Snippets Guide Essential Info Inside</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-capability-gradient-from-subtle-to-supreme/"><u>AI's Capability Gradient: From Subtle to Supreme</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-finest-creations-of-2024-in-depth-iphone-model-comparisons-and-ratings/"><u>Apple's Finest Creations of 2024: In-Depth iPhone Model Comparisons and Ratings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ballads-battlefield-poetic-giants-versus-gpt-shepherds-wooly-kinfolk/"><u>Ballads' Battlefield - Poetic Giants Versus GPT Shepherds, Wooly Kinfolk</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/converting-memories-into-videos-the-power-of-pixiz-techniques-for-2024/"><u>Converting Memories Into Videos The Power of Pixiz Techniques for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-metaverse-designs-your-quick-start-for-avatars/"><u>In 2024, Mastering Metaverse Designs Your Quick-Start for Avatars</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/precision-audio-capturing-techniques-in-overwatch/"><u>Precision Audio Capturing Techniques in Overwatch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/staying-informed-with-chatgpt-universal-benefit/"><u>Staying Informed with ChatGPT, Universal Benefit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ubuntu-and-auto-gpt-seamless-integration-steps/"><u>Ubuntu & Auto-GPT: Seamless Integration Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-most-popular-apple-watches-of-2024-professional-reviews-and-ratings-zdnet/"><u>Ultimate Guide to the Most Popular Apple Watches of 2024: Professional Reviews and Ratings | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-selection-of-airtag-add-ons-for-202n4-in-depth-analysis-and-ratings/"><u>Ultimate Selection of AirTag Add-Ons for 202N4: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/video-quality-showdown-gopro-edition/"><u>Video Quality Showdown GoPro Edition</u></a></li>
 </ul></div>
 

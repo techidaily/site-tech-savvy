@@ -1,7 +1,7 @@
 ---
 title: Harnessing ChatGPT for Engaging Presentation Creation
-date: 2024-09-13T16:05:57.295Z
-updated: 2024-09-17T16:09:24.736Z
+date: 2024-12-03T20:17:01.242Z
+updated: 2024-12-06T22:36:01.757Z
 tags:
   - chatgpt
   - open-ai
@@ -58,11 +58,19 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  If you want to make the whole process even easier and don't feel like editing the AI-generated text yourself, you can use yet another [AI writing tool](https://www.makeuseof.com/ai-writing-tools/) to edit ChatGPT's output.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Install SlidesAI for Google Slides
 
  After generating the text for your presentation, the next step is to install [SlidesAI for Google Slides](https://workspace.google.com/marketplace/app/slidesaiio%5Fcreate%5Fslides%5Fwith%5Fai/904276957168). You can do this through the Google Slides add-ons store.
 
 ![SlidesAI on the Google Webstore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Go to Google Slides.
 2. Create a blank presentation.
@@ -72,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 6. Click it and then select **Install**.
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Compile the Presentation With SlidesAI
 
@@ -90,14 +91,15 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. In the new window, paste your text under **Enter text**.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
 6. Check **Replace Existing Slides**.
@@ -105,16 +107,13 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![Choosing a theme in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the **Text** tab and click **Create Slides**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
 
@@ -162,5 +161,16 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unlock-creative-potential-access-free-sfx/"><u>[New] In 2024, Unlock Creative Potential, Access Free SFX!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-news-for-the-first-time-ever-apple-outpaces-samsung-in-worldwide-smartphone-deliveries-zdnet-analysis/"><u>Breaking News: For the First Time Ever, Apple Outpaces Samsung in Worldwide Smartphone Deliveries | ZDNET Analysis</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/flawless-soundscapes-in-the-world-of-social-media-videos/"><u>Flawless Soundscapes in the World of Social Media Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pioneering-taskbar-innovation-in-windows-11-with-6-suggestions/"><u>Pioneering Taskbar Innovation in Windows 11 with 6 Suggestions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserve-web-integrity-deter-ai-scraping/"><u>Preserve Web Integrity: Deter AI Scraping</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/selecting-microsoft-copilot-the-superior-option-for-4-critical-aspects-over-chatgpt/"><u>Selecting Microsoft Copilot - The Superior Option for 4 Critical Aspects Over ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uniting-humanities-and-hardware-in-conversations/"><u>Uniting Humanities and Hardware in Conversations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wellness-on-a-plate-tech-enabled-cooking-mastery/"><u>Wellness on a Plate: Tech-Enabled Cooking Mastery</u></a></li>
+</ul></div>
 

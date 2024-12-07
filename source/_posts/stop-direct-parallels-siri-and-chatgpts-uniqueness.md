@@ -1,7 +1,7 @@
 ---
 title: "Stop Direct Parallels: Siri and ChatGPT's Uniqueness"
-date: 2024-09-14T16:02:02.504Z
-updated: 2024-09-17T16:08:27.755Z
+date: 2024-12-01T22:28:37.803Z
+updated: 2024-12-06T20:45:59.319Z
 tags:
   - chatgpt
   - open-ai
@@ -28,11 +28,19 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Siri vs. ChatGPT: How Are They Different?
 
  The most fundamental difference between the two arises in their purpose. While ChatGPT is a language-based model with the ability to hold a human-like conversation, Siri is a virtual assistant that responds to commands and performs various tasks on Apple devices.
 
  It's safe to say both occupy completely different niches despite being run by AI. It's not much of a race if they're both playing a different sport, is it? We'll dissect some specific differences down below so that you know which is better suited for your purpose.\\
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Real-Time Updates
 
@@ -43,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
  For example, if you try to ask the chatbot to tell you today's weather or the date of Queen Elizabeth's death, it will tell you it does not have access to current weather conditions and that Queen Elizabeth is still alive according to its knowledge. Live events and breaking news are also no-shows for ChatGPT.
 
  Siri, on the other hand, can give you real-time updates on the weather and other things like the stock market, and its database is updated regularly, so it does not have a knowledge cutoff as old as ChatGPT does. Siri will immediately tell you the date Queen Elizabeth passed away and what the weather will be like tomorrow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Engaging in Conversations
 
@@ -57,21 +69,16 @@ thumbnail: https://thmb.techidaily.com/cb7cf233af45cd7a6edf5f132f2f1c85fe4924908
  Siri is much more focused on implementing tasks and executing your command. Thus, its answers are usually short and straightforward. Its ability to carry out a long conversation and understand context is relatively low, so it's definitely not something you would want to use if you need long, explanatory answers and a back-and-forth conversation.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Activation
 
 ![voice recognition homepod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/voice-recognition-homepo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: [Apple](https://support.apple.com/en-us/HT204753)
 
@@ -80,19 +87,6 @@ Image Credit: [Apple](https://support.apple.com/en-us/HT204753)
  However, ChatGPT only functions with text-based input and does not respond to voice commands. You will have to type in every time you want to use it, so it may be a little more time-consuming if you've got a quick, short question to ask that Siri can answer for you instead.
 
  However, if you want to use ChatGPT with voice and integrate it into your iPhone, there's a way, and we've explained it in detail towards the end of this article.
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Executing Basic Commands
 
@@ -103,6 +97,10 @@ Image Credit: [Apple](https://support.apple.com/en-us/HT204753)
  You can ask Siri to control a home device, turn on Bluetooth, switch to [Low Power Mode](https://www.makeuseof.com/iphone-low-power-mode/), set the alarm, make a phone call—you name it, Siri can do it. It's here to make your life convenient.
 
  ChatGPT simply does not have the means to integrate with other apps and devices, and it cannot associate itself with any of your smart home devices. It cannot provide you with the current status of any physical object or device, thereby making it useless in this department. Simply put, this is just not the purpose it was built for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Answering Your Questions
 
@@ -117,10 +115,7 @@ Image Credit: [Apple](https://support.apple.com/en-us/HT204753)
  When ChatGPT is posed with the same questions, it will do all the hard work for you. It will run through all the data it has and give you a well-formulated answer, so you don't have to spend your time poring over large chunks of text.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Both Siri and ChatGPT for the Best Results
@@ -137,13 +132,6 @@ Image Credit: [Apple](https://support.apple.com/en-us/HT204753)
 
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
 
 Close
@@ -158,19 +146,6 @@ Close
 ![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
 
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
@@ -201,5 +176,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-smartphone-tools-for-perfecting-your-pronunciation/"><u>[New] 2024 Approved Smartphone Tools for Perfecting Your Pronunciation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-proven-techniques-to-store-your-mov-videos-on-windows-10/"><u>[New] Proven Techniques to Store Your .mov Videos on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-tips-for-multi-page-excel-prints-repeating-data-with-ease/"><u>Advanced Tips for Multi-Page Excel Prints: Repeating Data with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-apple-tablets-showdown-ipad-pro-against-ipad-air-determine-the-ultimate-choice-for-your-needs/"><u>Best Apple Tablets Showdown: IPad Pro Against iPad Air - Determine the Ultimate Choice for Your Needs!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-personalities-gpt-vs-bingbot-insights/"><u>Dissecting AI Personalities: GPT Vs. BingBot Insights</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experts-choice-top-5-key-discovery-devices-of-2024/"><u>Expert's Choice: Top 5 Key Discovery Devices of 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-security-compromise-what-to-watch-out-for/"><u>Facebook Security Compromise: What to Watch Out For</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-chatgpt-overlooks-its-own-syntax/"><u>How ChatGPT Overlooks Its Own Syntax</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capturing-moments-with-precision-the-mycam-reviewed/"><u>In 2024, Capturing Moments with Precision The MyCam Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722877244465-making-an-informed-choice-the-5-most-important-factors-when-selecting-a-smartwatch/"><u>Making an Informed Choice: The 5 Most Important Factors When Selecting a Smartwatch</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/strategies-to-prevent-stalled-recordings/"><u>Strategies to Prevent Stalled Recordings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-redmi-note-12-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi Redmi Note 12 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-waterproof-smartwatches-comprehensive-testing-and-reviews-by-tech-experts-gizmochampion/"><u>Top-Rated Waterproof Smartwatches : Comprehensive Testing & Reviews by Tech Experts | GizmoChampion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-selection-the-most-durable-iphone-1212-pro-cases-of-2023-featured/"><u>Ultimate Selection: The Most Durable iPhone 12/12 Pro Cases of 2023, Featured</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-search-bings-ai-enters-your-devices/"><u>Unveiling the Power of Search: Bing's AI Enters Your Devices</u></a></li>
+</ul></div>
 

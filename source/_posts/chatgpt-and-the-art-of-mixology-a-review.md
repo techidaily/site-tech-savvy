@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and the Art of Mixology: A Review"
-date: 2024-09-10T16:24:27.508Z
-updated: 2024-09-17T16:12:06.441Z
+date: 2024-12-01T22:13:12.621Z
+updated: 2024-12-06T20:10:19.351Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Cocktails and Why ChatGPT?
 
  Anyone can pour themselves a glass of beer or wine. But cocktails are generally more difficult to get right. Hence the need for either experience in making cocktails, formal lessons teaching you the craft, or a book packed full of recipes and techniques.
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 
  I started out with a simple request before moving on to more difficult requests. And the results were interesting, to say the least. I have paraphrased the prompts used as there was often a back-and-forth needed to get ChatGPT to deliver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prompt 1: "What Can I Add to an Aperol Spritz Instead of Soda?"
 
  The simple answer ChatGPT and I arrived at was lemonade. But before reaching that conclusion, ChatGPT offered up a multitude of different options to add to an Aperol Spritz. Many of which I wouldn't have ever thought of. And crucially, I doubt your local bartender would have either. These included more prosecco, another type of sparkling wine, tonic water, ginger ale, and grapefruit juice.
@@ -47,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 ![aperol-spritz-with-lemonade-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/aperol-spritz-with-lemonade-cocktail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompt 2: "Please Create the Best Version of an Old-Fashioned."
@@ -60,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 ![ultimate-old-fashioned-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/ultimate-old-fashioned-cocktail.jpg)
 
  I did follow up by asking for some tweaks I could make, resulting in some ideas for variations on the Old-Fashioned for another time. This included using maple syrup instead of simple syrup (as Canadians do), using flavored whiskies rather than straight bourbon or rye, and adding smoked ingredients such as oak chips.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Prompt 3: "Please Tweak a Classic Cocktail to Make It Even Better."
 
@@ -94,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 
 ![island-serenade-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/island-serenade-chatgpt-cocktail.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Prompt 5: "What Cocktail Should I Make Right Now?"
 
  Last but not least, I wanted to see how well ChatGPT could adapt to specific needs at specific times. So I asked it to suggest a refreshing, satisfying cocktail to drink on a midweek evening after the sun has set. After initially suggesting a simple Mojito followed by a Rum Sour (neither of which I had all the ingredients for), ChatGPT suggested an Orange Blossom (four parts gin, two parts freshly squeezed orange juice, and one part simple syrup).
@@ -109,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 
 ![orange-blossom-chatgpt-cocktail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/orange-blossom-chatgpt-cocktail.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## So, Is ChatGPT Good at Making Cocktails?
 
  In a word, yes. But as with everything related to ChatGPT and [generative AI as a whole](https://www.makeuseof.com/what-is-generative-ai/), the key is providing the correct prompts and parameters. If you just want a classic cocktail recipe to follow, you can just type that into Google Search. However, ChatGPT comes into its own when you ask it to adapt cocktails or suggest small tweaks to improve the standard recipes.
@@ -116,10 +111,7 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
  Every single one of its combinations worked in broad terms. There wasn't a single blend of ingredients that it suggested that led me to throw the cocktail down the sink. And that is a great start. As someone who has experimented with combining flavors, I can tell you that it's very easy to get cocktails wrong.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Three Big Takeaways From This Experiment
@@ -155,5 +147,24 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-8-best-video-calling-app-for-windows-for-2024/"><u>[New] Top 8 Best Video Calling App for Windows for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-screen-readers-digest-recorder-evaluation/"><u>[Updated] The Screen Reader's Digest Recorder Evaluation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-most-outstanding-app-store-releases-featured/"><u>Apple's Most Outstanding App Store Releases - Featured</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-news-for-the-first-time-ever-apple-outpaces-samsung-in-worldwide-smartphone-deliveries-zdnet-analysis/"><u>Breaking News: For the First Time Ever, Apple Outpaces Samsung in Worldwide Smartphone Deliveries | ZDNET Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-apple-laptop-a-comprehensive-guide-on-macbook-pro-vs-macbook-air/"><u>Choosing the Right Apple Laptop: A Comprehensive Guide on MacBook Pro Vs. MacBook Air</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-novice-to-nimble-harnessing-openais-text-creation-tools/"><u>From Novice to Nimble: Harnessing OpenAI's Text Creation Tools</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huawei-mediapad-m5-review-a-tablet-focused-on-sight-and-sound/"><u>Huawei MediaPad M5 Review: A Tablet Focused on Sight and Sound</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-linux-update-snapdragon-xs-elite-gpu-deactivated-potential-issues-due-to-unavailable-oem-key-signature/"><u>Latest Linux Update: Snapdragon X's Elite GPU Deactivated - Potential Issues Due to Unavailable OEM Key Signature</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/magix-music-maker-2024-review/"><u>Magix Music Maker 2024 Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-the-dbghelpdll-file-doesnt-exist-a-comprehensive-guide/"><u>Resolving the 'dbghelp.dll' File Doesn’t Exist: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-conversation-continuity-in-gpt-talks/"><u>Securing Conversation Continuity in GPT Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-maxed-out-chatgpt-issue-windows/"><u>Tackling Maxed-Out ChatGPT Issue (Windows)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-perils-of-self-treatment-with-ai-clinicians/"><u>The Perils of Self-Treatment with AI Clinicians</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-tension-with-gpt-help/"><u>Transform Your Tension with GPT Help</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-crash-screens-purpose-and-interpretation/"><u>Understanding Windows Crash Screens: Purpose & Interpretation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleashing-efficiency-with-lenovos-game-changing-dual-display-laptop-exclusive-review-by-zdnet/"><u>Unleashing Efficiency with Lenovo's Game-Changing Dual-Display Laptop | Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://win-guides.techidaily.com/votre-guide-a-la-securite-renforcee-les-logiciels-de-clonage-pour-transferer-des-donnees-disc-dur-vers-un-ssd-wd/"><u>Votre Guide À La Sécurité Renforcée : Les Logiciels De Clonage Pour Transférer Des Données Disc Dur Vers Un SSD WD</u></a></li>
+</ul></div>
 

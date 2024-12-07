@@ -1,7 +1,7 @@
 ---
 title: "Transformative Power: AI’s Effect on Media Making"
-date: 2024-11-25T16:04:29.088Z
-updated: 2024-11-27T16:53:32.031Z
+date: 2024-12-01T20:09:55.977Z
+updated: 2024-12-06T17:09:46.546Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. AI Minimizes Grammatical Errors
 
  AI chatbots have come a long way from producing incoherent text. Nowadays, advanced LLMs produce grammatically correct outputs on any topic under the sun. You could even ask them to adopt a specific tone.
@@ -39,16 +43,12 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 ![Asking ChatGPT to Edit Text and Spot Grammar Errors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-spotting-spelling-errors.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Bing Chat provides more accurate results by referencing other grammar checkers in real-time.
 
 ![Bing Chat Edits Paragraphs by Quillbot's Standards](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-edits-text.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll find many [reliable grammar checkers online](http://www.makeuseof.com/tag/best-grammar-checker/), but full-suite plans often come with monthly subscriptions. Free accounts get limited checks. On Grammarly, users can’t even unlock advanced suggestions until they upgrade to a Premium plan.
 
@@ -60,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 
 ![ChatGPT Answering Question About Itself Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-stating-incorrect-information.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Despite these limitations, some writers wholly depend on ChatGPT for topic research. They want quick, convenient answers. However, you can’t replace proper research with AI chatbot conversations. You’ll end up publishing incorrect information.
 
  Many shady AI writers actually draw flak for spreading misinformation. Only use chatbots for preliminary research. Ask them to break down complex subjects before diving into academic journals and scholarly papers.
@@ -67,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 ## 3\. Generic AI-Generated Articles Flood SERPs
 
 ![Google Analytics Google Search Results on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/google-search-results-on-smartphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unfortunately, you’ll find AI content ranking on Google. AI writers use the time and effort they save to improve their SEO, boosting page visibility. Some of them even utilize backlinks to fake authoritativeness.
 
@@ -91,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 ![Asking ChatGPT to Write a 1,000 word Article on AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-1-000-word-article.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Content mills have always prioritized quantity over quality. But with the availability of AI-driven chatbots, they further sped up the writing process at no extra cost. It’s common for them to publish hundreds of AI content daily.
@@ -106,31 +114,23 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 
  But since they also use publicly available paraphrasing tools, Google still detects their template outputs. Their sites quickly lose authority afterwards. You can’t cheat the system. To produce original pieces with unique insights, research various official and non-official sources.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. More Articles Share Similar Angles
 
  AI chatbots produce template responses. They pull information from the exact datasets even if you regenerate responses several times. Take the below conversation as an example. This photo shows ChatGPT answering a general knowledge question about AI.
 
 ![ChatGPT Answering a Basic Question General Kowledge Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answers-general-knowledge-question-about-ai.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We started a new chat and reused our prompt, but ChatGPT provided identical facts. It only rephrased its output.
 
 ![Trying to Get ChatGPT to Answer the Same Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answering-a-regenerated-question-about-ai.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Since chatbots generate the same information, writers publishing AI-generated content end up sharing angles. Many even follow similar article structures.
 
  Ultimately, the lack of variation and originality triggers plagiarism offenses. Your site’s ranking will quickly drop, and visitors won’t bother reading your blogs if they’ve already seen them elsewhere.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. AI Chatbots Commodify Subpar Content
 
@@ -165,24 +165,20 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-low-fee-android-communication-options-10-best/"><u>[New] 2024 Approved Low-Fee Android Communication Options, 10 Best</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-advanced-audio-editing-apps-ranked-by-users/"><u>[New] Advanced Audio Editing Apps Ranked by Users</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-download-youtube-gallery-files-instantly/"><u>[Updated] 2024 Approved Download YouTube Gallery Files Instantly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-are-camera-shakes-less-troublesome-after-photostable-effects/"><u>[Updated] Are Camera Shakes Less Troublesome After PhotoStable Effects?</u></a></li>
-<li><a href="https://win11.techidaily.com/debugging-windows-app-failure-the-zeroxc000003e-hex-issue/"><u>Debugging Windows App Failure: The ZeroXc000003e Hex Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-ai-how-transfer-learning-transforms-data/"><u>Dissecting AI: How Transfer Learning Transforms Data</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-ai-conversations-with-9-key-pluses-advantages/"><u>Elevate AI Conversations with 9 Key Pluses Advantages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-every-aspect-of-existence-with-chatgpt/"><u>Elevate Every Aspect of Existence with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-build-a-custom-chatgpt-with-your-own-data/"><u>How to Build a Custom ChatGPT With Your Own Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovative-approach-to-cover-letter-writing-via-ai/"><u>Innovative Approach to Cover Letter Writing via AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-machines-unpacked-strong-and-weak-classes/"><u>Intelligent Machines Unpacked: Strong and Weak Classes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-common-setbacks-when-altering-windows-11-defaults/"><u>Overcoming Common Setbacks When Altering Windows 11 Defaults</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/programming-bot-to-perfectly-pretend-to-talk-like-us/"><u>Programming Bot to Perfectly Pretend to Talk Like Us</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revamping-the-writers-toolkit-8-ai-innovations-explored/"><u>Revamping the Writer's Toolkit: 8 AI Innovations Explored</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solve-your-microsoft-edge-problems-expert-tips-to-get-it-working-again/"><u>Solve Your Microsoft Edge Problems: Expert Tips to Get It Working Again</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/step-onto-the-court-live-the-championship-with-nba-student-what-is-the-correct-order-of-steps-for-creating-a-budget/"><u>Step Onto the Court: Live the Championship with NBA # Student: What Is the Correct Order of Steps for Creating a Budget?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-accelerated-ascent-of-chatgpt-five-driving-forces/"><u>The Accelerated Ascent of ChatGPT: Five Driving Forces</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ethical-path-to-knowledge-without-gpt/"><u>The Ethical Path to Knowledge Without GPT</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-magic-of-quick-charge-enhancing-your-communication-with-jabra-v25/"><u>The Magic of Quick Charge: Enhancing Your Communication with Jabra V25</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-plain-screenshot-software-for-windows-10/"><u>[New] 2024 Approved Plain Screenshot Software for Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-is-active-the-premier-choice-for-tech-enthusiasts-in-2024/"><u>[New] Is Active the Premier Choice for Tech Enthusiasts, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-checklist-for-successful-onestream-live-streaming/"><u>[New] The Ultimate Checklist for Successful OneStream Live Streaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-secret-weapon-for-stunning-time-lagged-footage/"><u>Android's Secret Weapon for Stunning Time-Lagged Footage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-apples-wwdc-announcements-today-insights-into-advanced-machine-learning-siri-innovations-and-what-to-expect-from-ios-eighteen-comprehensive-re172/"><u>Breaking Down Apple’s WWDC Announcements Today: Insights Into Advanced Machine Learning, Siri Innovations & What to Expect From iOS Eighteen – Comprehensive Report | ZDNET</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/butagaz-partners-with-abbyy-digital-intelligence-for-seamless-energy-provider-transitions/"><u>Butagaz Partners with ABBYY Digital Intelligence for Seamless Energy Provider Transitions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-driven-side-businesses-and-pc-optimization/"><u>ChatGPT-Driven Side Businesses & PC Optimization</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-reliability-of-rexing-v1-dashcam-a-hidden-gem-that-combines-affordability-with-durability/"><u>Discover the Reliability of Rexing V1 Dashcam – A Hidden Gem That Combines Affordability With Durability</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-gigabyte-ethernet-drivers-here-free-download/"><u>Get the Latest Gigabyte Ethernet Drivers Here - Free Download!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4s-new-era-of-accessibility-for-all-at-no-cost-yet-platinum-still-offers-6-peculiar-benefits/"><u>GPT-4's New Era of Accessibility: For All at No Cost! Yet Platinum Still Offers 6 Peculiar Benefits.</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-the-depths-of-gpt-identifying-8-problematic-aspects/"><u>Probing the Depths of GPT: Identifying 8 Problematic Aspects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-work-and-adventures-the-three-new-features-upgrading-your-favorite-ar-glasses-insights-from-zdnet/"><u>Revolutionizing Work and Adventures: The Three New Features Upgrading Your Favorite AR Glasses | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-vpn-apps-in-depth-comparison-and-reviews-by-industry-experts-techadvisor/"><u>Top-Rated iPhone VPN Apps: In-Depth Comparison & Reviews by Industry Experts | TechAdvisor</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/upload-guide-twitter-video-aspect-ratio-mandated/"><u>Upload Guide Twitter Video Aspect Ratio Mandated</u></a></li>
 </ul></div>
 

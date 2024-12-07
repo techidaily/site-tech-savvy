@@ -1,7 +1,7 @@
 ---
 title: Apple Engineers Secure Operating System for Advanced AI Servers at Data Centers | Insights Revealed
-date: 2024-11-23T16:02:20.959Z
-updated: 2024-11-27T16:08:45.721Z
+date: 2024-12-06T01:20:35.565Z
+updated: 2024-12-06T22:36:10.989Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is expected at WWDC 2024?
@@ -53,7 +53,7 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -73,7 +73,7 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -87,7 +87,7 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -128,18 +128,22 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-is-itop-a-screencast-contender-worth-endorsing-for-2024/"><u>[New] Is ITop a Screencast Contender Worth Endorsing for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-masterclass-in-adding-srt-overlay-on-mp4-file-playback/"><u>[Updated] Masterclass in Adding SRT Overlay on MP4 File Playback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-health-crafting-achievable-objectives/"><u>ChatGPT & Health: Crafting Achievable Objectives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-mixology-mastery-level/"><u>ChatGPT's Mixology Mastery Level?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/clarifying-the-turing-test-concepts-and-future-contenders/"><u>Clarifying the Turing Test Concepts and Future Contenders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excel-triumph-operations-outclassing-chatbot-talks/"><u>Excel Triumph: Operations Outclassing Chatbot Talks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-ensure-smooth-gameplay-in-cult-of-the-lamb-without-any-interruptions-or-crashes-pc/"><u>How to Ensure Smooth Gameplay in 'Cult of the Lamb' Without Any Interruptions or Crashes (PC)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-cutting-edge-techniques-for-creating-engaging-vr-content-in-adobe-premiere/"><u>In 2024, Cutting-Edge Techniques for Creating Engaging VR Content in Adobe Premiere</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-vip-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 VIP to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-guide-downloading-and-updating-your-scansnap-s1300i/"><u>Quick Guide: Downloading and Updating Your ScanSnap S1300i</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-risk-the-5th-dimension-of-ai-for-hacking/"><u>Revolutionizing Risk: The 5Th Dimension of AI for Hacking</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/separating-auto-gpt-from-gpt-4-effectiveness/"><u>Separating Auto-GPT From GPT-4 Effectiveness</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-5-easy-methods-to-troubleshoot-and-restore-your-touchscreen-functionality/"><u>Windows 10: 5 Easy Methods to Troubleshoot and Restore Your Touchscreen Functionality</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-adjust-twitter-video-excerpt/"><u>[Updated] Adjust Twitter Video Excerpt</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-essential-handbook-of-personal-branding-mastering-facebook-biographies/"><u>[Updated] The Essential Handbook of Personal Branding - Mastering Facebook Biographies</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/cfexpress/"><u>失われた情報を回復:CFexpressカード利用者向け詳細ガイド</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advance-prompt-formulation-skills-using-7-key-web-tools/"><u>Advance Prompt Formulation Skills Using 7 Key Web Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-mac-studio-over-the-m4-mac-mini-in-autumn-a-detailed-look-at-what-sways-my-decision/"><u>Choosing the Mac Studio Over the M4 Mac Mini in Autumn – A Detailed Look at What Sways My Decision</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/y-central-the-best-laughter-inducing-channels-online-for-2024/"><u>Comedy Central The Best Laughter-Inducing Channels Online for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-latest-innovations-in-visionos-2-revealed-at-apples-wwdc-insights-and-surprises/"><u>Exploring the Latest Innovations in VisionOS 2 Revealed at Apple's WWDC - Insights and Surprises!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-activate-dlna-support-on-windows-10-for-seamless-video-sharing/"><u>How To Activate DLNA Support On Windows 10 For Seamless Video Sharing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-insight-vs-ai-algorithms-in-copywriting/"><u>Human Insight vs AI Algorithms in Copywriting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-phone-lens-magic-creating-high-horizons/"><u>In 2024, Phone Lens Magic Creating High Horizons</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-methodical-path-to-discovering-hidden-youtube-footage/"><u>In 2024, The Methodical Path to Discovering Hidden YouTube Footage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-pro-versus-macbook-air-determining-the-best-device-for-your-needs-tech-insights-by-zdnet/"><u>IPad Pro Versus MacBook Air: Determining the Best Device for Your Needs | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-13-and-15-pro-discontinued-top-alternatives-for-your-next-smartphone-purchase/"><u>IPhone 13 & 15 Pro Discontinued – Top Alternatives for Your Next Smartphone Purchase</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/journey-through-verse-integrating-chatgpts-insights/"><u>Journey Through Verse: Integrating ChatGPT's Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/spotting-facebook-downtime-your-guide-to-check-backup/"><u>Spotting Facebook Downtime - Your Guide to Check Backup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-intelligence-innovators-views-on-artificial-intelligence/"><u>The Future of Intelligence: Innovators' Views on Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-text-files-with-ais-chatgpt-pairings/"><u>Transform Your Text Files with AI's ChatGPT Pairings</u></a></li>
 </ul></div>
 

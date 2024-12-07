@@ -1,7 +1,7 @@
 ---
 title: Top 2 AIs Battle for Chat Supremacy
-date: 2024-11-22T16:49:26.099Z
-updated: 2024-11-27T17:02:28.733Z
+date: 2024-12-05T00:48:13.294Z
+updated: 2024-12-06T16:00:45.486Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Quality
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
@@ -90,13 +90,13 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As both platforms are going through rapid development, the user experience will continue to improve.
 
@@ -109,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
  GPT-4 is a generative model. It generates answers based on the text it's been trained on. By contrast, [LaMDA works differently](https://www.makeuseof.com/what-is-google-lamda-ai/)—it is a discriminative model, meaning it can distinguish between various kinds of text.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
 
@@ -125,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
  Both tools are incredibly powerful and can generate intelligent answers to any prompt. But both have pros and cons, and the ultimate choice is likely to be decided by factors like user preferences and the desired output type.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
 
@@ -153,18 +153,19 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-from-capture-to-share-expert-insights-into-screen-recording-software/"><u>[New] 2024 Approved From Capture to Share Expert Insights Into Screen Recording Software</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-mastering-the-art-of-snapchat-sponsored-content-for-2024/"><u>[New] Mastering the Art of Snapchat Sponsored Content for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-autoplay-facebook-videos/"><u>[Updated] In 2024, How to Autoplay Facebook Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-optimal-no-audio-recording-practices/"><u>[Updated] In 2024, Optimal No-Audio Recording Practices</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-stellar-15-stop-motion-films-to-remember-for-2024/"><u>[Updated] Stellar 15 Stop-Motion Films to Remember for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-the-inflexibility-in-gpt-customization/"><u>Demystifying the Inflexibility in GPT Customization</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Nokia G22? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ai-assisted-writing-best-practices-for-freelancers/"><u>Navigating AI-Assisted Writing: Best Practices for Freelancers</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/navigating-the-setup-of-a-nintendo-network-id-for-your-3ds-console/"><u>Navigating the Setup of a Nintendo Network ID for Your 3DS Console</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-saving-your-facebook-messenger-video-chats-with-movavi/"><u>Step-by-Step Guide: Saving Your Facebook Messenger Video Chats with Movavi</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essential-guide-to-cleaning-and-disinfecting-airpods-tips-tricks-and-reasons-for-better-health/"><u>The Essential Guide to Cleaning & Disinfecting AirPods: Tips, Tricks, and Reasons for Better Health</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1723262404824-toms-tech-reviews-in-depth-analysis-of-computer-components/"><u>Tom's Tech Reviews - In-Depth Analysis of Computer Components</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-producing-polished-professional-looking-videos/"><u>Updated 2024 Approved The Ultimate Guide to Producing Polished, Professional-Looking Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-flip-your-snapchat-video-clockwise-for-2024/"><u>[Updated] Flip Your Snapchat Video Clockwise for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-fresh-ideas-for-every-feed-top-20-original-and-viral-tiktok-caption-strategies/"><u>[Updated] In 2024, Fresh Ideas for Every Feed Top 20 Original and Viral TikTok Caption Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-your-podcasts-naming-strategy-guide-and-top-ideas-list/"><u>[Updated] Perfecting Your Podcast's Naming Strategy Guide and Top Ideas List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-to-turn-off-igtv-for-2024/"><u>[Updated] Step-by-Step to Turn Off IGTV for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-data-exploration-and-interpretation/"><u>ChatGPT's Role in Data Exploration and Interpretation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-envisions-the-role-of-ai-and-robots-in-shaping-our-living-spaces-an-insight-into-tomorrows-home-assistants/"><u>How Apple Envisions the Role of AI and Robots in Shaping Our Living Spaces - An Insight Into Tomorrow's Home Assistants</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-gaming-choice-the-inescapable-magic-of-our-12-tycoons/"><u>In 2024, Top Gaming Choice The Inescapable Magic of Our #12 Tycoons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-phase-in-machine-learning-the-advent-of-gpt-5/"><u>Next Phase in Machine Learning: The Advent of GPT-5?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/professional-insights-in-depth-analysis-of-microsoft-surface-pro-8-for-enterprise-use/"><u>Professional Insights: In-Depth Analysis of Microsoft Surface Pro 8 for Enterprise Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/public-bathrooms-meet-modern-medicine-a-step-towards-innovative-health-screenings-at-zdnet/"><u>Public Bathrooms Meet Modern Medicine: A Step Towards Innovative Health Screenings at ZDNET</u></a></li>
+<li><a href="https://media-tips.techidaily.com/revamped-spotify-tv-application-now-streamlines-your-viewing-experience/"><u>Revamped Spotify TV Application Now Streamlines Your Viewing Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/seamless-streams-expert-guide-to-facebook-screen-sharing/"><u>Seamless Streams Expert Guide to Facebook Screen Sharing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thousands-receive-apples-newly-launched-ai-education-program-opportunities-for-current-and-former-students-tech-news/"><u>Thousands Receive Apple's Newly Launched AI Education Program: Opportunities for Current & Former Students | Tech News</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-creative-potential-adding-sound-to-your-instagram-stories/"><u>Unlock Creative Potential Adding Sound to Your Instagram Stories</u></a></li>
 </ul></div>
 

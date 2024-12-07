@@ -1,7 +1,7 @@
 ---
 title: Is OpenAI’s Chatbot Safe? Unveiling Risks
-date: 2024-09-15T16:02:53.247Z
-updated: 2024-09-17T16:00:55.155Z
+date: 2024-12-02T21:44:16.299Z
+updated: 2024-12-06T17:57:50.865Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will ChatGPT Compromise Your Personal Information?
 
  Most front-end security concerns about ChatGPT stem from speculations and unverified reports. The platform only launched in November 2022, after all. It’s natural for new users to have misconceptions about the privacy and security of unfamiliar tools.
@@ -52,28 +56,12 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  According to the [BBC](https://www.sciencefocus.com/future-technology/gpt-3/), OpenAI trained ChaGPT on 300 billion words. It collects data from public web pages, like social media platforms, business websites, and comment sections. Unless you’ve gone off the grid and erased your digital footprint, ChatGPT likely has your information.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Security Risks Does ChatGPT Present?
 
  While ChatGPT isn’t inherently dangerous, the platform still presents security risks. Crooks can bypass restrictions to execute various cyberattacks.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Convincing Phishing Emails
@@ -95,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
  Remember: you have no control over how crooks operate. The best approach is to contact the Federal Trade Commission (FTC) once you notice [signs of identity theft](https://www.makeuseof.com/what-is-identity-theft/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Malware Production
@@ -118,10 +103,7 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 ![ChatGPT Writing a Code Snippet for Viruses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-code-snippet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Intellectual Property Theft
@@ -136,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
  Also, Google releases multiple core updates annually. It will soon focus on removing lazy, unoriginal AI-generated pieces from SERPs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Generating Unethical Responses
 
  AI language models have no biases. They provide answers by analyzing user requests and pulling data from their existing database.
@@ -146,18 +132,19 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
 
 ![Asking ChatGPT to Produce Harmful Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bypassing-chatgpt-limits.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The good news is [OpenAI hasn’t lost control of ChatGPT](https://www.makeuseof.com/openai-lost-control-chatgpt/). Its ongoing efforts in tightening restrictions stop ChatGPT from producing unethical responses, regardless of user input. Jailbreaking won’t be as easy moving forward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Quid Pro Quo
 
 ![Searching ChatGPT on Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-play-store.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The rapid growth of new, unfamiliar technologies like ChatGPT creates opportunities for quid pro quo attacks. They’re social engineering tactics wherein crooks lure victims with fake offers.
 
@@ -192,5 +179,21 @@ thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-audio-recording-made-easy-free-x-recorder-for-pc-for-2024/"><u>[New] Audio Recording Made Easy Free X-Recorder for PC for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-progopro-secrets-unveiled/"><u>[Updated] ProGoPro Secrets Unveiled</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-streamlining-your-youtube-content-with-finalcut-pro-expertise/"><u>2024 Approved Streamlining Your YouTube Content with FinalCut Pro Expertise</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/automatisierte-datensicherung-mit-windows-11-lass-es-dir-erklaren/"><u>Automatisierte Datensicherung Mit Windows 11: Lass Es Dir Erklären</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/capturing-life-with-precision-an-overview-of-advanced-camera-modes-for-2024/"><u>Capturing Life with Precision An Overview of Advanced Camera Modes for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decode-and-solve-far-cry-6s-black-screen-troubleshooting-tips/"><u>Decode & Solve Far Cry 6'S Black Screen Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-chatgpts-interpreter-6-essential-tasks/"><u>Discovering ChatGPT's Interpreter: 6 Essential Tasks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-future-of-chat-on-snapchat-and-beyond/"><u>Discovering the Future of Chat on Snapchat & Beyond</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-expert-techniques-for-manipulating-iphone-photos/"><u>In 2024, Expert Techniques for Manipulating iPhone Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-sonic-design-how-chatgpt-enhances-digital-music-creation/"><u>Innovative Sonic Design: How ChatGPT Enhances Digital Music Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reviving-troubled-sonos-experiences-with-apples-help-tech-insights/"><u>Reviving Troubled Sonos Experiences with Apple's Help | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-and-operation-of-colossal-ai-models/"><u>The Evolution & Operation of Colossal AI Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-eus-ai-policy-on-gpt-tech/"><u>Understanding EU's AI Policy on GPT Tech</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme ?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Myx Fitness Takes the Lead Over Peloton with Higher Weight Capacity - A Closer Look at Size Limitations
-date: 2024-11-21T16:44:46.348Z
-updated: 2024-11-27T16:32:21.472Z
+date: 2024-12-04T22:40:38.471Z
+updated: 2024-12-06T16:42:43.144Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ In other words, less than a third of folks in many countries are at what is cons
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Addressing the elephant in the room
@@ -71,7 +71,7 @@ This is not new for me. I've been working with a trainer on and off since the 19
 So that's the context for this review. I'm middle-aged. I even have some gray hair. I'm carrying around too many pounds. And yet, I've been active and exercising regularly for years. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The MYX II bike
@@ -103,9 +103,17 @@ I would think that the MYX II's friction resistance mechanism might wear more qu
 
 As for capacity, the MYX II bike supports people who weigh up to 350 pounds, while the Peloton Plus only supports up to 300 pounds. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Obese need not apply
 
 Here's an interesting disconnect. Most studies that cite the heft of various Americans do so by measuring BMI, a ratio of height and weight. But most fitness equipment sold is capped solely by weight. As a result, it's very hard to tell how many Americans are excluded from using equipment like this based on their weight.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -118,10 +126,6 @@ And yet, if any of those millions of Americans want to pony up the big bucks in 
 For example, of the 45 indoor cycling bikes currently sold by [Dick's Sporting Goods](https://www.dickssportinggoods.com/f/bikes), only three listed a weight capacity of more than 300 pounds. And while many bikes were available for $300 to $600, the higher-capacity bikes cost well over $1,000\. Yes, sure, people could risk buying and using a device not rated to carry their weight. But with so many large Americans, you'd think manufacturers would be building exercise equipment to accommodate them. 
 
 While the MYX II bike I'm reviewing here does support folks over 300 pounds, unfortunately, much of its design makes it difficult for folks with larger bodies to derive the necessary exercise value from the features that set MYXfitness' offering apart from a generic indoor exercycle. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  That seat
 
@@ -189,10 +193,6 @@ The scenic tours are pleasant enough. But worth the cost?
 
 Screenshot/David Gewirtz
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Apple Watch integration
 
 The MYX bike comes with a heart rate monitor, but one of the things that initially intrigued me about the bike was its integration with the [Apple Watch](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fwatch%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). You can link the Apple Watch to the bike through the Beachbody app, and as you pedal, your heart rate is displayed both on the Watch and on the bike's screen. 
@@ -202,10 +202,6 @@ Heart rate numbers came straight from my Apple Watch. For the record, the number
 David Gewirtz
 
 There's a Zone Calibration ride that you can take whenever you want. This tries to tie your heart rate to certain zones, so when one of the trainers mentions moving on to Zone 2, for example, you'll know what that means for your heart rate. It's a nice touch. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The camera in the bedroom
 
@@ -240,6 +236,10 @@ If you want to pony up an additional $200, MYXfitness provides a mat for under t
 The idea of the add-ons is that you can also do exercises with the Beachbody programs that don't involve the bike. There are some strength training programs available as part of the membership. 
 
 [MYX II Bike $1,399 at MYX Fitness](https://imp.i146980.net/c/159047/811451/11462?&sharedId=zdnet&u=http%3A%2F%2Fmyxfitness.com&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The bottom line: Should you buy this thing?
 
@@ -315,17 +315,20 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ools-and-methods-how-to-resize-youtube-thumbnail/"><u>[New][Tools & Methods] How To Resize YouTube Thumbnail</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-breaking-even-on-youtube-key-view-figures-explored/"><u>[Updated] In 2024, Breaking Even on YouTube Key View Figures Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automating-mundane-hr-tasks-through-gpt/"><u>Automating Mundane HR Tasks Through GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-the-financial-justification-in-premium-ai-use/"><u>Dissecting the Financial Justification in Premium AI Use</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-your-warzone-experience-solutions-for-smooth-playback-and-higher-fps/"><u>Enhancing Your Warzone Experience: Solutions for Smooth Playback and Higher FPS</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/full-verdict-hero4-black-excellence/"><u>Full Verdict Hero4 Black Excellence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/language-league-up-which-translator-takes-the-prize/"><u>Language League-Up: Which Translator Takes the Prize?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-xs-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone XS Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209824387-9781644616543-sagitario/"><u>Sagitario | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stepping-into-the-arena-of-interactive-design/"><u>Stepping Into the Arena of Interactive Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-5-primary-reasons-enterprises-limit-chatgpt-access/"><u>The 5 Primary Reasons Enterprises Limit ChatGPT Access</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-and-reviews/"><u>Tom's Tech Insights and Reviews</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-groundbreaking-photo-editor-photonshift-tech/"><u>[New] 2024 Approved Groundbreaking Photo Editor PhotonShift Tech</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028927989-vob/"><u>一括でVOBファイルをマージするための効果的手法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-laughter-unraveling-computer-history-and-virtual-safeguarding/"><u>AI Laughter: Unraveling Computer History & Virtual Safeguarding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/an-easy-guide-to-connecting-airpods-with-quest-3-without-disturbing-others-tips-and-tricks/"><u>An Easy Guide to Connecting AirPods with Quest 3 Without Disturbing Others - Tips & Tricks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/boost-your-output-v305-aio-driver-enhancement-in-win7/"><u>Boost Your Output: V305 AIO Driver Enhancement in Win7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-the-macbook-pro-and-macbook-air-a-comprehensive-guide-for-optimal-apple-laptop-selection/"><u>Choosing Between the MacBook Pro and MacBook Air: A Comprehensive Guide for Optimal Apple Laptop Selection</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-power-of-choice-comparing-samsung-and-apple-ecosystem-strengths-and-benefits/"><u>Evaluating the Power of Choice: Comparing Samsung and Apple Ecosystem Strengths & Benefits</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-the-task-manager-start-page-in-windows-11/"><u>How to Change the Task Manager Start Page in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/identifying-gaps-in-auto-editing-tools/"><u>Identifying Gaps in Auto-Editing Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-turbo-charge-your-playlist-exposure-youtube-style/"><u>In 2024, Turbo-Charge Your Playlist Exposure, YouTube Style</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/obs-utilization-comprehensive-gameplay-recording-for-2024/"><u>OBS Utilization Comprehensive Gameplay Recording for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/prepare-for-your-journey-with-vision-pros-travel-mode-essential-tips-and-insights-digital-explorer/"><u>Prepare for Your Journey with Vision Pro's Travel Mode - Essential Tips and Insights | Digital Explorer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/taming-language-through-ai-understanding-bot-content-filters/"><u>Taming Language Through AI: Understanding Bot Content Filters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-mac-os-maintenance-tools-of-2022-expert-reviews-and-ratings-techradar/"><u>Top MAC OS Maintenance Tools of 2022: Expert Reviews and Ratings | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-must-avoid-apple-picks-the-four-tech-gadgets-to-skip-this-season/"><u>ZDNet’s Must-Avoid Apple Picks: The Four Tech Gadgets to Skip This Season</u></a></li>
 </ul></div>
 

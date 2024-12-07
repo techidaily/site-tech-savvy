@@ -1,7 +1,7 @@
 ---
 title: Anthropic's Guide to Claude 3 Toolbox
-date: 2024-11-22T16:26:31.991Z
-updated: 2024-11-27T16:18:28.452Z
+date: 2024-11-29T20:10:05.624Z
+updated: 2024-12-06T18:13:55.015Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 * [What Is Anthropic's Prompt Library?](https://bluettieu.pxf.io/nlgoka)
 * [How to Use Anthropic's Prompt Library](https://propmoneyinc.pxf.io/q4jzdy)
 * [Is the Anthropic Prompt Library Any Good?](https://review-au.sjv.io/wqnrq3)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,13 +44,13 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 
  Anthropic's prompt library is simple to use—and better still, it's completely free.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Anthropic's Prompt Library?
 
 ![anthropic prompt library options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Anthropic's prompt library](https://docs.anthropic.com/claude/prompt-library) is a free tool designed to make it easier to get the AI responses and output you need for the task at hand.
 
@@ -63,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
  There are stacks of prompts developed by Anthropic, but interestingly, there's also a whole user-submitted prompt section. At the time of writing, this section is unpopulated. However, there is a submission form available in the prompt library, where Anthropic will "reach out to users whose prompts we love to show you our appreciation and let you know your prompt has been added."
 
  It's a nice touch for those who spend time perfecting their prompt prowess and want to share these tips with the world.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Anthropic's Prompt Library
 
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 ![anthropic prompt library corporate clairvoyant option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/anthropic-prompt-library-corporate-clairvoyant-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Using any of the prompts is simple: just copy and paste them into Claude (or another AI chatbot), tweak them to your liking, and you're good to go.
@@ -96,13 +96,13 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 
 ![claude 3 dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-dream-interpreter-prompt-library-output.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While ChatGPT 4 responded:
 
 ![chatgpt plus dream interpreter prompt library output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-plus-dream-interpreter-prompt-library-output.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's pretty similar, covering the same thoughts, feelings, and imagery. However, given the number of websites, blog posts, and books both tools have been trained on, those details are relatively easy to discern.
 
@@ -141,19 +141,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-flipping-the-script-in-photography-how-angles-can-make-or-break-your-insta-posts-for-2024/"><u>[Updated] Flipping the Script in Photography How Angles Can Make or Break Your Insta Posts for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-skype-call-recording-for-windows-os-x-users/"><u>2024 Approved Skype Call Recording for Windows, OS X Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/collaborative-productivity-in-google-docs-and-spreadsheets-via-gpt/"><u>Collaborative Productivity in Google Docs & Spreadsheets via GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/differentiating-authentic-and-erroneous-machine-learning-outputs/"><u>Differentiating Authentic and Erroneous Machine Learning Outputs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211424918-9781631520785-falling-together/"><u>Falling Together | Free Book</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-install-updates-for-intel-hd-graphics/"><u>Find and Install Updates for Intel HD Graphics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/geminis-landmark-achievement-1m-tokens-reimagined/"><u>Gemini's Landmark Achievement: $1M Tokens Reimagined</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-ais-evolving-cybersecurity-landscape/"><u>Generative AI's Evolving Cybersecurity Landscape</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-access-to-sierras-documents-and-desktop-in-the-cloud/"><u>In 2024, Full Access to Sierra's Documents and Desktop in the Cloud</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instant-communication-using-rtx-ai-on-your-computer/"><u>Instant Communication: Using RTX AI on Your Computer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-simple-guide-intel-rst-drivers-free-downloads-and-updates/"><u>Quick and Simple Guide: Intel RST Drivers - Free Downloads & Updates</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-windows-compatibility-errors-with-realteks-alc887-audio-drivers/"><u>Resolving Windows Compatibility Errors with Realtek's ALC887 Audio Drivers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-academic-success-5-insightful-ways-to-harness-chatgpt-for-students-progress/"><u>Unlock Academic Success: 5 Insightful Ways to Harness ChatGPT for Students' Progress</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/world-building-with-depth-how-chatgpt-aids-novel-craft/"><u>World-Building With Depth: How ChatGPT Aids Novel Craft</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-mastering-audio-transitions-in-premiere-pro/"><u>[New] 2024 Approved Mastering Audio Transitions in Premiere Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ignite-your-youtube-streams-no-subscriber-count-needed/"><u>2024 Approved Ignite Your Youtube Streams – No Subscriber Count Needed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-the-skill-how-to-securely-record-on-whatsapp/"><u>2024 Approved Mastering the Skill How to Securely Record on WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-prompt-crafting-its-role-and-job-market-viability/"><u>AI Prompt Crafting: Its Role & Job Market Viability</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficient-learning-utilizing-chatgpt-for-notes/"><u>Efficient Learning: Utilizing ChatGPT for Notes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-accuracy-in-health-guidance-by-digital-assistants/"><u>Ensuring Accuracy in Health Guidance by Digital Assistants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exposing-deceptive-chatgpt-networks-know-what-to-do/"><u>Exposing Deceptive ChatGPT Networks: Know What To Do</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991105063-how-to-fix-warzone-directx-error-in-4-easy-steps/"><u>How to Fix 'Warzone DirectX Error' In 4 Easy Steps</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-art-of-pinpointing-perfect-pexels-photographs/"><u>In 2024, The Art of Pinpointing Perfect Pexels Photographs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-to-optimize-time-and-resources-in-3d-printing/"><u>Leveraging AI to Optimize Time and Resources in 3D Printing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pazera-free-audio-extractor-review-2024/"><u>Pazera Free Audio Extractor Review 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shield-against-fraudgpt-critical-awareness-skills-for-cybersecurity/"><u>Shield Against FraudGPT: Critical Awareness Skills for Cybersecurity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/study-integrity-rejecting-cheap-academic-shortcuts/"><u>Study Integrity: Rejecting Cheap Academic Shortcuts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/textual-alchemy-gpt-for-fantasy-worlds/"><u>Textual Alchemy: GPT for Fantasy Worlds</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-fcp-x-pro-tutorials-creating-realistic-green-screen-effects/"><u>Updated FCP X Pro Tutorials Creating Realistic Green Screen Effects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor X50 | Dr.fone</u></a></li>
 </ul></div>
 

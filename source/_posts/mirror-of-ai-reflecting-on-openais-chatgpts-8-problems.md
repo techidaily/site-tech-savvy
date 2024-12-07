@@ -1,7 +1,7 @@
 ---
 title: "Mirror of AI: Reflecting on OpenAI's ChatGPT's 8 Problems"
-date: 2024-09-13T16:19:54.819Z
-updated: 2024-09-17T16:23:05.456Z
+date: 2024-11-29T18:48:55.786Z
+updated: 2024-12-06T17:04:07.260Z
 tags:
   - chatgpt
   - open-ai
@@ -36,9 +36,17 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
 ![Screenshot of ChatGPT interface.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chat-gpt-open-ai.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It was trained on all sorts of text from the internet, such as Wikipedia, blog posts, books, and academic articles. Alongside responding to you in a human-like way, it can recall information about our present-day world and pull up historical information from our past.
 
  Learning [how to use ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) is simple, and it's equally easy to be fooled into thinking that the AI system performs without any trouble. However, since its release, key problems have emerged around privacy, security, and its wider impact on people's lives, from jobs to education.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Security Threats and Privacy Concerns
 
@@ -73,16 +81,7 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
  Unless OpenAI publishes its training data, the lack of transparency makes it difficult to know whether it was done lawfully. We don't know the details about how ChatGPT is trained, what data was used, where the data comes from, or what the system's architecture looks like in detail.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. ChatGPT Generates Wrong Answers
@@ -101,21 +100,7 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
 ![Bing AI search results show hallucinations regarding an image description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-hallucinates-image-description.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can see more hilarious hallucinations in our comparison between [ChatGPT vs. Microsoft Bing AI vs. Google Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/). It's not hard to imagine people using ChatGPT to get quick facts and information, expecting those results to be true. But so far, ChatGPT can't get it right, and teaming up with an equally inaccurate Bing search engine only made things worse.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. ChatGPT Has Bias Baked Into Its System
 
@@ -145,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 
  Technological advancements have always resulted in jobs being lost, but the speed of AI advancements means multiple industries are facing rapid change. A huge cross-section of human jobs are seeing AI filtering into the workplace. Some jobs may find menial tasks being completed with the help of AI tools, while other positions may cease to exist in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. ChatGPT Is Challenging Education
 
  You can ask ChatGPT to proofread your writing or point out how to improve a paragraph. Or you can remove yourself from the equation entirely and ask ChatGPT to do all the writing for you.
@@ -152,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
  Teachers have experimented with feeding English assignments to ChatGPT and have received answers that are better than what many of their students could do. From writing cover letters to describing major themes in a famous work of literature, ChatGPT can do it all without hesitation.
 
 ![ChatGPT explains the themes in the novel Neuromancer by William Gobson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-ai-chat-gpt-books-themes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That begs the question: if ChatGPT can write for us, will students need to learn this skill in the future? It might seem like an existential question, but since students have started using ChatGPT to help write their essays, educators will soon have to face reality.
 
@@ -177,10 +159,7 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 ![Close-up of computer code on a screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-scammers-malware.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The rate at which ChatGPT can produce information has already caused problems for Stack Exchange, a website dedicated to providing correct answers to everyday questions. Soon after ChatGPT was released, users flooded the site with answers they asked ChatGPT to generate.
@@ -188,6 +167,10 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
  Without enough human volunteers to sort through the backlog, it would be impossible to maintain a high level of quality answers. Not to mention, many of the answers were incorrect. To avoid the website being damaged, a ban was placed on all answers generated using ChatGPT.
 
  The spread of fake information is a serious concern, too. The scale at which ChatGPT can produce text, coupled with the ability to make even incorrect information sound convincingly right, makes everything on the internet questionable. It's a critical combination that amplifies [the dangers of deepfake technology](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. OpenAI Holds All the Power
 
@@ -232,5 +215,24 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-journey-into-cinematic-precision-with-windows-high-dynamic-range-support/"><u>[New] Journey Into Cinematic Precision with Windows High-Dynamic Range Support</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-building-a-compelling-cinematic-snippet/"><u>[Updated] Building a Compelling Cinematic Snippet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024-ultimate-guide-to-choosing-the-perfect-apple-watch-band-in-depth-reviews-and-ratings-zdnet/"><u>2024 Ultimate Guide to Choosing the Perfect Apple Watch Band: In-Depth Reviews & Ratings | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-dialogue-dynamics-tailoring-ai-through-create-a-gpt/"><u>Building Dialogue Dynamics: Tailoring AI Through Create a GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-i-expect-variable-response-length-in-chatgpt-conversations/"><u>Can I Expect Variable Response Length in ChatGPT Conversations?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-upgraded-macbook-air-lineup-with-m3-chip-new-13-inch-and-15-inch-models-highlighted-by-zdnet/"><u>Discover the Upgraded MacBook Air Lineup with M3 Chip: New 13-Inch and 15-Inch Models Highlighted by ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-and-set-up-drivers-for-logiteches-g29-steering-wheel-on-pcs-with-windows-os-version-10117/"><u>How to Download & Set Up Drivers for Logiteche's G29 Steering Wheel on PCs with Windows OS (Version 10/11/7)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-best-action-hunting-cameras-of-2023/"><u>In 2024, Best Action Hunting Cameras of 2023</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-the-art-of-silent-videography-for-2024/"><u>Mastering the Art of Silent Videography for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scoop-up-the-ultimate-apple-offers-of-july-2e-steal-of-a-deal-iphones-bargains-on-apple-watches-and-ipads-expert-tips/"><u>Scoop Up the Ultimate Apple Offers of July 2E: Steal-of-a-Deal iPhones, Bargains on Apple Watches & iPads | Expert Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/scriptwriting-secrets-for-docu-films-for-2024/"><u>Scriptwriting Secrets for Docu-Films for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-saving-gpt-chats/"><u>The Ultimate Guide to Saving GPT Chats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-tablet-picks-in-depth-reviews-and-comparisons-zdnet/"><u>Top-Rated Tablet Picks : In-Depth Reviews & Comparisons - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-7-ways-to-harness-chatgpts-visual-abilities/"><u>Unlocking Potential: 7 Ways to Harness ChatGPT's Visual Abilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrading-widely-used-directx-classics-through-dxvk/"><u>Upgrading Widely-Used DirectX Classics Through DXVK</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visual-visionaries-using-chatgpt-for-innovative-images/"><u>Visual Visionaries: Using ChatGPT for Innovative Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-ultimate-key-to-unlocking-the-secrets-of-snapchat-emoji-language/"><u>Your Ultimate Key to Unlocking the Secrets of Snapchat Emoji Language</u></a></li>
+</ul></div>
 

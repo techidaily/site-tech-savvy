@@ -1,7 +1,7 @@
 ---
 title: "Auto-GPT for Ubuntu Users: Easy Install Guide"
-date: 2024-09-11T16:24:17.244Z
-updated: 2024-09-17T16:10:00.584Z
+date: 2024-12-02T22:28:52.073Z
+updated: 2024-12-06T23:29:35.363Z
 tags:
   - chatgpt
   - open-ai
@@ -63,6 +63,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `cd Auto-GPT`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Configure Auto-GPT on Ubuntu
 
  Now that you've correctly set up the environment for Auto-GPT, you need to configure your OpenAI API key as an environment variable.
@@ -107,7 +111,15 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT on Ubuntu
 
@@ -139,38 +151,15 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Providing human feedback to Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-human-feedback.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once your AI assistant finishes its task, you can view its final output by opening the **/Auto-GPT-x.x.x/autogpt/auto\_gpt\_workspace** directory.
 
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Limitations of Auto-GPT
 
@@ -179,6 +168,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  A big part of this problem was the AI’s inability to handle website ads, cookies, log-in pages, and pop-ups. It was likely caused by the fact that Auto-GPT is still in its early development phase.
 
  So for now, you should only use Auto-GPT as a way to play and experiment with AI assistants.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Auto-GPT Will Keep Getting Better and Better
 
@@ -203,5 +196,22 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-enhance-dark-photos-with-iphone-skills-for-2024/"><u>[New] Enhance Dark Photos with iPhone Skills for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-step-by-step-craft-your-viral-story-in-online-videos/"><u>[Updated] Step by Step, Craft Your Viral Story in Online Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-y100-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo Y100 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-the-future-of-home-device-orchestration/"><u>ChatGPT and the Future of Home Device Orchestration</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-free-challenge-the-top-six-picks/"><u>Cost-Free Challenge: The Top Six Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/drive-innovation-forward-gpts-role-in-car-customization/"><u>Drive Innovation Forward: GPT's Role in Car Customization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/favorite-phones-reviewed-by-zdnet-authors-top-picks-and-personal-usage-insights/"><u>Favorite Phones Reviewed by ZDNet Authors – Top Picks and Personal Usage Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-high-ping-problems-for-a-smoother-street-fighter-6-experience-on-pc/"><u>Fix High Ping Problems for a Smoother Street Fighter 6 Experience on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-showdown-evaluating-advancements-from-the-iphone-14-pro-to-the-latest-iphone-15-pro-zdnet-deep-dive/"><u>IPhone Showdown: Evaluating Advancements From the iPhone 14 Pro to the Latest iPhone 15 Pro | ZDNet Deep Dive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/love-scams-evolved-with-artificial-intelligence/"><u>Love Scams Evolved with Artificial Intelligence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-effective-spotify-promotion/"><u>Mastering the Art of Effective Spotify Promotion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-development-codegpt-plus-vs-code/"><u>Maximize Your Development: CodeGPT + VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-local-vs-non-local-debate-a-comprehensive-overview-of-llms/"><u>The Local vs Non-Local Debate: A Comprehensive Overview of LLMs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-premier-pro-essentials-accessible-for-all-editors/"><u>The Premier Pro Essentials - Accessible for All Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/unlock-crystal-clear-videos-best-software-for-video-enhancement-for-2024/"><u>Unlock Crystal-Clear Videos Best Software for Video Enhancement for 2024</u></a></li>
+</ul></div>
 

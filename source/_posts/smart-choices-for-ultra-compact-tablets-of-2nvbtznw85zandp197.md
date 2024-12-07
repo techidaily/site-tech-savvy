@@ -1,7 +1,7 @@
 ---
 title: Smart Choices for Ultra-Compact Tablets of 2#NvBTZnw85z&p=197
-date: 2024-11-22T16:03:41.659Z
-updated: 2024-11-27T16:03:58.926Z
+date: 2024-11-29T22:37:56.274Z
+updated: 2024-12-06T17:35:52.124Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C173a5220-77d1-43b6-a3ad-2eb6a0101999%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best small tablets of 2024
 
 Show less 
@@ -41,15 +45,7 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple iPad Mini 6th Generation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -83,7 +79,7 @@ Cons
 * Cameras aren't as great as other options
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Fire 7 Tablet
@@ -147,11 +143,11 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Kindle 11th generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet for reading
 
@@ -183,6 +179,10 @@ Cons
 
 ## Samsung Galaxy Tab A7 Lite
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best Samsung small tablet
 
 [Samsung's tablet lineup](https://www.zdnet.com/article/best-samsung-tablet/) spans price, capability, and screen size. The Galaxy Tab A7 Lite is a small Android tablet that combines affordability and usefulness. Its 8.7-inch screen features a 1340x800 display, making it worthy of streaming, working, and more.
@@ -194,10 +194,6 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 **Samsung Galaxy Tab A7 Lite tech specs: Display**: 8.7-inch, 1340x800 display | **Processor**: MediaTek MT8768N | **Storage**: 32GB or 64GB | **Colors**: Gray | **Cameras**: 2MP front and 8MP rear | **Weight**: 0.81lbs | **Dimensions**: 8.37 x 4.91 x 0.31 inches | **Connections**: 3.5mm headphone jack, USB-C | **Battery:** 10 to 12 hours
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best small tablet?
 
@@ -233,7 +229,7 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test tablets
@@ -254,6 +250,10 @@ The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What brand of tablet is best?
 
 Tablets made by Apple, Samsung, and Microsoft are the best-made tablets in terms of quality. Amazon has well-rounded tablets in its Fire lineup but with fewer performance-focused features. Boox is also proving to be an industry underdog, with impressive tablets that function as e-readers and illustrators. 
@@ -269,7 +269,7 @@ Yes, they can be. Small Android tablets allow you to do everything you would nor
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the smallest iPad?
@@ -322,22 +322,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-ideas-to-paper-top-8-iphone-sketching-tools-compared/"><u>[New] Ideas to Paper Top 8 iPhone Sketching Tools Compared</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-guide-zero-cost-seminar-capture-for-2024/"><u>[New] The Ultimate Guide Zero-Cost Seminar Capture for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/40-bundle-offer-protect-your-internet-connection-and-enhance-productivity-with-nordvpn-plus-ms365-on-zdnet-deals-now/"><u>$40 Bundle Offer: Protect Your Internet Connection and Enhance Productivity with NordVPN + MS365 on ZDNET Deals Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-elite-android-vpn-providers-in-depth-expert-reviews-and-comparisons-for-optimal-privacy-pcmag/"><u>2024'S Elite Android VPN Providers: In-Depth Expert Reviews and Comparisons for Optimal Privacy | PCMag</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/achieve-cinematic-quality-with-ipad-time-lapses-for-2024/"><u>Achieve Cinematic Quality with iPad Time-Lapses for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/activating-google-ones-complimentary-vpn-feature-on-your-pixel-smartphone-a-step-by-step-guide-zdnet/"><u>Activating Google One's Complimentary VPN Feature on Your Pixel Smartphone: A Step-by-Step Guide - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-and-effective-privatevpn-examination-discovering-the-strengths-of-a-budget-friendly-high-performance-community-based-security-solution/"><u>Affordable and Effective PrivateVPN Examination: Discovering the Strengths of a Budget-Friendly, High-Performance, Community-Based Security Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-premium-vpn-providers-of-the-year-2veenuezdnet-a-specialists-evaluation/"><u>Affordable Premium VPN Providers of the Year 2Veenue=ZDNet): A Specialist's Evaluation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beginner-friendly-cyberghost-vpn-unveiled-is-it-worth-your-money-expert-insights-pcmag/"><u>Beginner-Friendly CyberGhost VPN Unveiled: Is It Worth Your Money? Expert Insights | PCMag</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-zero-fee-iphone-vpn-applications-reviewed-and-ranked-by-experts-at-zdnet/"><u>Best Zero Fee iPhone VPN Applications Reviewed and Ranked by Experts at ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-encrypted-pathway-in-depth-review-of-proton-vpn-and-nordvpn-for-secure-browsing/"><u>Choosing the Right Encrypted Pathway: In-Depth Review of Proton VPN and NordVPN for Secure Browsing</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/improving-windows-11-performance-by-expanding-storage-6-effective-methods/"><u>Improving Windows 11 Performance by Expanding Storage: 6 Effective Methods</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-conveniently-captivated-by-ifunnys-humor-hub/"><u>In 2024, Conveniently Captivated by iFunny's Humor Hub</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-vivo-y27-4g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Vivo Y27 4G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tips-for-efficiently-implementing-windows-11s-auto-hdr-mode/"><u>Tips for Efficiently Implementing Windows 11'S Auto HDR Mode</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-exclusive-panzoid-blueprint-selections-for-2024/"><u>[New] Exclusive Panzoid Blueprint Selections for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-streamlining-your-remote-podcast-production-workflow/"><u>[Updated] 2024 Approved Streamlining Your Remote Podcast Production Workflow</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-best-of-the-rest-cutting-edge-vr-games-for-google-cardboard-for-2024/"><u>[Updated] Best of the Rest Cutting-Edge VR Games for Google Cardboard for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-instructions-for-mac-users-to-share-their-whereabouts-and-its-advantages-howtogeek/"><u>Easy Instructions for Mac Users to Share Their Whereabouts & Its Advantages | HowToGeek</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emotional-insight-using-chatgpt-effectively/"><u>Emotional Insight: Using ChatGPT Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/energy-efficiency-and-strength-in-numbers-running-multiple-nvidia-rtx-4090-gpus-with-cooler-masters-mx-mighty-power-supplies/"><u>Energy Efficiency & Strength in Numbers: Running Multiple NVIDIA RTX 4090 GPUs with Cooler Master’s MX Mighty Power Supplies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-gpt-4-on-a-budget-four-subsidized-paths/"><u>Explore GPT-4 on a Budget: Four Subsidized Paths</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-innovation-for-simplifying-hr-workflows/"><u>GPT Innovation for Simplifying HR Workflows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-motorola-defy-2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Motorola Defy 2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-red-magic-9-proplus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Red Magic 9 Pro+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/inject-photos-with-rotational-blur-effects-in-photosoph-for-2024/"><u>Inject Photos with Rotational Blur Effects in PHOTOSOPH for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/median/"><u>Median</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-bots-chatgpt-premium-service-now-available-in-us-20-mo/"><u>Redefining Bots: ChatGPT Premium Service Now Available in US ($20 Mo)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scripting-success-bash-and-chatgpt-interactions-explained/"><u>Scripting Success: Bash and ChatGPT Interactions Explained</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-infinix-smart-7-hd-by-drfone-android/"><u>Top 10 Password Cracking Tools For Infinix Smart 7 HD</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/windows-10-blue-screen-woes-heres-how-you-can-fix-it-once-and-for-all/"><u>Windows 10 Blue Screen Woes? Here's How You Can Fix It Once and For All!</u></a></li>
 </ul></div>
 

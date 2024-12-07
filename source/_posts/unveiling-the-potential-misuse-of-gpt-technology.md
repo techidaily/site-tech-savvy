@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Potential Misuse of GPT Technology
-date: 2024-11-23T16:17:15.173Z
-updated: 2024-11-27T16:37:43.648Z
+date: 2024-12-01T17:18:49.033Z
+updated: 2024-12-06T21:38:45.121Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Write Malware?
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
  So is ChatGPT a cybersecurity threat? The answer, sadly, is yes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Limitations
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While you can access ChatGPT malware code through a chatbot request, it only seems to be able to write very simple malicious code at the time of writing. In the aforementioned Recorded Future report, it was stated that the malware created by ChatGPT found on illicit platforms was "buggy but functional".
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
  What's more, there's no knowing whether ChatGPT, or another AI-powered chatbot, will one day evolve to the point where sophisticated malware can be produced. This is the beginning, not the end.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are Hackers Using ChatGPT?
@@ -89,16 +89,24 @@ thumbnail: https://thmb.techidaily.com/0a1a7225cf59c67660e5517795e22301d6d92dc24
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-hit-the-airwaves-with-instagram-lives/"><u>[New] In 2024, How to Hit the Airwaves with Instagram Lives</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/captured-discourse-inspection/"><u>Captured Discourse Inspection</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daily-dose-of-bengali-language/"><u>Daily Dose of Bengali Language</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-how-substance-meets-design-in-our-comprehensive-fitbit-charge-4-critique/"><u>Discovering How Substance Meets Design in Our Comprehensive Fitbit Charge 4 Critique</u></a></li>
-<li><a href="https://win-blog.techidaily.com/free-online-mp4-converter-mka-to-avi-with-moveavi/"><u>Free Online MP4 Converter - MKA to AVI with MoveAVI</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ct-visual-experience-on-youtube-with-professional-techniques/"><u>Perfect Visual Experience on YouTube with Professional Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-premium-action-cams-expert-reviews-and-comparisons-techradar/"><u>Top 5 Premium Action Cams : Expert Reviews and Comparisons | TechRadar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-spine-chilling-animatronic-creations-for-the-spookiest-holiday-2022-edition/"><u>Top 5 Spine-Chilling Animatronic Creations for the Spookiest Holiday - 2022 Edition!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-ultimate-inflatable-kayak-picks-according-to-zdnet/"><u>Top 5 Ultimate Inflatable Kayak Picks , According to ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-inflatable-hot-tub-picks-for-a-luxurious-spa-experience-in/"><u>Top-Rated Inflatable Hot Tub Picks for a Luxurious Spa Experience In</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-outdoor-televisions-as-endorsed-by-experts-techradar/"><u>Top-Rated Outdoor Televisions as Endorsed by Experts | TechRadar</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-easy-peasy-podcast-go-live-hack/"><u>[New] 2024 Approved Easy-Peasy Podcast Go Live Hack</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastering-twitter-setup-a-step-by-step-guide-for-2024/"><u>[New] Mastering Twitter Setup A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-crafting-stories-the-ultimate-youtube-channel-list/"><u>[Updated] In 2024, Crafting Stories - The Ultimate YouTube Channel List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ranking-the-best-ios-videography-tech/"><u>[Updated] Ranking the Best iOS Videography Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-devices-the-ultimate-guide-to-use/"><u>ChatGPT for Devices: The Ultimate Guide to Use</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/hover-and-watch-utilizing-the-float-feature-on-netflix/"><u>Hover & Watch Utilizing the Float Feature on Netflix</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-11-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 11 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-overcome-lsa-unavailable-alert-in-os/"><u>How to Overcome LSA Unavailable Alert in OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-magic-5-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor Magic 5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/incorporating-chatgpt-to-boost-therapy-effectiveness/"><u>Incorporating ChatGPT to Boost Therapy Effectiveness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-excel-complexity-using-3-strategic-chatgpt-techniques/"><u>Navigate Excel Complexity Using 3 Strategic ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-fixes-solving-pc-problems-using-gpt/"><u>Quick Fixes: Solving PC Problems Using GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-communication-chatgpt-now-available-on-android/"><u>Revolutionize Communication: ChatGPT Now Available on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/siri-to-gain-smart-enhancements-via-apple-innovation-expect-big-changes-in-the-2025-roadmap-insights/"><u>Siri to Gain Smart Enhancements via Apple Innovation; Expect Big Changes in the 2025 Roadmap – Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-methods-for-capturing-screen-and-sound-seamlessly-on-windows-10/"><u>Top Methods for Capturing Screen & Sound Seamlessly on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unauthorized-advantages-of-ai-conversational-tools/"><u>Unauthorized Advantages of AI Conversational Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-apples-new-vintage-and-obsolete-device-acknowledgment-the-insider-details/"><u>Understanding Apple's New Vintage & Obsolete Device Acknowledgment - The Insider Details</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-chatgpts-potential-with-simple-plugin-signups/"><u>Unlock ChatGPT's Potential with Simple Plugin Signups</u></a></li>
 </ul></div>
 

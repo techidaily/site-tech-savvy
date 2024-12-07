@@ -1,7 +1,7 @@
 ---
 title: "Security Protocol Evaluation: How Secure Is ChatGPT?"
-date: 2024-09-13T16:23:29.603Z
-updated: 2024-09-17T16:01:27.535Z
+date: 2024-12-02T00:53:48.635Z
+updated: 2024-12-06T22:16:37.163Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT: Security Threats and Issues
 
  The technology underpinning ChatGPT and other chatbots may be similar, but ChatGPT is in a category of its own. This is great news if you intend to use it as a kind of personal assistant, but worrying if you consider that threat actors also use it.
@@ -38,15 +42,27 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 
  This just underscores how important it is to [limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/), which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is ChatGPT a Threat to Your Privacy?
 
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/), but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
 
  Billions of words were scraped from the internet to create ChatGPT's vast database. This database is in a continual state of expansion, since ChatGPT stores whatever users share. The US-based non-profit [Common Sense](https://privacy.commonsense.org/evaluation/ChatGPT) gave ChatGPT a privacy evaluation score of 61 percent, noting that the chatbot collects Personally Identifiable Information (PII), and other sensitive data. Most of this data is stored, or shared with certain third-parties.
 
  In any case, you should be careful when using ChatGPT, especially [if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt), or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Addressing the Security Risks Associated With ChatGPT
 
@@ -57,10 +73,7 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Raising Awareness Is Key
@@ -86,5 +99,21 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-streamlined-techniques-for-recording-gotomeetings/"><u>[New] 2024 Approved Streamlined Techniques for Recording GoToMeetings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-expert-tips-for-youtube-channel-aesthetics-finding-optimal-sizes-for-2024/"><u>[New] Expert Tips for YouTube Channel Aesthetics Finding Optimal Sizes for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-object-extraction-in-iphone-photography-with-top-6-apps-for-2024/"><u>[New] Mastering Object Extraction in iPhone Photography with Top 6 Apps for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-vsi-vidrecorder-verdicts-in-depth-overview/"><u>2024 Approved VSI VidRecorder Verdicts In-Depth Overview</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivating-clips-select-5-brightening-apps-for-2024/"><u>Captivating Clips Select 5 Brightening Apps for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystified-artificial-intelligence/"><u>Demystified Artificial Intelligence</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-overwatch-from-crashing-due-to-graphics-drivers/"><u>How to Stop Overwatch From Crashing Due to Graphics Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-nokia-c12-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Nokia C12 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/maintaining-excellence-in-video-quality-the-ultimate-guide-to-compressing-mp4-files/"><u>Maintaining Excellence in Video Quality: The Ultimate Guide to Compressing MP4 Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-pinnacle-introducing-groundbreaking-gpt-4/"><u>OpenAI's Pinnacle: Introducing Groundbreaking GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-blocked-status-in-chatgpt-accounts/"><u>Overcoming Blocked Status in ChatGPT Accounts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-reality-top-8-ai-stories/"><u>Reimagining Reality: Top 8 AI Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-talk-titles-analyzing-gpt-vs-bingbot-capabilities/"><u>Tech Talk Titles: Analyzing GPT Vs. BingBot Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-potential-of-chatgpt-across-languages/"><u>Unveiling the Potential of ChatGPT Across Languages</u></a></li>
+</ul></div>
 

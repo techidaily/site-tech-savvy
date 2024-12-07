@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Breakthrough: Unlocking Six New Frontiers with the Code Conductor"
-date: 2024-09-15T16:17:21.857Z
-updated: 2024-09-17T16:08:40.607Z
+date: 2024-12-05T21:32:21.330Z
+updated: 2024-12-06T20:38:12.143Z
 tags:
   - chatgpt
   - open-ai
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
 
 ## 2\. Create and Edit Videos
@@ -76,11 +80,19 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Create and Modify Audio Files
 
@@ -106,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Write and Analyze Code
 
  If you have large code files you want to make sense of, Code Interpreter is a solid option. You can attach files with several thousand lines of code and simply ask Code Interpreter to tell you what it does, maybe debug it, refactor it, translate to another programming language or perform just about any programming-related task you can think of.
@@ -120,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
@@ -134,10 +143,7 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
@@ -163,5 +169,20 @@ thumbnail: https://thmb.techidaily.com/d8236c8823bf190018d4a9a0035905199e51992e3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-horizontal-or-vertical-crafting-the-best-fb-video-posts/"><u>[New] Horizontal or Vertical Crafting the Best FB Video Posts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-seamless-mp4-to-fb-video-transfer-technology/"><u>[New] Seamless MP4-to-FB Video Transfer Technology</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-getting-started-with-snapchat-on-apple-computers-for-2024/"><u>[Updated] Getting Started with Snapchat on Apple Computers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-elite-selection-of-macbook-gear-expertly-assessed-and-critiqued-wired/"><u>2024'S Elite Selection of MacBook Gear: Expertly Assessed and Critiqued | Wired</u></a></li>
+<li><a href="https://win-premium.techidaily.com/best-disk-erasing-applications-top-picks-for-windows-11-10-8-and/"><u>Best Disk Erasing Applications: Top Picks for Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://win-web.techidaily.com/best-free-usb-data-retrieval-apps-for-windows-users-top-suggestions-for-w11w8w7-systems/"><u>Best Free USB Data Retrieval Apps for Windows Users: Top Suggestions for W11/W8/W7 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystified-artificial-intelligence/"><u>Demystified Artificial Intelligence</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-y28-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo Y28 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-pcmobile-video-filter-techniques/"><u>Mastering PC/Mobile Video Filter Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-pinnacle-introducing-groundbreaking-gpt-4/"><u>OpenAI's Pinnacle: Introducing Groundbreaking GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-blocked-status-in-chatgpt-accounts/"><u>Overcoming Blocked Status in ChatGPT Accounts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-reality-top-8-ai-stories/"><u>Reimagining Reality: Top 8 AI Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-talk-titles-analyzing-gpt-vs-bingbot-capabilities/"><u>Tech Talk Titles: Analyzing GPT Vs. BingBot Capabilities</u></a></li>
+</ul></div>
 

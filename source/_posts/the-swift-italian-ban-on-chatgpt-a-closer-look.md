@@ -1,7 +1,7 @@
 ---
 title: "The Swift Italian Ban on ChatGPT: A Closer Look"
-date: 2024-09-15T16:17:55.379Z
-updated: 2024-09-17T16:13:24.858Z
+date: 2024-11-29T20:31:22.147Z
+updated: 2024-12-06T18:01:22.460Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Did Italy Ban ChatGPT?
 
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On March 30th, 2023, the Italian Data Protection Authority, Garante per la Protezione dei Dati Personali (GPDP), [officially announced](https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9870847) a ChatGPT ban, effective immediately, that would last until ChatGPT complied with the EU's GDPR.
 
@@ -42,23 +50,22 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 
 ![ChatGPT Onboarding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-onboarding.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Italian regulator ensures data controllers follow the general obligations outlined in the EU's privacy law, and OpenAI falls short.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Unjustified Collection of Personal Data
 
  Asides from the breach of its privacy laws, the GDPD claims that there is no legal justification for OpenAI's massive collection and processing of personal data to train ChatGPT's algorithms. According to the Italian regulator, ChatGPT's information doesn't always match factual circumstances, so OpenAI can use falsified personal data.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. A Lack of Easily-Accessible and Transparent Information
@@ -68,19 +75,6 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
 ### 4\. Lack of Age Verification Systems
 
  The GDPD announced that ChatGPT exposes inappropriate information to users under 13 because it lacks appropriate age detection mechanisms. This underage exposure violates the EU's GDPR, which states that individuals must clearly consent to the processing of their personal data. As underage individuals, they are not to consent on their behalf.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Risk of Data Breaches
 
@@ -113,5 +107,26 @@ thumbnail: https://thmb.techidaily.com/0a6fdf457b7ae04c7271bb5ef452861b60d681e9f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/1727785151700-w2-plus-l2-d2/"><u> [ W^2 + L^2 = D^2 </u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-expert-free-fb-image-creator-no-fee/"><u>[New] Expert Free FB Image Creator (No Fee)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-turning-off-instagrams-igtv-in-a-nutshell-for-2024/"><u>[New] Turning Off Instagram's IGTV in a Nutshell for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-deadite-design-dynamo/"><u>[Updated] 2024 Approved Deadite Design Dynamo</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-vdl-pro-recorder-summary-detailed-breakdown/"><u>[Updated] 2024 Approved VDL Pro Recorder Summary Detailed Breakdown</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-earnings-in-the-virtual-playground/"><u>[Updated] Earnings in the Virtual Playground</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-perfected-panels-expert-recommended-photo-editing-screens/"><u>[Updated] In 2024, Perfected Panels Expert-Recommended Photo Editing Screens</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cleared-twitter-of-checkmarks-linuss-revelations-trojan-analysis-and-ai-shortcom-writes/"><u>Cleared Twitter of Checkmarks, Linus’s Revelations, Trojan Analysis, & AI Shortcom Writes.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digitizing-documents-ai-driven-pdf-focused-methodologies-with-chatgpt/"><u>Digitizing Documents: AI-Driven, PDF-Focused Methodologies with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-analysis-unveiling-the-power-of-the-new-ipad-air-m2-your-definitive-purchase-guide-according-to-zdnet/"><u>Expert Analysis: Unveiling the Power of the New iPad Air (M2) – Your Definitive Purchase Guide, According to ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-plus-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Plus To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-find-x6-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo Find X6 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-14-pro-max-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 14 Pro Max for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-showdown-unraveling-the-differences-between-macbook-air-and-macbook-pro-to-help-you-make-an-informed-decision/"><u>MacBook Showdown: Unraveling the Differences Between MacBook Air & MacBook Pro to Help You Make an Informed Decision</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-narratives-innovative-uses-of-chatgpt-in-gaming-scriptwriting/"><u>Mastering Narratives: Innovative Uses of ChatGPT in Gaming Scriptwriting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-training-sessions-leading-7-gpt-additions/"><u>Optimize Training Sessions: Leading 7 GPT Additions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-power-of-language-ai-palm-2-and-gpt-4-faceoff/"><u>The Power of Language AI: PaLM 2 and GPT-4 Faceoff</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-for-aspiring-innovators-of-openai/"><u>The Ultimate Guide for Aspiring Innovators of OpenAI</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/uncluttered-recorder-screen-log-for-win10/"><u>Uncluttered Recorder Screen Log for Win10</u></a></li>
+</ul></div>
 

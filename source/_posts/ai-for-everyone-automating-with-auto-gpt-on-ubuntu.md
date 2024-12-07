@@ -1,7 +1,7 @@
 ---
 title: "AI for Everyone: Automating with Auto-GPT on Ubuntu"
-date: 2024-09-15T16:15:22.293Z
-updated: 2024-09-17T16:23:47.290Z
+date: 2024-12-04T23:30:47.946Z
+updated: 2024-12-06T23:17:13.619Z
 tags:
   - chatgpt
   - open-ai
@@ -63,6 +63,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `cd Auto-GPT`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Configure Auto-GPT on Ubuntu
 
  Now that you've correctly set up the environment for Auto-GPT, you need to configure your OpenAI API key as an environment variable.
@@ -91,6 +95,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `sudo mv .env.template .env`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2: Install Auto-GPT Dependencies on Ubuntu
 
  Auto-GPT uses a lot of Python libraries. You will need to install all the packages using pip and the **requirements.txt** text file that comes with the AutoGPT source code.
@@ -107,14 +115,11 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
- Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
 
 ## How to Use Auto-GPT on Ubuntu
 
@@ -123,10 +128,7 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Auto-GPT auto mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-auto.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In manual mode, Auto-GPT will ask you to specify a name, a goal, and up to five goals you want the AI assistant to follow while doing its task. This mode allows you to be in control of how your AI assistant will function.
@@ -138,6 +140,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  In this example, we've named our AI assistant, and given it a role to look for product promos, and a few goals on the quality of the promo.
 
 ![Auto-GPT manual mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-manual.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the name, goals, and role have been provided, your AI assistant will immediately activate and start looping through its thinking and execution process.
 
@@ -156,13 +162,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  Once your AI assistant finishes its task, you can view its final output by opening the **/Auto-GPT-x.x.x/autogpt/auto\_gpt\_workspace** directory.
 
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
 
@@ -197,5 +196,22 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-methodology-to-purging-your-youtube-watch-later-playlist/"><u>[New] Methodology to Purging Your YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-softening-dynamics-in-fl-studio-soundscape/"><u>[Updated] Mastering the Art of Softening Dynamics in FL Studio Soundscape</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-racing-game-compilation-for-2024/"><u>[Updated] Ultimate Racing Game Compilation for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/accelerating-performance-microsoft-edges-speed-enhancements/"><u>Accelerating Performance: Microsoft Edge's Speed Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/agentgpt-deployment-made-a-breeze-for-browser-users/"><u>AgentGPT Deployment Made a Breeze for Browser Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpt-explained-a-comparative-study-with-chatgpt/"><u>Auto-GPT Explained – A Comparative Study with ChatGPT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-instruction-crafting-skills-using-these-innovative-aids/"><u>Boost Your Instruction Crafting Skills Using These Innovative Aids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/finewoven-discontinued-by-apple-in-favor-of-new-partnership-with-beats-for-case-production-zdnet/"><u>FineWoven Discontinued by Apple in Favor of New Partnership with Beats for Case Production - ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-wpd-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .wpd file electronically</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-honor-x7b-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Honor X7b Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ultimate-guide-to-affordable-vector-art-websites/"><u>In 2024, Ultimate Guide to Affordable Vector Art Websites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-into-the-unique-benefits-of-business-focused-gpt/"><u>Insights Into the Unique Benefits of Business-Focused GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-value-showdown-get-iphone-ipad-apple-watch-airpods-and-mac-cheaper-than-vision-pro/"><u>Tech Value Showdown: Get iPhone, iPad, Apple Watch, AirPods, and Mac Cheaper than Vision Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-apple-watch-offers-in-july-2024-find-the-best-savings-on-latest-models-tech-news-today/"><u>Top Apple Watch Offers in July 2024: Find the Best Savings on Latest Models | Tech News Today</u></a></li>
+</ul></div>
 

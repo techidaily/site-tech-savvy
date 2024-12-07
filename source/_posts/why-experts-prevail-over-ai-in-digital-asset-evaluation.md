@@ -1,7 +1,7 @@
 ---
 title: Why Experts Prevail Over AI in Digital Asset Evaluation
-date: 2024-09-14T16:26:01.626Z
-updated: 2024-09-17T16:16:51.415Z
+date: 2024-12-05T19:11:28.598Z
+updated: 2024-12-06T17:57:16.786Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Lack of Real-Time Data
 
  The cryptocurrency market is always changing. A coin can be worth $10 on Monday and then $5 on Tuesday. Because of this, real-time data is crucial in crypto trading, be it prices, trends, or predictions. Using outdated information can result in poor investments and a loss of funds, so it's important to be on top of things.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The huge success of ChatGPT, as well as the release of [similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/), has brought the concern of hallucination into the limelight.
 
@@ -50,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to [BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/), ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
@@ -61,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
  Because ChatGPT knows nothing about your financial circumstances, delivering personalized financial advice is tough. How much you have to spend, your preferred platforms, your spending habits, how much you can afford to lose, and the profit you're looking to make must all be considered, and this may end up being too much for ChatGPT.
 
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Relies Heavily on Historical Data
 
@@ -75,10 +91,7 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Lacks Insights Into Macroeconomic Factors
@@ -92,19 +105,6 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
  Once supply exceeds demand, prices drop. Now, the coin you bought is only worth $70\. The next day, it may be worth less, and this is all because of a traditional market issue.
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Revolutionary but Far From Perfect
 
@@ -125,5 +125,20 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-seamless-audio-transfer-best-iphone-tools-for-youtube-to-mp3/"><u>[Updated] 2024 Approved Seamless Audio Transfer Best iPhone Tools for YouTube-to-MP3</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-digital-arena-100plus-titles-for-the-true-gamer/"><u>2024 Approved Digital Arena 100+ Titles for the True Gamer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-drones-indispensable-accessories-list/"><u>2024 Approved Maximizing Drones Indispensable Accessories List</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-selection-of-webcams-for-professional-zoom-sessions/"><u>Elite Selection of Webcams for Professional Zoom Sessions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/free-mindfulness-playlist/"><u>Free Mindfulness Playlist</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-correctly-address-the-minecraft-exit-code-0-mistake/"><u>How to Correctly Address the Minecraft Exit Code 0 Mistake</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-5-bot-therapy-tools-for-mental-health-support/"><u>Innovative 5 Bot Therapy Tools for Mental Health Support</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/kickstarting-your-career-in-crafting-dynamic-chatbots/"><u>Kickstarting Your Career in Crafting Dynamic Chatbots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-150-apple-gift-card-when-purchasing-a-macipad-for-education-learn-the-trickszdnet/"><u>Secure Your $150 Apple Gift Card When Purchasing a Mac/iPad for Education - Learn the Tricks![ZDNet]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-technology-presents-the-ultimate-gift-guide-featuring-the-latest-gadgets/"><u>Top Technology Presents: The Ultimate Gift Guide - Featuring the Latest Gadgets!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-apples-latest-flagship-in-depth-m1-max-macbook-pro-16-inch-late-2nvember-2021-assessment-a-new-era-for-ultraportable-computing/"><u>Unveiling the Power of Apple's Latest Flagship: In-Depth M1 Max MacBook Pro (16-Inch, Late 2Nvember 2021) Assessment – A New Era for Ultraportable Computing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/vocal-choirs-on-tiktoks-digital-stage/"><u>Vocal Choirs on TikTok's Digital Stage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zooms-latest-feature-collaborating-on-the-vision-pro-headset-what-this-could-mean-for-your-video-calls-future-of-communications-blog/"><u>Zoom's Latest Feature: Collaborating on the Vision Pro Headset – What This Could Mean for Your Video Calls | Future of Communications Blog</u></a></li>
+</ul></div>
 

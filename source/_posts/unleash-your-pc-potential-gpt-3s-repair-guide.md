@@ -1,7 +1,7 @@
 ---
 title: Unleash Your PC Potential - GPT-3's Repair Guide
-date: 2024-09-15T16:06:49.165Z
-updated: 2024-09-17T16:24:10.367Z
+date: 2024-12-02T20:58:06.170Z
+updated: 2024-12-06T17:25:46.821Z
 tags:
   - chatgpt
   - open-ai
@@ -55,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  In the case of our problem, ChatGPT has gotten quite lucky here, solving the problem with its first suggestion. But what if it has something more complicated to solve?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Fix a Slow PC With ChatGPT
@@ -78,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  It would be unreasonable to expect ChatGPT to be able to correct this, but it shows that you have to be a little bit careful when following advice from an AI chatbot. Upgrading your hardware, cleaning the machine, and many other suggestions are well worth trying if you have a slow PC.
 
  ChatGPT is great for questions like this. It can give you prompts you would never have thought of, making it far more obvious when you have [issues slowing down your PC that you aren't aware of](https://www.makeuseof.com/windows-10-habits-slow-down-pc/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Fix PC Blue Screens With ChatGPT
 
@@ -107,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  As you can see, ChatGPT does know what the error code means. Despite this, the solutions it suggests remain relatively standard troubleshooting steps and lack nuance compared to similar questions.
 
  Fixing blue screen errors is challenging if you don't have the right guidance. Alongside using ChatGPT, it's well worth reading a real human-written [guide to solving blue screens in Windows](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) to help you through this process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can You Fix a Broken PC With ChatGPT?
 
@@ -193,6 +187,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 ![ChatGPT with blue screen error code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-blue-screening-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT does know what the error code means. Despite this, the solutions it suggests remain relatively standard troubleshooting steps and lack nuance compared to similar questions.
 
  Fixing blue screen errors is challenging if you don't have the right guidance. Alongside using ChatGPT, it's well worth reading a real human-written [guide to solving blue screens in Windows](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) to help you through this process.
@@ -212,6 +210,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
  It's also worth prompting ChatGPT for a PC fix, then heading back to regular PC hardware forums to check what it said is accurate before implementing its suggestion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use ChatGPT as Your PC Hardware Assistant, Not Your Mentor
 
  ChatGPT will improve as time goes by, and this means its ability to solve computer problems will only get better. This AI chatbot can help you fix a broken PC when you use it correctly, but you will still have to do all of the real work.
@@ -225,6 +227,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  Since its launch in November 2022, ChatGPT has taken the online world by storm. The seemingly omniscient chatbot is used to create content, provide customer support, and even trick real people. But ChatGPT has many more uses than that and has the knowledge to guide you through issues relating to your computer when it breaks.
 
  So, how can you use ChatGPT to solve your computer problems?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Troubleshoot a Broken PC With ChatGPT
 
@@ -256,6 +262,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 ![ChatGPT slow PC troubleshooting response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-slow-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once again, ChatGPT provides a list of solutions to our problem, and it's up to us to assess how well they will work. As before, ChatGPT has done well in identifying some of the key causes of slow PCs, but it has also made some suggestions that aren't so sensible.
 
  For instance, completely reinstalling your operating system can make an old PC faster. This is because of compounding issues, like fragmented drives and loads of programs running on startup, but you can solve these issues without starting fresh. In fact, ChatGPT has given you loads of suggestions that should mitigate the need for such action.
@@ -269,6 +279,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  While they aren't as scary as they used to be, blue screens are difficult to deal with and cause a lot of frustration when they occur repeatedly. Many issues can cause a blue screen crash, but you won't always get an error code to help you find the solution.
 
 ![ChatGPT fixing blue screens without an error code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-blue-screening-pc-without-error.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Asking ChatGPT, "How do I fix a PC that keeps blue screening?" will yield a long list of general solutions. It will usually suggest noting and researching the error code provided with the blue screen, along with a range of other solutions that are largely helpful.
 
@@ -282,6 +296,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 ![ChatGPT with blue screen error code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-blue-screening-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT does know what the error code means. Despite this, the solutions it suggests remain relatively standard troubleshooting steps and lack nuance compared to similar questions.
 
  Fixing blue screen errors is challenging if you don't have the right guidance. Alongside using ChatGPT, it's well worth reading a real human-written [guide to solving blue screens in Windows](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) to help you through this process.
@@ -315,13 +333,6 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
  So, how can you use ChatGPT to solve your computer problems?
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Troubleshoot a Broken PC With ChatGPT
 
  Troubleshooting a broken PC often involves many searches and dives into help pages and forum posts, which can take time. Thankfully, though, it just so happens that ChatGPT is an expert in scouring information online. It can even present it in a consolidated, concise set of instructions.
@@ -329,6 +340,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  To showcase ChatGPT's ability to troubleshoot computer problems, we will use ChatGPT-3.5 to solve five of the most common PC issues users face. ChatGPT-3.5 is the free version of the generative AI tool, which means anyone can give it a try.
 
  Head to [ChatGPT](https://chat.openai.com/) and either log in or make a free account if you don't already have one. From here, you can start talking to ChatGPT-3.5 and ask it how to fix your PC. We've used ChatGPT to fix three common PC hardware issues. However, it's just the tip of the iceberg and illustrates ChatGPT's range and how to apply it to your machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. How to Fix a PC That Won't Start With ChatGPT
 
@@ -352,13 +367,6 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 ![ChatGPT slow PC troubleshooting response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-slow-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once again, ChatGPT provides a list of solutions to our problem, and it's up to us to assess how well they will work. As before, ChatGPT has done well in identifying some of the key causes of slow PCs, but it has also made some suggestions that aren't so sensible.
 
  For instance, completely reinstalling your operating system can make an old PC faster. This is because of compounding issues, like fragmented drives and loads of programs running on startup, but you can solve these issues without starting fresh. In fact, ChatGPT has given you loads of suggestions that should mitigate the need for such action.
@@ -374,16 +382,7 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![ChatGPT fixing blue screens without an error code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-blue-screening-pc-without-error.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Asking ChatGPT, "How do I fix a PC that keeps blue screening?" will yield a long list of general solutions. It will usually suggest noting and researching the error code provided with the blue screen, along with a range of other solutions that are largely helpful.
@@ -436,5 +435,26 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-gopro-tips-and-tricks/"><u>[New] 2024 Approved Gopro Tips and Tricks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-high-definition-excellence-leading-the-recording-race/"><u>[New] In 2024, High Definition Excellence Leading the Recording Race</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-harnessing-the-power-of-followers-for-impactful-advertising-campaigns/"><u>[Updated] 2024 Approved Harnessing the Power of Followers for Impactful Advertising Campaigns</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-no-more-latency-choose-av1-for-youtube-playback/"><u>[Updated] No More Latency Choose AV1 for YouTube Playback</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-vr-advantages-and-disadvantages-for-2024/"><u>[Updated] VR Advantages & Disadvantages for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-apex-craftsman-studio-evaluation/"><u>2024 Approved Apex Craftsman Studio Evaluation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-first-step-guide-to-professional-vlogging/"><u>2024 Approved First-Step Guide to Professional Vlogging</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-glimpse-into-optimism-how-pre-ordering-apples-vision-pro-reflects-promising-innovations-to-expect-tech-insight/"><u>A Glimpse Into Optimism: How Pre-Ordering Apple's Vision Pro Reflects Promising Innovations to Expect | Tech Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-engineers-secure-operating-system-for-advanced-ai-servers-at-data-centers-insights-revealed/"><u>Apple Engineers Secure Operating System for Advanced AI Servers at Data Centers | Insights Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-chatgpts-corporate-use-cases/"><u>Comparing ChatGPT's Corporate Use Cases</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/everyday-wins-claude-confronting-gpt-in-chatbot-arena/"><u>Everyday Wins: Claude Confronting GPT in ChatBot Arena</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-detecting-unregistered-friends-list/"><u>In 2024, Detecting Unregistered Friends List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-anthropics-comprehensible-ai-stores/"><u>Introducing Anthropic's Comprehensible AI Stores</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/our-picks-for-the-finest-car-dvd-units-for-2024/"><u>Our Picks for the Finest Car DVD Units for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-perspectives-on-hardware-with-toms-guide/"><u>Professional Perspectives on Hardware with Tom's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/purchase-these-three-newly-unveiled-apple-innovations-at-wwdc-available-immediately-find-out-how-on-zdnet/"><u>Purchase These Three Newly Unveiled Apple Innovations at WWDC, Available Immediately - Find Out How on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-major-oversight-in-new-ipad-rollout-and-apples-path-to-remediation/"><u>The Major Oversight in New iPad Rollout and Apple's Path to Remediation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-smartphone-picks-the-devices-chosen-by-experts-at-zdnet/"><u>Top Smartphone Picks: The Devices Chosen by Experts at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-effortless-transactions-mastering-apple-pay-for-in-store-and-web-purchases/"><u>Unlocking Effortless Transactions: Mastering Apple Pay for In-Store and Web Purchases</u></a></li>
+</ul></div>
 

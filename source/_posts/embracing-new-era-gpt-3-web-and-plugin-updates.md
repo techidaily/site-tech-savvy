@@ -1,7 +1,7 @@
 ---
 title: "Embracing New Era: GPT-3 Web & Plugin Updates"
-date: 2024-09-15T16:29:37.229Z
-updated: 2024-09-17T16:20:46.461Z
+date: 2024-11-29T22:30:55.877Z
+updated: 2024-12-06T20:01:31.914Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,10 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Can Browse the Web
 
  That's not all, though.
@@ -62,6 +66,10 @@ OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus 
 
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  As you can see from the images above, ChatGPT Plus correctly identified Max Verstappen—though I did need to prompt the tool to continue.
@@ -70,15 +78,16 @@ Close
 
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable ChatGPT Plugins and Web Browsing
@@ -97,10 +106,7 @@ Close
  From here, you can select either Web Browsing to enable web-connected search or select **Plugin Store** to begin installing and enabling Plugins.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Finally Connected to the Internet
@@ -126,5 +132,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-setup-to-screening-wirecasts-role-in-facebook-streaming/"><u>[New] In 2024, From Setup to Screening Wirecast’s Role in Facebook Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pro-graphic-rigs-mastering-4k-titles/"><u>[New] Pro Graphic Rigs Mastering 4K Titles</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-precision-of-portioning-video-length-optimization-on-youtube-for-2024/"><u>[New] The Precision of Portioning Video Length Optimization on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-revenue-breakdown-cpm-insights/"><u>[New] YouTube Revenue Breakdown CPM Insights</u></a></li>
+<li><a href="https://win-news.techidaily.com/5-simple-methods-wirelessly-moving-data-from-iphone-to-your-computer/"><u>5 Simple Methods: Wirelessly Moving Data From iPhone to Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoid-buying-extra-tools-learn-to-open-your-iphones-sim-by-yourself/"><u>Avoid Buying Extra Tools - Learn to Open Your iPhone's SIM by Yourself</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-dialogues-duo-chatgpt-vs-google-bard-showdown/"><u>Digital Dialogues Duo: ChatGPT Vs. Google Bard Showdown</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-best-8-mobile-apps-for-trip-planning-enthusiasts/"><u>Explore the Best 8 Mobile Apps for Trip Planning Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-the-latest-firmware-on-your-apple-studio-display-expert-tips-and-tricks/"><u>How to Install the Latest Firmware on Your Apple Studio Display - Expert Tips and Tricks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-a58-4g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo A58 4G Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-apples-next-move-diving-into-artificial-intelligence-with-future-home-robotics-zdnet/"><u>Inside Apple's Next Move: Diving Into Artificial Intelligence with Future Home Robotics | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-controls-are-they-enough-for-chatgpt/"><u>Privacy Controls: Are They Enough for ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ongoing-debate-why-apple-asserts-your-iphone-works-fine-without-a-case-zdnet/"><u>The Ongoing Debate: Why Apple Asserts Your iPhone Works Fine Without a Case [ZDNet]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-3-essential-gadgets-to-maintain-your-iphone-13s-fresh-appearance-tips/"><u>Top 3 Essential Gadgets to Maintain Your iPhone 13'S Fresh Appearance - Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-anker-phone-charger-essentials-must-have-accessories-for-your-upcoming-new-iphone-purchase-insights/"><u>Top Anker Phone Charger Essentials: Must-Have Accessories for Your Upcoming New iPhone Purchase - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-air-protection-gear-of-2024-verified-reviews-by-tech-experts-zdnet/"><u>Top-Rated iPad Air Protection Gear of 2024 - Verified Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resurrecting-your-waterlogged-iphoneipod-with-easy-diy-techniques/"><u>Ultimate Guide: Resurrecting Your Waterlogged iPhone/iPod with Easy DIY Techniques</u></a></li>
+</ul></div>
 

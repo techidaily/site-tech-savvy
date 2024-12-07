@@ -1,7 +1,7 @@
 ---
 title: Guiding AI's Journey to Coexist with Us
-date: 2024-11-23T16:23:12.449Z
-updated: 2024-11-27T16:06:27.481Z
+date: 2024-12-05T19:25:15.935Z
+updated: 2024-12-06T19:49:36.532Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI Control Problem Explained
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
  If an AI system were to surpass human intelligence without the proper safeguards, the result could be catastrophic. Such systems could assume control of physical resources as many tasks are achieved better or more efficiently. Since AI systems are designed to achieve maximum efficiency, losing control could lead to severe consequences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Does the AI Control Problem Apply?
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A great example of this is the [Tesla Full-Self Driving (FSD) suite](https://www.makeuseof.com/what-is-tesla-fsd-how-does-it-work/). While the car can drive itself, it requires a human to have their hands on the steering wheel, ready to take control of the car should the system malfunction. However, as these AI systems get more reliable, even the most alert human's attention will begin to vary, and dependency on the autonomous system will increase.
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
  So what happens when cars start driving at speeds humans can't keep up with? We'll end up surrendering control to the car's autonomous systems, meaning an AI system will be in control of your life, at least until you reach your destination.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can the AI Control Problem Be Solved?
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
  The DCAF approach always puts a human operator at the helm of an automated system, ensuring that their input controls the most important parts of the system's decision-making process. If a system is engaging enough for a human operator to pay attention constantly, the control problem can be solved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can We Ever Truly Control AI?
@@ -107,19 +107,22 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-take-fullscreen-digital-canvas/"><u>[Updated] Take Fullscreen Digital Canvas</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-metaverse-vs-multimetaverse-key-distinctions-and-comparison/"><u>2024 Approved Metaverse Vs. Multimetaverse Key Distinctions and Comparison</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-shoppers-guide-to-modern-360cams/"><u>2024 Approved The Essential Shopper's Guide to Modern 360Cams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/all-advantages-with-real-time-chatgpt-data/"><u>All Advantages with Real-Time ChatGPT Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/become-a-pro-mastering-codegpt-install-in-vs-code/"><u>Become a Pro: Mastering CodeGPT Install in VS Code</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-your-favorite-songs-at-no-cost-high-definition-mp4-videos-with-ultra-hd-options/"><u>Download Your Favorite Songs at No Cost - High-Definition MP4 Videos with Ultra HD Options!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/eliminating-watermarks-from-your-stock-collections/"><u>Eliminating Watermarks From Your Stock Collections</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-android-with-chatgpt-widget-use/"><u>Enhance Android With ChatGPT Widget Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-face-off-14-pro-vs-14-pro-max-which-ones-the-right-upgrade-for-you-insights-from-zdnet/"><u>IPhone Face-Off: 14 Pro Vs. 14 Pro Max – Which One's the Right Upgrade for You? | Insights From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-directive-design-discover-7-digital-strategies/"><u>Master the Art of Directive Design: Discover 7 Digital Strategies</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-windows-defender-error-0x80004004-quickly/"><u>Resolving Windows Defender Error 0X80004004 Quickly</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-releases-mac-data-recovery-12v-with-enhanced-ui-and-improved-capabilities-news-of-stellar/"><u>Stellar® Releases Mac Data Recovery 12v with Enhanced UI & Improved Capabilities - News of Stellar</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-motorola-moto-g23-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Motorola Moto G23 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210745628-9798987229217-what-you-want-wants-you/"><u>What You Want Wants You | Free Book</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-amazonprimes-winning-tweets-of-the-year-2023/"><u>[New] AmazonPrime's Winning Tweets of the Year 2023</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-10-virtual-photo-backdrop-modifiers/"><u>[New] Ideal 10 Virtual Photo Backdrop Modifiers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premium-zero-cost-switch-gaming-experience-for-2024/"><u>[Updated] Premium Zero Cost Switch Gaming Experience for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-backswing-crafting-bundle/"><u>2024 Approved Backswing Crafting Bundle</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-from-scripts-to-screens-your-ultimate-youtube-production-plan/"><u>2024 Approved From Scripts to Screens Your Ultimate YouTube Production Plan</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-perfecting-your-instagram-format-imovie-square-video-creation/"><u>2024 Approved Perfecting Your Instagram Format IMovie Square Video Creation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unveiling-hidden-gems-essential-tricks-for-win11/"><u>2024 Approved Unveiling Hidden Gems Essential Tricks for Win11</u></a></li>
+<li><a href="https://win-bits.techidaily.com/bios-based-complete-windows-reinstall-erasing-data-securely-from-your-hard-drive/"><u>BIOS-Based Complete Windows Reinstall: Erasing Data Securely From Your Hard Drive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-generative-ai-beyond-imagination/"><u>Decoding Generative AI: Beyond Imagination</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deploy-low-cost-locally-executed-chatgpt-clone-on-pc/"><u>Deploy Low-Cost, Locally Executed ChatGPT Clone on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engaging-gpt-3-in-poetic-creation-process/"><u>Engaging GPT-3 in Poetic Creation Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expanding-opportunities-ai-in-the-employment-sphere/"><u>Expanding Opportunities: AI in the Employment Sphere</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-the-classic-turing-test-still-relevant-discover-alternative-methods-today/"><u>Is the Classic Turing Test Still Relevant? Discover Alternative Methods Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-your-iphone-13-case-compatible-with-iphone-14-expert-tips-and-advice-infographic/"><u>Is Your iPhone 13 Case Compatible with iPhone 14? Expert Tips & Advice [Infographic]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/latest-gpt-data-universal-advantages/"><u>Latest GPT Data, Universal Advantages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-examples-for-chatgpt-qanda-on-github-repositories/"><u>Leading Examples for ChatGPT Q&A on GitHub Repositories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveil-the-easy-side-of-ai-dialogues-via-chrome-enhancement/"><u>Unveil the Easy Side of AI Dialogues via Chrome Enhancement</u></a></li>
 </ul></div>
 

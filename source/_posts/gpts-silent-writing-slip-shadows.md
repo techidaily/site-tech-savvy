@@ -1,7 +1,7 @@
 ---
 title: GPT's Silent Writing Slip Shadows
-date: 2024-11-20T16:48:48.873Z
-updated: 2024-11-27T16:58:19.364Z
+date: 2024-12-04T00:45:33.201Z
+updated: 2024-12-06T22:36:19.327Z
 tags:
   - chatgpt
   - open-ai
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 ![False positive judgement by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/false-positive-judgement-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We then asked ChatGPT to generate a story, and in that same chat thread, we copy-pasted the generated text and asked ChatGPT whether the text was AI-created. ChatGPT's response? A confident "No."
@@ -45,20 +45,20 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 ![ChatGPT false negative judgement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-negative-judgement.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT failed at identifying human-written or AI-generated text in both cases. So how come ChatGPT cannot detect its own text? Does this mean there is no difference between AI and human text?
 
  Well, there is. We could write an entire book on the difference between the two, but it won't matter much. So, if there's a difference, why is ChatGPT or any other AI tool unable to identify these differences and accurately point out AI-generated text from a human-written one? The answer lies in [how ChatGPT works and how it generates text](http://www.makeuseof.com/how-does-chatgpt-work/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How ChatGPT Generates Text
 
 ![Artificial intelligence and puny human are shaking hands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-power-of-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you ask ChatGPT to generate text, it tries to mimic the human writing process. Firstly, the model behind ChatGPT—Generative Pre-trained Transformer (GPT)—has been trained on a large corpus of human text. Everything from emails, health articles, tech articles, high school essays, and just about any text you can find online has been fed to the model during training. So ChatGPT understands how each of these types of texts should be written.
 
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
  But there's a catch. Unlike how humans write, ChatGPT does not really understand what it is writing in a way that a human would. Instead, the chatbot tries to predict what would be the most plausible next word in a sentence until it completes the write-up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How ChatGPT Writes by Prediction
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
  AI chatbots like ChatGPT are designed to mimic natural human language as much as possible. So while AI text may have discernable patterns, those patterns are not so obvious even to a powerful tool like ChatGPT. This is why ChatGPT can not spot its own writing, as well as [why AI-text detector tools do not work](https://www.makeuseof.com/ai-content-detectors-dont-work/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Recognize Its Own Writing In the Future?
@@ -109,19 +109,20 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-windows-11-visualizer-for-rapid-images/"><u>[Updated] 2024 Approved Top Windows 11 Visualizer for Rapid Images</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-gaming-revolution-top-5-android-solutions-for-playstation-2-titles/"><u>[Updated] Gaming Revolution Top 5 Android Solutions for PlayStation 2 Titles</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list-for-2024/"><u>[Updated] Through a Photographer's Eye Our Best 10 Lenses List for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dell-sm-bus-controller-software-enhancement-tips-and-procedures/"><u>Dell SM Bus Controller Software Enhancement Tips and Procedures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dont-miss-out-get-200-off-a-new-macbook-pro-featuring-intel-core-i7-12567u-chip-this-presidents-day-shop-smart-with-zdnet/"><u>Don't Miss Out: Get $200 Off a New MacBook Pro Featuring Intel Core I7-12567U Chip This Presidents' Day - Shop Smart with ZDNET!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-10-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-your-path-to-youtube-stardom-six-simple-steps-for-greater-visibility/"><u>In 2024, Your Path to YouTube Stardom Six Simple Steps for Greater Visibility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inquiries-beyond-the-reach-of-gpt/"><u>Inquiries Beyond the Reach of GPT</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastery-of-image-warping-made-simple-for-2024/"><u>Mastery of Image Warping Made Simple for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-apple-for-authentic-chatai-services/"><u>Navigating Apple for Authentic ChatAI Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-auto-gpt-snags-solutions-for-top-6-hurdles/"><u>Overcoming Auto-GPT Snags: Solutions for Top 6 Hurdles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pixel-vs-powerplay-choosing-the-top-smartwatch-between-the-google-pixel-and-apple-watch-series-9/"><u>Pixel Vs. PowerPlay: Choosing the Top Smartwatch Between the Google Pixel and Apple Watch Series 9</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-7-cost-free-internet-fax-providers/"><u>Top 7 Cost-Free Internet Fax Providers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/veiled-preservation-of-private-gpt-interactions/"><u>Veiled Preservation of Private GPT Interactions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-device-guide-for-google-meet-access/"><u>[Updated] 2024 Approved Device Guide for Google Meet Access</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-boosting-daily-use-tips-to-stay-active-on-facebook-for-2024/"><u>[Updated] Boosting Daily Use Tips to Stay Active on Facebook for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-13-mini-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 13 mini</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fraudulent-chatgpt-adapter-captures-fb-passwords/"><u>Fraudulent ChatGPT Adapter: Captures FB Passwords</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-exceptional-writer-productivity/"><u>Harnessing ChatGPT for Exceptional Writer Productivity</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/mastering-lip-sync-explore-top-apps-for-dynamic-videos/"><u>Mastering Lip Sync Explore Top Apps for Dynamic Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plotting-paths-with-the-help-of-chatgpt-for-storytellers/"><u>Plotting Paths with the Help of ChatGPT for Storytellers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-patient-engagement-through-chatgpt-innovation/"><u>Redefining Patient Engagement Through ChatGPT Innovation</u></a></li>
+<li><a href="https://win-special.techidaily.com/secure-your-access-to-future-windows-11-enhancements-understanding-the-price-tag-analysis-by-zdnet/"><u>Secure Your Access to Future Windows 11 Enhancements: Understanding the Price Tag - Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-business-strategies-with-these-five-pioneering-ai-applications/"><u>Smart Business Strategies with These Five Pioneering AI Applications</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782553-9781591432500-soul-breathing/"><u>Soul Breathing | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-into-new-realities-with-apples-spatial-videos-now-streamable-on-your-oculus-meta-quest-3-tips-and-tricks-virtualtech-today/"><u>Step Into New Realities with Apple’s Spatial Videos, Now Streamable on Your Oculus Meta Quest 3 - Tips & Tricks | VirtualTech Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dichotomy-of-digital-companions-in-therapy-and-care/"><u>The Dichotomy of Digital Companions in Therapy and Care</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-reno-8t-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Reno 8T Device</u></a></li>
 </ul></div>
 

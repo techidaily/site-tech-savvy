@@ -1,7 +1,7 @@
 ---
 title: "Super Bowl Season Showdown: How Apple’s Innovative Ad Tops Football Broadcast Commercials Exclusive Report"
-date: 2024-11-25T16:38:32.767Z
-updated: 2024-11-27T16:43:04.905Z
+date: 2024-12-03T21:26:25.141Z
+updated: 2024-12-06T22:44:17.506Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
@@ -39,6 +39,10 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -57,6 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
@@ -95,7 +103,7 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -113,7 +121,7 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
@@ -124,10 +132,6 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Tweak the Control Center
 
 Max Buondonno/ZDNET
@@ -135,10 +139,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,20 +180,19 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advanced-dialogue-geminis-challenge-to-plus-chatgpt/"><u>Advanced Dialogue: Gemini's Challenge to Plus-ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/airpods-revamp-released-by-apple-explore-the-4-premier-upgrades-now/"><u>AirPods Revamp Released by Apple: Explore the 4 Premier Upgrades Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/broaden-your-horizons-in-entertainment-tcls-expanded-selection-featuring-19-new-smart-tv-models/"><u>Broaden Your Horizons in Entertainment - TCL's Expanded Selection Featuring 19 New Smart TV Models</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/discover-the-leading-10-free-flv-conversion-apps-your-complete-guide-to-effortless-file-transformation/"><u>Discover the Leading 10 Free FLV Conversion Apps: Your Complete Guide to Effortless File Transformation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-cybersecurity-implications-for-chatgpt/"><u>Exploring Cybersecurity Implications for ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/genuine-chatgpt-strategies-vs-deceptions/"><u>Genuine ChatGPT Strategies vs Deceptions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lg-unveils-cost-efficient-mini-led-tv-surpassing-samsung-galaxy-g2-oled-labor-day-exclusive-deal-on-zdnet/"><u>LG Unveils Cost-Efficient Mini LED TV Surpassing Samsung Galaxy G2 OLED - Labor Day Exclusive Deal on ZDNet</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/next-gen-cross-format-data-retrieval-solution-state-of-the-art-software-for-restoring-all-kinds-of-lost-digital-information/"><u>Next-Gen Cross-Format Data Retrieval Solution: State-of-the-Art Software for Restoring All Kinds of Lost Digital Information</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pros-and-cons-of-iphone-16-pro-vs-iphone-14-pro-making-an-informed-choice-for-your-next-smartphone-purchase/"><u>Pros and Cons of iPhone 16 Pro vs iPhone 14 Pro: Making an Informed Choice for Your Next Smartphone Purchase</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tips-to-circumvent-chatgpts-max-characters/"><u>Tips to Circumvent ChatGPT’s Max Characters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-workflows-dive-into-8-customized-ai-models/"><u>Transform Workflows: Dive Into 8 Customized AI Models</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-a78-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo A78 Device</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-tunefabs-cutting-edge-approach-to-live-streaming/"><u>[New] In 2024, Tunefab's Cutting-Edge Approach to Live Streaming</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unveiling-the-secrets-to-audio-visual-cohesion-on-facebook-for-2024/"><u>[New] Unveiling the Secrets to Audio-Visual Cohesion on Facebook for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-streamlining-audio-interpretation-a-comprehensive-guide-for-google/"><u>[Updated] 2024 Approved Streamlining Audio Interpretation A Comprehensive Guide for Google</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-quick-guide-downloading-and-setting-up-vrecord/"><u>[Updated] In 2024, Quick Guide Downloading & Setting Up VRecord</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-illumination-incor-writings-on-visual-canvases-online/"><u>2024 Approved Image Illumination Incor Writings on Visual Canvases Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-common-missteps-with-autoai-tools/"><u>Avoiding Common Missteps with AutoAI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-tablets-for-young-users-in-2nce-expert-picks-and-reviews-on-the-latest-ipads-zdnets-guide/"><u>Best Tablets for Young Users in 2Nce: Expert Picks and Reviews on the Latest iPads (ZDNET's Guide)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-vs-chatgpt-which-ai-chatbot-is-best-for-everyday-tasks/"><u>Claude Vs. ChatGPT: Which AI Chatbot Is Best for Everyday Tasks?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-tecno-spark-20-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Tecno Spark 20 Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/lose-no-more-swift-iphone-data-rescue-without-backup-on-ios-versions-15-14-and-13/"><u>Lose No More - Swift iPhone Data Rescue Without Backup on iOS Versions 15, 14 & 13</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-terminal-settings-in-windows/"><u>Navigating Through Terminal Settings in Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-headphone-face-off-comparing-the-best-in-class-samsung-galaxy-buds-2-pro-google-pixel-buds-pro-vs-apples-airpods-pro-zdnet-insights/"><u>Ultimate Headphone Face-Off: Comparing the Best in Class – Samsung Galaxy Buds 2 Pro, Google Pixel Buds Pro Vs. Apple's AirPods Pro | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-auto-gpt-divergence-from-chatgpt-analysis/"><u>Unmasking Auto-GPT: Divergence From ChatGPT Analysis</u></a></li>
 </ul></div>
 

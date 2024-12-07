@@ -1,7 +1,7 @@
 ---
 title: "The Power of Language AI: PaLM 2 and GPT-4 Faceoff"
-date: 2024-11-22T16:33:29.370Z
-updated: 2024-11-27T17:14:27.727Z
+date: 2024-11-30T16:52:16.918Z
+updated: 2024-12-06T20:50:56.931Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PaLM 2 vs. GPT-4: Performance Overview
 
 [PaLM 2 is packed with new and improved capabilities](https://www.makeuseof.com/what-is-google-palm-2/) over its predecessor. One of the unique advantages PaLM 2 has over GPT-4 is that it's available in smaller sizes specific to certain applications that do not have as much onboard processing power.
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
  Another obvious performance advantage that PaLM 2 carries over GPT-4 is its availability in different sizes. This means that different versions of the model, Gecko, for instance, can run on mobile devices, even without an internet connection, and provide onboard AI capabilities—something we're yet to see from GPT-4\. This kind of on-device processing gives PaLM 2 an edge over GPT-4 when it comes to accessibility and deployment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Differences in GPT-4 and PaLM 2 Training Data
@@ -64,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 
 ![the ChatGPT logo over a photograph of an essay written on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-chatgpt-logo-over-a-photograph-of-an-essay-written-on-a-laptop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When GPT-4 is asked a question, it can produce a wide variety of responses, not all of which might be relevant to your query. To align it with the user's intent, OpenAI fine-tuned the model's behavior using reinforcement learning with human feedback.
 
  While we may not know the exact training data either of these models were trained on, we know that the training intent was very different. We'll have to wait and see how this difference in training intent differentiates between the two models in a real-world deployment.
@@ -71,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
  That said, the sheer volume of training data used for GPT-4 means that it has an advantage when it comes to understanding the nuances of language and should theoretically generate higher-quality outputs. However, this also means that OpenAI needs to put stronger restrictions in place to keep the model from going haywire, something that Google can avoid, considering it left potentially toxic sources out of the training data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## PaLM 2 and GPT-4 Chatbots and Services
@@ -81,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
  That's not to say you can't access GPT-4 for free, either. Microsoft's Bing AI Chat uses GPT-4 and is completely free, open to all, and available right next to Bing Search, Google's biggest rival in the space.
 
 ![Setting an emoji wallpaper on Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/emoji-wallpapers-android.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Google I/O 2023 was filled with announcements about how PaLM 2 and generative AI integration will improve the Google Workspace experience with AI features coming to Google Docs, Sheets, Slides, Gmail, and just about every service the search giant offers. In addition, Google has confirmed that PaLM 2 has already been integrated into over 25 Google products, including Android and YouTube.
 
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 
  You also get the option of double-checking Bard's responses with Google searches. However, on the performance front, the model still takes longer to generate responses as compared to the GPT-4 powered ChatGPT or Bing Chat.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can PaLM 2 Take on GPT-4?
 
  PaLM 2 is still very new, so the answer to whether or not it can take on GPT-4 remains to be answered. However, with everything that Google is promising and the aggressive manner it has decided to use to propagate it, it does look like PaLM 2 can give GPT-4 a run for its money. With Google's ongoing development of a multimodal AI model called Gemini also in the works, it's about time for OpenAI to get on its toes.
@@ -111,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
  However, GPT-4 is still quite a capable model and, as mentioned before, beats PaLM 2 in quite a few comparisons. That said, PaLM 2's multiple smaller models give it an irrefutable edge. Gecko itself is so lightweight that it can work on mobile devices, even when offline. This means that PaLM 2 can support an entirely different class of products and devices that might struggle to use GPT-4\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI Race Is Heating Up
@@ -137,24 +137,22 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-biscuit-broadcast-expert-review-of-frosty-film-recorder/"><u>[New] In 2024, Biscuit Broadcast Expert Review of Frosty Film Recorder</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-audio-designers-for-iphone-ringtones/"><u>[Updated] Leading Audio Designers for iPhone Ringtones</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-perfect-your-asmr-recordings-with-these-mic-choices/"><u>[Updated] Perfect Your ASMR Recordings with These Mic Choices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-talk-to-technology-without-spending-money-for-2024/"><u>[Updated] Talk to Technology Without Spending Money for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-weekend-with-apple-vision-pro-unveiling-its-three-key-revelations-zdnet/"><u>A Weekend with Apple Vision Pro - Unveiling Its Three Key Revelations | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-with-sonys-upcoming-xr-marvel-from-ces-2024-zdnets-comprehensive-breakdown/"><u>Behind the Scenes with Sony's Upcoming XR Marvel From CES 2024 | ZDNet's Comprehensive Breakdown</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-high-end-virtual-worlds-for-less-a-closer-look-at-the-budget-friendly-ultraportable-headset-featured-by-zdnet/"><u>Experience High-End Virtual Worlds for Less: A Closer Look at the Budget-Friendly, Ultraportable Headset Featured by ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Samsung Galaxy XCover 7.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-phantom-v-fold-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Phantom V Fold using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-f25-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo F25 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ial-intelligence-insights-from-zdnet/"><u>Ial Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-virtual-reality-gaming-safe-for-youngsters-expert-insights-on-vr-safety-for-kids-and-teens-zdnet/"><u>Is Virtual Reality Gaming Safe for Youngsters? Expert Insights on VR Safety for Kids & Teens - ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/journey-redefined-chatbot-wisdom-in-car-customization-processes/"><u>Journey Redefined: Chatbot Wisdom in Car Customization Processes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-future-of-work-with-vr-insights-on-virtual-handshakes-and-accidental-transitions-a-deep-dive-into-remote-collaboration/"><u>Navigating the Future of Work with VR: Insights on Virtual Handshakes & Accidental Transitions - A Deep Dive Into Remote Collaboration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-guide-to-cut-ties-with-chatgpt/"><u>Quick Guide to Cut Ties with ChatGPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-value-for-money-gaming-displays-a-comprehensive-guide-zdnet/"><u>Top Value-for-Money Gaming Displays : A Comprehensive Guide - ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-ux-with-xr-digital-twins-and-spatial-tech-a-comprehensive-enterprise-handbook-zdnet/"><u>Transforming UX with XR, Digital Twins & Spatial Tech: A Comprehensive Enterprise Handbook | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vr-tech-comparison-apples-vision-pro-vs-meta-quest-understanding-the-differences-in-tracking-space/"><u>VR Tech Comparison: Apple's Vision Pro Vs. Meta Quest - Understanding the Differences in Tracking Space</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-expert-guide-navigating-the-best-augmented-reality-glasses-for-2-generate-5-creative-blog-post-titles-that-revolve-around-the-future-of-blockchain-in4/"><u>ZDNet's Expert Guide: Navigating the Best Augmented Reality Glasses for 2# Generate 5 Creative Blog Post Titles that Revolve Around The Future of Blockchain in Financial Services</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-writing-dialogue-with-impact-in-film-scripts/"><u>[New] 2024 Approved Writing Dialogue with Impact in Film Scripts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-comprehensible-guide-to-swapping-facial-gender-in-snapchat-images-for-2024/"><u>[New] Comprehensible Guide to Swapping Facial Gender in Snapchat Images for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-playbook-cutting-edge-methods-for-remarkable-mobizen-recordings/"><u>[Updated] 2024 Approved Ultimate Playbook Cutting-Edge Methods for Remarkable Mobizen Recordings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-now-available-on-amazon-with-an-unprecedented-200-cut-limited-time-offer/"><u>Apple Vision Pro Now Available on Amazon with an Unprecedented $200 Cut - Limited Time Offer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/artisans-nexus-reports-in-depth-studio-scrutiny-2023-edition/"><u>Artisan's Nexus Reports In-Depth Studio Scrutiny, 2023 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/debunking-gpt-as-a-malware-creation-tool/"><u>Debunking GPT as a Malware Creation Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decouvrez-les-differences-entre-les-formats-video-avi-et-mp4-une-comparaison-complete/"><u>Découvrez Les Différences Entre Les Formats Vidéo AVI Et MP4 : Une Comparaison Complète</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-world-of-claude-3/"><u>Exploring the World of Claude 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guiding-machines-to-mankinds-ethical-path/"><u>Guiding Machines to Mankind's Ethical Path</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-broadcast-preservation-in-the-age-of-web-radio/"><u>In 2024, Broadcast Preservation in the Age of Web Radio</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-elevating-your-tiktok-pics-with-simple-edits/"><u>In 2024, Elevating Your TikTok Pics with Simple Edits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/live-gaming-recording-battle-pick-your-preference-obs-or-shadowplay-for-2024/"><u>Live Gaming Recording Battle Pick Your Preference, OBS or ShadowPlay for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-workout-blueprints-tailored-to-your-needs/"><u>Secure Workout Blueprints Tailored to Your Needs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/sync-your-sounds-and-visuals-seamless-iphone-to-mac-audio-and-video-casting/"><u>Sync Your Sounds & Visuals: Seamless iPhone-to-Mac Audio & Video Casting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-gpt-3-addressing-the-top-four-disruptions/"><u>Unlock GPT-3: Addressing the Top Four Disruptions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-emotional-minds-of-silicon-sentience/"><u>Unlocking Emotional Minds of Silicon Sentience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/validate-wellness-wisdom-proven-techniques-for-chatgpt-insights/"><u>Validate Wellness Wisdom: Proven Techniques for ChatGPT Insights</u></a></li>
 </ul></div>
 

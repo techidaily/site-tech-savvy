@@ -1,7 +1,7 @@
 ---
 title: "Shielding Self: Opt-Out Guide for GPT Users"
-date: 2024-09-13T16:10:28.704Z
-updated: 2024-09-17T16:10:22.682Z
+date: 2024-12-05T21:29:35.329Z
+updated: 2024-12-06T23:15:21.480Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/ac5ea28508f08a71ef3011645ae3c8126537c0f91
 * [What Is ChatGPT's Chat History and Training Feature?](https://aidotcom.pxf.io/nkz4kv)
 * [How to Opt-Out of ChatGPT's Chat History and Training Feature](https://tokenmetrics.sjv.io/jrkzxp)
 * [ChatGPT Data Collection You Can't Opt Out From](https://printrendy.pxf.io/xyboy5)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/ac5ea28508f08a71ef3011645ae3c8126537c0f91
 
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
  There's one downside of opting out of ChatGPT's chat data feature, and that's the loss of your chat history. This doesn't just mean OpenAI can't keep a history of your chats; it also means you cannot view your chat history. Therefore, returning to previous chats becomes impossible, rendering all your previous chat data inaccessible. Note that this doesn't [delete your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) but does make it off-limits until you re-enable the chat history and training feature.
@@ -60,15 +68,16 @@ thumbnail: https://thmb.techidaily.com/ac5ea28508f08a71ef3011645ae3c8126537c0f91
 
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  First, click on your profile name at the bottom-left of the main page and head to **Settings & Beta**.
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In your settings, click on the **Data controls** option. Now, you'll see a setting named **Chat history & training**. This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
@@ -77,16 +86,13 @@ thumbnail: https://thmb.techidaily.com/ac5ea28508f08a71ef3011645ae3c8126537c0f91
 
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
 
@@ -113,5 +119,23 @@ thumbnail: https://thmb.techidaily.com/ac5ea28508f08a71ef3011645ae3c8126537c0f91
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-sketch-like-a-pro-top-10-drawing-apps-for-android-artists/"><u>[Updated] 2024 Approved Sketch Like a Pro Top 10 Drawing Apps for Android Artists</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-step-by-step-including-in-apples-premium-catalog/"><u>[Updated] In 2024, Step-by-Step Including in Apple's Premium Catalog</u></a></li>
+<li><a href="https://extra-information.techidaily.com/android-in-virtual-reality-streamlining-the-viewing-experience-for-2024/"><u>Android in Virtual Reality Streamlining the Viewing Experience for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-unauthorized-user-error-on-windows-11-and-11/"><u>Avoiding Unauthorized User Error on Windows 11 & 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-apple-and-tile-exploring-superior-alternatives-for-your-wallet-airtag-needs/"><u>Beyond Apple and Tile: Exploring Superior Alternatives for Your Wallet AirTag Needs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-libexec32dll-file-missing-issue-a-comprehensive-guide/"><u>Fixing the libexec32.dll File Missing Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-zero-to-hero-effective-livestream-strategies-without-millions-of-viewers-for-2024/"><u>From Zero to Hero Effective Livestream Strategies without Millions of Viewers for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-is-now-free-for-everyone-but-there-are-still-6-reasons-to-keep-using-chatgpt-plus/"><u>GPT-4 Is Now Free for Everyone, but There Are Still 6 Reasons to Keep Using ChatGPT Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-california-drivers-integrate-their-licenses-with-apple-pay-and-google-wallet-the-complete-guide/"><u>How California Drivers Integrate Their Licenses with Apple Pay and Google Wallet - The Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/k2pdfopt-tutorial-mastering-windows-gui-optimization-for-beginners/"><u>K2pdfopt Tutorial: Mastering Windows GUI Optimization for Beginners</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-3-a-guide-to-writing-in-your-voice/"><u>Mastering GPT-3: A Guide to Writing in Your Voice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pixel-power-unleashed-choosing-between-the-google-pixel-section-1-advanced-problem-on-electrostatic-energy-storage/"><u>Pixel Power Unleashed: Choosing Between the Google Pixel # Section 1: Advanced Problem on Electrostatic Energy Storage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-black-screen-dilemma-with-your-asus-webcam-in-windows-11/"><u>Solving the Black Screen Dilemma with Your ASUS Webcam in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/staying-one-step-ahead-how-apple-is-fortifying-imessage-defenses-for-tomorrows-challenges-featured-on-zdnet/"><u>Staying One Step Ahead: How Apple Is Fortifying iMessage Defenses for Tomorrow's Challenges, Featured on ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/top-strategies-for-integrating-facebook-live-into-your-site-for-2024/"><u>Top Strategies for Integrating Facebook Live Into Your Site for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-world-of-grok-ai-through-elons-insights-into-its-function-and-cost/"><u>Unveiling the World of Grok AI Through Elon's Insights Into Its Function and Cost</u></a></li>
+</ul></div>
 

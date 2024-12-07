@@ -1,7 +1,7 @@
 ---
 title: Note-Taking Done Right - GPT's Approach Explained
-date: 2024-09-12T16:25:50.788Z
-updated: 2024-09-17T16:01:47.852Z
+date: 2024-12-05T20:15:00.590Z
+updated: 2024-12-06T17:37:26.981Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 ![ChatGPT Note Taking Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-note-taking-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You must adjust the above prompt to suit your needs. So, if you are preparing notes for a different subject or topic, change the words in square brackets accordingly.
 
 ### Step 2\. Ask ChatGPT to Prepare the Notes
@@ -73,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
  Based on your prompt, ChatGPT will construct a detailed set of notes. The best part is that ChatGPT can generate notes far faster than a human, saving you time.
 
 ![ChatGPT Output Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-output-notes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For this guide, we're using the free version of ChatGPT. If you have the Plus subscription, you might find the WebPilot or Metaphor Search plugins to be useful.
 
@@ -87,10 +95,7 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 ![Re-Prompting In ChatGPT Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/re-prompting-in-chatgpt-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Prompting is indeed a skill, and if you want to master it, read our [prompt crafting guide for beginners](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) once. Once you master prompting, you can quickly improve your notes. For example, you can prompt ChatGPT to include bucket brigades, more examples, and context-based questions in your notes.
@@ -105,37 +110,29 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
  Now, if you're excited about formatting your draft notes, there are plenty of ways. For example, you can color grade the main points, use font styling, and add images for better context. We already have a guide on some [free AI image generation tools](https://www.makeuseof.com/ai-text-to-art-generators/) and [websites for copyright-free images](https://www.makeuseof.com/tag/top-5-websites-for-free-stock-photographs/) to give your notes an eye-catchy look.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Can You Improve Your Notes Using ChatGPT?
 
  So you have the notes ready, but now what? Do you want to improve them and make them easy to remember? Here are two ways by which you can improve your notes when using ChatGPT:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Layered Note-Taking Method
 
 ![Obsidian Notes Using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/obsidian-notes-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Layered note-taking is a great way to organize and structure your notes. With this method, you create different layers or levels of information, starting with the most critical points at the top and adding more detailed information as you go down.
 
  This lets you quickly look through your notes and easily locate the critical information you need. This method is beneficial when you have much information to cover and want to ensure you effectively capture the essential points.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Question and Answer Method
 
@@ -144,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
  The question-and-answer method is another effective way to enrich your notes. This method involves creating questions based on your notes and then using ChatGPT to answer them. This makes your notes more interactive and deepens your understanding of the material.
 
  For this, our prompt already includes a condition. Here's a tip: While using ChatGPT, you can use **CONDITIONS** to emphasize things you don't want ChatGPT to miss.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips on Using ChatGPT for Note-Taking
 
@@ -185,5 +175,22 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-cutting-edge-tips-for-figma-background-removal/"><u>[New] 2024 Approved Cutting-Edge Tips for Figma Background Removal</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-audiovisual-excellence-the-premier-video-formats-for-youtube/"><u>[New] Audiovisual Excellence The Premier Video Formats for YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ace-your-tech-shopping-the-advantageous-discount-strategy-for-apples-elusive-ipad-pro-before-prime-day-strikes/"><u>Ace Your Tech Shopping: The Advantageous Discount Strategy for Apple's Elusive iPad Pro Before Prime Day Strikes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-progression-paves-way-for-evolving-threats/"><u>AI Progression Paves Way for Evolving Threats</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-curtain-elon-and-gpt-revolution/"><u>Behind the Curtain: Elon and GPT Revolution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambiar-musica-opus-a-formato-wma-sin-costo-usando-el-convertidor-en-linea-de-movavi-guia-paso-a-paso/"><u>Cambiar Música OPUS a Formato WMA Sin Costo Usando El Convertidor en Línea De Movavi: Guía Paso a Paso</u></a></li>
+<li><a href="https://win-forum.techidaily.com/discover-the-world-of-online-interaction-through-facebook-twitter-instagram-and-youtube-channels/"><u>Discover the World of Online Interaction Through Facebook, Twitter, Instagram & Youtube Channels</u></a></li>
+<li><a href="https://win-info.techidaily.com/elevate-your-machines-performance-with-these-tips-by-experts-at-yl-software/"><u>Elevate Your Machine's Performance with These Tips by Experts at YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-apple-m2-macbook-air-at-an-unbeatable-price-only-800-on-amazon-before-official-sales-start/"><u>Get Apple M2 MacBook Air at an Unbeatable Price - Only $800 on Amazon Before Official Sales Start!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-the-latest-info-google-news-update/"><u>Get the Latest Info - Google News Update</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-maximizing-musical-impact-on-instagram-posts/"><u>In 2024, Maximizing Musical Impact on Instagram Posts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigate-the-social-media-maze-understanding-insights-for-2024/"><u>Navigate the Social Media Maze Understanding Insights for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-critical-errors-in-chatai-communication-you-must-avoid/"><u>The Critical Errors in ChatAI Communication You Must Avoid</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-forefront-ai-vs-chatgpts-capabilities/"><u>Understanding Forefront AI vs ChatGPT's Capabilities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlocking-flawless-gaming-solutions-for-me-legendary-edition-frame-drops/"><u>Unlocking Flawless Gaming - Solutions for ME Legendary Edition Frame Drops</u></a></li>
+</ul></div>
 

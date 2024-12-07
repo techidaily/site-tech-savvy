@@ -1,7 +1,7 @@
 ---
 title: Workplace Transformation by AI Innovations
-date: 2024-11-21T16:30:54.087Z
-updated: 2024-11-27T16:57:57.577Z
+date: 2024-11-29T21:25:22.893Z
+updated: 2024-12-06T16:25:39.230Z
 tags:
   - chatgpt
   - open-ai
@@ -28,17 +28,9 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. AI Prompt Engineering Will Be a Desired Skill
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-featured.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The rise of generative AI tools has given birth to a new skill: prompt engineering. The idea behind it is simple: since the responses you get from an AI tool are heavily dependent on how well you describe your query, it has become important to [learn how to write good prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/).
 
@@ -60,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
 
 ![Man Working on a Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/man-techie.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We saw how Google is integrating [generative AI in Google Workspace apps](https://www.makeuseof.com/google-workspace-generative-ai/) such as Gmail, Docs, Sheets, Slides, and more. Microsoft is doing the same with its Office 365 suite of productivity apps. Many more companies are implementing the tech on their own products too.
 
  Since these generative AI capabilities in workspace apps are still in testing and haven't been fully rolled out yet, you might dismiss them as a fad. But that would be a huge mistake. Once developed and available to everyone, these AI tools will help skyrocket productivity for white-collar workers around the world.
@@ -67,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
  Work that used to require hours, such as preparing quarterly reports, business presentations, marketing campaigns, newsletters, and a lot more, will be done in a few minutes.
 
  For some, this might be alarming, as they fear they might lose their jobs. And though that is a valid fear, you may find reassurance in knowing the [reasons AI can't replace humans at work](https://www.makeuseof.com/reasons-artificial-intelligence-cant-replace-humans/). What's perhaps more likely is that AI will simply remove the drudgery out of office work and allow more room for planning and creative thought.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Creative Jobs Will Become Much Easier
 
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
  In fact, we have already started seeing AI tools that can produce original music in the unique style of a specific artist, so it could be possible that musicians and songwriters will use this technology in the near future as well.
 
  Generative AI hasn't quite mastered video creation yet, but given the rapid advancement of these tools, we wouldn't be surprised if we start seeing AI-made videos that are watchable (if not great) by the end of 2023\. Once good enough, filmmakers may use the tech for inspiration too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. AI Will Run Fully-Automated Social Media Campaigns
 
@@ -95,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
 ![A clock and a calendar with stationery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Reminders-Notion-Feature-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Given how generative AI will allow many of us to work much faster than before, it's fair to assume that some jobs will see a decline in the number of hours required, leading to shorter workdays.
@@ -103,16 +107,12 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
  Since [human capital will become less necessary](https://www.makeuseof.com/types-of-jobs-risk-ai/) going forward, companies will increasingly embrace automation in white-collar jobs. But since some level of human intervention will still be required, employees in some industries will be asked to work fewer hours.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Blue-Collar Jobs Will Become Far More Lucrative
 
 ![Feature cover of a happy construction worker behind his desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/feature-cover-of-a-happy-construction-worker-behind-his-desk.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Blue-collar jobs such as farmer, plumber, electrician, mechanic, construction worker, and more are likely to become far more lucrative than ever before in history—perhaps even more than some white-collar jobs. Why? Because unlike white-collar work, many blue-collar jobs require manual labor and cannot be easily automated.
 
@@ -143,24 +143,22 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-building-audience-organically-tactics-that-deliver-views-for-2024/"><u>[Updated] Building Audience Organically Tactics That Deliver Views for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-effective-group-meetings-googles-top-solutions-4-for-2024/"><u>[Updated] Effective Group Meetings Google's Top Solutions (#4) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-transcribers-for-youtube-clips-for-2024/"><u>[Updated] Elite Transcribers for YouTube Clips for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-luminous-likes-three-proven-ways-for-insta-highlights-for-2024/"><u>[Updated] Luminous Likes Three Proven Ways for Insta Highlights for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/eling-success-the-essential-elements-for-profitable-video-trailers-for-2024/"><u>Channeling Success The Essential Elements for Profitable Video Trailers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/developing-an-in-context-notifier-for-automatic-software-updates-in-win11/"><u>Developing an In-Context Notifier for Automatic Software Updates in Win11</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/download-free-ultimate-online-flv-and-swf-converter-tool/"><u>Download Free - Ultimate Online Flv & Swf Converter Tool</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gameplay-enhancement-the-art-of-scripting-with-chatgpt/"><u>Gameplay Enhancement: The Art of Scripting with ChatGPT</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/hdmi-legacy-package/"><u>HDMI Legacy Package</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-ai-generated-games-could-impact-the-games-industry/"><u>How AI-Generated Games Could Impact the Games Industry</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/masterful-aid-creation-simplified-the-best-7-cybernetic-tools/"><u>Masterful Aid Creation Simplified: The Best 7 Cybernetic Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ready-to-embrace-a-new-iphone-next-week-check-out-zdnets-top-picks-for-must-have-anker-charging-devices/"><u>Ready to Embrace a New iPhone Next Week? Check Out ZDNet's Top Picks for Must-Have Anker Charging Devices!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speaking-smarter-will-claude-conquer-chatgpts-realm/"><u>Speaking Smarter: Will Claude Conquer ChatGPT's Realm?</u></a></li>
-<li><a href="https://win-online.techidaily.com/top-11-insights-on-effective-email-marketing-with-massmail-solutions/"><u>Top 11 Insights on Effective Email Marketing with Massmail Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-picks-in-tech-the-ultimate-showdown-between-apple-dell-and-other-leading-brands-s-best-computers-insights/"><u>Top Picks in Tech: The Ultimate Showdown Between Apple, Dell & Other Leading Brands 'S Best Computers - Insights</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/1723199745283-troubleshoot-and-fix-windows-ten-bad-pool-caller-issue-once-and-for-all/"><u>Troubleshoot and Fix Windows ˈTen Bad Pool Caller Issue Once & For All!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ubuntu-meets-ai-automating-with-auto-gpt/"><u>Ubuntu Meets AI: Automating with Auto-GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uncover-apples-new-tech-magic-for-iphoneipadmac-with-this-falls-revolutionary-updates-including-artificial-intelligence-expert-analysis-on-zdnet/"><u>Uncover Apple's New Tech Magic for iPhone/iPad/Mac with This Fall’s Revolutionary Updates Including Artificial Intelligence | Expert Analysis on ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-enhanced-iphone-content-tools-in-ios-18-a-revolution-for-iphone-14-users-analysis/"><u>Unveiling Enhanced iPhone Content Tools in iOS 18 - A Revolution for iPhone 14 Users Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-captivating-content-with-a-click-phones-and-youtube-for-2024/"><u>[New] Captivating Content with a Click Phones & YouTube for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ultimate-guide-to-premium-gopro-case-selection/"><u>[Updated] 2024 Approved Ultimate Guide to Premium GoPro Case Selection</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-perfecting-picture-clarity-efficiently-eradicating-backgrounds/"><u>[Updated] Perfecting Picture Clarity Efficiently Eradicating Backgrounds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/20-anker-charger-revolutionizes-portable-power-the-ultimate-solution-featured-on-zdnet/"><u>$20 Anker Charger Revolutionizes Portable Power: The Ultimate Solution Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-selection-of-magsafe-battery-packs-in-depth-analysis-and-ratings-from-industry-authorities/"><u>2024'S Ultimate Selection of MagSafe Battery Packs: In-Depth Analysis and Ratings From Industry Authorities</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-technology-trends-explored-by-experts-at-toms-hardware-hq/"><u>Advanced Technology Trends Explored by Experts at Tom's Hardware HQ</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-rules-for-ais-code/"><u>Crafting Rules for AI's Code</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-ways-to-reboot-your-steam/"><u>Efficient Ways to Reboot Your Steam</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enjoy-apples-cutting-edge-3d-experience-with-meta-quest-3-tutorial-zdnet/"><u>Enjoy Apple's Cutting-Edge 3D Experience with Meta Quest 3 - Tutorial | Zdnet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-to-refreshing-your-macs-software-two-simple-approaches-explored/"><u>Guide to Refreshing Your Mac's Software: Two Simple Approaches Explored</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-20cwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 20Cwith/without a PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/probing-googles-approach-to-credential-protection/"><u>Probing Google's Approach to Credential Protection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-the-missing-dilemma-a-step-by-step-guide-to-restoring-d3dxtoolkitdll/"><u>Resolve the 'Missing' Dilemma: A Step-by-Step Guide to Restoring d3dxtoolkit.dll</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-resolving-the-0x800704cf-network-error-in-windows-systems/"><u>Step-by-Step Instructions: Resolving the 0X800704CF Network Error in Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ipad-air-m2-analysis-why-it-stands-out-as-the-ideal-choice-for-consumers/"><u>Top iPad Air (M2) Analysis - Why It Stands Out as the Ideal Choice for Consumers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-fixing-communication-hurdles-with-plugins/"><u>Unlocking Potential: Fixing Communication Hurdles with Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-path-to-dominance-apples-potential-game-changing-moves-over-openai-microsoft-and-google-at-wwdc-202/"><u>Unveiling the Path to Dominance: Apple's Potential Game-Changing Moves Over OpenAI, Microsoft & Google at WWDC 202#</u></a></li>
 </ul></div>
 

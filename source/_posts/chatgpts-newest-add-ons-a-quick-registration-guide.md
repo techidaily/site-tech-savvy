@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Newest Add-Ons: A Quick Registration Guide"
-date: 2024-11-20T17:06:44.075Z
-updated: 2024-11-27T16:18:59.652Z
+date: 2024-12-05T22:40:46.315Z
+updated: 2024-12-06T20:46:06.925Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Plugins Work?
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 ![Monitor screen showing ChatGPT landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/monitor-screen-showing-chatgpt-landing-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT plugins are software components integrated into [the ChatGPT platform](https://www.makeuseof.com/how-does-chatgpt-work/). They provide ChatGPT with additional information, such as up-to-date news or data from proprietary sources, and enable ChatGPT to perform specific actions on behalf of users.
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can [sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on **Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 4. Click **Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -100,18 +100,18 @@ thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-youtubes-commercial-free-chrome-firefox-android-and-iphone-tips/"><u>[New] In 2024, YouTube's Commercial Free Chrome, Firefox, Android & iPhone Tips</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-building-blocks-for-movie-making-youtubes-framework-and-more/"><u>[Updated] Building Blocks for Movie Making YouTube's Framework & More</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5-reasons-why-chatgpt-became-the-fastest-growing-app-of-all-time/"><u>5 Reasons Why ChatGPT Became the Fastest Growing App of All Time</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-needs-to-adopt-these-3-tactics-to-save-to-rescue-the-vision-pro-according-to-zdnet/"><u>Apple Needs to Adopt These 3 Tactics to Save To Rescue the Vision Pro, According to ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-how-qualcomm-samsung-and-google-are-shaping-the-future-of-augmented-experiences-through-innovative-smart-glasses-techinsights-by-zdnet/"><u>Behind the Scenes: How Qualcomm, Samsung, and Google Are Shaping the Future of Augmented Experiences Through Innovative Smart Glasses | TechInsights by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-future-of-navigation-how-geospatial-ar-enhances-google-maps-for-revolutionary-city-viewing-zdnet/"><u>Discover the Future of Navigation: How Geospatial AR Enhances Google Maps for Revolutionary City Viewing | ZDNET</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/overcoming-video-blank-screen-the-ultimate-chromesafari-guide/"><u>Overcoming Video Blank Screen The Ultimate Chrome/Safari Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-issues-when-elite-gaming-or-productivity-programs-make-your-computer-unresponsive/"><u>Resolving Issues When Elite Gaming or Productivity Programs Make Your Computer Unresponsive</u></a></li>
-<li><a href="https://blog-min.techidaily.com/revolutionizing-coding-assistance-the-power-of-predictive-text-in-microsofts-latest-auto-completion-feature/"><u>Revolutionizing Coding Assistance: The Power of Predictive Text in Microsoft's Latest Auto-Completion Feature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-spatial-computing-functionality-and-implementation-insights/"><u>Understanding Spatial Computing: Functionality & Implementation Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-apple-vision-pro-mastering-the-latest-spatial-personalization-tools/"><u>Unveiling Apple Vision Pro: Mastering the Latest Spatial Personalization Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/weekly-tech-roundup-ai-breakthroughs-advanced-chatbot-systems-and-next-gen-ar-taking-center-stage-insights-by-zdnet/"><u>Weekly Tech Roundup: AI Breakthroughs, Advanced Chatbot Systems & Next-Gen AR Taking Center Stage | Insights by ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/winxdvd-pro-professionelle-dvd-konvertierung-und-verbesserung-ideal-fur-windows-und-iphone/"><u>WinXDVD Pro Professionelle DVD-Konvertierung Und -Verbesserung: Ideal Für Windows Und iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-iconic-nintendo-switch-fighting-game-series-max-156/"><u>[New] 2024 Approved Iconic Nintendo Switch Fighting Game Series (Max 156)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-audiovisual-elements-in-eye-catching-fb-advertising/"><u>[New] In 2024, Audiovisual Elements in Eye-Catching FB Advertising</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-screen-capture-connoisseurs-your-guide-to-preserving-twitvid-media/"><u>[Updated] Screen Capture Connoisseurs Your Guide to Preserving TwitVid Media</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-apples-new-titans-is-the-leap-from-iphone-14-to-iphone-16-pro-justified-techradar/"><u>Comparing Apple's New Titans: Is the Leap From iPhone 14 to iPhone 16 Pro Justified? | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-text-input-functionality-implementing-bing-ai-chat-for-android-users/"><u>Elevate Text Input Functionality: Implementing Bing AI Chat for Android Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guiding-users-through-dark-monitor-mishaps/"><u>Guiding Users Through Dark Monitor Mishaps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-vpns-influence-gpt-point-to-point-engagement/"><u>How VPNs Influence GPT' Point-to-Point Engagement?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-gaming-power-up-perfecting-your-switch-pro-on-steam/"><u>In 2024, Gaming Power-Up Perfecting Your Switch Pro on Steam</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-shadows-a-step-by-step-for-anonymous-instagram-live-viewing/"><u>In 2024, Navigating the Shadows A Step-by-Step for Anonymous Instagram Live Viewing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/linkedin-prowess-leveraging-chatgpt-for-a-competitive-edge-in-employment-searches/"><u>LinkedIn Prowess: Leveraging ChatGPT for a Competitive Edge in Employment Searches</u></a></li>
+<li><a href="https://article-files.techidaily.com/premier-sounds-selections-for-video-creation-for-2024/"><u>Premier Sounds Selections for Video Creation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snapchat-my-ai-the-6-driving-forces-behind-its-success/"><u>Snapchat My AI: The 6 Driving Forces Behind Its Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/worried-about-your-data-with-chatgpt-discover-the-easy-opt-out-process/"><u>Worried About Your Data with ChatGPT? Discover the Easy Opt-Out Process</u></a></li>
 </ul></div>
 

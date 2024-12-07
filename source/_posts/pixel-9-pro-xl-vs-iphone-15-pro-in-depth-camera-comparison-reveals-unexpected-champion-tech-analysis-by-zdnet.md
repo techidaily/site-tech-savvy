@@ -1,7 +1,7 @@
 ---
 title: "Pixel 9 Pro XL vs iPhone 15 Pro: In-Depth Camera Comparison Reveals Unexpected Champion | Tech Analysis by ZDNet"
-date: 2024-11-25T17:15:33.397Z
-updated: 2024-11-27T16:14:43.923Z
+date: 2024-11-30T21:32:52.753Z
+updated: 2024-12-06T23:44:20.300Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ The Google Pixel 9 Pro and 9 Pro XL come equipped with a 50MP primary camera, a 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel gets skin tones right
@@ -81,7 +81,7 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -111,7 +111,7 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -125,7 +125,7 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -170,24 +170,18 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-everything-you-need-to-know-about-3d-lut-creator/"><u>[Updated] In 2024, Everything You Need to Know About 3D LUT Creator</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-optimal-method-integrating-links-into-tiktok-bios-for-2024/"><u>[Updated] Optimal Method Integrating Links Into TikTok Bios for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-your-personalized-blueprint-to-livestreaming-on-tiktok-via-desktop-for-2024/"><u>[Updated] Your Personalized Blueprint to Livestreaming on TikTok via Desktop for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-gadgetry-explained-by-tech-guru-tom/"><u>Advanced Gadgetry Explained by Tech Guru Tom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-alternative-to-apples-xr-vision-therapy-beats-high-end-models-in-effectiveness-zdnet/"><u>Affordable Alternative to Apple's XR Vision Therapy Beats High-End Models in Effectiveness | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-for-bots-github-copilot-vs-chatgpt-in-programming/"><u>Best for Bots? GitHub Copilot Vs. ChatGPT in Programming</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/bypass-samsungs-vr-camera-here-are-your-top-alternatives/"><u>Bypass Samsung’s VR Camera - Here Are Your Top Alternatives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-bings-ai-chatbot-10-key-differences/"><u>ChatGPT Vs. Bing's AI Chatbot: 10 Key Differences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-gpt-4-for-all-plus-still-provides-an-exclusive-set-of-6-premium-features/"><u>Free GPT-4 for All! Plus Still Provides an Exclusive Set of 6 Premium Features</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-timeless-moments-iphones-prolonged-shots-guide/"><u>In 2024, Capturing Timeless Moments IPhone’s Prolonged Shots Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-13-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 13</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/jumpstart-your-experience-with-gpts-web-betas/"><u>Jumpstart Your Experience with GPT's Web Betas</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/painting-in-a-digital-age-chatgpt-and-ai-art-collaboration/"><u>Painting in a Digital Age: ChatGPT & AI Art Collaboration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/plagiarism-detection-chatgpt-under-the-microscope/"><u>Plagiarism Detection: ChatGPT Under the Microscope</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-comprehensive-roadmap-to-viewing-all-star-trek-movies-in-their-intended-order-for-the-ultimate-sci-fi-adventure/"><u>The Comprehensive Roadmap to Viewing All Star Trek Movies in Their Intended Order for the Ultimate Sci-Fi Adventure</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-social-implications-of-censorship-in-automated-dialogue-systems/"><u>The Social Implications of Censorship in Automated Dialogue Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-conversations-into-content-choices/"><u>Transforming Conversations Into Content Choices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zippy-zoomers-prime-fastest-titles-for-touch-screens-and-tabs/"><u>Zippy Zoomers Prime Fastest Titles for Touch Screens & Tabs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-profitable-practices-for-creating-youtube-trailers/"><u>[Updated] 2024 Approved Unveiling Profitable Practices for Creating YouTube Trailers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-realme-12-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Realme 12 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-guide-for-ai-tools-in-the-workforce-is-bing-chat-suitable/"><u>Comparative Guide for AI Tools in the Workforce: Is Bing Chat Suitable?</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/complete-guide-backing-up-and-restoring-your-onenote-notebooks-on-windows-10/"><u>Complete Guide: Backing Up & Restoring Your OneNote Notebooks on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/costly-secrets-behind-apples-latest-ai-enhancements-excluding-legacy-iphones-uncovered/"><u>Costly Secrets Behind Apple’s Latest AI Enhancements Excluding Legacy iPhones – Uncovered</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cpu-usage-fix-for-antimalware-service-executable-on-windows-tips-and-tricks-for-windows-1110-users/"><u>CPU Usage Fix for 'Antimalware Service Executable' On Windows - Tips and Tricks for Windows 11/10 Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-asus-rt-ac68u-a-perfect-blend-of-speed-and-security-in-modern-5g-wi-fi-technology/"><u>Evaluating the Asus RT-AC68U: A Perfect Blend of Speed and Security in Modern 5G Wi-Fi Technology</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-windows-11-wont-run-problems-expert-strategies-and-solutions/"><u>Fixing 'Windows 11 Wont Run' Problems: Expert Strategies and Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improving-outcomes-with-chatgpt-a-guide-to-crafting-effective-user-personas/"><u>Improving Outcomes with ChatGPT: A Guide to Crafting Effective User Personas</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/stop-chrome-from-skipping-playback-of-facebook-videos-for-2024/"><u>Stop Chrome From Skipping Playback of Facebook Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-generation-airpods-from-apple-arrive-with-find-my-functionality-and-improved-charging-zdnet/"><u>The Next Generation AirPods From Apple Arrive with Find My Functionality and Improved Charging | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-4-iphone-16-innovations-enhancing-your-tech-experience-with-the-latest-apple-standard-insights-from-zdnet/"><u>Top 4 iPhone 16 Innovations: Enhancing Your Tech Experience with the Latest Apple Standard - Insights From ZDNet</u></a></li>
 </ul></div>
 

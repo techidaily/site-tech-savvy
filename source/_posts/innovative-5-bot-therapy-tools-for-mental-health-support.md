@@ -1,7 +1,7 @@
 ---
 title: Innovative 5 Bot Therapy Tools for Mental Health Support
-date: 2024-11-24T16:09:03.681Z
-updated: 2024-11-27T16:57:03.222Z
+date: 2024-12-02T18:21:26.229Z
+updated: 2024-12-06T18:48:25.552Z
 tags:
   - chatgpt
   - open-ai
@@ -28,16 +28,12 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Thought Coach
 
 ![Thought Coach uses ChatGPT AI to identify cognitive distortions in your statements and emotions, to overcome your irrationality](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-thought-coach.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Cognitive distortions are among the most common psychological issues that many of us have to tackle regularly. These are irrational, exaggerated, or unhelpful thought patterns that cloud our view of situations. But AI is surprisingly good at identifying these cognitive distortions, as we have seen while exploring [how to overcome stress with ChatGPT](https://www.makeuseof.com/overcome-stress-with-chatgpt/).
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
  After processing the data, Thought Coach will show you an analysis of the cognitive distortions it has observed in your statements. It highlights sentences in your initial input and gives examples of what was reality and what you took away from it. It's simple and effective when you want to search the internet for advice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. SommerAI
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 ![SommerAI is trained on CBT and SFBT models of psychological treatment to provide mental health through a chat bot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-sommer-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sommer is a ChatGPT-based app that uses two evidence-backed and methodical types of mental health treatment, CBT and SFBT. [Cognitive behavioral therapy (CBT)](https://www.makeuseof.com/cbt-apps-improve-mental-health/) focuses on identifying and overcoming harmful thought patterns by analyzing past events. Solution-focused Brief Therapy (SFBT) is a short-term, goal-oriented therapeutic process where instead of identifying causes for the current problem, the objective is to find solutions in actionable and practical ways. Sommer uses NASA's psychological research on these two methods to create a trained ChatGPT-like therapist.
@@ -78,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 
 ![JungGPT is an empathetic therapist chatbot that feels like you're talking to a friend](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/best-online-ai-chatgpt-chat-bot-therapists-mental-health-junggpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of all the therapist chatbots we tested for this article, JungGPT felt the most natural. It uses casual language and reframes what you've written while offering empathy and asking a question that could take you to the next step in resolving the situation. The whole process makes it feel like you're talking to a friend.
 
  JungGPT has been trained on several texts and a language model that facilitates emotional understanding. The makers at Ventura UX are quick to point this out. "While JungGPT does have a 'form' of empathy, it does not feel empathy itself, but understands it based on its training to do so and through analyzing text in different context."
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
  This way, you can revisit Lotus and quickly go through the main parts of the previous conversation. It also serves as a quick reminder of your goals, and Lotus will use those in any follow-up conversations you have.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Helps But Isn't a Replacement for Therapy
@@ -121,20 +121,18 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-historys-high-fliers-the-most-upvoted-threads-on-reddit-for-2024/"><u>[New] History’s High-Fliers The Most Upvoted Threads on Reddit for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-to-record-google-meet-on-iphone-and-android-for-2024/"><u>[New] How to Record Google Meet on iPhone and Android for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-lensblend-elite-cohesive-image-composer/"><u>[Updated] LensBlend Elite Cohesive Image Composer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-playspectate-screen-recorder/"><u>[Updated] PlaySpectate Screen Recorder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-delays-launch-of-anticipated-vision-pro-headset-sources-confirm-to-zdnet/"><u>Apple Delays Launch of Anticipated Vision Pro Headset, Sources Confirm to ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-xcover-7-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy XCover 7?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-benefits-of-vision-pros-latest-travel-functionality-insider-preview-and-tips-zdnet/"><u>Discover the Benefits of Vision Pro's Latest Travel Functionality – Insider Preview & Tips | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-user-journeys-through-extended-reality-and-spatial-computing-at-work-a-strategic-guide-by-zdnet/"><u>Enhancing User Journeys Through Extended Reality and Spatial Computing at Work - A Strategic Guide by ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enterprise-transformation-through-xr-and-spatial-computing-a-comprehensive-guide-to-enhanced-user-experiences-expert-analysis-zdnet/"><u>Enterprise Transformation Through XR and Spatial Computing: A Comprehensive Guide to Enhanced User Experiences | Expert Analysis | ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-efficiency-using-multi-screen-virtual-reality-on-deal-alert-get-20-off-exclusive-xr-headsets-for-amazon-prime-members/"><u>Maximize Efficiency Using Multi-Screen Virtual Reality on Deal Alert! Get 20% Off Exclusive XR Headsets for Amazon Prime Members</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/overcoming-obstacles-in-implementing-digital-twins-a-guide-for-enterprises-techwise/"><u>Overcoming Obstacles in Implementing Digital Twins: A Guide for Enterprises | TechWise</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-magic-5-lite-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Magic 5 Lite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/vr-headset-revolution-samsungs-new-strategy-with-vision-pro-led-lights-for-a-q4-2024-launch-zdnet-report/"><u>VR Headset Revolution: Samsung's New Strategy With Vision Pro LED Lights for a Q4 2024 Launch | ZDNET Report</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/s-richest-social-media-influencer-for-2024/"><u>World's Richest Social Media Influencer for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-fostering-resilience-in-the-face-of-cyber-haters/"><u>[Updated] 2024 Approved Fostering Resilience in the Face of Cyber Haters</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-journey-towards-intelligence-dominance-how-apple-must-evolve-siri-to-outshine-rivals-like-openai-and-google-insight/"><u>Apple's Journey Towards Intelligence Dominance: How Apple Must Evolve Siri to Outshine Rivals Like OpenAI and Google Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-scripted-podcast-chronicles/"><u>ChatGPT-Scripted Podcast Chronicles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compact-powerhouse-is-the-new-mac-mini-with-m4-chip-comparable-to-an-apple-tv-in-size-and-performance/"><u>Compact Powerhouse: Is the New Mac Mini with M4 Chip Comparable to an Apple TV in Size and Performance?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-14-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi 14 Pro FRP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-x9b-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor X9b</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>In 2024, Best Hashtags for YouTube To Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 14 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-machine-learning-dialogues-with-mac-and-gpt/"><u>Mastering Machine Learning Dialogues with Mac & GPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revamp-your-visual-experience-by-changing-fonts-in-windows-11/"><u>Revamp Your Visual Experience by Changing Fonts in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-showdown-how-does-the-new-m3-macbook-air-stack-up-against-the-m2-model-pcmag/"><u>The Ultimate Showdown: How Does the New M3 MacBook Air Stack Up Against the M2 Model? | PCMag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-veracity-of-virtual-assistants-dispelling-nine-chatbot-claims/"><u>The Veracity of Virtual Assistants: Dispelling Nine Chatbot Claims</u></a></li>
 </ul></div>
 

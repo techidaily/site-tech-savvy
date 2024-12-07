@@ -1,7 +1,7 @@
 ---
 title: "AI Bots Collide: Who Will Outshine, GPT Plus Or Perplexity?"
-date: 2024-09-15T16:14:56.903Z
-updated: 2024-09-17T16:23:08.601Z
+date: 2024-12-02T22:32:29.123Z
+updated: 2024-12-06T18:21:13.607Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
  This **Copilot** mode is powered by GPT-4, but you are limited to five prompts every four hours. ChatGPT Plus has a similar restriction, as you are limited to 25 prompts every three hours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Functionality
 
 ![ChatGPT plugin gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plugins.jpg)
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
  Both of them are useful AI tools for entirely different purposes. Perplexity is a great free tool for conducting research, while ChatGPT can help you summarize that research and make it presentable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Pricing
 
  ChatGPT Plus charges $20/month (which may not sound like a lot to many) for its services. On the other hand, Perplexity is available completely free of cost and seems quite aggressive with its business model. Of course, it may try to monetize the service in the future.
@@ -59,10 +67,7 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
  Then again, [ChatGPT Plus is still well worth the money](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/), especially if you want access to GPT-4 and priority access to new features. There's no clear winner here, as Perplexity is also worth trying out, considering it's free.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Responses
@@ -70,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
  To compare the performance in terms of responses, we conducted a series of tests between the two chatbots. We presented the same questions to both language models for a better analysis.
 
 ![ChatGPT 4 response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-4-response.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The tests revealed that ChatGPT Plus consistently outperformed Perplexity by providing detailed and clear responses. In addition, it demonstrated a superior ability to provide well-reasoned and elaborative answers.
 
@@ -94,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/17263432a4da71588a462e8622eac7cc19ae8cc8f
 
 ![Perplexity AI Chat Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-chat-interface.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Perplexity AI Popular Topics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/perplexity-ai-popular-topics.PNG)
 
 Close
@@ -105,16 +107,7 @@ Close
 ![ChatGPT Models Speed and Stability](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-models-speed-and-stability.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Perplexity AI is noticeably faster than any other chatbot or AI search engine. The GPT-3 version quickly searches the web and curates a response inspired by different sources. This ability to access real-time information makes it faster than ChatGPT.
@@ -122,13 +115,6 @@ Close
  However, the default GPT-3.5 model in ChatGPT Plus isn't slow by any means. [It's faster than the GPT-4 model](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) and much quicker than the legacy GPT-3.5 model in the free version. Either way, neither chatbot will bother you regarding speed unless you're using GPT-4\. The newest LLM is inherently slow right now, regardless of the platform.
 
  Both of these chatbots are also matched in terms of stability. OpenAI gives priority access to Plus subscribers, so you can access the service even during peak usage hours. Perplexity AI has a relatively smaller user base, and stability issues aren't something to worry about.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Comparison With Bing
 
@@ -161,5 +147,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-collabs-for-youtube-channel-expansion/"><u>[New] 2024 Approved Crafting Collabs for YouTube Channel Expansion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-effortless-extraction-of-facebook-hd-vids/"><u>2024 Approved Effortless Extraction of Facebook HD Vids</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-expert-strategies-for-fbx-gameplay-capture/"><u>2024 Approved Expert Strategies for FBX Gameplay Capture</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-driver-installation-and-update-for-windows-11-8-and-7-users/"><u>Easy Driver Installation and Update for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-free-green-screen-apps-for-mobile-creators-for-2024/"><u>New The Ultimate List of Free Green Screen Apps for Mobile Creators for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-oscillating-on-screen-oracles/"><u>Overcoming Oscillating On-Screen Oracles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-play-ai-driven-transformations-in-games/"><u>Pioneering Play: AI-Driven Transformations in Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/professional-review-of-the-apple-studio-27-inch-5k-monitor-is-its-elegance-worth-the-price-tag-analysis/"><u>Professional Review of the Apple Studio 27-Inch 5K Monitor: Is Its Elegance Worth the Price Tag? - Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/review-and-refine-with-chatgpts-help/"><u>Review and Refine with ChatGPT's Help</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-errgfxstate-issue-in-red-dead-redemption-2/"><u>Solving the ERR_GFX_STATE Issue in Red Dead Redemption 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-system-optimizers-of-2022-the-ultimate-guide/"><u>Top-Ranking Mac System Optimizers of 2022: The Ultimate Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-ranking-the-top-text-motion-tracking-solutions/"><u>Updated 2024 Approved Ranking the Top Text Motion Tracking Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-venality-ai-and-love-scams/"><u>Virtual Venality: AI and Love Scams</u></a></li>
+</ul></div>
 

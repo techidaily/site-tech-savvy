@@ -1,7 +1,7 @@
 ---
 title: "Essential Fault Lines: AI Shortcomings in Financial Forecasting"
-date: 2024-09-12T16:24:22.864Z
-updated: 2024-09-17T16:17:42.622Z
+date: 2024-12-01T18:32:42.316Z
+updated: 2024-12-06T17:45:19.159Z
 tags:
   - chatgpt
   - open-ai
@@ -32,9 +32,17 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The huge success of ChatGPT, as well as the release of [similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/), has brought the concern of hallucination into the limelight.
 
@@ -63,16 +71,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Relies Heavily on Historical Data
@@ -87,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
  The crypto market is tied to the traditional market in ways you'd never expect. If something big goes wrong in the traditional financial industry, chances are the ripples will be felt by the crypto industry. After all, people use traditional money to buy crypto, so it's natural for the two markets to interlink.
@@ -100,10 +103,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Revolutionary but Far From Perfect
@@ -125,5 +125,20 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-dive-into-the-world-of-cosmetics-launching-a-beauty-channel/"><u>[New] Dive Into the World of Cosmetics Launching a Beauty Channel</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-a-deep-dive-into-the-world-of-youtubes-minis/"><u>[Updated] A Deep Dive Into the World of Youtube's Minis</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-k11x-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-motorola-g54-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola G54 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/machine-mastery-contrast-gpt-and-bings-ai-divergence/"><u>Machine Mastery Contrast: GPT & Bing's AI Divergence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-metro-exodus-pc-upgrade-overcoming-the-frequent-game-crash-issues/"><u>Mastering Metro Exodus PC Upgrade: Overcoming the Frequent Game Crash Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-through-ais-obscured-pathways-black-box-mechanics/"><u>Navigating Through AI's Obscured Pathways: Black Box Mechanics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-workforce-revolution-top-6-motivators-for-learning-chatgpt/"><u>The Workforce Revolution: Top 6 Motivators for Learning ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-safest-iphone-12-and-12-pro-cases-insights-and-reviews/"><u>Ultimate Guide to the Safest iPhone 12 & 12 Pro Cases : Insights and Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-future-of-mobile-photography-iphone-16s-revolutionary-spatial-video-and-slimmer-design-insights/"><u>Unlock the Future of Mobile Photography: IPhone 16'S Revolutionary Spatial Video & Slimmer Design - Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-expertly-chosen-picks-for-the-most-effective-mac-system-enhancers-in-202-3-optimize-your-experience-with-top-applications/"><u>ZDNet's Expertly Chosen Picks for the Most Effective Mac System Enhancers in 202 3 | Optimize Your Experience with Top Applications</u></a></li>
+</ul></div>
 

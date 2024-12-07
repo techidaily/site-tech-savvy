@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Potential of RTX AI Conversational Support
-date: 2024-09-16T16:07:34.802Z
-updated: 2024-09-17T16:07:12.181Z
+date: 2024-12-02T16:51:25.022Z
+updated: 2024-12-06T16:08:30.329Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -67,25 +71,15 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 * **Step 3:** Open the extracted folder and double-click **setup.exe**. Follow the onscreen instructions and check all the boxes during the custom installation process. After hitting **Next**​​​​​​, the installer will download and install the LLM and all dependencies.  
 ![Installation process of Chat with RTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/installing-wait.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Chat with RTX installation will take some time to finish as it downloads and installs a large amount of data. After the installation process, hit **Close**, and you're done. Now, it's time for you to try out the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Nvidia Chat with RTX
 
  Although you can use Chat with RTX like a regular online AI chatbot, I strongly suggest you check its RAG functionality, which enables you to customize its output based on the files you give access to.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Create RAG Folder
 
@@ -95,13 +89,14 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 
 ![Create data folder for RAG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/mmets.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now your database is ready, you can set up Chat with RTX and start using it to answer your questions and queries.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Set Up Environment
@@ -109,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
  Open Chat with RTX. It should look like the image below.
 
 ![Chat with RTX web interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chat-with-rtx-gui.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Under **Dataset**, make sure that the **Folder Path** option is selected. Now click on the edit icon below (the pen icon) and select the folder containing all the files you want Chat with RTX to read. You can also change the AI model if other options are available (at the time of writing, only Mistral 7B is available).
 
@@ -120,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 
 ![Using Chat with RTX like a regular chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/2-using-chat-with-rtx-as-regular-chatbot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But since Chat with RTX is capable of RAG, you can also use it as a personal AI assistant.
 
 ![Asking Chat with RTX personal questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/asking-personal-questions.jpg)
@@ -128,31 +131,21 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
 
  There are many ways you can use Chat with RTX's RAG to your advantage. For example, you can use it to read through legal papers and give a summary, generate code relevant to the program you're developing, get bulleted highlights about a video you're too busy to watch, and so much more!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 4: Bonus Feature
 
  In addition to your local data folder, you can use Chat with RTX to analyze YouTube videos. To do so, under **Dataset**, change the **Folder Path** to **YouTube URL**.
 
 ![Set data path for YouTube](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/select-youtube-path.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Copy the YouTube URL you want to analyze and paste it below the drop-down menu. Then ask away!
 
 ![Using Chat with RTX to summarize a YouTube video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/5-chat-with-rxt-summarizing-youtube-video.jpg)
 
  Chat with RTX's YouTube video analysis was pretty good and delivered accurate information, so it could be handy for research, quick analysis, and more.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Nvidia's Chat with RTX Any Good?
 
@@ -185,5 +178,21 @@ thumbnail: https://thmb.techidaily.com/6a82b15c3b5908dade20c57e5528354889aa2d43f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers-for-2024/"><u>[New] A Quick Dive Into Video Ratios The Aspect Ratio Essentials for YouTubers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-snapchat-spotlight-feature-for-2024/"><u>[Updated] Navigating Snapchat Spotlight Feature for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advancing-the-future-with-apples-latest-ai-innovations-unveiling-capabilities-of-their-new-models-tech-insights-from-zdnet/"><u>Advancing the Future with Apple's Latest AI Innovations: Unveiling Capabilities of Their New Models - Tech Insights From ZDNet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/bitraser-purchase-the-smart-choice-for-complete-disk-sanitization/"><u>BitRaser Purchase: The Smart Choice for Complete Disk Sanitization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-ios-journey-just-began/"><u>ChatGPT's iOS Journey Just Began</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-traps-avoiding-pitfalls-for-better-interactions/"><u>ChatGPT's Traps: Avoiding Pitfalls for Better Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-to-initializing-your-latest-ipad-tips/"><u>Essential Guide to Initializing Your Latest iPad - Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-picks-the-ultimate-list-of-kid-friendly-tablets-endorsed-by-moms-and-dads-azdnet-guide/"><u>Expert Picks: The Ultimate List of Kid-Friendly Tablets Endorsed by Moms and Dads - AZdnet Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y200-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y200</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-90-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor 90 to Roku | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-magic-5-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Magic 5 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-gaming-experience-fixing-battlefield-2042s-fps-drops-on-pc/"><u>Optimize Your Gaming Experience: Fixing Battlefield 2042'S FPS Drops on PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-rated-no-cost-blu-ray-movie-software-compatible-with-windows-11-get-your-free-download-now/"><u>Top Rated No Cost Blu-Ray Movie Software Compatible with Windows 11: Get Your FREE Download Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-gadgets-comprehensive-reviews-and-testing/"><u>Top-Rated MagSafe Gadgets : Comprehensive Reviews & Testing</u></a></li>
+</ul></div>
 

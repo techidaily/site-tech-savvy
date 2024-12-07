@@ -1,7 +1,7 @@
 ---
 title: Unveiling Apple's Stealthy Smart Home Radio Inside MacBooks and iPads - Could Yours Be Compromised Too? | ZDNET
-date: 2024-11-25T17:09:30.532Z
-updated: 2024-11-27T16:34:13.118Z
+date: 2024-12-03T21:40:38.001Z
+updated: 2024-12-06T18:04:10.471Z
 tags:
   - apple
 categories:
@@ -27,6 +27,10 @@ To help you make this decision, we've broken down all of the most important deta
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Specifications
 
@@ -57,10 +61,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -88,7 +88,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -96,7 +96,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -108,7 +108,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,21 +157,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-breaking-into-the-digital-realm-the-wirecast-approach-for-youtube-streamers/"><u>[New] 2024 Approved Breaking Into the Digital Realm The WireCast Approach for YouTube Streamers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-virtual-broadcast-battle-pitting-obs-against-twitchs-channel-space/"><u>[Updated] Virtual Broadcast Battle Pitting OBS Against Twitch's Channel Space</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/analyzing-gpts-reference-to-external-data-sets/"><u>Analyzing GPT's Reference to External Data Sets</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/creative-builders-top-easy-homes-in-minecraft/"><u>Creative Builders Top Easy Homes in Minecraft</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discover-your-ideal-drawing-tool-chromebooks-finest-list/"><u>Discover Your Ideal Drawing Tool Chromebook's Finest List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-writing-skills-through-chatgpt-practice/"><u>Enhancing Writing Skills Through ChatGPT Practice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-will-apple-revolutionize-domestic-automation-unveiling-the-potential-of-homebound-bots-techfuture-insights/"><u>How Will Apple Revolutionize Domestic Automation? Unveiling the Potential of Homebound Bots | TechFuture Insights</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-boost-your-meeting-management-syncing-zoom-with-gmail-emails/"><u>In 2024, Boost Your Meeting Management Syncing Zoom with Gmail Emails</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-superior-hd-gameplay-through-top-captures/"><u>In 2024, Superior HD Gameplay Through Top Captures</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-hdcp-problems-identification-and-easy-fixes/"><u>Navigating Through HDCP Problems: Identification & Easy Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-charging-solutions-discover-how-esrs-new-qi2-magsafe-adapters-power-up-iphone-16-devices-quickly-and-coolly-exclusive-on-zdnet/"><u>Revolutionary Charging Solutions: Discover How ESR's New Qi2 MagSafe Adapters Power Up iPhone 16 Devices Quickly and Coolly – Exclusive on ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-your-iphone-15-pro-max-at-a-penny-on-amazon-exclusive-guide-and-blowout-offer-details/"><u>Secure Your iPhone 15 Pro Max at a Penny on Amazon - Exclusive Guide & Blowout Offer Details!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-numbers-with-gpt-3-6-efficient-methodologies/"><u>Streamlining Numbers with GPT-3: 6 Efficient Methodologies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/switching-from-apple-vision-pro-and-meta-quest-3-top-affordable-xr-glasses-alternatives-revealed/"><u>Switching From Apple Vision Pro & Meta Quest 3: Top Affordable XR Glasses Alternatives Revealed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-lameencdll-errors-for-optimal-audio-editing-with-audacity/"><u>Troubleshooting lame_enc.dll Errors for Optimal Audio Editing with Audacity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-auditory-aesthetics-incorporating-youtube-music-into-videos/"><u>[Updated] Auditory Aesthetics Incorporating YouTube Music Into Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-fifth-round-of-top-time-lapse-capture-apps/"><u>[Updated] Fifth Round of Top Time-Lapse Capture Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-focusflexzoom-7-detailed-resizing-at-a-glance/"><u>[Updated] In 2024, FocusFlexZoom 7 Detailed Resizing at a Glance</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls/"><u>[Updated] In 2024, The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-exclusive-youtube-visuals-top-5-tools-reviewed-for-2024/"><u>[Updated] Unlock Exclusive YouTube Visuals – Top 5 Tools Reviewed for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/advanced-automated-copywriting-tools/"><u>Advanced Automated Copywriting Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-analysis-at-zdnet/"><u>Expert Analysis at ZDNet</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/s-guide-to-video-recording-for-2024/"><u>Gamer's Guide to Video Recording for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/guide-complet-resoudre-les-erreurs-de-double-clique-en-windows-11/"><u>Guide Complet : Résoudre Les Erreurs De Double Clique en Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/halt-comparing-digital-helpers-what-sets-them-apart/"><u>Halt Comparing Digital Helpers: What Sets Them Apart</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-creative-potential-a-deep-dive-into-screenflow-for-mac/"><u>In 2024, Unlocking Creative Potential A Deep Dive Into ScreenFlow for Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionize-your-digital-queries-embrace-perplexity-ai/"><u>Revolutionize Your Digital Queries – Embrace Perplexity AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/savory-secrets-for-healthy-cooking-with-ai-help/"><u>Savory Secrets for Healthy Cooking with AI Help</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-transforming-avchd-files-into-sd-format/"><u>Step-by-Step Guide: Transforming AVCHD Files Into SD Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-apple-vision-pro-revitalizing-corporate-worlds-a-look-at-five-thriving-businesses-and-their-journey-to-innovation/"><u>The Apple Vision Pro Revitalizing Corporate Worlds: A Look at Five Thriving Businesses and Their Journey to Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-wallets-of-2024-comprehensive-reviews-by-tech-experts/"><u>Top-Rated MagSafe Wallets of 2024: Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transform-your-insta-game-learn-how-to-craft-content-that-gets-shared-and-loved-by-everyone/"><u>Transform Your Insta Game: Learn How to Craft Content That Gets Shared and Loved by Everyone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-release-a-closer-look-at-the-next-generation-airpods-key-details-and-early-order-options/"><u>Upcoming Release: A Closer Look at the Next Generation AirPods – Key Details & Early Order Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-excellence-surpassing-ai-content-generators/"><u>Writing Excellence: Surpassing AI Content Generators</u></a></li>
 </ul></div>
 

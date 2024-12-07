@@ -1,7 +1,7 @@
 ---
 title: "The Next Decade of Defenses: Top Cybersecurity Forecasts"
-date: 2024-09-11T16:14:36.730Z
-updated: 2024-09-17T16:00:25.702Z
+date: 2024-12-03T00:54:22.867Z
+updated: 2024-12-06T17:21:21.154Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Increased AI-Powered Attacks
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about [cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/). While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
 
@@ -44,9 +52,17 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Increased Digital Supply Chain Attacks
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
@@ -57,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
@@ -76,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
  This is just one of the numerous [types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Improved Smart Home and IoT Security
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
@@ -99,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
  While cloud platforms are undeniably a convenient storage option, one's ability to access data anywhere with the correct credentials creates a problem. If a hacker manages to access someone's account, they can then look at any data stored on said account—work documents, ID photos, photos and videos, financial information, or anything else.
@@ -121,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
  For instance, a scammer may email a potential victim claiming to be a representative for a charity. They provide a link to a donation page so that the recipient can provide some money for the cause. But in reality, the charity is either make-believe, or the sender is impersonating an employee from a well known charitable organization. The scammer may be looking for a one-off payment, but they could also be providing a link to a phishing site designed to steal the victim's payment details. Either way, the recipient ends up losing out.
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Each Year Brings New Cybersecurity Threats
 
@@ -150,5 +149,24 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-avoiding-the-overflow-how-to-edit-your-pile-up-of-tiktok-drafts/"><u>[New] Avoiding the Overflow How to Edit Your Pile-Up of TikTok Drafts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-chatgpt-be-used-as-a-proofreader/"><u>Can ChatGPT Be Used as a Proofreader?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choose-the-ultimate-2024-tablets-authoritative-ratings-and-analysis-from-industry-experts/"><u>Choose the Ultimate 2024 Tablets: Authoritative Ratings & Analysis From Industry Experts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comprehensive-breakdown-obs-video-capture-capabilities-for-2024/"><u>Comprehensive Breakdown OBS Video Capture Capabilities for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-imaginative-realms-with-gpt-3/"><u>Crafting Imaginative Realms with GPT-3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciding-on-a-smartwatch-upgrade-in-depth-comparison-of-samsung-galaxy-watch-ultra-vs-apple-watch-ultra/"><u>Deciding on a Smartwatch Upgrade: In-Depth Comparison of Samsung Galaxy Watch Ultra Vs. Apple Watch Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-conversion-from-drm-protected-pdfs-to-epub-format/"><u>Effortless Conversion From DRM-Protected PDFs to EPUB Format</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptbot-explained-powerful-ai-and-the-webs-dilemma/"><u>GPTBot Explained: Powerful AI & The Web's Dilemma</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-fix-up-operating-system-corrects-gl-error/"><u>GPU Fix-Up: Operating System Corrects GL Error</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-6s-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 6s</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-employment-success/"><u>Leveraging ChatGPT for Employment Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-collaborative-work-in-apple-pages-documents-through-icloud-with-expert-advice/"><u>Mastering Collaborative Work in Apple Pages Documents Through iCloud with Expert Advice</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-performance-how-to-update-drivers-on-acer-predator-helios-300-for-superior-gaming/"><u>Optimize Performance: How To Update Drivers on Acer Predator Helios 300 for Superior Gaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/sectionalviewpoint-investigation/"><u>SectionalViewpoint Investigation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-or-advanced-decide-on-pure-text-or-add-on-gpt-features/"><u>Simple or Advanced: Decide on Pure Text or Add-On GPT Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-air-protectors-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top-Rated iPad Air Protectors : Comprehensive Reviews and Ratings by Tech Experts</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-vivo-y78plus-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Vivo Y78+.</u></a></li>
+</ul></div>
 

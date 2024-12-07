@@ -1,7 +1,7 @@
 ---
 title: "Bringing AI Home: GPT-4's Universal Reach"
-date: 2024-11-23T17:00:45.305Z
-updated: 2024-11-27T16:51:56.718Z
+date: 2024-12-03T18:42:12.791Z
+updated: 2024-12-06T16:31:20.493Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/0601694670761ece64bb04b0e2f4e5442e44a57f3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/0601694670761ece64bb04b0e2f4e5442e44a57f3
 So, what is GPT-4o?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is GPT-4o?
@@ -55,7 +55,7 @@ So, what is GPT-4o?
 ![openai gpt4o peformance chart may 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/openai-gpt4o-peformance-chart-may-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
@@ -63,7 +63,7 @@ So, what is GPT-4o?
  Now, numbers are all very well and good, but what does that actually translate to? Well, again, working from OpenAI's numbers, GPT-4o "matches GPT-4 Turbo performance" for English writing and coding, is significantly faster in "non-English languages," and, most importantly, is faster and cheaper in terms of API use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4o Live Capabilities Are Astounding
@@ -79,7 +79,7 @@ So, what is GPT-4o?
  I was in Morocco recently, and even with Google Translate helping get some meaning into Arabic, the full context of the translation is never completely accurate. GPT-4o's live translation would have been incredibly useful!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Coding and Tutoring
@@ -113,14 +113,18 @@ So, what is GPT-4o?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-elevating-film-previews-with-thoughtful-soundtrack-selection/"><u>[New] Elevating Film Previews with Thoughtful Soundtrack Selection</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-y28-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo Y28 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-karma-demystified-a-comprehensive-look-for-2024/"><u>GoPro Karma Demystified A Comprehensive Look for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-lava-blaze-2-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lava Blaze 2 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win-data.techidaily.com/missing-functions-in-emeditor-pro-version-13-discussion-and-solutions/"><u>Missing Functions in EmEditor Pro Version 13 - Discussion & Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nordvpn-vs-surfshark-in-depth-comparison-and-ultimate-guide-to-choose-the-right-one/"><u>NordVPN Vs. Surfshark: In-Depth Comparison & Ultimate Guide to Choose the Right One</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-your-online-privacy-save-big-with-our-5-year-vpn-plan-at-only-35-discover-the-details/"><u>Secure Your Online Privacy: Save Big with Our 5-Year VPN Plan at Only $35! Discover the Details</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securely-linking-to-the-internet-with-a-vpn-in-windows-tenth-edition-a-comprehensive-guide/"><u>Securely Linking to the Internet with a VPN in Windows Tenth Edition - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-mastering-the-free-protonvpn-browser-plugin-on-chromefirefox-tips-from-zdnet/"><u>Step-by-Step Guide: Mastering the Free ProtonVPN Browser Plugin on Chrome/Firefox - Tips From ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-journey-through-the-digital-landscape-six-engaging-quizzes-for-every-vlogger-admirer-for-2024/"><u>[New] A Journey Through the Digital Landscape Six Engaging Quizzes for Every Vlogger Admirer for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhance-engagement-with-these-essential-freegame-hashtags-for-youtube-for-2024/"><u>[New] Enhance Engagement with These Essential FreeGame Hashtags for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-solving-the-mystery-of-your-own-face-appearing-during-calls-for-2024/"><u>[New] Solving the Mystery of Your Own Face Appearing During Calls for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-visual-description-programmer/"><u>[New] Visual Description Programmer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-quick-step-to-cutting-edge-gif-creation-from-vimeo/"><u>[Updated] In 2024, The Quick-Step to Cutting Edge GIF Creation From Vimeo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-at-your-fingertips-but-plus-continues-to-offer-unmatched-services/"><u>GPT-4 at Your Fingertips; But Plus Continues To Offer Unmatched Services.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-can-revitalize-the-iconic-imac-with-key-strategies-a-deep-dive-into-saving-the-macintosh-legacy/"><u>How Apple Can Revitalize the Iconic iMac with Key Strategies: A Deep Dive Into Saving the Macintosh Legacy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-frequent-disruptions-with-your-computers-speakers-on-windows-windows-11/"><u>How to Fix Frequent Disruptions with Your Computer's Speakers on Windows 지원 (Windows 11)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-v27-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo V27 Pro FRP?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-guide-connecting-an-extra-thunderbolt-display-to-your-apple-m1-powered-mac-mini-tips/"><u>Simple Guide: Connecting an Extra Thunderbolt Display to Your Apple M1-Powered Mac Mini - Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-titans-tangle-determining-the-superior-language-agent/"><u>Tech Titans Tangle: Determining the Superior Language Agent</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-knowledge-five-ways-students-can-leverage-chatgpts-abilities/"><u>Unlocking Knowledge: Five Ways Students Can Leverage ChatGPT's Abilities</u></a></li>
 </ul></div>
 

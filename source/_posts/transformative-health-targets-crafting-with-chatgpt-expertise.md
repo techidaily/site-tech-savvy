@@ -1,7 +1,7 @@
 ---
 title: "Transformative Health Targets: Crafting with ChatGPT Expertise"
-date: 2024-09-15T16:20:25.683Z
-updated: 2024-09-17T16:06:09.415Z
+date: 2024-11-29T21:32:45.044Z
+updated: 2024-12-06T22:32:32.201Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Understanding Your Health Goals
 
@@ -59,14 +63,11 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
 
 ![Screenshot of ChatGPT response to a health question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-17-at-10-24-19-am.jpg)
 
- Remember, it's your journey and your goals. ChatGPT is there to help you brainstorm and customize them to fit your needs. And if you're ever in doubt about the recommendations you receive, be sure you know [how to fact-check health information from ChatGPT](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Remember, it's your journey and your goals. ChatGPT is there to help you brainstorm and customize them to fit your needs. And if you're ever in doubt about the recommendations you receive, be sure you know [how to fact-check health information from ChatGPT](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
 ## Clarifying and Defining Your Health Goals
 
@@ -85,16 +86,7 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
  Facing trouble with dietary changes? Ask ChatGPT, "What difficulties might I encounter when trying to eat healthier, and how can I tackle them?" It might suggest potential pitfalls like cravings, cost of healthy food, or lack of cooking skills, and offer solutions like preparing healthy snacks in advance, budgeting for groceries, or learning simple recipes with minimal ingredients.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting Action Steps With ChatGPT
@@ -104,6 +96,14 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
  For regular exercise, you could ask, "How can I exercise more regularly when I work 9-5 and have no energy left at the end of the day?" You will likely get suggestions like scheduling workout time over the lunch hour or cycling to work.
 
 ![Screenshot of ChatGPT exercise recommendations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-17-at-10-26-09-am.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using ChatGPT to Help You Achieve Your Health Goals
 
@@ -130,5 +130,20 @@ thumbnail: https://thmb.techidaily.com/4914ba55ffacf89f7eecf219812b0360d597ec646
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-unveiling-the-top-10-youtube-makeup-maestros-to-follow/"><u>[Updated] Unveiling the Top 10 YouTube Makeup Maestros to Follow</u></a></li>
+<li><a href="https://games-able.techidaily.com/extending-your-xbox-controllers-energy-lifespan/"><u>Extending Your Xbox Controller's Energy Lifespan</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-deal-with-moisture-in-iphone-charging-connection-proven-remedies-explored/"><u>How to Deal with Moisture in iPhone Charging Connection – Proven Remedies Explored</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-xs-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone XS Max With or Without Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlined-approach-to-add-linktree-in-tiktok-about-section/"><u>In 2024, Streamlined Approach to Add Linktree in TikTok About Section</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-workflow-on-your-ipad-unveiling-the-most-effective-apps-to-amplify-your-daily-performance-zdnet-insights/"><u>Mastering Workflow on Your iPad: Unveiling the Most Effective Apps to Amplify Your Daily Performance | ZDNET Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-playback-glitches-enhancing-halo-infinites-audio-quality/"><u>Overcoming Playback Glitches: Enhancing Halo Infinite's Audio Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-pc-cant-close-windows-11-properly/"><u>Troubleshooting Tips for When Your PC Can't Close Windows 11 Properly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-compilation-of-small-tablet-rankings-professional-insights-and-evaluations/"><u>Ultimate Compilation of Small Tablet Rankings : Professional Insights and Evaluations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-the-best-airtag-wallets-ratings-and-tests-by-professionals/"><u>Ultimate Guide to Choosing the Best AirTag Wallets - Ratings & Tests by Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleash-your-love-for-music-with-these-8-amazing-free-iphone-apps/"><u>Unleash Your Love for Music with These 8 Amazing Free iPhone Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-windows-10-touchpad-responding-to-scroll-gestures/"><u>Why Isn't My Windows 10 Touchpad Responding to Scroll Gestures?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-canon-printer-software-installation-guide/"><u>Windows 11 Canon Printer Software Installation Guide</u></a></li>
+</ul></div>
 

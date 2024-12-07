@@ -1,7 +1,7 @@
 ---
 title: "The New Frontier: Implementing GPT-4 on Current ChatGPT Platforms"
-date: 2024-11-25T17:02:15.388Z
-updated: 2024-11-27T16:05:25.943Z
+date: 2024-12-05T19:43:32.982Z
+updated: 2024-12-06T19:32:18.520Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GPT-4?
 
  GPT-4, short for [Generating Pre-trained Transformer 4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/), is the fourth iteration of the GPT family of large language models developed by OpenAI. It is the successor of the GPT-3 model, which powers the viral AI chatbot ChatGPT. GPT-4, like its predecessor, GPT-3, is designed to generate human-like text, complete tasks such as summarization and language translation, and even generate creative writing such as poetry, lyrics for music, and fiction.
@@ -36,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  Before its public launch, the prospect of GPT-4 generated huge excitement in the AI community due to its touted capabilities and potential applications in various fields. Now, GPT-4 is here, but how can you access it?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Access GPT-4 on ChatGPT
 
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-photo/stuttgart-germany-12292022-mobile-phone-website-2245793859)
 
@@ -51,10 +55,6 @@ Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-pho
  OpenAI put its newest, sleekest GPT-4 model behind a $20 monthly subscription plan. While this is not good news for free ChatGPT users, [it is another reason to upgrade to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/). If you're already on the paid plan, you can switch your account's GPT model from the GPT-3.5 default to GPT-4 on demand, allowing you to switch between both models. This should help you appreciate the power of the GPT-4 iteration.
 
  For the free tier users, to get started with GPT-4, you'll need a ChatGPT Plus subscription. So, how do you upgrade to ChatGPT Plus?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Upgrade to ChatGPT Plus
 
@@ -68,7 +68,7 @@ Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-pho
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
@@ -81,6 +81,10 @@ Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-pho
 
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Performance Improvement
 
  GPT-4 significantly improves over GPT-3.5 in areas like commonsense reasoning, mathematics, creativity, and generating code. For instance, GPT-4 performs remarkably well on simulated bar exams, scoring in the top 10% of test takers, a dramatic improvement over GPT-3.5, which scored in the bottom 10%.
@@ -89,15 +93,15 @@ Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-pho
 
  GPT-4 is a multimodal AI model with a significantly larger context window, able to process both text and image inputs. Its full capabilities were demoed during the official GPT-4 announcement event but have not been pushed to the public, likely due to a shortage of computer chips needed to back the massive amount of compute power required for such features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Usage Cap
 
  Despite the improvements that come with GPT-4, access to the model comes with an inconvenient limitation—a usage cap. Unlike GPT-3.5, with which you can prompt all day long, GPT-4 users are restricted to anywhere from 25 to 200 messages every three hours. We are not sure how OpenAI decides who gets a higher cap, but it seems, at least for now, to be arbitrarily or by the luck of the draw. Once again, a limited supply of GPUs and the need to adequately balance server loads might be behind the mandatory usage cap.
 
  Notwithstanding, GPT-4 is an exciting and powerful model worth the $20 you'll need to pay for a ChatGPT Plus plan. But what if you don't want to upgrade to ChatGPT Plus? Is this the end of the road for free-tier users? Not really. Here's how to use GPT-4 for free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use GPT-4 for Free
 
@@ -106,10 +110,6 @@ Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-pho
  Bing Chat's GPT-4 isn't much different from ChatGPT's version. If anything, Bing's internet connection gives it access to much more up-to-date and relevant data and can produce more timely and relevant information as a result. ChatGPT, on the other hand, is limited by the cut-off date of its knowledge base. So, unless you're using ChatGPT plugins that can access and retrieve live data from the internet, you could say Bing's implementation of the GPT-4 model provides much more current data.
 
  Bing Chat aside, whether GPT-4 will ever be available for ChatGPT free tier users is unclear. GPT-4 is already several months post-release, and there is no indication that OpenAI will make GPT-4 generally available as a free offering. However, since OpenAI is already making the GPT-4 model available to third-party developers, you can use GPT-4 in a limited capacity through third-party apps powered by GPT-4\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GPT-4: Is It Worth the Hype?
 
@@ -136,24 +136,15 @@ Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-pho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevate-your-social-standing-with-1000-followersmth/"><u>[New] 2024 Approved Elevate Your Social Standing with 1,000 Followers/Mth</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-understanding-macos-big-sur-minimum-requirements/"><u>[Updated] 2024 Approved Understanding MacOS Big Sur Minimum Requirements</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/afternoons-examination-alternative-perspectives/"><u>Afternoon's Examination Alternative Perspectives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-efficiency-quotient-with-these-4-advanced-chatgpt-tactics/"><u>Boost Your Efficiency Quotient with These 4 Advanced ChatGPT Tactics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/coding-for-chuckles-by-ai-the-quest-to-incite-guffaws/"><u>Coding for Chuckles by AI: The Quest to Incite Guffaws</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-s23-tactical-edition-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy S23 Tactical Edition FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-your-apple-watchs-longevity-discover-the-top-8-battery-boosting-configurations/"><u>Enhance Your Apple Watch's Longevity - Discover the Top 8 Battery-Boosting Configurations</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic-v2-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-securely-connect-with-a-vpn-on-apple-vision-pro-essential-guide-for-privacy-protection-cyberexperts-blog/"><u>How to Securely Connect with a VPN on Apple Vision Pro: Essential Guide for Privacy Protection | CyberExperts Blog</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p55plus-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P55+ to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>In 2024, The Ultimate Tool for Video Cuts Full Review of VivaCut '24 Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-era-begins-with-chatgpts-significant-upgrades/"><u>New Era Begins with ChatGPT’s Significant Upgrades</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/parents-choice-award-winners-a-guide-to-the-finest-kids-tablets-featured/"><u>Parents' Choice Award Winners: A Guide to the Finest Kids' Tablets Featured</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paving-the-way-for-accurate-ai-replies-implementing-6-proactive-techniques/"><u>Paving the Way for Accurate AI Replies: Implementing 6 Proactive Techniques</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-v30-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme V30</u></a></li>
-<li><a href="https://win11.techidaily.com/siri-or-chatgpt-discover-what-sets-them-apart/"><u>Siri or ChatGPT? Discover What Sets Them Apart</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-7-browser-plugins-enhancing-ai-conversations/"><u>Top 7 Browser Plugins Enhancing AI Conversations</u></a></li>
-<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-the-full-narrative-beyond-chatgpts-summaries/"><u>Unpacking the Full Narrative Beyond ChatGPT's Summaries</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-vidmore-screen-recorder-how-to-use-it/"><u>[New] Vidmore Screen Recorder - How to Use It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-we-sacrificing-quality-for-convenience-in-messaging-apps/"><u>Are We Sacrificing Quality for Convenience in Messaging Apps?</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhance-your-broadcast-quality-using-manycam-the-ultimate-virtual-webcam-solution/"><u>Enhance Your Broadcast Quality Using ManyCam - The Ultimate Virtual Webcam Solution</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-dialogue-formats-top-20-chatgpt-prompts-from-github/"><u>Enhanced Dialogue Formats: Top 20 ChatGPT Prompts From GitHub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-updated-drivers-for-your-toshiba-dynabook-on-windows-computers/"><u>Find and Install Updated Drivers for Your Toshiba Dynabook on Windows Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-smartphone-rankings-shaken-up-as-iphones-capture-top-7-selling-spots-for-the-first-time-insights/"><u>Global Smartphone Rankings Shaken Up as iPhones Capture Top 7 Selling Spots for the First Time | Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-moto-g-5g-2023-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Moto G 5G (2023), is it possible?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-language-access-using-keyboard-shortcuts-for-translation-on-windows/"><u>Quick Language Access: Using Keyboard Shortcuts for Translation on Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/step-by-step-techniques-for-perfect-hdr-photos-in-adobe-lightroom/"><u>Step-by-Step Techniques for Perfect HDR Photos in Adobe Lightroom</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-sets-corporate-chatgpt-apart/"><u>What Sets Corporate ChatGPT Apart?</u></a></li>
 </ul></div>
 

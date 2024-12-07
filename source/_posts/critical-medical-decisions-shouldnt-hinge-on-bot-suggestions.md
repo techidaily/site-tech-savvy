@@ -1,7 +1,7 @@
 ---
 title: Critical Medical Decisions Shouldn't Hinge on Bot Suggestions
-date: 2024-11-24T16:10:37.487Z
-updated: 2024-11-27T17:04:25.689Z
+date: 2024-11-30T17:22:32.597Z
+updated: 2024-12-06T18:03:49.892Z
 tags:
   - chatgpt
   - open-ai
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/a0507e17ed881794538b9389fa94e191219e441e5
  Therefore, it cannot get current news on developments in medical fields. Yes, ChatGPT is unaware of the pig-to-human heart transplant or any other very recent breakthroughs in medical science.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. ChatGPT May Produce Incorrect Information
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/a0507e17ed881794538b9389fa94e191219e441e5
  Because ChatGPT cannot independently research or verify material, it cannot differentiate between fact and fiction. Respected medical journals, including the Journal of the American Medical Association (JAMA), have established strict regulations that only humans can write scientific studies published in the journal. As a result, [you should constantly fact-check ChatGPT's responses](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. ChatGPT Does Not Physically Examine You
@@ -61,16 +61,12 @@ thumbnail: https://thmb.techidaily.com/a0507e17ed881794538b9389fa94e191219e441e5
  ChatGPT cannot perform a complete virtual checkup or even a physical examination; it can only reply to the symptoms you provide as messages. For a patient's safety and care, errors in physical examination—or completely ignoring physical examination—can be harmful. Because ChatGPT didn't physically examine you, it will offer an incorrect diagnosis.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. ChatGPT Can Provide False Information
 
 ![ChatGPT False Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-response.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A recent study by the [University of Maryland School of Medicine](https://www.medschool.umaryland.edu/news/2023/UM-School-of-Medicine-Study-Finds-ChatGPT-Helpful-for-Breast-Cancer-Screening-Advice-With-Certain-Caveats-.html) on ChatGPT's advice for breast cancer screening found the following results:
 
@@ -84,10 +80,14 @@ thumbnail: https://thmb.techidaily.com/a0507e17ed881794538b9389fa94e191219e441e5
 
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Not a Replacement for Your Doctor
@@ -117,19 +117,15 @@ thumbnail: https://thmb.techidaily.com/a0507e17ed881794538b9389fa94e191219e441e5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-increase-viewership-swiftly-5-strategy-unveiled/"><u>[New] 2024 Approved Increase Viewership Swiftly - $5 Strategy Unveiled</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-first-home-frontier-top-6-beginner-friendly-mc-abodes-for-2024/"><u>[New] First Home Frontier Top 6 Beginner-Friendly MC Abodes for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unlock-the-secrets-of-stellar-snaps-and-snapchat-boomers-for-2024/"><u>[Updated] Unlock the Secrets of Stellar Snaps and Snapchat Boomers for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-livestreaming-pre-recorded-content-seamlessly-on-fb/"><u>2024 Approved Livestreaming Pre-Recorded Content Seamlessly on FB</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/acclaimed-20-chatgpt-conversation-patterns-from-github/"><u>Acclaimed 20 ChatGPT Conversation Patterns From GitHub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/clarity-in-ais-copyright-conundrum/"><u>Clarity in AI's Copyright Conundrum</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-the-newest-roccat-epiq-raptor-mouse-driver-today/"><u>Download and Install the Newest Roccat Epiq Raptor Mouse Driver Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/eating-well-made-easier-with-chatgpts-culinary-skills/"><u>Eating Well Made Easier With ChatGPT's Culinary Skills</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-modify-the-geographic-zone-on-your-iphone-device-an-in-depth-guide/"><u>How to Modify the Geographic Zone on Your iPhone Device - An In-Depth Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-selfie-sticks-for-iphone-users-for-2024/"><u>Ideal Selfie Sticks for iPhone Users for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-a-battle-of-wits-bot-versus-bot/"><u>In a Battle of Wits, Bot Versus Bot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-a-copy-of-your-interactions-with-openais-chatbot/"><u>Making a Copy of Your Interactions with OpenAI's Chatbot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-nightshade-to-secure-your-creative-outputs-from-ai-intrusion/"><u>Utilizing Nightshade to Secure Your Creative Outputs From AI Intrusion</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/1728474815432-windows-10/"><u>Windows 10上のシステム全体のバックアップ手順</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-visionary-video-download-engine-capture-and-save-anywhere/"><u>[Updated] Visionary Video Download Engine - Capture & Save Anywhere</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-tp-link-archer-c50-wireless-router-evaluation-balancing-cost-and-capability/"><u>Affordable TP-Link Archer C50 Wireless Router Evaluation: Balancing Cost and Capability</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/bring-your-iphone-back-to-life-even-without-sync-history-discover-how-with-stellar/"><u>Bring Your iPhone Back to Life Even Without Sync History - Discover How with Stellar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-dreamscapes-creating-ai-images-via-chatgpt/"><u>Digital Dreamscapes: Creating AI Images via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-for-the-unprepared-gpts-role-outdoors/"><u>Expert Advice for the Unprepared: GPT's Role Outdoors?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-best-mp4-to-mp3-conversion-software-for-windows-and-mac/"><u>In 2024, The Best MP4 to MP3 Conversion Software for Windows and Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-smartest-podcast-renaming-options-through-ai-technology/"><u>In 2024, The Smartest Podcast Renaming Options Through AI Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ais-role-ethical-content-development-tips/"><u>Navigating AI's Role: Ethical Content Development Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-childrens-tablets-approved-by-parents-insights/"><u>Top-Rated Children’s Tablets Approved by Parents - Insights</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-combine-photography-and-audio-for-a-cohesive-experience/"><u>Updated How to Combine Photography and Audio for a Cohesive Experience</u></a></li>
 </ul></div>
 

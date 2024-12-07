@@ -1,7 +1,7 @@
 ---
 title: "Future-Proof Your Data: The Upcoming 7 Trendscapes"
-date: 2024-11-26T16:58:20.655Z
-updated: 2024-11-27T16:12:30.757Z
+date: 2024-12-06T00:57:37.994Z
+updated: 2024-12-07T00:03:19.783Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about [cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/). While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
@@ -52,19 +52,23 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
  It's the gravity of supply chain's influence that has made it an attractive target for cybercriminals. As the demand for mass production and global shipping increases, so does the impact of hacks on supply chain systems.
 
  According to [Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats), the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
@@ -96,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Further Exploit of Cloud Platforms
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
@@ -110,16 +110,12 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Continued Topical Email Scams
 
 ![laptop surrounded by cybersecurity buzzwords](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.
@@ -127,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
  For instance, a scammer may email a potential victim claiming to be a representative for a charity. They provide a link to a donation page so that the recipient can provide some money for the cause. But in reality, the charity is either make-believe, or the sender is impersonating an employee from a well known charitable organization. The scammer may be looking for a one-off payment, but they could also be providing a link to a phishing site designed to steal the victim's payment details. Either way, the recipient ends up losing out.
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Each Year Brings New Cybersecurity Threats
 
@@ -151,22 +151,22 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/aximizing-sales-crafting-engaging-youtube-channel-trailers-for-2024/"><u>[New] Maximizing Sales Crafting Engaging YouTube Channel Trailers for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-instagram-live-without-a-trace-the-unseen-spectators-playbook/"><u>[Updated] In 2024, Instagram Live without a Trace The Unseen Spectator's Playbook</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-strategies-for-building-and-managing-youtube-collaborative-projects/"><u>[Updated] Strategies for Building & Managing YouTube Collaborative Projects</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-elite-vpn-solutions-in-depth-analysis-and-ratings-from-industry-professionals-zdnet/"><u>2024'S Elite VPN Solutions: In-Depth Analysis and Ratings From Industry Professionals | ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-vpn-showdown-in-depth-review-of-nordvpn-and-surfshark-to-secure-your-digital-life/"><u>Best VPN Showdown: In-Depth Review of NordVPN and SurfShark to Secure Your Digital Life</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-vpn-showdown-nordvpn-versus-surfshark-which-one-wins-for-you-tech-experts-at-zdnet/"><u>Best VPN Showdown: NordVPN Versus Surfshark - Which One Wins for You? | Tech Experts at ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/capture-gaming-moments-a-comprehensive-guide-for-ps4-screengrabs/"><u>Capture Gaming Moments: A Comprehensive Guide for PS4 Screengrabs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-examination-of-private-internet-access-affordable-and-high-performance-featured-on-zdnet/"><u>Comprehensive Examination of Private Internet Access - Affordable & High-Performance, Featured on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-the-best-apple-tv-vpn-providers-of-2024-featuring-expert-ratings-and-analysis-zdnet/"><u>Comprehensive Guide to the Best Apple TV VPN Providers of 2024, Featuring Expert Ratings and Analysis | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-methods-for-identifying-and-eradicating-phone-malware-with-expert-advice-by-zdnet/"><u>Comprehensive Methods for Identifying and Eradicating Phone Malware with Expert Advice by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/detecting-and-eradicating-spyware-on-mobile-devices-expert-tips-from-zdnet/"><u>Detecting and Eradicating Spyware on Mobile Devices - Expert Tips From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/disabling-your-virtual-private-network-vpn-a-comprehensive-guide-across-various-gadgets/"><u>Disabling Your Virtual Private Network (VPN): A Comprehensive Guide Across Various Gadgets</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-photosmart-c7520-printer-software-setup-get-your-free-drivers-here/"><u>HP Photosmart C7520 Printer Software Setup – Get Your Free Drivers Here</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pixel-perfect-resizer-for-windows-and-mac/"><u>In 2024, Pixel Perfect Resizer for Windows & Mac</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723012229715-mass-effect-legendary-edition-unlocking-all-the-exclusive-weapons/"><u>Mass Effect Legendary Edition: Unlocking All the Exclusive Weapons</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-the-spectrum-advanced-hdr-tips-for-lightroom-pro-for-2024/"><u>Master the Spectrum Advanced HDR Tips for Lightroom Pro for 2024</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-best-10-emoji-makers-to-create-your-own-emojis-pconlineandroidiphone/"><u>New In 2024, Best 10 Emoji Makers to Create Your Own Emojis PC/Online/Android/iPhone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-master-the-art-of-fb-video-ads-with-a-complimentary-kit/"><u>[New] Master the Art of FB Video Ads with a Complimentary Kit</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pushing-boundaries-for-fb-video-performance/"><u>[New] Pushing Boundaries for FB Video Performance</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-messenger-video-guide-dimensions-file-type-elapsed/"><u>[Updated] Messenger Video Guide Dimensions, File Type, Elapsed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-conversation-revolution-snapchat-myai-or-gpt/"><u>AI Conversation Revolution: Snapchat MyAI or GPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-content-creation-missteps-use-of-chatgpt/"><u>Avoiding Content Creation Missteps: Use of ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/charting-the-course-to-ai-prominence-top-5-insights-on-gpt/"><u>Charting the Course to AI Prominence: Top 5 Insights on GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-ai-accuracy-six-innovative-approaches-to-reduce-hallucination-in-machine-learning-responses/"><u>Enhancing AI Accuracy: Six Innovative Approaches to Reduce Hallucination in Machine Learning Responses</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-poco-x5-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco X5 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-maximizing-your-income-potential-on-instagram/"><u>In 2024, Maximizing Your Income Potential on Instagram</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-honor-90-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Honor 90 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-bot-comparison-standardized-creative-challenge/"><u>Innovative Bot Comparison: Standardized Creative Challenge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prose-perfection-mastering-the-novel-craft-with-chatgpt/"><u>Prose Perfection: Mastering the Novel Craft with ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-fixes-for-xbox-ones-connection-woes-with-xbox-live/"><u>The Definitive Fixes for Xbox One's Connection Woes with Xbox Live</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-crafting-distinctive-ai-visuals-via-microsoft-copilot/"><u>Tips: Crafting Distinctive AI Visuals via Microsoft Copilot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-36-unbeatable-tablet-offers-still-available-on-prime-day-2024-exclusive-list-from-zdnet/"><u>Top 36 Unbeatable Tablet Offers Still Available on Prime Day 2024 - Exclusive List From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-repair-facetime-when-it-stops-responding/"><u>Troubleshooting Guide: How to Repair FaceTime When It Stops Responding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-to-the-iphone-16-weigh-pros-and-cons-with-expert-insights-editors/"><u>Upgrading to the iPhone 16? Weigh Pros & Cons with Expert Insights Editors</u></a></li>
 </ul></div>
 

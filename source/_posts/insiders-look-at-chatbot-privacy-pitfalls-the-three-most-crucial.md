@@ -1,7 +1,7 @@
 ---
 title: "Insider's Look at Chatbot Privacy Pitfalls: The Three Most Crucial"
-date: 2024-11-20T17:05:29.434Z
-updated: 2024-11-27T16:07:06.007Z
+date: 2024-12-04T17:25:50.406Z
+updated: 2024-12-06T22:04:26.652Z
 tags:
   - chatgpt
   - open-ai
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Data Collection
 
  Most people don't use chatbots just to say hi. Modern chatbots are designed to process and respond to complex questions and requests, with users often including a lot of information in their prompts. Even if you're only asking a simple question, you don't really want it to go beyond your conversation.
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
  But the concerns don't stop here.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How Does ChatGPT Learn?
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
 ![screenshot of chatgpt-3.5 conversation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-3-5-question.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Rather, it was trained using "a diverse range of text from the internet, including websites, books, articles, and other publicly available written material up until September 2021."
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
  ChatGPT may be the biggest AI chatbot today, but chatbot privacy issues don't start and end with this provider. If you're using a shady chatbot with a lackluster privacy policy, your conversations may be misused, or highly sensitive information may be used in its training data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Data Theft
@@ -100,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
 
  In March 2023, MUO reported on a [fake ChatGPT Chrome extension stealing Facebook logins](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/). The plugin could exploit a Facebook backdoor to hack high-profile accounts and steal user cookies. This is just one example of numerous phony ChatGPT services designed to con unknowing victims.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Malware Infection
 
  If you're using a shady chatbot without realizing it, you may find the chatbot providing you with links to malicious websites. Maybe the chatbot has alerted you of a tempting giveaway, or provided a source for one of its statements. If the operators of the service have illicit intentions, the entire point of the platform may be to spread malware and scams via malicious links.
@@ -111,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
  Additionally, you should never install any chatbot plugins and extensions without verifying their legitimacy first. Do a little research around the app to see if it's been well-reviewed, and also run a search of the app's developer to see if you find anything shady.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Chatbots Aren't Impervious to Privacy Issues
@@ -141,20 +141,22 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-foremost-guide-to-youtube-equipment-for-rookies/"><u>[Updated] In 2024, Foremost Guide to YouTube Equipment for Rookies</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-media-meld-space/"><u>[Updated] Media Meld Space</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-spoof-ballads-and-jests-the-funniest-sounds-for-2024/"><u>[Updated] Spoof Ballads & Jests The Funniest Sounds for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-innovation-examining-the-search-and-output-processes/"><u>AI Innovation: Examining the Search and Output Processes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-the-tech-behind-gpt-4-vs-gpt-35/"><u>Dissecting the Tech Behind GPT-4 Vs. GPT-3.5</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-chatgpt/"><u>Harnessing the Power of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hone-in-on-ai-excellence-the-ultimate-guide-to-crafting-winning-prompts/"><u>Hone In On AI Excellence: The Ultimate Guide To Crafting Winning Prompts</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-fix-kernel-panic-on-mac/"><u>How to Fix Kernel Panic on Mac?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-sony-xperia-1-v-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Sony Xperia 1 V to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ransomware-explained-podcasts-aided-by-budget-phones/"><u>Ransomware Explained: Podcasts Aided by Budget Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stop-mingling-siri-and-chatgpt-differentiate-them-now/"><u>Stop Mingling Siri & ChatGPT: Differentiate Them Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergistic-computing-chatgpt-and-the-apple-ecosystem/"><u>Synergistic Computing: ChatGPT and the Apple Ecosystem</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/top-8-economical-video-call-applications-cross-system-compatibility/"><u>Top 8 Economical Video Call Applications Cross-System Compatibility</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-divx-video-cutter-reviews-top-6-options/"><u>Updated In 2024, Free Divx Video Cutter Reviews Top 6 Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-metadata-the-power-of-accurate-video-tags/"><u>[New] 2024 Approved Mastering Metadata The Power of Accurate Video Tags</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfecting-ultimate-canon-temp-visuals/"><u>[New] Perfecting Ultimate Canon Temp Visuals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-effective-techniques-to-minimize-background-and-wind-noise-in-gopro-4k-footage/"><u>1. Effective Techniques to Minimize Background and Wind Noise in GoPro 4K Footage</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-charting-the-undisclosed-territories-of-youtube-videos/"><u>2024 Approved Charting the Undisclosed Territories of YouTube Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-personalize-the-save-spot-of-mac-images/"><u>2024 Approved Personalize the Save Spot of Mac Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-recent-advancements-in-ai-progress-and-future-challenges-explored/"><u>Apple’s Recent Advancements in AI – Progress and Future Challenges Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-beats-and-melodies-the-chatgpt-way-in-audio-workstations/"><u>Crafting Beats & Melodies - The ChatGPT Way in Audio Workstations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-most-trusted-vpn-apps-for-your-mac-in-depth-analysis-by-tech-pros/"><u>Explore the Most Trusted VPN Apps for Your Mac: In-Depth Analysis by Tech Pros</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/immediate-availability-of-new-gadgets-from-apples-latest-wwdc-presentation-find-out-where-to-order-now-digital-trends/"><u>Immediate Availability of New Gadgets From Apple's Latest WWDC Presentation - Find Out Where to Order Now! | Digital Trends</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-x90s-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo X90S FRP?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m3-or-m2-apple-macbook-air-expert-analysis-to-guide-you-in-selecting-the-perfect-laptop-znet-tech-insights/"><u>M3 or M2 Apple MacBook Air? Expert Analysis to Guide You in Selecting the Perfect Laptop | Znet Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/on-device-ai-explained-functionality-and-working-processes/"><u>On-Device AI Explained: Functionality and Working Processes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalized-workout-plans-via-generative-machine-learning/"><u>Personalized Workout Plans via Generative Machine Learning</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ifying-slide-creations-with-youtube-content-for-2024/"><u>Simplifying Slide Creations with YouTube Content for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategy-to-recover-missing-instagram-reels-from-your-profile/"><u>Step-by-Step Strategy to Recover Missing Instagram Reels From Your Profile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-training-and-nutrition-via-select-8-gpts/"><u>Tailored Training & Nutrition via Select 8 GPTs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Control Center Tweaks for iOS 18 Users – Tips & Tricks
-date: 2024-11-25T16:50:27.086Z
-updated: 2024-11-27T16:08:47.312Z
+date: 2024-12-02T21:45:54.959Z
+updated: 2024-12-06T17:43:52.047Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
@@ -41,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -53,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,10 +62,6 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -73,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,21 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-pro-rated-top-8-convertors-for-subtitles-and-srts/"><u>[New] Pro-Rated Top 8 Convertors for Subtitles & SRTs</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nlocking-income-insights-googles-simplified-three-step-strategy-for-monetizing-youtube-for-2024/"><u>[New] Unlocking Income Insights Google's Simplified Three-Step Strategy for Monetizing YouTube for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-mobile-mastery-identifying-the-best-apps-for-youtube-shorts/"><u>[Updated] In 2024, Mobile Mastery Identifying the Best Apps for Youtube Shorts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/augmented-risk-the-growing-concerns-of-ai-systems/"><u>Augmented Risk: The Growing Concerns of AI Systems</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-sony-xperia-5-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Sony Xperia 5 V Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/detecting-fake-chatgpt-scams-actions-for-safe-online-interaction/"><u>Detecting Fake ChatGPT Scams: Actions for Safe Online Interaction</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-conversion-turn-dall-es-webp-art-into-jpeg-png/"><u>Effortless Conversion: Turn DALL-E's WebP Art Into JPEG, PNG</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-x100-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo X100 Pro</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/key-steps-to-reinvent-the-chatgpt-plugin-boutique/"><u>Key Steps to Reinvent the ChatGPT Plugin Boutique</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ifying-social-media-your-guide-to-facebook-youtube-syncing/"><u>Simplifying Social Media Your Guide to Facebook-YouTube Syncing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-your-search-with-bings-intelligent-ai-features/"><u>Streamline Your Search with Bing's Intelligent AI Features.</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/successful-patch-obs-full-screen-functionality-for-2024/"><u>Successful Patch OBS Full Screen Functionality for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dilemma-turning-to-technology-or-traditional-advisors/"><u>The Dilemma: Turning to Technology or Traditional Advisors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722876318337-uncover-if-your-playback-really-offers-dolby-atmos-excellence/"><u>Uncover if Your Playback Really Offers Dolby Atmos Excellence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-chatgpt-revealing-ais-creative-potential/"><u>What Is ChatGPT? Revealing AI's Creative Potential</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-essential-top-10-live-streamers-android-and-iphone-edition/"><u>[Updated] In 2024, Essential Top 10 Live Streamers Android & iPhone Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-recording-your-games-in-hd-ps4-and-obs-studio-guide-for-2024/"><u>[Updated] Recording Your Games in HD PS4 & OBS Studio Guide for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amds-financial-report-gaming-industry-decline-at-59-while-data-centers-experience-a-skyrocketing-boost-of-115/"><u>AMD's Financial Report: Gaming Industry Decline at 59%, While Data Centers Experience a Skyrocketing Boost of 115%</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-missing-sd-card-view-on-file-explorer-platform/"><u>Enable Missing SD Card View on File Explorer Platform</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 14 Pro Max</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interactive-illusions-leveraging-gpt-in-crafting-immersive-dandd-worlds/"><u>Interactive Illusions: Leveraging GPT in Crafting Immersive D&D Worlds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/master-class-on-managing-desktopmobile-screens-in-meet-for-2024/"><u>Master Class on Managing Desktop/Mobile Screens in Meet for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/professional-progression-social-media-uses-demystified/"><u>Professional Progression: Social Media Uses Demystified</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rising-through-the-ranks-samsung-expands-galaxy-ai-as-google-faces-antitrust-losses-on-the-global-innovation-index-zdnet/"><u>Rising Through the Ranks: Samsung Expands Galaxy AI as Google Faces Antitrust Losses on the Global Innovation Index - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-hazards-of-leveraging-ai-for-windows-codes/"><u>The Hidden Hazards of Leveraging AI for Windows Codes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-non-apple-rechargeable-airtags-unbeatable-deals-for-wallets-explore-the-market/"><u>Top Non-Apple, Rechargeable AirTags: Unbeatable Deals for Wallets - Explore the Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-biking-adventures-with-smart-photochromic-glasses-a-game-changing-hud-feature-reviewed-by-zdnet/"><u>Transforming Biking Adventures with Smart Photochromic Glasses: A Game-Changing HUD Feature Reviewed by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tweet-no-more-emojis-linuss-secrets-revealed-trojan-dangers-decoded-and-gpt-issues-exposed/"><u>Tweet No More Emojis, Linus’s Secrets Revealed, Trojan Dangers Decoded, & GPT Issues Exposed.</u></a></li>
 </ul></div>
 

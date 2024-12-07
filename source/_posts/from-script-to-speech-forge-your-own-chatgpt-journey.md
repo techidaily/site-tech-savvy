@@ -1,7 +1,7 @@
 ---
 title: "From Script to Speech: Forge Your Own ChatGPT Journey"
-date: 2024-09-13T16:21:32.035Z
-updated: 2024-09-17T16:05:59.452Z
+date: 2024-11-29T21:05:19.867Z
+updated: 2024-12-06T23:51:21.363Z
 tags:
   - chatgpt
   - open-ai
@@ -50,11 +50,19 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 
  You can manually change the image, name, description, and instructions for your GPT by clicking **Configure**. Click the profile picture to change it, and edit the details in the **Name** **Description** and **Instructions** fields to change them without typing prompts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Establish a Tone and Rules for Your GPT
 
  At this stage, your GPT wants to know how it should address users. Direct it to the tone and style you want it to adopt. Here, we said, "5e Dungeon Master should use a wise, sagely tone. Use language and style commonly used in high-fantasy settings," which fits quite nicely into the fantasy nature of D&D.
 
 ![GPT Builder setting the tone and language for The 5e Dungeon Master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-builder-setting-the-tone-and-language-for-the-5e-dungeon-master-gpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But, of course, if you are making a more professional GPT, ensure it uses professional language.
 
@@ -81,22 +89,13 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 3. Click **Upload files** and add files from your computer.  
 ![GPT Knowledge source documents uploading in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-knowledge-source-documents-uploading-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for it to finish uploading, and you'll have the documents as a knowledge base for your GPT.
 
  If, for instance, you were trying to make a GPT that is an expert in Florida tax laws, you would get all the Florida tax legal documents you can find and upload them here to form a knowledge base your GPT can work with.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add or Remove Capabilities
 
@@ -112,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 2. Toggle **Web Browsing**, **DALL-E Image Generation**, and **Code Interpreter** on or off.  
 ![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Add APIs for Third-Party Services
 
  For those interested in using APIs to access other third-party services in their GPTs, you'll be happy to know that it's possible.
@@ -129,18 +121,15 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 4. **Optional:** Scroll down and enter an authentication method and privacy policy.
 5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Go back when you're finished.
 
  If you don't enter a valid privacy policy, you won't be allowed to share your GPT with the public.
 
  Currently, you seem to be able to add only one action at a time. If you click the **Examples** dropdown menu, you'll see a few examples of schemas OpenAI has added to aid in creating your own schema.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Configure Conversation Starters
 
@@ -151,14 +140,11 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 3. Click the **X** next to a conversation starter block to remove it.  
 ![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can add more conversation starters as required.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Save and Publish Your GPT
 
@@ -166,9 +152,17 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 
 ![Share dropdown menu in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/share-dropdown-menu-in-gpt-builder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While it won't make any difference, for now, you can choose whether you'd like to publish to the public, via links, or only to yourself. None of the sharing options work, by the way. We have to wait for an update. But, if you want friends to use your AI, return to ChatGPT's home, open the GPT's chat, and copy the URL in your browser's address bar.
 
  If you click the pencil icon in the share menu, you'll enter your builder profile, where you can change your GPT and profile options when this feature is fully released.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT's Limitations Still Apply to GPT Builder
 
@@ -193,5 +187,23 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beyond-vidcon-top-50-youtube-celebrations-for-2024/"><u>[New] Beyond VidCon Top 50 YouTube Celebrations for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-comprehensively-understanding-manual-signal-recognition-for-2024/"><u>[New] Comprehensively Understanding Manual Signal Recognition for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-constructing-youtube-playlists-made-simple/"><u>[Updated] In 2024, Constructing YouTube Playlists Made Simple</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-13-ultra-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi 13 Ultra Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-ai-conversational-capabilities-gpt-vs-huggingface/"><u>Assessing AI Conversational Capabilities: GPT Vs HuggingFace</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-distinctions-of-apples-airpods-series-4-new-features-compared-zdnet/"><u>Exploring the Distinctions of Apple's AirPods Series 4 – New Features Compared | ZDNET</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-activate-stellar-data-recovery-for-iphone-14-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Activate Stellar Data Recovery for iPhone 14 Pro | Stellar</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-s23plus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy S23+</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-smart-8-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Smart 8 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-175-beta-2-enables-apple-devices-to-install-desktop-apps-directly-learn-how-zdnet/"><u>IOS 17.5 Beta 2 Enables Apple Devices to Install Desktop Apps Directly - Learn How! | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-obstacle-of-error-code-80240020-your-guide-to-a-smooth-windows-11-upgrade/"><u>Overcome the Obstacle of Error Code 80240020 – Your Guide to a Smooth Windows 11 Upgrade</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/paint-jocular-visuals-with-giphy-in-mind/"><u>Paint Jocular Visuals with Giphy in Mind</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-revolutionary-addition-of-offline-satellite-messaging-on-android-devices-starts-with-google-pixel-nine-tech-insights/"><u>The Revolutionary Addition of Offline Satellite Messaging on Android Devices Starts with Google Pixel Nine | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-accessories-thoroughly-evaluated-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Accessories : Thoroughly Evaluated by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-top-5-cutting-edge-features-of-iphone-16-pro-that-technology-buffs-cant-resist/"><u>Unveiling the Top 5 Cutting-Edge Features of iPhone 16 Pro That Technology Buffs Can't Resist</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-true-age-of-your-apple-watchs-battery-a-shocking-discovery-revealed-by-zdnet/"><u>Unveiling the True Age of Your Apple Watch's Battery: A Shocking Discovery Revealed by ZDNet!</u></a></li>
+</ul></div>
 

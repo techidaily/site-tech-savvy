@@ -1,7 +1,7 @@
 ---
 title: What Makes Vector Databases Ideal for AI?
-date: 2024-09-11T16:13:20.258Z
-updated: 2024-09-17T16:21:58.585Z
+date: 2024-12-01T21:04:29.432Z
+updated: 2024-12-06T20:22:43.370Z
 tags:
   - chatgpt
   - open-ai
@@ -48,11 +48,19 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Are Vector Embeddings Important?
 
  Having the ability to plot the location of data in mathematical space allows computers to understand the relationship between data points and how strongly correlated they are to each other. By knowing the degree of correlation between each data point, an AI model will have the capability to understand queries in a contextual manner like a human would.
 
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Vector Databases Help Boost AI
 
@@ -65,16 +73,13 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 * **Image and Video Analysis:** With video and image embedding models, AI models can be fine-tuned to work with images to find items that look similar to the query. This is currently being implemented in many online shopping apps and websites.
 * **Anomaly Detection:** By recording actions as embeddings, an [AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How a Vector Database Works
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
 
@@ -83,10 +88,7 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Popular Vector Databases
@@ -97,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 * **Milvus**: An open-source vector platform built with similarity search and AI applications in mind. It provides quick and efficient indexing and search capabilities for high-dimensional vectors. In addition, Milvus supports multiple indexing algorithms and offers SDKs for various programming languages.
 * **Redis:** A high-performance vector database capable of supporting real-time applications, session management, and high-traffic websites. Redis is often used for real-time analytics, similarity search, and recommendation systems.
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Future of Vector Databases
 
@@ -123,5 +129,22 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-low-end-pc-visual-recorders/"><u>[New] Low-End PC Visual Recorders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unleash-your-brands-potential-on-igtv-with-these-top-10-tactics/"><u>[Updated] 2024 Approved Unleash Your Brand’s Potential on IGTV with These Top 10 Tactics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-art-of-sharing-horizontals-in-igtvs-vertical-world/"><u>[Updated] In 2024, The Art of Sharing Horizontals in IGTV's Vertical World</u></a></li>
+<li><a href="https://techtrends.techidaily.com/clever-ways-to-alter-your-smartphones-perceived-geographic-position/"><u>Clever Ways to Alter Your Smartphone's Perceived Geographic Position</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-text-to-adventure-navigating-gpts-roleplay-scenarios/"><u>From Text to Adventure: Navigating GPT's Roleplay Scenarios</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-lava-blaze-2-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Lava Blaze 2 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://fox-access.techidaily.com/owning-your-sound-instagrams-ip-framework/"><u>Owning Your Sound Instagram's IP Framework</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-play-ai-driven-transformations-in-games/"><u>Pioneering Play: AI-Driven Transformations in Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/professional-review-of-the-apple-studio-27-inch-5k-monitor-is-its-elegance-worth-the-price-tag-analysis/"><u>Professional Review of the Apple Studio 27-Inch 5K Monitor: Is Its Elegance Worth the Price Tag? - Analysis</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-data-retrieval-tool-restore-lost-data-from-realme-c53-by-fonelab-android-recover-data/"><u>Realme Data Retrieval tool – restore lost data from Realme C53</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/review-and-refine-with-chatgpts-help/"><u>Review and Refine with ChatGPT's Help</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/solving-the-iphone-1514-activation-error-step-by-step-guide/"><u>Solving the iPhone 15/14 Activation Error - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-for-detecting-bogus-bingchat-token-offers/"><u>Tips for Detecting Bogus BingChat Token Offers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranking-mac-system-optimizers-of-2022-the-ultimate-guide/"><u>Top-Ranking Mac System Optimizers of 2022: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-venality-ai-and-love-scams/"><u>Virtual Venality: AI and Love Scams</u></a></li>
+</ul></div>
 

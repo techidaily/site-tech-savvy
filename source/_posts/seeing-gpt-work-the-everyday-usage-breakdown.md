@@ -1,7 +1,7 @@
 ---
 title: "Seeing GPT Work: The Everyday Usage Breakdown"
-date: 2024-11-21T16:01:59.169Z
-updated: 2024-11-27T16:51:52.243Z
+date: 2024-12-05T20:04:58.422Z
+updated: 2024-12-06T21:16:45.283Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Scripting YouTube Videos
 
 ![person holding smartphone displaying youtube logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/speeds.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Regardless of whether you want to [start a YouTube channel](https://www.makeuseof.com/starting-youtube-channel-basics/) for fun or as a genuine career path, creating videos requires a lot of effort. Filming your content is only one part of the puzzle; editing takes a significant amount of time, and coming up with ideas in the first place is also a lengthy process.
 
@@ -38,17 +46,9 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
  Before you get excited and try to script all your videos with ChatGPT, remember that adding a human touch is still important. You should know about the topics you discuss, and you'll also need to edit the tone to fit how you authentically speak.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Brainstorming Topic Ideas
 
 ![An idea symbol (lightbulb) linked to post it notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/lightbulb-with-post-its.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Even if you're required to come up with creative ideas each day, you're not always going to be able to think of new topics. You'll go through periods where you can't seem to think of anything—and if your job relies on you using your brain, this can get frustrating.
 
@@ -66,9 +66,17 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
  Creating a good social media bio can require a lot of thought, and you can use ChatGPT to help you create a draft. Once you've got a rough framework, you have more room to adjust everything to fit your personality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Learning a New Language
 
 ![Photo of numerous countries' flags](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/joshua-fuller-tida-geog-s-unsplash.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Learning a new language can open new doors, such as giving you the chance to make new friends and potentially gain employment in a new country. You'll find plenty of [language-learning apps, such as Duolingo and Babbel](https://www.makeuseof.com/babbel-vs-duolingo-complete-comparison/). Moreover, you can hone your skills by consuming videos, podcasts, and articles in your target language.
 
@@ -80,19 +88,11 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
 ![Two Work Areas at Home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/two-work-areas-at-home.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Whether you're an employee or a business owner, knowing what your customers want is crucial. Many companies make the mistake of spending a lot of time and energy creating products first, only to discover that nobody wants what they've made. However, market research can be challenging and time-consuming in equal measure.
 
  You'll find plenty of articles online about how ChatGPT can play a key role in the future of market research. And while the tool is still in its infancy, you can use it for several purposes. For example, you can ask what the pain points of your target audience would typically be.
 
  You can also use ChatGPT to look at what the people you want to sell to are currently interested in. While you should also use other forms of research—such as surveys—to get a clearer overall picture, ChatGPT can provide a good base level of information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Finding the Answers to Questions
 
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
  Meanwhile, a company in Belgium mentioned that it was testing with ChatGPT to create software that would make it easier to put contracts together.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You'll Find Several Uses for ChatGPT
@@ -141,24 +141,18 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-viewing-experience-best-youtube-converters-to-avi/"><u>[New] In 2024, Enhance Viewing Experience Best YouTube Converters to AVI</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-photo-distortion-techniques-in-ps/"><u>[New] Mastering Photo Distortion Techniques in PS</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-reclaim-lost-chatter-in-shared-tweeted-films/"><u>[New] Reclaim Lost Chatter in Shared Tweeted Films</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-maximizing-view-quality-on-team-meetings-in-ms-teams/"><u>[Updated] 2024 Approved Maximizing View Quality on Team Meetings in MS Teams</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-next-gen-vr-accessories-your-must-have-guide/"><u>[Updated] Next-Gen VR Accessories Your Must-Have Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieving-wellness-milestones-with-ai-guidance/"><u>Achieving Wellness Milestones with AI Guidance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-breakdown-perks-and-predicaments/"><u>Artificial Intelligence Breakdown: Perks & Predicaments</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbot-conundrum-gpt-plus-or-the-puzzle-of-perplexity/"><u>ChatBot Conundrum: GPT Plus or the Puzzle of Perplexity</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/come-esegui-il-backup-e-ripristini-correttamente-i-tuoi-dati-su-iphone-passaggi-fai-it-yourself-e-consigli-per-risolvere/"><u>Come Esegui Il Backup E Ripristini Correttamente I Tuoi Dati Su iPhone: Passaggi Fai-It-Yourself E Consigli per Risolvere</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-apples-miniaturized-tech-marvel-the-powerful-and-petite-m4-core-mac-mini-zdnet/"><u>Introducing Apple's Miniaturized Tech Marvel: The Powerful and Petite M4-Core Mac Mini | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-the-right-call-with-local-language-model-choices/"><u>Making the Right Call with Local Language Model Choices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-photography-these-are-your-cams-in-24/"><u>New Photography? These Are Your Cams in '24</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-screen-woes-top-5-tricks-for-fixing-a-malfunctioning-touchpad-on-windows-10/"><u>Solve Your Screen Woes! Top 5 Tricks for Fixing a Malfunctioning Touchpad on Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chatgpt-approach-to-podcast-storylines/"><u>The ChatGPT Approach to Podcast Storylines</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tomorrows-dialogues-advanced-chatbot-innovation/"><u>Tomorrow's Dialogues: Advanced Chatbot Innovation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-concepts-to-images-the-dall-e-and-gpt-4-methodology/"><u>Transforming Concepts to Images: The DALL-E & GPT-4 Methodology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-shared-access-in-the-world-of-ai-chatgpt/"><u>Understanding Shared Access in the World of AI ChatGPT</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-top-fonts-to-amplify-your-tiktok-presence-in-23/"><u>[Updated] In 2024, Top Fonts to Amplify Your TikTok Presence in '23</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boost-your-apple-watchs-battery-top-8-essential-setting-adjustments/"><u>Boost Your Apple Watch's Battery: Top 8 Essential Setting Adjustments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-guide-to-initializing-your-latest-ipad-tips-from-zdnet/"><u>Essential Guide to Initializing Your Latest iPad - Tips From ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-much-do-you-really-make-as-a-podcaster/"><u>How Much Do You Really Make as a Podcaster?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-expertise-overstated-5-cautionary-tales/"><u>Human Expertise Overstated? 5 Cautionary Tales</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-ultimate-guide-to-youtube-live-thumbnail/"><u>In 2024, The Ultimate Guide to YouTube Live Thumbnail</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-mac-gaming-in-sonoma-through-apples-game-mode/"><u>Maximizing Mac Gaming in Sonoma Through Apple’s Game Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/nostalgic-entertainment-discover-the-best-films-from-the-iconic-1980s-era/"><u>Nostalgic Entertainment: Discover the Best Films From the Iconic 1980S Era</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cketing-earnings-through-video-affiliates-for-2024/"><u>Skyrocketing Earnings Through Video Affiliates for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transition-alert-apples-end-of-an-era-for-finewoven-products-launching-beats-inspired-accessories-as-revealed/"><u>Transition Alert! Apple's End of an Era for FineWoven Products, Launching Beats-Inspired Accessories as Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/triple-pillars-of-ai-communication-integrating-chatgpt-with-wolfram-alpha/"><u>Triple Pillars of AI Communication: Integrating ChatGPT with Wolfram Alpha</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-honor-90-lite-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Honor 90 Lite to Gmail | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Evaluating How ChatGPT Might Infringe on User Data Sovereignty
-date: 2024-09-14T16:15:17.714Z
-updated: 2024-09-17T16:00:52.002Z
+date: 2024-11-29T18:22:54.629Z
+updated: 2024-12-06T18:22:48.590Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does ChatGPT Gather Data?
 
  If you've ever interacted with other chatbots, you know that none of them can really compare to ChatGPT, which is actually capable of generating human-like responses. But why is ChatGPT so much better than other similar software?
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
  Not everyone would consider this unethical, but it is at the very least problematic that a company is able to collect and share such a tremendous amount of data without obtaining anything resembling consent. Plus, even if ChatGPT was only fed publicly available, copyright-free information, that information might be shared with users out of context, or in a way that it is misleading.
 
  Ethical considerations aside, there are serious concerns that Open AI is violating the General Data Protection Regulation (GDPR), and other similar privacy laws. Due to these concerns, [Italy officially banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) in March 2023, with the country's data protection authority accusing Open AI of violating user privacy with its data collection practices in more than one way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT's Privacy Policy: What You Need to Know
 
@@ -54,15 +62,16 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the [FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
 
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Register With a Private Email
@@ -77,18 +86,15 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the [California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/). So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is It Time to Regulate ChatGPT?
 
  After Italy broke the ice, talks of regulating ChatGPT and other AI products intensified. In April 2023, the European Data Protection Board (an independent European Union body that enforces GDPR) set up a task force to explore potential regulatory measures. Governments of several EU member states did the same, per [Reuters](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/).
 
  Around the same time, the National Telecommunications and Information Administration in the United States began looking at the possibility of regulating artificial intelligence, and it's safe to assume governments around the world will take similar regulatory action in the years to come. Some fear excessive regulation could stifle progress, so it's more than likely the debates will continue as the world tries to navigate this landscape.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly
 
@@ -111,5 +117,24 @@ thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-crafting-a-customized-soundscape-youtube-playlist-building-on-the-internetapps/"><u>[New] In 2024, Crafting a Customized Soundscape YouTube Playlist Building on the Internet/Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-integrating-language-support-in-igtv-posts/"><u>[Updated] In 2024, Integrating Language Support in IGTV Posts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-pixel-perfection-your-guide-to-youtube-twitters-and-hd/"><u>2024 Approved Pixel Perfection Your Guide to YouTube, Twitters, and HD</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipated-launch-apple-prepares-new-earbuds-and-headphones-airpods-lite-and-airpods-max-for-later-this-year/"><u>Anticipated Launch: Apple Prepares New Earbuds and Headphones 'AirPods Lite' And AirPods Max for Later This Year</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-new-wave-comparing-the-m3-and-m1-macbook-pro-for-your-next-upgrade-zdnet/"><u>Apple’s New Wave: Comparing the M3 and M1 MacBook Pro for Your Next Upgrade | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bard-enhanced-7-innovations-from-googles-palm-2/"><u>Bard Enhanced: 7 Innovations From Google's PaLM 2</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-communication-strategies-for-lifelike-dialogue/"><u>Chatbot Communication Strategies for Lifelike Dialogue</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/effective-solutions-for-when-your-dota-2-game-is-caught-on-the-startup-screen/"><u>Effective Solutions for When Your Dota 2 Game Is Caught on the Startup Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-next-frontier-how-apple-envisions-a-domestic-robot-helper/"><u>Exploring the Next Frontier: How Apple Envisions a Domestic Robot Helper</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g24-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G24 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/linguistic-boundaries-gpts-processing-edge/"><u>Linguistic Boundaries: GPT's Processing Edge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-landscape-of-gptzero-and-ai-text/"><u>Navigating the Landscape of GPTZero and AI Text</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-yourself-from-these-9-deceptive-chatgpt-clone-virus-and-malware-apps-endangering-your-data-security/"><u>Protect Yourself From These 9 Deceptive ChatGPT Clone Virus and Malware Apps Endangering Your Data Security</u></a></li>
+<li><a href="https://article-tips.techidaily.com/pushing-boundaries-in-motion-photography/"><u>Pushing Boundaries in Motion Photography</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-fix-redragon-microphone-malfunction-with-pc/"><u>Troubleshooting Steps to Fix Redragon Microphone Malfunction with PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-iphone-15-in-depth-analysis-and-why-its-a-must-have-even-for-seasoned-professionals-zdnet-insights/"><u>Unveiling the Power of iPhone 15: In-Depth Analysis & Why It's a Must-Have Even for Seasoned Professionals | ZDNET Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/weighing-ais-impact-on-artistic-expression/"><u>Weighing AI's Impact on Artistic Expression</u></a></li>
+</ul></div>
 

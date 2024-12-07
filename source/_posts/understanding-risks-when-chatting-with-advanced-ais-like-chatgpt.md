@@ -1,7 +1,7 @@
 ---
 title: Understanding Risks When Chatting with Advanced AIs Like ChatGPT
-date: 2024-09-15T16:27:32.271Z
-updated: 2024-09-17T16:27:51.540Z
+date: 2024-12-03T18:01:44.674Z
+updated: 2024-12-07T00:43:16.926Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Does ChatGPT Gather Data?
 
@@ -59,42 +63,38 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Register With a Private Email
 
  You can sign up to use ChatGPT with your Google or Microsoft account, but that would not be a very good idea, as convenient as it may seem. In order to protect your privacy, you should create an account with an email, preferably using a secure and encrypted email service like [ProtonMail or Tutanota](https://www.makeuseof.com/protonmail-vs-tutanota-which-encrypted-email-is-best/).
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Limit What You Share
 
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Delete Your Information
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the [California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/). So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is It Time to Regulate ChatGPT?
 
  After Italy broke the ice, talks of regulating ChatGPT and other AI products intensified. In April 2023, the European Data Protection Board (an independent European Union body that enforces GDPR) set up a task force to explore potential regulatory measures. Governments of several EU member states did the same, per [Reuters](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/).
 
  Around the same time, the National Telecommunications and Information Administration in the United States began looking at the possibility of regulating artificial intelligence, and it's safe to assume governments around the world will take similar regulatory action in the years to come. Some fear excessive regulation could stifle progress, so it's more than likely the debates will continue as the world tries to navigate this landscape.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly
 
@@ -117,5 +117,24 @@ thumbnail: https://thmb.techidaily.com/473fc1ff0d4e4d5e905e125fcb0f58c3c26b7a5f7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-enhancing-aerial-video-the-best-gimbals-reviewed/"><u>[Updated] Enhancing Aerial Video The Best Gimbals Reviewed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-a05s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy A05s to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-in-play-crafting-next-gen-virtual-experiences/"><u>AI in Play: Crafting Next-Gen Virtual Experiences</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/audience-take-movaviscreenvisions-new-release-for-2024/"><u>Audience Take MovaviScreenVision's New Release for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bridging-gaps-in-storytelling-with-skillful-b-roll-insertion-for-2024/"><u>Bridging Gaps in Storytelling with Skillful B-Roll Insertion for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-revitalizing-your-windows-display-with-new-graphics-drivers/"><u>Comprehensive Tutorial: Revitalizing Your Window's Display with New Graphics Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-dialogues-with-gpt-chrome-edition/"><u>Enhancing Your Dialogues with GPT, Chrome Edition!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-infinix-smart-7-by-drfone-android/"><u>How to Bypass FRP from Infinix Smart 7?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-behind-the-scenes-of-vivacut-full-video-editing-review-24/"><u>In 2024, Behind the Scenes of VivaCut Full Video Editing Review '24</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intellectual-property-the-new-frontier-with-ai/"><u>Intellectual Property: The New Frontier with AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-4-vs-ipad-air-5-showdown-is-it-worth-the-upgrade-techadvice/"><u>IPad Air 4 vs iPad Air 5 Showdown: Is It Worth the Upgrade? | TechAdvice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-shift-macpaws-strategy-on-developing-an-alternative-to-apples-app-store-amidst-new-rules-insights/"><u>Navigating the Shift: MacPaw's Strategy on Developing an Alternative to Apple's App Store Amidst New Rules - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-chatgpt-advantage-matrix-platinum-edition/"><u>The ChatGPT Advantage Matrix - Platinum Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-source-guide-buying-and-downloading-your-favorite-youtube-rings/"><u>Ultimate Source Guide Buying and Downloading Your Favorite YouTube Rings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-pc-performance-with-gpt-powered-solutions/"><u>Unlocking PC Performance with GPT-Powered Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-huggingchat-the-open-source-alternative-to-chatgpt/"><u>What Is HuggingChat? The Open-Source Alternative to ChatGPT</u></a></li>
+</ul></div>
 

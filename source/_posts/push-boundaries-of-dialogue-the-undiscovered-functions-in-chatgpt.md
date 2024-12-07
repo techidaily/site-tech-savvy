@@ -1,7 +1,7 @@
 ---
 title: "Push Boundaries of Dialogue: The Undiscovered Functions in ChatGPT"
-date: 2024-09-11T16:27:25.621Z
-updated: 2024-09-17T16:08:22.535Z
+date: 2024-12-05T19:39:06.961Z
+updated: 2024-12-06T17:50:29.252Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Read Aloud
 
  In March 2024, OpenAI launched ChatGPT's Read Aloud feature, enabling the AI tool to read its responses to you. It can be handy if you're working on a long piece of text and want to hear how it sounds spoken, but it also means that you can now effectively converse with ChatGPT (using ChatGPT's voice input feature).
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3  ChatGPT Memory and Temporary Chat
 
  ChatGPT Memory and Temporary Chat are two features launching together, aimed to give ChatGPT better recall—and a way to avoid that recall altogether.
@@ -60,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 [ChatGPT's Memory](https://help.openai.com/en/articles/8590148-memory-faq) allows you to set specific information it should always remember about you. But that's not all. Over time, its memory can improve, learn details about you to add to its memory, and deliver improved accuracy and performance based upon this.
 
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
 
@@ -70,10 +82,7 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024\.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Temporary Chat
@@ -81,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
 
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 
@@ -99,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
  If the person you invite to trial ChatGPT is put off by the credit card sign-up, you could share your ChatGPT conversation with them instead. [ChatGPT's shared links launched in May 2023](https://www.makeuseof.com/what-are-chatgpt-shared-links-how-do-they-work/) and offer a way for ChatGPT users to share conversations outside the confines of the web interface or the smartphone app.
 
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
 
@@ -126,5 +132,20 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-filmmakers-toolkit-masterful-avi-to-gif-conversion-via-filmora-windowsmacos/"><u>[Updated] Filmmaker’s Toolkit Masterful AVI to GIF Conversion via Filmora (Windows/macOS)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-navigating-your-idevice-how-to-download-episodes-with-swiftness/"><u>[Updated] In 2024, Navigating Your iDevice - How to Download Episodes with Swiftness</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-top-10-fb-video-grabber-add-ons-perfect-for-firefox-users-for-2024/"><u>[Updated] Top 10 FB Video Grabber Add-Ons - Perfect for FireFox Users for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-guides-podcast-creation-with-phone-bargain-tips/"><u>ChatGPT Guides Podcast Creation with Phone Bargain Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-2-simplified-objectives-and-utility/"><u>Claude 2 Simplified: Objectives & Utility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-budget-friendly-iphone-14-pro-max-exceptional-battery-life-and-more-features-to-delight-your-senses-insights/"><u>Discover the Budget-Friendly iPhone 14 Pro Max: Exceptional Battery Life & More Features to Delight Your Senses - Insights</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-guide-converting-any-video-file-to-mp4-on-a-mac-computer/"><u>Easy Guide: Converting Any Video File to MP4 on a Mac Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-authenticity-of-truthgpt-cryptocurrency/"><u>Exploring the Authenticity of TruthGPT Cryptocurrency</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-creators-of-screenplay-world/"><u>In 2024, Prime Creators of Screenplay World</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/isolating-visual-snapshots-from-videos-using-the-windows-10-photos-tool/"><u>Isolating Visual Snapshots From Videos Using the Windows 10 Photos Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/puzzling-over-math-with-openai/"><u>Puzzling Over Math with OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-pioneering-project-by-elon-musk/"><u>The Pioneering Project by Elon Musk</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/using-the-right-gopro-editor-on-mac-is-essential-wondershare-filmora-x-lets-you-edit-videos-like-a-pro-without-making-things-complicated-for-2024/"><u>Using the Right GoPro Editor on Mac Is Essential. Wondershare Filmora X Lets You Edit Videos Like a Pro without Making Things Complicated for 2024</u></a></li>
+</ul></div>
 

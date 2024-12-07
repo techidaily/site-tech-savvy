@@ -1,7 +1,7 @@
 ---
 title: "The Next-Gen Hackers: Tracking 7 Emerging Trends"
-date: 2024-09-12T16:29:44.513Z
-updated: 2024-09-17T16:07:47.455Z
+date: 2024-12-03T22:03:49.792Z
+updated: 2024-12-06T20:13:04.321Z
 tags:
   - chatgpt
   - open-ai
@@ -65,21 +65,16 @@ thumbnail: https://thmb.techidaily.com/c64e4c79b7c0ed27dd9657f230788f47fff39a2fe
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Further Exploit of EV Security Systems
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
 
@@ -90,10 +85,7 @@ thumbnail: https://thmb.techidaily.com/c64e4c79b7c0ed27dd9657f230788f47fff39a2fe
  This is just one of the numerous [types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Improved Smart Home and IoT Security
@@ -108,22 +100,23 @@ thumbnail: https://thmb.techidaily.com/c64e4c79b7c0ed27dd9657f230788f47fff39a2fe
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Further Exploit of Cloud Platforms
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
 
  While cloud platforms are undeniably a convenient storage option, one's ability to access data anywhere with the correct credentials creates a problem. If a hacker manages to access someone's account, they can then look at any data stored on said account—work documents, ID photos, photos and videos, financial information, or anything else.
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Continued Topical Email Scams
 
@@ -156,5 +149,24 @@ thumbnail: https://thmb.techidaily.com/c64e4c79b7c0ed27dd9657f230788f47fff39a2fe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-how-to-download-final-cut-pro-for-free-in-2024/"><u>[Updated] How to Download Final Cut Pro for Free, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-preset-limits-advantages-of-more-chatgpt-tokens/"><u>Beyond Preset Limits: Advantages of More ChatGPT Tokens</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-play-7t-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor Play 7T?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creative-crossroads-chatgpt-and-visual-brainstorms/"><u>Creative Crossroads: ChatGPT & Visual Brainstorms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/fine-tuning-focus-the-ultimate-guide-to-zooming-in-on-videoleap/"><u>Fine-Tuning Focus The Ultimate Guide to Zooming in on Videoleap</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-n3-flip-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find N3 Flip in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/illusions-unveiled-8-ways-ai-transforms-views/"><u>Illusions Unveiled: 8 Ways AI Transforms Views</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-best-15-portable-videography-tools/"><u>In 2024, Best 15 Portable Videography Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-intelligent-bing-powered-by-microsoft-ai/"><u>Introducing Intelligent Bing, Powered by Microsoft AI</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revamp-your-bandwidth-strategies-for-optimizing-internet-speed-at-home-or-work/"><u>Revamp Your Bandwidth: Strategies for Optimizing Internet Speed at Home or Work</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-blueprint-to-combine-gpt-and-whatsapp-helpdesk/"><u>The Blueprint to Combine GPT and WhatsApp Helpdesk</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-discovering-the-top-13-inch-laptop-with-exceptional-endurance-and-strikingly-unique-aesthetics-insights-from-zdnet/"><u>The Ultimate Guide: Discovering the Top 13-Inch Laptop with Exceptional Endurance & Strikingly Unique Aesthetics - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-ipad-air-with-apples-new-m2-chip-your-definitive-guide-and-why-its-the-best-choice-for-consumers-techradar/"><u>The Ultimate iPad Air with Apple's New M2 Chip: Your Definitive Guide and Why It's The Best Choice for Consumers | TechRadar</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/top-10-ways-to-procure-quality-photo-and-video-backgrounds/"><u>Top 10 Ways to Procure Quality Photo & Video Backgrounds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-fitness-coaching-gpt-powered-approaches/"><u>Transforming Fitness Coaching: GPT-Powered Approaches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-prompts-career-stability-analysis/"><u>Understanding AI Prompts: Career Stability Analysis</u></a></li>
+</ul></div>
 

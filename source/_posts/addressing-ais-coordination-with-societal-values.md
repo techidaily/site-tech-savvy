@@ -1,7 +1,7 @@
 ---
 title: Addressing AI's Coordination with Societal Values
-date: 2024-09-16T16:12:19.092Z
-updated: 2024-09-17T16:26:53.003Z
+date: 2024-12-04T01:08:45.796Z
+updated: 2024-12-06T21:50:29.163Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The AI Control Problem Explained
 
  The AI control problem is the idea that AI will eventually become better at making decisions than humans. In accordance with this theory, if humans don't set things up correctly beforehand, we won't have a chance to fix things later, meaning AI will have effective control.
@@ -40,15 +44,27 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
 
  If an AI system were to surpass human intelligence without the proper safeguards, the result could be catastrophic. Such systems could assume control of physical resources as many tasks are achieved better or more efficiently. Since AI systems are designed to achieve maximum efficiency, losing control could lead to severe consequences.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Does the AI Control Problem Apply?
 
  The main problem is that the better an AI system gets, the harder it is for a human supervisor to monitor the technology to ensure manual control can be taken over easily should the system fail. Additionally, the human tendency to rely on an automated system is higher when the system performs reliably most of the time.
 
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A great example of this is the [Tesla Full-Self Driving (FSD) suite](https://www.makeuseof.com/what-is-tesla-fsd-how-does-it-work/). While the car can drive itself, it requires a human to have their hands on the steering wheel, ready to take control of the car should the system malfunction. However, as these AI systems get more reliable, even the most alert human's attention will begin to vary, and dependency on the autonomous system will increase.
 
  So what happens when cars start driving at speeds humans can't keep up with? We'll end up surrendering control to the car's autonomous systems, meaning an AI system will be in control of your life, at least until you reach your destination.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can the AI Control Problem Be Solved?
 
@@ -63,16 +79,7 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
  The DCAF approach always puts a human operator at the helm of an automated system, ensuring that their input controls the most important parts of the system's decision-making process. If a system is engaging enough for a human operator to pay attention constantly, the control problem can be solved.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can We Ever Truly Control AI?
@@ -98,5 +105,18 @@ thumbnail: https://thmb.techidaily.com/5e0a2202e9f4da31ba85b59400bc244193601b11b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-cutting-the-clutter-eschewing-fb-video-ads/"><u>[New] 2024 Approved Cutting the Clutter Eschewing FB Video Ads</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-t2-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo T2 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-glimpse-into-optimism-how-pre-ordering-apples-vision-pro-reflects-promising-innovations-to-expect-tech-insight/"><u>A Glimpse Into Optimism: How Pre-Ordering Apple's Vision Pro Reflects Promising Innovations to Expect | Tech Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-engineers-secure-operating-system-for-advanced-ai-servers-at-data-centers-insights-revealed/"><u>Apple Engineers Secure Operating System for Advanced AI Servers at Data Centers | Insights Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprando-conversores-top-de-dvd-para-mp4-no-ano-2023-a-solucao-ideal-para-windows-mac-e-ubuntu/"><u>Comprando Conversores Top De DVD Para MP4 No Ano 2023: A Solução Ideal Para Windows, Mac E Ubuntu</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/deep-dive-review-of-the-cleverly-designed-tcl-32s325-roku-tv-where-intelligence-meets-entertainment-2019-edition/"><u>Deep Dive Review of the Cleverly Designed TCL 32S325 Roku TV - Where Intelligence Meets Entertainment (2019 Edition)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/everyday-wins-claude-confronting-gpt-in-chatbot-arena/"><u>Everyday Wins: Claude Confronting GPT in ChatBot Arena</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hasty-steps-ios-photos-and-videos-on-windows-for-2024/"><u>Hasty Steps IOS Photos & Videos on Windows for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-science-behind-time-warp-visuals/"><u>In 2024, The Science Behind Time Warp Visuals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-smartphone-picks-the-devices-chosen-by-experts-at-zdnet/"><u>Top Smartphone Picks: The Devices Chosen by Experts at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-effortless-transactions-mastering-apple-pay-for-in-store-and-web-purchases/"><u>Unlocking Effortless Transactions: Mastering Apple Pay for In-Store and Web Purchases</u></a></li>
+</ul></div>
 

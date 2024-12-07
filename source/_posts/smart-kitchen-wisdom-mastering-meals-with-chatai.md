@@ -1,7 +1,7 @@
 ---
 title: "Smart Kitchen Wisdom: Mastering Meals with ChatAI"
-date: 2024-09-12T16:01:09.078Z
-updated: 2024-09-17T16:03:13.832Z
+date: 2024-12-02T23:11:13.752Z
+updated: 2024-12-06T17:48:07.806Z
 tags:
   - chatgpt
   - open-ai
@@ -26,17 +26,33 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Get Basic Recipes and Tips on ChatGPT
 
  For the most part, ChatGPT handles basic recipe and cooking questions well. Prompts like “what's a healthy recipe for salmon?” or “how do I make a salad that tastes good?” provide fine responses for starter recipes.
 
 ![ChatGPT salmon recipe part 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-salmon-recipe-part-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In addition, the chatbot can assist with everyday cooking questions, such as providing helpful techniques for preparing eggs in a more nutritious way upon request. With its ability to provide immediate and tailored advice, this feature offers a practical resource for anyone looking to make healthier and more informed cooking choices.
 
 ![ChatGPT healthier eggs tips](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthier-eggs-tips.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Healthier cooking options are just a simple prompt away. If you're already a fan of the [best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/), such as Mealime, then ChatGPT can offer similar recipes and advice. Because you can keep asking ChatGPT to refine its answers or omit any ingredients, however, it's a more interactive option than standard recipe collections.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Refine Your Prompts for Personalized ChatGPT Recipe Selections
 
@@ -56,16 +72,13 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
 
 ![ChatGPT healthy meal for kids directions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-meal-for-kids-part-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Meanwhile, the prompt “please provide a healthy vegetable recipe as though you are an upscale professional chef” offers a recipe for Seared Asparagus with Lemon-Herb Gremolata. With plenty of fresh herbs for flavor, it's a delicious addition to any meal. Who knew the chatbot had such elegant taste?
 
  In other words, use your prompts to find recipes that suit your needs and interests. Tailor them to your family's nutritional needs, or try out different types of cuisine from around the world.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does ChatGPT Provide Useful Nutritional Information?
 
@@ -78,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
  When asked to reveal sources for its nutritional information, the app refers to “dietary guidelines and recommendations from reputable organizations such as the World Health Organization (WHO), the U.S. Department of Agriculture (USDA), and the American Heart Association (AHA),” as well as “peer-reviewed scientific literature on nutrition, health, and wellness from reputable journals and research institutions.”
 
  It also offers the caveat that nutritional science is still evolving and recommends consulting with a registered dietitian or healthcare professional for more personalized information. If you want some additional resources, then check out the [best websites to learn more about healthy eating](https://www.makeuseof.com/best-websites-learn-healthy-eating/), including Nutritionfacts.org and Open Food Facts.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Boost Your Healthy Cooking Skills With ChatGPT
 
@@ -105,5 +111,24 @@ thumbnail: https://thmb.techidaily.com/6005b95475aa59c8b39a7a2eee1863dfc772797dd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-crafting-visual-stories-select-the-best-ig-video-editors/"><u>[New] 2024 Approved Crafting Visual Stories Select the Best IG Video Editors</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-stream-at-peak-performance-best-gpu-selection-guide/"><u>[New] 2024 Approved Stream at Peak Performance Best GPU Selection Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtube-conversion-made-simple-learn-how-without-spending-a-dime/"><u>[Updated] In 2024, YouTube Conversion Made Simple – Learn How Without Spending a Dime</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-the-eu-artificial-intelligence-act-and-its-influence-on-gpt-based-dialogue-systems/"><u>Breaking Down the EU Artificial Intelligence Act and Its Influence on GPT-Based Dialogue Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capture-the-action-in-depth-guide-to-game-recording-on-win10/"><u>Capture the Action In-Depth Guide to Game Recording on Win10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-top-6-artificial-intelligence-enhancements-in-iphones-with-ios-18-an-early-look-and-future-prospects/"><u>Discover the Top 6 Artificial Intelligence Enhancements in iPhones with iOS 18: An Early Look & Future Prospects</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-enhancing-your-network-with-the-netgear-ex3700-wifi-range-extender-ac750/"><u>Expert Review: Enhancing Your Network with the Netgear Ex3700 WiFi Range Extender (AC750)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-vs-perplexity-seeking-the-ideal-ai-chatbot/"><u>GPT Vs. Perplexity: Seeking the Ideal AI Chatbot</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-artist-writes-an-ipad-guide-to-time-lapse-photography/"><u>In 2024, The Artist' Writes An iPad Guide to Time-Lapse Photography</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581871284-journey-to-fluency-with-hindi-mondly-exposes-8-essential-learning-benefits/"><u>Journey to Fluency with Hindi: Mondly Exposes 8 Essential Learning Benefits</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-through-instagrams-new-trends/"><u>Navigating Through Instagram's New Trends</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-biz-strategy-with-chatgpt-whisper-apis/"><u>Revolutionizing Biz Strategy with ChatGPT, Whisper APIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shielding-integrity-openai-launches-gpt-fraud-detector/"><u>Shielding Integrity: OpenAI Launches GPT Fraud Detector</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/super-bowl-season-showdown-how-apples-innovative-ad-tops-football-broadcast-commercials-exclusive-report/"><u>Super Bowl Season Showdown: How Apple’s Innovative Ad Tops Football Broadcast Commercials Exclusive Report</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-list-top-7-ai-for-enhanced-talks/"><u>The Essential List: Top 7 AI for Enhanced Talks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-mac-mkv-players-compilation/"><u>Top Mac MKV Players Compilation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-promotions-in-july-2024-exclusive-insights/"><u>Top-Rated iPhone Promotions in July 2024 - Exclusive Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 6 ChatGPT Strategies for Data Analysis Professionals
-date: 2024-11-20T16:38:33.031Z
-updated: 2024-11-27T16:12:23.102Z
+date: 2024-12-04T23:28:59.569Z
+updated: 2024-12-06T22:26:46.401Z
 tags:
   - chatgpt
   - open-ai
@@ -28,15 +28,15 @@ thumbnail: https://thmb.techidaily.com/f567a9fec699d773d0b269b2abfaf091f129a875a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Refine Ideas About a Task
 
  Data analysts can leverage the capabilities of ChatGPT to refine and brainstorm about a task or case study. Since [ChatGPT](https://chat.openai.com/) can generate conversational text, you can engage it and explore various perspectives by asking questions.
 
 ![The response from ChatGPT on a prompt that ask it how to segment customer data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image3-v1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Suppose you want to write a script to automate a business process. You can ask ChatGPT for ideas on how to get started. All you have to do is ask it for a prompt via the chat and wait for its response. You can ask further questions or alternative viewpoints from the response.
 
@@ -62,19 +62,19 @@ CALCULATE(
 
 ![A prompt response from ChatGPT about a debugging task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image1-v1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. To Interpret Data and Explain Complex Code
 
 ![A prompt from ChatGPT that displays the explaination of a code block](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image6-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. To Write, Edit and Generate Codes, Formula, and Syntax
 
@@ -101,6 +101,10 @@ else:
        print(items2)`
 
 ![A prompt that display clearly written code by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image4-v1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Learning New Skills
 
@@ -259,11 +263,7 @@ ORDER BY e.employee_id;`
 ![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Data Analysts Can Use ChatGPT in Their Work
@@ -291,24 +291,22 @@ ORDER BY e.employee_id;`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-expert-tips-for-enhancing-ppts-with-auditory-content/"><u>[New] 2024 Approved Expert Tips for Enhancing PPTs with Auditory Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-find-your-favorite-skype-ringtones-with-these-4-websites/"><u>[New] Find Your Favorite Skype Ringtones with These 4 Websites</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-pushing-boundaries-innovative-memes-with-kinemaster/"><u>[New] Pushing Boundaries Innovative Memes with KineMaster</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-simplified-guide-to-incorporating-ken-burns-effect-in-camtasa/"><u>[Updated] In 2024, Simplified Guide to Incorporating Ken Burns Effect in Camtasa</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-social-blade-the-comprehensive-guide-to-youtube-performance-tracking/"><u>[Updated] In 2024, Social Blade The Comprehensive Guide to YouTube Performance Tracking</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/80-budget-friendly-portable-speaker-with-exceptional-audio-quality-for-all-genres-techradar/"><u>$80 Budget-Friendly Portable Speaker with Exceptional Audio Quality for All Genres - TechRadar</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-high-quality-sound-without-breaking-your-budget-discover-our-top-pick-for-affordable-bluetooth-speakers/"><u>Experience High-Quality Sound Without Breaking Your Budget: Discover Our Top Pick for Affordable Bluetooth Speakers!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/experience-superior-sound-at-only-18-grab-your-echo-pop-smart-speaker-during-amazons-biggest-sale-of-the-year/"><u>Experience Superior Sound at Only $18: Grab Your Echo Pop Smart Speaker During Amazon's Biggest Sale of the Year!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/homepod-vs-homepod-mini-a-comprehensive-sound-quality-showdown-by-zdnet/"><u>HomePod Vs. HomePod Mini: A Comprehensive Sound Quality Showdown by ZDNet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-google-meet-recording-made-easy-for-smartphone-users/"><u>In 2024, Google Meet Recording Made Easy for Smartphone Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/labor-day-deals-upgrade-your-smart-home-with-echo-show/"><u>Labor Day Deals: Upgrade Your Smart Home with Echo Show</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/save-big-this-presidents-day-unmissable-discounts-at-amazon-walmart-best-buy-60plus-deals-await/"><u>Save Big This Presidents' Day: Unmissable Discounts at Amazon, Walmart, Best Buy – 60+ Deals Await!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/the-most-advanced-wireless-headphones-2024-roundup/"><u>The Most Advanced Wireless Headphones, 2024 Roundup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-audio-equipment-comprehensive-reviews-by-professionals-zdnet/"><u>Top Rated Audio Equipment - Comprehensive Reviews by Professionals | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-audio-systems-expert-reviews-by-zdnet/"><u>Top-Rated Portable Audio Systems - Expert Reviews by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/viewing-someones-insta-without-an-account-what-you-need-to-know/"><u>Viewing Someone's Insta Without An Account: What You Need to Know</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/why-virtual-reality-lack-of-content/"><u>Why Virtual Reality Lack of Content?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-selection-of-premium-stereo-sound-systems-in-2n1ear-best/"><u>ZDNet's Ultimate Selection of Premium Stereo Sound Systems in 2#N1Ear, Best !</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unleash-collaborative-power-in-virtual-settings-the-top-10-free-recorders-for-2024/"><u>[New] Unleash Collaborative Power in Virtual Settings - The Top 10 Free Recorders for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-building-a-youtubing-brand-from-scratch-with-these-8-courses-for-2024/"><u>[Updated] Building a YouTubing Brand From Scratch with These 8 Courses for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-clear-water-footage-pro-techniques-for-gopro-underwater-scenes-for-2024/"><u>[Updated] Clear Water Footage Pro Techniques for GoPro Underwater Scenes for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-syncopated-social-media-adding-melodies-to-reels/"><u>[Updated] Syncopated Social Media Adding Melodies to Reels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-top-6-chatgpt-utilities-interact-with-your-files-doc-or-pdf/"><u>Discover the Top 6 ChatGPT Utilities: Interact with Your Files, Doc or PDF</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-benefits-of-co-pilot-in-chatgpt-applications/"><u>Discovering the Benefits of Co-Pilot in ChatGPT Applications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-spirit-chatgpt-as-a-zen-practice-companion/"><u>Elevate Your Spirit: ChatGPT as a Zen Practice Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/human-resources-streamlined-gpt-quick-fixes/"><u>Human Resources Streamlined: GPT Quick Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immersion-in-metaverse-leading-hmds-reviewed/"><u>Immersion in Metaverse Leading HMDs Reviewed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-happy-haven-20-top-prison-jail-gifs-and-photos-for-an-optimistic-social-media-experience/"><u>In 2024, Happy Haven 20 Top Prison Jail GIFs & Photos for an Optimistic Social Media Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-apples-latest-upgrade-the-new-airpods-pro-revealed-a-detailed-analysis-by-zdnet/"><u>Inside Apple's Latest Upgrade: The New AirPods Pro Revealed - A Detailed Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-airpod-maintenance-the-right-time-for-a-reset-expert-advice/"><u>Mastering AirPod Maintenance: The Right Time for a Reset | Expert Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/scam-suspicions-surrounding-truthcoin/"><u>Scam Suspicions Surrounding TruthCoin</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-is-here-chatgpt-launches-vital-updates-and-enhancements/"><u>The Future Is Here: ChatGPT Launches Vital Updates & Enhancements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transformar-archivos-raw-en-imagenes-jpg-gratuitas-con-movavi/"><u>Transformar Archivos RAW en Imágenes JPG Gratuitas Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-irritating-issue-with-iphones-a-call-to-apple-for-resolution/"><u>Unraveling the Irritating Issue with iPhones: A Call to Apple for Resolution</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring NVIDIA's AI Service for Personalized Creation
-date: 2024-11-20T16:46:21.005Z
-updated: 2024-11-27T16:42:09.302Z
+date: 2024-12-03T18:25:56.950Z
+updated: 2024-12-06T20:29:19.515Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is NVIDIA AI Foundations?
 
  NVIDIA AI Foundations is a cloud-based generative AI service that you can fine-tune for your business, use for medical research, or generate AI artwork. The AI models can be trained to produce texts, images, videos, and 3D content unique to your enterprise. This is particularly useful if you can't afford to build a customized AI model for your business because it's too expensive or complicated.
@@ -40,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 
  NVIDIA AI Foundations is available in three models: NeMo, Picasso, and BioNeMo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### NVIDIA NeMo
 
 ![NVIDIA NEMO illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-nemo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-large-language-ai-models-to-enterprises-worldwide)
 
@@ -59,7 +55,7 @@ Image Credit: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-large-la
  There are five NeMo models available with different parameters ranging from 8 billion parameters to 530 billion. If you're unsure which is the most suitable AI model for your business, you can consult an NVIDIA AI expert to help you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### NVIDIA Picasso
@@ -71,7 +67,7 @@ Image Credit: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-large-la
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NVIDIA BioNeMo
@@ -84,12 +80,16 @@ Image Credit: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-l
 
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize [the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Who Can Use NVIDIA AI Foundations?
 
 ![NVIDIA AI Foundations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)
@@ -123,19 +123,19 @@ Image Credit: [NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-adobe-photos-sway-decrease-a-crucial-feature-for-2024/"><u>[Updated] Adobe Photos' Sway Decrease - A Crucial Feature for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-accessing-and-making-sense-of-twitter-archives/"><u>2024 Approved Accessing and Making Sense of Twitter Archives</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/a-guide-to-navigating-vimeos-free-premium-and-pro-membership-levels-for-2024/"><u>A Guide to Navigating Vimeo’s Free, Premium & Pro Membership Levels for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-razer-leviathan-v2-soundbar-stunning-visuals-meet-impressive-acoustics-zdnet-insightful-review/"><u>Exploring the Razer Leviathan V2 Soundbar: Stunning Visuals Meet Impressive Acoustics | ZDNET Insightful Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-high-costs-to-audio-bliss-how-switching-from-a-klipsch-soundbar-to-jbl-upgraded-my-listening-experience-insights-by-zdnet/"><u>From High Costs to Audio Bliss: How Switching From a Klipsch Soundbar to JBL Upgraded My Listening Experience - Insights by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-create-the-ideal-vinyl-experience-expert-picks-for-unbeatable-turnstiles-amplifiers-and-accessories-zdnet/"><u>How to Create the Ideal Vinyl Experience: Expert Picks for Unbeatable Turnstiles, Amplifiers, and Accessories | ZDNet</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-your-pc-from-freezing-with-a-memory-leak-blue-screen-in-win11/"><u>How to Stop Your PC From Freezing with a Memory Leak Blue Screen in Win11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-privacy-how-to-completely-wipe-out-your-chat-history-with-gpt-3/"><u>Protecting Privacy: How to Completely Wipe Out Your Chat History with GPT-3</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tailored-techniques-to-procure-tweets-gifs-for-2024/"><u>Tailored Techniques to Procure Tweets GIFs for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-best-smart-speakers-with-wi-fi-connectivity-expert-picks-by-zdnet/"><u>The Best Smart Speakers with Wi-Fi Connectivity - Expert Picks by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-affordable-bluetooth-wireless-speakers-below-50-expert-picks-by-zdnet/"><u>Top 5 Affordable Bluetooth Wireless Speakers Below $50: Expert Picks by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-childrens-headphones-professional-recommendations-techradar/"><u>Top-Rated Children's Headphones : Professional Recommendations | TechRadar</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/tutoriel-complet-pour-le-sauvegarde-et-lutilisation-du-clonage-de-disque-c-sur-windows-server-2022/"><u>Tutoriel Complet Pour Le Sauvegarde Et L'Utilisation Du Clonage De Disque C Sur Windows Server 2022</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-precision-edits-made-simple-with-garageband-tools/"><u>[New] In 2024, Precision Edits Made Simple with GarageBand Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-masterful-collage-techniques-for-instagram-excellence/"><u>2024 Approved Masterful Collage Techniques for Instagram Excellence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-to-foster-your-personal-health-journey/"><u>Harnessing AI to Foster Your Personal Health Journey</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-macos-version-1441-ensures-secure-updates-for-your-apple-device-insights-from-zdnet/"><u>How macOS Version 14.ˈ4.1 Ensures Secure Updates for Your Apple Device - Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-pick-the-right-smartphone-case-every-time/"><u>How to Pick the Right Smartphone Case Every Time</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interpretive-analysis-of-the-metaphor-equating-the-internet-with-an-open-access-public-library-system/"><u>Interpretive Analysis of the Metaphor Equating the Internet with an Open-Access Public Library System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-software-update-news-how-to-safely-install-ios-16-public-beta-and-what-you-need-to-know-before-taking-the-leap-cnet/"><u>IPhone Software Update News: How to Safely Install IOS 16 Public Beta and What You Need to Know Before Taking the Leap | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-productivity-with-smart-strategies-and-key-resources-an-expert-guide-zdnets-top-tips-for-workflow-mastery/"><u>Maximizing Productivity with Smart Strategies and Key Resources – An Expert Guide | ZDNET's Top Tips for Workflow Mastery</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-stop-motion-like-a-pro-expert-tips-and-techniques-for-instagram-success/"><u>New Stop Motion Like a Pro Expert Tips and Techniques for Instagram Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reevaluating-unnecessary-additions-for-chatgpt/"><u>Reevaluating Unnecessary Additions for ChatGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-ksuserdll-file-not-detected-a-step-by-step-guide/"><u>Resolving the ksuser.dll File Not Detected: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/tailoring-the-perfect-video-recording-and-post-production-with-adobe-connect/"><u>Tailoring the Perfect Video Recording and Post-Production with Adobe Connect</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Has OpenAI Already Lost Control of ChatGPT?
-date: 2024-09-13T16:25:09.300Z
-updated: 2024-09-17T16:13:36.814Z
+date: 2024-12-04T22:05:55.844Z
+updated: 2024-12-06T16:33:20.555Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding How ChatGPT Works
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
 
  However, once OpenAI realized these ethical problems, the company scrambled to enact rules to stop the chatbot from generating responses that promote illegal, controversial, or unethical actions. For instance, the latest ChatGPT version will refuse to answer any direct prompt about bomb-making or how to cheat in an examination.
@@ -59,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
  Take a look at some examples below. If you ask ChatGPT how to cheat in exams, it will not produce any helpful response.
 
 ![How to cheat in an exams by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-cheat-in-an-exams.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
 
@@ -72,9 +84,17 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It even wrote a classic Nigerian Prince email scam when asked.
 
 ![Nigerian prince scam email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nigerian-prince-scam-email.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Jailbreaking almost completely invalidates any safeguards that OpenAI has put in place, highlighting that the company might not have a reliable way to keep its AI chatbot under control.
 
@@ -89,13 +109,6 @@ It even wrote a classic Nigerian Prince email scam when asked.
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can OpenAI Put ChatGPT Under Control?
 
@@ -116,5 +129,24 @@ It even wrote a classic Nigerian Prince email scam when asked.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-8-mirrorless-cameras-to-elevate-your-vlogging-game/"><u>[New] In 2024, Best 8 Mirrorless Cameras to Elevate Your Vlogging Game</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-endless-visual-streaming-services/"><u>[New] In 2024, Endless Visual Streaming Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-writing-simplified-by-hix/"><u>AI-Powered Writing Simplified by HIX</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-recent-ipad-launch-hit-a-snag-with-major-oversight-corrective-measures-explained-analysis-by-zdnet/"><u>Apple's Recent iPad Launch Hit a Snag with Major Oversight; Corrective Measures Explained | Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-demystified-for-parenting-success/"><u>ChatGPT Demystified for Parenting Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/command-driven-dialogue-giving-chatgpt-its-voice-back/"><u>Command-Driven Dialogue: Giving ChatGPT Its Voice Back</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/comprehensive-guide-to-ios-screenshotting-for-2024/"><u>Comprehensive Guide to iOS Screenshotting for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emojis-decoded-financial-narratives/"><u>Emojis Decoded: Financial Narratives</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-itel-a60s-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Itel A60s Pattern Lock Screen</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-sound-savants-playbook-for-efficient-audible-records/"><u>In 2024, The Sound Savant's Playbook for Efficient Audible Records</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-macos-security-effective-strategies-for-retrieve-keystore-passwords-cybersolutions-blog/"><u>Mastering macOS Security: Effective Strategies for Retrieve Keystore Passwords | CyberSolutions Blog</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-creator-summit-a-getaway-for-youtubes-top-talent-for-2024/"><u>The YouTube Creator Summit - A Getaway for YouTube's Top Talent for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/to-upgrade-or-not-insider-perspectives-on-why-you-should-consider-or-skip-the-iphone-16-reviewed/"><u>To Upgrade or Not: Insider Perspectives on Why You Should Consider (or Skip) the iPhone 16 Reviewed</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ubertragen-von-iphone-filmen-auf-einen-pc-unter-windows-1110-top-strategien/"><u>Überträgen Von iPhone-Filmen Auf Einen PC Unter Windows 11/10: Top-Strategien</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/workplace-transformation-by-ai-innovations/"><u>Workplace Transformation by AI Innovations</u></a></li>
+</ul></div>
 

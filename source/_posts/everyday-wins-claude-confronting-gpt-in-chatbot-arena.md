@@ -1,7 +1,7 @@
 ---
 title: "Everyday Wins: Claude Confronting GPT in ChatBot Arena"
-date: 2024-11-23T16:57:43.189Z
-updated: 2024-11-27T16:35:10.025Z
+date: 2024-11-30T20:08:01.408Z
+updated: 2024-12-06T19:04:18.362Z
 tags:
   - chatgpt
   - open-ai
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 
  ChatGPT's two most recent versions, GPT-3.5 and GPT-4, can be used, though the latter is only available via ChatGPT Plus. GPT-4 has far more parameters than GPT-3.5 and a higher character input and output limit. Again, both iterations of ChatGPT will be discussed here.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Claude: a Quick Comparison
 
  Before discussing ChatGPT and Claude's pros and cons in depth, we've provided a simple comparison table that you can use to understand the basics.
@@ -65,16 +61,12 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
  As you can see, there are several differences to consider.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Pros and Cons
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ChatGPT's Pros
 
@@ -98,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 
  These plugins have various functions but generally allow you to integrate ChatGPT into your online activities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ChatGPT's Cons
 
  One of ChatGPT's biggest downsides is that its training data only dates up to September 2021\. This means that ChatGPT cannot provide any newer information, which limits what you can request.
@@ -110,12 +106,16 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 
  Lastly, ChatGPT does not support use via a VPN, which can be tricky if you're a regular VPN user or want to get around your region's geo-restrictions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Claude's Pros and Cons
 
  So, how does Claude compare to ChatGPT?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Claude's Pros
@@ -133,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
  Additionally, Claude was trained with information dating up to December 2022, almost two years later than ChatGPT. This means Claude can call upon more recent data, expanding its ability to answer fact-based questions.
 
  Lastly, Claude 2 is entirely free to use, with no one-off fees or monthly subscriptions required for use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Claude's Cons
 
@@ -154,13 +158,13 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
 
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
@@ -175,10 +179,6 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
  When given the same problem, Claude gave us the following response:
 
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
 
@@ -219,22 +219,24 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-indoors-adopting-the-vibe-of-a-brighter-world/"><u>[Updated] 2024 Approved Indoors Adopting the Vibe of a Brighter World</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fire-browser-excellence-premier-facebook-downloaders-and-addons-for-firefox/"><u>[Updated] In 2024, Fire-Browser Excellence Premier Facebook Downloaders & Addons for FireFox</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-aspect-alteration-for-web-design/"><u>2024 Approved Quick Aspect Alteration for Web Design</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/display-depth-discussion-choosing-between-ultrawide-and-uhd-4k-for-2024/"><u>Display Depth Discussion Choosing Between UltraWide & UHD 4K for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enrollment-efficiency-registering-for-gpt-and-other-services-quickly/"><u>Enrollment Efficiency: Registering for GPT & Other Services Quickly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-from-the-ubuntu-terminal-using-shellgpt/"><u>How to Use ChatGPT From the Ubuntu Terminal Using ShellGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/idea-ignition-mindmappings-and-generative-gpt-3/"><u>Idea Ignition: Mindmappings & Generative GPT-3</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-can-i-watch-facebook-videos-on-my-apple-tv/"><u>In 2024, How Can I Watch Facebook Videos on My Apple TV?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-meticulous-study-of-magix-photo-controls/"><u>In 2024, Meticulous Study of MAGIX Photo Controls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-bard-googles-strategic-move-over-chatgpt/"><u>Introducing 'Bard': Google's Strategic Move Over ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-our-virtual-co-pilot-chatgpt-active/"><u>Is Our Virtual Co-Pilot, ChatGPT, Active?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ai-safely-the-top-six-warnings-to-heed/"><u>Navigating AI Safely: The Top Six Warnings to Heed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/no-more-texts-deactivate-your-gpt-3/"><u>No More Texts? Deactivate Your GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pushing-the-envelope-of-chatgpt-capabilities/"><u>Pushing the Envelope of ChatGPT Capabilities</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-hdr-photography-how-to-use-hdr-mode-on-your-android-devices/"><u>Updated HDR Photography How to Use HDR Mode on Your Android Devices</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-unleash-your-creativity-top-rated-vignette-apps-for-iphone-and-android/"><u>Updated Unleash Your Creativity Top-Rated Vignette Apps for iPhone and Android</u></a></li>
-<li><a href="https://driver-install.techidaily.com/updating-sound-drivers-for-enhanced-audibility-on-w10/"><u>Updating Sound Drivers for Enhanced Audibility on W10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-next-level-game-monitoring-software-beyond-the-fbx-standard/"><u>[Updated] 2024 Approved Next Level Game Monitoring Software Beyond the FBX Standard</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-breakthrough-ways-to-amplify-your-video-content-reach-for-2024/"><u>[Updated] Breakthrough Ways to Amplify Your Video Content Reach for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-navigating-stardews-ginger-island-for-2024/"><u>[Updated] The Ultimate Guide to Navigating Stardew’s Ginger Island for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolution-critical-innovations-in-the-latest-gpt-update/"><u>AI Revolution: Critical Innovations in the Latest GPT Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/commanding-the-power-of-freegpt-a-window-guide/"><u>Commanding the Power of FreeGPT: A Window Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/confronting-dangers-chatbot-wisdom-for-wilderness/"><u>Confronting Dangers: Chatbot Wisdom for Wilderness</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-of-tech-unveiled-how-apple-aims-to-reinvent-airpods-with-built-in-cameras-in-2e3o-exclusive-report-on-zdnet/"><u>Future of Tech Unveiled: How Apple Aims to Reinvent AirPods with Built-In Cameras in 2E3o | Exclusive Report on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-use-live-view-on-google-maps/"><u>How to Use Live View on Google Maps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-asmr-equipment-for-thoughtful-shoppers-seeking-performance/"><u>In 2024, Top ASMR Equipment for Thoughtful Shoppers Seeking Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-introduction-to-instructional-engineering/"><u>Mastering Introduction to Instructional Engineering</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preserve-your-apple-watchs-battery-life-a-comprehensive-guide-to-low-power-mode/"><u>Preserve Your Apple Watch's Battery Life - A Comprehensive Guide to Low Power Mode</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/quick-methods-to-transform-your-dvd-soundtracks-into-mp3-files/"><u>Quick Methods to Transform Your DVD Soundtracks Into MP3 Files</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-nubia-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Nubia</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-converting-various-video-and-audio-files-with-ease/"><u>Step-by-Step Guide: Converting Various Video and Audio Files with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-chatgpt-prompts-for-fitness-enthusiasts/"><u>Tailoring ChatGPT Prompts for Fitness Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-ai-driven-mobile-apps-for-enhanced-user-experience/"><u>Top 8 AI-Driven Mobile Apps for Enhanced User Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-longevity-of-your-apple-watchs-battery-unexpected-insights-revealed/"><u>Unveiling the Longevity of Your Apple Watch's Battery: Unexpected Insights Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visionmeld-digital-artistry-at-your-fingertips/"><u>VisionMeld Digital Artistry at Your Fingertips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-20-troubleshooting-find-out-the-7-best-fixes-for-launching-problems-on-pc/"><u>Warzone 2.0 Troubleshooting: Find Out the 7 Best Fixes for Launching Problems on PC</u></a></li>
 </ul></div>
 

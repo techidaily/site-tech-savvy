@@ -1,7 +1,7 @@
 ---
 title: "Google's Innovation Alert: How Does Gemini Stack Up Against ChatGPT?"
-date: 2024-11-20T16:51:36.721Z
-updated: 2024-11-27T17:14:13.279Z
+date: 2024-12-04T00:23:07.706Z
+updated: 2024-12-07T00:29:12.450Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://dhgate.sjv.io/5g6yb2)
 * [Is Gemini Better than ChatGPT?](https://homestyler.sjv.io/y209g3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Google's AI model Gemini has three variants, Ultra, Pro, and Nano, focused on different tasks and complexity levels.
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Google's Gemini AI Model?
 
 [Gemini is Google's most capable generative AI model](https://www.makeuseof.com/what-is-googles-ai-project-gemini/), able to understand and operate across different data formats, including text, audio, image, and video. It is Google's attempt to create a unified AI model drawing capabilities from its most capable AI technologies. Gemini will be available in three variants:
@@ -61,9 +61,17 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use Google Gemini AI
 
@@ -81,13 +89,13 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
@@ -96,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
  Here's the source screenshot.
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
@@ -113,16 +117,12 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
@@ -150,14 +150,22 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-windows-10-advanced-screen-recorder-software/"><u>[New] In 2024, Windows 10 Advanced Screen Recorder Software</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-captivating-viewers-with-youtubes-visual-polishing/"><u>2024 Approved Captivating Viewers with Youtube's Visual Polishing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-top-video-doorbell-picks-and-reviews-by-techsavvypro/"><u>2024'S Top Video Doorbell Picks & Reviews by TechSavvyPro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-firsthand-account-keeping-your-entire-home-running-on-ecoflows-portable-generator/"><u>A Firsthand Account: Keeping Your Entire Home Running on EcoFlow's Portable Generator</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/broadcast-battle-analyzing-obs-vs-twitchs-pros-for-2024/"><u>Broadcast Battle Analyzing OBS Vs. Twitch's Pros for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-most-innovative-and-chic-small-residences-of-2022-a-modern-tiny-home-showcase/"><u>Discover the Most Innovative and Chic Small Residences of 2022: A Modern Tiny Home Showcase</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-fire-stick-experience-downloading-and-using-the-fandango-app/"><u>Enhance Your Fire Stick Experience: Downloading and Using the Fandango App</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-hardware-reviews-and-guides/"><u>Tom's Tech Insights: Expert Hardware Reviews & Guides</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-mowing-experience-with-the-most-enjoyable-remote-controlled-lawnmower-insights-from-zdnet/"><u>Transform Your Mowing Experience with the Most Enjoyable Remote-Controlled Lawnmower - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-effortless-image-bending-in-adobe-for-2024/"><u>[New] Effortless Image Bending in Adobe for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-gameboy-advance-mastered-android-emulator-selection-for-2024/"><u>[New] GameBoy Advance Mastered Android Emulator Selection for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-exquisite-online-destinations-for-sparkling-3d-typography/"><u>[Updated] In 2024, Exquisite Online Destinations for Sparkling 3D Typography</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts/"><u>[Updated] In 2024, Innovative Pathways Select 7 Tools for Artwork Conversion to NFTs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-perfect-spectrum-balancer/"><u>2024 Approved Perfect Spectrum Balancer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apex-selection-of-qi-chargers-in-depth-analysis-by-technology-gurus-cnet/"><u>Apex Selection of Qi Chargers : In-Depth Analysis by Technology Gurus - CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-efficiency-essential-productivity-hacks-and-apps-to-streamline-your-workday-insights-from-zdnet/"><u>Boosting Efficiency: Essential Productivity Hacks & Apps to Streamline Your Workday - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/common-frustrations-with-iphone-ios-18-upgrade-revealed-in-new-study/"><u>Common Frustrations with iPhone iOS 18 Upgrade Revealed in New Study</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-infiltration-despite-advanced-tech/"><u>Content Infiltration Despite Advanced Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-showdown-pixel-nine-pro-xl-challenges-iphone-15-pro-camera-stunning-results-and-surprises-unfolded-gizmodo/"><u>Exclusive Showdown: Pixel Nine Pro XL Challenges iPhone 15 Pro Camera - Stunning Results and Surprises Unfolded | Gizmodo</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-insights-on-navigating-google-duo-and-its-capabilities/"><u>Expert Insights on Navigating Google Duo and Its Capabilities</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-driver-downloads-and-installation-guide-for-evga-graphics-cards-on-windows/"><u>Free Driver Downloads & Installation Guide for EVGA Graphics Cards on Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/garmin-vivoactive-3-enhance-your-fitness-routine-with-built-in-music-and-smart-connectivity/"><u>Garmin Vivoactive 3: Enhance Your Fitness Routine with Built-In Music and Smart Connectivity</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-murky-waters-of-ai-and-privacy-concerns/"><u>Navigating the Murky Waters of AI and Privacy Concerns</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sculpting-the-future-originality-in-ai-visuals-with-copilot-mastery/"><u>Sculpting the Future: Originality in AI Visuals with Copilot Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-communication-with-effective-chatgpt-api-usage/"><u>Transform Communication with Effective ChatGPT API Usage</u></a></li>
 </ul></div>
 

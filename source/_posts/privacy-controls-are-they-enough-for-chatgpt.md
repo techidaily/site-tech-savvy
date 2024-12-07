@@ -1,7 +1,7 @@
 ---
 title: "Privacy Controls: Are They Enough for ChatGPT?"
-date: 2024-11-26T16:42:50.842Z
-updated: 2024-11-27T16:08:08.885Z
+date: 2024-12-01T16:34:40.805Z
+updated: 2024-12-06T20:33:59.557Z
 tags:
   - chatgpt
   - open-ai
@@ -28,17 +28,9 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Information Does ChatGPT Store?
 
 ![A conversation with ChatGPT in which it says OpenAI keeps some personal data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-issues-does-openai-keep-private-data.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) tells us almost everything we need to know about its data retention habits. It gathers its information from three sources:
 
@@ -50,15 +42,15 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 
  The real risk is that it collects data from your conversations with ChatGPT. When you’re using the AI, it’s extremely easy to feed it your private information by mistake. All you need to do is forget to censor a document that you ask it to proofread, and you could be in real trouble.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Your Account and Billing Information
 
  OpenAI stores your name, contact details, login credentials, payment information, and transaction records. It only keeps the latter if you sign up for a premium account. This information is basic, and you can expect almost any website with which you have an account to collect it from you.
 
  If you email the company or reach out to its customer support, it records your name, email address, and the content of your message. Similarly, it records your social media contact details and any personal information you share if you leave a comment on its social pages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Your Device Information
 
@@ -67,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
  OpenAI [uses cookies to track your browsing activity](https://www.makeuseof.com/a-beginners-guide-to-cookies/) both in the chat window and on its site. It claims to use this information for analytics and to find out exactly how you interact with ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Information That You Put Into the Chat
@@ -80,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 
  The privacy policy states that if you intend to enter personal data into the chat, you need to provide the people involved with adequate privacy notices. You also need to obtain their consent, and be able to show OpenAI that you are processing this data within the law. Further, if you’re entering information defined as private [according to GDPR](https://www.makeuseof.com/what-is-gdpr/), you must contact OpenAI to execute its Data Processing Addendum.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does ChatGPT Record Your Conversations?
 
  Yes, ChatGPT records everything you type into it. Its privacy policy states that when you use ChatGPT, it may collect personal information from your messages, any files you upload, and any feedback you provide. That makes [ChatGPT a cybersecurity risk too](https://www.makeuseof.com/is-chatgpt-safe-cybersecurity-risks-openai-chatbot/).
@@ -89,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
  It should be noted, however, that OpenAI allows users to retain a degree of control over their privacy. This is mostly due to the changes the company made in April 2023, when it introduced a new feature to ChatGPT. This feature allows users to disable chat history easily, via the settings menu (**Settings > Data controls > Chat history & training**).
 
  In an [OpenAI announcement](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) made at the time, it was stated that, when chat history is disabled, the company only retains conversations for 30 days. After 30 days, the conversations are deleted permanently. Conversations are only reviewed when they need to be monitored for abuse and inappropriate behavior.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Who Can See My ChatGPT Data?
 
@@ -114,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 
  And finally, OpenAI’s training staff will review your conversations and use them to improve the AI. They also ensure that what you’re saying in your chats complies with the company’s policies. If you enter personal information into the chatbot, the trainers can see it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will Regulatory Pressure Force OpenAI to Take Privacy More Seriously?
 
  In May 2023, [Italy banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) for allegedly violating the GDPR. The ban has since been lifted, but regulatory bodies around the world have put pressure on OpenAI, demanding more transparency and accountability.
@@ -125,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
  The FTC also asked OpenAI to explain the security incident that took place in March 2023, when a bug in the system allowed some users to see others' chat history and payment information. In response, OpenAI CEO Sam Altman said in a social media post that his company would work with the agency, but stressed that ChatGPT follows the law.
 
  It's more than likely that governments across the globe will launch similar investigations into ChatGPT in the future, and it remains to be seen if this will have an impact on OpenAI's approach to user privacy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT: Friend or Foe?
 
@@ -153,24 +153,20 @@ thumbnail: https://thmb.techidaily.com/6169c8a9aeeb67674aa07a2a9dad06d0ae5fef5e1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-digital-splendor-on-youtube-the-hue-harmonization-way/"><u>[Updated] Digital Splendor on YouTube The Hue Harmonization Way</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-exclusive-insight-into-mematics-app-features/"><u>[Updated] Exclusive Insight Into Mematic's App Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-youtube-to-excitement-easy-guide-to-making-animated-gifs/"><u>[Updated] From YouTube to Excitement Easy Guide to Making Animated GIFS</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-mastering-the-art-of-dating/"><u>ChatGPT's Role in Mastering the Art of Dating</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatutor-4-essential-gpt-accuracy-verification-for-teachers/"><u>ChaTutor 4: Essential GPT Accuracy Verification for Teachers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquering-chatgpt-api-utilization-techniques/"><u>Conquering ChatGPT: API Utilization Techniques</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fabricate-comical-artwork-adobe-style-for-2024/"><u>Fabricate Comical Artwork, Adobe Style for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/forge-bonds-faster-with-ai-love-assistant/"><u>Forge Bonds Faster with AI Love Assistant</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-completely-remove-files-and-folders-expert-algorithm-guide/"><u>How to Completely Remove Files & Folders: Expert Algorithm Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-register-for-chatgpt-telegram-whatsapp-and-other-services-without-a-phone-number/"><u>How to Register for ChatGPT, Telegram, WhatsApp and Other Services Without a Phone Number</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/making-an-informed-ai-selection-comparing-bing-chat-to-chatgpt/"><u>Making an Informed AI Selection: Comparing Bing Chat to ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/regaining-control-over-your-chatgpt-experience/"><u>Regaining Control Over Your ChatGPT Experience</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/solved-connectivity-disconnection/"><u>Solved Connectivity Disconnection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-reactivating-sound-functionality-in-fallout-4-pc-edition/"><u>Step-by-Step Solution: Reactivating Sound Functionality in Fallout 4 PC Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chatgptplus-experience-transforming-how-we-learn-languages/"><u>The ChatGPT+ Experience: Transforming How We Learn Languages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-folklore-merging-human-art-with-machine-learning/"><u>The Future of Folklore: Merging Human Art with Machine Learning</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-easy-steps-to-translate-video-on-twitter/"><u>Updated In 2024, Easy Steps to Translate Video on Twitter</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/1728501320105-windows-1011/"><u>Windows 10/11隨機抽取文件位置解析 - 完全指南</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebook-fanfare-identifying-the-top-8-likable-apps-for-you/"><u>[Updated] In 2024, Facebook Fanfare Identifying the Top 8 Likable Apps for You</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harness-the-power-of-mematic-for-notes/"><u>2024 Approved Harness the Power of Mematic for Notes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nokia-c210-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nokia C210 to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-best-of-chatgpts-innovative-game-lineup/"><u>Explore: The Best of ChatGPT's Innovative Game Lineup</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ideal-add-ons-maximizing-chatgpt-in-vs-code-environment/"><u>Ideal Add-Ons: Maximizing ChatGPT in VS Code Environment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-energy-efficiency-utilizing-low-power-mode-on-macos-monterey-a-comprehensive-guide/"><u>Mastering Energy Efficiency: Utilizing Low Power Mode on macOS Monterey - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-output-on-your-ipad-a-curated-list-of-productivity-powerhouses-and-workflow-hacks-insights/"><u>Maximizing Output on Your iPad: A Curated List of Productivity Powerhouses and Workflow Hacks | Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-complex-recipes-using-7-chatgpt-techniques/"><u>Simplify Complex Recipes Using 7 ChatGPT Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-triumph-overcoming-death-stranding-crash-problems-on-your-pc-game-experience/"><u>Troubleshooting Triumph! Overcoming Death Stranding Crash Problems on Your PC Game Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unclutter-your-iphone-a-simple-guide-to-free-up-storage-space-discover-the-technique/"><u>Unclutter Your iPhone: A Simple Guide to Free Up Storage Space – Discover the Technique!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-next-level-traits-for-gpt-5/"><u>Unleashing Potential: Next Level Traits for GPT-5</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-x50-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor X50? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Instant Advantage: Installing Microsoft Copilot on Your Apple Computer"
-date: 2024-09-16T16:29:41.719Z
-updated: 2024-09-17T16:18:23.651Z
+date: 2024-12-04T23:47:26.230Z
+updated: 2024-12-06T20:29:03.555Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -52,13 +56,14 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
 ![Dragging Copilot app from Launchpad to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/dragging-copilot-app-from-launchpad-to-the-dock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Double-click its icon to start using Copilot right away. Jump to the **Getting Started** section below to get acquainted with the app.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Launch Copilot on Mac With a Keyboard Shortcut
@@ -77,14 +82,11 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other [useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/). Then, hit the **Return** key.  
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
 
- You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
 
 ## Install Microsoft Copilot as a Web App on Your Mac
 
@@ -97,19 +99,14 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 
 ![Adding Copilot web app to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-copilot-web-app-to-the-dock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll find the Copilot web app on your Dock immediately. Launch it to begin.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getting Started With Microsoft Copilot on Your Mac
@@ -122,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
 3. You can choose from **Creative**, **Balanced**, and **Precise**. By default, it's set to **Creative**, which gets you descriptive responses. I use the **Precise** setting as I prefer concise responses with only the facts that I need.  
 ![Changing tone in the Copilot app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/changing-tone-in-the-copilot-app.jpg)
 4. Additionally, you can click **Sign in** in the top-left corner of the window and log in with your Microsoft account. This allows you to ask more questions and have longer conversations with the AI chatbot.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  At this point, you're all set to use Copilot on your Mac at its full potential. If you want to make further tweaks, click the **three-line** icon in the top-left corner to access the app's settings menu. Here, you can change the theme, region and language, permissions, and privacy settings for Copilot.
 
@@ -157,5 +147,20 @@ thumbnail: https://thmb.techidaily.com/57a65c2b181c750fb6364283d0997e4f78e21ce13
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-understanding-where-youtube-transforms-videos-into-art/"><u>[New] Understanding Where YouTube Transforms Videos Into Art</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-3dr-a-compreran-users-journey-through-tech-aloneness/"><u>2024 Approved '3DR' A Compreran User's Journey Through Tech Aloneness</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-share-the-laughter-mastering-kinemaster/"><u>2024 Approved Share the Laughter Mastering KineMaster</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/converti-gratuitamente-file-wav-in-formato-flac-con-soluzione-online-movevvi/"><u>Converti Gratuitamente File WAV in Formato FLAC Con Soluzione Online - Movevvi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-tech-tangles-chatgpt-for-pc-recovery/"><u>Decoding Tech Tangles - ChatGPT for PC Recovery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/doubting-zerogpts-trustworthiness-yet/"><u>Doubting ZeroGPT's Trustworthiness, Yet?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-wireless-experience-download-acer-bluetooth-drivers-today/"><u>Enhance Wireless Experience - Download Acer Bluetooth Drivers Today</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-analysis-by-zdnet-reveals-iphone-14s-optimal-functionality-for-users-needs/"><u>Expert Analysis by ZDNet Reveals iPhone 14'S Optimal Functionality for Users' Needs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/harnessing-the-power-of-digital-cognition-for-corporate-evolution-perspectives-by-abbyy-thought-leaders/"><u>Harnessing the Power of Digital Cognition for Corporate Evolution - Perspectives by ABBYY Thought Leaders</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/maximize-your-auction-success-in-2009-insider-techniques-for-efficient-ebay-browsing-and-mass-email-automation/"><u>Maximize Your Auction Success in 2009: Insider Techniques for Efficient eBay Browsing and Mass Email Automation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-at-stake-a-closer-look-at-3-chatbot-threats/"><u>Privacy at Stake: A Closer Look at 3 Chatbot Threats</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-file-backup-and-restoration-with-yl-software-solutions/"><u>Step-by-Step Guide: File Backup & Restoration with YL Software Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stop-the-surveillance-with-a-simple-exit-from-chatgpt/"><u>Stop the Surveillance with a Simple Exit From ChatGPT</u></a></li>
+</ul></div>
 

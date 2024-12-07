@@ -1,7 +1,7 @@
 ---
 title: GPT-4's New Horizon Beyond GPT-3.5 Limits
-date: 2024-09-16T16:17:41.716Z
-updated: 2024-09-17T16:28:15.639Z
+date: 2024-12-03T21:13:51.430Z
+updated: 2024-12-06T22:00:35.709Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. GPT-4 vs. GPT-3.5: Creativity
 
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
  However, GPT-4 raises the bar even further. Although GPT-4's creative advantage may not be apparent when trying to solve basic problems, the difference in creativity between both models becomes apparent as the task becomes harder and requires a higher level of creativity.
 
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem, [ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
@@ -57,15 +65,16 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to [OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
@@ -74,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
@@ -113,5 +119,23 @@ thumbnail: https://thmb.techidaily.com/1d291af8978be2d3ed68f21fab8d3c18b52d91cbf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-bumper-bliss-kids-car-games-galore/"><u>[New] Bumper Bliss Kids Car Games Galore</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-gif-creation-journey-unveiling-the-ultimate-9-tools-of-memetic-ingenuity/"><u>[New] In 2024, The GIF Creation Journey Unveiling the Ultimate 9 Tools of Memetic Ingenuity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-top-picks-and-tips-for-thriving-in-valheim/"><u>[Updated] In 2024, Top Picks & Tips for Thriving in Valheim</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-market-dominance-keyphrases-for-successful-advertising/"><u>[Updated] Market Dominance Keyphrases for Successful Advertising</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screenrec-101-essential-techniques-for-laptops/"><u>2024 Approved ScreenRec 101 Essential Techniques for Laptops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-new-lifeline-premium-chatgpt-20mo-just-for-us/"><u>AI's New Lifeline: Premium ChatGPT ($20/Mo) Just For US</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-your-presentations-top-7-ai-solutions/"><u>Elevating Your Presentations: Top 7 AI Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-power-of-personalization-with-openais-gpt-store/"><u>Explore the Power of Personalization with OpenAI's GPT Store</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/extreme-days-mean-a-warmer-world-the-real-score/"><u>Extreme Days Mean a Warmer World? The Real Score</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-started-with-chatgpt-android-widget-instructions/"><u>Get Started with ChatGPT: Android Widget Instructions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-create-a-negative-like-image-look-for-2024/"><u>How to Create a Negative-Like Image Look for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g04-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G04 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlined-linux-installation-of-bavarder-chatgpt/"><u>Streamlined Linux Installation of Bavarder ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-2022s-best-microsoft-productivity-tools-for-ipad-and-iphone-industry-insights/"><u>The Ultimate List of 2022'S Best Microsoft Productivity Tools for iPad & iPhone - Industry Insights</u></a></li>
+</ul></div>
 

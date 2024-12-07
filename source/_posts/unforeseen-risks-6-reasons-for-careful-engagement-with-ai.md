@@ -1,7 +1,7 @@
 ---
 title: "Unforeseen Risks: 6 Reasons for Careful Engagement With AI"
-date: 2024-11-21T16:30:03.919Z
-updated: 2024-11-27T16:38:12.421Z
+date: 2024-12-01T21:40:54.329Z
+updated: 2024-12-06T21:04:09.805Z
 tags:
   - chatgpt
   - open-ai
@@ -40,10 +40,6 @@ AI is transforming the world as we know it, with its impact felt across every in
 
  While this is just the nature of AI right now, you can see how this can become a problem. Most people don't fact-check their Google searches, and it's the same here with chatbots like ChatGPT. This can lead to misinformation, and we already have plenty of that to go around—which brings us to the second point.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. It Can Easily Be Used to Manipulate Information
 
  It's no secret that AI can be unreliable and prone to error, but one of its most insidious traits is its tendency to manipulate information. The problem is that AI lacks a nuanced understanding of your context, leading it to bend the facts to suit its own purposes.
@@ -52,12 +48,16 @@ AI is transforming the world as we know it, with its impact felt across every in
 
  Sure, you can easily write this off as a bug or a one-off mistake. However, this does not change the fact that these AI tools are imperfect, and we should proceed cautiously.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. It Can Hinder Your Creativity
 
 ![man with head on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-with-head-on-desk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many professionals, such as writers and designers, are now using AI to maximize efficiency. However, it's important to understand that AI should be viewed as a tool rather than a shortcut. While the latter certainly sounds tempting, it can severely impact your creativity.
@@ -67,6 +67,10 @@ AI is transforming the world as we know it, with its impact felt across every in
  For instance, designers can [use Midjourney AI to create art](https://www.makeuseof.com/how-to-use-midjourney-create-ai-art/), but relying solely on AI can limit the scope of creativity. Instead of exploring new ideas, you may end up replicating existing designs. If you're a writer, you can [use ChatGPT or other AI chatbots for research](https://www.makeuseof.com/ai-writing-tools/), but if you use it as a shortcut to generate content, your writing skills will stagnate.
 
  Using AI to supplement your research is different from solely relying on it to generate ideas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. AI Can Easily Be Misused
 
@@ -78,10 +82,6 @@ AI is transforming the world as we know it, with its impact felt across every in
 
  The availability of AI capabilities as open-source libraries have enabled anyone to access technologies like image and facial recognition. This poses a significant cybersecurity risk, as terrorist groups could use these technologies to launch terror attacks
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Limited Understanding of Context
 
  As mentioned earlier, AI has a very limited understanding of context, which can be a significant challenge in decision-making and problem-solving. Even if you provide AI with contextual information, it can miss the nuances and provide inaccurate or incomplete information that may lead to incorrect conclusions or decisions.
@@ -91,7 +91,7 @@ AI is transforming the world as we know it, with its impact felt across every in
  For example, consider a chatbot that is programmed to assist customers with their queries about a product. While the chatbot may be able to answer basic questions about the product's features and specifications, it may struggle to provide personalized advice or recommendations based on the customer's unique needs and preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. It Can't Replace Human Judgment
@@ -99,7 +99,7 @@ AI is transforming the world as we know it, with its impact felt across every in
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When seeking answers to complex questions or making decisions based on subjective preferences, relying solely on AI can be risky.
@@ -133,18 +133,18 @@ AI is transforming the world as we know it, with its impact felt across every in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-elevate-engagement-cutting-edge-hashtags-for-hit-making-videos/"><u>[New] Elevate Engagement Cutting-Edge Hashtags for Hit-Making Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-images-deciphered-your-source-hunting-companion/"><u>[Updated] In 2024, Instagram Images Deciphered Your Source Hunting Companion</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-streamlining-the-production-process-of-your-short-videos/"><u>[Updated] Streamlining the Production Process of Your Short Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/180-sale-alert-why-the-arlo-pro-5s-might-become-your-top-choice-in-security-cameras-a-zdnet-review/"><u>$180 Sale Alert! Why the Arlo Pro 5S Might Become Your Top Choice in Security Cameras - A ZDNet Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advanced-aviary-nutrition-devices-expert-picks-for-smart-bird-feeders-techbirdreviews/"><u>Advanced Aviary Nutrition Devices: Expert Picks for Smart Bird Feeders | TechBirdReviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-energy-solution-how-one-budget-friendly-power-station-transformed-my-cross-country-adventure-insights-for-travelers/"><u>Affordable Energy Solution: How One Budget-Friendly Power Station Transformed My Cross-Country Adventure - Insights for Travelers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/affordable-power-station-test-review-perfect-companion-for-your-next-road-trip-zdnet/"><u>Affordable Power Station Test Review: Perfect Companion for Your Next Road Trip | ZDNet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expertise-amplified-10-must-know-canva-techniques-for-2024/"><u>Expertise Amplified 10 Must-Know Canva Techniques for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/limited-time-sale-on-the-m3-macbook-air-speedy-16gb-and-elegant-13-for-just-1149-dont-miss-out/"><u>Limited Time Sale on the M3 MacBook Air: Speedy 16GB & Elegant 13 for Just $1,149 - Don't Miss Out!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/msi-z370-a-pro-motherboard-essential-driver-download-guide/"><u>MSI Z370-A Pro Motherboard: Essential Driver Download Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-realm-of-ai-crafting-prompts-and-career-stability/"><u>Navigating the Realm of AI: Crafting Prompts & Career Stability</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-of-your-mac-reveal-hidden-files-using-terminal/"><u>Unlocking the Secrets of Your Mac: Reveal Hidden Files Using Terminal</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ifunbox/"><u>「最新iFunBox日本語版を無料で入手し、スムーズに設置するためのチュートリアル」</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimize-your-videos-quickly-with-story-remix-in-windows-10-photos/"><u>2024 Approved Optimize Your Videos Quickly with Story Remix in Windows 10 Photos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-top-8-best-free-and-paid-video-collage-apps-for-android/"><u>In 2024, Top 8 Best Free and Paid Video Collage Apps for Android</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-move-top-secrets-for-flawlessly-upgrading-to-your-new-iphone-how-to-guide/"><u>Mastering the Move: Top Secrets for Flawlessly Upgrading to Your New iPhone How-To Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-bring-your-videos-to-life-top-5-iphone-video-editing-apps/"><u>New Bring Your Videos to Life Top 5 iPhone Video Editing Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-public-domain-perfection-top-10-image-websites/"><u>New In 2024, Public Domain Perfection Top 10 Image Websites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/on-site-ai-management-via-agentgpt/"><u>On-Site AI Management via AgentGPT</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-s17e-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo S17e to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ai-boundaries-in-the-world-of-professional-writing/"><u>Understanding AI Boundaries in the World of Professional Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-claude-the-ultimate-ai-for-professionals/"><u>Unveiling the Power of Claude: The Ultimate AI for Professionals</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-workings-of-ais-creative-text-exploration/"><u>Unveiling the Workings of AI's Creative Text Exploration</u></a></li>
 </ul></div>
 

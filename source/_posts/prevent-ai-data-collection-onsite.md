@@ -1,7 +1,7 @@
 ---
 title: Prevent AI Data Collection Onsite
-date: 2024-09-16T16:22:55.572Z
-updated: 2024-09-17T16:28:46.395Z
+date: 2024-12-01T19:03:22.082Z
+updated: 2024-12-06T19:06:16.060Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/0b8016c599d3aa9b67e09f8f36655e93fe5b6ad1f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does OpenAI Crawling Work?
 
  A [web crawler](https://www.makeuseof.com/what-is-a-web-crawlerspider-and-how-does-it-work/) (also known as a spider or a search engine bot) is an automated program that scans the internet for information. It then compiles that information in a way that's easy for your search engine to access it.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/0b8016c599d3aa9b67e09f8f36655e93fe5b6ad1f
  Web crawlers index every page of every relevant URL, usually focusing on websites that are more relevant to your search queries. For example, let's assume you're googling a particular Windows error. The web crawler within your search engine will scan all the URLs from websites that it deems more authoritative on the topic of Windows errors.
 
  OpenAI's web crawler is called GPTBot, and according to [OpenAI's documentation](https://platform.openai.com/docs/gptbot), giving GPTBot access to your website can help train the AI model to become safer, and more accurate, and it can even help expand the AI model's capabilities.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Prevent OpenAI From Crawling Your Website
 
@@ -48,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/0b8016c599d3aa9b67e09f8f36655e93fe5b6ad1f
 
  Here's how to control what GPTBot can do on your website:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Completely Block GPTBot From Accessing Your Website
 
 1. [Set up the robot.txt file](https://www.makeuseof.com/tag/how-to-correctly-set-up-robots-txt/), and then edit it with any text editing tool.
@@ -57,16 +69,7 @@ thumbnail: https://thmb.techidaily.com/0b8016c599d3aa9b67e09f8f36655e93fe5b6ad1f
 Disallow: /`
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Block Only Certain Pages From Being Accessed by GPTBot
@@ -81,10 +84,7 @@ Disallow: /directory-2/`
  However, keep in mind that changing the **robot.txt** file is not a retroactive solution, and any information that GPTBot may have already gathered from your website will not be recoverable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Allows Website Owners to Opt-Out From Crawling
@@ -112,5 +112,17 @@ Disallow: /directory-2/`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-rapid-routines-for-capturing-video-calls/"><u>[New] In 2024, Rapid Routines for Capturing Video Calls</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-one-earbud-woes-restoration-tips/"><u>[Updated] In 2024, One Earbud Woes Restoration Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4-is-now-free-for-everyone-but-there-are-still-6-reasons-to-keep-using-chatgpt-plus/"><u>GPT-4 Is Now Free for Everyone, but There Are Still 6 Reasons to Keep Using ChatGPT Plus</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertly-convert-your-content-to-stellar-hd-with-top-tools/"><u>In 2024, Expertly Convert Your Content to Stellar HD with Top Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-find-your-favorites-ranking-of-8-preferred-mp3-extractors-android/"><u>In 2024, Find Your Favorites Ranking of 8 Preferred MP3 Extractors (Android)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-pro-showdown-deciding-on-the-right-flagship-tablet-for-your-needs-macworld-review/"><u>IPad Pro Showdown: Deciding on the Right Flagship Tablet for Your Needs | MacWorld Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/iphone-users-beware-how-to-put-a-stop-to-unwelcome-text-communications/"><u>IPhone Users Beware! How to Put a Stop to Unwelcome Text Communications</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-9gag-a-guide-for-memetic-creation-for-2024/"><u>Mastering 9GAG A Guide for Memetic Creation for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/staying-one-step-ahead-how-apple-is-fortifying-imessage-defenses-for-tomorrows-challenges-featured-on-zdnet/"><u>Staying One Step Ahead: How Apple Is Fortifying iMessage Defenses for Tomorrow's Challenges, Featured on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-world-of-grok-ai-through-elons-insights-into-its-function-and-cost/"><u>Unveiling the World of Grok AI Through Elon's Insights Into Its Function and Cost</u></a></li>
+</ul></div>
 

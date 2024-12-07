@@ -1,7 +1,7 @@
 ---
 title: "Laughter in Code: Portable Computing Past, Secure Browsing Present"
-date: 2024-11-26T16:16:50.936Z
-updated: 2024-11-27T16:44:16.600Z
+date: 2024-12-04T21:14:42.800Z
+updated: 2024-12-06T17:27:35.592Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shownotes
@@ -111,21 +111,19 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-augmenting-your-stardew-experience-with-seven-top-mods/"><u>[New] Augmenting Your Stardew Experience with Seven Top Mods</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-cumulative-community-capture/"><u>[Updated] In 2024, Cumulative Community Capture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-download-free-sound-effects-for-youtubers/"><u>[Updated] In 2024, Download Free Sound Effects for YouTubers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-free-ai-tools-to-generate-professional-emails-with-chatgpt-and-summarize-your-inbox/"><u>5 Free AI Tools to Generate Professional Emails With ChatGPT & Summarize Your Inbox</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-transform-healthcare/"><u>Can ChatGPT Transform Healthcare?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-rising-the-transformation-of-digital-storytelling/"><u>Chatbots Rising: The Transformation of Digital Storytelling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/disabling-recording-privacy-focused-tips-for-chatgpt-users/"><u>Disabling Recording: Privacy-Focused Tips for ChatGPT Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-meme-architectural-genius-top-picks/"><u>In 2024, Meme Architectural Genius Top Picks</u></a></li>
-<li><a href="https://win-updates.techidaily.com/schritt-fur-schritt-guide-zur-wiederbelebung-von-dateien-die-im-papierkorb-des-onedrives-verloren-gegangen-sind/"><u>Schritt-Für-Schritt-Guide Zur Wiederbelebung Von Dateien, Die Im Papierkorb Des OneDrives Verloren Gegangen Sind</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-tasks-with-7-chatgpt-tips-for-optimal-output/"><u>Streamline Tasks with 7 ChatGPT Tips for Optimal Output</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-art-of-conversation-five-ways-to-steer-chatgpt/"><u>The Art of Conversation: Five Ways to Steer ChatGPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-comparison-the-mighty-samsung-galaxy-book-vs-apples-prodigious-macbook-who-wins-cnet/"><u>Ultimate Comparison: The Mighty Samsung Galaxy Book Vs. Apple's Prodigious MacBook - Who Wins? | CNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleash-gaming-potential-with-lenovos-legion-slim-ve-laptop-featuring-rtx-4060-and-costing-just-899/"><u>Unleash Gaming Potential with Lenovo's Legion Slim Ve Laptop - Featuring RTX 4060 & Costing Just $899</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-web-designs-using-ai-chatgpt-guide/"><u>Unlocking Potential Web Designs Using AI: ChatGPT Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-top-5-non-commercial-art-influencers/"><u>Unveiling Top 5 Non-Commercial Art Influencers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-grid-artistry-at-its-peak-the-definitive-10-for-insta-posts/"><u>[New] Grid Artistry at Its Peak The Definitive 10 for Insta Posts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-endless-memories-free-saving-on-instagram-stories/"><u>[Updated] 2024 Approved Endless Memories FREE Saving on Instagram Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-latest-update-exploring-enhancements-in-the-new-airpods-pro-genesis-a-comprehveiw-by-zdnet/"><u>Apple's Latest Update: Exploring Enhancements in the New AirPods Pro Genesis - A Comprehveiw by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-ai-at-device-levels-functionality-insights/"><u>Decoding AI at Device Levels: Functionality Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-switch-dall-e-images-from-webp-to-png-and-jpg/"><u>Easy Switch: DALL-E Images From WebP to PNG & JPG</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-freedom-with-turbo-and-copilot-your-guide-to-gpt-4s-limitless-potential/"><u>Free Freedom with Turbo & Copilot: Your Guide to GPT-4's Limitless Potential</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-attracting-watchers-discover-the-top-6-video-types/"><u>In 2024, Attracting Watchers Discover the Top 6 Video Types</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-key-scenes-a-filmmakers-guidebook/"><u>Mastering Key Scenes A Filmmaker's Guidebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-the-world-of-social-media-with-a-focused-brand-for-2024/"><u>Navigating the World of Social Media with a Focused Brand for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swiftly-create-better-guides-with-these-7-online-apps/"><u>Swiftly Create Better Guides with These 7 Online Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210089511-9780349428086-the-little-book-of-earth-magic/"><u>The Little Book of Earth Magic | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-meteoric-rise-of-interactive-bot-conversations/"><u>The Meteoric Rise of Interactive Bot Conversations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-innovation-a-head-to-head-comparison-amongst-3-chatbot-solutions-for-a-common-assignment/"><u>Unveiling Innovation: A Head-to-Head Comparison Amongst 3 Chatbot Solutions for a Common Assignment</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-tecno-spark-20c-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Spark 20C Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

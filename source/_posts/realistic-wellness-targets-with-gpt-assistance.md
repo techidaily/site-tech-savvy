@@ -1,7 +1,7 @@
 ---
 title: Realistic Wellness Targets with GPT Assistance
-date: 2024-11-24T16:46:32.449Z
-updated: 2024-11-27T16:40:12.770Z
+date: 2024-11-29T18:26:40.554Z
+updated: 2024-12-06T22:34:32.521Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Understanding Your Health Goals
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
  And just like you wouldn't start a road trip without a destination, don't start your wellness journey without setting your health goals. [ChatGPT can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/), so there are plenty of [reasons to use ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/), including setting health goals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getting Started With ChatGPT
@@ -55,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 
 ![Screenshot of ChatGPT prompt and response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-17-at-10-22-29-am.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Brainstorming Health Goals
 
  So you've chatted with ChatGPT and now you're ready to set some health goals. But wait, what if you're not quite sure what your goals should be? No problem! All you need to do is ask.
@@ -70,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
  Here's an example: You could tell ChatGPT, "I sit a lot for work and often eat fast food. What are some health goals I could set?" Based on this, ChatGPT could suggest goals like taking regular breaks to stretch, incorporating more whole foods into your meals, or setting a healthier sleep schedule.
 
 ![Screenshot of ChatGPT response to a health question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-17-at-10-24-19-am.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Remember, it's your journey and your goals. ChatGPT is there to help you brainstorm and customize them to fit your needs. And if you're ever in doubt about the recommendations you receive, be sure you know [how to fact-check health information from ChatGPT](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
@@ -89,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 
  Facing trouble with dietary changes? Ask ChatGPT, "What difficulties might I encounter when trying to eat healthier, and how can I tackle them?" It might suggest potential pitfalls like cravings, cost of healthy food, or lack of cooking skills, and offer solutions like preparing healthy snacks in advance, budgeting for groceries, or learning simple recipes with minimal ingredients.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Setting Action Steps With ChatGPT
 
  With ChatGPT, you can break down your goals into daily doable tasks. Simply ask ChatGPT for advice on your specific goals. For a healthier diet, inquire, "What are some easy ways to replace unhealthy food with healthier food?" ChatGPT could suggest actions like eating more fresh fruit instead of processed snacks to satisfy your addiction to sugar.
@@ -98,11 +102,7 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 ![Screenshot of ChatGPT exercise recommendations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-17-at-10-26-09-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using ChatGPT to Help You Achieve Your Health Goals
@@ -132,21 +132,21 @@ thumbnail: https://thmb.techidaily.com/8154242c4b48a5a3e2c375932f0ce95d88da4301b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-stepwise-protocols-for-capturing-superior-vimeo-content/"><u>[New] In 2024, Stepwise Protocols for Capturing Superior Vimeo Content</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/uickly-locating-your-curated-music-compilation-on-youtube-for-2024/"><u>[New] Quickly Locating Your Curated Music Compilation on Youtube for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-system-errors-now-you-can-enjoy-modern-warfare-on-windows/"><u>Beat the System Errors: Now You Can Enjoy Modern Warfare on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/compact-yet-powerful-tribit-stormbox-micro-2-impressive-audio-quality-in-a-tiny-package/"><u>Compact Yet Powerful Tribit StormBox Micro 2 - Impressive Audio Quality in a Tiny Package</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone XS Max</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-asus-rog-phone-8-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Asus ROG Phone 8 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-master-the-art-of-eye-catching-short-videos/"><u>In 2024, Master the Art of Eye-Catching Short Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-pinnacle-of-scripts-across-the-cinematic-universes-sections/"><u>In 2024, The Pinnacle of Scripts Across the Cinematic Universe's Sections</u></a></li>
-<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reactivate-deactivated-windows-updates/"><u>Steps to Reactivate Deactivated Windows Updates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-non-bose-non-sony-portable-speaker-earns-high-praise-in-tests-a-review-on-zdnet/"><u>Top Non-Bose, Non-Sony Portable Speaker Earns High Praise in Tests - A Review on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-portable-speaker-that-beats-bose-and-sony-according-to-my-tests-find-out-why/"><u>Top Portable Speaker That Beats Bose and Sony, According to My Tests - Find Out Why!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranked-gaming-headphones-and-speakers-professional-reviews-techradar/"><u>Top-Ranked Gaming Headphones & Speakers : Professional Reviews | TechRadar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranking-alternative-to-bose-and-sonos-discover-the-ultimate-immersive-audio-experience/"><u>Top-Ranking Alternative to Bose & Sonos: Discover the Ultimate Immersive Audio Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-camping-sound-systems-a-comprehensive-review-zdnet/"><u>Top-Rated Portable Camping Sound Systems - A Comprehensive Review (ZDNET)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-smart-speaker-reviews-comprehensive-analysis-by-tech-experts-zdnet/"><u>Top-Rated Smart Speaker Reviews - Comprehensive Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ginger-isle-strategies-for-stardew-for-2024/"><u>[New] Ginger Isle Strategies for Stardew for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-15-ultimate-video-cameras-for-engaging-vlogs-for-2024/"><u>[Updated] 15 Ultimate Video Cameras for Engaging Vlogs for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-revolutionizing-the-opening-experience/"><u>2024 Approved Revolutionizing the Opening Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-arena-ranking-generative-bot-superiority-in-talks/"><u>AI's Arena: Ranking Generative Bot Superiority in Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipating-ai-breakthroughs-expecting-gpt-5s-launch/"><u>Anticipating AI Breakthroughs: Expecting GPT-5's Launch?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bots-at-risk-preventing-information-exposure/"><u>Bots at Risk: Preventing Information Exposure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-limit-and-surpassing-the-token-ceiling/"><u>ChatGPT's Limit & Surpassing the Token Ceiling</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversion-gratuite-dun-fichier-aac-au-format-wmv-sur-internet-tapez-un-ordre-a-movavi/"><u>Conversion Gratuite D'un Fichier AAC Au Format WMV Sur Internet - Tapez Un Ordre À Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deactivating-sleep-on-new-windows-keys-and-mice/"><u>Deactivating Sleep on New Windows: Keys & Mice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-the-apple-studio-display-firsthand-a-sleek-costly-marvel-for-mac-enthusiasts-zdnet-exclusive-insight/"><u>Experience the Apple Studio Display Firsthand: A Sleek, Costly Marvel for Mac Enthusiasts | ZDNet Exclusive Insight</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-take-screenshots-on-windows-5-methods-for-2024/"><u>How to Take Screenshots on Windows [5 Methods] for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-gionee-f3-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Gionee F3 Pro FRP Without Computer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-tips-for-dimming-windows-and-mac-music-volume/"><u>In 2024, Tips for Dimming Windows & Mac Music Volume</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-venturing-into-virtual-steps-top-treadmill-analysis/"><u>In 2024, Venturing Into Virtual Steps Top Treadmill Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-newcomers-bard-against-bing-chatbot/"><u>Introducing Newcomers: Bard Against Bing Chatbot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/riding-into-the-future-with-smart-glasses-the-life-altering-impact-of-photochromic-innovations-insights/"><u>Riding Into the Future with Smart Glasses: The Life-Altering Impact of Photochromic Innovations - Insights</u></a></li>
 </ul></div>
 

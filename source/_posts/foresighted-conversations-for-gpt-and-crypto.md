@@ -1,7 +1,7 @@
 ---
 title: Foresighted Conversations for GPT & Crypto
-date: 2024-11-22T16:34:18.488Z
-updated: 2024-11-27T16:24:49.703Z
+date: 2024-11-30T19:48:20.998Z
+updated: 2024-12-06T21:10:36.675Z
 tags:
   - chatgpt
   - open-ai
@@ -34,11 +34,11 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 * **Result**:  
 ![Screenshot of ChatGPT Analyzing a Token](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/analyze-a-token.jpg)
 
- There are thousands of crypto tokens listed on CoinMarketCap. Analyzing these tokens can be challenging. But you can simplify research with ChatGPT Plus, which allows you to use [ChatGPT crypto plugins](https://www.makeuseof.com/best-crypto-chatgpt-plugins/) to access the latest real-time data.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ There are thousands of crypto tokens listed on CoinMarketCap. Analyzing these tokens can be challenging. But you can simplify research with ChatGPT Plus, which allows you to use [ChatGPT crypto plugins](https://www.makeuseof.com/best-crypto-chatgpt-plugins/) to access the latest real-time data.
 
 ## 2\. Learn to Do Advanced Trading
 
@@ -58,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 * **Result**:  
 ![Screesnhot of ChatGPT Summarizing a Whitepaper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/summarizing-a-whitepaper.jpg)
 
- With many crypto projects in the market, you don't want to spend thousands of hours going through endless whitepapers. Use this prompt to summarize any crypto whitepaper and get a quick, firm grasp of what the project entails.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ With many crypto projects in the market, you don't want to spend thousands of hours going through endless whitepapers. Use this prompt to summarize any crypto whitepaper and get a quick, firm grasp of what the project entails.
 
 ## 4\. Review Smart Contracts
 
@@ -73,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 * **Result**:  
 ![Screenshot of ChatGPT Reviewing a Smart Contract](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/review-smart-contracts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is perhaps one of the most ingenious ways to use ChatGPT in crypto. Considering the many scams in the industry, it's wise to complete a technical analysis of every smart contract you wish to use or participate in. Paste the smart contract into ChatGPT and let it tell you if it's malicious.
 
 ## 5\. Get Crypto Terms Explanations
@@ -85,17 +81,21 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 * **Result**:  
 ![Screenshot of ChatGPT offering Crypto Terms Explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-crypto-terms-explanations.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The cryptocurrency industry is fast evolving. A few years back, we thought Bitcoin's only use was as a store of value and currency. Today courtesy of [Bitcoin ordinals](https://www.makeuseof.com/what-are-bitcoin-ordinals-how-differ-from-nfts/), Bitcoin can now support NFTs. Often, you'll come across many such crypto terms that need some explaining, and this prompt helps you to understand them better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Make Investment Strategies
 
 * **Prompt**: I'm interested in earning passive income, and I've opted to invest in crypto staking. Currently, which cryptocurrencies are most secure and offer the most attractive returns? In addition, could you provide a detailed analysis of these cryptocurrencies mentioning their historical annual percentage yield, potential risks, token lockup periods, and security measures in place to safeguard my investment? I would also like to know the minimum requirements to participate in these programs and any associated fees. Break down the analysis for easy reading.
 * **Result**:  
 ![Screesnhot of ChatGPT offering Investment Strategies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/make-investment-strategies.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to take control of your financial future and have chosen cryptocurrency as the tool for growth, ChatGPT can be a great companion. This prompt, for instance, can help you get started with crypto staking the safest way.
 
@@ -105,7 +105,15 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 * **Result**:  
 ![Screenshot of ChatGPT Creating A Getting Started Plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-a-getting-started-plan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The crypto industry is growing, and more professionals will be needed to help develop solutions. So, if you need a guide on how to get started with anything in crypto, this prompt (or similar) can get ChatGPT to design a great plan specifically for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Brainstorm Token Project Ideas
 
@@ -115,25 +123,13 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 
  Sometimes, we fall into a creativity rut. Don't let it stop you. You can use this type of prompt to brainstorm ideas that run the gamut from crypto projects to [meme crypto coins](https://www.makeuseof.com/what-are-crypto-meme-coins/). ChatGPT is your oyster.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Get Guidelines for Launching a Project
 
 * **Prompt**: I want to launch a new cryptocurrency project. Please provide a step-by-step guide for launching a successful crypto project. Include all stages I must go through and highlight potential challenges and how to overcome them at each step. Lastly, include best practices for maintaining transparency and building trust with potential investors and participants.
 * **Result**:  
 ![Screenshot of ChatGPT offering a Guideline for Launching a Project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-a-guideline-for-launching-a-project.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you've got a crypto project idea to solve whatever world problems you can conjure up, this prompt lets ChatGPT break down the process of successfully launching your project.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Role-Play Anyone for Their Crypto Opinion
 
@@ -143,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
    3. How do you see DeFi evolving in the next five years?
 * **Result**:  
 ![Screenshot of ChatGPT Role-play Vitalik Buterin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/role-play-anyone-for-their-crypto-opinion.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Yes, you can have fun with ChatGPT too. This prompt exemplifies how you can turn ChatGPT into a crypto thought leader and get their opinion without DMing them on social media. You can even go further and generate a conversation with two personalities.
 
@@ -173,17 +173,24 @@ thumbnail: https://thmb.techidaily.com/3f45b4986206d046cd956542a295fe465671e73b8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-entering-the-fullscreen-realm-choosing-a-cms-for-2024/"><u>[Updated] Entering the Fullscreen Realm Choosing a CMS for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-elite-selection-of-instagram-image-boosters/"><u>[Updated] The Elite Selection of Instagram Image Boosters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-versus-bing-ai-10-crucial-variances/"><u>ChatGPT Versus Bing AI: 10 Crucial Variances</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crypto-insights-unlocked-top-5-gpt-trading-tools/"><u>Crypto Insights Unlocked: Top 5 GPT Trading Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-epics-how-gpt-transforms-dandd-gameplay-and-storytelling/"><u>Elevating Epics: How GPT Transforms D&D Gameplay and Storytelling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-master-the-art-of-storytelling/"><u>How to Use ChatGPT to Master the Art of Storytelling</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-with-toms-digital-expertise/"><u>Mastering Gadgets with Tom's Digital Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-prompt-crafting-in-ai-and-its-job-market-resilience/"><u>The Future of Prompt Crafting in AI and Its Job Market Resilience</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/956331--the-wisdom-of-the-chakras/"><u>The Wisdom of the Chakras | Free Book</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-motorola-moto-g-5g-2023-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Motorola Moto G 5G (2023) without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-typography-two-approaches-to-liven-up-your-letters/"><u>Zippy Typography Two Approaches to Liven Up Your Letters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-verdict-on-vllo-performance/"><u>[Updated] 2024 Approved The Verdict on VLLO Performance</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-webcam-wonders-your-macbook-video-journey/"><u>[Updated] 2024 Approved Webcam Wonders Your MacBook Video Journey</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-xsplit-database-comprehensive-review-archives-for-2024/"><u>[Updated] XSplit Database Comprehensive Review Archives for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-troublesome-tapless-tech-ghost-touch-issues-plague-iwatch-users-fixing-solutions/"><u>1. 'Troublesome Tapless Tech: Ghost Touch Issues Plague iWatch Users - Fixing Solutions!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2023-presidents-day-special-save-300-on-the-new-m2-macbook-air-shop-now-at-zdnet/"><u>2023 Presidents' Day Special: Save $300 on the New M2 MacBook Air - Shop Now at ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-guide-to-the-best-note-taking-tablets-comprehensive-testing-and-ratings-pcmag/"><u>2024'S Ultimate Guide to the Best Note-Taking Tablets: Comprehensive Testing and Ratings | PCMag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-innovative-camera-button-on-every-iphone-16-unveiling-its-capabilities-insights-from-zdnet/"><u>Discover the Innovative Camera Button on Every iPhone 16: Unveiling Its Capabilities – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/download-ios-18-now-compatible-iphone-models-revealed-a-step-by-step-guide-techsavvy/"><u>Download IOS 18 Now: Compatible iPhone Models Revealed - A Step-by-Step Guide | TechSavvy</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-tips-on-performing-a-full-restore-of-your-windows-10-system-with-ease-advice-from-zdnet/"><u>Expert Tips on Performing a Full Restore of Your Windows 10 System with Ease – Advice From ZDNet</u></a></li>
+<li><a href="https://discover-data.techidaily.com/exportieren-sie-ihre-daten-aus-dem-local-storage-und-speichern-sie-sie-sicher-auf-ihrem-windows-10-pc-laufwerk/"><u>Exportieren Sie Ihre Daten Aus Dem Local Storage Und Speichern Sie Sie Sicher Auf Ihrem Windows 10 PC-Laufwerk</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210749205-9781841815350-find-your-power-tarot/"><u>Find Your Power: Tarot | Free Book</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus with/without SIM Card</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-c300-by-fonelab-android-recover-data/"><u>Recover lost data from C300</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revisiting-vanished-chatgpt-journeys/"><u>Revisiting Vanished ChatGPT Journeys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safest-and-most-suitable-smartphones-for-children-expert-reviews-zdnet/"><u>Safest and Most Suitable Smartphones for Children: Expert Reviews | ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tips-for-restarting-non-functional-hp-photo-units/"><u>Tips for Restarting Non-Functional HP Photo Units</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/topping-out-chatgpt-tokens-possibilities/"><u>Topping Out ChatGPT Tokens: Possibilities?</u></a></li>
+<li><a href="https://win-online.techidaily.com/transferencia-eficaz-de-archivos-entre-computadoras-mac-5-metodos-rapidos-para-usuarios/"><u>Transferencia Eficaz De Archivos Entre Computadoras Mac - 5 Métodos Rápidos Para Usuarios</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-code-power-10-ways-to-merge-chatgpt-and-vs-code/"><u>Unleashing Code Power: 10 Ways to Merge ChatGPT and VS Code</u></a></li>
 </ul></div>
 

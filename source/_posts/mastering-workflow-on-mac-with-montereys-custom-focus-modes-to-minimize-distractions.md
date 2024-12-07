@@ -1,7 +1,7 @@
 ---
 title: Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions
-date: 2024-11-24T17:04:27.748Z
-updated: 2024-11-27T16:47:25.189Z
+date: 2024-12-04T23:05:58.625Z
+updated: 2024-12-06T18:57:48.354Z
 tags:
   - apple
 categories:
@@ -27,13 +27,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -41,7 +41,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -53,7 +53,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -63,6 +63,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,24 +140,19 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-tale-transmogrifiers-guild-elite-eight/"><u>[New] Tale Transmogrifiers Guild – Elite Eight</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-google-pixel-8-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-cultivate-a-thriving-igtv-community-5-key-increase-strategies/"><u>2024 Approved Cultivate a Thriving IGTV Community 5 Key Increase Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-strategies-for-crafting-engaging-podcast-graphics/"><u>2024 Approved Top 10 Strategies for Crafting Engaging Podcast Graphics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-8-ai-enhanced-browser-addons-boosting-efficiency-with-chromium/"><u>Best 8 AI Enhanced Browser Addons Boosting Efficiency with Chromium</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-excel-productivity-with-effective-chatgpt-techniques/"><u>Boosting Excel Productivity with Effective ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-excellence-via-gpt-collaborations/"><u>Content Excellence via GPT Collaborations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpts-capabilities-to-boost-office-performance/"><u>Harnessing ChatGPT's Capabilities to Boost Office Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-apple-integrates-advanced-image-recognition-in-iphone-16-mirroring-google-lens-exclusive-report/"><u>How Apple Integrates Advanced Image Recognition in iPhone 16, Mirroring Google Lens - Exclusive Report</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/key-concepts-in-quantum-hdr-mastery-for-2024/"><u>Key Concepts in Quantum HDR Mastery for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/math-issues-chatgpt-to-the-rescue/"><u>Math Issues, ChatGPT to the Rescue?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210133186-9781644112649-our-spiritual-dna/"><u>Our Spiritual DNA | Free Book</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-srt-text-conversion-a-modern-how-to-for-2024/"><u>Quick SRT Text Conversion A Modern How-To for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safe-and-effective-fitness-plans-from-gpt/"><u>Safe and Effective Fitness Plans From GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-core-of-7-gpt-4-applications-an-analysis/"><u>The Core of 7 GPT-4 Applications: An Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolutionary-leap-in-ai-linguistics-introducing-palm-2/"><u>The Evolutionary Leap in AI Linguistics: Introducing PaLM 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-highest-quality-ipad-air-cases-of-2-professional-evaluation-on-zdnet/"><u>Ultimate Guide to the Highest Quality iPad Air Cases of 2# : Professional Evaluation on ZDNET</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-codegpt-next-gen-ai-for-developers-is-writing-code-its-strength/"><u>Understanding CodeGPT: Next-Gen AI for Developers – Is Writing Code Its Strength?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exquisite-innovations-in-desktop-tech/"><u>[New] Exquisite Innovations in Desktop Tech</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-essence-of-intelligence-in-moto-z2-reviewed/"><u>[New] The Essence of Intelligence in Moto Z2 Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-understanding-igs-evolution-reels-and-stories/"><u>[New] Understanding IG's Evolution Reels and Stories</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-tier-action-cams-for-sports-enthusiasts/"><u>2024 Approved Top-Tier Action Cams for Sports Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversing-with-giants-the-new-era-of-ai-comparison-between-gemini-and-chatgpt/"><u>Conversing with Giants: The New Era of AI Comparison Between Gemini and ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-nlps-innovations-bert-vs-gpt-analysis/"><u>Dissecting NLP's Innovations: BERT vs GPT Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-waves-in-tech-apple-reveals-enhanced-repairability-of-iphone-16-compared-to-older-models-insights/"><u>Making Waves in Tech: Apple Reveals Enhanced Repairability of iPhone 16 Compared to Older Models - Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-fitbit-versa-the-budget-friendly-smartwatch-with-impressive-features/"><u>Review of the Fitbit Versa: The Budget-Friendly Smartwatch with Impressive Features</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-integration-new-drivers-bring-amd-hd-6950-to-life-on-w11/"><u>Seamless Integration - New Drivers Bring AMD HD 6950 to Life on W11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sonos-upgrades-to-s2-application-for-user-friendly-audio-handling-unveiling-key-limitations/"><u>Sonos Upgrades to S2 Application for User-Friendly Audio Handling - Unveiling Key Limitations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-human-advantage-in-writing-beyond-ai-boundaries/"><u>The Human Advantage in Writing Beyond AI Boundaries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-hidden-features-unveiling-the-genius-of-apple-vision-pro-insights-from-zdnet/"><u>Top 10 Hidden Features: Unveiling the Genius of Apple Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/youtube-clips-download-tutorial-how-to-save-videos-just-for-you/"><u>YouTube Clips Download Tutorial - How to Save Videos Just for You</u></a></li>
 </ul></div>
 

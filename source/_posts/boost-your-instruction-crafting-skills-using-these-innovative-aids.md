@@ -1,7 +1,7 @@
 ---
 title: Boost Your Instruction Crafting Skills Using These Innovative Aids
-date: 2024-11-25T16:24:46.191Z
-updated: 2024-11-27T16:30:57.994Z
+date: 2024-11-29T16:12:35.052Z
+updated: 2024-12-06T16:42:01.770Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. OpenAI Playground
@@ -48,19 +48,23 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
 
 ![Generating an Image of a Dog Eating Hotdogs on Playground AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/playground-ai-generating-images.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Although Midjourney is a reliable text-to-image generator, it’s quite pricey. Aspiring prompt engineers might not want to buy tools they’ll rarely use.
 
  If you’re just studying AI art, try Playground AI. The platform lets you generate 1,000 images with Stable Diffusion 1.5, Stable Diffusion 2.1, and Playground V1 daily. You can also adjust output parameters, e.g., prompt guidance and seed.
 
  Playground AI is in no way related to the OpenAI Playground. Please don’t confuse the two.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. GPTtools
 
 ![Using GPTtools Comparison Tool to Compare Q&A on LLMs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gpttools-comparison-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While OpenAI Playground lets you test different GPT-3 models, it has a plain interface. Scrolling up and down makes data comparison challenging. Reading more than three outputs wastes much time because they’re listed vertically.
 
@@ -86,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
 
 ![Searching Github Repositories for ChatGPT Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Anyone interested in AI needs a GitHub account. It features a massive database of LLMs, programming, coding, and prompt engineering resources. You’ll find infinite repositories discussing these topics.
 
  You can expand your knowledge of AI by studying various resources, but you could also focus on writing prompts. In fact, there are several [unique, effective ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/). Search whatever task you want—you’ll likely find a few formulas showing you how to execute it.
@@ -97,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
  To further improve your skills, collaborate with other users. Free accounts get about 2,000 minutes of Actions and 120 core hours of Codespaces a month. Play around with the site a bit. You can consider upgrading to a Pro account as you take on bigger projects.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Find Anything
@@ -116,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
 
 ![Generating Skull and Flower Image on EyeforAi Image Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/eyeforai-image-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need an affordable Midjourney alternative, try Eye for AI. It uses the Stable Diffusion 1.5 model by default, and you can start generating images right from the get-go. Just input your text prompts. You could also select helpful descriptors to improve output accuracy.
 
  Although convenient, we discourage running text-to-image prompts on Eye for AI’s default settings. Otherwise, you’ll generate distorted, inaccurate images. Train the platform yourself to maximize its full potential.
@@ -123,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
  Upload relevant images of the person or object you want to portray—make sure you show the subject from various angles. And if possible, set your preferred diffusion model. Free accounts get 24 credits. You can purchase an extra 300 credits for just $13 if you find the Eye for AI useful.
 
  Please use AI image generators responsibly. Creating deepfakes to spread misinformation and damage a person’s reputation has legal consequences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Write Better Prompts With the Right Tools
 
@@ -153,16 +153,17 @@ thumbnail: https://thmb.techidaily.com/235c9a836def3af64d14d9406f5da36fac525d1a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-virtual-worlds-compreenas-top-8-metaverse-headgear/"><u>[New] Mastering Virtual Worlds Compreenas Top 8 Metaverse Headgear</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-optimal-techniques-to-record-your-snapchat-stories/"><u>[Updated] Optimal Techniques to Record Your Snapchat Stories</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unparalleled-strategies-for-virtual-session-recording-for-2024/"><u>[Updated] Unparalleled Strategies for Virtual Session Recording for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-unbeatable-deal-why-the-arlo-pro-5s-is-near-perfect-for-your-home-security-needs-tech-reviews/"><u>1. Unbeatable Deal: Why the Arlo Pro 5S Is Near-Perfect for Your Home Security Needs | Tech Reviews</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-little-billionaire-a-10-year-olds-wealthy-youtube-journey/"><u>2024 Approved The Little Billionaire A 10-Year-Old's Wealthy YouTube Journey</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-travel-packs-reviewed-find-the-perfect-companion-based-on-zdnets-picks/"><u>Best Travel Packs Reviewed: Find the Perfect Companion , Based on ZDNET's Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/check-if-your-computer-meets-new-win11-criteria/"><u>Check if Your Computer Meets New Win11 Criteria</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-your-samsung-960-evo-ssd-windows-drivers-here/"><u>Get the Latest Version of Your Samsung 960 EVO SSD Windows Drivers Here!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-accessories-comprehensive-reviews-by-experts-techradar/"><u>Top-Rated AirTag Accessories : Comprehensive Reviews by Experts | TechRadar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-your-web-searching-powers-with-top-5-alternatives-to-google-in-chrome-discover-more-on-zdnet/"><u>Unleash Your Web Searching Powers with Top 5 Alternatives to Google in Chrome - Discover More on ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capturing-every-aspect-of-minecraft-play/"><u>[Updated] 2024 Approved Capturing Every Aspect of Minecraft Play</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capture-and-relive-essential-win10-game-techniques-for-2024/"><u>[Updated] Capture and Relive Essential Win10 Game Techniques for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-storycraft-mastering-plot-and-prose-with-chatgpt/"><u>AI-Driven Storycraft: Mastering Plot and Prose with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-auto-gpt-hold-up-without-gpt-4/"><u>Does Auto-GPT Hold Up Without GPT-4?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-virtual-interaction-top-techniques-with-zoom-video-editor/"><u>Enhance Virtual Interaction Top Techniques with Zoom Video Editor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-scoop-june-2024s-must-have-discounts-at-best-buy-featured/"><u>Exclusive Scoop: June 2024'S Must-Have Discounts at Best Buy, Featured</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/frame-your-cinematic-tales-three-paths-for-instagram-borders-for-2024/"><u>Frame Your Cinematic Tales Three Paths for Instagram Borders for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-customization-of-ios-18-control-center-on-iphones-a-step-by-step-guide-techadvisor/"><u>Mastering the Customization of iOS 18 Control Center on iPhones: A Step-by-Step Guide - TechAdvisor</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/maximize-your-impact-knowledge-of-instagrams-video-time-policy/"><u>Maximize Your Impact Knowledge of Instagram's Video Time Policy</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-oppo-a1-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Oppo A1 5G Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-freelance-potential-with-chatgpts-six-pathways/"><u>Unlocking Freelance Potential with ChatGPT's Six Pathways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475566368-why-is-my-iphone-display-sticking-around-troubleshoot-and-fix-now/"><u>Why Is My iPhone Display Sticking Around? Troubleshoot & Fix Now</u></a></li>
 </ul></div>
 

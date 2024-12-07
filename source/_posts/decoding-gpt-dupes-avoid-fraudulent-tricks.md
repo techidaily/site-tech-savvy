@@ -1,7 +1,7 @@
 ---
 title: "Decoding GPT Dupes: Avoid Fraudulent Tricks"
-date: 2024-09-14T16:16:09.397Z
-updated: 2024-09-17T16:19:13.845Z
+date: 2024-11-30T17:27:30.665Z
+updated: 2024-12-06T23:51:01.210Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,17 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
  In general, using ChatGPT to write phishing emails can streamline the scam process for cybercriminals, which may cause phishing attacks to grow in frequency overall.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Fake ChatGPT Browser Extensions
 
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Browser extensions are a popular and convenient tool used by millions, but malicious, phony versions of this software are also used to install malware and steal data. The case is no different for ChatGPT.
 
@@ -49,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
  The extension was named specifically to confuse users, being almost identical to the legitimate ChatGPT for Google tool. Many people didn't think twice about the name and installed the extension under the guise that it was safe. In reality, the extension was being used to install hidden backdoors on Facebook accounts and access admin permissions.
 
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Fake ChatGPT Apps
 
@@ -60,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Malware Created by ChatGPT
 
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
@@ -70,35 +86,9 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. ChatGPT Phishing Sites
 
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Phishing attacks are often conducted using malicious websites. These sites are designed to log the keystrokes you enter so that valuable data can be stolen and exploited.
 
@@ -107,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
  Alternatively, you may receive an email from a user claiming to be a ChatGPT staff member, stating that your ChatGPT account requires some form of verification. This email will likely include a link to a webpage where you can log into your account and complete the verification, or so the sender claims.
 
  In reality, the link you click on leads to a malicious webpage that can steal any data you enter, including your login credentials. Now, another person can access your ChatGPT account and view your prompt history, account details, and other sensitive data. It's important to know [how to spot phishing scams](https://www.makeuseof.com/top-signs-phishing-scams/) in order to avoid this kind of cybercrime.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Scams Are Worryingly Common
 
@@ -127,5 +121,22 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-list-the-top-10-camcorders-for-2ranking/"><u>[New] Exclusive List The Top 10 Camcorders for 2Ranking</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-recommended-5-ps1-game-simulators-on-your-pc-for-2024/"><u>[New] Expert-Recommended 5 PS1 Game Simulators on Your PC for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716069822264-new-in-2024-screen-recording-with-internal-devices-on-huaweis-mate-mate-1020-and-p-p20-p10/"><u>[New] In 2024, Screen Recording with Internal Devices on Huawei’s Mate (Mate 10/20) and P (P20, P10).</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-limits-of-video-data-storage-on-modern-drives-a-closer-look-at-64128gb/"><u>[Updated] Limits of Video Data Storage on Modern Drives - A Closer Look at 64/128GB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-legal-landscape-what-to-watch-for/"><u>AI's Legal Landscape: What to Watch For?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-apple-airpods-pro-gen-3-evaluation-key-enhancements-and-performance-insights/"><u>Comprehensive Apple AirPods Pro (Gen 3) Evaluation: Key Enhancements & Performance Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-privacy-measures-for-adaptive-chatgpt-applications/"><u>Enhancing Privacy Measures for Adaptive ChatGPT Applications</u></a></li>
+<li><a href="https://solve-help.techidaily.com/fast-guide-converting-flv-to-flac-files-with-ease-on-windows-and-web/"><u>Fast Guide: Converting FLV to FLAC Files with Ease on Windows & Web</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancers-opt-between-bing-chat-and-chatgptkey-decisions/"><u>Freelancers: Opt Between Bing Chat & ChatGPT—Key Decisions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-3-bans-demystified-fixing-the-main-four-obstacles/"><u>GPT-3 Bans Demystified: Fixing the Main Four Obstacles</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-sony-xperia-5-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Sony Xperia 5 V Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-gt-5-240w-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/limited-offer-snag-the-latest-airpods-pro-2-with-advanced-hearing-aid-capability-at-a-steep-discount-shop-now-at-zdnet/"><u>Limited Offer: Snag the Latest AirPods Pro 2 with Advanced Hearing Aid Capability at a Steep Discount – Shop Now at ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/no-fee-audio-understanding-tool-for-2024/"><u>No-Fee Audio Understanding Tool for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sightline-synopsis-study-for-2024/"><u>Sightline Synopsis Study for 2024</u></a></li>
+</ul></div>
 

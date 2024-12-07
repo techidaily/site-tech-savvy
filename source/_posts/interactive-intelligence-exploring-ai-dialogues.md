@@ -1,7 +1,7 @@
 ---
 title: "Interactive Intelligence: Exploring AI Dialogues"
-date: 2024-09-13T16:18:39.706Z
-updated: 2024-09-17T16:15:19.358Z
+date: 2024-11-30T16:05:02.350Z
+updated: 2024-12-06T16:37:35.409Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  I've been wondering the same, and to find out, I tested Le Chat extensively to see how it compares to ChatGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Le Chat vs. ChatGPT: Creativity
 
  Creativity is one of the most important metrics for judging the performance of a conversational AI chatbot. Remember, the purpose of an AI chatbot is to replicate or mimic the conversational abilities and creative flair of humans at scale. This makes creativity a very important strength for any AI chatbot. The world has experimented with ChatGPT for over a year, and its creative abilities are undeniable. But how does Le Chat compare? We put both chatbots to a series of creativity tests.
@@ -63,23 +71,9 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![ChatGPT describes itself-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-describes-itself-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And here's how Le Chat would describe itself as well:
 
 ![Le Chat Mistral describes itself](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-describes-itself.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Both responses were appropriate in their own unique ways. ChatGPT was more invested in using vivid imagery and metaphors to describe itself, demonstrating creative flair. On the other hand, Le Chat's response is very informational and focused on describing its essence as an AI chatbot. Some may say it lacks the creative flair and artistic approach that ChatGPT's response exhibits. However, I'll go out on a limb to say I prefer Le Chat's easier-to-imagine response to ChatGPT's abstract description.
 
@@ -88,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  Here's ChatGPT's response:
 
 ![ChatGPT writes rap about cocumbers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-rap-about-cocumbers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And here's Le Chat's response:
 
@@ -124,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![ChatGPT GPT-4 makes a todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-gpt-4-makes-a-todo-list-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Each time we repeated the prompt, ChatGPT created a functional to-do list app using different styles. In no instance did the generated code fail to work.
 
  When I tried the same prompt with Le Chat, it generated what appeared to be intelligible code, but when we tried running it on a browser, it wasn't functional. After repeating the prompt three times, no instance produced code that could complete the set task. It failed in one of the most basic coding tasks—red flag!
@@ -131,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  Of course, I won't judge Le Chat on one failed test. Next, I asked both chatbots to generate JavaScript and PHP code for encrypting and decrypting text. In this second test, both ChatGPT and Le Chat produced functional code that could perform the set task. However, Le Chat's version seemed like what an inexperienced entry-level programmer would write. ChatGPT's code, on the other hand, was more complete and looked like it was written by an experienced programmer.
 
  I repeated a few more programming tests involving finding and fixing bugs, and ChatGPT consistently outperformed Le Chat. In some instances, Le Chat didn't even know what it was supposed to do. There's a good chance Le Chat can measure up to ChatGPT in some areas, but coding skills don't seem to be one of them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Le Chat vs. ChatGPT: Common Sense and Logical Reasoning
 
@@ -146,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ![Le Chat Mistral logical reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-logical-reasoning.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Both chatbots performed comparably on this test.
 
  Up next, we asked both chatbots a trick question: "**If a spaceship from Mars breaks into two, with one part crashing into the Atlantic Ocean near Brazil and the other into the Pacific Ocean near Japan, where do you bury the survivors?"**
@@ -164,6 +152,10 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
  Le Chat was also able to see through the trickery and responded accordingly as well:
 
 ![Le Chat Mistral answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/le-chat-mistral-answers-trick-question.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I tried more trick questions, and it seemed both ChatGPT and Le Chat are quite adept at dealing with commonsense and logical reasoning prompts. However, with more complex logic questions, only ChatGPT could provide the right responses.
 
@@ -186,5 +178,20 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-simplifying-image-reduction-creating-professional-thumbnails-for-2024/"><u>[Updated] Simplifying Image Reduction Creating Professional Thumbnails for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/confronting-fraudgpts-deception-avoidance-techniques-unveiled/"><u>Confronting FraudGPT's Deception: Avoidance Techniques Unveiled</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/determining-vertical-or-horizontal-video-posts-on-fb/"><u>Determining Vertical or Horizontal Video Posts on FB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insiders-look-at-chatbot-privacy-pitfalls-the-three-most-crucial/"><u>Insider's Look at Chatbot Privacy Pitfalls: The Three Most Crucial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-pro-showdown-deciding-on-the-right-flagship-tablet-for-your-needs-macworld-review/"><u>IPad Pro Showdown: Deciding on the Right Flagship Tablet for Your Needs | MacWorld Review</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209776245-9781620558805-magic-in-the-landscape/"><u>Magic in the Landscape | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-new-gadgets-and-pc-components-at-toms-hardware-zone/"><u>Navigating New Gadgets and PC Components at Tom's Hardware Zone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-v30-lite-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo V30 Lite 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-apple-watch-series-9ultra-2-at-unbeatable-prices-before-stoppage-prime-locations-zdnet-insights/"><u>Secure Your Apple Watch Series 9/Ultra 2 at Unbeatable Prices Before Stoppage: Prime Locations | ZDNet Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-reducing-excessive-cpu-consumption-in-the-latest-version/"><u>Solutions for Reducing Excessive CPU Consumption in the Latest Version</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/staying-one-step-ahead-how-apple-is-fortifying-imessage-defenses-for-tomorrows-challenges-featured-on-zdnet/"><u>Staying One Step Ahead: How Apple Is Fortifying iMessage Defenses for Tomorrow's Challenges, Featured on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-curious-case-of-falling-sd-card-sales-could-it-be-due-to-misunderstood-advantages/"><u>The Curious Case of Falling SD Card Sales - Could It Be Due to Misunderstood Advantages?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-world-of-grok-ai-through-elons-insights-into-its-function-and-cost/"><u>Unveiling the World of Grok AI Through Elon's Insights Into Its Function and Cost</u></a></li>
+</ul></div>
 

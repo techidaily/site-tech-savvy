@@ -1,7 +1,7 @@
 ---
 title: "The GPT-3 Pathway: Crafting Content That Speaks for You"
-date: 2024-09-15T16:26:20.247Z
-updated: 2024-09-17T16:30:05.668Z
+date: 2024-12-02T20:42:52.692Z
+updated: 2024-12-06T16:54:31.830Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 Ways to Teach ChatGPT to Write Like You
 
  To get started, we'll assume the persona of a detail-oriented author who uses a lively, engaging tone, provides detailed, accessible explanations, make liberal use of analogies, and address the reader directly throughout their text. The author also has a knack for using analogies to explain key concepts. [Here's a sample of the author's work](https://www.makeuseof.com/how-does-chatgpt-work/).
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
  Both options require a different approach, which you can check out below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Training ChatGPT With Samples of Your Work
 
  To train ChatGPT with samples of your work, head over to ChatGPT and use the prompt below, immediately followed by a sample of your written work that best captures your writing style.
@@ -52,6 +60,10 @@ Extract the writing style in the text provided below. Please study the tone, wor
  After using the prompt above, you should get a result similar to this:
 
 ![Result of writing Style extraction by ChatGPT-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/result-of-writing-style-extraction-by-chatgpt-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Of course, one sample might not be enough to thoroughly capture every aspect of your writing style. So, you can repeat the prompt above with three to five more samples within the same ChatGPT conversation. After iterating through the number of samples you wish to use, you can then use the prompt below to unify the extracted styles.
 
@@ -87,6 +99,10 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
 
  Another advantage of using a PPM is the flexibility and portability it offers. You can easily tweak the writing style with precision by hanging a few words. You can also use the PPM in a different AI chatbot like Claude AI or Google Bard. We used the PPM above [on the Claude AI chatbot](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/) and asked it to give it a topic to write. It was able to replicate as many of the stylistic elements used by the target author as possible.
@@ -94,10 +110,7 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make ChatGPT Work for You
@@ -121,5 +134,18 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-vegas-pro-gambit-unveiled-a-21-comprehensive-review/"><u>[New] In 2024, Vegas Pro Gambit Unveiled A '21 Comprehensive Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-virtual-vetting-best-animal-games-for-android/"><u>[New] In 2024, Virtual Vetting Best Animal Games for Android</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-secrets-to-dynamic-and-effective-igtv-covers/"><u>[Updated] 2024 Approved Secrets to Dynamic & Effective IGTV Covers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-vision-to-reality-personal-animation-mastery-for-2024/"><u>[Updated] From Vision to Reality Personal Animation Mastery for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-best-practices-for-boosting-views-on-freefire-gaming-channels/"><u>[Updated] In 2024, Best Practices for Boosting Views on FreeFire Gaming Channels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/addressing-glitches-restoring-chatgpt-and-service-harmony/"><u>Addressing Glitches: Restoring ChatGPT & Service Harmony</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/airpods-pros-new-hearing-assistance-feature-in-ios-15-no-physical-upgrade-required-techspot/"><u>AirPods Pro's New Hearing Assistance Feature in iOS 15, No Physical Upgrade Required | TechSpot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovery-revealing-falsehood-about-gpt-windows/"><u>Discovery: Revealing Falsehood About GPT-Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-7-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synthesize-knowledge-integrating-chatgpt/"><u>Synthesize Knowledge: Integrating ChatGPT</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/vlc-recordings-tips-and-tricks/"><u>VLC Recordings Tips and Tricks</u></a></li>
+</ul></div>
 

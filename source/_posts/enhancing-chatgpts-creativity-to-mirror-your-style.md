@@ -1,7 +1,7 @@
 ---
 title: Enhancing ChatGPT's Creativity to Mirror Your Style
-date: 2024-11-21T16:56:13.468Z
-updated: 2024-11-27T16:56:46.837Z
+date: 2024-12-01T18:27:22.227Z
+updated: 2024-12-06T18:16:27.590Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 Ways to Teach ChatGPT to Write Like You
@@ -47,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/e7b26cce85084898820694a03b988f46853880c83
 
  Both options require a different approach, which you can check out below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Training ChatGPT With Samples of Your Work
 
  To train ChatGPT with samples of your work, head over to ChatGPT and use the prompt below, immediately followed by a sample of your written work that best captures your writing style.
@@ -62,7 +58,7 @@ Extract the writing style in the text provided below. Please study the tone, wor
 ![Result of writing Style extraction by ChatGPT-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/result-of-writing-style-extraction-by-chatgpt-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, one sample might not be enough to thoroughly capture every aspect of your writing style. So, you can repeat the prompt above with three to five more samples within the same ChatGPT conversation. After iterating through the number of samples you wish to use, you can then use the prompt below to unify the extracted styles.
@@ -99,6 +95,10 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 ![Extracted PPM using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/extracted-ppm.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Although the PPM approach is slightly more complex, it offers enormous attention to detail. While our previous method takes a more generalist approach to describing and applying an author's style, PPM can get as detailed as possible, far more than anyone can easily discern at first glance.
 
  Another advantage of using a PPM is the flexibility and portability it offers. You can easily tweak the writing style with precision by hanging a few words. You can also use the PPM in a different AI chatbot like Claude AI or Google Bard. We used the PPM above [on the Claude AI chatbot](https://www.makeuseof.com/what-is-claude-2-what-can-you-do-with-it/) and asked it to give it a topic to write. It was able to replicate as many of the stylistic elements used by the target author as possible.
@@ -106,11 +106,11 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 ![Using ChatGPT PPM on Claude AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/using-chatgpt-ppm-on-claude-ai-chatbot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make ChatGPT Work for You
@@ -136,22 +136,21 @@ Pay attention to the tone, word choice, mannerisms, sentence structure, pacing, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-discovering-the-most-reliable-youtube-downloader-apps-for-android-for-2024/"><u>[Updated] Discovering the Most Reliable YouTube Downloader Apps for Android for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-audio-file-alchemy-converting-srt-to-multiple-formats-professionally/"><u>[Updated] In 2024, The Audio File Alchemy Converting SRT to Multiple Formats Professionally</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-essence-of-a-memorable-video-conclusion-in-vimeo/"><u>2024 Approved The Essence of a Memorable Video Conclusion in Vimeo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-authentic-user-experiences-through-chatgpt-generated-persons/"><u>Crafting Authentic User Experiences Through ChatGPT-Generated Persons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-ai-in-the-art-of-mixed-drinks/"><u>Evaluating AI in the Art of Mixed Drinks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/excel-anxiety-solved-by-chatgpt-techniques/"><u>Excel Anxiety Solved by ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-ai-driven-blur-between-worlds/"><u>Exploring the AI-Driven Blur Between Worlds</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/focus-on-subjects-methods-for-editing-out-photography-backgrounds/"><u>Focus on Subjects Methods for Editing Out Photography Backgrounds</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratis-online-verwandeln-van-webm-naar-gif-mit-movavi-kort-en-efficient/"><u>Gratis Online Verwandeln Van WebM Naar GIF Mit Movavi - Kort en Efficiënt</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-can-you-improve-zoom-video-resolution-quality/"><u>How Can You Improve Zoom Video Resolution Quality?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intels-next-gen-mobile-processors-suffer-malfunctions-distinct-causes-from-infamous-desktop-bug-revealed/"><u>Intel's Next-Gen Mobile Processors Suffer Malfunctions; Distinct Causes From Infamous Desktop Bug Revealed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-showdown-iphone-1epro-vs-iphone-14-pro-max-which-device-wins-as-your-optimal-tech-upgrade/"><u>IPhone Showdown: IPhone 1ePro Vs. IPhone 14 Pro Max - Which Device Wins as Your Optimal Tech Upgrade?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-ios-1e5-draining-your-iphones-battery-discover-these-essential-7-tips-to-boost-performance-zdnet/"><u>Is iOS 1E.5 Draining Your iPhone's Battery? Discover These Essential 7 Tips to Boost Performance | ZDNET</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pro-window-11-users-guide-to-photovideo-imports/"><u>Pro Window 11 Users' Guide to Photo/Video Imports</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/social-media-storytelling-enhanced-by-gpt-3/"><u>Social Media Storytelling Enhanced by GPT-3</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-future-of-business-exploring-how-blockchain-decentralization-and-web3-revolutionize-enterprises/"><u>The Future of Business: Exploring How Blockchain, Decentralization & Web3 Revolutionize Enterprises</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-gpt-recognition-for-authenticity-verification/"><u>Utilizing GPT Recognition for Authenticity Verification</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-anti-fog-strategies-optimal-gopro-video-quality/"><u>[Updated] 2024 Approved Anti-Fog Strategies Optimal GoPro Video Quality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-maximize-your-apple-watchs-endurance-top-8-configurations-that-prolong-battery-life-insights-from-zdnet/"><u>1. Maximize Your Apple Watch's Endurance: Top 8 Configurations That Prolong Battery Life - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blackout-brilliance-minute-edition/"><u>Blackout Brilliance Minute Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/determining-chatgpts-credibility-in-health-guidance/"><u>Determining ChatGPT's Credibility in Health Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-conversation-to-content-chatgpts-movie-guide/"><u>From Conversation to Content: ChatGPT's Movie Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-the-compact-apple-iphone-12-mini-defies-expectations-with-impressive-features/"><u>How the Compact Apple iPhone 12 Mini Defies Expectations with Impressive Features</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-se-2020-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone SE (2020) without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/navigate-the-art-of-snapchat-filters-for-beginners-for-2024/"><u>Navigate the Art of Snapchat Filters for Beginners for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-spreadsheet-woes-with-chatgpt-and-excel/"><u>Overcoming Spreadsheet Woes with ChatGPT & Excel</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-d3dx934dll-file-absence-a-comprehensive-guide/"><u>Resolving d3dx9_34.dll File Absence - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-imessage-futuristic-cybersecurity-measures-by-apple-unveiled-zdnet/"><u>Safeguarding iMessage Futuristic Cybersecurity Measures by Apple Unveiled | ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-full-spectrum-of-action-with-t5-eye-camera/"><u>The Full Spectrum of Action with T5 Eye Camera</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mystery-how-did-crowdstrike-influence-windows-notorious-meltdnothack-event-a-detailed-historical-perspective/"><u>Unraveling the Mystery: How Did CrowdStrike Influence Windows' Notorious Meltdnothack Event ? A Detailed Historical Perspective</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know/"><u>Updated 2024 Approved Ready To Dive Into Photo Talking Videos? Heres What You Need To Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-i-wont-be-switching-from-my-iphone-14-to-the-new-iphone-16-pro-insights-and-analysis/"><u>Why I Won't Be Switching From My iPhone 14 to the New iPhone 16 Pro: Insights & Analysis</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Huawei P60 | Dr.fone</u></a></li>
 </ul></div>
 

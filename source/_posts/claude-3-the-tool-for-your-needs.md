@@ -1,7 +1,7 @@
 ---
 title: "Claude 3: The Tool for Your Needs?"
-date: 2024-09-13T16:09:57.852Z
-updated: 2024-09-17T16:22:18.130Z
+date: 2024-12-02T22:40:30.808Z
+updated: 2024-12-07T00:51:30.301Z
 tags:
   - chatgpt
   - open-ai
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
  All three issues have now been completely or at least partly addressed with the release of Claude 3\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Can You Do With Claude 3?
 
 ![Claude AI chatbot interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-image-1.jpg)
@@ -68,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 ![ChatGPT vs Claude AI logos](https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae116eaf3e790989364bc8da0ce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A quick way to test the performance of an AI model is to check how well it stacks up against the best in the market: GPT-4\. Of course, I put both models to the test; how well does Anthropic's Claude 3 stack up against the colossal GPT-4?
 
 ### Claude vs. ChatGPT: Coding Skills
@@ -90,15 +87,16 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 ![Claude 3 makes todo list app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-3-makes-todo-list-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both apps were functional to an extent, but it is clear Claude 3 did a better job on this one.
 
  After trying more complex programming tests, Claude was the better model in several cases, while GPT-4 also had its wins. While I can't conclusively say Claude 3 is better at programming logic, if there was a huge gap between the two models, that gap would almost certainly have shrunk.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Common Sense Reasoning
 
@@ -112,20 +110,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 ![testing Claude 3 on commonsense reasoning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/testing-claude-3-on-commonsense-reasoning.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Claude's response wasn't exactly a definitive answer, but it was able to identify the key information; you don't bury survivors. It's important to note that the last time we asked Claude 2 the same question, it wasn't able to see through the common sense trap.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Claude vs. ChatGPT: Creative Writing
@@ -138,16 +126,13 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 ![ChatGPT writes lyrics to a rap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-writes-lyrics-to-a-rap-song.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And here's Claude's response, using the same prompt.
 
 ![Claude writes lyrics to a wrap song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-writes-lyrics-to-a-wrap-song.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It might be subjective, but Claude does seem to be the better option here. When both tools were tasked with drafting three articles on different topics, Claude provided the better option in all three instances. It produced a more human-like result and avoided patterns commonly associated with AI-generated texts, like exagerations, the use of complex words, and sporadic use of linking words.
 
@@ -158,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
  Unlike ChatGPT, Claude struggled with identifying buildings among others, and the failure rate increased if the building was not in the US or China. However, it had no problem identifying obfuscated versions of the Eiffel Tower or the Empire State Building.
 
 ![Empire state building identified by Claude 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/empire-state-building-identified-by-claude-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT is clearly better at this, but considering Claude 3 is Anthropic's first attempt at building a multimodal AI model, it wasn't a bad outing.
 
@@ -178,5 +167,21 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared/"><u>[New] Immerse in Pixel Worlds The Best PC VR Playback Titles Compared</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterful-plot-crafting-in-film-history/"><u>[New] Masterful Plot Crafting in Film History</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-audio-the-10-premier-podcast-mics/"><u>[New] Perfect Audio The 10 Premier Podcast Mics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-timeless-stop-motion-films-a-celebratory-15-list/"><u>[Updated] 2024 Approved Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-alcohol-the-virtual-bartending-game/"><u>AI and Alcohol: The Virtual Bartending Game</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bringing-back-obscured-bluetooth-to-system-hub/"><u>Bringing Back: Obscured Bluetooth to System Hub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ceo-exit-at-openai-pondering-on-gpt/"><u>CEO Exit at OpenAI, Pondering on GPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excels-efficacy-in-numeric-crunching-exceeds-chatbot-capabilities/"><u>Excel's Efficacy in Numeric Crunching Exceeds Chatbot Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-world-essentials-top-7-chatgpt-apps-for-free-itinerary-crafting/"><u>Explore World' Essentials - Top 7 ChatGPT Apps for FREE Itinerary Crafting</u></a></li>
+<li><a href="https://facebook.techidaily.com/ideal-season-for-altering-fb-identity-snapshot/"><u>Ideal Season for Altering FB Identity Snapshot</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-crafting-unified-visuals-on-your-computer/"><u>In 2024, Crafting Unified Visuals on Your Computer</u></a></li>
+<li><a href="https://media-tips.techidaily.com/making-memes-made-easy-a-step-by-step-iphone-tutorial-for-beginners-featuring-the-newest-meme-creators/"><u>Making Memes Made Easy: A Step-by-Step iPhone Tutorial for Beginners, Featuring the Newest Meme Creators</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/weighing-the-value-of-gpt-plus/"><u>Weighing the Value of GPT Plus</u></a></li>
+</ul></div>
 

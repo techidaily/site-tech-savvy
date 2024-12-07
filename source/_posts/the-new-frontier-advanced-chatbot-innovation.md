@@ -1,7 +1,7 @@
 ---
 title: "The New Frontier: Advanced Chatbot Innovation"
-date: 2024-09-12T16:10:08.223Z
-updated: 2024-09-17T16:08:22.650Z
+date: 2024-12-04T17:32:41.469Z
+updated: 2024-12-06T21:05:30.829Z
 tags:
   - chatgpt
   - open-ai
@@ -50,144 +50,8 @@ Image Credit:Firmbee.com/[Unsplash](https://unsplash.com/photos/person-using-bla
 
  Large tech companies and startups like Pinecone, Redis, and Milvus are currently investing in vector databases to provide semantic search capabilities on recommendation systems, search engines, content management systems, and chatbots.
 
-## Democratization of AI
-
-!["Open Source" typed with a typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-source.jpg)
-
- Although not necessarily a technical advancement, several big tech companies are interested in democratizing AI. For better or for worse, [open-source AI models are now being trained](http://www.makeuseof.com/positive-negative-impacts-open-source-ai-language-models/) and given more permissive licenses for organizations to use and fine-tune.
-
-[The Wall Street Journal reports](https://www.wsj.com/tech/ai/meta-is-developing-a-new-more-powerful-ai-system-as-technology-race-escalates-decf9451?) that Meta is buying Nvidia H100 AI accelerators and aims to develop an AI that competes with OpenAI’s recent GPT-4 model.
-
- There is currently no publicly available LLM that can match the raw performance of GPT-4\. But with Meta promising a competitive product with a more permissive license, companies can finally fine-tune a powerful LLM without the risk of trade secrets and sensitive data being exposed and used against them.
-
-## AI Agents and Multi-Agent Startups
-
-![Group working on a project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/group-working-on-project.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people-using-laptop-computer-QckxruozjRg)
-
- Several experimental projects are currently in the works for developing AI agents that require little to no instructions to achieve a certain goal. You may remember the concepts of [AI agents from Auto-GPT](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/), the AI tool that automates its actions.
-
- The idea is for the agent to attain full autonomy through constant self-assessment and self-correction. The working concept to achieve self-reflection and correction is for the agent to continually prompt itself every step of the way on what action needs to be done, steps on how to do it, what mistakes it made, and what it can do to improve.
-
- The problem is that the current models used in AI agents have little semantic understanding. That causes the agents to hallucinate and prompt false information, which causes them to get stuck on an infinite loop of self-assessment and correction.
-
- Projects like the MetaGPT Multi-agent Framework aim to solve the problem by simultaneously using several AI agents to reduce such hallucinations. Multi-agent frameworks are set up to emulate how a startup company would work. Each agent in this startup will be assigned positions such as project manager, project designer, programmer, and tester. By splitting complex goals into smaller tasks and delegating them to different AI agents, these agents are more likely to achieve their given goals.
-
- Of course, these frameworks are still very early in development, and many issues still need to be solved. But with more powerful models, better AI infrastructure, and continuous research and development, it is only a matter of time before effective AI agents and multi-agent AI companies become a thing.
-
-## Shaping Our Future With AI
-
- Large corporations and startups are heavily investing in the research and development of AI and its infrastructures. So, we can expect the future of generative AI to provide better access to useful information through semantic search, fully autonomous AI agents and AI companies, and freely available high-performance models for companies and individuals to use and fine-tune.
-
- Although exciting, it is also important that we take our time to consider AI ethics, user privacy, and the responsible development of AI systems and infrastructures. Let us remember that the evolution of generative AI is not just about building smarter systems; it is also about reshaping our thoughts and being responsible for the way we use technology.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- ChatGPT's phenomenal success has forced every tech company to start investing in AI research and figure out how to integrate artificial intelligence into their products. It's a situation unlike anything we've ever seen, yet, artificial intelligence is only just getting started.
-
- But it's not just about fancy AI chatbots and text-to-image generators. There are some highly speculation but incredibly impressive AI tools on the horizon.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Semantic Search With Vector Databases
-
-![Searching With Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/semantic-search-with-google.jpg)
-
-Image Credit:Firmbee.com/[Unsplash](https://unsplash.com/photos/person-using-black-laptop-computer-eMemmpUojlw)
-
- Semantic search queries are being tested to provide better search results for people. Search engines currently use keyword-centric algorithms to provide relevant information to users. However, overreliance on keywords poses several problems, such as limited context understanding, marketers exploiting SEO, and low-quality search results due to difficulty expressing complex queries.
-
- Unlike traditional search algorithms, semantic search uses word embeddings and semantic mapping to understand the context of a query before providing search results. So, instead of relying on a bunch of keywords, semantic search provides results based on semantics or the meaning of a given query.
-
- The concept of semantic search has been around for quite some time. However, companies have difficulty implementing such functionality due to how slow and resource-intensive semantic search can be.
-
- The solution is to map out vector embeddings and store them in a large [vector database](https://www.makeuseof.com/what-is-a-vector-database/). Doing so substantially lowers computing power requirements and speeds up search results by narrowing results to only the most relevant information.
-
- Large tech companies and startups like Pinecone, Redis, and Milvus are currently investing in vector databases to provide semantic search capabilities on recommendation systems, search engines, content management systems, and chatbots.
-
-## Democratization of AI
-
-!["Open Source" typed with a typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-source.jpg)
-
- Although not necessarily a technical advancement, several big tech companies are interested in democratizing AI. For better or for worse, [open-source AI models are now being trained](http://www.makeuseof.com/positive-negative-impacts-open-source-ai-language-models/) and given more permissive licenses for organizations to use and fine-tune.
-
-[The Wall Street Journal reports](https://www.wsj.com/tech/ai/meta-is-developing-a-new-more-powerful-ai-system-as-technology-race-escalates-decf9451?) that Meta is buying Nvidia H100 AI accelerators and aims to develop an AI that competes with OpenAI’s recent GPT-4 model.
-
- There is currently no publicly available LLM that can match the raw performance of GPT-4\. But with Meta promising a competitive product with a more permissive license, companies can finally fine-tune a powerful LLM without the risk of trade secrets and sensitive data being exposed and used against them.
-
-## AI Agents and Multi-Agent Startups
-
-![Group working on a project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/group-working-on-project.jpg)
-
-Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people-using-laptop-computer-QckxruozjRg)
-
- Several experimental projects are currently in the works for developing AI agents that require little to no instructions to achieve a certain goal. You may remember the concepts of [AI agents from Auto-GPT](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/), the AI tool that automates its actions.
-
- The idea is for the agent to attain full autonomy through constant self-assessment and self-correction. The working concept to achieve self-reflection and correction is for the agent to continually prompt itself every step of the way on what action needs to be done, steps on how to do it, what mistakes it made, and what it can do to improve.
-
- The problem is that the current models used in AI agents have little semantic understanding. That causes the agents to hallucinate and prompt false information, which causes them to get stuck on an infinite loop of self-assessment and correction.
-
- Projects like the MetaGPT Multi-agent Framework aim to solve the problem by simultaneously using several AI agents to reduce such hallucinations. Multi-agent frameworks are set up to emulate how a startup company would work. Each agent in this startup will be assigned positions such as project manager, project designer, programmer, and tester. By splitting complex goals into smaller tasks and delegating them to different AI agents, these agents are more likely to achieve their given goals.
-
- Of course, these frameworks are still very early in development, and many issues still need to be solved. But with more powerful models, better AI infrastructure, and continuous research and development, it is only a matter of time before effective AI agents and multi-agent AI companies become a thing.
-
-## Shaping Our Future With AI
-
- Large corporations and startups are heavily investing in the research and development of AI and its infrastructures. So, we can expect the future of generative AI to provide better access to useful information through semantic search, fully autonomous AI agents and AI companies, and freely available high-performance models for companies and individuals to use and fine-tune.
-
- Although exciting, it is also important that we take our time to consider AI ethics, user privacy, and the responsible development of AI systems and infrastructures. Let us remember that the evolution of generative AI is not just about building smarter systems; it is also about reshaping our thoughts and being responsible for the way we use technology.
-
-**MUO VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- ChatGPT's phenomenal success has forced every tech company to start investing in AI research and figure out how to integrate artificial intelligence into their products. It's a situation unlike anything we've ever seen, yet, artificial intelligence is only just getting started.
-
- But it's not just about fancy AI chatbots and text-to-image generators. There are some highly speculation but incredibly impressive AI tools on the horizon.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Semantic Search With Vector Databases
-
-![Searching With Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/semantic-search-with-google.jpg)
-
-Image Credit:Firmbee.com/[Unsplash](https://unsplash.com/photos/person-using-black-laptop-computer-eMemmpUojlw)
-
- Semantic search queries are being tested to provide better search results for people. Search engines currently use keyword-centric algorithms to provide relevant information to users. However, overreliance on keywords poses several problems, such as limited context understanding, marketers exploiting SEO, and low-quality search results due to difficulty expressing complex queries.
-
- Unlike traditional search algorithms, semantic search uses word embeddings and semantic mapping to understand the context of a query before providing search results. So, instead of relying on a bunch of keywords, semantic search provides results based on semantics or the meaning of a given query.
-
- The concept of semantic search has been around for quite some time. However, companies have difficulty implementing such functionality due to how slow and resource-intensive semantic search can be.
-
- The solution is to map out vector embeddings and store them in a large [vector database](https://www.makeuseof.com/what-is-a-vector-database/). Doing so substantially lowers computing power requirements and speeds up search results by narrowing results to only the most relevant information.
-
- Large tech companies and startups like Pinecone, Redis, and Milvus are currently investing in vector databases to provide semantic search capabilities on recommendation systems, search engines, content management systems, and chatbots.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Democratization of AI
@@ -246,15 +110,16 @@ Image Credit:Firmbee.com/[Unsplash](https://unsplash.com/photos/person-using-bla
 
  Large tech companies and startups like Pinecone, Redis, and Milvus are currently investing in vector databases to provide semantic search capabilities on recommendation systems, search engines, content management systems, and chatbots.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Democratization of AI
 
 !["Open Source" typed with a typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-source.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Although not necessarily a technical advancement, several big tech companies are interested in democratizing AI. For better or for worse, [open-source AI models are now being trained](http://www.makeuseof.com/positive-negative-impacts-open-source-ai-language-models/) and given more permissive licenses for organizations to use and fine-tune.
@@ -262,6 +127,142 @@ Image Credit:Firmbee.com/[Unsplash](https://unsplash.com/photos/person-using-bla
 [The Wall Street Journal reports](https://www.wsj.com/tech/ai/meta-is-developing-a-new-more-powerful-ai-system-as-technology-race-escalates-decf9451?) that Meta is buying Nvidia H100 AI accelerators and aims to develop an AI that competes with OpenAI’s recent GPT-4 model.
 
  There is currently no publicly available LLM that can match the raw performance of GPT-4\. But with Meta promising a competitive product with a more permissive license, companies can finally fine-tune a powerful LLM without the risk of trade secrets and sensitive data being exposed and used against them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## AI Agents and Multi-Agent Startups
+
+![Group working on a project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/group-working-on-project.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people-using-laptop-computer-QckxruozjRg)
+
+ Several experimental projects are currently in the works for developing AI agents that require little to no instructions to achieve a certain goal. You may remember the concepts of [AI agents from Auto-GPT](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/), the AI tool that automates its actions.
+
+ The idea is for the agent to attain full autonomy through constant self-assessment and self-correction. The working concept to achieve self-reflection and correction is for the agent to continually prompt itself every step of the way on what action needs to be done, steps on how to do it, what mistakes it made, and what it can do to improve.
+
+ The problem is that the current models used in AI agents have little semantic understanding. That causes the agents to hallucinate and prompt false information, which causes them to get stuck on an infinite loop of self-assessment and correction.
+
+ Projects like the MetaGPT Multi-agent Framework aim to solve the problem by simultaneously using several AI agents to reduce such hallucinations. Multi-agent frameworks are set up to emulate how a startup company would work. Each agent in this startup will be assigned positions such as project manager, project designer, programmer, and tester. By splitting complex goals into smaller tasks and delegating them to different AI agents, these agents are more likely to achieve their given goals.
+
+ Of course, these frameworks are still very early in development, and many issues still need to be solved. But with more powerful models, better AI infrastructure, and continuous research and development, it is only a matter of time before effective AI agents and multi-agent AI companies become a thing.
+
+## Shaping Our Future With AI
+
+ Large corporations and startups are heavily investing in the research and development of AI and its infrastructures. So, we can expect the future of generative AI to provide better access to useful information through semantic search, fully autonomous AI agents and AI companies, and freely available high-performance models for companies and individuals to use and fine-tune.
+
+ Although exciting, it is also important that we take our time to consider AI ethics, user privacy, and the responsible development of AI systems and infrastructures. Let us remember that the evolution of generative AI is not just about building smarter systems; it is also about reshaping our thoughts and being responsible for the way we use technology.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ ChatGPT's phenomenal success has forced every tech company to start investing in AI research and figure out how to integrate artificial intelligence into their products. It's a situation unlike anything we've ever seen, yet, artificial intelligence is only just getting started.
+
+ But it's not just about fancy AI chatbots and text-to-image generators. There are some highly speculation but incredibly impressive AI tools on the horizon.
+
+## Semantic Search With Vector Databases
+
+![Searching With Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/semantic-search-with-google.jpg)
+
+Image Credit:Firmbee.com/[Unsplash](https://unsplash.com/photos/person-using-black-laptop-computer-eMemmpUojlw)
+
+ Semantic search queries are being tested to provide better search results for people. Search engines currently use keyword-centric algorithms to provide relevant information to users. However, overreliance on keywords poses several problems, such as limited context understanding, marketers exploiting SEO, and low-quality search results due to difficulty expressing complex queries.
+
+ Unlike traditional search algorithms, semantic search uses word embeddings and semantic mapping to understand the context of a query before providing search results. So, instead of relying on a bunch of keywords, semantic search provides results based on semantics or the meaning of a given query.
+
+ The concept of semantic search has been around for quite some time. However, companies have difficulty implementing such functionality due to how slow and resource-intensive semantic search can be.
+
+ The solution is to map out vector embeddings and store them in a large [vector database](https://www.makeuseof.com/what-is-a-vector-database/). Doing so substantially lowers computing power requirements and speeds up search results by narrowing results to only the most relevant information.
+
+ Large tech companies and startups like Pinecone, Redis, and Milvus are currently investing in vector databases to provide semantic search capabilities on recommendation systems, search engines, content management systems, and chatbots.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Democratization of AI
+
+!["Open Source" typed with a typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-source.jpg)
+
+ Although not necessarily a technical advancement, several big tech companies are interested in democratizing AI. For better or for worse, [open-source AI models are now being trained](http://www.makeuseof.com/positive-negative-impacts-open-source-ai-language-models/) and given more permissive licenses for organizations to use and fine-tune.
+
+[The Wall Street Journal reports](https://www.wsj.com/tech/ai/meta-is-developing-a-new-more-powerful-ai-system-as-technology-race-escalates-decf9451?) that Meta is buying Nvidia H100 AI accelerators and aims to develop an AI that competes with OpenAI’s recent GPT-4 model.
+
+ There is currently no publicly available LLM that can match the raw performance of GPT-4\. But with Meta promising a competitive product with a more permissive license, companies can finally fine-tune a powerful LLM without the risk of trade secrets and sensitive data being exposed and used against them.
+
+## AI Agents and Multi-Agent Startups
+
+![Group working on a project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/group-working-on-project.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people-using-laptop-computer-QckxruozjRg)
+
+ Several experimental projects are currently in the works for developing AI agents that require little to no instructions to achieve a certain goal. You may remember the concepts of [AI agents from Auto-GPT](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/), the AI tool that automates its actions.
+
+ The idea is for the agent to attain full autonomy through constant self-assessment and self-correction. The working concept to achieve self-reflection and correction is for the agent to continually prompt itself every step of the way on what action needs to be done, steps on how to do it, what mistakes it made, and what it can do to improve.
+
+ The problem is that the current models used in AI agents have little semantic understanding. That causes the agents to hallucinate and prompt false information, which causes them to get stuck on an infinite loop of self-assessment and correction.
+
+ Projects like the MetaGPT Multi-agent Framework aim to solve the problem by simultaneously using several AI agents to reduce such hallucinations. Multi-agent frameworks are set up to emulate how a startup company would work. Each agent in this startup will be assigned positions such as project manager, project designer, programmer, and tester. By splitting complex goals into smaller tasks and delegating them to different AI agents, these agents are more likely to achieve their given goals.
+
+ Of course, these frameworks are still very early in development, and many issues still need to be solved. But with more powerful models, better AI infrastructure, and continuous research and development, it is only a matter of time before effective AI agents and multi-agent AI companies become a thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Shaping Our Future With AI
+
+ Large corporations and startups are heavily investing in the research and development of AI and its infrastructures. So, we can expect the future of generative AI to provide better access to useful information through semantic search, fully autonomous AI agents and AI companies, and freely available high-performance models for companies and individuals to use and fine-tune.
+
+ Although exciting, it is also important that we take our time to consider AI ethics, user privacy, and the responsible development of AI systems and infrastructures. Let us remember that the evolution of generative AI is not just about building smarter systems; it is also about reshaping our thoughts and being responsible for the way we use technology.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ ChatGPT's phenomenal success has forced every tech company to start investing in AI research and figure out how to integrate artificial intelligence into their products. It's a situation unlike anything we've ever seen, yet, artificial intelligence is only just getting started.
+
+ But it's not just about fancy AI chatbots and text-to-image generators. There are some highly speculation but incredibly impressive AI tools on the horizon.
+
+## Semantic Search With Vector Databases
+
+![Searching With Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/semantic-search-with-google.jpg)
+
+Image Credit:Firmbee.com/[Unsplash](https://unsplash.com/photos/person-using-black-laptop-computer-eMemmpUojlw)
+
+ Semantic search queries are being tested to provide better search results for people. Search engines currently use keyword-centric algorithms to provide relevant information to users. However, overreliance on keywords poses several problems, such as limited context understanding, marketers exploiting SEO, and low-quality search results due to difficulty expressing complex queries.
+
+ Unlike traditional search algorithms, semantic search uses word embeddings and semantic mapping to understand the context of a query before providing search results. So, instead of relying on a bunch of keywords, semantic search provides results based on semantics or the meaning of a given query.
+
+ The concept of semantic search has been around for quite some time. However, companies have difficulty implementing such functionality due to how slow and resource-intensive semantic search can be.
+
+ The solution is to map out vector embeddings and store them in a large [vector database](https://www.makeuseof.com/what-is-a-vector-database/). Doing so substantially lowers computing power requirements and speeds up search results by narrowing results to only the most relevant information.
+
+ Large tech companies and startups like Pinecone, Redis, and Milvus are currently investing in vector databases to provide semantic search capabilities on recommendation systems, search engines, content management systems, and chatbots.
+
+## Democratization of AI
+
+!["Open Source" typed with a typewriter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-source.jpg)
+
+ Although not necessarily a technical advancement, several big tech companies are interested in democratizing AI. For better or for worse, [open-source AI models are now being trained](http://www.makeuseof.com/positive-negative-impacts-open-source-ai-language-models/) and given more permissive licenses for organizations to use and fine-tune.
+
+[The Wall Street Journal reports](https://www.wsj.com/tech/ai/meta-is-developing-a-new-more-powerful-ai-system-as-technology-race-escalates-decf9451?) that Meta is buying Nvidia H100 AI accelerators and aims to develop an AI that competes with OpenAI’s recent GPT-4 model.
+
+ There is currently no publicly available LLM that can match the raw performance of GPT-4\. But with Meta promising a competitive product with a more permissive license, companies can finally fine-tune a powerful LLM without the risk of trade secrets and sensitive data being exposed and used against them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AI Agents and Multi-Agent Startups
 
@@ -278,6 +279,10 @@ Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people
  Projects like the MetaGPT Multi-agent Framework aim to solve the problem by simultaneously using several AI agents to reduce such hallucinations. Multi-agent frameworks are set up to emulate how a startup company would work. Each agent in this startup will be assigned positions such as project manager, project designer, programmer, and tester. By splitting complex goals into smaller tasks and delegating them to different AI agents, these agents are more likely to achieve their given goals.
 
  Of course, these frameworks are still very early in development, and many issues still need to be solved. But with more powerful models, better AI infrastructure, and continuous research and development, it is only a matter of time before effective AI agents and multi-agent AI companies become a thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shaping Our Future With AI
 
@@ -298,5 +303,19 @@ Image Credit:Annie Spratt/[Unsplash](https://unsplash.com/photos/group-of-people
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-developing-intriguing-video-segments-for-channels/"><u>[New] In 2024, Developing Intriguing Video Segments for Channels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-writing-simplified-by-hix/"><u>AI-Powered Writing Simplified by HIX</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-recent-ipad-launch-hit-a-snag-with-major-oversight-corrective-measures-explained-analysis-by-zdnet/"><u>Apple's Recent iPad Launch Hit a Snag with Major Oversight; Corrective Measures Explained | Analysis by ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/catalog-films-for-streamlined-playback-for-2024/"><u>Catalog Films for Streamlined Playback for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-demystified-for-parenting-success/"><u>ChatGPT Demystified for Parenting Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/command-driven-dialogue-giving-chatgpt-its-voice-back/"><u>Command-Driven Dialogue: Giving ChatGPT Its Voice Back</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/como-transfiere-archivos-sin-coste-con-estos-programas-libres-perfectos-para-windows-10-8-o-7/"><u>Cómo Transfiere Archivos Sin Coste Con Estos Programas Libres Perfectos Para Windows 10, 8 O 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-logitech-gamepad-software-compatible-with-windows-7-8-and-10/"><u>Free Logitech Gamepad Software: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/iphone-zoom-videography/"><u>IPhone Zoom Videography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-fix-for-background-removal-in-figma-projects-for-2024/"><u>Quick Fix for Background Removal in Figma Projects for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-to-resolve-lag-problems-when-playing-resident-evil-village-on-pc/"><u>Step-By-Step Solution to Resolve Lag Problems When Playing Resident Evil Village on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/workplace-transformation-by-ai-innovations/"><u>Workplace Transformation by AI Innovations</u></a></li>
+</ul></div>
 

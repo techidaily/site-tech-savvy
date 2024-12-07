@@ -1,7 +1,7 @@
 ---
 title: Introducing the Simplified Audio Experience of Sonos' New S2 App - But Don't Overlook These Key Limitations
-date: 2024-11-26T16:37:24.552Z
-updated: 2024-11-27T16:07:47.326Z
+date: 2024-12-05T19:52:21.225Z
+updated: 2024-12-06T20:43:30.575Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ While this move towards a [more integrated software environment](https://www.zdn
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Observations of the new S2 UX
@@ -61,7 +61,7 @@ It is uncertain whether the codebase is entirely unified. The missing configurat
 Nevertheless, the consistent visual appearance across all platforms significantly enhances the user experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The harmonious: advantages of Sonos' web-based platform
@@ -77,7 +77,7 @@ The primary advantage of Sonos' new software strategy lies in its apparent commi
 The updated software sports a cleaner design and boasts enhanced functionality, such as improved search capabilities, making it easier for users to find their favorite music and podcasts. This focus on usability can significantly enhance user satisfaction and cement Sonos's reputation as a user-centric brand.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The dissonant: the challenge of hardware compatibility and loss of functionality
@@ -99,7 +99,7 @@ The biggest source of anguish from Sonos customers is that the new S2 update als
 The company is [hosting an AMA on May 14th](https://en.community.sonos.com/events/sonos-app-redesign-ama-6) to address customer concerns about these redesign issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The bigger picture: software over hardware?
@@ -117,7 +117,7 @@ Instead of buying new hardware, consumers might want to consider how long their 
 Companies like Sonos that balance innovation with support for legacy systems are likely to retain loyal customers. Being transparent about product lifecycles and offering programs to help customers upgrade older, incompatible devices could alleviate dissatisfaction.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Looking forward: the role of innovation in user experience
@@ -158,17 +158,19 @@ Although Sonos' new software platform simplifies audio control, it raises questi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-simplifying-video-content-on-vimeo-with-right-plan-selection/"><u>[New] In 2024, Simplifying Video Content on Vimeo with Right Plan Selection</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ps5-expansion-leading-external-drives-unveiled-for-2024/"><u>[Updated] Ps5 Expansion Leading External Drives Unveiled for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprehensive-microsoft-surface-pro-8-evaluation-the-ultimate-device-for-professionals-analysis/"><u>Comprehensive Microsoft Surface Pro 8 Evaluation: The Ultimate Device for Professionals? - Analysis</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723003097705-how-to-fix-dev-error-6634-in-warzone-2022-tips/"><u>How to Fix Dev Error 6634 in Warzone – 2022 Tips</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/humorous-harmonics-optimal-ringtone-sites/"><u>Humorous Harmonics Optimal Ringtone Sites</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Pro Max Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/in-depth-evaluation-of-apples-latest-innovation-the-m2-chip-powered-ipad-air-your-ultimate-guide-for-purchase-decisions/"><u>In-Depth Evaluation of Apple's Latest Innovation: The M2 Chip Powered iPad Air - Your Ultimate Guide for Purchase Decisions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/introducing-the-new-ai-powered-chatgpt-feature-in-microsoft-excel/"><u>Introducing the New AI-Powered ChatGPT Feature in Microsoft Excel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mobile-device-assessment-strategies-by-zdnet-unveiling-our-approach/"><u>Mobile Device Assessment Strategies by ZDNet: Unveiling Our Approach</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-with-launching-the-elder-scrolls-online-troubleshooting-steps/"><u>Resolved: Issues with Launching The Elder Scrolls Online - Troubleshooting Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tap-into-ai-bing-search-how-to-sign-up/"><u>Tap Into AI Bing Search: How to Sign Up</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1727786608863-top-rated-apple-watch-accessories-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Apple Watch Accessories - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovating-imagery-topiary-techniques-for-stellar-iphone-photos/"><u>[Updated] Innovating Imagery Topiary Techniques for Stellar iPhone Photos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/defeating-blue-screen-blues-fixing-stop-code-0x0000003d-successfully/"><u>Defeating Blue Screen Blues: Fixing Stop Code 0X0000003D Successfully</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-cross-language-interaction-with-chatgpt/"><u>Embracing Cross-Language Interaction with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-dall-e-3-for-free-inside-microsoft-bing/"><u>How to Use DALL-E 3 for Free Inside Microsoft Bing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-find-x7-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Find X7?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-imagescope-critique-platform/"><u>In 2024, ImageScope Critique Platform</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-your-selling-strategy-with-lazlive-live-selling/"><u>In 2024, Your Selling Strategy With LazLive Live Selling</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mastering-snapchat-flipping-videos-backwards/"><u>Mastering Snapchat Flipping Videos Backwards</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-sensitive-business-conversations-on-gpt/"><u>Protecting Sensitive Business Conversations on GPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/remedy-non-playing-youtube-tweet-clips/"><u>Remedy Non-Playing YouTube Tweet Clips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolution-of-apples-virtual-assistant-siri-takes-on-bing-like-roles-for-enhanced-smart-computing/"><u>The Evolution of Apple's Virtual Assistant: Siri Takes on Bing-Like Roles for Enhanced Smart Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-enhancements-apple-aims-to-overhaul-its-budget-friendly-se-series-exclusive-insights-revealed/"><u>Upcoming Enhancements: Apple Aims to Overhaul Its Budget-Friendly SE Series - Exclusive Insights Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/utilizing-chatgpt-for-crafting-literary-works/"><u>Utilizing ChatGPT for Crafting Literary Works</u></a></li>
 </ul></div>
 

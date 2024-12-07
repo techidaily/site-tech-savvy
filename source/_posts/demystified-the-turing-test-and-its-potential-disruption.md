@@ -1,7 +1,7 @@
 ---
 title: "Demystified: The Turing Test & Its Potential Disruption"
-date: 2024-11-24T16:06:20.871Z
-updated: 2024-11-27T16:25:40.238Z
+date: 2024-12-05T22:52:12.323Z
+updated: 2024-12-06T22:49:27.821Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
 
  The Turing Test is a set of guidelines meant to determine whether a machine is indistinguishable from a human. It tries to answer the question, "Can machines think?" Turing believed it was possible and designed something that could be resembled as a kind of game.
@@ -54,7 +50,11 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Drawbacks of the Turing Test
@@ -72,14 +72,10 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Eugene Goostman
 
@@ -88,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
  Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Google's LaMBDA
 
@@ -107,15 +107,15 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if [AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -144,22 +144,14 @@ thumbnail: https://thmb.techidaily.com/db587631bccc11018e71b0f197be1378b7d1dbbec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-examining-the-economic-impact-of-mr-beast/"><u>[New] In 2024, Examining the Economic Impact of Mr. Beast</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-ultimate-guide-to-the-top-youtube-video-editors/"><u>[New] Ultimate Guide to the Top YouTube Video Editors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-knowledge-exchange-the-fundamentals-of-transfer-learning/"><u>AI Knowledge Exchange: The Fundamentals of Transfer Learning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-role-in-crafting-healthful-eating/"><u>AI's Role in Crafting Healthful Eating</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bring-outrageous-adventures-to-life-in-dandd-using-gpt-tips/"><u>Bring Outrageous Adventures to Life in D&D Using GPT Tips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/descubre-el-secreto-reproducir-sin-errores-y-sin-disminucion-del-sonido-o-imagen-en-un-mac-incluida-la-version-big-sur/"><u>Descubre El Secreto: Reproducir Sin Errores Y Sin Disminución Del Sonido O Imagen en Un Mac, Incluida La Versión Big Sur</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-high-end-luxuries-of-dells-3k-gamer-rig-a-firsthand-review/"><u>Discover the High-End Luxuries of Dell's $3K Gamer Rig: A Firsthand Review</u></a></li>
-<li><a href="https://win-help.techidaily.com/discover-the-leading-free-image-rescue-applications-a-selection-of-the-finest-5-options/"><u>Discover the Leading Free Image Rescue Applications: A Selection of the Finest 5 Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-artificial-intelligence-with-ease-mastering-free-dall-e-3-on-microsofts-bing/"><u>Explore Artificial Intelligence with Ease: Mastering Free DALL-E 3 on Microsoft's Bing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-tecno-spark-20-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Tecno Spark 20? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-characters-with-11-best-in-class-chatgpt-queries-for-authors/"><u>Master Characters with 11 Best-In-Class ChatGPT Queries for Authors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/one-step-bavarder-setup-procedure-for-linux-users/"><u>One-Step Bavarder Setup Procedure for Linux Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-data-block-unauthorized-scrappers/"><u>Secure Data: Block Unauthorized Scrappers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-freelance-guide-to-ai-assistants-bing-chat-vs-chatgpt/"><u>The Freelance Guide to AI Assistants: Bing Chat Vs. ChatGPT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/witcher-3-startup-issues-comprehensive-tips-for-a-successful-game-launch/"><u>Witcher 3 Startup Issues? Comprehensive Tips for a Successful Game Launch</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-filmmakers-ally-expert-advice-for-video-creation-in-windows-10/"><u>[New] The Filmmaker's Ally Expert Advice for Video Creation in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-apples-latest-ai-breakthroughs-missed-opportunities-and-future-prospects-zdnet/"><u>Exploring Apple's Latest AI Breakthroughs: Missed Opportunities and Future Prospects | ZDNet</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fixing-the-task-didnt-complete-as-expected-notification-in-windows-11/"><u>Fixing the 'Task Didn't Complete as Expected' Notification in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-tecno-spark-10-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Tecno Spark 10 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-exploring-ai-face-generators/"><u>New 2024 Approved Exploring AI Face Generators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-your-tech-investment-how-waterproof-is-the-iphone-15-pro-max-really/"><u>Protecting Your Tech Investment: How Waterproof Is the iPhone 15 Pro Max Really?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/truth-seekers-and-chatgpts-claims/"><u>Truth Seekers and ChatGPT’s Claims</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-the-affordable-iphone-14-plus-is-a-game-changer-unbeatable-all-day-power-and-extra-perks-you-should-know-zdnets-expert-take/"><u>Why the Affordable iPhone 14 Plus Is a Game Changer: Unbeatable All-Day Power & Extra Perks You Should Know (ZDNET's Expert Take)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-exclusive-apple-adjusts-timeline-for-rollout-of-innovative-intelligence-features-now-set-for-october-release/"><u>ZDNet Exclusive: Apple Adjusts Timeline for Rollout of Innovative Intelligence Features, Now Set for October Release</u></a></li>
 </ul></div>
 
