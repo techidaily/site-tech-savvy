@@ -1,7 +1,7 @@
 ---
 title: "AI's Inception: Tracing Its Historical Evolution"
-date: 2024-09-12T07:42:42.756Z
-updated: 2024-09-13T07:42:42.756Z
+date: 2024-12-11T16:50:13.592Z
+updated: 2024-12-12T18:39:41.321Z
 tags:
   - chatgpt
   - open-ai
@@ -41,22 +41,12 @@ thumbnail: https://thmb.techidaily.com/67bd9eb22eb0b577554d0f90d5db30aca97e4f163
 
  Although the first period looking at the roots of AI covers a vast period, there are some key moments.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1900-1950: The Dawn of Modern AI
 
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Technological developments accelerated during this period. The accessibility of IT resources enabled researchers to materialize theories, imagined concepts, and speculations. They were laying the foundation for cybernetics.
@@ -73,10 +63,7 @@ thumbnail: https://thmb.techidaily.com/67bd9eb22eb0b577554d0f90d5db30aca97e4f163
 ![An Old and Large Supercomputer Display at the Museum](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-super-computer-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:CDC%5F6600%5F-%5FComputer%5FHistory%5FMuseum%5F%2830614723650%29.jpg)
@@ -88,6 +75,10 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 * **1997:** IBM built Deep Blue, a chess-playing system powered by its supercomputer. It's the first automated chess player to play a full game autonomously and win. Moreover, the demonstration involved a world-class chess grandmaster.
 
  The middle period of AI development saw one of the most important moments of all: the coining of the term "artificial intelligence."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2001-2010: Integrating AI Into Modern Technologies
 
@@ -105,29 +96,9 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
  Interestingly, despite this period featuring some of the most iconic tech from recent decades, AI wasn't fully on the radar for most consumers, with personal and home assistant tools like Siri and Alexa only appearing in the next period.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2011-2020: The Spread and Development of AI-Driven Applications
 
 ![Camera, Smartphone, Keyboard, an Laptop on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/various-gadgets-on-table.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Companies began developing stable AI-driven solutions during this period. They integrate AI into various software and hardware systems, like virtual assistants, grammar checkers, laptops, smartphones, and [augmented reality apps](https://www.makeuseof.com/tag/best-augmented-reality-apps-android/).
 
@@ -139,16 +110,13 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
  During this period, consumers were likely to use AI applications without even realizing it, even though visual and voice recognition tools (for most consumers) were still young. Towards the end of the decade, AI development kicked up a notch, but still not as dramatically as what was to come.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2021-Present: Global Tech Leaders Kick off the Great AI Race
 
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The great AI race has begun. Developers are releasing language models, and companies are researching ways to integrate AI with their products. At this rate, almost every consumer product will have an AI component.
 
@@ -156,6 +124,10 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 * **2023:** Other global tech companies followed suit. Google launched Bard, Microsoft released Bing Chat, Meta developed an open-source language model called LLaMA, and OpenAI released GPT-4, its upgraded model.
 
  There are also numerous [other AI web apps](https://www.makeuseof.com/best-ai-web-apps/) and [AI-based health apps](https://www.makeuseof.com/best-ai-apps-monitor-your-health/) available for use or in development, and so many more to come.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How AI Will Shape the Future
 
@@ -180,5 +152,21 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-boosting-performance-allocating-additional-ram-to-minecraft/"><u>[Updated] Boosting Performance Allocating Additional RAM to Minecraft</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-stream-controls-netflix-edition/"><u>2024 Approved Mastering the Art of Stream Controls - Netflix Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-paint-your-paradigm-the-8-essential-drawing-apps-for-iphone-users/"><u>2024 Approved Paint Your Paradigm The 8 Essential Drawing Apps for iPhone Users</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/4google/"><u>如何使用4種不同技巧回收你錯丟失的Google文件</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/alert-on-mimicry-genuine-ai-apps-versus-fake-ones/"><u>Alert on Mimicry: Genuine AI Apps Versus Fake Ones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-latest-your-next-apple-phone-choice-post-iphone-13-and-15-pro-discontinuation-insights-from-zdnet/"><u>Beyond the Latest: Your Next Apple Phone Choice Post-iPhone 13 & 15 Pro Discontinuation - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-all-compatible-apple-watches-with-watchos-11-update-and-exclusions-explained-zdnet/"><u>Comprehensive Guide: All Compatible Apple Watches with WatchOS 11 Update & Exclusions Explained - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-role-and-value-of-snapchats-ai-with-6-reasons/"><u>Dissecting the Role and Value of Snapchat's AI with 6 Reasons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-novelty-bard-vs-bing-for-optimal-chatting/"><u>Navigating Novelty: Bard Vs. Bing for Optimal Chatting</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-fix-monitor-hides-full-screen-windows-11/"><u>Screen Fix: Monitor Hides Full-Screen Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/techniques-to-resume-non-playing-videos/"><u>Techniques to Resume Non-Playing Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-beginners-blueprint-mastering-telegram-web-for-2024/"><u>The Beginner's Blueprint Mastering Telegram Web for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transitioning-to-the-newest-tech-critical-considerations-for-apples-latest-phone-upgrade-explored/"><u>Transitioning to the Newest Tech: Critical Considerations for Apple's Latest Phone Upgrade | Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-new-potentials-for-your-iphone-with-apples-inclusion-of-google-gemini-on-ios-a-game-changer-insights/"><u>Unlock New Potentials for Your iPhone with Apple's Inclusion of Google Gemini on iOS - A Game Changer Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT: Your Guide to Tactile Roleplay Games"
-date: 2024-09-14T16:17:04.793Z
-updated: 2024-09-17T16:13:05.585Z
+date: 2024-12-10T00:05:13.826Z
+updated: 2024-12-12T20:58:10.398Z
 tags:
   - chatgpt
   - open-ai
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, this is more compact and easier to look at than the default look.
 
 > 6\. The ‘Description’ must stay between 3 to 10 sentences.
@@ -69,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 > 10\. Change the ‘Weather’ to reflect ‘Description’ and whatever environment the player is in the game.
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Implement Fundamental Game Mechanics
 
@@ -136,6 +144,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Add Combat and Magic Rules
 
  As with any adventure [RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/), combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
@@ -176,20 +188,21 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that [GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -289,13 +302,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -319,5 +325,20 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-incorporating-custom-visuals-in-youtube-videos-easily-for-2024/"><u>[Updated] Incorporating Custom Visuals in YouTube Videos Easily for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-in-the-realm-of-mathematics/"><u>AI in the Realm of Mathematics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-newcomers-clash-in-depth-review-of-m3-vs-m2-macbook-air-for-tech-shoppers/"><u>Apple's Newcomers Clash: In-Depth Review of M3 vs M2 MacBook Air for Tech Shoppers</u></a></li>
+<li><a href="https://win-web.techidaily.com/1726030215689-aviutlmp4/"><u>AviUtlでMP4形式への変換がうまくいかない時の解決策</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-on-airpods-reboot-procedures-optimal-times-to-perform-a-factory-reset-insights/"><u>Expert Advice on AirPods Reboot Procedures - Optimal Times to Perform a Factory Reset | Insights</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-asus-unboxing-special-the-mg28uq-monitor-a-high-res-journey/"><u>In 2024, ASUS Unboxing Special The MG28UQ Monitor - A High-Res Journey</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-a79-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo A79 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-teslas-labyrits-new-gpt-uncovered/"><u>Inside Tesla's Labyrits: New GPT Uncovered</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-apples-upgraded-mac-studio-how-the-mac-mini-evolves/"><u>Introducing Apple's Upgraded Mac Studio: How the Mac Mini Evolves</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/my-impulsive-prime-day-deal-a-detailed-look-at-the-affordable-apple-17-earpods-with-usb-c-exclusive-coverage-by-zdnet/"><u>My Impulsive Prime Day Deal: A Detailed Look at the Affordable Apple $17 EarPods with USB-C | Exclusive Coverage by ZDNET</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-toms-hardware-world-insights-and-reviews/"><u>Navigating Tom's Hardware World: Insights and Reviews</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-makes-it-easy-to-repair-apple-quick-time-playermov-file-news-of-stellar/"><u>Stellar Makes It EASY to Repair Apple Quick Time Player.MOV File - News of Stellar</u></a></li>
+<li><a href="https://fox-info.techidaily.com/vanguards-choice-of-top-12-high-tech-action-cams-with-locators/"><u>Vanguard's Choice of Top 12 High-Tech Action Cams With Locators</u></a></li>
+</ul></div>
 

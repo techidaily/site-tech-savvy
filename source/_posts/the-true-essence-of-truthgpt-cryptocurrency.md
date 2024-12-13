@@ -1,7 +1,7 @@
 ---
 title: The True Essence of TruthGPT Cryptocurrency
-date: 2024-12-02T00:57:52.599Z
-updated: 2024-12-06T16:12:41.475Z
+date: 2024-12-06T21:18:40.810Z
+updated: 2024-12-12T17:45:51.382Z
 tags:
   - chatgpt
   - open-ai
@@ -28,28 +28,24 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is TruthGPT Coin? Why Are There Two TruthGPT Coins?
 
  There are two projects using the name "TruthGPT Coin." One uses the Binance Smart Chain, while the other is an Ethereum ERC-20 token, but both appear to use the $TRUTH ticker. It's not clear if there is a specific link between the projects, as the general approach of each differs in quality.
 
 ![truthgpt home page-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-home-page-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The first project claims to be powered by an AI model developed in-house called Elon Musk AI. The TruthGPT website is full of images of Musk, poor-quality digital images, fake endorsements, and more (along with other prominent crypto figures, such as Binance's Changpeng Zhao). After signing up, you can ask the "AI" questions, but the responses are extremely slow and look to me to be hand-written in places. You'll also find fake accounts for big names in crypto, like Elon Musk, Satoshi Nakamoto, and Michael Saylor.
 
 ![truthgpt elon musk fake account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-elon-musk-fake-account.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![truthgpt example account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-example-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -59,10 +55,14 @@ Close
 ![second truthgpt coin website home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/second-truthgpt-coin-website-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, the second TruthGPT Coin has linked itself to [Elon Musk's TruthGPT AI project](https://www.makeuseof.com/what-is-truthgpt/) to gain a semblance of legitimacy, though it notes that TruthGPT Coin is a community effort and isn't affiliated with Musk. It doesn't feature any Musk imagery but talks about him throughout the site and claims to use artificial intelligence to "seek out and evaluate information in order to arrive at the most accurate and reliable understanding of the world."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is TruthGPT Coin a Scam?
 
@@ -79,7 +79,7 @@ Close
  The TruthGPT Coin entry on [CoinMarketCap](https://coinmarketcap.com/currencies/truthgpt/) also suggests something fishy is going on. It currently displays a banner informing would-be users that, "According to [Gopluslabs](https://gopluslabs.io/token-security/1/0xaf75d880b3128981d1fed3292fc02e3fb37acd53), the smart contract of the following asset can be modified by the contract creator (for example: disable selling, change fees, mint new tokens, or transfer tokens). Please exercise caution before taking any action and DYOR."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Watch Out for Scam Tokens Involving ChatGPT, AI, and Elon Musk
@@ -109,14 +109,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unlock-hidden-potential-snapchat-zooming-tips/"><u>[Updated] 2024 Approved Unlock Hidden Potential Snapchat Zooming Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-typical-slip-ups-when-deploying-chatgpt-for-articles/"><u>4 Typical Slip-Ups When Deploying ChatGPT for Articles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721421565758-free-gpt-4-but-platinum-plan-holds-6-significant-perks-still-intact/"><u>Free GPT-4, but Platinum Plan Holds 6 Significant Perks Still Intact</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-digital-dynamo-recording-on-a-mac/"><u>In 2024, Digital Dynamo Recording on a Mac</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721393710512-protect-your-world-real-vs-faux-gpt-applications-unveiled/"><u>Protect Your World: Real Vs. Faux GPT Applications Unveiled!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-visibility-issues-how-to-make-your-hard-drive-accessible-in-windows-10/"><u>Resolving Visibility Issues: How to Make Your Hard Drive Accessible in Windows 10</u></a></li>
-<li><a href="https://win-superb.techidaily.com/sound-card-fixes-simplified-expert-tips-for-adjusting-settings-and-resolving-audio-issues-home-office-guru/"><u>Sound Card Fixes Simplified: Expert Tips for Adjusting Settings & Resolving Audio Issues - Home Office Guru</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721396762343-step-into-the-world-of-bug-hunting-get-a-payday-at-openai/"><u>Step Into the World of Bug Hunting; Get a Payday at OpenAI</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024s-elite-quiz-networks-revealed/"><u>2024’S Elite Quiz Networks Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-access-to-advanced-capabilities-in-gpt-4-rely-on-copilots-expertise/"><u>Free Access to Advanced Capabilities in GPT-4: Rely on Copilot's Expertise</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-max-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro Max to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-capturing-the-essence-of-hits-shortform-music-video-tips/"><u>In 2024, Capturing the Essence of Hits Shortform Music Video Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shooting-pro-level-footage-on-your-iphone-apple-introduces-final-cut-mobile-app/"><u>Shooting Pro-Level Footage on Your iPhone: Apple Introduces Final Cut Mobile App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategic-personas-design-using-advanced-chatgpt-techniques/"><u>Strategic Personas Design Using Advanced ChatGPT Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformez-facilement-un-fichier-mpeg-en-video-avi-gratuitement-avec-convertisseur-video-en-ligne-movavi/"><u>Transformez Facilement Un Fichier MPEG en Vidéo AVI Gratuitement Avec Convertisseur Vidéo en Ligne - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unbeatable-presidents-day-offer-save-300-on-the-202-cuet-m2-macbook-air-shop-now-at-zdnet/"><u>Unbeatable Presidents' Day Offer: Save $300 on the 202 Cuet M2 MacBook Air - Shop Now at ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-in-anthropics-prompt-store-using-the-new-claude-3-ai-technology/"><u>Unlocking Potential in Anthropic's Prompt Store Using the New Claude 3 AI Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/video-voyage-beginnings-from-storyboard-to-screenplay-via-chatgpt/"><u>Video Voyage Beginnings - From Storyboard to Screenplay via ChatGPT</u></a></li>
 </ul></div>
 

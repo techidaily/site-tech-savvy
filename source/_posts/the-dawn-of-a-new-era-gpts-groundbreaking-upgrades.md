@@ -1,7 +1,7 @@
 ---
 title: "The Dawn of a New Era: GPT's Groundbreaking Upgrades"
-date: 2024-09-12T07:44:50.099Z
-updated: 2024-09-13T07:44:50.099Z
+date: 2024-12-12T01:04:15.999Z
+updated: 2024-12-12T20:26:54.084Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Image Input and Output Capabilities](https://parisrhonecom.sjv.io/zqobqr)
@@ -34,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 * [Multi-Modal Voice and Video Interactions](https://aligracehair.sjv.io/y209r3)
 * [Upgraded Code Analysis](https://appsumo.8odi.net/gmezyk)
 * [Temporary Chat](https://copa.sjv.io/6eoowq)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -63,10 +53,7 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
@@ -82,10 +69,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -113,10 +97,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
@@ -132,10 +113,7 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Temporary Chat
@@ -161,5 +139,23 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-television-archive-advanced-techniques-for-online-streams-for-2024/"><u>[Updated] Television Archive Advanced Techniques for Online Streams for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-vpn-raids-on-privacy-tools/"><u>Deconstructing VPN Raids on Privacy Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-leading-home-theater-pcs-for-2t24s-best-viewing-experience/"><u>Discover the Leading Home Theater PCs for 2T24's Best Viewing Experience</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/fcp-essentials-flipping-clips-made-easy-with-this-4-step-process/"><u>FCP Essentials Flipping Clips Made Easy with This 4-Step Process</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-dvd-playback-problems-on-a-windows-operated-computer/"><u>How to Resolve DVD Playback Problems on a Windows-Operated Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-for-writing-difficult-emails-at-work/"><u>How to Use ChatGPT for Writing Difficult Emails at Work</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-launchpad-equipment-the-beginners-checklist/"><u>In 2024, Launchpad Equipment The Beginner's Checklist</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/key-moves-for-unlocking-the-calculator-in-windows-11/"><u>Key Moves for Unlocking the Calculator in Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341757274-land-division-must-comply-with-local-zoning-laws-and-land-use-regulations/"><u>Land Division Must Comply with Local Zoning Laws and Land Use Regulations</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-at-expo-2020-dubai-the-future-of-language-learning/"><u>Mondly At Expo 2020 Dubai: The Future Of Language Learning</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/movavi3gpp/"><u>Movaviを使用したオンライン3GPPビデオのバーチャルコンバート – 快適な解決策はこちら</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-conversations-easily-the-chrome-gpt-extension/"><u>Navigate Conversations Easily - The Chrome GPT Extension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-boss-for-ai-predicted-impact-on-chatgpt/"><u>New Boss for AI, Predicted Impact on ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-photography-apple-unveils-ai-powered-editing-tool-responding-to-user-text-descriptions-insights/"><u>Revolutionizing Photography: Apple Unveils AI-Powered Editing Tool Responding to User Text Descriptions - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-smartphone-with-chatgpt-and-android/"><u>Transform Your Smartphone with ChatGPT & Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-office-writing-word-and-gpt-synergy-unveiled/"><u>Upgrade Your Office Writing: Word and GPT Synergy Unveiled</u></a></li>
+</ul></div>
 

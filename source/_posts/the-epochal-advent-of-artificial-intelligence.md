@@ -1,7 +1,7 @@
 ---
 title: The Epochal Advent of Artificial Intelligence
-date: 2024-12-03T23:18:40.024Z
-updated: 2024-12-06T19:29:23.950Z
+date: 2024-12-07T23:21:04.797Z
+updated: 2024-12-12T21:54:24.591Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
 ![Old, Ancient Books in Dirt and With Yellow Pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-books-yellow-pages.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Computers emerged in the mid-70s](https://www.makeuseof.com/who-built-the-first-personal-computer-and-how-does-it-compare-with-your-pc-or-laptop/), but historians trace the earliest references to AI back to the late middle ages. Scholars often wondered about future innovations. Of course, they lacked the technological resources and skills to materialize ideas.
 
 * **1305:** Theologian and Catalan mystic Ramon Llull wrote Ars Magna in the early 1300s. It details mechanical techniques for logical interreligious dialogues. The last section of Ars Magna, the Ars Generalis Ultima, explains a diagram for deriving propositions from existing information. It bears semblance to AI training.
@@ -54,17 +58,9 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 
  The dawn of modern AI fitting accumulates with Alan Turing's paper and the [Turing Test, which attempts to answer the question](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/), "Can machines think?"
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1951-2000: Exploring the Applications of AI Technologies
 
 ![An Old and Large Supercomputer Display at the Museum](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-super-computer-display.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:CDC%5F6600%5F-%5FComputer%5FHistory%5FMuseum%5F%2830614723650%29.jpg)
 
@@ -76,12 +72,16 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 
  The middle period of AI development saw one of the most important moments of all: the coining of the term "artificial intelligence."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2001-2010: Integrating AI Into Modern Technologies
 
 ![The Black First Generation iPhone on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/original-iphone-first-gen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:IPhone%5FFirst%5FGeneration%5F8GB%5F%283680455198%29.jpg)
@@ -97,7 +97,7 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
  Interestingly, despite this period featuring some of the most iconic tech from recent decades, AI wasn't fully on the radar for most consumers, with personal and home assistant tools like Siri and Alexa only appearing in the next period.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2011-2020: The Spread and Development of AI-Driven Applications
@@ -114,13 +114,13 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
  During this period, consumers were likely to use AI applications without even realizing it, even though visual and voice recognition tools (for most consumers) were still young. Towards the end of the decade, AI development kicked up a notch, but still not as dramatically as what was to come.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2021-Present: Global Tech Leaders Kick off the Great AI Race
 
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The great AI race has begun. Developers are releasing language models, and companies are researching ways to integrate AI with their products. At this rate, almost every consumer product will have an AI component.
 
@@ -154,20 +154,18 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-compelling-list-of-premium-free-phone-video-chat-applications-iosandroid/"><u>[New] Compelling List of Premium-Free Phone Video Chat Applications (iOS/Android)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-deep-dive-into-windows-pc-hdr-capabilities-for-2024/"><u>[New] Deep Dive Into Windows PC HDR Capabilities for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-10-must-have-drone-accessories-and-parts/"><u>[Updated] 10 Must Have Drone Accessories and Parts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-pushing-boundaries-with-iphones-motion-blur-capabilities/"><u>2024 Approved Pushing Boundaries with iPhone’s Motion-Blur Capabilities</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-reality-crafted-by-machine-minds/"><u>A New Reality Crafted by Machine Minds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-timeline-to-ais-inception/"><u>A Timeline to AI's Inception</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-2-unveiled-insight-into-its-purpose-and-utility/"><u>Claude 2 Unveiled: Insight Into Its Purpose and Utility</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-originality-challenges-artificial-intelligence/"><u>Content Originality Challenges Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/context-revolution-gemini-15s-million-token-journey/"><u>Context Revolution: Gemini 1.5'S Million Token Journey</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-power-in-career-pursuits/"><u>Harnessing ChatGPT Power in Career Pursuits</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-a-neural-network-inversion-attack-expose-your-chatbots-secrets/"><u>How Does a Neural Network Inversion Attack Expose Your Chatbot's Secrets?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-narzo-60-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme Narzo 60 Pro 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-fcpx-essentials-how-to-achieve-silky-smooth-video-playback/"><u>New FCPX Essentials How to Achieve Silky Smooth Video Playback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-trust-chatgpt-with-confidential-information/"><u>Why You Shouldn't Trust ChatGPT With Confidential Information</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-shape-individualistic-online-humorous-pieces/"><u>[New] Shape Individualistic Online Humorous Pieces</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-traffic-for-new-content-creators/"><u>[Updated] Mastering YouTube Traffic for New Content Creators</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-transform-your-social-media-experience-livestream-fb-flawlessly/"><u>[Updated] Transform Your Social Media Experience Livestream FB Flawlessly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/3-must-know-methods-to-record-on-your-ipad/"><u>3 Must-Know Methods to Record on Your iPad</u></a></li>
+<li><a href="https://win-superb.techidaily.com/adjusting-display-specifications-a-comprehensive-guide-by-yl-computing/"><u>Adjusting Display Specifications: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-sentiments-for-financial-frauds/"><u>Artificial Sentiments for Financial Frauds</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/assessing-the-apex-of-video-recording-is-it-splitcam-in-2024/"><u>Assessing the Apex of Video Recording Is It SplitCam, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-gpt-technology-your-companion-in-language-mastery/"><u>Cutting-Edge GPT Technology: Your Companion in Language Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-cbt-practices-via-ai-driven-dialogue/"><u>Enhancing CBT Practices via AI-Driven Dialogue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-4s-dawn-of-universal-usage/"><u>GPT-4's Dawn of Universal Usage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-leap-forward-a-comparative-overview/"><u>GPT's Leap Forward: A Comparative Overview</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-your-screen-guide-to-windows-11-gpus/"><u>Optimize Your Screen: Guide to Windows 11 GPUs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/re-establishing-missed-dialogues-with-ai/"><u>Re-Establishing Missed Dialogues with AI</u></a></li>
 </ul></div>
 

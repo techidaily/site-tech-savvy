@@ -1,7 +1,7 @@
 ---
 title: Master Excel in No Time With ChatGPT Insights
-date: 2024-09-12T07:43:09.870Z
-updated: 2024-09-13T07:43:09.870Z
+date: 2024-12-05T21:17:10.406Z
+updated: 2024-12-12T22:48:17.635Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
 >
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getting Started With ChatGPT and Excel
@@ -42,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
  While ChatGPT cannot be directly integrated with Excel as of now, it can still be a valuable tool to help you generate prompts and code examples for both everyday and complex Excel tasks. You can start by opening your Excel workbook in one window and going to [ChatGPT webpage](https://chat.openai.com/) to chat with the bot.
 
  For example, if you need help with a formula, type in something like "Can you help me with a VLOOKUP formula?" or "What's the formula to calculate the average of a range of cells?" and ChatGPT will respond. Similarly, if you need help with a specific macro, you can ask ChatGPT for assistance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Examples of Using ChatGPT With Excel
 
@@ -55,44 +56,21 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
 
  Here are some examples of common ChatGPT prompts and code that can be useful while working with Excel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Rounding Numbers
 
  To round a number to the nearest whole number, you can ask ChatGPT, "What is the formula to round a number to the nearest whole number?", and ChatGPT will respond with the formula "=ROUND(A1,0)".
 
 ![ChatGPT showing the formula to round a number to the nearest whole number on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-round-number.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Calculating Averages
 
  To calculate the average of a range of cells, you can ask ChatGPT, "What is the formula to calculate the average of cells A1 to A10?", and ChatGPT will respond with the formula "=AVERAGE(A1:A10)".
 
 ![ChatGPT showing the formula to calculate the average of cells on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-average.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Sorting and Filtering Data
 
@@ -101,16 +79,7 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
 ![ChatGPT showing an example macro for the sort filter on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-sort-filter.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. More Advanced Examples
@@ -123,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
 
 ![ChatGPT showing the macro to copy filtered data to a new worksheet on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-macro-to-workbook.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you ask “Calculate the weighted average of a range of cells”, it will respond with:
 
 ![ChatGPT showing the formula for the SUMPRODUCT function for weighted average on Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/excel-weighted-average.jpg)
@@ -141,10 +103,7 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
  While ChatGPT can be a powerful tool for working with Excel, it's essential to use it correctly to get the best results. Here are some best practices for using ChatGPT with Excel.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Use Clear and Concise Prompts
@@ -153,31 +112,21 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
 
  For instance, a prompt like "Can you please tell me the average sales figures for the previous quarter, excluding sales from the southeast region, and sorted by date in descending order?" might be too complicated for ChatGPT to parse and provide a meaningful response accurately.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Double-Check the Generated Code
 
  ChatGPT is an AI-based tool, and while it's usually very accurate, it's always a good idea to double-check the generated code to ensure it's doing what you want it to do. Test the generated code with sample data to ensure it's accurate and functioning as expected.
 
  When using ChatGPT to generate a macro, review the code carefully and check for syntax errors or logical inconsistencies. Testing the macro with sample data can also help ensure it functions as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Start With More Straightforward Problems
 
  If you're new to using ChatGPT with Excel, starting with more specific and straightforward issues is a good idea to understand how the tool works. For example, you can begin by asking for formulas to [sort and filter data in Excel](https://www.makeuseof.com/excel-macros-for-sorting-data/) or create a pivot table.
 
  As you become more comfortable using ChatGPT with Excel, you can move on to more complex problems, such as creating custom functions or automating repetitive tasks with macros.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make the Best of ChatGPT and Excel
 
@@ -202,5 +151,26 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-expansive-movement-assessment-2023/"><u>[New] Expansive Movement Assessment 2023</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-playbook-of-youtubes-innovative-approach-to-video-shorts-for-2024/"><u>[New] The Playbook of YouTube’s Innovative Approach to Video Shorts for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-transform-your-footage-tips-for-youtube-studios-video-editing/"><u>[Updated] 2024 Approved Transform Your Footage Tips for YouTube Studio's Video Editing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-steps-picking-your-ideal-4k-lens-for-2024/"><u>[Updated] Essential Steps Picking Your Ideal 4K Lens for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipated-release-new-ipad-pro-and-air-in-early-may-features-revealed-techzine/"><u>Anticipated Release: New iPad Pro & Air in Early May - Features Revealed | TechZine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-amps-up-artificial-intelligence-initiatives-exploring-capabilities-of-its-latest-ai-models-insights-from-zdnet/"><u>Apple Amps Up Artificial Intelligence Initiatives: Exploring Capabilities of Its Latest AI Models - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ballad-battleground-bards-vs-gpt-offline-llamas-quest/"><u>Ballad Battleground: Bards Vs. GPT, Offline Llamas' Quest</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-the-apple-vision-pro-ease-discomfort-on-economy-seats-during-flights-a-closer-look-at-tech-upgrades/"><u>Can the Apple Vision Pro Ease Discomfort on Economy Seats During Flights? A Closer Look at Tech Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-gold-vs-standard-membership-trade-offs/"><u>ChatGPT Gold Vs. Standard: Membership Trade-Offs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-ideal-apple-laptop-macbook-pro-vs-macbook-air-a-comprehensive-guide-on-making-the-right-pick/"><u>Choosing Your Ideal Apple Laptop: MacBook Pro vs MacBook Air - A Comprehensive Guide on Making the Right Pick</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/defending-against-leaks-in-professional-ai-dialogues/"><u>Defending Against Leaks in Professional AI Dialogues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-campfire-fun-infusing-dandd-with-gpts-creative-guidance/"><u>Elevate Campfire Fun: Infusing D&D with GPT's Creative Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-unmatched-sound-quality-discover-the-speaker-system-that-beats-bose-and-sonos/"><u>Experience Unmatched Sound Quality - Discover the Speaker System That Beats Bose & Sonos!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-michael-kors-access-gen-5e-mkgo-timepiece-a-blend-of-elegance-and-ingenuity/"><u>Exploring the Michael Kors Access Gen 5E MKGO Timepiece: A Blend of Elegance and Ingenuity</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-tecno-spark-20c-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Tecno Spark 20C to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-apples-upgraded-mac-studio-how-the-mac-mini-evolves/"><u>Introducing Apple's Upgraded Mac Studio: How the Mac Mini Evolves</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-video-aspect-ratio-how-to-adjust-and-customize/"><u>New Video Aspect Ratio How to Adjust and Customize</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-65-unbeatable-prime-day-television-offers-still-available/"><u>Top 65 Unbeatable Prime Day Television Offers - Still Available!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-platform-leaders-facebook-twitter-instagram-and-youtube-breakdown/"><u>Understanding Social Platform Leaders: Facebook, Twitter, Instagram & Youtube Breakdown</u></a></li>
+</ul></div>
 

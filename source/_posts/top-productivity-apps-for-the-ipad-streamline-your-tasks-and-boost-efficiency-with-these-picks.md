@@ -1,7 +1,7 @@
 ---
 title: "Top Productivity Apps for the iPad: Streamline Your Tasks & Boost Efficiency with These Picks"
-date: 2024-11-29T23:04:31.808Z
-updated: 2024-12-06T21:10:04.737Z
+date: 2024-12-06T19:03:52.355Z
+updated: 2024-12-12T19:59:12.990Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -44,10 +48,6 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -57,10 +57,6 @@ The last time I updated this guide was in early 2019\. Obviously, a few things h
 Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-office-20-years-of-refinement-and-evolution/). If I'm out, it's a dedicated out-and-back with a specific purpose. There is no meandering, browsing, or schmoozing. Yes, I know other people may feel comfortable going back to the pre-pandemic normal, but I have reasons for playing it a bit more safe than most might.
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tools for my daily flow
 
@@ -109,7 +105,7 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
@@ -123,10 +119,6 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -142,10 +134,6 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -183,6 +171,10 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -191,6 +183,10 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -222,15 +218,15 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -245,6 +241,10 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -275,22 +275,15 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-shared-surface-video-chronicling/"><u>[New] 2024 Approved Shared Surface Video Chronicling</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-balance-of-swiftness-and-security-on-spotify-sounds/"><u>2024 Approved The Balance of Swiftness and Security on Spotify Sounds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-smart-assistant-premium-subscription-opportunity-at-20month-a-future-prospect/"><u>Apple Smart Assistant: Premium Subscription Opportunity at $20/Month - A Future Prospect</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-language-ai-deciding-between-bing-and-gpt-3/"><u>Choosing the Right Language AI: Deciding Between Bing and GPT-3</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-repairing-your-league-of-legends-network-issues/"><u>Guide to Repairing Your League of Legends Network Issues</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-a14-4g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy A14 4G Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipad-air-4-versus-ipad-air-5-is-it-time-to-upgrade-insights-and-reviews/"><u>IPad Air 4 Versus iPad Air 5: Is It Time to Upgrade? Insights & Reviews</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-10plus-best-free-webcam-software-for-windows-10/"><u>New 10+ Best Free Webcam Software for Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protect-your-privacy-a-step-by-step-guide-to-removing-spyware-on-phones-tips-experts/"><u>Protect Your Privacy: A Step-by-Step Guide to Removing Spyware on Phones, Tips Experts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-service-enrollment-bypassing-phone-numbers-in-apps/"><u>Seamless Service Enrollment: Bypassing Phone Numbers in Apps</u></a></li>
-<li><a href="https://facebook.techidaily.com/strategies-for-maximum-fb-exposure/"><u>Strategies for Maximum Fb Exposure</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ai-speak-deciphering-jargon-for-the-curious-mind/"><u>The AI Speak: Deciphering Jargon for the Curious Mind</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-chatgpt-strategies-for-data-analysis-professionals/"><u>Top 6 ChatGPT Strategies for Data Analysis Professionals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-childrens-tablets-endorsed-by-parents-discover-the-ideal-picks/"><u>Top-Rated Children's Tablets Endorsed by Parents – Discover the Ideal Picks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-hardware-secrets-with-tominfohub/"><u>Unlocking Hardware Secrets with TomInfoHub</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-gptzero-to-combat-ai-generated-writings-online/"><u>Unveiling the Power of GPTZero to Combat AI-Generated Writings Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-innovative-box-open-strategies/"><u>[New] Innovative Box-Open Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-expertise-and-machine-learning-with-ai-in-3d-printing/"><u>Bridging Human Expertise & Machine Learning with AI in 3D Printing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diving-into-digital-dialogue-myai-vs-openais-intelligence/"><u>Diving Into Digital Dialogue: MyAI vs OpenAI's Intelligence</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-wpd-file-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .wpd file document with Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-11-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keeping-content-pure-openais-tool-to-verify-authenticity/"><u>Keeping Content Pure: OpenAI's Tool to Verify Authenticity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-titles-unveiling-the-top-8-mobile-games-to-play-now/"><u>Leading Titles: Unveiling the Top 8 Mobile Games to Play Now</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/next-gen-display-top-5-hdmi-21-infinity-refresh-monitors-ps5-for-2024/"><u>Next-Gen Display Top 5 HDMI 2.1 Infinity Refresh Monitors [PS5] for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-game-changing-pact-blizzards-new-era-at-microsoft-with-ai-art-and-translation-insights-podcast-analysis/"><u>The Game-Changing Pact: Blizzard's New Era at Microsoft with AI Art & Translation Insights [Podcast Analysis]</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-manycam-alternatives-best-live-streaming-apps-and-online-webcams/"><u>Top ManyCam Alternatives: Best Live Streaming Apps and Online Webcams</u></a></li>
 </ul></div>
 

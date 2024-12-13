@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: Tying ChatGPT to WhatsApp's Helpdesk"
-date: 2024-12-03T19:33:16.486Z
-updated: 2024-12-06T17:06:18.175Z
+date: 2024-12-09T21:23:03.213Z
+updated: 2024-12-12T22:54:11.880Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/1914db0ca3b67d30f8a3f7dc93a1fedb56cd0f4e0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Understanding and Accessing the ChatGPT API
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/1914db0ca3b67d30f8a3f7dc93a1fedb56cd0f4e0
 
 ![OpenAI API homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-homepage.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, click the **Create new secret key** button to create a new API key.
 
 ![OpenAI API keys creation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key.jpg)
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/1914db0ca3b67d30f8a3f7dc93a1fedb56cd0f4e0
  Enter the requested details, i.e., the **name** of the key.
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-key-name.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A secret key will prompt.
 
@@ -152,6 +144,10 @@ python manage.py runserver`
 
 ![API endpoint test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-endpoint.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, install [Go](https://go.dev/doc/install) if it is not already installed on your machine.
 
  Clone the **Whatsmeow** client using the command below:
@@ -187,11 +183,19 @@ python manage.py runserver`
 
 ![Output of integrating chatgpt and WhatsApp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/integrating-whatsapp-and-chatgpt-api-output.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using WhatsApp Chatbot to Integrate WhatsApp With ChatGPT API
 
  Another way to integrate ChatGPT into WhatsApp messages is by using a WhatsApp chatbot.
 
  Once you register your WhatsApp Business API, use a chat builder like OpenDialog to create a flow for the chat. You will then test your chatbot and add it to your mobile phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Integrate OpenAI API With Your WhatsApp Chatbot
 
@@ -201,13 +205,13 @@ python manage.py runserver`
 
  Though this method is easier if you already have a chatbot, you should only opt for it once you’re comfortable with the risks involved.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Configuring Automated Responses
 
  To get better customer service, configure automated responses to provide fast and accurate responses to customer messages. These responses will personalize the customer by name and provide relevant responses to customer queries.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Testing Your WhatsApp Chatbot
 
@@ -216,16 +220,12 @@ python manage.py runserver`
  In this case, the Django REST framework provides a browsable API to help test API requests and responses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Measuring Success and Fine-Tuning
 
  Once your WhatsApp chatbot is in deployment, it is crucial to measure its success and usage over time. This will help with fine-tuning it accordingly. Analytics tools like OpenDialog and Rasa can help to track metrics such as response time, retention rate, and customer satisfaction.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Streamline Customer Support on WhatsApp With ChatGPT Integration
 
@@ -250,19 +250,24 @@ python manage.py runserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-from-views-to-revenue-simplifying-the-process-with-a-3-step-framework-for-monitoring-youtube-income/"><u>[New] In 2024, From Views to Revenue Simplifying the Process with a 3-Step Framework for Monitoring YouTube Income</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youtube-live-thumbnails-a-comprehensive-look/"><u>[Updated] In 2024, YouTube Live Thumbnails A Comprehensive Look</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-chatgpts-creativity-to-mirror-your-style/"><u>Enhancing ChatGPT's Creativity to Mirror Your Style</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exciting-times-for-everyone-gpt-4-is-now-free-plus-still-shines-with-6-benefits/"><u>Exciting Times for Everyone: GPT-4 Is Now Free; Plus Still Shines with 6 Benefits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/impact-of-a-virtual-private-network-on-chatgpt-usage/"><u>Impact of a Virtual Private Network on ChatGPT Usage?</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-a-brief-history-of-virtual-reality/"><u>In 2024, A Brief History of Virtual Reality</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone SE</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ipad-air-vs-ipad-pro-showdown-why-you-might-prefer-the-affordable-option/"><u>IPad Air Vs. IPad Pro Showdown: Why You Might Prefer the Affordable Option</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oneplus-nord-3-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from OnePlus Nord 3 5G</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/privacy-at-stake-with-unrestricted-gpt-discussions/"><u>Privacy at Stake with Unrestricted GPT Discussions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sony-ps-lx310bt-tiny-turntable-chic-design/"><u>Sony PS-LX310BT: Tiny Turntable, Chic Design</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-right-language-assistant-bing-chat-or-gpt-3-which-is-better-6-factors/"><u>The Right Language Assistant: Bing Chat or GPT-3, Which Is Better? 6 Factors</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/top-6-photography-apps-for-seamless-object-insertion-a-comprehensive-guide/"><u>Top 6 Photography Apps for Seamless Object Insertion: A Comprehensive Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-deadite-design-dynamo-for-2024/"><u>[New] Deadite Design Dynamo for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-decode-youtube-shorts-a-complete-breakdown-for-2024/"><u>[Updated] Decode YouTube Shorts A Complete Breakdown for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-strategic-approach-to-changing-your-tiktok-handle-seamlessly/"><u>[Updated] The Strategic Approach to Changing Your TikTok Handle Seamlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/become-an-in-demand-bug-hunter-join-openais-reward-scheme-today/"><u>Become an In-Demand Bug Hunter; Join OpenAI’s Reward Scheme Today!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beginners-roadmap-to-perfecting-residential-audio-experiences/"><u>Beginner's Roadmap to Perfecting Residential Audio Experiences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-ensuring-effectiveness-and-risk-in-exerrances/"><u>ChatGPT: Ensuring Effectiveness & Risk in Exerrances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-8-cutting-edge-ai-apps-for-content-creators/"><u>Discover 8 Cutting-Edge AI Apps for Content Creators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-skills-with-my-bots-from-gameplay-to-visual-sculpting-techniques/"><u>Enhance Skills with My Bots: From Gameplay to Visual Sculpting Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-best-scanners-for-your-paperwork-and-memories/"><u>Expert Reviews: Best Scanners for Your Paperwork and Memories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-uncharted-waters-7-non-chatgpt-ai-alternatives/"><u>Exploring Uncharted Waters: 7 Non-ChatGPT AI Alternatives</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-aerial-footage-a-guide-to-drone-video-editing/"><u>In 2024, Mastering Aerial Footage A Guide to Drone Video Editing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-16-update-unveiled-enhance-your-iphone-experience-with-expert-lock-screen-hacks/"><u>IOS 16 Update Unveiled: Enhance Your iPhone Experience with Expert Lock Screen Hacks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximizing-pc-gaming-solutions-for-fixing-fps-dips-in-forza-horizon-5/"><u>Maximizing PC Gaming: Solutions for Fixing FPS Dips in Forza Horizon 5</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-keyboards-up-down-left-right-issues-with-our-expert-tips/"><u>Solve Your Keyboard's Up, Down, Left, Right Issues with Our Expert Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-tales-of-triumph-repairing-your-pc-with-chatai/"><u>Tech Tales of Triumph - Repairing Your PC with ChatAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/textual-journeys-gameplay-mastery-through-chatgpt/"><u>Textual Journeys: Gameplay Mastery Through ChatGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-file-deletion-via-command-line-in-windows-11/"><u>The Ultimate Tutorial for File Deletion via Command Line in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-transformers-bert-vs-gpt-comparison/"><u>Understanding Transformers: BERT vs GPT Comparison</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-determines-the-length-of-texts-from-chatgpt-ai/"><u>What Determines the Length of Texts From ChatGPT AI?</u></a></li>
 </ul></div>
 

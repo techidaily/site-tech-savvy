@@ -1,7 +1,7 @@
 ---
 title: "Educational AI: Parental Edition of the New Age Tech"
-date: 2024-12-03T21:13:26.462Z
-updated: 2024-12-06T19:38:51.114Z
+date: 2024-12-06T23:31:07.925Z
+updated: 2024-12-13T00:00:35.273Z
 tags:
   - chatgpt
   - open-ai
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/b11f60af4f1190ff0fe1470217a3e88ba5ec7f084
 
  ChatGPT can write poems and computer code, generate stories, and other forms of written content. One distinguishing ChatGPT feature is its natural and realistic responses, much like how humans write and speak.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Does ChatGPT Work?
 
  ChatGPT was trained using massive amounts of data from the internet and works in much the same way as many other chatbots.
@@ -51,20 +47,20 @@ thumbnail: https://thmb.techidaily.com/b11f60af4f1190ff0fe1470217a3e88ba5ec7f084
  ChatGPT is unique in that it remembers previous conversations and can generate responses based on them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ChatGPT Used For?
 
 ![Smartphone screen displaying possible ChatGPT prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT's ability to understand context and generate relevant responses means that it can write practically anything. For example, it can write social media posts, draft blog posts, and create book outlines.
 
  Furthermore, ChatGPT can summarize books and articles, translate languages, and provide research and homework assistance, making it a valuable resource for students. It can also act as a tutor, writing and debugging code, answering questions on various subjects, and providing feedback on your grammar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are the Risks of Using ChatGPT?
 
@@ -77,20 +73,20 @@ thumbnail: https://thmb.techidaily.com/b11f60af4f1190ff0fe1470217a3e88ba5ec7f084
  There are also concerns about plagiarism and a decrease in critical thinking. Students may use ChatGPT to complete assignments like solving equations and writing papers, which could affect research skills and critical thinking if they rely on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should Children Use ChatGPT?
 
 ![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  OpenAI's [Terms of Use](https://openai.com/policies/terms-of-use) state that users must be at least 13 years old, and those under 18 require parental or guardian consent to use the platform. However, the platform doesn't need users to verify their age when creating an account.
 
  When used responsibly, ChatGPT can be a great tool for kids to generate and answer research questions about a subject and learn about AI, which is predicted to be crucial in the future.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Can Parents Do to Make ChatGPT Safe for Their Kids?
 
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/b11f60af4f1190ff0fe1470217a3e88ba5ec7f084
  In addition, parents should encourage their children to verify the credibility of any information, as ChatGPT can be a source of misinformation.
 
  It's also advisable to monitor how your child uses the chatbot, particularly if they use it for school assignments. Talk with them about plagiarism and its potential risks, and inform them that educators can use their judgment and [AI text detectors](https://www.makeuseof.com/accurate-ai-text-detectors/) to spot AI-generated text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Safely and Responsibly
 
@@ -127,22 +127,20 @@ thumbnail: https://thmb.techidaily.com/b11f60af4f1190ff0fe1470217a3e88ba5ec7f084
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-craft-individualized-farewell-soundtracks-without-spending/"><u>[New] Craft Individualized Farewell Soundtracks Without Spending</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-connecting-through-ig-a-guide-for-hyperlink-posts/"><u>[Updated] 2024 Approved Connecting Through IG A Guide for Hyperlink Posts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-quickprint-the-easy-guide-to-win-screen-snaps/"><u>2024 Approved QuickPrint The Easy Guide to Win Screen Snaps</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-value-for-money-detailed-review-of-the-vuebell-video-doorbell-on-the-market/"><u>Best Value for Money: Detailed Review of the VueBell Video Doorbell on the Market</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-gaps-to-dream-careers-via-ai-assistance/"><u>Bridging Gaps to Dream Careers via AI Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-tech-and-treatment-gpt-for-effective-cognitive-strategies/"><u>Bridging Tech and Treatment: GPT for Effective Cognitive Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/corrective-actions-for-chatgpts-third-party-service-misalignment/"><u>Corrective Actions for ChatGPT's Third-Party Service Misalignment</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/engaging-with-rtx-ai-on-pc-a-step-by-step-guide/"><u>Engaging with RTX AI on PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fact-or-fantasy-debunking-9-key-ai-chatbot-beliefs/"><u>Fact or Fantasy? Debunking 9 Key AI Chatbot Beliefs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-get-started-with-microsoft-365-installation-process-for-your-pc-explained/"><u>How to Get Started with Microsoft 365: Installation Process for Your PC Explained</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-chatgpts-potential-in-academia/"><u>Maximizing ChatGPT's Potential in Academia</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-tech-advancements-the-six-sweepstakes-of-gpts-conductor/"><u>Pioneering Tech Advancements - The Six Sweepstakes of GPT's Conductor</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/regaining-lost-pictures-your-ultimate-solution-for-recovering-screenshots-on-windows-operating-systems/"><u>Regaining Lost Pictures - Your Ultimate Solution for Recovering Screenshots on Windows Operating Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-redmi-12-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi Redmi 12 Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-halt-your-pursuit-for-a-chatgpt-phone-app/"><u>Why Halt Your Pursuit for a ChatGPT Phone App</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-leaders-list-of-best-12-motion-recording-devices-location-aware/"><u>[New] Leader's List of Best 12 Motion Recording Devices Location Aware</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-de-stressor-chatgpts-path-to-tranquility/"><u>Digital De-Stressor: ChatGPT's Path to Tranquility</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/do-real-world-conversations-impact-ais-understanding-and-growth/"><u>Do Real-World Conversations Impact AI's Understanding and Growth?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-80s-movie-marathon-list-gems-from-a-retro-era/"><u>Essential '80S Movie Marathon List: Gems From a Retro Era</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-photo-changers-ultimate-online-upgrade/"><u>Essential Photo Changers Ultimate Online Upgrade</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-for-unfreezing-a-stuck-laptop-or-desktop-computer/"><u>Expert Advice for Unfreezing a Stuck Laptop or Desktop Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-foundations-of-langchain/"><u>Exploring the Foundations of LangChain</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c12-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C12 Pro</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improving-the-chatgpt-extension-shop-what-were-looking-forward-to/"><u>Improving the ChatGPT Extension Shop: What We're Looking Forward To</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-fundamentals-of-creating-breathtaking-canon-time-lapses/"><u>In 2024, The Fundamentals of Creating Breathtaking Canon Time-Lapses</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/overcoming-challenges-in-ppt-screen-capture/"><u>Overcoming Challenges in PPT Screen Capture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-data-analysis-in-excel-with-chatgpt/"><u>Revolutionizing Data Analysis in Excel with ChatGPT</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/selecting-the-best-crypto-exchange-platform-a-guide-by-yl-computing/"><u>Selecting the Best Crypto Exchange Platform: A Guide by YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-typing-with-bings-ai-integration-on-your-android-mobile-device/"><u>Streamline Typing with Bing's AI Integration on Your Android Mobile Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/true-tales-the-evolution-of-keyboard-tech/"><u>True Tales: The Evolution of Keyboard Tech</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Demystifying Artificial Smartness
-date: 2024-12-03T20:12:21.421Z
-updated: 2024-12-06T19:18:34.758Z
+date: 2024-12-06T18:54:00.437Z
+updated: 2024-12-12T21:34:53.498Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/23623c6c9024303daa060bc641efd6507d7732a1f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [The Simplest Explanation of AI](https://mindmanager.sjv.io/anq2nj)
@@ -32,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/23623c6c9024303daa060bc641efd6507d7732a1f
 * [The Future of AI](https://mindmanager.sjv.io/anq2nj)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -57,21 +53,17 @@ thumbnail: https://thmb.techidaily.com/23623c6c9024303daa060bc641efd6507d7732a1f
 
  But even with all this, computers still can't fully think or understand like humans. Modern AI systems don't have common sense, emotions, or consciousness.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AI in More Detail
 
 ![chatgpt read aloud feature smartphone screen with chatgpt logo blur](https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc79fa36684145aac317075ce9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  Artificial intelligence (AI) is a branch of computer science aiming to build machines capable of mimicking human intelligence. It involves creating algorithms that allow computers to learn from and make decisions or predictions based on data rather than following only explicitly programmed instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Machine Learning (ML)
 
@@ -104,6 +96,10 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 
  However, despite many advancements, AI still does not possess the full spectrum of human cognitive abilities, and we are still far from achieving [true artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/). The current AI technologies are task-specific and cannot understand context outside their specific programming.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Is AI Being Used Today?
 
  AI has potential and applications that stretch far beyond the tech realm alone.
@@ -111,6 +107,10 @@ Gavin Phillips/MakeUseOf/[ChatGPT](https://chat.openai.com/)
 ### 1\. Chatbots
 
 ![chatgpt dalle logo creation on smartphone screen](https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc239157d241009df908a14c3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Gavin Phillips/MakeUseOf
 
@@ -121,7 +121,7 @@ Gavin Phillips/MakeUseOf
  HuggingChat, Claude, and Gemini (formerly Bard) are other examples of AI chatbots. These services all differ in certain ways. Some are free, some are paid, some specialize in certain areas, while others are better with general tasks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Data Analysis
@@ -136,10 +136,6 @@ Gavin Phillips/MakeUseOf
 
  Because AI can learn and discover new things based on the information it is given, it can be used to carve out more cost-effective and sustainable materials and production practices for businesses. For instance, an AI system could list more eco-friendly materials that could be used in a product's battery given a comprehensive data set to work from.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Art Creation
 
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
@@ -153,6 +149,10 @@ Gavin Phillips/MakeUseOf
 Microsoft Image Creator/MakeUseOf
 
 [Some artists have rejected AI art generators](https://www.makeuseof.com/can-creatives-protect-art-from-generative-ai/), as they are trained on pre-existing online art to learn how to create their prompted pieces. Artists claim this is a breach of copyright and contributes to the theft of original art, an issue that already spans the web.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Future of AI
 
@@ -187,24 +187,24 @@ Microsoft Image Creator/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-premiere-your-stories-with-free-templates/"><u>[New] 2024 Approved Premiere Your Stories with Free Templates</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-clip-ppt-deck-to-digital-movie-for-2024/"><u>[Updated] Clip PPT Deck to Digital Movie for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-iphone-showdown-key-differences-between-the-iphone-16-and-iphone-15-for-potential-upgrades-zdnet-analysis/"><u>Apple iPhone Showdown: Key Differences Between the iPhone 16 and iPhone 15 for Potential Upgrades | ZDNet Analysis</u></a></li>
-<li><a href="https://app-tips.techidaily.com/awaken-with-joy-discover-the-10-most-engaging-free-alarm-clock-applications-for-a-playful-routine/"><u>Awaken with Joy: Discover the 10 Most Engaging Free Alarm Clock Applications for a Playful Routine</u></a></li>
-<li><a href="https://common-error.techidaily.com/common-issues-with-dell-wireless-keyboards-and-proven-fixes-to-resolve-them/"><u>Common Issues with Dell Wireless Keyboards and Proven Fixes to Resolve Them</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/envisioning-elegance-da-vincis-latest-image-inspirations/"><u>Envisioning Elegance: Da Vinci's Latest Image Inspirations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-tech-hacks-unveiling-top-10-ipad-shortcuts-and-settings-for-novice-users-and-experts-alike-insights/"><u>Essential Tech Hacks: Unveiling Top 10 iPad Shortcuts & Settings for Novice Users & Experts Alike - Insights</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/facilitar-la-creacion-de-backups-incrementales-en-windows-server-2019-tres-metodos-sencillos/"><u>Facilitar La Creación De Backups Incrementales en Windows Server 2019 - Tres Métodos Sencillos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-apple-can-refine-the-vision-pro-for-commercial-success-expert-advice-by-zdnet/"><u>How Apple Can Refine the Vision Pro for Commercial Success - Expert Advice by ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-razr-40-ultra-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/independence-day-alert-snag-affordable-apple-airpods-with-a-40-cutback-exclusive-info-on-zdnet/"><u>Independence Day Alert: Snag Affordable Apple AirPods With a $40 Cutback, Exclusive Info on ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-your-neurological-network-9-steps-for-smoother-iphones-and-chatgpt/"><u>Navigate Your Neurological Network: 9 Steps for Smoother iPhones & ChatGPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-windows-11-how-to-fix-insufficient-memory-warnings/"><u>Optimizing Windows 11 - How to Fix Insufficient Memory Warnings</u></a></li>
-<li><a href="https://win-tips.techidaily.com/solving-installation-errors-a-guide-to-getting-apps-running-on-your-pc-with-help-from-yl-software/"><u>Solving Installation Errors: A Guide to Getting Apps Running on Your PC with Help From YL Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-path-forward-for-responsible-ai-development/"><u>The Path Forward for Responsible AI Development</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quick-guide-to-correcting-6-common-chatgpt-faults/"><u>The Quick Guide to Correcting 6 Common ChatGPT Faults</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformer-des-fichiers-m4a-en-video-obv-gratuite-ligne-de-conversion-en-ligne-movavi/"><u>Transformer Des Fichiers M4A en Vidéo OBV Gratuite - Ligne De Conversion en Ligne - Movavi</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlock-11-budget-friendly-creativity-for-youtube-names-for-2024/"><u>Unlock 11 Budget-Friendly Creativity for YouTube Names for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-ultimate-sales-magsafe-compatible-wallet-exclusive-apple-and-anker-alternative-tested-on-zdnet/"><u>Unveiling the Ultimate Sales MagSafe Compatible Wallet: Exclusive Apple & Anker Alternative Tested on ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-recommendations-for-limitless-data-holding/"><u>[New] Expert Recommendations for Limitless Data Holding</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-how-to-use-virtual-reality-tours/"><u>2024 Approved How to Use Virtual Reality Tours</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-anglers-companion-best-action-cams-for-fishing/"><u>2024 Approved The Angler’s Companion Best Action Cams for Fishing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/everything-you-need-to-know-about-openai/"><u>Everything You Need to Know About OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gaming-through-text-the-chatgpt-experience/"><u>Gaming Through Text: The ChatGPT Experience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-insignia-gpu-drivers-instantly-seamless-setup-for-your-computer/"><u>Get Insignia GPU Drivers Instantly: Seamless Setup for Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-sea-of-thieves-stability-issues-a-comprehensive-guide/"><u>How to Resolve Sea of Thieves Stability Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-xiaomi-civi-3-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Xiaomi Civi 3 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 14 Pro Max</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-3-on-android-and-ios-platforms/"><u>Mastering GPT-3 on Android & iOS Platforms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ai-types-community-wide-to-homebound-integration/"><u>Navigating AI Types: Community-Wide to Homebound Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/no-more-forgotten-talks-save-chatgpt-dialogues-now/"><u>No More Forgotten Talks! Save ChatGPT Dialogues Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/preventing-misinformation-openais-new-ai-scrutiny-tool/"><u>Preventing Misinformation: OpenAI's New AI Scrutiny Tool</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/professional-insight-into-dji-mavic-2-pro-why-it-continues-to-lead-in-aerial-excellence/"><u>Professional Insight Into DJI Mavic 2 Pro: Why It Continues to Lead in Aerial Excellence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-time-learning-via-chatgpt-worldwide/"><u>Real-Time Learning via ChatGPT Worldwide</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/simple-steps-to-access-your-android-devices-contact-list/"><u>Simple Steps to Access Your Android Device's Contact List</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/troubleshooting-guide-overcoming-vcenter-web-client-access-problems/"><u>Troubleshooting Guide: Overcoming vCenter Web Client Access Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-fraudgpt-safeguarding-against-deceptive-bots/"><u>Unveiling FraudGPT: Safeguarding Against Deceptive Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-use-ai-chatbots-to-generate-windows-11-keys/"><u>Why You Shouldn’t Use AI Chatbots to Generate Windows 11 Keys</u></a></li>
 </ul></div>
 

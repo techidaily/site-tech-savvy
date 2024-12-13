@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad in Minutes: Expert Advice & Tricks Every Apple User Should Know | Unlock the Full Potential on ZDNET"
-date: 2024-11-30T21:47:06.795Z
-updated: 2024-12-06T16:36:39.066Z
+date: 2024-12-09T00:41:12.923Z
+updated: 2024-12-13T00:17:55.481Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Customize your lock screen
 
 Max Buondonno/ZDNET
@@ -37,7 +41,7 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
@@ -59,7 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Turn on Stage Manager when you need more multitasking chops
@@ -98,10 +102,6 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Split or float your keyboard
 
 Max Buondonno/ZDNET
@@ -117,7 +117,7 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
@@ -128,6 +128,10 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Tweak the Control Center
 
 Max Buondonno/ZDNET
@@ -135,10 +139,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,24 +180,17 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-harness-the-power-of-analytics-to-rise-in-fan-counts-for-2024/"><u>[New] Harness the Power of Analytics to Rise in Fan Counts for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-transforming-your-profile-into-a-showstopper-for-2024/"><u>[New] Transforming Your Profile Into a Showstopper for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-comparative-content-crusade-analyzing-your-videos-against-others/"><u>[Updated] 2024 Approved Comparative Content Crusade Analyzing Your Videos Against Others'</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-crafting-compelling-movie-previews-for-2024/"><u>[Updated] Crafting Compelling Movie Previews for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-zoom-and-cut-companion/"><u>[Updated] Expert Zoom and Cut Companion</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-sound-capture-module-for-iphone-24-year/"><u>[Updated] Sound Capture Module for iPhone '24 Year</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-new-lifeline-premium-chatgpt-20mo-just-for-us/"><u>AI's New Lifeline: Premium ChatGPT ($20/Mo) Just For US</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/elite-driving-sims-best-five-titles-for-2024/"><u>Elite Driving Sims Best Five Titles for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-apples-latest-ai-showcase-what-it-got-right-and-where-it-fell-short-in-advancements-anticipating-the-next-leap-forward/"><u>Exploring Apple's Latest AI Showcase: What It Got Right and Where It Fell Short in Advancements - Anticipating the Next Leap Forward</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/extend-your-apple-watch-battery-span-easily-with-my-top-8-settings-adjustments-insider-info-from-zdnet/"><u>Extend Your Apple Watch Battery Span Easily With My Top 8 Settings Adjustments - Insider Info From ZDNET</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722994168363-god-of-war-comes-to-life-with-a-new-first-person-shooter-gameplay-now-on-pc/"><u>God of War Comes to Life with a New First-Person Shooter Gameplay - Now on PC!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-easily-resolve-your-astro-a20-microphone-malfunction/"><u>How to Easily Resolve Your Astro A20 Microphone Malfunction</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-15-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 15 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-the-future-in-ai-interaction-courses/"><u>Leading the Future in AI Interaction Courses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/talk-it-out-with-your-virtual-friend-chatgpt/"><u>Talk It Out with Your Virtual Friend - ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-idevices-currently-best-avoided-expert-tips-from-zdnet/"><u>Top 4 iDevices Currently Best Avoided: Expert Tips From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ipad-applications-enhancing-efficiency-streamline-your-daily-tasks-with-expert-recommendations/"><u>Top iPad Applications Enhancing Efficiency: Streamline Your Daily Tasks with Expert Recommendations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-unbeatable-pricing-on-apple-watch-series-ten-with-a-pre-order-from-best-buy-at-99-your-guide-to-saving-more/"><u>Unlock Unbeatable Pricing on Apple Watch Series ˈTen with a Pre-Order From Best Buy at $99 - Your Guide to Saving More</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-whats-new-in-tech-exclusive-insights-into-apples-latest-innovations-at-wwdc-from-ai-to-ios-18/"><u>Unveiling What's New in Tech: Exclusive Insights Into Apple's Latest Innovations at WWDC – From AI to iOS 18!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-video-ads-for-free-in-youtube-video-builder/"><u>[Updated] 2024 Approved How to Create Video Ads for Free in YouTube Video Builder</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unleash-your-creative-potential-with-zooms-step-by-step-filter-guide/"><u>2024 Approved Unleash Your Creative Potential with Zoom's Step-by-Step Filter Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-zte-nubia-flip-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from ZTE Nubia Flip 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-a-toolkit-for-fluency-in-new-languages/"><u>ChatGPT Plus: A Toolkit for Fluency in New Languages</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-beyond-standard-interactions-with-custom-instructions/"><u>ChatGPT: Beyond Standard Interactions with Custom Instructions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-efficiency-by-ditching-these-6-chatgpt-apps/"><u>Enhance Efficiency by Ditching These 6 ChatGPT Apps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-nokia-c12-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Nokia C12 Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/reveal-the-disenchanted-instagrams-unfollowers-for-2024/"><u>Reveal the Disenchanted Instagram's Unfollowers for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simple-methods-to-repair-unrecognized-usb-storage-devices/"><u>Simple Methods to Repair Unrecognized USB Storage Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-flaws-in-machine-conversations-gpts-eight-key-problems/"><u>The Hidden Flaws in Machine Conversations: GPT's Eight Key Problems</u></a></li>
 </ul></div>
 

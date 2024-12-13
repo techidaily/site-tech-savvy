@@ -1,7 +1,7 @@
 ---
 title: The Myth of Perfect AI Filtering
-date: 2024-12-03T23:27:01.787Z
-updated: 2024-12-06T22:10:43.470Z
+date: 2024-12-06T01:22:40.004Z
+updated: 2024-12-12T23:27:25.457Z
 tags:
   - chatgpt
   - open-ai
@@ -35,7 +35,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  This sounds great on paper, but if you've ever used an AI detection tool, you know very well they are hit-and-miss, to put it mildly. More often than not, they detect human-written content as AI, or text created by human beings as AI-generated. In fact, some are embarrassingly bad at what they're supposed to do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How Accurate Are AI Content Detectors?
@@ -45,7 +45,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 ![Writer.com's AI content detector, screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-detector-writer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So, writer.com has got it wrong.
@@ -57,7 +57,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  But it's not just educators and teachers who have reason for concern: everyone does. As AI-generated text becomes ubiquitous, being able to differentiate between what's "real" and what isn't, [i.e. actually spotting when something's written by AI](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/), will become more difficult. This will have a massive impact on virtually all industries and areas of society, even personal relationships.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI's Implications for Cybersecurity and Privacy
@@ -75,7 +75,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  If there is indeed an arms race between generative AI and content detectors, the former is winning. What's worse, there seems to be no solution. All we have our half-baked products that don't even work half the time, or can be tricked very easily.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Detect AI Content: Potential Solutions
@@ -89,7 +89,7 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
  For the time being, what a regular person can do is rely on their instincts and common sense. If there is something off about the content you're reading—if it feels unnatural, repetitive, unimaginative, banal—it might have been created by software. Of course, you should also verify any information you see online, double-check the source, and stay away from shady websites.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI Revolution Is Underway
@@ -115,15 +115,16 @@ Artificial Intelligence (AI) will transform entire segments of our society wheth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-5-ps1-games-emulators-resurrecting-console-legends-on-pc/"><u>[Updated] Top 5 PS1 Games Emulators - Resurrecting Console Legends on PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/build-a-budget-oriented-chatgpt-replica-locally/"><u>Build a Budget-Oriented ChatGPT Replica Locally</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-4s-speed-a-comparative-glance-with-gpt-35/"><u>ChatGPT-4's Speed: A Comparative Glance with GPT-3.5</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-guide-to-finding-and-installing-iphone-drivers-for-windows-10-users/"><u>Complete Guide to Finding & Installing iPhone Drivers for Windows 10 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/descargar-y-convertir-wma-a-m4v-gratuitamente-usando-el-software-movavi/"><u>Descargar Y Convertir WMA a M4V Gratuitamente Usando El Software Movavi</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-why-the-maisto-rock-crawler-is-a-must-have-toy-in-every-familys-garage/"><u>Discover Why the Maisto Rock Crawler Is a Must-Have Toy in Every Family's Garage</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-steps-to-install-llama-2-locally/"><u>Essential Steps to Install Llama 2 Locally</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-spotting-blocked-contacts-in-snapchat/"><u>In 2024, Spotting Blocked Contacts in Snapchat</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722963330919-newly-released-geforce-nvidia-210-drivers-compatible-with-windows-11-get-them-now/"><u>Newly Released GeForce nVidia 210 Drivers Compatible with Windows 11 - Get Them Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-sticker-setups-solutions-to-top-6-technical-hurdles/"><u>Streamlining Sticker Setups: Solutions to Top 6 Technical Hurdles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-shadowlessedit-advanced-background-removal-app/"><u>[New] 2024 Approved ShadowLessEdit Advanced Background Removal App</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-complete-lowdown-navigating-creative-commons-licenses/"><u>[Updated] 2024 Approved The Complete Lowdown Navigating Creative Commons Licenses</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios-for-2024/"><u>[Updated] Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-a70-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-se-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone SE Activity | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assistance-for-complex-equations/"><u>AI Assistance for Complex Equations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-the-yin-and-yang-of-ai-and-creativity/"><u>Analyzing the Yin & Yang of AI and Creativity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/battle-of-brilliance-gemini-vs-upgraded-chatgpt/"><u>Battle of Brilliance: Gemini Vs. Upgraded ChatGPT</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-motorola-moto-g73-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Motorola Moto G73 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-home-and-office-it-infrastructure-with-top-nas-units-for-backups-streaming-and-more/"><u>Elevate Home and Office IT Infrastructure with Top NAS Units for Backups, Streaming & More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spotting-fraudulent-bingpt-crypto-before-its-too-late/"><u>Spotting Fraudulent BinGPT Crypto Before It's Too Late</u></a></li>
 </ul></div>
 

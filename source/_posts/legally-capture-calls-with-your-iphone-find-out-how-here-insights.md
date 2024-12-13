@@ -1,7 +1,7 @@
 ---
 title: Legally Capture Calls with Your iPhone? Find Out How Here Insights
-date: 2024-12-01T23:17:00.720Z
-updated: 2024-12-06T19:35:43.095Z
+date: 2024-12-08T00:54:19.562Z
+updated: 2024-12-12T17:35:11.676Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to record a phone call on iPhone with iOS 18.1
 
 **What you need**: 
@@ -59,7 +55,7 @@ Initiate a call. You'll see a new icon in the upper-left corner of the call scre
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Make sure recording has started
@@ -69,7 +65,7 @@ Once you've begun the recording, you'll see a notification alerting all parties,
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. End recording and view transcript
@@ -146,7 +142,7 @@ Spikes in the red waveform bar indicate a louder sound. A flatter bar indicates 
 Screenshot by Radhika Rajkumar/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. End the recording and transfer the file
@@ -160,10 +156,6 @@ From within the Voice Memos app, select the file of the recording and tap the el
 Open up sharing options. You can also trim or rename the recording to something easier to remember by clicking Edit Recording. 
 
 Screenshot by Radhika Rajkumar/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other ways to record
 
@@ -180,6 +172,10 @@ Rev has a few options depending on what you need. If you want to record phone ca
 **Also:** [**This MagSafe accessory can record your iPhone calls for you**](https://www.zdnet.com/article/this-magsafe-accessory-can-record-your-iphone-calls-for-you/)
 
 Plus, Rev offers AI-supported [transcription](https://www.rev.com/pricing) of your recordings for $0.25 per minute, or you can have a human professionally transcribe your recording for $1.50 per minute. Once you download your file, it will appear as an MP3 file on your device. This is a great option for recording phone calls and narrating screen recordings. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Google Voice
 
@@ -199,6 +195,10 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ## Is it illegal to record phone calls?
@@ -206,10 +206,6 @@ As the name suggests, this app is designed for users to be able to whip out thei
 Federal law requires at least one party's consent, which means that you need to be part of the conversation you're recording or have the consent of at least one person in the conversation. Otherwise, the recording can be construed as wiretapping or illegal eavesdropping. Some states have even stricter laws that require the consent of all people involved in the conversation.
 
 Before recording a conversation, [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22check%22%7D) your state laws. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is there an app to record calls on iPhone?
 
@@ -219,12 +215,16 @@ Several downloadable third-party apps can record calls on the iPhone, but that c
 
 Alternatively, you can use most mic-equipped computers or tablets to record phone conversations, as long as the phone is on speaker or the microphone is held close to the other device's speaker. Both [MacOS](https://www.zdnet.com/article/best-mac/) and [Windows](https://www.zdnet.com/article/best-windows-laptop/) computers have numerous audio recording software options available.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does Apple have an app to record iPhone calls?
 
 Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but there are third-party apps available on the [App Store](https://www.apple.com/app-store/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.apple.com/app-store/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22App%20Store%22%7D). Also, Voice Memos is most likely automatically installed on your iOS device. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does screen recording on iPhone record my call?
@@ -265,22 +265,24 @@ The Voice Memos app can record for an unlimited amount of time, as long as you h
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-flashfreeze-video-interruption-tip/"><u>[New] In 2024, FlashFreeze Video Interruption Tip</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-glow-up-the-best-three-highlight-ideas/"><u>[Updated] In 2024, Instagram Glow Up The Best Three Highlight Ideas</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-x-mix-master-pro-for-computer-users-for-2024/"><u>[Updated] X-Mix Master Pro for Computer Users for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-reasons-your-chatgpt-account-is-blocked-and-how-to-fix-it/"><u>4 Reasons Your ChatGPT Account Is Blocked (and How to Fix It)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-strategies-boosting-creative-work-with-gpt/"><u>7 Strategies: Boosting Creative Work with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-cutting-edge-replacements-for-the-gpt-mobile-experience/"><u>8 Cutting-Edge Replacements for the GPT Mobile Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-sweet-symphony-blending-ingredients-correctly/"><u>A Sweet Symphony: Blending Ingredients Correctly</u></a></li>
-<li><a href="https://article-tips.techidaily.com/exclusive-insights-into-prime-10-streamers/"><u>Exclusive Insights Into Prime 10 Streamers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721408314372-innovate-text-with-style-at-openais-custom-ai-gpt-store/"><u>Innovate Text With Style at OpenAI’s Custom AI GPT Store</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-aws-expert-guide-on-navigating-and-thriving-with-amazons-premier-cloud-platform-zdnet-perspectives/"><u>Mastering AWS: Expert Guide on Navigating and Thriving with Amazon's Premier Cloud Platform | ZDNet Perspectives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721397902180-new-chatgpt-ios-app-revealed/"><u>New ChatGPT iOS App Revealed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-turning-insta-vids-into-songs/"><u>The Ultimate Guide to Turning Insta Vids Into Songs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721397530658-tweet-no-more-smiley-face-linuss-disclosure-trojan-explanation-and-gpt-problems-uncovered/"><u>Tweet No More Smiley Face, Linus’s Disclosure, Trojan Explanation, & GPT Problems Uncovered.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/understanding-the-ogg-file-format-and-playing-it-correctly/"><u>Understanding the OGG File Format and Playing It Correctly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1723808201902-usb-selective-suspend-everything-you-need-to-know-about-it/"><u>USB Selective Suspend – Everything You Need to Know About It!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721423304201-what-is-the-turing-test-and-will-it-ever-be-beaten/"><u>What Is the Turing Test and Will It Ever Be Beaten?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-editscreen-pro-windows-8/"><u>[New] 2024 Approved EditScreen Pro Windows 8</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-strategic-showdowns-unleashed-exploring-7-best-games/"><u>[New] 2024 Approved Strategic Showdowns Unleashed Exploring 7 Best Games</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-instagram-copyright/"><u>[Updated] 2024 Approved Navigating Instagram Copyright</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-augmenting-your-stardew-experience-with-seven-top-mods/"><u>[Updated] In 2024, Augmenting Your Stardew Experience with Seven Top Mods</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-uncovering-expert-video-making-talents/"><u>[Updated] Uncovering Expert Video Making Talents</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-million-tokens-revolution-in-gemini-context/"><u>$1 Million Tokens Revolution in Gemini Context</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/12-artificial-intelligence-helpers-for-perfecting-emails/"><u>12 Artificial Intelligence Helpers for Perfecting Emails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/16-essential-tools-to-craft-engaging-professional-emails/"><u>16 Essential Tools to Craft Engaging Professional Emails</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-for-iphone/"><u>2024年最新オフライン音楽アプリ for iPhone: ただ今応援中のベスト無料選考!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/4-mistakes-to-avoid-when-using-chatgpt-for-content-creation/"><u>4 Mistakes to Avoid When Using ChatGPT for Content Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-essential-ways-to-ascertain-chatgpts-uptime/"><u>5 Essential Ways to Ascertain ChatGPT’s Uptime</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-reasons-why-snapchats-my-ai-is-more-than-just-a-cool-toy/"><u>6 Reasons Why Snapchat's My AI Is More Than Just a Cool Toy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-ways-ai-enhances-the-future-of-teaching/"><u>8 Ways AI Enhances the Future of Teaching</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1726227326031-aifc-movavi/"><u>在線 AIFC 自動化交割平台 - Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/charting-the-course-of-viral-stocks-and-stories/"><u>Charting the Course of Viral Stocks & Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721435784626-exciting-news-chatgpt-on-iphone/"><u>Exciting News: ChatGPT on iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-startup-problems-in-stardew-valley-game/"><u>Troubleshooting Tips - Overcoming Startup Problems in Stardew Valley Game</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721419593588-unlock-bings-full-potential-with-ai-powered-mobile-search/"><u>Unlock Bing’s Full Potential with AI-Powered Mobile Search.</u></a></li>
 </ul></div>
 

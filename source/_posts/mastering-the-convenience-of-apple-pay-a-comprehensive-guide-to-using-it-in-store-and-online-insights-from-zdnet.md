@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Convenience of Apple Pay: A Comprehensive Guide to Using It In-Store & Online - Insights From ZDNet"
-date: 2024-12-02T19:40:23.897Z
-updated: 2024-12-06T20:22:44.604Z
+date: 2024-12-05T16:50:40.395Z
+updated: 2024-12-12T18:50:36.174Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ During [WWDC](https://www.zdnet.com/article/apple-wwdc-2024-recap-every-new-feat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Intelligence?
@@ -59,6 +59,10 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -76,7 +80,7 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -103,6 +107,10 @@ The same feature can help users make major edits to text, such as changing the t
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Image Playground?
 
 Apple
@@ -114,10 +122,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -148,7 +152,7 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -165,10 +169,6 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -210,21 +210,22 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-11-innovative-metaverse-projects-for-insightful-analysis-for-2024/"><u>[New] 11 Innovative Metaverse Projects for Insightful Analysis for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-subtitled-on-the-go-zip-to-srt-conversion-techniques/"><u>[New] Subtitled on the Go ZIP-to-SRT Conversion Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-6-rise-of-creative-tools/"><u>Artificial Intelligence: 6 Rise of Creative Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoiding-the-blind-spots-of-computer-based-psychological-support/"><u>Avoiding the Blind Spots of Computer-Based Psychological Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-risk-with-ais-financial-forecasts-the-challenge/"><u>Balancing Risk with AI's Financial Forecasts: The Challenge</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/diving-into-the-world-of-shap-explaining-ai/"><u>Diving Into the World of SHAP Explaining AI</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-tecno-camon-30-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Tecno Camon 30 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-imaginary-realms-with-ai-dialogue/"><u>Mastering Imaginary Realms with AI Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-pathway-of-earning-through-bug-hunting-at-openai/"><u>Navigating the Pathway of Earning Through Bug Hunting at OpenAI</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-repair-vs-exchange-of-a-switch/"><u>Navigating the Repair Vs. Exchange of a Switch</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-issue-why-does-my-iphones-screen-time-reflect-unfamiliar-sites/"><u>Solving the Issue: Why Does My iPhone's Screen Time Reflect Unfamiliar Sites?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/surprising-connectivity-discuss-with-chatgpt/"><u>Surprising Connectivity: Discuss with ChatGPT</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-art-of-enticing-instagram-followers-a-puzzle-post-primer-for-2024/"><u>The Art of Enticing Instagram Followers A Puzzle Post Primer for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-emerging-ai-chipsets-revolutionizing-computing/"><u>Top 5 Emerging AI Chipsets Revolutionizing Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voicecommand-power-integrating-gpt-into-android-life/"><u>VoiceCommand Power – Integrating GPT Into Android Life</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/what-makes-youtube-and-dailymention-stand-out/"><u>What Makes YouTube and DailyMention Stand Out?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-periscope-streaming-made-simple/"><u>[New] 2024 Approved Periscope Streaming Made Simple</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-optimizing-your-online-presence-zooming-into-tiktok-videos/"><u>[Updated] 2024 Approved Optimizing Your Online Presence Zooming Into TikTok Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-fostering-collaborations-building-partnerships-to-promote-videos/"><u>[Updated] In 2024, Fostering Collaborations Building Partnerships to Promote Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-efficient-downloads-transform-vimeo-videos-into-mp4/"><u>2024 Approved Efficient Downloads Transform Vimeo Videos Into MP4</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-giggle-guild-imgur-memomaker/"><u>2024 Approved Giggle Guild Imgur MemoMaker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conscious-communication-chatgpt-as-a-therapeutic-aid/"><u>Conscious Communication: ChatGPT as a Therapeutic Aid</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-supremacy-can-claude-outperform-chatgpt/"><u>Conversational Supremacy: Can Claude Outperform ChatGPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proof-education-why-teachers-must-embrace-artificinas-8-critical-points/"><u>Future-Proof Education: Why Teachers Must Embrace Artificinas (8 Critical Points)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-ai-search-on-bing-simple-setup-guide/"><u>Navigate AI Search on Bing: Simple Setup Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-clearing-the-clutter-streamlined-methods-for-reducing-ambient-noise-in-audio-editing-software-audacity-and-filmorapro-for-2024/"><u>New Clearing the Clutter Streamlined Methods for Reducing Ambient Noise in Audio Editing Software (Audacity & FilmoraPro) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prime-collection-20-essential-chatgpt-conversation-starters-from-github/"><u>Prime Collection: 20 Essential ChatGPT Conversation Starters From GitHub</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-or-fake-spotting-deceptive-gpt-binco-tokens/"><u>Real or Fake: Spotting Deceptive GPT-Binco Tokens</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/rotating-videos-on-windows-10-three-simple-techniques/"><u>Rotating Videos on Windows 10: Three Simple Techniques</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/s-most-popular-video-animation-apps-for-android-iphone-and-ipad-for-2024/"><u>S Most Popular Video Animation Apps for Android, iPhone, and iPad for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seven-perspectives-on-how-ai-like-chatgpt-can-help-patients/"><u>Seven Perspectives on How AI Like ChatGPT Can Help Patients</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-zte-nubia-z60-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track ZTE Nubia Z60 Ultra without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/virtual-assistant-ventures-and-diy-pc-repair/"><u>Virtual Assistant Ventures & DIY PC Repair</u></a></li>
 </ul></div>
 

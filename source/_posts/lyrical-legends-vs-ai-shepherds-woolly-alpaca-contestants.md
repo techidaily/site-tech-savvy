@@ -1,7 +1,7 @@
 ---
 title: Lyrical Legends vs AI Shepherds, Woolly Alpaca Contestants
-date: 2024-12-05T17:13:58.774Z
-updated: 2024-12-06T23:03:09.321Z
+date: 2024-12-05T19:16:32.859Z
+updated: 2024-12-12T18:28:17.212Z
 tags:
   - chatgpt
   - open-ai
@@ -65,16 +65,12 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -92,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 ![burnt socket for a BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
  Cables attaching to the plug have a live wire (brown), an earth wire (yellow/green), and a neutral wire (blue). These must be attached to the correct terminals within the plug housing.
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Writing Code?
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the [best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/).
@@ -123,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -139,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
  You read it here first, folks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -165,19 +165,24 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-permanent-banishment-from-the-tiktok-community-done-right/"><u>[New] In 2024, Permanent Banishment From the TikTok Community, Done Right</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-20plus-amazing-youtube-shortcuts-you-should-know/"><u>[Updated] 20+ Amazing YouTube Shortcuts You Should Know</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-flash-video-frenzy-for-2024/"><u>[Updated] Facebook's Flash Video Frenzy for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-compilation-of-leading-9-mobile-meeting-services-ios-android-for-2024/"><u>[Updated] Ultimate Compilation of Leading 9 Mobile Meeting Services (iOS, Android) for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-unveiling-the-elite-after-effects-plugins-compendium-for-2024/"><u>[Updated] Unveiling the Elite After Effects Plugins Compendium for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgptplus-cutting-edge-ai-for-effortless-language-acquisition/"><u>ChatGPT+: Cutting-Edge AI for Effortless Language Acquisition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delve-into-claude-cutting-edge-ai-for-dynamic-business-growth/"><u>Delve Into Claude: Cutting-Edge AI for Dynamic Business Growth</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-innovations-in-the-domain-of-chatgpt-plugins-store/"><u>Essential Innovations in the Domain of ChatGPT Plugins Store</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-x6-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco X6 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-huawei-nova-y71-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Huawei Nova Y71 to iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seeking-alternatives-6-low-cost-ai-systems-like-sora/"><u>Seeking Alternatives: 6 Low-Cost AI Systems Like Sora</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranked-mac-software-selections-featuring-expert-reviews-and-rankings/"><u>Top-Ranked Mac Software Selections - Featuring Expert Reviews & Rankings</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-premier-apple-products-mimicking-old-ps2-games/"><u>[New] Premier Apple Products Mimicking Old PS2 Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-premier-picks-the-ultimate-8-tripods-for-4k-photography/"><u>[New] Premier Picks The Ultimate 8 Tripods for 4K Photography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-flutter-free-video-conversion-the-best-alternatives-for-youtube-upload/"><u>[Updated] Flutter Free Video Conversion The Best Alternatives for YouTube Upload</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-maximizing-performance-with-pro-windows-10-skills/"><u>[Updated] In 2024, Maximizing Performance with Pro Windows 10 Skills</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-elite-8-virtual-handhelds-overview/"><u>2024 Approved The Elite 8 Virtual Handhelds Overview</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-real-time-interactions-crucial-for-chatgpt-learning/"><u>Are Real-Time Interactions Crucial for ChatGPT Learning?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-emotionality-can-machines-provide-solace-or-stress/"><u>Artificial Emotionality: Can Machines Provide Solace or Stress?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/authentification-assistant-openais-anti-fake-tech-for-gpt/"><u>Authentification Assistant: OpenAI’s Anti-Fake Tech for GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guard-your-data-from-malware-disguised-as-ai-helpers/"><u>Guard Your Data From Malware Disguised as AI Helpers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/hugging-face-unveiling-its-role-in-modern-machine-learning/"><u>Hugging Face: Unveiling Its Role in Modern Machine Learning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-the-crypto-realm/"><u>Integrating ChatGPT Into the Crypto Realm</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/resolving-update-issues-microsoft-flight-simulator-2020-freezing-during-installation/"><u>Resolving Update Issues: Microsoft Flight Simulator 2020 Freezing During Installation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-effective-communication-with-chatgpt-clients/"><u>Strategies for Effective Communication with ChatGPT Clients</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/techniques-to-block-chatgpts-storage-of-conversations/"><u>Techniques to Block ChatGPT's Storage of Conversations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-art-of-apple-vision-pro-expert-tips-for-impeccable-screenshots-and-hd-recordings-without-glitches-zdnet/"><u>The Art of Apple Vision Pro: Expert Tips for Impeccable Screenshots and HD Recordings Without Glitches | ZDNet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-cold-weather-spectacle-of-beijing-2022/"><u>The Cold-Weather Spectacle of Beijing 2022</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-power-of-your-system-through-toms-hardware-insights/"><u>Unlocking the Power of Your System Through Tom's Hardware Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/voice-for-algorithms-chatgpts-new-command-respondive-capability/"><u>Voice for Algorithms: ChatGPT's New Command-Respondive Capability</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore Apple's WWDC 2024 Revelations: The Essential 4 Features of iPadOS 18 & Which iPads They Apply To"
-date: 2024-12-05T21:20:44.770Z
-updated: 2024-12-07T00:28:49.857Z
+date: 2024-12-09T22:20:00.675Z
+updated: 2024-12-12T21:11:39.354Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Let's explore the potential consequences of Apple's antitrust lawsuit and what i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Apple user experience at a crossroads
@@ -58,6 +58,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Security and privacy implications
 
   
@@ -75,6 +79,10 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## App Store changes
 
 Apple's financial model heavily depends on App Store commissions, which may undergo significant changes due to this lawsuit, judgment, or settlement. These changes could lead to a more dynamic market, providing consumers with more competitive pricing and a wider range of innovative app offerings. Fundamentally, it could alter the economic structure of the entire digital marketplace.
@@ -84,10 +92,6 @@ Following antitrust actions, Apple's market dynamics could shift in several ways
 * **Reduction in App Store fees:** Antitrust rulings may require Apple to reduce its upfront commission and yearly subscription fee, which could negatively impact its revenue. However, this may lead to lower app prices for consumers and increased developer earnings.
 * **Competitive app marketplace:** If iOS is opened to third-party app stores, it could break Apple's monopoly on app distribution and create a more competitive environment where different app marketplaces fight for developer and consumer attention.
 * **Innovative business models:** If Apple's control is broken, it could encourage innovation as developers will have the freedom to explore new app functionalities and business models. They can experiment with alternative monetization strategies beyond the traditional app purchase or subscription model, such as enhanced in-app advertising, freemium models, or blockchain-based transactions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple ecosystem transformation
 
@@ -104,7 +108,7 @@ The changes could also lead to increased innovation and competition in markets s
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open standards and protocols and the increase of open-source software on Apple platforms
@@ -115,10 +119,6 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Payment, wallet, and digital identity diversification:** In addition to new open transaction and digital identity platforms like OpenWallet, we might see further diversification in the digital wallet and payment systems market, reducing Apple's control over financial transactions with the predominance of Apple Pay on iOS devices, and potentially lowering transaction fees.
 * **Integration of open source applications:** Easier installation and use of open source software on iOS devices, broadening the range of available tools and apps.
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
 
@@ -131,7 +131,7 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -170,24 +170,24 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-navigating-android-video-calls-effortlessly/"><u>[Updated] Navigating Android Video Calls Effortlessly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/customized-exercise-plans-gpts-commitment-to-safety/"><u>Customized Exercise Plans: GPT's Commitment to Safety</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-the-essence-of-gptzero-in-ai-detection/"><u>Dissecting the Essence of GPTZero in AI Detection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exit-dialogue-with-chatgpt-quickly/"><u>Exit Dialogue with ChatGPT Quickly</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-cut-to-perfection-a-detailed-guide-on-youtube-short-video-making/"><u>In 2024, Cut to Perfection A Detailed Guide on YouTube Short Video Making</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-skies-in-4k-with-mi-drone/"><u>In 2024, Exploring Skies in 4K with MI Drone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-extreme-quality-top-5-for-slow-motion-precision/"><u>In 2024, Extreme Quality Top 5 for Slow Motion Precision</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-ultimate-hits-for-tiktok-stardom/"><u>In 2024, The Ultimate Hits for TikTok Stardom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insight-chatgpts-default-tools-explained/"><u>Insight: ChatGPT's Default Tools Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrate-smoothly-using-chatgpts-api/"><u>Integrate Smoothly: Using ChatGPT's API</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-nuances-of-chatgptenticing-api-use/"><u>Navigating the Nuances of ChatGPT'enticing API Use</u></a></li>
-<li><a href="https://article-posts.techidaily.com/plain-definitions-in-storytelling-basics-for-2024/"><u>Plain Definitions in Storytelling Basics for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/redefining-power-and-efficiency-in-computing-a-deep-dive-into-the-new-macbook-air-macbook-pro-and-mac-minis-m1-processor/"><u>Redefining Power and Efficiency in Computing: A Deep Dive Into the New MacBook Air, MacBook Pro & Mac Mini's M1 Processor</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210053300-9780990446897-reiki-21st-century-updated-methods-teachings-attunements-from-a-20th-century-master/"><u>Reiki 21st Century Updated Methods, Teachings, Attunements from a 20th Century Master | Free Book</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-multilingual-communication-using-chatgpt/"><u>Seamless Multilingual Communication Using ChatGPT</u></a></li>
-<li><a href="https://fox-http.techidaily.com/spotlight-strategies-brightening-your-visual-narrative/"><u>Spotlight Strategies Brightening Your Visual Narrative</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-role-of-ai-in-cultivating-compassionate-connections/"><u>The Role of AI in Cultivating Compassionate Connections</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-presentations-with-chatgpt-expertise/"><u>Transform Your Presentations with ChatGPT Expertise</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-clash-of-shadows-and-lightning-black-vs-silver/"><u>[New] In 2024, Clash of Shadows and Lightning BLACK vs SILVER</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-life-as-a-digital-creator-venturing-into-the-vtuber-world/"><u>[New] Life as a Digital Creator – Venturing Into the VTuber World</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-real-time-reality-showdown-softwares-supremacy-over-hardware-for-2024/"><u>[New] Real-Time Reality Showdown Software's Supremacy Over Hardware for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-9-techniques-for-attractive-and-engaging-unboxings-on-instagram/"><u>[Updated] 2024 Approved 9 Techniques for Attractive and Engaging Unboxings on Instagram</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-7-crucial-tiktok-utilities-for-enhanced-viral-progress/"><u>[Updated] In 2024, 7 Crucial TikTok Utilities for Enhanced Viral Progress</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-ideal-watchlist-for-asmr-fans/"><u>[Updated] In 2024, Ideal Watchlist for ASMR Fans</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-viewership-victory-surpassing-500-subscriber-mark/"><u>2024 Approved Viewership Victory Surpassing 500 Subscriber Mark</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-phantom-v-fold-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Phantom V Fold without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/connecting-with-ai-through-quoras-poe-routes/"><u>Connecting with AI Through Quora's POE Routes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-customizable-ai-for-creative-endeavors/"><u>Demystifying Customizable AI for Creative Endeavors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-news-update-what-you-need-to-know/"><u>Google News Update: What You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/immersive-tabletop-journeys-gpt-insights-to-elevate-your-rpgs/"><u>Immersive Tabletop Journeys: GPT Insights to Elevate Your RPGs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/laughter-logic-can-computers-inspire-joyous-jests/"><u>Laughter Logic: Can Computers Inspire Joyous Jests?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimize-your-videos-quickly-with-story-remix-in-windows-10-photos/"><u>Optimize Your Videos Quickly with Story Remix in Windows 10 Photos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prep-for-perfection-using-chatgpt-in-interviews/"><u>Prep for Perfection: Using ChatGPT in Interviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securing-web-experience-with-proton-vpn-extension/"><u>Securing Web Experience with Proton VPN Extension</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-insiders-guide-to-chatgpt-feature-signup/"><u>The Insider’s Guide to ChatGPT Feature Signup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-transformative-ai-practices-you-must-try/"><u>Top 7 Transformative AI Practices You Must Try</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-ai-practices-7-proven-strategies/"><u>Transformative AI Practices: 7 Proven Strategies</u></a></li>
 </ul></div>
 

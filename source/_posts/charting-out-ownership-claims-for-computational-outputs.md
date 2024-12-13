@@ -1,7 +1,7 @@
 ---
 title: Charting Out Ownership Claims for Computational Outputs
-date: 2024-12-05T23:18:29.698Z
-updated: 2024-12-06T20:51:01.932Z
+date: 2024-12-09T16:28:49.705Z
+updated: 2024-12-12T20:38:21.834Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Copyright? Does It Apply to Non-Human Creations?
 
  Before talking about copyright, we must first define it. According to the [US Copyright Office](https://www.copyright.gov/what-is-copyright/) (USCO), "Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression."
@@ -43,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/28805214b423ac647ed00f851fe14b81181d6db73
 ![sefl portrait of a Macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_large.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File%3AMacaca%5Fnigra%5Fself-portrait%5Flarge.jpg)
@@ -51,7 +55,7 @@ Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/M
 ![full body self-portrait of a macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_full_body.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File:Macaca%5Fnigra%5Fself-portrait%5Ffull%5Fbody.jpg)
@@ -68,10 +72,6 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -79,10 +79,6 @@ Close
  Although the USCO issued a copyright in September 2022, it said it did it in error. When it came to light that the comic book was produced using MidJourney AI, its copyright protection was revoked.
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is AI Work Non-Copyrightable?
 
@@ -99,7 +95,7 @@ Close
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
@@ -115,6 +111,10 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
  While one may argue that it's no different from a person looking at the images and using them as an inspiration, AI isn't a person—instead, it's a machine that, at least for now, has no life. Furthermore, AI consumes and spits data at inhumanly insane speeds—so much so that humans cannot compete against it.
 
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Ethics of AI
 
@@ -141,16 +141,24 @@ Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](ht
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-chord-of-clicks-infusing-music-into-ig-story-posts-for-2024/"><u>[New] The Chord of Clicks Infusing Music Into IG Story Posts for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-cutting-ties-with-instagram-users/"><u>[Updated] 2024 Approved Cutting Ties with Instagram Users</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-guide-assessing-vidmas-video-capture-capabilities/"><u>[Updated] In 2024, Ultimate Guide Assessing Vidma's Video Capture Capabilities</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-master-sound-capture-on-your-macos-device-via-audacity-for-2024/"><u>[Updated] Master Sound Capture on Your MacOS Device via Audacity for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-visual-clutter-inside-windows-search/"><u>Avoiding Visual Clutter Inside Windows Search</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embark-without-worry-best-free-chatgpt-apps-crafting-your-trip/"><u>Embark Without Worry: Best Free ChatGPT Apps Crafting Your Trip</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/envisioning-a-new-era-for-microsoft-bing-through-ai/"><u>Envisioning a New Era for Microsoft Bing Through AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-premier-choices-beyond-chatgpt/"><u>Exploring the Premier Choices Beyond ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-does-chatgpt-adapt-insight-into-custom-instructions/"><u>How Does ChatGPT Adapt? Insight Into Custom Instructions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-bings-ai-chat-on-android-devices-essential-tips/"><u>Mastering Bing's AI Chat on Android Devices: Essential Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-beam-it-up-a-step-by-step-approach-to-youtube-video-luminance/"><u>[Updated] 2024 Approved Beam It Up A Step-By-Step Approach to YouTube Video Luminance</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula/"><u>[Updated] In 2024, How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-strategies-for-skyrocketing-your-youtube-view-count-for-2024/"><u>[Updated] Strategies for Skyrocketing Your YouTube View Count for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-vlogventures-in-cosmetics-how-to-create-your-fashion-forward-channel/"><u>[Updated] Vlogventures in Cosmetics How to Create Your Fashion-Forward Channel</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-14-pro-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 14 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-new-frontier-future-career-landscapes/"><u>AI's New Frontier: Future Career Landscapes?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-algorithm-6-secrets-of-content-writers-success/"><u>Beyond the Algorithm: 6 Secrets of Content Writers' Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-household-efficiency-with-ai-assistance/"><u>Boosting Household Efficiency with AI Assistance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-codegpt-an-ai-that-might-transform-software-engineering/"><u>Delving Into CodeGPT: An AI That Might Transform Software Engineering?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-integrate-auto-gpt-into-workflows/"><u>Effortlessly Integrate Auto-GPT Into Workflows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-instagram-video-harmonizing-visuals-with-melody/"><u>Enhancing Instagram Video Harmonizing Visuals with Melody</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/epic-debate-verse-slingers-vs-chatbot-alpacas/"><u>Epic Debate: Verse Slingers vs ChatBot Alpacas</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-solutions-for-wacom-tablet-connectivity-and-functionality-issues/"><u>Essential Solutions for Wacom Tablet Connectivity and Functionality Issues</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-picks-premium-mesh-networking-for-homes-and-businesses/"><u>Expert Picks: Premium Mesh Networking for Homes & Businesses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-of-ai-is-gpt-5-on-the-horizon/"><u>Future of AI: Is GPT-5 on The Horizon?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 12 Pro Max and iPad</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-google-pixel-fold-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Google Pixel Fold Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-therapeutic-practices-ais-role-revealed/"><u>Redefining Therapeutic Practices: AI’s Role Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-the-file-format-change-from-dall-es-webp-to-jpegpng/"><u>Streamlining the File Format Change: From DALL-E's WebP to JPEG/PNG</u></a></li>
 </ul></div>
 

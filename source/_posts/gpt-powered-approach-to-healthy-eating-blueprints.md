@@ -1,7 +1,7 @@
 ---
 title: GPT-Powered Approach to Healthy Eating Blueprints
-date: 2024-09-12T07:45:39.351Z
-updated: 2024-09-13T07:45:39.351Z
+date: 2024-12-05T20:26:26.633Z
+updated: 2024-12-12T16:55:18.161Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know About ChatGPT Before You Start
 
  ChatGPT can indeed help you create a healthy meal plan. In fact, it can help you create anything you’d like, even an unhealthy meal plan. But before you use ChatGPT to help you build your meal plan, there are several factors of your meal plan you need to figure out first.
@@ -48,34 +52,13 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 * How long do you want the cooking time to be for each meal?
 * How much do you want the cost per meal to be if you're cooking on a budget?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use ChatGPT to Determine Your TDEE and BMR
 
 ![ChatGPT AI chatbot online tool TDEE BMR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tdee-bmr.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve decided on those particulars of your healthy meal plan, you can use ChatGPT to help with your basal metabolic rate (BMR) and total daily energy expenditure (TDEE)—if you don't already know. TDEE is an estimate of your total calories burned daily.
 
  BMR is the energy your body uses while at rest. Knowing these numbers is important to your particular goals. All you have to do is type "**How do I calculate my TDEE and BMR?**" into ChatGPT, and it automatically generates the needed equations and formulas.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use ChatGPT to Create a Healthy Meal Plan
 
@@ -88,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 ![chatgpt AI chatbot online tool meal plan example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-meal-plan-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here are some examples of prompts you can type into ChatGPT to help you build a healthy meal plan. A healthy meal plan is different for everyone, so always add as many or as few details as you want.
@@ -110,19 +90,6 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  This can result in spending an enormous amount of money on groceries and lots of extra unused ingredients.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Better Meal Planning Alternatives to ChatGPT
 
  While ChatGPT is fun to use to play around with possible meal plans, it’s not entirely reliable, and you should use it with caution. On the other hand, there are plenty of [excellent meal planning apps](https://www.makeuseof.com/top-meal-planning-apps-healthy-eating/) available that can make your healthy meal plan easier to organize and keep track of.
@@ -131,13 +98,14 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
 ![SideChef meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-meal-plan-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![SideChef preferences mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sidechef-preferences.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -154,22 +122,13 @@ Close
 
 ![Eat this much meal plan mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-meal-plan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Eat this much planner mobile meal planner app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eat-this-much-planner.jpg)
 
 Close
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can You Trust ChatGPT to Create a Healthy Meal Plan?
 
@@ -194,5 +153,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-streamline-your-videos-crop-and-export-tutorial-for-instagram/"><u>[New] 2024 Approved Streamline Your Videos Crop & Export Tutorial for Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-channel-size-independent-strategies-for-securing-sponsors/"><u>[New] In 2024, Channel-Size-Independent Strategies for Securing Sponsors</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-dive-deep-into-the-world-of-tiktok-emojis-discover-7-favorites-and-hidden-messages/"><u>[New] In 2024, Dive Deep Into the World of TikTok Emojis - Discover #7 Favorites and Hidden Messages</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-adding-melodies-to-facebook-clips-easy-methods/"><u>[Updated] 2024 Approved Adding Melodies to Facebook Clips Easy Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/advanced-chat-services-optimizing-teleconferences/"><u>Advanced Chat Services Optimizing Teleconferences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ballad-blitz-poets-and-gpt-warriors-face-off-with-wooly-companions/"><u>Ballad Blitz - Poets and GPT Warriors Face-Off with Wooly Companions</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12R Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-and-strategies-for-overcoming-structural-failures-during-demolitions/"><u>Expert Tips and Strategies for Overcoming Structural Failures During Demolitions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fb-video-extraction-creating-mp3s-in-minutes-for-2024/"><u>FB Video Extraction Creating MP3s in Minutes for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-your-insights-to-ingenious-ai-build-a-gpt-of-your-design/"><u>From Your Insights to Ingenious AI: Build a GPT of Your Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/groundbreayer-list-of-best-github-and-chatgpt-interaction-techniques/"><u>Groundbreayer List of Best GitHub and ChatGPT Interaction Techniques</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/how-to-duplicate-the-recovery-partition-on-an-ssd-in-windows-operating-systems/"><u>How to Duplicate the Recovery Partition on an SSD in Windows Operating Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/402268-9780307486318-instant-emotional-healing/"><u>Instant Emotional Healing | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-eliminate-the-extra-junk/"><u>Mastering ChatGPT: Eliminate the Extra Junk</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pro-tips-integrating-gpt-in-your-note-routine/"><u>Pro Tips: Integrating GPT in Your Note Routine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/satellite-sos-feature-now-available-on-google-pixel-9-the-premier-android-device-enhancing-emergency-communications/"><u>Satellite SOS Feature Now Available on Google Pixel 9: The Premier Android Device Enhancing Emergency Communications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-simplicity-chatgpts-top-9-techniques/"><u>The Art of Simplicity: ChatGPT's Top 9 Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-new-levels-of-performance-the-impact-of-photochromic-glasses-on-my-biking-adventure/"><u>Unlocking New Levels of Performance: The Impact of Photochromic Glasses on My Biking Adventure</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-leaving-confidentials-to-chatgpt-is-a-no-no/"><u>Why Leaving Confidentials to ChatGPT Is a No-No</u></a></li>
+</ul></div>
 

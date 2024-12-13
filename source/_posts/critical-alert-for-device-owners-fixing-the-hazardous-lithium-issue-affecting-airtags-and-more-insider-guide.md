@@ -1,7 +1,7 @@
 ---
 title: "Critical Alert for Device Owners: Fixing the Hazardous Lithium Issue Affecting AirTags & More, Insider Guide"
-date: 2024-11-29T16:33:37.218Z
-updated: 2024-12-06T20:29:39.150Z
+date: 2024-12-10T18:27:34.445Z
+updated: 2024-12-12T18:48:50.626Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ As it turns out, the AirTags stopped working due to a safety feature that some m
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The problem: safety coatings
@@ -74,7 +74,7 @@ What to do? You have four options:
 **Remove the battery's coating:** Alternatively, you can remove the coating. Again, since this coating plays a crucial role in keeping young ones safe, I'm very reluctant to suggest removing all of it. The safety of children should always come first, and the bitter coating is an important safeguard against accidental ingestion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The fix for AirTags that stop working after a battery swap
@@ -100,7 +100,7 @@ Next, test-fit the battery. You'll know it makes proper contact with the AirTag 
 For other devices, the process is similar: Ensure the contacts align with the cleaned portion of the battery.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Buy AirTag-compatible button cells
@@ -110,7 +110,7 @@ As Apple points out, [Duracell is now selling CR2032 button cells](https://buy.g
 These button cells still have a Bitrex coat but the bitterant has been applied in a way that doesn't interfere with its operation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Button cell safety
@@ -158,15 +158,15 @@ By following these precautions, you can help prevent accidents and ensure a safe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://data-safeguard.techidaily.com/comprehensive-guide-to-erasing-digital-footprints-wisdom-from-stellar-sources/"><u>Comprehensive Guide to Erasing Digital Footprints: Wisdom From Stellar Sources</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cost-prohibitive-factors-preventing-new-apple-ai-innovations-on-legacy-iphones-insights/"><u>Cost-Prohibitive Factors Preventing New Apple AI Innovations on Legacy iPhones - Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-pros-the-ultimate-copilot-experience/"><u>GPT-4 Pros: The Ultimate Copilot Experience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/initiate-direct-camera-streaming-with-vlc-for-2024/"><u>Initiate Direct Camera Streaming with VLC for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcoming-buffer-delays-in-media/"><u>Overcoming Buffer Delays in Media</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-guide-premiere-pro-for-youtube-cutting-for-2024/"><u>Step-by-Step Guide Premiere Pro for YouTube Cutting for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-90-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor X9b? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-2-ais-battle-for-chat-supremacy/"><u>Top 2 AIs Battle for Chat Supremacy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-huggingchat-an-accessible-ai-for-conversation-enthusiasts/"><u>Understanding HuggingChat: An Accessible AI for Conversation Enthusiasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-create-unique-audio-trailers-at-zero-expense/"><u>[Updated] Create Unique Audio Trailers at Zero Expense</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-modern-readers-pathway-to-capturing-internet-television-for-2024/"><u>[Updated] The Modern Reader's Pathway to Capturing Internet Television for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-free-range-riffs-and-rhythms-in-free-fire/"><u>2024 Approved Free Range Riffs and Rhythms in Free Fire</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-spreadsheet-solutions-via-chatgpt-and-excel/"><u>AI-Powered Spreadsheet Solutions via ChatGPT & Excel</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-solutions-for-reactivating-computers-displaying-no-signs-of-power/"><u>DIY Solutions for Reactivating Computers Displaying No Signs of Power</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-ai-comparing-forefronts-prowess-with-chatgpt/"><u>Evaluating AI: Comparing Forefront's Prowess with ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-non-functional-razer-barracuda-x-microphones-on-latest-windows-versions/"><u>Fixing Non-Functional Razer Barracuda X Microphones on Latest Windows Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/lead-the-conversation-five-vocal-commands-to-master-chatgpt/"><u>Lead the Conversation: Five Vocal Commands to Master ChatGPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-issues-how-to-fix-exodus-add-on-on-kodi-july-2020-update/"><u>Resolving Issues: How to Fix Exodus Add-On on Kodi (July 2020 Update)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/shielding-from-swindles-real-vs-fake-gpts/"><u>Shielding From Swindles: Real vs Fake GPTs</u></a></li>
 </ul></div>
 

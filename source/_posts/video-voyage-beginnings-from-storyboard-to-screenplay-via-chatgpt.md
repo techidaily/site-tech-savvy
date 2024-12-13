@@ -1,7 +1,7 @@
 ---
 title: Video Voyage Beginnings - From Storyboard to Screenplay via ChatGPT
-date: 2024-11-30T18:15:15.283Z
-updated: 2024-12-06T19:42:29.043Z
+date: 2024-12-08T01:09:41.188Z
+updated: 2024-12-12T18:56:01.666Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Use ChatGPT to Help You Write a Script?
@@ -60,16 +60,16 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
 ![Establishing the premise with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/establishing-the-premise-with-chatgpt.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Just make sure that before pressing send, you let the AI know not to start spitting out a script yet. You just want to make sure it understands the overall assignment before giving it more details about the interworkings of the script.
 
 ![ChatGPT's answer for establishing the premise of writing a script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-s-answer-for-establishing-the-premise.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Give as Much Information as Possible
@@ -80,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
  For the example above, the video needs to explain that the site should be accessible by vehicle or hike, near running water, in a remote location, on public land, and on suitable terrain. Letting ChapGPT know these script requirements will help you not have to do so much editing later.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Review the First Draft
 
  After ChatGPT gives you your first draft, make sure to review it. It may be set up in a way that doesn’t flow with your style of videos, or the information isn’t explained very well.
@@ -91,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 ![ChatGPT's first draft of YouTube script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-s-first-draft-of-youtube-script.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the example, ChatGPT did add timing for the introductions for each section. For the purpose of the video, the timing is a bit long, but that can be easily ignored. However, in the public land section, there should be more information regarding the rules.
@@ -106,19 +102,11 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
 ![Asking ChatGPT to add public land rules to script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/asking-chatgpt-to-add-public-land-rules-to-script.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ChatGPT YouTube Script Observations
 
  ChatGPT did a well enough job of piecing together a short script. It added segments for b-roll and explained when the narrator should be in front of the camera and when there should be a voice-over instead.
 
 ![ChatGPT's script overview for a script about off-grid camping elements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-s-script-overview.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Additionally, each point that was originally requested received its own section with guidance on what kind of shots should be taken while the voice-over explained the key points, which ChatGPT gave as well.
 
@@ -130,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
 ![Laptop open on table with ChatGPT open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/laptop-open-on-table-with-chatgpt-open.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that you know how to use ChatGPT to help you write a script, here are a few tips to keep in mind during the process.
 
 ### 1\. Use ChatGPT as an Assistant, Not a Replacement
@@ -139,18 +131,26 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
  ChatGPT’s intent is to be an assistant—it’s supposed to guide you in making your scripts. Sure, you can ask it for a rough draft, but you can’t take what it gives you at face value. Make sure to proofread and add personal touches to ensure the script is right for your viewing audience and your channel.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Be Aware of Outdated Information
 
  ChatGPT does make mistakes. It’s important to stay aware of the fact that as of September 2023, ChatGPT’s knowledge cutoff day is September 2021\. This means that if your script needs facts from after that time period, you are going to need to do the research to make sure the information is accurate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Stay Creatively Open-minded
 
  As a creator, you may go head first into a project thinking that you know exactly what you want. However, it’s important to always keep an open mind. Remember, you’re using ChatGPT as an assistant, so why not consider some of the ideas that it comes up with?
 
  Not only will you find the opportunity to open yourself up to more creative styles to work with, but you may also find a new way of expressing yourself on camera. Working with ChatGPT is the same as working in a group dynamic. It’s wise to take other opinions into consideration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Generate Effective YouTube Scripts With ChatGPT in Minutes
 
@@ -179,20 +179,24 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-echo-chambers-advanced-mac-audio-techniques/"><u>[New] Echo Chambers Advanced Mac Audio Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-dynamic-duo-display-youtubes-way-of-creative-splitting/"><u>[Updated] 2024 Approved Dynamic Duo Display YouTube’s Way of Creative Splitting</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-cutting-the-cord-of-creation-how-to-setup-a-youtube-channel-from-phone-to-platform/"><u>[Updated] Cutting the Cord of Creation How to Setup a YouTube Channel From Phone to Platform</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-leading-voice-customization-go-beyond-echoes/"><u>[Updated] Leading Voice Customization Go Beyond Echoes</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-top-5-mac-mkv-players-ranked/"><u>[Updated] Top 5 Mac MKV Players Ranked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-ways-to-make-chatgpt-your-perfect-dungeon-master-assistant/"><u>6 Ways to Make ChatGPT Your Perfect Dungeon Master Assistant</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-pioneering-features-of-bard-excitingly-debuted-at-googles-2023-event/"><u>7 Pioneering Features of Bard, Excitingly Debuted at Google's 2023 Event</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-keys-to-understanding-the-future-of-prompt-engineering-jobs/"><u>9 Keys to Understanding the Future of Prompt Engineering Jobs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-guide-to-leveraging-chatgpt-in-your-companys-success/"><u>A Guide to Leveraging ChatGPT in Your Company's Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721429893410-ballads-battleground-chatgpt-vs-shepherds-alpacas-unite/"><u>Ballads Battleground: ChatGPT vs Shepherds, Alpacas Unite</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210970035-9781088235270-encuentro-inesperado/"><u>Encuentro Inesperado | Free Book</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-many-seconds-is-a-20mb-video-in-2024/"><u>How Many Seconds Is a 20Mb Video, In 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721424588761-streamline-your-search-with-bings-intelligent-ai-features/"><u>Streamline Your Search with Bing's Intelligent AI Features</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-90-gt-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor 90 GT? Here is How | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-best-ways-to-take-amazing-time-lapse-videos-on-android-2024/"><u>[New] Best Ways to Take Amazing Time-Lapse Videos on Android 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/icture-and-sound-summary-device-for-2024/"><u>[New] Picture and Sound Summary Device for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-locate-lively-youtube-conversations/"><u>[Updated] In 2024, Locate Lively YouTube Conversations</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-cultivating-a-thriving-business-model-with-snapchat-insights/"><u>2024 Approved Cultivating a Thriving Business Model with Snapchat Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-communication-and-cybersecurity-insights/"><u>Affordable Communication & Cybersecurity Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-cgps-validity-in-health-discourse/"><u>Assessing CGP's Validity in Health Discourse</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cleanse-tweets-of-cursive-symbols-linuss-disclosures-trojan-explanation-and-chatbot-issues/"><u>Cleanse Tweets of Cursive Symbols, Linus’s Disclosures, Trojan Explanation, & ChatBot Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-chatgpt-shared-link-use-and-operation/"><u>Demystifying ChatGPT: Shared Link Use and Operation</u></a></li>
+<li><a href="https://fox-that.techidaily.com/escape-your-iphone-dilemma-7-strategies-to-resolve-apple-boot-loop-issues/"><u>Escape Your iPhone Dilemma: 7 Strategies to Resolve Apple Boot Loop Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-ai-communication-gpt-vs-bingbot/"><u>Exploring AI Communication: GPT Vs. BingBot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-theory-to-practice-chatgpt-in-medical-industry/"><u>From Theory to Practice: ChatGPT in Medical Industry</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-11-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 11 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introduction-to-langchain-a-simple-guide/"><u>Introduction to LangChain: A Simple Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-uninstallable-dilemma-a-comprehensive-guide-to-fixing-windows-10-error-code-80240020-fixed/"><u>Resolving the Uninstallable Dilemma: A Comprehensive Guide to Fixing Windows 10 - Error Code 80240020 | [Fixed]</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/robocop-rogue-city-launch-issues-solved-how-to-successfully-install-the-game-on-your-desktop/"><u>RoboCop: Rogue City Launch Issues Solved - How to Successfully Install the Game on Your Desktop</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stable-screen-view-post-fix-on-laptop-completed/"><u>Stable Screen View Post-Fix on Laptop [Completed]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-excel-processes-using-chatgpt-ai/"><u>Streamlining Excel Processes Using ChatGPT AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-five-strategic-ai-avenues-for-cyber-illegalities/"><u>Unlocking Five Strategic AI Avenues for Cyber Illegalities</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-create-like-a-pro-top-animation-software-for-mac-and-windows-users/"><u>Updated 2024 Approved Create Like a Pro Top Animation Software for Mac and Windows Users</u></a></li>
 </ul></div>
 

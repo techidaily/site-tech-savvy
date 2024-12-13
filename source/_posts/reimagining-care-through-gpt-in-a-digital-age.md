@@ -1,7 +1,7 @@
 ---
 title: Reimagining Care Through GPT in a Digital Age
-date: 2024-09-12T07:45:35.338Z
-updated: 2024-09-13T07:45:35.338Z
+date: 2024-12-11T20:57:37.358Z
+updated: 2024-12-12T17:58:27.850Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is the Role of ChatGPT in Public Health?
 
  NLP (Natural Language Processing) is not a brand-new concept in the healthcare sector. The industry has been using systems similar to—though not as user-friendly as—ChatGPT for a while to handle the vast amount of data they deal with daily.
@@ -46,23 +39,21 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
  What makes ChatGPT special is that it is simpler, user-friendly, and can have human-like conversations. Although both ChatGPT and existing NLP systems in healthcare are not perfect, they can help meet the growing demands of patient care worldwide. NLP is one of the important [medical technologies shaping healthcare's future](https://www.makeuseof.com/medical-technologies-future-healthcare/).
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use ChatGPT in Healthcare
 
 ![chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/jonathan-kemper-mmuzs5qzuus-unsplash.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Currently, ChatGPT is mainly used in the administrative side of healthcare, and it's proving to be a game-changer for healthcare professionals. It can do many things to make their lives easier, like handling paperwork, checklists, and logs. In a recent survey by [Jackson Healthcare](https://www.healthleadersmedia.com/nursing/nurses-say-distractions-cut-bedside-time-25), most nurses admitted spending 25% of their shift on non-patient tasks, and ChatGPT aims to reduce that burden.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using ChatGPT to Sort Unstructured Data
@@ -71,19 +62,6 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
 
  ChatGPT can quickly analyze massive amounts of data—even diagnostics data. Just ask it a specific question with the sorting criteria you need, and it will give you the structured data you are looking for. You can copy its response, save it on a notepad, and open the file in Microsoft Excel to finish the process—problem solved!
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Remote Patient Monitoring With ChatGPT
 
  Even though doctors can't be with their patients all the time, patients need to keep track of their symptoms. This is where remote patient monitoring comes in. Patients track vital signs—like blood pressure, heart rate, and blood glucose levels—and share this data with their doctor. The doctor then reviews the information and provides feedback to the patient. It's a way to stay connected and care for patient health even when not in the same place.
@@ -91,16 +69,7 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
  But clinicians receive a lot of vital signs data from patients every single day, which can be overwhelming to examine. Luckily, ChatGPT can analyze the information collected by home health monitoring systems and provide clear insights for both patients and healthcare professionals. All patients have to do is share their results, and ChatGPT will let them know if everything is normal or not. After all, ChatGPT passed the USMLE exam!
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ChatGPT as a Virtual Assistant for Patient Care
@@ -108,10 +77,7 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
  ChatGPT can be like having a personal assistant available all the time for doctors. It can handle client communication, schedule appointments, and even help create emails. Moreover, you can rely on it to summarize clinical notes and the patient's medical history, making your preparation for visits much easier. And with ChatGPT-4's plugin feature, using it has become even simpler. Here's [how you can make the most of ChatGPT plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Has Potential in Healthcare, But Be Careful
@@ -137,5 +103,21 @@ thumbnail: https://thmb.techidaily.com/8b43ab5590e81a6b5b3d54c5bc573112dc5983325
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-essential-tips-for-producing-engaging-educational-content-for-youtube/"><u>[New] 2024 Approved Essential Tips for Producing Engaging Educational Content for YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-comprehensive-youtube-etiquette-guide/"><u>[New] In 2024, Comprehensive YouTube Etiquette Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nparalleled-video-grabber-suite-your-download-delight/"><u>[New] Unparalleled Video Grabber Suite - Your Download Delight</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-motorola-razr-40-ultra-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Motorola Razr 40 Ultra Activity | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversione-mp4-a-mjpeg-in-tempo-reale-nessun-costo-scaricare-il-servizio-on-demand/"><u>Conversione MP4 a MJPEG in Tempo Reale, Nessun Costo - Scaricare Il Servizio On-Demand</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-the-free-to-use-narrative-surrounding-the-internet-as-an-educational-resource-platform/"><u>Deconstructing the 'Free-to-Use' Narrative Surrounding the Internet as an Educational Resource Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-tool-convert-your-files-from-mp3-to-ogg-format-with-ease/"><u>Free Online Tool: Convert Your Files From MP3 to Ogg Format with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-write-a-youtube-video-script/"><u>How to Use ChatGPT to Write a YouTube Video Script</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/jetzt-verfugbar-neueste-av1-hardwarecodierer/"><u>Jetzt Verfügbar: Neueste AV1-Hardwarecodierer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leverage-ai-for-enhanced-mobile-search-via-bing-app/"><u>Leverage AI for Enhanced Mobile Search via Bing App</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/making-a-visual-impact-neon-borded-youtube-thumbnails-guide-for-2024/"><u>Making a Visual Impact Neon-Borded YouTube Thumbnails Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-home-studios-how-apples-latest-logic-pro-upgrade-brings-smart-ai-band-members-to-your-ipad-and-mac-via-zdnet-insights/"><u>Revolutionizing Home Studios: How Apple's Latest Logic Pro Upgrade Brings Smart AI 'Band Members' To Your iPad and Mac via ZDNet Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-fixing-and-preventing-input-lag-in-valorant-for-pc-players-in-202nce/"><u>Ultimate Guide to Fixing and Preventing Input Lag in Valorant for PC Players in 202Nce</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-generative-ai-understanding-its-essence/"><u>Unveiling Generative AI: Understanding Its Essence</u></a></li>
+</ul></div>
 

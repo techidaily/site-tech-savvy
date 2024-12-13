@@ -1,7 +1,7 @@
 ---
 title: "Effortless Code Execution: CodeGPT + VS Code"
-date: 2024-12-05T18:43:36.338Z
-updated: 2024-12-06T16:43:47.887Z
+date: 2024-12-09T17:46:46.209Z
+updated: 2024-12-12T20:46:06.190Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
 ![CodeGPT extension in VSCode EXTENSIONS: MARKETPLACE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on the **Install** button to add it to VS Code. Having installed CodeGPT, you now need to connect it to a large language model. This model is what gives it its generative capabilities.
 
  To establish the connection between CodeGPT and the large language model, you need an API Key. In this guide, you'll be [using the OpenAI API](https://www.makeuseof.com/openai-api-guide-what-can-you-do/). To get one proceed to the [OpenAI API](https://platform.openai.com/) platform and log in. If you do not have an account, sign up for one. After logging in, select the **API** option on the page that appears.
@@ -48,23 +44,19 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
 ![OpenAI API homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-api-key-view.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, you will be directed to the **API keys** page. Click on the **Create new secret key** option. Then, name and generate your secret key.
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-api-generation.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This is the API key that you will use to connect the OpenAI [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) to CodeGPT. Copy it to your clipboard.
 
  Proceed to VS Code and navigate to **Settings > Extensions > CodeGPT**​​​​​​.
 
 ![CodeGPT configuration page in VSCode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-codegpt-configuration.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  From this page, you can configure how CodeGPT interacts with the large language model. You can choose your **AI Provider**, **Max Tokens** for each request, and the **Model** to use. Also, when you scroll further down you can also set the **Temperature** value.
 
@@ -75,10 +67,14 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 ![CodeGPT API command on VSCode command palette](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-command-pallete.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on it and paste your API key on the prompt that appears. Save it by pressing **Enter**. Finally, reload VS Code to start using CodeGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Generating Code With CodeGPT
 
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
  Then input your request and click **Send**. In this case, the request is for a simple calculator. CodeGPT will process your request and generate your code in the chat window.
 
 ![CodeGPT code generation in the chat window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-install-and-use-codegpt-in-vscode-code-generation-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click on the "insert code" arrow to automatically paste the code into your script. As you can see, this method is more tidy. The generated code is as shown below:
 
@@ -133,10 +133,6 @@ else:
 
  When you run the code it works correctly. With just a single prompt, you were able to create a simple calculator.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Refactoring Your Code With CodeGPT
 
  To refactor your code, select the code that you want to refactor, then right-click on it and select **Refactor CodeGPT**. In the **Refactor CodeGPT** dialog box, enter your prompt describing the refactoring that you want to perform. For example, you could enter "refactor this code to use [a for loop](https://www.makeuseof.com/learn-for-loops-in-python/) instead of [a while loop](https://www.makeuseof.com/learn-while-loop-in-python/)".
@@ -144,7 +140,7 @@ else:
  CodeGPT will generate new code that implements the requested refactoring.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Explaining Your Code With CodeGPT
@@ -181,6 +177,10 @@ def divide(x, y):
 
  These are clear and correct inline comments.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding How Generative AI Works
 
  CodeGPT utilizes the power of generative AI for all its features. It may not always provide the correct information. Hence, you need to counter-check whether its results are correct. Understanding how generative AI works will help you become familiar with its strengths and weaknesses.
@@ -204,20 +204,20 @@ def divide(x, y):
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-ultimate-mic-showdown-for-podcasters/"><u>[New] 2024 Approved Ultimate Mic Showdown for Podcasters</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-efficient-techniques-for-youtube-shorts-revenue/"><u>[New] Efficient Techniques for YouTube Shorts Revenue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-tackling-the-irritating-quirks-urgent-solutions-apple-must-implement-for-iphone-users-insights-from-zdnet/"><u>1. Tackling the Irritating Quirks: Urgent Solutions Apple Must Implement for iPhone Users - Insights From ZDNet</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/break-free-from-iphone-stuck-at-attempting-data-recovery-with-these-fixes/"><u>Break Free From iPhone Stuck at 'Attempting Data Recovery' With These Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevated-exchanges-the-pros-and-cons-of-chatgpt-upgrade/"><u>Elevated Exchanges: The Pros and Cons of ChatGPT Upgrade</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-the-new-world-of-chatgpt-with-ios/"><u>Explore the New World of ChatGPT with iOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-optimizing-gpt-chat-for-offline-use/"><u>Guide: Optimizing GPT-Chat for Offline Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-does-generative-ai-search-work-and-which-companies-are-using-it/"><u>How Does Generative AI Search Work & Which Companies Are Using It?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-100-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor 100</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-15-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone 15 Pro Max iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/insta-fame-strategies-discover-the-ultimate-10-techniques-for-a-viral-photo-or-video/"><u>Insta-Fame Strategies: Discover the Ultimate 10 Techniques for a Viral Photo or Video</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-your-data-crucial-bot-privacy-alerts-3-way/"><u>Protecting Your Data: Crucial Bot Privacy Alerts, 3-Way</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-headphones-for-nintendo-switch/"><u>The Best Headphones for Nintendo Switch</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-flawless-chatgpt-interaction-sidestepping-6-typical-missteps/"><u>The Ultimate Guide to Flawless ChatGPT Interaction: Sidestepping 6 Typical Missteps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-evaluating-vlc-for-screen-recordings/"><u>[New] 2024 Approved Evaluating VLC for Screen Recordings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-revolutionize-with-a-stroke-premier-tablet-draw-tools/"><u>[New] Revolutionize with a Stroke Premier Tablet Draw Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/all-now-free-explore-gpt-4-but-dont-disregard-plus-perks/"><u>All Now Free: Explore GPT-4, But Don't Disregard Plus Perks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gtp-innovation-hacks-for-professionals/"><u>Auto-GTP Innovation Hacks for Professionals</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/come-effettuare-una-conversione-da-hevc-a-mp4-con-nessuna-perdita-di-qualita/"><u>Come Effettuare Una Conversione Da HEVC a MP4 Con Nessuna Perdita Di Qualità</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-vector-databases-for-ai-progress/"><u>Exploring Vector Databases for AI Progress</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-unveils-bard-new-ai-to-challenge-chatgpts-dominance/"><u>Google Unveils 'Bard', New AI To Challenge ChatGPT's Dominance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-edge-40-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Edge 40 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-n53-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo N53 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/intrinsic-computation-how-devices-learn-independently/"><u>Intrinsic Computation: How Devices Learn Independently</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/italys-swift-ban-on-chatgpt-whats-the-reason/"><u>Italy's Swift Ban on ChatGPT: What's the Reason?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/joining-live-shows-a-tiktok-perspective-for-2024/"><u>Joining Live Shows A TikTok Perspective for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-talks-with-these-7-ai-tools/"><u>Mastering Talks with These 7 AI Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-voice-chat-issues-in-destiny-2/"><u>Troubleshooting Guide: Fixing Voice Chat Issues in Destiny 2</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-split-your-screen-for-free-top-online-and-offline-video-editors/"><u>Updated In 2024, Split Your Screen for Free Top Online and Offline Video Editors</u></a></li>
 </ul></div>
 

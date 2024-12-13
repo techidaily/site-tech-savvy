@@ -1,7 +1,7 @@
 ---
 title: Setting Up Real-Time Notifications From Slack on Your Apple Smartwatch | TechTips
-date: 2024-12-04T18:38:33.583Z
-updated: 2024-12-06T17:11:39.528Z
+date: 2024-12-11T18:32:48.363Z
+updated: 2024-12-12T16:37:47.178Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
@@ -59,7 +55,7 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
@@ -76,9 +72,17 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -97,6 +101,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -119,26 +127,18 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,16 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-streamlining-your-social-media-presence-with-zoom-and-fb-live/"><u>[New] In 2024, Streamlining Your Social Media Presence with ZOOM & FB Live</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-broadcast-brilliance-transforming-fb-live-for-tv/"><u>[Updated] Broadcast Brilliance Transforming FB Live for TV</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-simplifying-the-art-of-advertising-through-structured-content-for-2024/"><u>[Updated] Simplifying the Art of Advertising Through Structured Content for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-revolutionary-tools-to-create-with-ai/"><u>5 Revolutionary Tools to Create with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-reasons-to-approach-generative-ai-with-caution-in-chat-apps/"><u>7 Reasons to Approach Generative AI with Caution in Chat Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721364760663-alert-fake-gpt-programs-pose-threats-to-online-safety/"><u>Alert: Fake GPT Programs Pose Threats to Online Safety</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721421451434-enhanced-accuracy-in-every-click-bings-ai-driven-search-on-devices/"><u>Enhanced Accuracy in Every Click: Bing’s AI-Driven Search on Devices.</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-guide-screen-capture-on-windows-8-devices-for-2024/"><u>Expert Guide Screen Capture on Windows 8 Devices for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/optimizing-channel-branding-to-skyrocket-subscriber-numbers-for-2024/"><u>Optimizing Channel Branding to Skyrocket Subscriber Numbers for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-f54-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy F54 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-3-easy-steps-for-masterful-image-grading/"><u>[New] 3 Easy Steps for Masterful Image Grading</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-broadcasting-with-a-history-live-transmission-of-pre-recorded-videos/"><u>[New] Broadcasting with a History LIVE Transmission of Pre-Recorded Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-be-selective-stop-instagram-suggested-updates/"><u>[New] In 2024, Be Selective Stop Instagram Suggested Updates</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-best-worth-steadicams-for-high-end-aerial-film-production/"><u>[New] In 2024, Best-Worth Steadicams for High-End Aerial Film Production</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-quick-thumbnail-tips-for-youtube-success/"><u>[Updated] Quick Thumbnail Tips for YouTube Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-chatgpt-cutting-edge-communication-companions/"><u>Beyond ChatGPT: Cutting-Edge Communication Companions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experts-choice-ultimate-guide-to-the-best-airtag-wallets-of-2024-compare-and-buy-smart/"><u>Experts' Choice: Ultimate Guide to the Best AirTag Wallets of 2024 | Compare and Buy Smart!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/full-exploration-of-picsarts-new-features-for-2024/"><u>Full Exploration of PicsArt's New Features for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-high-quality-videos-best-windows-11-tools/"><u>In 2024, High-Quality Videos Best Windows 11 Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-honor-x9b-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor X9b FRP?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-make-memories-shine-video-editing-secrets-for-amateur-filmmakers/"><u>In 2024, Make Memories Shine Video Editing Secrets for Amateur Filmmakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-craft-board-games-images-and-innovation-with-my-bots/"><u>Master Your Craft: Board Games, Images & Innovation with My Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-performance-with-the-new-apple-macbook-pro-m1-max-16-inches-late-2021-an-expert-zdnet-review-of-the-supercharged-flagship-laptop/"><u>Revolutionizing Performance with the New Apple MacBook Pro (M1 Max, 16 Inches, Late 2021): An Expert ZDNet Review of the Supercharged Flagship Laptop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-game-changing-functionality-that-sways-me-away-from-new-m4-mac-minis-this-fall-exploring-apples-latest-offerings-zdnet/"><u>The Game-Changing Functionality That Sways Me Away From New M4 Mac Minis This Fall: Exploring Apple's Latest Offerings | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-genuine-vs-fraudulent-bincrypt-tokens/"><u>Unmasking Genuine vs Fraudulent BinCrypt Tokens</u></a></li>
 </ul></div>
 

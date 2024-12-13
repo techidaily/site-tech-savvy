@@ -1,7 +1,7 @@
 ---
 title: "Phony Botnet Chrome Addon: Steals Social Media Passwords"
-date: 2024-12-02T19:44:02.284Z
-updated: 2024-12-06T23:02:10.394Z
+date: 2024-12-05T23:06:48.018Z
+updated: 2024-12-12T19:55:45.394Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
@@ -45,7 +45,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably [sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Thousands of Facebook Accounts May Have Been Compromised
@@ -55,7 +55,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Malicious App Has Been Removed from Chrome
@@ -63,7 +63,7 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -87,21 +87,15 @@ A malicious Chrome extension using ChatGPT's name is being used to steal users' 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mac-gif-mastery-find-the-best-10-recorders/"><u>[New] In 2024, Mac GIF Mastery Find the Best 10 Recorders</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-streamline-your-workflow-with-best-watermark-apps/"><u>[New] Streamline Your Workflow with Best Watermark Apps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-roadmap-to-making-money-with-personal-videos/"><u>[New] The Roadmap to Making Money with Personal Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-ideal-audio-solution-for-iphone-find-the-best-6-free-apps-for-youtube-to-mp3/"><u>[Updated] In 2024, Ideal Audio Solution for iPhone Find the Best 6 Free Apps for YouTube-to-MP3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-at-hand-ready-for-8-personalized-gpts/"><u>Future at Hand: Ready for 8 Personalized GPTs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insiders-guide-to-mechanical-keyboard-modding/"><u>Insider's Guide to Mechanical Keyboard Modding</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-chatgpt-effective-in-editing-and-proofreading-texts/"><u>Is ChatGPT Effective in Editing and Proofreading Texts?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-learning-outcomes-best-student-centric-ways-to-use-ai-chatbot/"><u>Optimizing Learning Outcomes: Best Student-Centric Ways to Use AI Chatbot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplify-your-inbox-in-minutes-with-this-smart-email-hack-no-need-for-extra-apps-or-separate-mailboxes/"><u>Simplify Your Inbox in Minutes with This Smart Email Hack – No Need for Extra Apps or Separate Mailboxes!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-next-generation-of-wireless-earbuds-anticipating-new-airpods-insights-into-availability-and-pre-order-info/"><u>The Next Generation of Wireless Earbuds: Anticipating New AirPods - Insights Into Availability and Pre-Order Info</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-35-unbeatable-cyber-monday-bargains-on-dell-products-from-retailers-like-best-buy-amazon-and-newegg-zdnet/"><u>Top 35 Unbeatable Cyber Monday Bargains on Dell Products From Retailers Like Best Buy, Amazon & Newegg | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-budget-friendly-tablets-professional-testing-and-reviews-zdnet/"><u>Top Budget-Friendly Tablets : Professional Testing & Reviews - ZDNet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlock-the-potential-of-slow-motion-creation-a-comprehensive-guide-to-impressive-instagram-videos/"><u>Unlock the Potential of Slow-Motion Creation A Comprehensive Guide to Impressive Instagram Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-true-power-of-chatgpt-with-add-ons/"><u>Unlocking the True Power of ChatGPT with Add-Ons</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/eling-vloggers-terrors-and-techniques-to-triumph/"><u>Unraveling Vloggers' Terrors and Techniques to Triumph</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211128301-9781955136938-utterances-from-heaven/"><u>Utterances from "Heaven " | Free Book</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-5-video-conference-recorders-for-seamless-captures/"><u>[Updated] In 2024, Leading 5 Video Conference Recorders for Seamless Captures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/correcting-auditory-issues-in-your-microsoft-office-slideshows/"><u>Correcting Auditory Issues in Your Microsoft Office Slideshows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-run-chatgpt-as-a-windows-app/"><u>How to Install and Run ChatGPT as a Windows App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improve-health-regimens-with-top-8-ai-plugins/"><u>Improve Health Regimens with Top 8 AI Plugins</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovate-communication-apples-siri-and-microsofts-chatgpt/"><u>Innovate Communication: Apple’s Siri & Microsoft's ChatGPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974515891-maintain-the-original-intent-and-meaning-behind-each-piece-of-advice/"><u>Maintain the Original Intent and Meaning Behind Each Piece of Advice.</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mando-a-renowned-crypto-analyst-discloses-top-holders-massive-control-over-pepe-529-doge-532-floki-65n3-and-shib-supplies-75-of-pepe-stakes-held-in-cex-acco1/"><u>Mando, a Renowned Crypto Analyst, Discloses Top Holders' Massive Control Over PEPE (52.9%), DOGE (53.2%), FLOKI (65.n3%) and SHIB Supplies: 75% of PEPE Stakes Held in CEX Accounts</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/rhythms-and-riffs-creating-compelling-beats-for-cinematic-experiences/"><u>Rhythms and Riffs Creating Compelling Beats for Cinematic Experiences</u></a></li>
+<li><a href="https://article-tips.techidaily.com/sketchsphere-complete-evaluation-24-edition/"><u>SketchSphere Complete Evaluation '24 Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trimming-ai-hallucinations-six-effective-phrasing-strategies/"><u>Trimming AI Hallucinations: Six Effective Phrasing Strategies</u></a></li>
 </ul></div>
 

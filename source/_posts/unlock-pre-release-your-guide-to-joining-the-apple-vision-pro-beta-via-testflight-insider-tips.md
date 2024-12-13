@@ -1,7 +1,7 @@
 ---
 title: "Unlock Pre-Release: Your Guide to Joining the Apple Vision Pro Beta via TestFlight – Insider Tips!"
-date: 2024-12-03T18:06:45.016Z
-updated: 2024-12-06T19:45:22.754Z
+date: 2024-12-11T20:06:38.008Z
+updated: 2024-12-12T22:06:09.877Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Airplane Mode
@@ -63,10 +63,6 @@ Screenshot by David Gewirtz/ZDNET
 You can also turn on Airplane Mode directly from the Settings panel. Open Settings from the main dashboard and flip the toggle on. 
 
 Screenshot by David Gewirtz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Travel Mode
 
@@ -99,7 +95,7 @@ As mentioned above, Travel Mode and Airplane Mode are independent settings. That
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Planes, trains, automobiles - and boats
@@ -107,7 +103,7 @@ Screenshot by David Gewirtz/ZDNET
 While I have no intention of taking my Vision Pro out and about, I have had a chance to review the experiences shared by others online. Here are some thoughts for each of the vehicle types you're likely to be traveling in -- _as a passenger_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Airplanes
@@ -128,6 +124,10 @@ ZDNET's [Matthew Miller has used the Vision Pro while commuting](https://www.zdn
 
 He also found that the lenses tended to fog up. While not necessarily a deal-killer, lens issues can be a serious problem when using the device, especially in a humid environment. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Automobiles
 
 While highway travel in a car may seem similar to air and train travel -- at least to the Vision Pro's sensors -- traveling locally is very different. Air and train travel are generally straight-line movements with gentle curves that might not even be noticeable. 
@@ -137,10 +137,6 @@ Highway travel, particularly on long stretches of the national highway system in
 **Also: [Connected cars, powered by AI, will make up 95% of all vehicles on the road by 2030](https://www.zdnet.com/article/connected-cars-powered-by-ai-will-make-up-95-of-all-vehicles-on-the-road-by-2030/)**
 
 Travel mode will certainly help, but expect it to blink in and out depending on what's going on outside the vehicle. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Shipboard travel
 
@@ -155,6 +151,10 @@ I've been on ships in rough seas, and here's the thing: You don't want to be wat
 I've also lived through devastating earthquakes. The [Loma Prieta earthquake](https://en.wikipedia.org/wiki/1989%5FLoma%5FPrieta%5Fearthquake) had a magnitude of 6.9, lasted approximately 15 seconds, and destroyed much of the San Francisco area. Sailing on rough seas is like being in a quake as large or larger than the Loma Prieta quake, but doing it for three, six, 12, or even 24 _hours_. 
 
 If you're sailing and the vessel is rolling or heaving, give up on the entertainment, and do your best not to hurl your lunch. In fact, try not to eat any lunch. Just hang in there until it's over. There will be time to watch _Avatar: The Way of Water_ in 3D another day, when the seas are calm and so is your stomach lining. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Situational awareness
 
@@ -211,20 +211,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-quicker-scaling-ensure-perfect-youtubemac-ratios/"><u>[New] 2024 Approved Quicker Scaling Ensure Perfect Youtube/Mac Ratios</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-photovideo-letter-artistry/"><u>[Updated] 2024 Approved Photo/Video Letter Artistry</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-luts-unveiled-transforming-the-lands-market/"><u>[Updated] LUTs Unveiled Transforming the Lands Market</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-youtubes-rules-the-safe-way-for-2024/"><u>[Updated] Navigating YouTube's Rules The Safe Way for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-premier-screenshots-software-for-linux-users/"><u>2024 Approved Premier Screenshots Software for Linux Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/airplay-setup-for-windows-10-a-comprehensive-tutorial-using-iphone-xsxs-maxxr-devices/"><u>AirPlay Setup for Windows 10 - A Comprehensive Tutorial Using iPhone XS/XS Max/XR Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-the-sound-barrier-gpts-quintuple-ascent-to-fame/"><u>Breaking the Sound Barrier: GPT's Quintuple Ascent to Fame</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/did-you-know-you-can-speak-to-chatgpt/"><u>Did You Know You Can Speak to ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/efficient-time-use-with-chatgpts-4-techniques/"><u>Efficient Time Use with ChatGPT's 4 Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-overlooked-gpt-features-for-innovative-dialogue/"><u>Essential, Overlooked GPT Features for Innovative Dialogue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-latency-leap-from-gpt-35-to-chatgpt-4/"><u>Exploring the Latency Leap: From GPT-3.5 to ChatGPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-onlyoffice-docspace-uses-chatgpt-to-improve-your-productivity/"><u>How ONLYOFFICE DocSpace Uses ChatGPT to Improve Your Productivity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-for-research-and-essays/"><u>How to Use ChatGPT for Research and Essays</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leading-firms-embrace-the-future-with-apple-vision-pro-a-game-changer-for-modern-businesses/"><u>Leading Firms Embrace the Future with Apple Vision Pro - A Game-Changer for Modern Businesses</u></a></li>
-<li><a href="https://win-docs.techidaily.com/buduchi-v-poiske-luchshih-instrumentov-nezheli-seomrush-polnoe-rukovodstvo-po-seo-powersuite-i-analogichnym-resheniyam/"><u>Будучи В Поиске Лучших Инструментов, Нежели SEOmrush: Полное Руководство По SEO PowerSuite И Аналогичным Решениям</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-historical-wisdom-on-youtube-for-students/"><u>[Updated] Historical Wisdom on YouTube for Students</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-clickable-content-climber-software/"><u>2024 Approved Clickable Content Climber Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-digital-worlds-6-chatgpt-based-techniques-for-video-games/"><u>Crafting Digital Worlds: 6 ChatGPT-Based Techniques for Video Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/digiartys-milestone-anniversary-a-special-project-celebrating-18-years-of-innovation/"><u>DigiArty's Milestone Anniversary: A Special Project Celebrating 18 Years of Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-4-powerful-ai-story-generators-to-test/"><u>Discover 4 Powerful AI Story Generators to Test</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-lags-chatgpt-4-versus-its-predecessor-gpt-35/"><u>Exploring the Lags: ChatGPT-4 Versus Its Predecessor GPT-3.5</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-update-or-generate-a-custom-table-of-contents-in-your-epub-book-with-flipbook-a-step-by-step-guide/"><u>How to Update or Generate a Custom Table of Contents in Your ePub Book with FlipBook - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-tidying-up-old-youtube-tracks-bar-free-viewing/"><u>In 2024, Tidying Up Old YouTube Tracks Bar-Free Viewing</u></a></li>
+<li><a href="https://win-data.techidaily.com/protect-your-digital-assets-a-guide-to-creating-a-secure-backup-for-windows-11-upgrades/"><u>Protect Your Digital Assets: A Guide to Creating a Secure Backup for Windows 11 Upgrades</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/queer-movie-recommendations-top-picks-from-netflix-in-jul-24/"><u>Queer Movie Recommendations: Top Picks From Netflix in Jul '24</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-reference-guide-to-overcoming-winscombvc-issues/"><u>Quick Reference Guide to Overcoming WinScombVc Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-benefits-for-microsoft-copilot-over-chatgpt-usage/"><u>Top Benefits for Microsoft Copilot OVER ChatGPT Usage</u></a></li>
 </ul></div>
 

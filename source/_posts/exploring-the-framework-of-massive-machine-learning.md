@@ -1,7 +1,7 @@
 ---
 title: Exploring the Framework of Massive Machine Learning
-date: 2024-12-05T20:42:05.356Z
-updated: 2024-12-06T21:32:13.226Z
+date: 2024-12-05T22:23:54.928Z
+updated: 2024-12-12T18:33:46.661Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is a Large Language Model?
 
  In its simplest terms, an LLM is a massive database of text data that can be referenced to generate human-like responses to your prompts. The text comes from a range of sources and can amount to billions of words.
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 * **Social Media**: Social media represents a huge resource of natural language. LLMs use text from major platforms like Facebook, Twitter, and Instagram.
 
  Of course, having a huge database of text is one thing, but LLMs need to be trained to make sense of it to produce human-like responses. How it does this is what we cover next.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Do LLMs Work?
 
@@ -61,13 +61,13 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
 ![Screenshot of out of context bat reply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-out-of-context-bat-reply.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this instance, we deliberately threw a bit of a curve ball to demonstrate how easily context is lost. But humans can misunderstand the context of questions too, and it only needs an extra prompt to correct the response.
 
 ![Screenshot of question about what type of wood is a bat made from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-question-about-what-type-of-wood-is-a-bat-made-from.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To generate these responses, LLMs use a technique called natural language generation (NLG). This involves examining the input and using the patterns learned from its data repository to generate a contextually correct and relevant response.
 
@@ -88,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
  There is also an argument that ethical concerns can be considered a limitation of LLMs, but this subject falls outside the scope of this article.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 Examples of Popular LLMs
 
  The continuing advance of AI is now largely underpinned by LLMs. So while they aren't exactly a new technology, they have certainly reached a point of critical momentum, and there are now many models.
@@ -102,19 +98,23 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
  Generative Pre-trained Transformer (GPT) is perhaps the most widely known LLM. GPT-3.5 powers the ChatGPT platform used for the examples in this article, while the newest version, GPT-4, is available [through a ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Microsoft also uses the latest version [in its Bing Chat platform](https://www.makeuseof.com/chatgpt-vs-bing-chat-best-generative-ai-chatbot/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. LaMDA
 
  This is the initial LLM used by Google Bard, Google's AI chatbot. The version Bard was initially rolled out with was described as a "lite" version of the LLM. The more powerful PaLM iteration of the LLM superseded this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. BERT
 
  BERT stands for Bi-directional Encoder Representation from Transformers. The bidirectional characteristics of the model differentiate [BERT from other LLMs like GPT](https://www.makeuseof.com/what-is-bert-language-model-how-differ-gpt/).
 
  Plenty more LLMs have been developed, and offshoots are common from the major LLMs. As they develop, these will continue to grow in complexity, accuracy, and relevance. But what does the future hold for LLMs?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Future of LLMs
 
@@ -130,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
  These are just a few of the areas where LLMs are likely to become a larger part of the way we live.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## LLMs Transforming and Educating
@@ -158,22 +158,18 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-leading-9-mic-technology-a-comprehensive-analysis/"><u>[New] In 2024, Leading 9 Mic Technology A Comprehensive Analysis</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-effortlessdataback-take/"><u>[Updated] 2024 Approved EffortlessDataback Take</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-troubleshooting-tips-unearth-hidden-facebook-content/"><u>[Updated] 2024 Approved Troubleshooting Tips Unearth Hidden Facebook Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-superior-choices-elite-webcam-holders/"><u>[Updated] Superior Choices Elite Webcam Holders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-latest-showdown-iphone-16-vs-iphone-15-essential-factors-for-upgraders-zdnet/"><u>Apple's Latest Showdown: IPhone 16 Vs. IPhone 15 - Essential Factors for Upgraders | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-imaginative-realms-with-gpt-3/"><u>Crafting Imaginative Realms with GPT-3</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/hering-digital-dominance-youtube-content-strategy-comparison/"><u>Deciphering Digital Dominance YouTube Content Strategy Comparison</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-the-past-the-pivotal-factors-behind-crowdstrikes-infamous-clash-with-windows-zdnet/"><u>Deciphering the Past: The Pivotal Factors Behind CrowdStrike's Infamous Clash with Windows | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-insider-tips-on-apple-vision-pro-demonstrations-superior-quality-awaits-you-secure-your-spot-today-gadgetguru/"><u>Get Insider Tips on Apple Vision Pro Demonstrations - Superior Quality Awaits You, Secure Your Spot Today! | GadgetGuru</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-profit-from-spotting-code-flaws-in-openais-challenge-arena/"><u>How to Profit From Spotting Code Flaws in OpenAI's Challenge Arena</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-enhance-video-engagement-pinnacle-techniques-in-zoom-editing/"><u>In 2024, Enhance Video Engagement Pinnacle Techniques in Zoom Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-wilderness-planning-with-chatgpt/"><u>Interactive Wilderness Planning with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-employment-success/"><u>Leveraging ChatGPT for Employment Success</u></a></li>
-<li><a href="https://fox-where.techidaily.com/manten-tus-archivos-seguros-al-actualizarreiniciar-windows-11-metodos-faciles-de-implementar/"><u>Mantén Tus Archivos Seguros Al Actualizar/Reiniciar Windows 11: Métodos Fáciles De Implementar</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-video-editing-in-os-x-mavericks-made-easy/"><u>New Edit Like a Pro Video Editing in OS X Mavericks Made Easy</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-innovators-flocking-to-open-source-projects-a-deep-dive-zdnet/"><u>Top Innovators Flocking to Open Source Projects - A Deep Dive | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-air-protectors-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top-Rated iPad Air Protectors : Comprehensive Reviews and Ratings by Tech Experts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-from-pc-to-tablet-master-recording-hulu-across-all-platforms/"><u>[New] 2024 Approved From PC to Tablet Master Recording Hulu Across All Platforms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/xposed-the-hazards-of-fake-follower-purchases-on-youtube-for-2024/"><u>[New] Exposed The Hazards of Fake Follower Purchases on YouTube for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-capturing-cadence-leading-cameras-for-extended-shutter-times/"><u>[Updated] In 2024, Capturing Cadence Leading Cameras for Extended Shutter Times</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-4k-odyssey-begins-here-exploring-the-eizo-cg318-4k-monitor/"><u>2024 Approved A 4K Odyssey Begins Here – Exploring the EIZO CG318-4K Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-ps4-performance-a-comprehensive-guide/"><u>Boosting PS4 Performance: A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/building-a-stylish-tiktok-closing-credits-bar-for-2024/"><u>Building A Stylish TikTok Closing Credits Bar for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-gpts-char-count-restrictions/"><u>Bypassing GPT's Char Count Restrictions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/close-up-cinematography-secrets-with-kinemaster/"><u>Close-Up Cinematography Secrets with Kinemaster</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/efficient-methods-for-sharing-powerful-ppt-in-google-meet-sessions-for-2024/"><u>Efficient Methods for Sharing Powerful PPT in Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-creativity-with-gpt-4-and-the-power-of-dall-e/"><u>Enhancing Creativity with GPT-4 and the Power of DALL-E</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-conversational-support-merging-gpt-with-whatsapp/"><u>Mastering Conversational Support: Merging GPT with WhatsApp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/productivity-unlocked-4-revolutionary-uses-of-chatgpt-for-timing/"><u>Productivity Unlocked: 4 Revolutionary Uses of ChatGPT for Timing</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quickly-restore-touch-id-functionality-essential-tips-for-iphone-and-ipad-users/"><u>Quickly Restore Touch ID Functionality: Essential Tips for iPhone & iPad Users</u></a></li>
 </ul></div>
 

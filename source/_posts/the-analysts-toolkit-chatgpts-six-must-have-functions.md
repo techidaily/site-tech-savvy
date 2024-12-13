@@ -1,7 +1,7 @@
 ---
 title: "The Analyst's Toolkit: ChatGPT’s Six Must-Have Functions"
-date: 2024-11-30T20:28:53.232Z
-updated: 2024-12-07T00:23:09.948Z
+date: 2024-12-10T21:31:13.067Z
+updated: 2024-12-12T23:37:44.076Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/71ccc2fedcffdaa9357153f28278ee3778285e29e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Refine Ideas About a Task
 
@@ -58,19 +62,15 @@ CALCULATE(
 
 ![A prompt response from ChatGPT about a debugging task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image1-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. To Interpret Data and Explain Complex Code
 
 ![A prompt from ChatGPT that displays the explaination of a code block](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image6-v1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. To Write, Edit and Generate Codes, Formula, and Syntax
 
@@ -99,7 +99,7 @@ else:
 ![A prompt that display clearly written code by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image4-v1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Learning New Skills
@@ -108,15 +108,7 @@ else:
 
 ![A prompt that show how to add a static date and time in Tableau.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image5-v1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  By writing a prompt, you can learn about new features and skills, or how to use a specific function in your favorite analytical tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Document Your Codes
 
@@ -266,6 +258,14 @@ ORDER BY e.employee_id;`
 
 ![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Data Analysts Can Use ChatGPT in Their Work
 
  Powerful AI solutions like ChatGPT boost everyone's productivity, even data analysts. Using ChatGPT's natural language processing capabilities and asking the right prompt, data analysts can quickly and accurately get ideas and insight into their tasks.
@@ -291,18 +291,20 @@ ORDER BY e.employee_id;`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-a-detailed-comparison-vsdc-vs-other-recorders/"><u>[New] A Detailed Comparison VSDC vs Other Recorders</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-understanding-user-psychology-in-youtube-shorts-template-design/"><u>2024 Approved Understanding User Psychology in YouTube Shorts Template Design</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/accessing-apple-entertainment-adding-the-apple-tv-application-to-fire-stick/"><u>Accessing Apple Entertainment: Adding the Apple TV Application to Fire Stick</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/enhancing-watchlist-restoring-suggested-videos/"><u>Enhancing Watchlist Restoring Suggested Videos</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-technology-with-tom-your-trusted-source-for-hardware-insights-and-reviews/"><u>Exploring Technology with Tom: Your Trusted Source for Hardware Insights and Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721405554846-free-gpt-4-for-everyone-nonetheless-select-plus-membership-continues-to-provide-unique-services/"><u>Free GPT-4 for Everyone; Nonetheless, Select Plus Membership Continues to Provide Unique Services.</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-united-reviews-the-expert-on-easeus/"><u>In 2024, United Reviews The Expert on EaseUS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intellectual-frontier-can-computers-triumph/"><u>Intellectual Frontier: Can Computers Triumph?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/introducing-ai-driven-verse-creation-in-book-formations/"><u>Introducing AI-Driven Verse Creation in Book Formations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-chatgpt-interactions-with-these-5-essential-strategies/"><u>Master ChatGPT Interactions With These 5 Essential Strategies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigating-youtube-and-instagram-sharing-video-content-without-limits-for-2024/"><u>Navigating YouTube and Instagram Sharing Video Content without Limits for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-the-challenges-steam-reconnects-with-its-network-successfully/"><u>Overcoming the Challenges: Steam Reconnects with Its Network Successfully</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-new-voice-revolution-in-luxury-cars/"><u>The New VOICE Revolution in Luxury Cars</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unmasked-instagram-stories-pcandroidios-exploration-tips-for-2024/"><u>[Updated] Unmasked Instagram Stories PC/Android/iOS Exploration Tips for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-k11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo K11 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/become-a-study-powerhouse-leveraging-chatgpt-for-notes/"><u>Become a Study Powerhouse: Leveraging ChatGPT for Notes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-mixing-expertise-unveiled/"><u>ChatGPT's Mixing Expertise Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enlightened-routines-chatgpt-for-consistent-mindfulness/"><u>Enlightened Routines: ChatGPT for Consistent Mindfulness</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-easy-listen-no-pay-required/"><u>FB Easy Listen No Pay Required</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gptzeros-role-spotlight-on-ai-generated-literature/"><u>GPTZero's Role: Spotlight on AI-Generated Literature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-effortlessly-transform-your-mpg-files-into-mp4-format-on-windows-pc/"><u>How to Effortlessly Transform Your MPG Files Into MP4 Format on Windows PC</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-mac-users-guide-styling-top-tier-ootd-tiktoks/"><u>In 2024, Mac Users' Guide Styling Top-Tier OOTD TikToks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nine-smart-ways-to-implement-auto-gtp/"><u>Nine Smart Ways to Implement Auto-GTP</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/prepare-your-backup-collection-with-world-war-z-a-must-see-movie-thrill-for-zombie-buffs/"><u>Prepare Your Backup Collection with 'World War Z' - A Must-See Movie Thrill for Zombie Buffs</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-unlock-new-gaming-potentials-with-keyboardsmice-87-chars/"><u>Switch: Unlock New Gaming Potentials with Keyboards/Mice (87 Chars)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-poco-x6-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-noise-into-notes-daw-mastery-with-ai-assisted-gpt/"><u>Transforming Noise Into Notes: DAW Mastery with AI-Assisted GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-resist-the-lure-avoiding-ai-generated-windows-keys/"><u>Why Resist the Lure: Avoiding AI Generated Windows Keys</u></a></li>
 </ul></div>
 

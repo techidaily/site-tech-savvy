@@ -1,7 +1,7 @@
 ---
 title: Discovering the World of LangChain and LLMs
-date: 2024-09-12T07:43:23.197Z
-updated: 2024-09-13T07:43:23.197Z
+date: 2024-12-08T20:40:35.433Z
+updated: 2024-12-12T21:47:06.983Z
 tags:
   - chatgpt
   - open-ai
@@ -46,19 +46,6 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
  LangChain’s preprocessing method is a critical feature that is unavoidable as LLMs become more powerful and data-intensive. This method is mainly used in code and semantic search cases because it provides real-time collection and interaction with the LLMs.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## LangChain LLM vs. Other Language Models
 
  The following comparative overview aims to highlight the unique features and capabilities that set LangChain LLM apart from other existing language models in the market:
@@ -70,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 * **Responses**: LangChain provides output parser tools to give answers in a suitable format as opposed to other LLMs whose model response consists of general text. When using AI in an application, it is preferred to have a structured response that you can program against.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Getting Started With LangChain LLM
@@ -81,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Setting Up Your Development Environment
@@ -111,6 +92,10 @@ from langchain.memory import ConversationBufferWindowMemory`
 
  The LangChain classes outline and execute the language model chains.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Access OpenAI API Key
 
  Next, get the OpenAI API key. To access OpenAI’s API key, you must have an OpenAI account, then move to the [OpenAI API platform](https://platform.openai.com/).
@@ -118,13 +103,6 @@ from langchain.memory import ConversationBufferWindowMemory`
  On the dashboard, click on the Profile icon. Then, click the **View API keys** button.
 
 ![OpenAI API key dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-dashboard.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, click the **Create new secret key** button to get a new API key.
 
@@ -134,13 +112,6 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-naming.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will receive a **secret key** prompt.
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
@@ -148,16 +119,7 @@ from langchain.memory import ConversationBufferWindowMemory`
  Copy and store the API key in a safe place for future use.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Developing an Application Using LangChain LLM
@@ -198,6 +160,10 @@ print(output)`
 
 ![Output of developing an application using LangChain](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-output.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Above is the expected output.
 
 ## The Rising Influence of LLMs
@@ -223,5 +189,23 @@ print(output)`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screen-recorder-no-time-limits-for-2024/"><u>[Updated] Screen Recorder No Time Limits for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-achieve-striking-visuals-your-guide-to-uploading-at-correct-dimensions/"><u>2024 Approved Achieve Striking Visuals Your Guide to Uploading at Correct Dimensions</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-y27-4g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y27 4G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-gpt-4-and-gpt-35-key-variances/"><u>Decoding GPT-4 and GPT-3.5 Key Variances</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-vpn-raids-on-privacy-tools/"><u>Deconstructing VPN Raids on Privacy Tools</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-reno-10-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo Reno 10 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratuito-e-simples-mudando-de-dng-para-png-com-o-movavi-convertidor-on-line/"><u>Gratuito E Simples: Mudando De DNG Para PNG Com O Movavi Convertidor On-Line!</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-resolve-a-frozen-windows-setup-tips-from-yl-computing/"><u>How to Resolve a Frozen Windows Setup - Tips From YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-for-writing-difficult-emails-at-work/"><u>How to Use ChatGPT for Writing Difficult Emails at Work</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-powerful-films-for-purpose-and-positivity/"><u>In 2024, Powerful Films for Purpose and Positivity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-boss-for-ai-predicted-impact-on-chatgpt/"><u>New Boss for AI, Predicted Impact on ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-photography-apple-unveils-ai-powered-editing-tool-responding-to-user-text-descriptions-insights/"><u>Revolutionizing Photography: Apple Unveils AI-Powered Editing Tool Responding to User Text Descriptions - Insights</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/securing-your-data-step-by-step-guide-to-safe-mountpoint-setup-with-amazon-s3/"><u>Securing Your Data: Step-by-Step Guide to Safe Mountpoint Setup with Amazon S3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-smartphone-with-chatgpt-and-android/"><u>Transform Your Smartphone with ChatGPT & Android</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-vision-ai-photography-workshop/"><u>Ultimate Vision AI Photography Workshop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-office-writing-word-and-gpt-synergy-unveiled/"><u>Upgrade Your Office Writing: Word and GPT Synergy Unveiled</u></a></li>
+</ul></div>
 

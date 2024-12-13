@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Accuracy of CGP in Medicine
-date: 2024-09-12T07:43:39.737Z
-updated: 2024-09-13T07:43:39.737Z
+date: 2024-12-09T23:54:30.458Z
+updated: 2024-12-12T21:13:43.317Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 >
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Potential for Improving Wellness
@@ -45,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
@@ -56,19 +50,6 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
  There are several use cases for ChatGPT in the realm of health and wellness. For starters, you could use the AI tool to provide you with nutrition advice, including general recommendations on healthy eating habits.
 
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
 
@@ -79,10 +60,7 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
@@ -96,16 +74,7 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
@@ -118,10 +87,7 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
@@ -145,5 +111,26 @@ thumbnail: https://thmb.techidaily.com/e300204a9c5c4ef99d0dbdbfe019e1c08c97d2c1f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-rapidly-constructing-a-dynamic-facebook-visual-narrative/"><u>[New] Rapidly Constructing a Dynamic Facebook Visual Narrative</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-to-facebook-in-a-flash-easy-connection-methods/"><u>[Updated] 2024 Approved Instagram to Facebook in a Flash Easy Connection Methods</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-navigating-playlist-creation-on-youtube-easily/"><u>[Updated] 2024 Approved Navigating Playlist Creation on YouTube Easily</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-micro-musings-video-characters-and-sounds/"><u>2024 Approved Micro Musings Video Characters & Sounds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brilliant-cvs-embracing-ai-for-resume-excellence/"><u>Brilliant CVs: Embracing AI for Resume Excellence</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dive-into-affordable-us-karaoke-delight-enjoy-over-150-minutes-of-entertainment/"><u>Dive Into Affordable U.S. Karaoke Delight - Enjoy Over 150 Minutes of Entertainment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/educational-ai-parental-edition-of-the-new-age-tech/"><u>Educational AI: Parental Edition of the New Age Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-apples-wwdc-2024-revelations-the-essential-4-features-of-ipados-18-and-which-ipads-they-apply-to/"><u>Explore Apple's WWDC 2024 Revelations: The Essential 4 Features of iPadOS 18 & Which iPads They Apply To</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/future-proofing-siri-how-apples-latest-ai-advancements-will-enhance-the-assistant-by-2025-insights-from-zdnet/"><u>Future-Proofing Siri: How Apple's Latest AI Advancements Will Enhance the Assistant by 2025 - Insights From ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 6?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/installing-and-configuring-microsofts-hyper-v-on-windows-10-the-ultimate-how-to-guide/"><u>Installing and Configuring Microsoft's Hyper-V on Windows 10 – The Ultimate How-To Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/ions-pro-3-cam-revealed-a-compact-powerhouse-unveiled-for-2024/"><u>ION's Pro 3 Cam Revealed - A Compact Powerhouse Unveiled for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-your-iphones-control-panel-via-ios-18-settings-expert-advice/"><u>Personalizing Your iPhone's Control Panel via iOS 18 Settings – Expert Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stay-updated-safely-with-macos-1441-a-comprehensive-guide-by-zdnet/"><u>Stay Updated Safely with macOS 14.4.1: A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-presidents-day-savings-unbeatable-discounts-on-amazon-walmart-and-best-buy-exclusive-list/"><u>Top President's Day Savings: Unbeatable Discounts on Amazon, Walmart & Best Buy - Exclusive List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-straps-comprehensive-reviews-and-buyers-guide-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Straps : Comprehensive Reviews & Buyer's Guide by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-straps-of-2024-professional-ratings-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Straps of 2024: Professional Ratings & Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-issues-with-your-wireless-network-device-in-10-steps/"><u>Ultimate Guide: Resolving Issues with Your Wireless Network Device in 10 Steps</u></a></li>
+</ul></div>
 

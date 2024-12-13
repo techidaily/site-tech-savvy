@@ -1,7 +1,7 @@
 ---
 title: "Mastering the iOS 18 Update: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights"
-date: 2024-12-02T16:57:39.819Z
-updated: 2024-12-06T22:55:08.028Z
+date: 2024-12-06T00:36:55.173Z
+updated: 2024-12-12T20:16:49.628Z
 tags:
   - apple
 categories:
@@ -29,10 +29,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -49,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -58,19 +62,11 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -80,6 +76,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-emerging-influencers-marketplace-8-quick-win-practices/"><u>[Updated] 2024 Approved Emerging Influencers' Marketplace 8 Quick-Win Practices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-soundtracks-for-snickers-ringtones-best-online-sources/"><u>[Updated] Soundtracks for Snickers Ringtones' Best Online Sources</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/101-ai-tips-learning-from-9-beginner-friendly-groups/"><u>101 AI Tips: Learning From 9 Beginner-Friendly Groups</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-achieving-video-clarity-with-obs-in-zoom-environments/"><u>2024 Approved Achieving Video Clarity with OBS in Zoom Environments</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-myths-about-gpt-and-the-world-of-digital-assets/"><u>5 Myths About GPT and the World of Digital Assets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-practical-ways-to-use-chatgpt-in-your-job-search/"><u>6 Practical Ways to Use ChatGPT in Your Job Search</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-efficient-ai-driven-hr-queries/"><u>7 Efficient AI-Driven HR Queries</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-chatgpt-side-gigs-are-they-legit-money-making-opportunities/"><u>8 ChatGPT Side Gigs: Are They Legit Money-Making Opportunities?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-dimension-to-hobbies-strategic-play-and-imagery-via-my-bots/"><u>A New Dimension to Hobbies: Strategic Play & Imagery via My Bots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721431165441-chatgpt-at-your-fingertips-android-app-now/"><u>ChatGPT at Your Fingertips - Android App Now</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/effective-strategies-to-capture-and-save-google-voice-dialogues/"><u>Effective Strategies to Capture and Save Google Voice Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721390956327-enhancing-your-dialogues-with-gpt-chrome-edition/"><u>Enhancing Your Dialogues with GPT, Chrome Edition</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-sony-xperia-10-v-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Sony Xperia 10 V Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728476615710-nvme-ssdwindows-11/"><u>NVMe SSDへのWindows 11正式設置マニュアル：ファットパック無しでのセットアップ</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/techniques-faciles-pour-conversion-et-transfert-video-vhs-vers-dvd-via-pc-un-guide-complet/"><u>Techniques Faciles Pour Conversion Et Transfert Vidéo VHS Vers DVD via PC: Un Guide Complet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/video-duration-analysis-for-a-20mb-file-size/"><u>Video Duration Analysis For a 20Mb File Size</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-your-channel-game-tubebuddy-insights-for-2024/"><u>[New] Elevate Your Channel Game - TubeBuddy Insights for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-transforming-shipping-surprises-into-experiences-for-2024/"><u>[New] Transforming Shipping Surprises Into Experiences for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-love-advice-how-chatgpt-helps-you-find-love/"><u>AI Love Advice: How ChatGPT Helps You Find Love</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-natural-language-tech-and-ml/"><u>Comparative Analysis: Natural Language Tech and ML</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-technology-in-every-tick-six-smartwatch-advances-via-gpt/"><u>Conversational Technology in Every Tick: Six Smartwatch Advances via GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-converse-seamlessly-with-chatgpt-across-the-globe/"><u>How to Converse Seamlessly with ChatGPT Across the Globe</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-14-plus-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 14 Plus and iPad</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hunt-down-these-10-vectors-stock-image-websites/"><u>Hunt Down These 10 Vectors Stock Image Websites</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-advances-in-photography-with-lut-technology/"><u>In 2024, Advances in Photography with LUT Technology</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/jailbreaking-vs-standard-use-chatgpt-exploration/"><u>Jailbreaking Vs. Standard Use: ChatGPT Exploration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-drivers-for-geforce-rtx-2080-compatible-with-windows-1078/"><u>Newest Drivers for GeForce RTX 2080: Compatible with Windows 10/7/8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-gym-conversations-with-machine-learning/"><u>Optimizing Gym Conversations with Machine Learning</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/workforce-evolution-gpts-impact-on-employment/"><u>Workforce Evolution: GPT's Impact on Employment?</u></a></li>
 </ul></div>
 

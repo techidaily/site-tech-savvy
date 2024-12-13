@@ -1,7 +1,7 @@
 ---
 title: Grasping the Mechanics of Generative AI
-date: 2024-12-03T01:18:00.901Z
-updated: 2024-12-06T19:33:38.678Z
+date: 2024-12-05T21:21:26.527Z
+updated: 2024-12-12T18:56:52.025Z
 tags:
   - chatgpt
   - open-ai
@@ -34,10 +34,6 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
  One of the most fascinating aspects of using a [generative AI tool like ChatGPT or Google's Bard AI](https://www.makeuseof.com/chatgpt-vs-google-bard/) is the ability of these tools to generate content that matches your request. You ask ChatGPT to write a poem in the style of William Shakespeare, and you get something strikingly similar to Shakespeare's work. You ask it to create a speech in the style of Donald Trump, and you'd get something that impressively mimics the tone of the former US president. So, how is this possible? How is generative AI able to pull off such a fascinating feat?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Generative AI Works
 
  The working mechanism of a generative AI model involves a complex interplay of various deep-learning techniques and algorithms. The exact details of how a generative model works depend on its goals and the underlying architecture. For instance, a generative model for generating audio snippets will have a different working mechanism from one meant for generating videos or text.
@@ -55,22 +51,26 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  There are hundreds of generative AI models currently in development or already being deployed in the consumer AI market. Some of the popular ones you should know of include:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Generative Pre-Trained Transformer (GPT)
 
 ![chatgpt 4 answer question on number of data points june 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-4-answer-question-on-number-of-data-points-june-2023.jpg)
 
- GPT, developed by OpenAI, is among the most recognizable names in the generative AI space. Its popularity hinges on its effectiveness as a conversational AI model and the viral success of the ChatGPT chatbot, which uses GPT as its underlying technology. It is a large language model designed to generate human-like text when prompted. Typical of any generative AI model, [all iterations of the GPT model](https://www.makeuseof.com/gpt-models-explained-and-compared/) have been trained on a massive amount of diverse text data.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ GPT, developed by OpenAI, is among the most recognizable names in the generative AI space. Its popularity hinges on its effectiveness as a conversational AI model and the viral success of the ChatGPT chatbot, which uses GPT as its underlying technology. It is a large language model designed to generate human-like text when prompted. Typical of any generative AI model, [all iterations of the GPT model](https://www.makeuseof.com/gpt-models-explained-and-compared/) have been trained on a massive amount of diverse text data.
 
 ### 2\. Pathways Language Model (PaLM)
 
  PaLM, an experimental large language model by Google, is a powerful generative AI model capable of performing a large range of tasks like creative writing, code generation, language translation, and a number of other text-based natural language tasks. Like GPT, PaLM was trained on a large corpus of text data sourced from a wide array of sources across the web. It is [the AI model that powers Google's Bard AI](https://www.makeuseof.com/what-is-google-palm-2/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Music Language Model (MusicLM)
 
@@ -83,7 +83,7 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  Beyond generative AI models, you'll also find generative AI products like Midjourney, DALL-E image generator, Stable Diffusion image generator, Hugging Chat, and several other impressive AI products powered by generative AI models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Has Generative AI Exploded In Popularity?
@@ -97,7 +97,7 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
  Generative AI tools such as Bing AI, Google's Bard, DALL-E, ChatGPT, and Midjourney have seamlessly woven themselves into the fabric of our daily lives, constantly presenting us with their remarkable creations. Whether it's the captivating write-ups crafted by ChatGPT or the astonishingly lifelike images conjured by Midjourney, generative AI has become an ever-present companion, accompanying us day in and day out. This is the genesis of the recent popularity of generative AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Embrace Generative AI
@@ -121,22 +121,17 @@ ChatGPT, Bing AI, and Google Bard are some of the most recognizable names in the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamers-quest-1000plus-game-adventures-unfolded/"><u>[New] 2024 Approved Gamer's Quest 1,000+ Game Adventures Unfolded</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-how-to-activate-or-deactivate-video-commenting-in-youtube/"><u>2024 Approved How To Activate or Deactivate Video Commenting in YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-integration-into-dev-practices/"><u>AI Integration Into Dev Practices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/confronting-fraudgpts-deception-avoidance-techniques-unveiled/"><u>Confronting FraudGPT's Deception: Avoidance Techniques Unveiled</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-nvidia-rtx-2070-graphics-card-drivers-for-windows-10-8-and-nully-ws/"><u>Get the Newest Nvidia RTX 2070 Graphics Card Drivers for Windows 10, 8 & Nully WS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-top-7-video-software-for-apple-devices-for-2024/"><u>Ideal Top 7 Video Software for Apple Devices for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-note-30-vip-racing-edition-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Note 30 VIP Racing Edition Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insiders-look-at-chatbot-privacy-pitfalls-the-three-most-crucial/"><u>Insider's Look at Chatbot Privacy Pitfalls: The Three Most Crucial</u></a></li>
-<li><a href="https://blog-min.techidaily.com/latest-horror-movie-additions-the-call-evil-dead-sequel-and-fresh-take-on-upside-down/"><u>Latest Horror Movie Additions: 'The Call', 'Evil Dead' Sequel, and Fresh Take on 'Upside Down'</u></a></li>
-<li><a href="https://win11.techidaily.com/privacy-measures-eliminate-email-from-logon-window/"><u>Privacy Measures: Eliminate Email From Logon Window</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protect-your-chatbots-from-unauthorized-inquiry/"><u>Protect Your Chatbots From Unauthorized Inquiry</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-oppo-find-x6-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Oppo Find X6 Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/secure-your-apple-watch-series-9ultra-2-at-unbeatable-prices-before-stoppage-prime-locations-zdnet-insights/"><u>Secure Your Apple Watch Series 9/Ultra 2 at Unbeatable Prices Before Stoppage: Prime Locations | ZDNet Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-next-evolution-of-wireless-earbuds-apple-rumored-to-unveil-cameras-on-new-airpods-by-2026-exclusive/"><u>The Next Evolution of Wireless Earbuds: Apple Rumored to Unveil Cameras on New AirPods by 2026 Exclusive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-list-of-airtag-peripherals-expert-opinions-and-ratings-zdnet/"><u>Ultimate List of AirTag Peripherals : Expert Opinions and Ratings | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-key-traits-of-gpt-4-and-gpt-35/"><u>Unveiling Key Traits of GPT-4 and GPT-3.5</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secure-your-facetime-discussions-with-screen-record/"><u>[New] 2024 Approved Secure Your FaceTime Discussions with Screen Record</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-photo-puzzles-crafted-spark-joy-and-inspiration/"><u>[Updated] Photo Puzzles Crafted Spark Joy and Inspiration</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-choice-for-engaging-type-animations-for-2024/"><u>[Updated] Ultimate Choice for Engaging Type Animations for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chaos-in-communication-why-hackers-love-gpt/"><u>Chaos in Communication: Why Hackers Love GPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-communication-making-calls-on-windows-11-with-unison-app/"><u>Elevate Communication: Making Calls on Windows 11 with Unison App</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-troubleshoot-your-razer-kraken-microphone/"><u>Fixing Issues: How to Troubleshoot Your Razer Kraken Microphone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mislead-no-more-recognize-real-and-rigged-chatgpt-apps/"><u>Mislead No More: Recognize Real and Rigged ChatGPT Apps!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/neural-networks-defended-against-inversion/"><u>Neural Networks Defended Against Inversion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-bottom-line-on-chatgpt-as-an-earnings-engine/"><u>The Bottom Line on ChatGPT as an Earnings Engine</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-password-creation-companion-for-windows-users/"><u>The Ultimate Password Creation Companion for Windows Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/0-youtube-makeup-gurus-for-stunning-looks/"><u>Top 10 YouTube Makeup Gurus for Stunning Looks</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-lol-skirting-startup-snags-and-stalls/"><u>Win: LOL – Skirting Startup Snags and Stalls</u></a></li>
 </ul></div>
 

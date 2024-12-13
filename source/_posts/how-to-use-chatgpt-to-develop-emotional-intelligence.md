@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT to Develop Emotional Intelligence
-date: 2024-11-29T18:46:31.912Z
-updated: 2024-12-06T18:18:42.240Z
+date: 2024-12-11T01:45:42.248Z
+updated: 2024-12-12T16:07:37.720Z
 tags:
   - chatgpt
   - open-ai
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
  Those with high EQ can identify how they are feeling, control their emotions, understand others' feelings, and interact harmoniously with other people. ChatGPT can be used as a playground to experiment with different types of social interactions, It can help you practice delicate conversations and sharpen your understanding of appropriate responses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Learning EQ With ChatGPT
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
  If you've never used this chatbot, learn [how to get the best results from ChatGPT.](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Building Emotional Awareness
 
  Suppose you can't focus on work after a difficult interaction with a friend. Rather than trying to power through, consider instead pulling up ChatGPT and asking, "What might I be feeling if I can't concentrate on work after a disagreement with a friend?"
@@ -57,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 ![Screenshot of ChatGPT providing EQ advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-16-at-8-50-37-am.jpg)
 
  Suddenly, you're not just "feeling bad." You've got a more acute description of how you're feeling: tension and guilt. This articulation is the first step towards understanding and managing your emotions, which are crucial parts of EQ.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enhancing Empathy
 
@@ -73,16 +81,12 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 ![Screenshot of ChatGPT providing advice to develop EQ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-16-at-8-52-45-am.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT might offer something like, "You could say, 'I value our collaborative spirit and feel frustrated when my ideas aren't considered. Could we discuss how to ensure everyone's thoughts are taken into account?'"
 
  And with a simple AI interaction, you've just taken a feeling of frustration and crafted a constructive response—one that is not reactive or overly emotional. That is emotional self-regulation at its finest.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ChatGPT and Relationship Skills
 
@@ -95,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
  Again, you've just practiced a conflict-free way of expressing your needs, which is a huge win for your relationship management skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Effective Prompts for Emotional Intelligence Growth
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 * "What might I be feeling if I'm anxious about an upcoming presentation?" With this one, you're diving deep into self-awareness.
 
 ![Screenshot of ChatGPT providing follow up response regarding anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-2-anxiety-preso.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also ask follow-up questions for advice on how to regulate your anxiety. For example, ask, "How can I respond constructively when I'm criticized?" This prompt is like having a personal tutor for dealing with criticism—a key aspect of emotional self-regulation. Of course, you can always learn [how to write your own effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/).
 
@@ -141,18 +141,18 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-essential-techniques-for-screen-casts-ezvide-edition/"><u>[New] 2024 Approved Essential Techniques for Screen Casts - EZvide Edition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-outro-aesthetics-selecting-templates-any-budget/"><u>[Updated] In 2024, Outro Aesthetics Selecting Templates, Any Budget</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-mastering-quieter-audio-with-progressive-volume-reduction-in-lumafusion/"><u>[Updated] Mastering Quieter Audio with Progressive Volume Reduction in Lumafusion</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-minecraft-homestead-blueprint-6-10-for-2024/"><u>[Updated] Minecraft Homestead Blueprint #6-10 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-pioneering-rpgs-rogelikes-and-their-descendants/"><u>[Updated] Pioneering RPGs Rogelikes & Their Descendants</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-detective-sagas-embark-on-4-thrilling-virtual-investigations/"><u>AI Detective Sagas: Embark on 4 Thrilling Virtual Investigations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/airpods-evolution-continues-as-apple-upgrades-models-with-impressive-4-key-features/"><u>AirPods Evolution Continues as Apple Upgrades Models with Impressive 4 Key Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-github-dialogues-with-enhanced-chatgpt-use/"><u>Cutting-Edge Github Dialogues with Enhanced ChatGPT Use</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-identity-theft-a-statistical-view/"><u>Digital Identity Theft: A Statistical View</u></a></li>
-<li><a href="https://games-able.techidaily.com/easy-steps-to-install-sd-on-steam-deck/"><u>Easy Steps to Install SD on Steam Deck</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/future-proof-companies-with-key-ai-technologies-for-owners/"><u>Future-Proof Companies with Key AI Technologies for Owners</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ai-and-laws-new-terrain/"><u>Navigating AI and Law's New Terrain</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-the-human-brain-triumphs-over-machine-learning/"><u>Why the Human Brain Triumphs Over Machine Learning</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-from-obscurity-to-popularity-facebooks-best-follower-growth-methods/"><u>[New] 2024 Approved From Obscurity to Popularity Facebook's Best Follower Growth Methods</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-watermark-wisdom-the-10-best-apps-reviewed/"><u>[New] In 2024, Watermark Wisdom The 10 Best Apps Reviewed</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ciq-gains-support-from-linux-experts-as-main-backer-of-rocks-cluster-os-initiative-techinsight/"><u>CIQ Gains Support From Linux Experts as Main Backer of Rocks Cluster OS Initiative - TechInsight</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-xr-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone XR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-world-of-machine-learning-with-shap-e/"><u>Exploring the World of Machine Learning with SHAP E</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-zero-5g-2023-turbo-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Zero 5G 2023 Turbo to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-potential-ais-contributions-towards-optimal-paperclip-arrangement/"><u>Maximizing Potential: AI's Contributions Towards Optimal Paperclip Arrangement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimized-writing-techniques-with-chatgpt-aide/"><u>Optimized Writing Techniques with ChatGPT Aide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/outmoded-or-overlooked-shifting-views-on-turings-test/"><u>Outmoded Or Overlooked? Shifting Views on Turing's Test</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-non-functioning-windows-event-log/"><u>Troubleshooting Non-Functioning Windows Event Log</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-choices-in-video-collaboration-software-for-2024/"><u>Ultimate Choices in Video Collaboration Software for 2024</u></a></li>
 </ul></div>
 

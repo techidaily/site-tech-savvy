@@ -1,7 +1,7 @@
 ---
 title: How Well Does the iPhone nEmeet Standards? Insights and Evaluation by ZDNet
-date: 2024-12-04T01:09:44.819Z
-updated: 2024-12-06T21:17:35.220Z
+date: 2024-12-10T18:02:27.907Z
+updated: 2024-12-13T01:30:57.769Z
 tags:
   - apple
 categories:
@@ -46,7 +46,7 @@ How and why did I come to those conclusions? Let's dig in.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,6 +63,10 @@ How and why did I come to those conclusions? Let's dig in.
 | Colors           | Midnight, Starlight, Blue, Purple, Product RED                    |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Familiar design, with one exception
 
@@ -83,7 +87,7 @@ The side of the iPhone no longer has a SIM card slot.
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Performance and battery life
@@ -111,7 +115,7 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Camera upgrades
@@ -133,7 +137,7 @@ Jason Cipriani/ZDNET
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Safety first
@@ -145,10 +149,6 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 [Buy the Apple iPhone 14 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-14%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -186,21 +186,20 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-guide-to-choosing-a-screen-for-superior-4k-video/"><u>[New] The Ultimate Guide to Choosing a Screen for Superior 4K Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-personalizing-communication-sounds-a-comprehensive-guide-for-whatsapp-ringtone-lovers/"><u>2024 Approved Personalizing Communication Sounds A Comprehensive Guide for WhatsApp Ringtone Lovers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/3-chatbot-privacy-risks-and-concerns-you-should-know-about/"><u>3 Chatbot Privacy Risks and Concerns You Should Know About</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-ways-chatgpt-can-revolutionize-smartwatches/"><u>6 Ways ChatGPT Can Revolutionize Smartwatches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-emerging-technologies-outclassing-gpt-apps-on-smartphones/"><u>7 Emerging Technologies Outclassing GPT Apps on Smartphones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-era-of-job-seeking-exploring-these-6-benefits-of-chatgpt-use/"><u>A New Era of Job Seeking: Exploring These 6 Benefits of ChatGPT Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-dedication-rejecting-unfair-help-from-ai/"><u>Academic Dedication: Rejecting Unfair Help From AI</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discord-audio-disruption-fixes-your-definitive-guide-to-uninterrupted-voice-chats/"><u>Discord Audio Disruption Fixes: Your Definitive Guide to Uninterrupted Voice Chats</u></a></li>
-<li><a href="https://windows11.techidaily.com/handling-isdonedll-malfunction-a-guide-for-w10w11/"><u>Handling ISDone.dll Malfunction: A Guide for W10/W11</u></a></li>
-<li><a href="https://win-docs.techidaily.com/humorous-marketing-tales-and-witty-promotional-anecdotes-with-massmail-tools/"><u>Humorous Marketing Tales & Witty Promotional Anecdotes with MassMail Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-a15-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy A15 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sound-senses-try-our-free-online-rhythm-analyzers/"><u>In 2024, Sound Senses Try Our FREE Online Rhythm Analyzers</u></a></li>
-<li><a href="https://games-able.techidaily.com/seven-verbal-virtuoso-showdowns-for-chat-champions/"><u>Seven Verbal Virtuoso Showdowns for Chat Champions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721394173958-step-up-your-online-research-ai-powered-bing-on-ios-and-android/"><u>Step Up Your Online Research: AI-Powered Bing on iOS and Android</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-6-must-have-applications-to-transform-your-reflection-routine/"><u>The 6 Must-Have Applications to Transform Your Reflection Routine</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721429142152-transform-challenges-into-cash-with-openais-bug-bounty-initiative/"><u>Transform Challenges Into Cash with OpenAI's Bug Bounty Initiative!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-craft-your-fortune-terrarias-best-map-list/"><u>[New] In 2024, Craft Your Fortune Terraria's Best Map List</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-how-to-make-good-youtube-banner-dos-and-donts/"><u>[New] In 2024, How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-uncovering-non-google-ar-accessories-and-tools/"><u>[New] In 2024, Uncovering Non-Google AR Accessories and Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-transition-tunes-mastering-crossfading-in-music/"><u>[Updated] In 2024, Transition Tunes Mastering Crossfading in Music</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-echo-chamber-of-creativity-crafting-compelling-podcast-stories/"><u>[Updated] The Echo Chamber of Creativity Crafting Compelling Podcast Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-predictable-gpt-automobile-setup-snags-and-solutions/"><u>6 Predictable GPT Automobile Setup Snags & Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-parameters-that-define-quality-ai-assistants/"><u>7 Parameters That Define Quality AI Assistants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-reasons-why-content-writers-cant-rely-on-ai-chatbots/"><u>8 Reasons Why Content Writers Can't Rely on AI Chatbots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-beginners-primer-on-ai/"><u>A Beginner’s Primer on AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-guide-to-child-centric-chatbot-use-top-5-security-tips/"><u>A Guide to Child-Centric Chatbot Use: Top 5 Security Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-step-by-step-approach-to-clearing-older-gpt-discussions/"><u>A Step-by-Step Approach to Clearing Older GPT Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721417617825-all-now-free-explore-gpt-4-but-dont-disregard-plus-perks/"><u>All Now Free: Explore GPT-4, But Don't Disregard Plus Perks.</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-ensure-complete-game-showcases-on-egs-digital-store/"><u>How to Ensure Complete Game Showcases on EG’s Digital Store</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-xiaomi-redmi-note-12-pro-4g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Xiaomi Redmi Note 12 Pro 4G and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/sneakgaende-videkonvertering-online-gratis-med-movavi-fra-mpg-til-mp4/"><u>Sneakgående Vidékonvertering Online Gratis Med Movavi - Fra MPG Til MP4</u></a></li>
 </ul></div>
 

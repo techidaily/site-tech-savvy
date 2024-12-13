@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT: A Guide for Crafting Engaging Online Services"
-date: 2024-11-30T18:41:56.040Z
-updated: 2024-12-06T17:50:33.932Z
+date: 2024-12-08T22:21:34.733Z
+updated: 2024-12-13T01:37:59.751Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Generating the Blueprint for Your Web App
 
  Just like you'd do when building a web app with any tool, you'd need to lay out the blueprint of what you want your app to look like and the steps you'll need to build it before letting ChatGPT run the show.
@@ -36,16 +40,12 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 
 ![ChatGPT prompt to develop blueprint for web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-to-develop-blueprint-for-web-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After using the prompt above, here's the result we got:
 
 ![Flowchart or blueprint of web app developed by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/flowchart-or-blueprint-of-web-app-developed-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'd need to have the "Show Me" plugin enabled on your ChatGPT account to generate a flowchart like ours above. You can [install and use ChatGPT plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) in just a few steps, although you will need a premium subscription.
@@ -53,6 +53,14 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
  Without the plugin, you'll get a text-based blueprint or an ASCII-art flowchart. That's still okay. Even without the plugin, ChatGPT should still provide a clear blueprint of the app like the example below.
 
 ![text-based breakdown of web app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/text-based-breakdown-of-web-app-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 2: Splitting the Blueprint Into Smaller Modules
 
@@ -63,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 3. Chat module
 
  We had other ideas, but the goal here is to let ChatGPT call the shots.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Building the Registration Component
 
@@ -82,12 +86,16 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 
 ![prompt to generate the registration component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-to-generate-the-registration-component-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Although we didn't include the password field as part of the registration process, ChatGPT made the right call by including it in the generated HTML code. We copied the code without any modifications, and here's how it looks on a browser.
 
 ![Registration page generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/registration-page-generated-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Up next, we prompted ChatGPT to generate the PHP registration script. At first, we prompted with "Write a PHP code for the server-side logic for handling the form submission." Although the generated script worked fine, it had a lot of vulnerabilities.
@@ -106,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 
  With the database set up, we tried our first registration, and it worked without any errors.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Building the Login Component
 
  With the registration component out of the way, we took on the Login component. Surprisingly, it was the easiest to build despite the additional logic of session management.
@@ -123,7 +127,7 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
  After creating a "server.login.php" file as instructed by ChatGPT and adding the generated PHP script, we made our first successful login without any modifications or debugging.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Building the Chat Component
@@ -138,25 +142,21 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 
  When ChatGPT suggests a file name, using a different name in your project might inadvertently cause problems as the chatbot will reference the same name in all the code it creates throughout the project. We found out the hard way. Don't make the same mistake.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Creating the Chat.php Page
 
  To start, we gave ChatGPT detailed instructions on how we wanted the chat interface to look.
 
 ![ChatGPT prompt to generate HTML for the Chat interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-to-generate-html-for-the-chat-interface.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After running the generated HTML code, we had a chat interface without a message input box. To fix this, we simply prompted ChatGPT to "**rewrite the code to include a message input box and a send button.**" Here's how the generated code looks on a browser on the second trial.
 
 ![sample chat interface generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sample-chat-interface-generated-by-chatgpt.jpg)
 
  Whenever generated code fails to give the desired results or omits an important component, simply prompt ChatGPT to rewrite the last code. Tell it to include the component or do whatever wasn't done in the initial code. Here are [some tips on how to use ChatGPT for programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Creating the "send-messages.php" and "Fetch-messages" Page
 
@@ -201,22 +201,21 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/astering-youtubes-networking-finding-and-creating-video-co-ops-for-2024/"><u>[New] Mastering YouTube's Networking Finding and Creating Video Co-Ops for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-world-of-vsco-editing-features/"><u>[New] Navigating the World of VSCO Editing Features</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-step-by-step-for-novices-utilizing-facebook-insights/"><u>[Updated] 2024 Approved Step-by-Step for Novices Utilizing Facebook Insights</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-secure-mp3-conversion-of-live-skype-talks-for-2024/"><u>[Updated] Secure MP3 Conversion of Live Skype Talks for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-stepwise-guide-switch-between-normal-and-pip-views-in-youtube-app/"><u>[Updated] Stepwise Guide Switch Between Normal and PIP Views in YouTube App</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-novice-to-experienced-6-strategies-for-quick-verification-on-instagram/"><u>2024 Approved From Novice to Experienced 6 Strategies for Quick Verification on Instagram</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-leading-eight-safe-video-meeting-systems-for-smbs/"><u>2024 Approved Leading Eight Safe Video Meeting Systems for SMBs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-data-snooping-gpt-and-vpn-connection-tips/"><u>Avoiding Data Snooping: GPT & VPN Connection Tips?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/hot-on-the-heels-of-trends-try-these-tiktoks-now-for-2024/"><u>Hot on the Heels of Trends Try These TikToks Now for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-set-up-auto-gpt-on-ubuntu/"><u>How to Install and Set Up Auto-GPT on Ubuntu</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leadership-in-tech-monitoring-chatgpts-academic-reliability/"><u>Leadership in Tech: Monitoring ChatGPT's Academic Reliability</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-airpods-launch-date-approaching-key-details-and-pre-ordering-steps-revealed-by-zdnet/"><u>New AirPods Launch Date Approaching – Key Details & Pre-Ordering Steps Revealed by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-ideas-top-20-github-curated-chatgpt-dialogues/"><u>Pioneering Ideas: Top 20 Github-Curated ChatGPT Dialogues</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/quick-tutorial-get-snapchat-running-on-macos-for-2024/"><u>Quick Tutorial Get Snapchat Running on macOS for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reach-new-heights-with-9-key-perks-from-chatgpt-plus/"><u>Reach New Heights with 9 Key Perks From ChatGPT Plus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-safety-the-new-non-ai-emergency-message-feature-on-your-iphone-with-ios-18/"><u>Revolutionizing Safety: The New Non-AI Emergency Message Feature on Your iPhone with iOS 18</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-recovering-lost-airpods-and-preventative-measures-for-future-losses-insights-from-zdnet/"><u>The Ultimate Guide: Recovering Lost AirPods & Preventative Measures for Future Losses - Insights From ZDNET</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-demystifying-periscope-its-features-price-and-registration-procedure/"><u>[Updated] In 2024, Demystifying Periscope Its Features, Price & Registration Procedure</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-mixed-media-with-color/"><u>2024 Approved Mastering Mixed Media with Color</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banishing-lag-and-freezes-from-fallout-3-when-played-on-windows-11-systems/"><u>Banishing Lag and Freezes From Fallout 3 When Played on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bing-transformed-with-microsofts-artificial-intelligence/"><u>Bing Transformed with Microsoft’s Artificial Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breakdown-of-hugging-faces-utility-in-ai-technologies/"><u>Breakdown of Hugging Face's Utility in AI Technologies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparative-insights-googles-palm-2-and-openais-gpt-4/"><u>Comparative Insights: Google's PaLM 2 & OpenAI's GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dominate-your-digital-queries-with-perplexity-ai/"><u>Dominate Your Digital Queries with Perplexity AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-therapists-with-ai-driven-cbt-techniques/"><u>Empowering Therapists with AI-Driven CBT Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhanced-efficiency-through-pipefy-and-abbyys-collaborative-document-processing-platform/"><u>Enhanced Efficiency Through Pipefy and ABBYY's Collaborative Document Processing Platform</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/enjoy-youtube-on-roku-discover-2-simple-ways-to-access-and-view-videos/"><u>Enjoy YouTube on Roku? Discover 2 Simple Ways to Access and View Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722960090394-get-the-latest-kodak-printer-software-fast-free-downloads-and-updates/"><u>Get the Latest Kodak Printer Software - Fast, Free Downloads and Updates</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-maximize-profits-selling-your-used-or-damaged-iphone/"><u>How to Maximize Profits: Selling Your Used or Damaged iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-frosty-ambiance-cozy-cinematics-best-bgs-ideas/"><u>In 2024, Frosty Ambiance, Cozy Cinematics Best Bgs Ideas</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/minimize-flaws-4-key-avoidances-when-using-chatgpt/"><u>Minimize Flaws: 4 Key Avoidances When Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-using-chatgpt-for-your-youtube-video-drafts/"><u>Step by Step: Using ChatGPT for Your YouTube Video Drafts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-your-pc-without-a-pin-in-windows-10-a-comprehensive-tutorial/"><u>Unlocking Your PC Without a PIN in Windows 10 - A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Are ChatGPT’s Safeguards Effective Enough?
-date: 2024-12-01T21:20:51.342Z
-updated: 2024-12-06T19:54:56.722Z
+date: 2024-12-09T01:00:33.962Z
+updated: 2024-12-12T20:14:04.780Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT: Security Threats and Issues
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
  This just underscores how important it is to [limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/), which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT a Threat to Your Privacy?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/), but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
  In any case, you should be careful when using ChatGPT, especially [if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt), or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Addressing the Security Risks Associated With ChatGPT
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Raising Awareness Is Key
@@ -101,19 +101,24 @@ thumbnail: https://thmb.techidaily.com/0b17306a3ff43a3354c035a000988ea5867c75fb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-importing-audio-steps-for-inshot-video-editing/"><u>[New] Importing Audio Steps for InShot Video Editing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-harnessing-the-potential-of-youtube-shorts-advertising/"><u>[Updated] Harnessing the Potential of YouTube Shorts Advertising</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advancing-essay-craft-with-chatgpt-expertise/"><u>Advancing Essay Craft with ChatGPT Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creative-catalysts-da-vincis-triumph-in-image-generation-ai/"><u>Creative Catalysts: Da Vinci’s Triumph in Image Generation AI</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-your-podcast-experience-the-art-of-editing-in-garageband/"><u>Enhancing Your Podcast Experience The Art of Editing in GarageBand</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-ralink-driver-downloads-and-updates-for-windows-pcs-complete-guide/"><u>Free Ralink Driver Downloads and Updates for Windows PCs - Complete Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-words-to-waves-mastering-sound-synthesis-via-ai/"><u>From Words to Waves: Mastering Sound Synthesis via AI</u></a></li>
-<li><a href="https://facebook.techidaily.com/identified-influencers-fueling-covid-disbelief/"><u>Identified Influencers Fueling Covid Disbelief</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/keeping-secrets-on-screen-tips-for-private-content-reduction-for-2024/"><u>Keeping Secrets on Screen Tips for Private Content Reduction for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-features-of-llama-2-with-ease/"><u>Navigating the Features of Llama 2 with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-plots-creating-rpgs-in-the-gpt-realm/"><u>Pioneering Plots: Creating RPGs in the GPT Realm</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/supercharge-your-day-examining-7-ways-chatgpt-elevates-productivity/"><u>Supercharge Your Day: Examining 7 Ways ChatGPT Elevates Productivity</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/yn560iv-affordable-speedlite-with-advanced-manual-control/"><u>YN560IV - Affordable Speedlite with Advanced Manual Control</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-speech-impact-accessibility-to-free-voice-modification-software/"><u>[New] In 2024, Elevate Speech Impact Accessibility to Free Voice Modification Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-integrating-timestamps-into-your-images/"><u>[Updated] Integrating Timestamps Into Your Images</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-content-duplication-in-language-bots/"><u>Avoiding Content Duplication in Language Bots</u></a></li>
+<li><a href="https://extra-information.techidaily.com/case-study-approach-learning-from-successful-market-research-examples/"><u>Case Study Approach Learning From Successful Market Research Examples</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/corsair-void-pro-drivers-for-windows-step-by-step-download-tutorial/"><u>Corsair Void Pro Drivers for Windows - Step-by-Step Download Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-identity-creation-no-number-needed-for-services/"><u>Digital Identity Creation: No Number Needed for Services</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enabling-hyper-v-feature-for-optimal-performance-on-windows-11/"><u>Enabling Hyper-V Feature for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-data-to-decisions-the-journey-of-ai-through-transfer-learning/"><u>From Data to Decisions: The Journey of AI Through Transfer Learning</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-realme-gt-5-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Realme GT 5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/loves-future-chatgpt-revolutionizing-relationships/"><u>Love's Future: ChatGPT Revolutionizing Relationships</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-network-neutrality-predictions-for-security/"><u>Navigating Network Neutrality: Predictions for Security</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/perfecting-audio-quality-a-no-mic-approach-for-2024/"><u>Perfecting Audio Quality A No-Mic Approach for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sam-altman-steps-aside-does-it-change-gpt-landscape/"><u>Sam Altman Steps Aside; Does It Change GPT Landscape?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slow-response-analyzing-chatgpt-4-against-gpt-35s-agility/"><u>Slow Response: Analyzing ChatGPT-4 Against GPT-3.5's Agility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solved-windows-1111-slow-boot/"><u>Solved: Windows 11/11 Slow Boot</u></a></li>
+<li><a href="https://video-capture.techidaily.com/soniccapture-pro-review-and-download-steps-for-2024/"><u>SonicCapture Pro Review & Download Steps for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tech-giant-shifts-stance-apple-embraces-new-right-to-repair-regulations/"><u>Tech Giant Shifts Stance: Apple Embraces New Right-to-Repair Regulations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transformative-writing-aids-with-ai-integration/"><u>Transformative Writing Aids with AI Integration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-turings-assessment-and-challengers-in-limelight/"><u>Understanding Turing's Assessment & Challengers in Limelight</u></a></li>
 </ul></div>
 

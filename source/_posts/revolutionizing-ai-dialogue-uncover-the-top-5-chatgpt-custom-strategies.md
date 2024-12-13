@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing AI Dialogue: Uncover the Top 5 ChatGPT Custom Strategies"
-date: 2024-09-12T07:43:19.241Z
-updated: 2024-09-13T07:43:19.241Z
+date: 2024-12-08T21:38:15.615Z
+updated: 2024-12-12T22:28:22.766Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/792170e0e2370b90ed364449dbb33c6317a0c77d0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -53,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/792170e0e2370b90ed364449dbb33c6317a0c77d0
 ## 1\. Specify Safety and Age-Restriction Rules
 
 ![A woman and an access restricted sign](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/access-control-policies.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use [the ChatGPT custom instructions feature](https://www.makeuseof.com/what-is-chatgpt-custom-instructions-feature/) to specify safety rules for your ChatGPT account or those used by minors. If you want to ensure your kid is safe when using ChatGPT, you can use custom instructions to generate responses suitable for children under the age of X, where X is your child's age. You can also get more specific if there are certain topics you want ChatGPT to avoid that may not necessarily be inappropriate for that age.
 
@@ -85,10 +82,7 @@ Please use the key=>value pair provided to determine how to structure your respo
 Whenever I reach out for help regarding a resume, I need you to refer to the information provided at "<https://www.makeuseof.com/how-to-write-cv-for-tech-job/>" to guide our interaction. Based on the insights from that page, you should pose a series of eight targeted questions to me. My responses to these questions will be the foundation upon which you will construct a professional and effective resume tailored to a technology role. This specific procedure should be activated only when I'm seeking assistance with a tech-related resume. Moreover, I would like our exchange to be sequential, where you will present each subsequent question only after I have provided a thorough answer to the one preceding it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Specify Your Writing Style
@@ -104,10 +98,11 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
 ![Personal preference Map in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/personal-preference-map-in-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Provide Data for Personalized Responses
@@ -120,31 +115,14 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
 ![Setting preferred ways to respond using ChatGPT's Custom Instructions feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/setting-preferred-ways-to-respond-using-chatgpt-s-custom-instructions-feature.jpg)
 2. You can make it respond in a way that aligns with your profession.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Setting preferred ways to respond in ChatGPT Custom Instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/setting-preferred-ways-to-respond-in-chatgpt-custom-instructions.jpg)
 3. You can also make it respond to specific professional requirements.  
 ![Setting preferred ways to respond using ChatGPT Custom Instructions feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/setting-preferred-ways-to-respond-using-chatgpt-custom-instructions-feature.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  These are just three quick examples to get the ball rolling, but there are countless ways you can adapt ChatGPT custom instructions to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make the Best of Custom Instructions
@@ -166,5 +144,20 @@ I want you to extract a Personal Preference Map (PPM) from the write-up I provid
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-streamline-your-online-learning-downloading-youtube-srt-subtitles-using-3-simple-methods-for-2024/"><u>[New] Streamline Your Online Learning Downloading YouTube SRT Subtitles Using 3 Simple Methods for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-manual-for-minecraft-playbacks-on-mac/"><u>[New] The Ultimate Manual for Minecraft Playbacks on Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-revolutions-top-features-that-matter-most/"><u>ChatGPT Revolutions: Top Features That Matter Most</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/data-driven-dialogues-design-your-chatgpt-masterpiece/"><u>Data-Driven Dialogues: Design Your ChatGPT Masterpiece</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-redmi-k70-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Redmi K70 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-generative-ai-key-concepts-distilled/"><u>Inside Generative AI: Key Concepts Distilled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-text-input-the-complete-guide-to-using-bing-ai-in-android-keyboards/"><u>Seamless Text Input: The Complete Guide to Using Bing AI in Android Keyboards</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/self-healing-through-tech-are-there-dangers-you-should-watch-for/"><u>Self-Healing Through Tech: Are There Dangers You Should Watch For?</u></a></li>
+<li><a href="https://win11.techidaily.com/skip-mobility-center-windows-11-shortcuts/"><u>Skip Mobility Center: Windows 11 Shortcuts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/testing-chatgpt-in-proofreading/"><u>Testing ChatGPT in Proofreading</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-potential-with-our-8-user-friendly-gpt-variants-use-them-instantly/"><u>Unlock Potential with Our 8 User-Friendly GPT Variants – Use Them Instantly!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-power-of-video-editing-microsofts-guide-for-windows-users/"><u>Updated Discover the Power of Video Editing Microsofts Guide for Windows Users</u></a></li>
+</ul></div>
 

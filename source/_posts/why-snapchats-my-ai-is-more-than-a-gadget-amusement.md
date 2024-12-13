@@ -1,7 +1,7 @@
 ---
 title: Why Snapchat’s My AI Is More Than a Gadget Amusement
-date: 2024-12-04T01:20:39.564Z
-updated: 2024-12-06T20:55:57.329Z
+date: 2024-12-07T23:09:07.150Z
+updated: 2024-12-12T21:19:48.766Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Snapchat uses the same [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
 
  Snapchat’s trainers also use the same datasets. You’ll notice that My AI knows the same things as ChatGPT does, especially with general knowledge questions.
@@ -49,7 +45,7 @@ Close
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Conversations Retain the Last 3,000 Words
@@ -61,6 +57,10 @@ Close
  Take this conversation as an example. We asked My AI to roleplay a fictional character. It maintained the instructed persona even after receiving 2,000+ words of irrelevant information. Other platforms may have dropped prior instructions by this point.
 
 ![Snapchat My AI Roleplaying as Ash Ketchum from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-roleplay-request.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
@@ -87,18 +87,18 @@ Close
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to > **Settings** \> **Privacy Controls** \> **My Location**. Toggle the Ghost Mode button to hide your location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. My AI Solves Intermediate Word Problems Correctly
 
@@ -108,15 +108,15 @@ Close
 
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
 Close
 
  Try rephrasing word problems that My AI answers wrong. You’ll generate better output if you compose clear, detailed prompts—avoid vague phrasing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Snapchat Continuously Updates My AI
 
@@ -127,7 +127,7 @@ Close
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try Snapchat’s New AI Assistant
@@ -155,16 +155,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-vs-camera-edition-deciding-between-gopro-hero-and-polaroid-cube/"><u>[Updated] 2024 Approved Vs. Camera Edition Deciding Between GoPro Hero & Polaroid Cube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-effortless-free-capture-of-your-android-world/"><u>[Updated] In 2024, Effortless Free Capture of Your Android World</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/10-global-tech-titans-talk-about-the-ai-era/"><u>10 Global Tech Titans Talk About the AI Era</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-accelerating-your-tiktok-content-a-quick-guide/"><u>2024 Approved Accelerating Your TikTok Content A Quick Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-footage-techniques-for-outstanding-gopro-edits/"><u>2024 Approved Transform Your Footage Techniques for Outstanding GoPro Edits</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-tactics-to-troubleshoot-and-improve-chatgpt-performance/"><u>9 Tactics to Troubleshoot and Improve ChatGPT Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721429042472-cleanse-tweets-of-cursive-symbols-linuss-disclosures-trojan-explanation-and-chatbot-issues/"><u>Cleanse Tweets of Cursive Symbols, Linus’s Disclosures, Trojan Explanation, & ChatBot Issues.</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-rectify-facebook-video-playback-issues-chrome/"><u>In 2024, Rectify Facebook Video Playback Issues (Chrome)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721429558277-no-emojis-on-twitter-linuss-leaks-trojan-explained-and-chatbot-glitches-highlighted/"><u>No Emojis on Twitter, Linus’s Leaks, Trojan Explained, & ChatBot Glitches Highlighted.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-basics-of-bass-management-technology-explained/"><u>The Basics of Bass Management Technology Explained</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-instagram-success-secrets-8-steps-to-becoming-a-top-poster/"><u>[New] Instagram Success Secrets 8 Steps to Becoming a Top Poster</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-troubleshooting-why-are-your-shorts-thumbnails-hiding/"><u>[Updated] 2024 Approved Troubleshooting Why Are Your Shorts' Thumbnails Hiding?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-essential-list-of-macs-top-snipping-apps-for-2024/"><u>[Updated] The Essential List of Mac's Top Snipping Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fire-browser-excellence-premier-facebook-downloaders-and-addons-for-firefox/"><u>2024 Approved Fire-Browser Excellence Premier Facebook Downloaders & Addons for FireFox</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/culinary-expertise-boosted-by-7-chatgpt-features/"><u>Culinary Expertise Boosted by 7 ChatGPT Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpts-capabilities-for-tough-workplace-tasks/"><u>Harnessing ChatGPT's Capabilities for Tough Workplace Tasks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/masterful-motion-graphics-for-texts/"><u>Masterful Motion Graphics for Texts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-chapter-openais-advanced-ai-model-gpt-4/"><u>Next Chapter: OpenAI's Advanced AI Model GPT-4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-role-of-vpns-in-chatgpt-access/"><u>Understanding the Role of VPNs in ChatGPT Access?</u></a></li>
 </ul></div>
 

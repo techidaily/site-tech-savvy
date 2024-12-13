@@ -1,7 +1,7 @@
 ---
 title: "Detection of Fake Text: OpenAI's Anti-Alias Tech for ChatGPT"
-date: 2024-12-05T19:11:07.882Z
-updated: 2024-12-06T19:59:33.193Z
+date: 2024-12-05T19:45:01.565Z
+updated: 2024-12-12T21:09:56.278Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OpenAI Launches GPT-Classifier to Help Check AI-Written Text
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
  So instead of hoovering up information and recreating its best approximation, the GPT-Classifier attempts to compare similarities between known human text and known AI text to find discrepencies that reveal the source writer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-Classifier's Detection Is Currently Limited
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 ![gpt classifier tool testing human written text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpt-classifier-tool-testing-human-written-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A cursory test of the GPT-Classifier spotted a human-generated example and marked it "very unlikely to be AI-generated," and also correctly indicated that a ChatGPT-generated snippet on USB issues was "possibly AI generated."
@@ -61,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 ![gpt classifier tool testing ai written text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/gpt-classifier-tool-testing-ai-written-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Demand for ChatGPT Detection Is High
@@ -89,21 +89,19 @@ thumbnail: https://thmb.techidaily.com/d506d541a004c51c2cd3026bd49f4e9e82c157f9f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/codebreakers-challenge-navigate-through-4-cybernetic-puzzles/"><u>Codebreakers' Challenge: Navigate Through 4 Cybernetic Puzzles</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-poco-c55-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Poco C55 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-redmi-a2-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi Redmi A2 Device SIM</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-fine-tuning-dimensions-aspect-ratio-essentials/"><u>In 2024, Fine-Tuning Dimensions Aspect Ratio Essentials</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-feature-alert-for-ios-18-users-airpods-pro-to-include-hearing-aid-mode-no-physical-upgrade-necessary-zdnet-insider-info/"><u>New Feature Alert for iOS 18 Users: AirPods Pro to Include Hearing Aid Mode, No Physical Upgrade Necessary | ZDNET Insider Info</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/real-time-combination-of-screenwebcam-feed/"><u>Real-Time Combination of Screen/Webcam Feed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reviving-the-rumors-homeos-spotted-anew-as-part-of-latest-apple-tvos-developer-preview-what-we-know-so-far/"><u>Reviving the Rumors: HomeOS Spotted Anew as Part of Latest Apple tvOS Developer Preview - What We Know So Far</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-hr-routines-via-chatgpt/"><u>Revolutionizing HR Routines via ChatGPT</u></a></li>
-<li><a href="https://fox-http.techidaily.com/strategic-steps-for-pinpointing-a-list-film-creators-for-2024/"><u>Strategic Steps for Pinpointing A-List Film Creators for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailor-your-iphone-experience-on-ios-18-mastering-control-center-customization-with-tips-from-zdnets-latest-article/"><u>Tailor Your iPhone Experience on iOS 18: Mastering Control Center Customization with Tips From ZDNet's Latest Article</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-definitive-guide-to-the-tcl-50s425-a-stellar-mix-of-quality-affordability-and-advanced-features-in-a-50-inch-4k-roku-tv-for-2019/"><u>The Definitive Guide to the TCL 50S425: A Stellar Mix of Quality, Affordability & Advanced Features in a 50-Inch 4K Roku TV for 2019.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-illusory-inkling-of-intelligent-texts-detection-guide/"><u>The Illusory Inkling of Intelligent Texts: Detection Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/understanding-ip-sounds-and-songs-on-instagram-for-2024/"><u>Understanding IP Sounds and Songs on Instagram for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-dialogues-full-potential-three-methods-of-chatgpt-wolfram-plugin-use/"><u>Unleashing Dialogue's Full Potential: Three Methods of ChatGPT-Wolfram Plugin Use</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-imac-with-m1-enhanced-performance-meets-elegant-design/"><u>Unveiling the iMac with M1: Enhanced Performance Meets Elegant Design</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-to-premium-audio-quality-today-flawless-windows-compatible-sades-driver-downloads/"><u>Upgrade to Premium Audio Quality Today! Flawless Windows Compatible Sades Driver Downloads</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigate-facebooks-video-playback-like-a-pro/"><u>[New] In 2024, Navigate Facebook's Video Playback Like a Pro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-filmmakers-guide-seamless-editing-and-uploading-360-degree-footage-for-youtube/"><u>[Updated] A Filmmaker's Guide Seamless Editing & Uploading 360-Degree Footage for YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-might-matrix-the-vital-variants/"><u>AI's Might Matrix: The Vital Variants</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chat-ai-showdown-10-traits-of-gpt-and-bingbot/"><u>Chat AI Showdown: 10 Traits of GPT and BingBot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/command-line-conversations-bash-and-chatgpt/"><u>Command-Line Conversations: Bash and ChatGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/converti-i-file-3gp-direttamente-a-formato-mov-on-line-senza-costi-usando-movavi/"><u>Converti I File 3GP Direttamente a Formato MOV on Line Senza Costi Usando Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-argumentation-skills-with-gpt-assisted-proposals/"><u>Elevate Your Argumentation Skills with GPT-Assisted Proposals</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/guia-de-comandos-esxcli-para-la-administracion-de-maquinas-virtuales-en-linux-herramientas-clave-de-vmware/"><u>Guía De Comandos ESXCLI Para La Administración De Máquinas Virtuales en Linux: Herramientas Clave De VMware</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-lava-yuva-2-devices-by-drfone-android/"><u>How to Reset Gmail Password on Lava Yuva 2 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/investigating-codegpt-is-it-a-new-developer-tool/"><u>Investigating CodeGPT: Is It a New Developer Tool?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-aoc-monitor-detection-errors-on-windows-11-pcs/"><u>Overcoming AOC Monitor Detection Errors on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/storing-permanent-records-of-gpt-talks/"><u>Storing Permanent Records of GPT Talks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-pc-compatibility-for-an-optimal-disco-elysium-experience/"><u>Troubleshooting Tips: Fixing PC Compatibility for an Optimal 'Disco Elysium' Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/windows-compatible-toshiba-driver-downloads-update-seamlessly-today/"><u>Windows Compatible Toshiba Driver Downloads – Update Seamlessly Today!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Self-Healing Through Tech: Are There Dangers You Should Watch For?"
-date: 2024-12-03T21:04:19.587Z
-updated: 2024-12-06T23:06:24.106Z
+date: 2024-12-11T17:26:03.634Z
+updated: 2024-12-12T19:23:21.536Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Data Biases Produce Harmful Information
 
  AI is inherently amoral. Systems pull information from their datasets and produce formulaic responses to input—they merely follow instructions. Despite this neutrality, [AI biases](https://www.makeuseof.com/what-is-ai-bias/) still exist. Poor training, limited datasets, and unsophisticated language models make chatbots present unverified, stereotypical responses.
@@ -36,19 +40,23 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
  When it comes to mental health treatment, avoid disreputable sources altogether. Managing mental conditions can already be challenging. Having to fact-check advice puts you under unnecessary stress. Instead, focus on your recovery.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. AI Has Limited Real-World Knowledge
 
  Most generative tools have limited real-world knowledge. For instance, OpenAI only trained ChatGPT on information up until 2021\. The below screenshot of a conversation shows its struggle to pull recent reports on anxiety disorder.
 
 ![ChatGPT Can't Tell What Percentage of the Population has Anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-on-anxiety-disorder-statistics.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Considering these constraints, an over-reliance on AI chatbots leaves you prone to outdated, ineffective advice. Medical innovations occur frequently. You need professionals to guide you through new treatment programs and recent findings.
 
  Likewise, ask about disproven methods. Blindly following controversial, groundless practices based on alternative medicine may worsen your condition. Stick to evidence-based options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Security Restrictions Prohibit Certain Topics
 
@@ -57,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
  Although beneficial, guidelines also impede functionality and versatility. Take Bing AI as an example. Its rigid restrictions prevent it from discussing sensitive matters.
 
  However, you should be free to share your negative thoughts—they’re a reality for many. Suppressing them may just cause more complications. Only guided, evidence-based treatment plans will help patients overcome unhealthy coping mechanisms.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI Can’t Prescribe Medication
 
@@ -71,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 ![Bing Chat Explains Anxiety Medication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-prescription-meds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Meanwhile, ChatGPT diverts the topic to alternative medicine. It likely limits outputs to prevent saying anything harmful or misleading.
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
  A professional counselor or therapist would go beyond what AI suggests. You can use AI output as a starting point to better understand academic journals and research papers, but be sure to do deeper research or consult a professional.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Self-Diagnoses Are Rarely Accurate
 
  AI enables self-diagnoses. Instead of paying for therapy, patients ask chatbots to mimic mental health professionals. It’s quicker and cheaper than booking consultations.
@@ -102,11 +102,11 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
 ![ChatGPT Can't Determine Your Disease Based on Symptoms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-explaining-anxiety-symptoms.jpg)
 
- As a general rule, avoid self-diagnosis altogether. Getting on the wrong treatment plan or overlooking symptoms will cause more complications.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ As a general rule, avoid self-diagnosis altogether. Getting on the wrong treatment plan or overlooking symptoms will cause more complications.
 
 ## 7\. AI Has No Access to Your Medical Records
 
@@ -122,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
  The exact limits vary per platform. Bing Chat starts new chats after 20 turns, while ChatGPT remembers the last 3,000 words of conversations. But either way, neither tool will accommodate all your medical records. At best, generative AI tools can only string together select information, such as recent diagnoses or your current emotions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Machines Can’t Empathize With You
 
  Empathy plays a critical role in therapy. Understanding the patient’s goals, needs, lifestyle, internal conflicts, and preferences helps professionals customize treatment options. There’s no one-size-fits-all approach to mental health.
@@ -135,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 ![Bing Chat Can't Empathize With Someone With Depression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-depression.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Meanwhile, ChatGPT asks open-ended questions but provides simplistic tips you’ll find anywhere else online.
@@ -149,10 +153,6 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
  Many find the process overwhelming. And that’s why you should seek help from educated, empathetic professionals instead of advanced language models.
 
  Look for people who’ll support you throughout your journey. They should track your progress, assess which treatment plans work, address persistent symptoms, and analyze your mental health triggers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## You Can’t Replace Consultations With AI Chatbots
 
@@ -179,22 +179,24 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-express-thanks-free-and-premium-video-farewells/"><u>[New] Express Thanks Free and Premium Video Farewells</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-journey-through-depths-with-premium-underwater-cameras-2023/"><u>[New] Journey Through Depths with Premium Underwater Cameras 2023</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-diving-into-video-quality-dslr-vs-mirrorless-cameras-for-2024/"><u>[Updated] Diving Into Video Quality DSLR vs Mirrorless Cameras for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/21-optimizing-your-inbox-with-summarize-and-ai-tools/"><u>21 Optimizing Your Inbox With Summarize & AI Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-ways-to-access-gpt-4-for-free/"><u>4 Ways to Access GPT-4 for Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-essential-prompts-to-amplify-your-ai-interactions/"><u>7 Essential Prompts to Amplify Your AI Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-innovative-applications-eclipsing-openais-mobile-bot/"><u>7 Innovative Applications Eclipsing OpenAI's Mobile Bot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-superior-replacements-for-chatgpt-a-mobile-guide/"><u>8 Superior Replacements for ChatGPT: A Mobile Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-excellence-reimagined-five-innovative-uses-of-ai-for-student-success/"><u>Academic Excellence Reimagined: Five Innovative Uses of AI for Student Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/academic-excellence-with-ai-assistance-chatgpt/"><u>Academic Excellence with AI Assistance: ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-chatbots-unveiled-separating-fact-from-fiction-in-top-9-urban-legends/"><u>AI Chatbots Unveiled: Separating Fact From Fiction in Top 9 Urban Legends</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lava-agni-2-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Lava Agni 2 5G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-3-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 3 Pro Bootloader Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721412546081-new-milestone-achieved-chatgpts-significant-updates-explored/"><u>New Milestone Achieved: ChatGPT’s Significant Updates Explored</u></a></li>
-<li><a href="https://common-error.techidaily.com/total-war-rome-remastered-stability-improvements-crash-problems-solved/"><u>Total War: Rome Remastered Stability Improvements - Crash Problems Solved</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-tecno-camon-20-premier-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Camon 20 Premier 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ree-youtube-end-screen-templates-for-2024/"><u>[New] Free YouTube End Screen Templates for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-a-complete-breakdown-of-what-pfp-means-on-tiktok/"><u>[Updated] 2024 Approved A Complete Breakdown of What PFP Means on TikTok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpts-self-sufficiency-questioned/"><u>Auto-GPT's Self-Sufficiency Questioned</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-bots-future-generative-dialogue-tech/"><u>Beyond Bots: Future Generative Dialogue Tech</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-of-the-lenovo-tab-p11-pro-excellence-marred-by-small-defects/"><u>Comprehensive Review of the Lenovo Tab P11 Pro: Excellence Marred by Small Defects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-fundamental-divergences-of-ml-nlp/"><u>Dissecting the Fundamental Divergences of ML, NLP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-plugins-to-skip-in-gpt-enhancements/"><u>Essential Plugins to Skip in GPT Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fascinating-fact-directly-connect-with-chatgpt/"><u>Fascinating Fact: Directly Connect with ChatGPT</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-the-ai-powered-bing-app-on-android/"><u>How to Use the AI-Powered Bing App on Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-audio-amplification-for-impressive-instagram-reels/"><u>In 2024, Audio Amplification for Impressive Instagram Reels</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-7-plus-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 7 Plus Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-innovative-way-of-merging-gopro-footage-into-continuous-360-degree-narratives/"><u>In 2024, Innovative Way of Merging GoPro Footage Into Continuous 360-Degree Narratives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-mindmapping-innovative-strategies-using-chatgpt/"><u>Mastering the Art of Mindmapping: Innovative Strategies Using ChatGPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-fongo-voip-offerings-an-expert-canadian-service-guide/"><u>Navigating Fongo VoIP Offerings - An Expert Canadian Service Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-misguided-assumption-ai-as-the-future-of-written-communication-jobs/"><u>The Misguided Assumption: AI as the Future of Written Communication Jobs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-next-big-step-in-ai-googles-unveiling-of-palm-2-model/"><u>The Next Big Step in AI: Google's Unveiling of PaLM 2 Model</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-storytelling-secrets-using-chatgpt/"><u>Unlocking Storytelling Secrets Using ChatGPT</u></a></li>
 </ul></div>
 

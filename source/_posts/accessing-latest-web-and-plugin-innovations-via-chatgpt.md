@@ -1,0 +1,153 @@
+---
+title: Accessing Latest Web & Plugin Innovations via ChatGPT
+date: 2024-12-10T17:38:06.830Z
+updated: 2024-12-13T01:46:21.837Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Accessing Latest Web & Plugin Innovations via ChatGPT
+excerpt: This Article Describes Accessing Latest Web & Plugin Innovations via ChatGPT
+thumbnail: https://thmb.techidaily.com/a297ffbc354d264eb1493e128ad67218845cfbc005c6762fe341027fca06ba6f.jpg
+---
+
+## Accessing Latest Web & Plugin Innovations via ChatGPT
+
+OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus users.After months of speculation regarding the internet-connected Plugins, OpenAI has pushed its Plugins live, allowing Plus users to choose whether to turn them on or not using a new Beta feature.Connecting ChatGPT to the internet has been a long-standing request for millions of ChatGPT users, and now, the moment is here.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
+
+ Late on May 12, 2023, an [OpenAI blog post revealed](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) that ChatGPT's Plugin feature would become available to ChatGPT Plus users.
+
+ Up until this point, users could only [gain access to ChatGPT Plugins by signing up](https://www.makeuseof.com/how-sign-up-chatgpt-plugins/) and waiting for access.
+
+> If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## What Are ChatGPT Plugins?
+
+ ChatGPT Plugins are internet-connected tools specifically designed to extend ChatGPT's functionality.
+
+ Until now, ChatGPT's official data cut-off point was towards the end of 2021, [one of ChatGPT's main limitations](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). Where other tools like Microsoft's Bing AI Chat and the newly updated Google Bard connect to the internet to research up-to-date information, ChatGPT lagged behind.
+
+ The first set of ChatGPT Plugins was created and developed by companies such as Expedia, FiscalNote, Instacart, KAYAK, Klarna, Milo, OpenTable, Shopify, Slack, Speak, Wolfram, and Zapier, and will drastically expand ChatGPT's understanding, integration, and usefulness.
+
+ For example, when you gain access to ChatGPT Plugins, you'll be able to use the ChatGPT Kayak Plugin to search for and streamline holiday ideas, find the best deals, and create unique holiday ideas, all from the warm embrace of the ChatGPT interface.
+
+ Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## ChatGPT Can Browse the Web
+
+ That's not all, though.
+
+ OpenAI has also finally granted ChatGPT internet access. Again, like Google Bard and Microsoft Bing AI, ChatGPT can search the web for resources, cross-check information, reference specific data, and give you up-to-the-minute information.
+
+ When you input a web-powered ChatGPT search, it illustrates the steps it takes to search the web, the "clicks" it is making, and the process the AI follows to return information. Those who have [used Auto-GPT will find the process familiar](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/), but it's an enormous step forward for ChatGPT.
+
+ For example, I asked ChatGPT: "Who is the current leader of the F1 World Championship?"
+
+![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
+
+![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Close
+
+ As you can see from the images above, ChatGPT Plus correctly identified Max Verstappen—though I did need to prompt the tool to continue.
+
+ I then asked if ChatGPT Plus with Web Browsing could provide a list of the current F1 World Championship rankings, which it did without any extra prompting:
+
+![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
+
+ Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
+
+## How to Enable ChatGPT Plugins and Web Browsing
+
+ You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
+
+![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
+
+1. Head to your **Settings** in the bottom left-hand corner of the ChatGPT screen
+2. Select **Settings**
+3. Select **Beta features**
+4. Toggle **Web browsing,** and if available, toggle **Plugins**
+
+ After enabling both settings, you'll find new options from the ChatGPT model switcher (where you'd normally switch between GPT-3.5 and GPT-4). You'll now find an option for Web Browsing and one for Plugins.
+
+ From here, you can select either Web Browsing to enable web-connected search or select **Plugin Store** to begin installing and enabling Plugins.
+
+## ChatGPT Is Finally Connected to the Internet
+
+ Internet-connected ChatGPT is finally here. Although the Web Browsing and Plugins are limited to ChatGPT Plus currently, it won't be long until regular ChatGPT users can gain access to internet-powered generative AI.
+
+ What's most interesting about OpenAI's announcement is its proximity to Google's enormous PaLM 2 and Bard AI update on May 10, 2023\. Speculation was rife that OpenAI would have to respond to Google Bard becoming a direct competitor to ChatGPT Plus, and within days, OpenAI finally launches its Web Browsing and Plugins to a much wider audience.
+
+ The generative AI wars are truly underway, and the rapid development will bring tools to the consumer faster than ever. The only question is whether humans can keep up.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-sensation-strategies-for-marketers-and-influencers/"><u>[Updated] 2024 Approved Fb Sensation Strategies for Marketers and Influencers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unlocking-potential-advanced-techniques-for-slug-line-creation/"><u>[Updated] In 2024, Unlocking Potential Advanced Techniques for Slug Line Creation</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/2-effective-methods-sharing-iphone-videos-via-email/"><u>2 Effective Methods: Sharing iPhone Videos via Email</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-are-feedbacks-on-items-monetized-in-videos/"><u>2024 Approved Are Feedbacks on Items Monetized in Videos?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-enhance-your-content-creation-with-top-5-facebook-downloaders/"><u>2024 Approved Enhance Your Content Creation with Top 5 Facebook Downloaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-content-like-a-pro-avoid-these-four-slip-ups-using-chatgpt/"><u>Crafting Content Like a Pro: Avoid These Four Slip-Ups Using ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-powerful-speeches-chatgpts-guide/"><u>Crafting Powerful Speeches: ChatGPT's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/data-mastery-in-excel-where-chatbot-dialogue-stumbles/"><u>Data Mastery in Excel, Where Chatbot Dialogue Stumbles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-day-to-day-chatgpt-integrations/"><u>Discovering Day-to-Day ChatGPT Integrations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-7-tricks-that-work-wonders/"><u>Harnessing AI: 7 Tricks That Work Wonders</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-a14-4g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy A14 4G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-improve-gameplay-performance-for-dying-light-by-fixing-fps-issues/"><u>How to Improve Gameplay Performance for Dying Light by Fixing FPS Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/leading-lenovo-laptop-picks-for-2c24-in-depth-reviews-and-ratings-zdnet/"><u>Leading Lenovo Laptop Picks for 2C24: In-Depth Reviews and Ratings | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-auto-gpt-installation-overcoming-6-frequent-hurdles/"><u>Navigating Auto-GPT Installation: Overcoming 6 Frequent Hurdles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simple-chatgpt-versus-browsing-enhanced-gpt-functions/"><u>Simple ChatGPT Versus Browsing-Enhanced GPT Functions</u></a></li>
+</ul></div>
+

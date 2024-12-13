@@ -1,7 +1,7 @@
 ---
 title: Enhancing Client Engagement with GPT in Therapy Sessions
-date: 2024-12-02T18:38:55.469Z
-updated: 2024-12-06T17:43:55.936Z
+date: 2024-12-11T01:12:46.781Z
+updated: 2024-12-12T20:52:15.743Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT and Cognitive Behavioral Therapy
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
  CBT is a practical method of psychotherapy that focuses on solving everyday problems in your life, such as identifying and changing negative thought patterns. Because CBT often includes discussions and reflections with a therapist, ChatGPT is well suited to replicate the therapeutic process.
 
  You can already [use ChatGPT to improve your emotional intelligence](https://www.makeuseof.com/use-chatgpt-develop-emotional-intelligence/), so why not use it with a CBT focus? After all, CBT has emerged in the research as one of, if not the most, effective forms of psychotherapy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Steps to Use ChatGPT for CBT
 
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
  At the same time, if something feels off or not quite clicking, you can adjust your questions or simply tell ChatGPT in no uncertain terms that it needs to try a different approach or line of reasoning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Writing Effective Prompts for CBT Practice
@@ -70,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
  A good prompt is like giving your GPS coordinates. It leads to a focused, relevant, and in the case of psychotherapy, insightful conversations. Being vague is like telling your GPS, "Take me somewhere fun." You might end up at the world's largest potato museum when you hoped for the beach.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Creating Effective Prompts for CBT With ChatGPT
 
  First and foremost, set ChatGPT up to be a CBT therapist. Consider the following example:
@@ -83,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 ![ChatGPT being trained as CBT therapist-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-chatgpt-being-trained-as-cbt-therapist-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can tweak the above in a way that works best for you.
@@ -98,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
 ![ChatGPT response with actions that can be taken today](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-chatgpt-response-with-actions-that-can-be-taken-today.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Precautions and Limitations of Using ChatGPT for CBT
 
  Keep in mind the following when using ChatGPT for CBT:
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 * Protect your privacy and avoid sharing overly personal information. You never know where your data will end up, even with the most trusted websites.
 * ChatGPT offers general advice based on probabilities and might miss subtle cues that differentiate your situation from the general population. Take its advice with a grain of salt.
 * Consider reaching out to a real professional for deep or complex issues since ChatGPT might lack clinical judgment and intuition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using ChatGPT as a CBT Professional to Improve Mental Well-Being
 
@@ -131,19 +131,20 @@ thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-pro-video-illumination-top-strategies-for-immaculate-cinematography/"><u>[New] 2024 Approved Pro Video Illumination Top Strategies for Immaculate Cinematography</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715859923158-new-next-gen-online-meeting-apps-azoom-no-more/"><u>[New] Next-Gen Online Meeting Apps Azoom No More!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-streamlined-approach-to-iphone-screen-recording-for-2024/"><u>[New] Streamlined Approach to iPhone Screen Recording for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-social-media-stardom-essential-strategies-for-instagram-fame/"><u>[Updated] Unlocking Social Media Stardom Essential Strategies for Instagram Fame</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-in-play-crafting-next-gen-virtual-experiences/"><u>AI in Play: Crafting Next-Gen Virtual Experiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-technological-tide-with-creative-tradition/"><u>Balancing Technological Tide with Creative Tradition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-snapshots-effective-ways-to-restore-focus-on-your-iphones-camera/"><u>Enhance Your Snapshots: Effective Ways To Restore Focus On Your iPhone's Camera</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-identifying-the-optimal-cloud-data-vaults/"><u>In 2024, Identifying the Optimal Cloud Data Vaults</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-hot-40-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Hot 40 Pro Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intellectual-property-the-new-frontier-with-ai/"><u>Intellectual Property: The New Frontier with AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chatgpt-advantage-matrix-platinum-edition/"><u>The ChatGPT Advantage Matrix - Platinum Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-in-a-flash-new-drivers-on-windows-11-ready-now/"><u>Update in a Flash: New Drivers on Windows 11 Ready Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-huggingchat-the-open-source-alternative-to-chatgpt/"><u>What Is HuggingChat? The Open-Source Alternative to ChatGPT</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-enhancing-imagery-add-filters-to-videos-on-devices/"><u>[New] 2024 Approved Enhancing Imagery Add Filters to Videos on Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-xr-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone XR Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatai-breakdown-enhancing-crypto-exchanges-with-gpt/"><u>ChatAI Breakdown: Enhancing Crypto Exchanges with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-engage-in-real-time-conversation/"><u>ChatGPT: Engage in Real-Time Conversation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/entrepreneurs-guide-to-ai-essential-tools-for-todays-business-owners/"><u>Entrepreneur's Guide to AI: Essential Tools for Today’s Business Owners</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultrawide-uhd-dilemranc-which-monitor-wins/"><u>In 2024, The Ultrawide-UHD Dilemranc Which Monitor Wins?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-maximizing-sound-immediately-the-best-volumetric-boost-software-compatible-with-windows/"><u>New In 2024, Maximizing Sound Immediately The Best Volumetric Boost Software Compatible with Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-generation-language-models-expecting-gpt-5s-arrival/"><u>Next Generation Language Models: Expecting GPT-5's Arrival?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-the-impact-of-transfer-learning-techniques/"><u>Revolutionizing AI: The Impact of Transfer Learning Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplified-guide-setup-and-utilize-microsoft-copilot-on-mac/"><u>Simplified Guide: Setup and Utilize Microsoft Copilot on Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/tips-for-finding-hidden-exclusive-photos-on-snapchat-for-2024/"><u>Tips for Finding Hidden, Exclusive Photos on Snapchat for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fix-missing-headphone-detection-issue-on-windows-10/"><u>Troubleshooting: Fix Missing Headphone Detection Issue on Windows 10</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-guide-how-to-backup-your-partytyme-playlist-and-sync-with-pc-quick-seo/"><u>Ultimate Guide: How to Backup Your PartyTyme Playlist & Sync with PC - Quick SEO</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/who-benefits-from-nvidias-adaptable-generative-ai/"><u>Who Benefits From NVIDIA’s Adaptable Generative AI?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zoom-optimization-top-three-transcoder-methods/"><u>Zoom Optimization Top Three Transcoder Methods</u></a></li>
 </ul></div>
 

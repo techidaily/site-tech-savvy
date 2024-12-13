@@ -1,7 +1,7 @@
 ---
 title: "Data-Driven Dialogues: Design Your ChatGPT Masterpiece"
-date: 2024-12-01T18:50:58.877Z
-updated: 2024-12-06T21:32:41.565Z
+date: 2024-12-07T18:00:03.865Z
+updated: 2024-12-12T18:17:40.435Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Provide ChatGPT with Custom Data?
 
  Feeding ChatGPT with custom data and providing updated information beyond its knowledge cutoff date provides several benefits over just using ChatGPT as usual. Here are a few of them:
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 * **Current and Accurate Information:** Access to updated information ensures that ChatGPT stays current with the latest developments and knowledge. It can provide accurate responses based on recent events, news, or research, making it a more reliable source of information.
 
  Now that you understand the importance of providing custom data to ChatGPT, here's a step-by-step on how to do so on your local computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 1: Install and Download Software and Pre-Made Script
 
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 * **Download:**[Git](https://git-scm.com/downloads) (Free)
 * **Download:**[Microsoft Visual Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Python3 and Microsoft C++ Installation Notes
 
  When installing Python3, make sure that you tick the **Add python.exe to PATH** option before clicking **Install Now**. This is important as it allows you to access Python in any directory on your computer.
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
  When Installing Microsoft C++, you'll want to install **Microsoft Visual Studio Build Tools** first. Once installed, you can tick the **Desktop development with C++** option and click **Install** with all the optional tools automatically ticked on the right sidebar.
 
 ![Installing Microsoft C++ through Build Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-install-c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that you have installed the latest versions of Python3, Git, and Microsoft C++, you can download the Python script to easily query custom local data.
 
@@ -78,15 +78,15 @@ thumbnail: https://thmb.techidaily.com/43d04728eb067b27b181109747aeff382529cf3d8
 
  Once downloaded, we can now set up a local environment.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 2: Set Up the Local Environment
 
  To set up the environment, you'll need to open a terminal in the chatgpt-retrieval-main folder you downloaded. To do that, open **chatgpt-retrieval-main** folder, right-click, and select **Open in Terminal**.
 
 ![Opening terminal on directory folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-open-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the terminal is open, copy and paste this command:
 
@@ -99,7 +99,7 @@ pip install langchain openai chromadb tiktoken unstructured
 ![Creating secret API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/generate-api-key.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will be provided with a string of characters. This is your OpenAI API key. Copy it by clicking on the copy icon on the side of the API key. Keep note that this API key should be kept secret. Do not share it with others unless you really intend for them to use it with you.
@@ -132,19 +132,15 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 ![Testing ChatGPT with custom data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/visit.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It worked! This means ChatGPT was able to read the Personal Sched.txt provided earlier. Now let's see if we have successfully fed ChatGPT with information it does not know due to its knowledge cutoff date.
 
 ![Asking custom ChatGPT about topic outside knowledge cut off data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/m250x.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you can see, it correctly described the AMD Instinct MI250x, which was released after ChatGPT -3's knowledge cutoff date.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Limitations of Custom ChatGPT
 
@@ -155,6 +151,10 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
  Another issue is that querying ChatGPT like this takes more time to load when compared to asking ChatGPT directly.
 
  Lastly, the only model currently available is GPT-3.5 Turbo. So even if you have access to GPT-4, you won't be able to use it to power your custom ChatGPT instance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Custom ChatGPT Is Awesome But Limited
 
@@ -179,22 +179,18 @@ python [chatgpt.py](http://chatgpt.py) "YOUR QUESTION"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-cg318-4k-unveiled-eizos-high-res-monitor-review/"><u>[New] CG318-4K Unveiled EIZO's High-Res Monitor Review</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-art-of-subtle-soundplayback/"><u>[Updated] 2024 Approved The Art of Subtle Soundplayback</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/10plus-gpt-upgrades-for-mindful-living-and-exercise/"><u>10+ GPT Upgrades for Mindful Living and Exercise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-reasons-to-start-using-claude-3-instead-of-chatgpt/"><u>4 Reasons to Start Using Claude 3 Instead of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-things-you-can-do-with-chatgpts-code-interpreter/"><u>6 Things You Can Do with ChatGPT's Code Interpreter</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-ethical-strategies-for-ai-in-writing-and-editing/"><u>7 Ethical Strategies for AI in Writing and Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-insights-on-integrating-chatgpt-in-health-advice/"><u>7 Insights on Integrating ChatGPT in Health Advice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-prompting-techniques-to-improve-your-chatgpt-responses/"><u>7 Prompting Techniques to Improve Your ChatGPT Responses</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-powerful-strategies-boosting-daily-efficiency-with-gpt/"><u>8 Powerful Strategies: Boosting Daily Efficiency with GPT</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-places-for-pickleball-the-ultimate-ranking-of-americas-top-3-states/"><u>Discover the Best Places for Pickleball: The Ultimate Ranking of America's Top 3 States</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-your-hid-keyboards-driver-with-simple-steps/"><u>Download & Update Your HID Keyboard's Driver with Simple Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721430143746-gpt-4-welcomes-everyone-despite-freedom-to-use-plus-continues-offering-6-superior-services/"><u>GPT-4 Welcomes Everyone: Despite Freedom to Use, Plus Continues Offering 6 Superior Services.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-great-outdoors-choose-between-dji-action-4-gopro-max-360-and-insta360-x3/"><u>In 2024, Exploring the Great Outdoors Choose Between DJi Action 4, GoPro Max 360 & Insta360 X3</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-and-peripherals-at-toms-hardware-hub/"><u>Mastering Gadgets and Peripherals at Tom's Hardware Hub</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/movavi-transforme-avi-em-gif-livre-e-gratuitamente-na-web/"><u>Movavi: Transforme AVI Em GIF Livre E Gratuitamente Na Web</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-realme-c67-4g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Realme C67 4G Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fix-print-screen-function-issues-on-windows-10-and-11/"><u>Troubleshooting Guide: Fix Print Screen Function Issues on Windows 10 & 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-optimal-media-transfer-top-free-youtube-mp3-apps-revealed/"><u>[New] In 2024, Optimal Media Transfer Top Free YouTube-MP3 Apps Revealed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-understanding-the-transformations-in-vegaspro-19/"><u>[New] Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfecting-your-video-stream-zoom-meets-fb-live/"><u>2024 Approved Perfecting Your Video Stream Zoom Meets FB Live</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-solutions-reviving-a-nonfunctional-mic-in-your-rec-room-game-on-pc/"><u>2024 Solutions: Reviving A Nonfunctional Mic In Your Rec Room Game On PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-tale-of-three-ais-facing-the-same-crafted-prompts/"><u>A Tale of Three AI's Facing the Same Crafted Prompts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/critical-look-at-ustream-plus-alternatives/"><u>Critical Look at Ustream, Plus Alternatives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721392929306-cut-the-red-tape-speak-to-chatgpt/"><u>Cut the Red Tape – Speak to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721416691577-exciting-times-for-everyone-gpt-4-is-now-free-plus-still-shines-with-6-benefits/"><u>Exciting Times for Everyone: GPT-4 Is Now Free; Plus Still Shines with 6 Benefits.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721430217196-gpt-3-unveils-game-changing-upgrades-key-highlights/"><u>GPT-3 Unveils Game-Changing Upgrades: Key Highlights!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-18-unveiled-a-step-by-step-guide-to-personalizing-your-iphones-control-center-insights-from-zdnet/"><u>IOS 18 Unveiled: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Insights From ZDNet</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-amd-ryzen-graphics-card-driver-download/"><u>Latest AMD Ryzen Graphics Card Driver Download</u></a></li>
+<li><a href="https://fox-info.techidaily.com/master-windows-11-revolutionary-techniques-for-efficient-video-trimming-for-2024/"><u>Master Window's 11 Revolutionary Techniques for Efficient Video Trimming for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/the-hottest-hashtags-10-twitter-sensations-today/"><u>The Hottest Hashtags 10 Twitter Sensations Today</u></a></li>
 </ul></div>
 

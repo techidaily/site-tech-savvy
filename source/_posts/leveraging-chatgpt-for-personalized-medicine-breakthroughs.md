@@ -1,7 +1,7 @@
 ---
 title: Leveraging ChatGPT for Personalized Medicine Breakthroughs
-date: 2024-09-12T07:44:43.462Z
-updated: 2024-09-13T07:44:43.462Z
+date: 2024-12-06T18:25:57.866Z
+updated: 2024-12-12T21:00:57.034Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 >
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Role of ChatGPT in Public Health?
@@ -46,10 +43,7 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
  What makes ChatGPT special is that it is simpler, user-friendly, and can have human-like conversations. Although both ChatGPT and existing NLP systems in healthcare are not perfect, they can help meet the growing demands of patient care worldwide. NLP is one of the important [medical technologies shaping healthcare's future](https://www.makeuseof.com/medical-technologies-future-healthcare/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use ChatGPT in Healthcare
@@ -57,25 +51,13 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 ![chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/jonathan-kemper-mmuzs5qzuus-unsplash.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, ChatGPT is mainly used in the administrative side of healthcare, and it's proving to be a game-changer for healthcare professionals. It can do many things to make their lives easier, like handling paperwork, checklists, and logs. In a recent survey by [Jackson Healthcare](https://www.healthleadersmedia.com/nursing/nurses-say-distractions-cut-bedside-time-25), most nurses admitted spending 25% of their shift on non-patient tasks, and ChatGPT aims to reduce that burden.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using ChatGPT to Sort Unstructured Data
@@ -83,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
  Unstructured data in the medical field includes things like clinical notes, patient feedback, and medical literature. While you can read it, it becomes hard to search once it piles up in hundreds of documents saved by doctors. As a result, you can't get valuable insights from this data, which is crucial for diagnosis and medical care.
 
  ChatGPT can quickly analyze massive amounts of data—even diagnostics data. Just ask it a specific question with the sorting criteria you need, and it will give you the structured data you are looking for. You can copy its response, save it on a notepad, and open the file in Microsoft Excel to finish the process—problem solved!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Remote Patient Monitoring With ChatGPT
 
@@ -102,10 +77,7 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
  ChatGPT can be like having a personal assistant available all the time for doctors. It can handle client communication, schedule appointments, and even help create emails. Moreover, you can rely on it to summarize clinical notes and the patient's medical history, making your preparation for visits much easier. And with ChatGPT-4's plugin feature, using it has become even simpler. Here's [how you can make the most of ChatGPT plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Has Potential in Healthcare, But Be Careful
@@ -131,5 +103,20 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-happy-enrollment-and-logout-flowchart/"><u>[New] Happy Enrollment & Logout Flowchart</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-critical-examination-of-lg-bp350-screen-size-and-viewing-distance-for-2024/"><u>[Updated] Critical Examination of LG BP350 Screen Size & Viewing Distance for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-transforming-tiktok-to-pop-with-top-gif-tools/"><u>[Updated] In 2024, Transforming TikTok to Pop with Top GIF Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-an-experts-guide-to-accumulating-mass-tiktok-videos-effortlessly/"><u>2024 Approved An Expert's Guide to Accumulating Mass TikTok Videos Effortlessly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-tailor-videos-to-instagrams-preferred-format/"><u>2024 Approved Tailor Videos to Instagram's Preferred Format</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-online-live-streaming-tools-manycam-and-virtual-camera-solutions/"><u>Best Online Live Streaming Tools: ManyCam & Virtual Camera Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-iphone-backup-strategies-using-icloud-and-mac-tools-expert-advice-by-zdnet-unveiled/"><u>Effortless iPhone Backup Strategies Using iCloud and Mac Tools, Expert Advice by ZDNET Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/immerse-yourself-in-play-the-coolest-chatgpt-game-picks-ever/"><u>Immerse Yourself in Play: The Coolest ChatGPT Game Picks Ever</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-savings-on-tech-essentials-get-an-extra-150-off-with-every-mac-or-ipad-purchase-for-students/"><u>Maximize Savings on Tech Essentials! Get an Extra $150 Off with Every Mac or iPad Purchase for Students</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/paradigm-shift-introducing-the-next-ai-era/"><u>Paradigm Shift: Introducing the Next AI Era</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-honor-magic-5-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Honor Magic 5 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-ai-companion-just-got-better-top-9-pluses-of-chatgptplus/"><u>Your AI Companion Just Got Better – Top 9 Pluses of ChatGPT+</u></a></li>
+</ul></div>
 

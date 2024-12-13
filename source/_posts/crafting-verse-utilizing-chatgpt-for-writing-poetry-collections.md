@@ -1,7 +1,7 @@
 ---
 title: "Crafting Verse: Utilizing ChatGPT for Writing Poetry Collections"
-date: 2024-09-12T07:43:57.702Z
-updated: 2024-09-13T07:43:57.702Z
+date: 2024-12-09T01:32:48.651Z
+updated: 2024-12-12T18:10:50.930Z
 tags:
   - chatgpt
   - open-ai
@@ -40,23 +40,9 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
 ![ChatGPT poetry topics to choose from](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-topics.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re curious about what topic your poetry should focus on, ask ChatGPT for a list of themes and pick which ones resonate with you.
 
 ![ChatGPT poetry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-prompt.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You may already know what theme you’re going for. If so, you can ask for prompts about that theme or have ChatGPT ask you questions to help refine your ideas. The questions should be thought-provoking to help you infuse as much emotion into your work as you can. Remember, AI can’t feel, so it’s up to you to make your readers feel your art.
 
@@ -65,16 +51,7 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
  If you really want to test your poetic abilities, ask the AI to suggest a new poetic approach with steps to help guide you. Even if it doesn’t make it to a final draft, it’s still a good exercise to enhance your writing abilities.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Help With Language and Style
@@ -86,10 +63,7 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 ![ChatGPT Poetic Device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-poetic-device.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Using poetic devices can help to make a good poem great. Ask ChatGPT for a poetic device that will fit within the poem structure you’re going for.
@@ -97,20 +71,10 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 ![ChatGPT poetry imagery word options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-imagery.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also ask ChatGPT for some good imagery words that align with the subject of your poem. For example, if you’re writing about the moon’s reflection on top of the water, but you’re having a hard time with wording, you can choose from a list offered by the AI.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Offer Alternative Word Choices
 
@@ -121,10 +85,7 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
  For instance, if you have a line that you know will be about a dying leaf on a stick, but you don’t want to use the word "stick," ask ChatGPT for a more attractive synonym.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Assist With Form and Structure
@@ -134,10 +95,7 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 ![ChatGPT answer for how to write a haiku](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-form.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there’s a particular style of poem you’re looking to write, ChatGPT can give you the guidelines to create it. Additionally, you can ask about rhyme schemes for a poem with a certain amount of lines and choose from the options available.
@@ -150,27 +108,7 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
 ![ChatGPT proofreading a poem with grammatical errors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-proofreading.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In terms of editing, though, you’ll want to make sure that ChatGPT doesn’t change your poetry too much. You still want the work to be your own. Additionally, there’s a good chance that the emotions you’ve purposely embedded into the poems will be altered.
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Suggestions for Poem Arrangement
 
@@ -188,7 +126,15 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
 ![ChatGPT answer for what kind of book to publish for 70 poems](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-poetry-book-publication.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Though these questions will tend to be more of a personal choice, ChatGPT can help guide you with facts and research. Make sure you give enough information so the answer can be tailored to what you have created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Assist With Marketing and Promotion
 
@@ -223,5 +169,21 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-iphone-lengthy-exposure-secrets/"><u>[Updated] The Ultimate iPhone Lengthy Exposure Secrets</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oppo-k11x-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Oppo K11x Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-capturing-screenshots-and-recording-video-on-iphone-tips/"><u>Complete Guide: Capturing Screenshots and Recording Video on iPhone - Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-prevent-and-fix-constant-crashes-in-stardew-valley-on-your-pc/"><u>Expert Tips to Prevent and Fix Constant Crashes in Stardew Valley on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-framework-of-massive-machine-learning/"><u>Exploring the Framework of Massive Machine Learning</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/high-quality-audio-choices-top-wired-earbuds-2024-edition/"><u>High-Quality Audio Choices: Top Wired Earbuds, 2024 Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ranking-the-real-heavies-youtube-video-watch-hours-top-10/"><u>In 2024, Ranking the Real Heavies YouTube Video Watch Hours Top 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instas-friendship-breakdown-detect-it-fast/"><u>Insta's Friendship Breakdown Detect It Fast</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/llama-2-explained-a-comprehensive-overview/"><u>Llama 2 Explained: A Comprehensive Overview</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-rotated-video-conundrum-in-instagrams-feed-for-2024/"><u>The Rotated Video Conundrum in Instagram's Feed for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-picks-unbeatable-headphone-offers-in-march-2023/"><u>Top Picks: Unbeatable Headphone Offers in March 2023</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-productivity-apps-for-the-ipad-streamline-your-tasks-and-boost-efficiency-with-these-picks/"><u>Top Productivity Apps for the iPad: Streamline Your Tasks & Boost Efficiency with These Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unpacking-the-mysteries-of-googles-ai-gemini-its-research-focus/"><u>Unpacking the Mysteries of Google's AI Gemini: Its Research Focus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-c55-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme C55? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

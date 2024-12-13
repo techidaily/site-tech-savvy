@@ -1,7 +1,7 @@
 ---
 title: Navigating the Pitfalls of iOS 18 on Your iPhone - Join Others in Solidarity
-date: 2024-12-01T01:12:20.294Z
-updated: 2024-12-06T20:20:58.228Z
+date: 2024-12-11T16:08:25.365Z
+updated: 2024-12-12T16:17:16.465Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,19 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/10-new-age-conversational-apps-outshining-gpt/"><u>10 New Age Conversational Apps Outshining GPT</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/amazon-enhances-alexa-with-claude-technology-from-anthropic-what-you-need-to-know-zdnet/"><u>Amazon Enhances Alexa with Claude Technology From Anthropic: What You Need to Know - ZDNet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/essential-guide-the-top-10-inexpensive-youtube-channels-for-visual-creators/"><u>Essential Guide The Top 10 Inexpensive YouTube Channels for Visual Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721423078139-from-bots-to-iphones-chatgpt-arrives/"><u>From Bots to iPhones: ChatGPT Arrives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guarding-against-imitations-of-chatgpt-apps/"><u>Guarding Against Imitations of ChatGPT Apps</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/guida-passo-passo-per-la-disattivazione-sicura-delle-unita-ssd-wd-in-windows-1011/"><u>Guida Passo-Passo per La Disattivazione Sicura Delle Unità SSD WD in Windows 10/11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/how-to-fix-srttrailtxt-file-issues-on-windows-11-a-comprehensive-guide-for-16-effective-solutions/"><u>How to Fix SrtTrail.txt File Issues on Windows 11 - A Comprehensive Guide for 16 Effective Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/limited-time-offer-secure-your-deal-on-a-discounted-blink-outdoor-security-system-with-four-cameras-and-led-lighting-for-only-80-celebrate-labor-day-savings181/"><u>Limited Time Offer: Secure Your Deal on a Discounted Blink Outdoor Security System with Four Cameras and LED Lighting for Only $80 - Celebrate Labor Day Savings!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/risks-of-crafting-windows-11-keys-via-ai-bots/"><u>Risks of Crafting Windows 11 Keys via AI Bots</u></a></li>
-<li><a href="https://driver-install.techidaily.com/setup-networking-with-avstar-lan-adapter-on-surface-go/"><u>Setup Networking with AVSTAR LAN Adapter on Surface Go</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-ai-driven-counseling-bots-for-emotional-wellness/"><u>Top 5 AI-Driven Counseling Bots for Emotional Wellness</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-performance-top-windows-11-strategies/"><u>Unlocking Performance Top Windows 11 Strategies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-a-comprehensive-guide-to-online-podcast-recording-for-2024/"><u>[Updated] A Comprehensive Guide to Online Podcast Recording for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-scouting-for-starred-youtube-conversations-for-2024/"><u>[Updated] Scouting for Starred YouTube Conversations for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-safeguarding-photos-best-software-guide-uncovered/"><u>2024 Approved Safeguarding Photos Best Software Guide Uncovered</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accurate-ranking-of-top-tools-for-free-srt-transformations/"><u>Accurate Ranking of Top Tools for FREE Srt Transformations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-authenticity-human-vs-machine-craftsmanship/"><u>Content Authenticity: Human vs Machine Craftsmanship</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-ai-the-new-era-of-interactive-communication/"><u>Conversational AI: The New Era of Interactive Communication</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-reno-11-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo Reno 11 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/in-depth-strategies-for-mastering-seagates-diskwizard-software-saving-and-retrieving-data-with-ease/"><u>In-Depth Strategies for Mastering Seagate's Diskwizard Software - Saving & Retrieving Data with Ease</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introduce-a-budget-friendly-gpt-local-instance-on-windows/"><u>Introduce a Budget-Friendly GPT Local Instance on Windows</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/iphone-xs-max-and-samsung-galaxy-note-tage-face-off-which-tech-titan-wins/"><u>IPhone XS Max and Samsung Galaxy Note Tage Face-Off: Which Tech Titan Wins?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximize-value-10-essential-tips-for-optimal-use-of-youtube-tv/"><u>Maximize Value: 10 Essential Tips for Optimal Use of YouTube TV</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-connection-utilizing-chatgpt-for-social-engagement/"><u>Maximizing Connection: Utilizing ChatGPT for Social Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/nightshades-arsenal-to-outmaneuver-generative-ai-copycats/"><u>Nightshade's Arsenal to Outmaneuver Generative AI Copycats</u></a></li>
 </ul></div>
 

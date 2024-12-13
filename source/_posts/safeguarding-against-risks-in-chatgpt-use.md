@@ -1,7 +1,7 @@
 ---
 title: Safeguarding Against Risks in ChatGPT Use
-date: 2024-12-02T20:06:45.652Z
-updated: 2024-12-06T19:06:17.946Z
+date: 2024-12-11T22:32:24.411Z
+updated: 2024-12-12T23:17:46.530Z
 tags:
   - chatgpt
   - open-ai
@@ -28,15 +28,15 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Will ChatGPT Compromise Your Personal Information?
 
  Most front-end security concerns about ChatGPT stem from speculations and unverified reports. The platform only launched in November 2022, after all. It’s natural for new users to have misconceptions about the privacy and security of unfamiliar tools.
 
  According to [OpenAI’s terms of use](https://openai.com/policies/terms-of-use), here’s how ChatGPT handles the following data:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Personally Identifiable Information
 
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  The platform was launched by OpenAI, a reputable AI research lab funded by tech investors like Microsoft and Elon Musk. ChatGPT should only use customer data to provide the services stated in the [privacy policy](https://openai.com/policies/privacy-policy).
 
  Moreover, ChatGPT asks for minimal information. You can create an account with just your name and email address.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conversations
 
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  According to the [BBC](https://www.sciencefocus.com/future-technology/gpt-3/), OpenAI trained ChaGPT on 300 billion words. It collects data from public web pages, like social media platforms, business websites, and comment sections. Unless you’ve gone off the grid and erased your digital footprint, ChatGPT likely has your information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Security Risks Does ChatGPT Present?
@@ -77,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  Since ChatGPT makes it harder to spot hacking attempts, [take extra care before answering emails](https://www.makeuseof.com/chatgpt-cybersecurity-threat/). As a general rule, avoid divulging information. Note that legitimate companies and organizations rarely ask for confidential PII through random emails.
 
  Learn to spot hacking attempts. Although email providers filter spam messages, some crafty ones could fall through the cracks. You should still know what phishing messages look like.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Data Theft
 
@@ -107,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 ![ChatGPT Writing a Code Snippet for Viruses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-code-snippet.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Intellectual Property Theft
@@ -118,13 +110,13 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
 ![ChatGPT Paraphrasing Text to Avoid Plagiarism](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-paraphrasing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Of course, spinning still classifies as plagiarism. Paraphrased AI articles sometimes rank by chance, but Google generally prefers original content from reputable sources. Cheap tricks and SEO hacks can’t beat high-quality, evergreen writing.
 
  Also, Google releases multiple core updates annually. It will soon focus on removing lazy, unoriginal AI-generated pieces from SERPs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Generating Unethical Responses
 
@@ -136,14 +128,22 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
 ![Asking ChatGPT to Produce Harmful Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bypassing-chatgpt-limits.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The good news is [OpenAI hasn’t lost control of ChatGPT](https://www.makeuseof.com/openai-lost-control-chatgpt/). Its ongoing efforts in tightening restrictions stop ChatGPT from producing unethical responses, regardless of user input. Jailbreaking won’t be as easy moving forward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Quid Pro Quo
 
 ![Searching ChatGPT on Play Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-on-play-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The rapid growth of new, unfamiliar technologies like ChatGPT creates opportunities for quid pro quo attacks. They’re social engineering tactics wherein crooks lure victims with fake offers.
@@ -181,18 +181,17 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-funny-faces-and-posts-your-adobe-way/"><u>[Updated] Funny Faces and Posts Your Adobe Way</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-omnipresent-overture-the-virtual-cinema/"><u>2024 Approved Omnipresent Overture The Virtual Cinema</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/brugde-af-video-voice-changeren-en-vidnesbyrd-pa-en-tydelig-praesentation/"><u>Brugde Af Video Voice-Changeren: En Vidnesbyrd På en Tydelig Præsentation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-newest-magicard-rio-pro-driver-universal-compatibility-windows-1011-81-and-7-supported/"><u>Download the Newest Magicard Rio Pro Driver - Universal Compatibility: Windows 10/11, 8.1 & 7 Supported</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ai-the-strong-versus-the-subdued/"><u>Exploring AI: The Strong versus the Subdued</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-6-fiscal-sensible-options-in-high-res-projection/"><u>In 2024, Leading 6 Fiscal Sensible Options in High-Res Projection</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/make-every-picture-pop-with-these-10-online-photo-fixers-for-2024/"><u>Make Every Picture Pop with These 10 Online Photo Fixers for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/monitor-specifications/"><u>Monitor Specifications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pause-dont-compare-unveiling-ai-distinctions/"><u>Pause, Don't Compare: Unveiling AI Distinctions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/setting-up-alerts-activating-slack-notifications-for-iphone-and-apple-watch-a-step-by-step-guide/"><u>Setting Up Alerts: Activating Slack Notifications for iPhone and Apple Watch - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shedding-light-on-ais-black-box-secrets/"><u>Shedding Light on AI's Black Box Secrets</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-aerial-shots-the-full-potential-of-mi-drone-for-2024/"><u>Unveiling Aerial Shots The Full Potential of MI Drone for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-zoom-audio-high-fidelity-and-unmuted-channels/"><u>[New] In 2024, Mastering Zoom Audio High Fidelity & Unmuted Channels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-apples-audio-content-guidelines/"><u>[New] Understanding Apple’s Audio Content Guidelines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-machine-bonds-with-sentiment-analysis/"><u>Bridging Human-Machine Bonds with Sentiment Analysis</u></a></li>
+<li><a href="https://win-popular.techidaily.com/evaluating-nas-options-in-depth-review-of-unraid-versus-synology-for-data-storage-needs/"><u>Evaluating NAS Options: In-Depth Review of Unraid Versus Synology for Data Storage Needs</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-picks-the-best-image-recovery-apps-compatible-with-pc-and-mac-systems/"><u>Expert Picks: The Best Image Recovery Apps Compatible with PC & Mac Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guia-paso-a-paso-para-crear-subtitulos-en-videos-mp4/"><u>Guía Paso a Paso Para Crear Subtítulos en Videos MP4</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-11x-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme 11X 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-command-the-stage-of-youtube-with-studio-skills/"><u>In 2024, Command the Stage of YouTube with Studio Skills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-look-at-claude-pro-versus-enhanced-chatgptplus/"><u>Inside Look at Claude Pro Versus Enhanced ChatGPT+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mystic-ciphers-and-clues-play-through-4-ai-driven-puzzles/"><u>Mystic Ciphers and Clues: Play Through 4 AI-Driven Puzzles</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-pc-communication-leveraging-rtx-ai-assistant/"><u>Optimize PC Communication: Leveraging RTX AI Assistant</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sports-nutritionists-guide-to-ai-interactions/"><u>Sports Nutritionists' Guide to AI Interactions</u></a></li>
 </ul></div>
 

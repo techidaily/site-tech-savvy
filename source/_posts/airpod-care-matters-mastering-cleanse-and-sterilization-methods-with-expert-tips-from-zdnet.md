@@ -1,7 +1,7 @@
 ---
 title: "AirPod Care Matters: Mastering Cleanse & Sterilization Methods with Expert Tips From ZDNet"
-date: 2024-12-04T19:47:19.703Z
-updated: 2024-12-06T23:52:48.815Z
+date: 2024-12-10T16:55:27.461Z
+updated: 2024-12-12T21:26:47.111Z
 tags:
   - apple
 categories:
@@ -29,14 +29,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -53,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -62,6 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -80,15 +80,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,20 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-10-best-free-video-conferencing-with-screen-sharing/"><u>[New] 10 Best Free Video Conferencing With Screen Sharing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premium-free-excellence-analyzing-and-sharing-best-free-luts/"><u>[New] Premium-Free Excellence Analyzing and Sharing Best Free LUTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-qanda-strategy-for-attracting-audio-lovers/"><u>[Updated] Innovative Q&A Strategy for Attracting Audio Lovers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/10plus-iconic-ae-text-techniques-for-professionals/"><u>10+ Iconic AE Text Techniques for Professionals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-bots-separating-truth-from-ai-mythology/"><u>Beyond Bots: Separating Truth From AI Mythology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/compact-theta-sc2-review-immersive-panoramic-capture/"><u>Compact Theta SC2 Review: Immersive Panoramic Capture</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convert-your-webm-videos-into-animated-gifs-for-free-with-movavis-online-tool/"><u>Convert Your WebM Videos Into Animated GIFs for Free with Movavi's Online Tool!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-gpt4alls-functionality/"><u>Decoding GPT4All's Functionality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/duel-of-the-devices-github-copilot-vs-openais-gpt/"><u>Duel of the Devices: GitHub Copilot Vs. OpenAI's GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-chatgpts-integrity/"><u>Exploring ChatGPT's Integrity</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-how-to-create-a-live-stream-on-youtube-with-the-best-webcams/"><u>In 2024, How to Create a Live Stream on YouTube With the Best Webcams</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-no-cost-endless-chuckles-the-meme-makers-manual/"><u>In 2024, No Cost, Endless Chuckles The Meme Makers' Manual</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leap-into-advanced-chatgpt-top-9-essential-plugins-here/"><u>Leap Into Advanced ChatGPT – Top 9 Essential Plugins Here</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-communication-post-chatgpt-era/"><u>Revolutionizing Communication: Post-ChatGPT Era</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fps-drops-on-dayz-quick-guide-to-smooth-gaming-experience/"><u>Troubleshooting FPS Drops on DayZ - Quick Guide to Smooth Gaming Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-basic-to-creative-zooming-into-video-filters-step-by-step/"><u>[Updated] From Basic to Creative Zooming Into Video Filters Step-by-Step</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-v29-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-intellectual-quests/"><u>AI's Impact on Intellectual Quests</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auditory-instructions-for-effective-chatgpt-commanding/"><u>Auditory Instructions for Effective ChatGPT Commanding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chilling-out-cool-down-the-dough-just-right/"><u>Chilling Out: Cool Down the Dough Just Right</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-ais-potential-four-fee-less-approaches/"><u>Discovering AI's Potential: Four Fee-Less Approaches</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-youtube-strikes-understanding-and-resolving-copyright-issues-for-2024/"><u>Navigating YouTube Strikes Understanding and Resolving Copyright Issues for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/problem-with-final-fantasy-xiv-checking-for-latest-patch-and-updates/"><u>Problem with Final Fantasy XIV Checking for Latest Patch and Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revamping-ai-interactions-googles-gemini-vs-chatgpts-performance/"><u>Revamping AI Interactions – Google’s Gemini Vs. ChatGPT's Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-allure-of-ai-conversations-exploring-bot-usage/"><u>The Allure of AI Conversations: Exploring Bot Usage</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-how-to-fix-wii-console-disc-reading-issues/"><u>Troubleshooting Guide: How to Fix Wii Console Disc Reading Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-buds-pro-2-leaked-details-on-pricing-launch-timeline-and-features/"><u>Upcoming Google Pixel Buds Pro 2 - Leaked Details on Pricing, Launch Timeline & Features</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-realme-12-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme 12 Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/windowsaomei-backupper/"><u>Windows用バックアップ・リカバリソフトAOMEI Backupper - 最適化セットアップガイド</u></a></li>
 </ul></div>
 

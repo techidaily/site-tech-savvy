@@ -1,7 +1,7 @@
 ---
 title: Discover the Quiet Excitement of Apple’s Latest AI Innovations From WWDC - The Surprising Truth You Need to Know
-date: 2024-12-05T23:35:50.702Z
-updated: 2024-12-06T23:15:24.261Z
+date: 2024-12-08T00:01:08.716Z
+updated: 2024-12-12T22:13:33.852Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,22 +191,17 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-break-it-down-free-techniques-to-go-frame-by-frame-on-youtube/"><u>[New] In 2024, Break It Down Free Techniques to Go Frame by Frame on YouTube</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-secrets-to-flawless-game-recording-in-windows-11/"><u>[Updated] Secrets to Flawless Game Recording in Windows 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-sound-system-advances-announced/"><u>[Updated] Sound System Advances Announced</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-from-songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp/"><u>2024 Approved From Songs to Symphony Building a Cohesive YouTube Playlist on Web/App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-reasons-to-question-generative-ai-use-in-chats/"><u>7 Reasons to Question Generative AI Use in Chats</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-top-ai-programs-for-email-composing-and-messaging/"><u>7 Top AI Programs for Email Composing and Messaging</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-the-transformative-shifts-from-gpt-35-to-gpt-4/"><u>A Deep Dive Into the Transformative Shifts From GPT-3.5 to GPT-4</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721411470542-enhancements-arrive-chatgpt-introduces-top-tier-updates/"><u>Enhancements Arrive: ChatGPT Introduces Top-Tier Updates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721435922175-free-gpt-4-for-everyone-still-6-benefits-to-staying-with-plus/"><u>Free GPT-4 for Everyone; Still, 6 Benefits to Staying with Plus.</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721399752193-revolutionize-your-ai-dialogues-powered-by-google-chrome/"><u>Revolutionize Your AI Dialogues, Powered by Google Chrome</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721422530815-shield-up-dont-surrenderflee-googles-bard-app/"><u>Shield Up, Don't Surrender—Flee Google's Bard App</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/step-by-step-instructions-on-downloading-and-playing-audible-titles-on-pcs-and-macbooks/"><u>Step-by-Step Instructions on Downloading and Playing Audible Titles on PCs & MacBooks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721382237884-twitter-without-smiley-face-linuss-hidden-knowledge-trojan-breakdown-and-ai-errors-examined/"><u>Twitter Without Smiley Face, Linus’s Hidden Knowledge, Trojan Breakdown, & AI Errors Examined</u></a></li>
-<li><a href="https://solve-info.techidaily.com/usb-startup-on-your-microsoft-surface-the-ultimate-how-to-tutorial/"><u>USB Startup on Your Microsoft Surface: The Ultimate How-To Tutorial</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11s-guide-to-stable-background-fixes/"><u>Win11's Guide to Stable Background Fixes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-identifying-causes-for-disappearing-youtube-shorts-thumbnails/"><u>[New] 2024 Approved Identifying Causes for Disappearing YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhance-your-images-choosing-great-border-options-on-ig/"><u>[New] In 2024, Enhance Your Images Choosing Great Border Options on IG</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ransform-videos-affordable-high-quality-effs-in-2024/"><u>[New] Transform Videos - Affordable, High-Quality Effs, In 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-how-to-record-iptv-screen/"><u>[Updated] 2024 Approved How to Record IPTV Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-ai-like-chatgpt-have-wordcharacter-count-boundaries/"><u>Does AI, Like ChatGPT, Have Word/Character Count Boundaries?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-digital-dialogue-to-printed-poetry-collections/"><u>From Digital Dialogue to Printed Poetry Collections</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/from-still-to-moving-webcam-capture-basics-for-mac/"><u>From Still to Moving Webcam Capture Basics for Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gamifying-language-text-based-quests-via-chatgpt/"><u>Gamifying Language: Text-Based Quests via ChatGPT</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oppo-a18-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Oppo A18</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-phasmophobia-fixing-the-perpetual-90-load-issue/"><u>Overcome Phasmophobia: Fixing the Perpetual 90% Load Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-truth-behind-grok-ai-insights-from-musk-on-its-purpose-and-price/"><u>The Truth Behind Grok AI - Insights From Musk on Its Purpose & Price</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-shortcomings-of-ai-powered-message-bots/"><u>Unveiling the Shortcomings of AI-Powered Message Bots</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring GPT's Hacking Potential on Financial Systems
-date: 2024-11-29T17:33:51.066Z
-updated: 2024-12-07T00:21:00.440Z
+date: 2024-12-11T18:54:12.338Z
+updated: 2024-12-12T19:14:48.978Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Can Help Cybercriminals Hack Your PC
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hackers, including script kiddies, can [use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many data breaches start with [a successful phishing attack](http://www.makeuseof.com/what-is-phishing/). Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -105,22 +105,20 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fighting-vibration-in-iphone-videos-a-threefold-approach/"><u>[New] Fighting Vibration in iPhone Videos A Threefold Approach</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-secrets-of-fbx-game-recorder-unveiled-for-2024/"><u>[New] Secrets of FBX Game Recorder Unveiled for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-audio-advantage-elevating-sound-quality-in-youtube-productions-for-2024/"><u>[New] The Audio Advantage Elevating Sound Quality in YouTube Productions for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-vector-magic-discovering-the-10-software-picks-you-need/"><u>[New] Vector Magic Discovering the 10 Software Picks You Need</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-direct-engagement-syncing-instagram-with-facebook/"><u>[Updated] 2024 Approved Direct Engagement Syncing Instagram with Facebook</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-efficient-and-reliable-a-comparison-of-the-best-pc-sniping-software/"><u>[Updated] 2024 Approved Efficient & Reliable A Comparison of the Best PC Sniping Software</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-audio-capture-system-testing-guide-for-2024/"><u>[Updated] Audio Capture System Testing Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-rivalry-unique-approach-to-shared-creative-task/"><u>AI Rivalry: Unique Approach to Shared Creative Task</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/freelancers-guide-to-mastering-ai-assistantsbing-chat-vs-chatgpt/"><u>Freelancer's Guide to Mastering AI Assistants—Bing Chat Vs. ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-fix-the-chatgpt-is-at-capacity-right-now-error-on-windows/"><u>How to Fix the ChatGPT Is at Capacity Right Now Error on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 iOS System Issues? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-anymp4-screen-recorder-review/"><u>In 2024, AnyMP4 Screen Recorder Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-dietary-habits-using-ai-insights/"><u>Optimizing Dietary Habits Using AI Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dual-edge-of-ai-on-mental-health-services/"><u>The Dual Edge of AI on Mental Health Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-journey-through-generative-ais-evolution/"><u>The Journey Through Generative AI's Evolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-crafting-dynamic-conversations-with-chatgpt-on-github/"><u>Ultimate Guide to Crafting Dynamic Conversations with ChatGPT on GitHub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/visual-expertise-on-demand-harnessing-chatgpts-ai-scope/"><u>Visual Expertise on Demand: Harnessing ChatGPT’s AI Scope</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-techniques-for-dynamic-and-dramatic-ae-heads-ups/"><u>[New] Advanced Techniques for Dynamic and Dramatic AE Heads-Ups</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-downloading-youtube-playlists-made-simple-and-easy/"><u>[Updated] In 2024, Downloading YouTube Playlists Made Simple & Easy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-guiding-you-through-youtubes-view-limitations/"><u>[Updated] In 2024, Guiding You Through YouTube's View Limitations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-fading-techniques-for-less-intensity-in-logic-pro-tracks/"><u>[Updated] Mastering Fading Techniques for Less Intensity in Logic Pro Tracks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-intersection-of-law-copyright-and-media-on-platforms-like-fb/"><u>2024 Approved The Intersection of Law, Copyright, and Media on Platforms Like FB</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-conversational-dynamics-the-evolution-of-response-mechanisms/"><u>AI Conversational Dynamics: The Evolution of Response Mechanisms</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-domestic-efficiency-chatgpts-role/"><u>AI-Driven Domestic Efficiency: ChatGPT's Role?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-safety-dissecting-cybersecurity-risks/"><u>ChatGPT's Safety: Dissecting Cybersecurity Risks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/developer-decisions-github-copilot-versus-chatgpt-prospects/"><u>Developer Decisions: GitHub Copilot Versus ChatGPT Prospects</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/developing-in-the-era-of-intelligent-tech/"><u>Developing in the Era of Intelligent Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-secret-arsenal-5-features-underutilized-by-most-users/"><u>GPT's Secret Arsenal: 5 Features Underutilized by Most Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nostalgic-portraits-retold-transforming-old-prints-to-digital/"><u>In 2024, Nostalgic Portraits Retold Transforming Old Prints to Digital</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagined-search-bing-embraces-ai/"><u>Reimagined Search: Bing Embraces AI</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-ultimate-guide-to-nikon-j5s-4k-capability-for-2024/"><u>The Ultimate Guide to Nikon J5's 4K Capability for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Integration for PC Users
-date: 2024-12-02T16:38:55.665Z
-updated: 2024-12-06T21:14:59.737Z
+date: 2024-12-08T16:52:02.711Z
+updated: 2024-12-12T23:28:01.017Z
 tags:
   - chatgpt
   - open-ai
@@ -41,12 +41,13 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 ![install this site as an app chatgpt edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-this-site-as-an-app-chatgpt-edge.jpg)
 3. Go to **Apps** and select **Install this site as an app**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 4. In the **Install App** popup, enter a name for the app. For example, enter **ChatGPT**. Entering a name makes it easy to search for the installed app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. To add a custom icon, click the **Edit** button under **Install App** and select an icon from your local drive. For GPT, you can leave it as default.
 6. Click **Install** and wait for Windows to install the site as an app.
 
@@ -58,21 +59,21 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 
  To pin the ChatGPT app, press the **Win** key and type ChatGPT. Right-click the app icon and select **Pin to Start** or **Taskbar**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Uninstall the ChatGPT Web App on Edge
 
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
 3. Click **Uninstall** again to confirm the action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add ChatGPT as a Windows App Using Chrome
 
@@ -93,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 
 ![uninstall chrome shortcut chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chrome-shortcut-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the **ChatGPT** icon and select **Uninstall**.
 3. In the **Control Panel** window, locate and select **ChatGPT**.
@@ -103,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 ## Run ChatGPT Natively Using an Unofficial Project
 
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
@@ -130,15 +131,15 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Press **Win + I** to open **Settings**.
 2. Next, open the **Apps** tab and click **Installed Apps**.
 3. Search for the ChatGPT app, click the **three-dots** menu next to the app name and select **Uninstall**.
 
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install ChatGPT as a Windows App
 
@@ -167,24 +168,22 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ld-hollywood-techniques-for-modern-filmmakers/"><u>[New] Old Hollywood Techniques for Modern Filmmakers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-building-your-asmr-empire-key-concepts-and-best-practices/"><u>[Updated] 2024 Approved Building Your ASMR Empire Key Concepts and Best Practices</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-make-your-discord-profile-picture-a-standout-choice/"><u>[Updated] 2024 Approved How to Make Your Discord Profile Picture a Standout Choice</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-superior-plot-strategies-across-diverse-cinematic-fields/"><u>[Updated] In 2024, Superior Plot Strategies Across Diverse Cinematic Fields</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-online-tools-select-your-new-photo-background/"><u>[Updated] Leading Online Tools Select Your New Photo Background</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-maximizing-reach-tweeting-on-facebook/"><u>2024 Approved Maximizing Reach Tweeting on Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-potency-spectrum-from-strong-to-weak-forms/"><u>AI's Potency Spectrum: From Strong to Weak Forms</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-gaming-lags-on-your-desktop-the-ultimate-guide-to-optimizing-in-202-cuffs/"><u>Beat Gaming Lags on Your Desktop - The Ultimate Guide to Optimizing in 202 Cuffs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/critical-medical-decisions-shouldnt-hinge-on-bot-suggestions/"><u>Critical Medical Decisions Shouldn't Hinge on Bot Suggestions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/keeping-your-vision-unique-in-a-digital-world-nightshade-for-artistic-integrity/"><u>Keeping Your Vision Unique in a Digital World: Nightshade for Artistic Integrity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/m-macbook-pro-multitasking-mastery-setting-up-dual-monitors-for-seamless-workflow-zdnet-exclusive/"><u>M-Macbook Pro Multitasking Mastery: Setting Up Dual Monitors for Seamless Workflow | ZDNet Exclusive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-control-center-tweaks-for-ios-18-users-tips-and-tricks/"><u>Mastering Control Center Tweaks for iOS 18 Users – Tips & Tricks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-your-ios-experience-expert-tips-on-hidden-siri-voice-shortcuts-for-iphone-users/"><u>Maximize Your iOS Experience: Expert Tips on Hidden Siri Voice Shortcuts for iPhone Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/myx-fitness-takes-the-lead-over-peloton-with-higher-weight-capacity-a-closer-look-at-size-limitations/"><u>Myx Fitness Takes the Lead Over Peloton with Higher Weight Capacity - A Closer Look at Size Limitations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optical-opus-the-elite-list-of-8k-cameras-for-2024/"><u>Optical Opus The Elite List of 8K Cameras for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/quickwinx-hd-dvd-extractor-pro-fast-efficient-dvd-to-mp4-conversion-with-hevc-encoding/"><u>QuickWinX HD DVD Extractor Pro - Fast, Efficient DVD to MP4 Conversion with HEVC Encoding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionary-esr-qui2-series-ultra-fast-magsafe-charging-for-iphone-16s-with-cooler-performance-as-reviewed-on-zdnet/"><u>Revolutionary ESR Qui2 Series: Ultra-Fast MagSafe Charging for iPhone 16S With Cooler Performance, as Reviewed on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-best-buy-bargains-in-june-2024-insider-tips/"><u>Top-Rated Best Buy Bargains in June 2024 - Insider Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-comprehensive-guide-to-premium-data-reservoirs/"><u>[New] Comprehensive Guide to Premium Data Reservoirs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-elevate-your-storytelling-10-prime-text-tricks-in-cinematography-for-2024/"><u>[New] Elevate Your Storytelling 10 Prime Text Tricks in Cinematography for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-snapmaster-z7-pro-excellence-in-picture-magnification-for-2024/"><u>[New] SnapMaster Z7 Pro Excellence in Picture Magnification for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-harness-the-power-of-mematic-for-notes/"><u>2024 Approved Harness the Power of Mematic for Notes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-in-action-future-of-website-content-discovery/"><u>AI in Action: Future of Website Content Discovery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-intelligence-progressive-approaches-post-turing/"><u>Assessing Intelligence: Progressive Approaches Post-Turing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-failed-attempts-at-gpt-alteration/"><u>Breaking Down Failed Attempts at GPT Alteration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-4-explored-the-pinnacle-of-social-verification/"><u>ChatGPT-4 Explored: The Pinnacle of Social Verification</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dts-flac-flac-online-movavi/"><u>DTS FLAC 투 FLAC: Online 무료 변환을위한 모바일 친화적 도구 - Movavi</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-engagement-top-tools-and-tips-for-properly-tagged-videos-for-2024/"><u>Enhance Engagement Top Tools and Tips for Properly Tagged Videos for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-digital-experience-with-cookiebot-technology/"><u>Enhanced Digital Experience with Cookiebot Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-distorted-audio-while-playing-cyberpunk-2077-effective-solutions-unveiled/"><u>Fixing Distorted Audio While Playing Cyberpunk 2077 - Effective Solutions Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introduction-to-ai-in-laymans-terms/"><u>Introduction to AI in Layman's Terms</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-top-rated-2d-animation-programs-for-beginners-and-pros-for-2024/"><u>New Best Top-Rated 2D Animation Programs for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/securely-transporting-your-chatgpt-interactions/"><u>Securely Transporting Your ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-bard-googles-revolutionary-response-to-chatgpt/"><u>The Dawn of 'Bard' - Google's Revolutionary Response to ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-storytelling-chatais-potential/"><u>The Future of Storytelling: ChatAI's Potential</u></a></li>
 </ul></div>
 

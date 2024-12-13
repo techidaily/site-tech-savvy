@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code on the 2024 Great CrowdStrike-Windows Meltdown: A Deep Dive Into History with ZDNET's Analysis"
-date: 2024-12-03T21:37:58.187Z
-updated: 2024-12-06T17:44:28.531Z
+date: 2024-12-10T21:21:19.545Z
+updated: 2024-12-12T17:46:11.835Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,24 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-ascending-with-expertise-mastering-the-art-and-science-of-asmr-production/"><u>[New] In 2024, Ascending with Expertise Mastering The Art & Science of ASMR Production</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capturing-mov-videos-in-windows-11-for-2024/"><u>[Updated] Capturing MOV Videos in Windows 11 for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-rapid-review-windows-files-made-simple/"><u>[Updated] In 2024, Rapid Review Windows Files Made Simple</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-leveraging-social-media-trends-for-fan-growth-on-igtv-for-2024/"><u>[Updated] Leveraging Social Media Trends for Fan Growth on IGTV for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1-top-pick-the-ultimate-discreet-security-key-for-ios-devices-zdnet-insights/"><u>1. Top Pick: The Ultimate Discreet Security Key for iOS Devices | ZDNet Insights</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-top-10-professional-grade-microphones-for-podcasters/"><u>2024 Approved Top 10 Professional-Grade Microphones for Podcasters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/agentgpt-deployment-made-a-breeze-for-browser-users/"><u>AgentGPT Deployment Made a Breeze for Browser Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/agile-application-alternatives-quick-android-plays/"><u>Agile Application Alternatives: Quick Android Plays</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-gpt-explained-a-comparative-study-with-chatgpt/"><u>Auto-GPT Explained – A Comparative Study with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-a-tool-for-advancing-emotional-understanding-and-connection/"><u>ChatGPT: A Tool for Advancing Emotional Understanding and Connection</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialoguehaltedgpt-seeking-subscription-revival/"><u>DialogueHaltedGPT: Seeking Subscription Revival</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/foremost-ai-solutions-transforming-web-search-experience/"><u>Foremost AI Solutions Transforming Web Search Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/insights-into-the-unique-benefits-of-business-focused-gpt/"><u>Insights Into the Unique Benefits of Business-Focused GPT</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mp4-downloader-pro-facebook-video-hacks/"><u>MP4 Downloader Pro - Facebook Video Hacks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ltimate-insights-for-successful-short-video-creation-for-2024/"><u>The Ultimate Insights for Successful Short Video Creation for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y77t-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y77t Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-value-tablets-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top Value Tablets : In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trust-issues-chatgpts-shortcom-written-by-assistant/"><u>Trust Issues: ChatGPT's Shortcom Written by Assistant</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/which-superior-ai-rules-gpt-vs-bing-and-bards-skirmish/"><u>Which Superior AI Rules? GPT Vs. Bing & Bard's Skirmish</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-5-top-android-ps2-game-simulators/"><u>[New] 2024 Approved 5 Top Android PS2 Game Simulators</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-key-10-windows-software-for-superior-tiktok-editing/"><u>[Updated] 2024 Approved Key 10 Windows Software for Superior TikTok Editing</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-pioneers-compared-from-gpt-to-bings-bot-and-bard/"><u>AI Pioneers Compared: From GPT to Bing's Bot and Bard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-language-with-precision-using-openai-apis/"><u>Crafting Language with Precision Using OpenAI APIs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolving-tech-frontier-openais-new-milestone-with-gpt-4/"><u>Evolving Tech Frontier: OpenAI's New Milestone with GPT-4</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-10t-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme 10T 5G Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-apple-watchs-endurance-top-8-battery-saving-tweaks-revealed/"><u>Maximize Your Apple Watch's Endurance - Top 8 Battery-Saving Tweaks Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamless-integration-instagram-meets-tiktok/"><u>Seamless Integration Instagram Meets TikTok</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-gaming-smartphones-a-comprehensive-review/"><u>Top 5 Gaming Smartphones : A Comprehensive Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trading-techniques-tested-gpts-impact-on-digital-assets/"><u>Trading Techniques Tested: GPT's Impact on Digital Assets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-ai-potential-chrome-helps-you-chatgpt-masterfully/"><u>Unlock AI Potential: Chrome Helps You ChatGPT Masterfully</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-mirage-in-machine-learning-spotting-pretend-predictions/"><u>Unveiling the Mirage in Machine Learning: Spotting Pretend Predictions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Side Gigs with AI - Is ChaGPT the Future of Freelancing?
-date: 2024-11-30T16:22:42.174Z
-updated: 2024-12-06T22:13:19.813Z
+date: 2024-12-06T00:51:56.768Z
+updated: 2024-12-12T19:34:56.331Z
 tags:
   - chatgpt
   - open-ai
@@ -48,15 +48,19 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 ![ChatGPT Answering When It Was Launched](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-general-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Likewise, ChatGPT has limited knowledge of events after 2021\. The above photo shows that it doesn’t even know its release date. Academic writing involves a lot of fact-checking, so research topics yourself and cite sources. Otherwise, clients will stop hiring you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Copywriting and Blogging
 
 ![Searching Sellers of Writing Services on Fiverr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiverr-writing-services.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  AI has come a long way from spitting incoherent text. ChatGPT runs on advanced language models that produce natural, human-like phrases free of typos and grammatical errors. It already writes better than most inexperienced writers.
 
@@ -66,16 +70,12 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 **Tip:** You don’t have to ditch ChatGPT altogether. [Writers can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) for topic research, idea generation, and simple coding.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Caption Writing
 
 ![Editing the Caption on an Instagram Post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/instagram-post-captions.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Users often write captions as an afterthought. They obsess over uploading the perfect post so much that they overlook other crucial elements. Some just bombard their captions with hashtags.
@@ -83,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  Although using ChatGPT to write captions seems practical, it really has little upside. Captions are limited. You can’t waste your character count on generic, spammy AI-generated fluff. Remember: ChatGPT only pulls templates from its database.
 
  To grab the reader’s attention, write captions yourself. See what format suits your brand. Some users like writing long-form captions that tell stories, while others prefer a minimalistic approach. We suggest trying out different styles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Selling Diet and Fitness Programs
 
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
  If you need to launch a website but don’t have any experience, use [no-code site builders](https://www.makeuseof.com/best-code-free-website-creators/). They use drag-and-drop editors. Instead of manually typing source code, you can drag around page elements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Email Marketing
 
  Fake gurus claim that ChatGPT handles all their copywriting needs. Precise, detailed prompts supposedly make custom sales emails that match your tone and branding. The below image shows a sample AI-generated sales email.
@@ -118,37 +118,37 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 ![Searching for ChatGPT Prompts on Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/github-chatgpt-prompts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The way you phrase your prompts affects ChatGPT’s responses. Straightforward questions trigger basic answers, but clever phrasing and precise instructions maximize language models.
 
  Let’s say you want to learn about AI. The below photo shows what ChatGPT says if you ask the question outright.
 
 ![ChatGPT Explains the Meaning of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-ai-explanation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Meanwhile, the below image demonstrates how additional instructions change ChatGPT’s output.
 
 ![ChatGPT Explains AI Like Talking to a Five Year Old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-simple-ai-explanation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  These examples simply cover the basics. To [get the best results from ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/), you must craft detailed instructions that maximize datasets and override certain restrictions. The below photo illustrates an effective jailbreak prompt.
 
 ![Requesting ChatGPT to Bypass Restrictions and Make Predictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_as_dan_prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Although ChatGPT supposedly can’t make predictions, the DAN prompt allowed it to bypass restrictions and state unverified claims, as you can see below.
 
 ![ChatGPT Making Predictions About Unsure Instances](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_making_predictions.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Since most people are new to AI chatbots, few can craft precise instructions. Users need skilled prompt engineers. They’ll pay for working, up-to-date prompts, which you can sell on [GitHub](https://github.com/) repositories, Reddit threads, and social media sites.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Explore Responsible Ways to Make Money With AI
 
@@ -175,24 +175,14 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/rafting-cross-social-media-content-strategy-with-youtube-and-fb/"><u>[New] Crafting Cross-Social Media Content Strategy with YouTube & FB</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-humor-hacks-simplifying-the-process-of-meme-creation/"><u>2024 Approved Humor Hacks Simplifying the Process of Meme Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advanced-research-into-dielectrics-includes-studying-new-materials-with-higher-permittivity-lower-loss-tangents-and-better-thermal-properties/"><u>Advanced Research Into Dielectrics Includes Studying New Materials with Higher Permittivity, Lower Loss Tangents, and Better Thermal Properties.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-talkback-transforming-prompts-into-conversations/"><u>ChatGPT Talkback: Transforming Prompts Into Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-between-apples-top-ultraportables-how-does-the-new-m3-macbook-air-stack-up-against-its-predecessor-the-m2/"><u>Deciding Between Apple's Top Ultraportables: How Does the New M3 MacBook Air Stack Up Against Its Predecessor, the M2?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/essential-tips-to-correct-the-btballoondll-not-detected-mishap/"><u>Essential Tips to Correct the btballoon.dll Not Detected Mishap</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-examination-kit-for-educators-and-management-heads/"><u>GPT Examination Kit for Educators and Management Heads</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-htc-u23-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset HTC U23 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-amplifying-zoom-picture-quality-insider-secrets/"><u>In 2024, Amplifying Zoom Picture Quality Insider Secrets</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-prime-frame-rate-enhancing-laggard-motion/"><u>In 2024, Prime Frame Rate Enhancing Laggard Motion</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/incremental-intelligence-a-deep-dive-into-gpt-models/"><u>Incremental Intelligence: A Deep Dive Into GPT Models</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/setting-a-schedule-for-phones-advancements/"><u>Setting a Schedule for Phones' Advancements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/six-keys-to-outclassing-text-generating-machines/"><u>Six Keys to Outclassing Text-Generating Machines</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/surviving-and-thriving-adapting-to-facebooks-algorithm-changes-for-2024/"><u>Surviving and Thriving Adapting to Facebook's Algorithm Changes for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-battle-of-digital-assistants-which-reigns-supreme-chatgpt-or-google-bard/"><u>The Battle of Digital Assistants: Which Reigns Supreme - ChatGPT or Google Bard?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-major-savings-grab-deflated-prices-for-apple-airpods-in-july-sales-event/"><u>Unlock Major Savings: Grab Deflated Prices for Apple AirPods in July Sales Event</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-11-superior-chatgpt-techniques-for-deep-characters/"><u>Unveiling 11 Superior ChatGPT Techniques for Deep Characters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-winchatgpt-a-falsehood-decoded/"><u>Unveiling WinChatGPT: A Falsehood Decoded</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/windows-server-2019-pc/"><u>システムイメージを利用したWindows Server 2019 PC間転送方法</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-immediate-recovery-of-lost-snapshots/"><u>[New] 2024 Approved Immediate Recovery of Lost Snapshots</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-hacks-to-dodge-digital-lessons-at-home/"><u>[New] Hacks to Dodge Digital Lessons at Home</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pros-secret-windows-11-gems-uncovered/"><u>2024 Approved Pro's Secret Windows 11 Gems Uncovered</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-11-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 11 to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbot-authenticity-beyond-plagiarism-fears/"><u>ChatBot Authenticity: Beyond Plagiarism Fears</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deepen-relationships-with-emotional-intelligence-assistance/"><u>Deepen Relationships with Emotional Intelligence Assistance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professional-insights-on-elite-android-timepieces-features-reviews-and-ratings-zdnet/"><u>Professional Insights on Elite Android Timepieces: Features, Reviews, and Ratings - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-ideas-into-engaging-presentations-via-chatgpt/"><u>Transform Your Ideas Into Engaging Presentations via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-industries-through-chatgpt-and-whisper-apis/"><u>Transforming Industries Through ChatGPT and Whisper APIs</u></a></li>
 </ul></div>
 

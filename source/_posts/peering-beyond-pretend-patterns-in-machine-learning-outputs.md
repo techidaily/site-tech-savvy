@@ -1,7 +1,7 @@
 ---
 title: Peering Beyond Pretend Patterns in Machine Learning Outputs
-date: 2024-09-12T07:45:13.124Z
-updated: 2024-09-13T07:45:13.124Z
+date: 2024-12-11T19:49:29.725Z
+updated: 2024-12-13T01:04:06.366Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
  For example, [top AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/), such as DALL-E 2, can creatively generate novel images we can tag as "hallucinations" since they are not based on real-world data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### AI Hallucination in Large Language Processing Models
 
  Let's consider what AI hallucination would look like in a large language processing model such as ChatGPT. A ChatGPT hallucination would result in the bot giving you an incorrect fact with some assertion, such that you would naturally take such facts as truth.
@@ -42,23 +46,9 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
 ![ChatGPT's response to where Elon Musk's house is located](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181459.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On further query, ChatGPT turned up with this:
 
 ![A ChatGPT prompt further querying where elon musk's factory is at in brazil](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-18-181530.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### AI Hallucination in Computer Vision
 
@@ -68,22 +58,12 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
 ![A 4x4 montage of BBQ potato chips and leaves](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-17-233958.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here's another montage with a mix of poodle and pork floss bun images. A computer would most likely be unable to differentiate between them, therefore mixing the images.
 
 ![A 4x4 montage of poodle and pork floss bun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-2023-03-17-234559.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Does AI Hallucination Occur?
@@ -104,23 +84,9 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
 ![Screenshot of ChatGPT giving wrong responses to a question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/revolt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On further probing, it kept giving wrong answers, with a high level of confidence.
 
 ![Screenshot of ChatGPT giving multiple wrong answers to a prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wrong-answer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  So why is ChatGPT unable to give an accurate answer to these prompts?
 
@@ -132,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
  Here are some ways to spot AI hallucinations while using common AI applications:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Large Language Processing Models
 
 ![Picture showing Bing Chat and ChatGPT on arrowed sigsn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-showing-bing-chat-and-chatgpt-on-arrowed-sigsn.jpg)
@@ -147,15 +106,16 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
  Using human judgment or common sense can help detect hallucinations, as humans can easily identify when a text does not make sense or follow reality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Computer Vision
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a branch of artificial intelligence, machine learning, and computer science, computer vision empowers computers to recognize and process images like human eyes. Using [convolutional neural networks](https://www.makeuseof.com/convolutional-neural-network-explained/), they rely on the incredible amount of visual data used in their training.
@@ -164,15 +124,16 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 
  So to spot a computer vision hallucination, compare the output generated to what a \[normal\] human is expected to see.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Self-Driving Cars
 
 ![Ford Blue Cruise 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ford-blue-cruise-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedmedia.viewmore.image.html/content/fordmedia/fna/us/en/news/2021/04/14/ford-mother-of-all-road-trips-bluecruise-hands-free-driving/jcr:content/rightRailPar/relatedmedia.html)
@@ -204,5 +165,22 @@ Image Credit: [Ford](https://media.ford.com/content/fordmedia/fna/us/en.relatedm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-leading-mp4-to-facebook-mover/"><u>[New] In 2024, Leading MP4 to Facebook Mover</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-ultimate-gopro-camera-showdown/"><u>[Updated] In 2024, The Ultimate GoPro Camera Showdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-resolves-with-cash-how-macbook-buyers-are-compensated-in-recent-class-action-agreement-tech-news/"><u>Apple Resolves with Cash: How MacBook Buyers Are Compensated in Recent Class Action Agreement - Tech News</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embark-on-plugin-setup-for-advanced-chatgpt-experience/"><u>Embark on Plugin Setup for Advanced ChatGPT Experience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nokia-c22-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nokia C22 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-script-mastery-online-academy/"><u>In 2024, Script Mastery Online Academy</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-tips-for-dimming-windows-and-mac-music-volume/"><u>In 2024, Tips for Dimming Windows & Mac Music Volume</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-folders-for-coherent-gpt-3-discussions/"><u>Leveraging Folders for Coherent GPT-3 Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-new-rules-for-sideloading-on-ios-devices-across-europe-as-approved-by-apple/"><u>Navigating New Rules for Sideloading on iOS Devices Across Europe as Approved by Apple</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snapchat-my-ai-vs-bing-chat-ai-on-skype-8-key-differences/"><u>Snapchat My AI Vs. Bing Chat AI on Skype: 8 Key Differences</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-top-webm-to-mp3-converters-you-need-to-know/"><u>The Top WebM to MP3 Converters You Need to Know</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2024-expert-insights-and-ratings/"><u>Ultimate Guide to the Best MagSafe Wallets of 2024: Expert Insights and Ratings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-tablet-excellence-how-the-ipad-air-outshines-the-ipad-pro-reviews-by-tech-gurus/"><u>Unveiling Tablet Excellence: How the iPad Air Outshines the iPad Pro, Reviews by Tech Gurus</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-avi-video-cutter-reviews-top-16-options-for-windows-mac-and-android-devices/"><u>Updated AVI Video Cutter Reviews Top 16 Options for Windows, MAC, and Android Devices</u></a></li>
+</ul></div>
 

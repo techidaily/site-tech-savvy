@@ -1,7 +1,7 @@
 ---
 title: "Effortless Application Updates for Mac Users: Explore Two Proven Strategies Featured by ZDNet"
-date: 2024-12-03T18:05:16.691Z
-updated: 2024-12-07T00:53:43.831Z
+date: 2024-12-11T16:46:15.231Z
+updated: 2024-12-13T01:37:56.804Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ The move is reportedly in line with Goldman Sachs' strategy to scale back its co
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Apple Card's technological edge
 
 Beyond its physical attributes, the Apple Card's integration into the ecosystem has been a game-changer. It boasts a unique user interface on the iPhone, allowing users to effortlessly categorize and track their spending, locate specific purchases, and make payments directly from their devices. 
@@ -55,6 +51,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Goldman Sachs's consumer business: A lot to swallow
 
 Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 billion, encompasses several key segments:
@@ -65,7 +65,7 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **GreenSky:** A $2.2 billion merchant lending platform, expanding Goldman's footprint in point-of-sale financing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The potential acquisition scenarios
@@ -75,7 +75,7 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Tokenization technology:** This is a critical aspect, especially for the Apple Card segment. With strong digital banking capabilities, potential partners like Chase or Citi may be better equipped to integrate or replicate this technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The potential new partners
@@ -88,7 +88,7 @@ Goldman Sachs' consumer business, a complex portfolio valued at about $106.7 bil
 * **Synchrony Financial:** Per the [Wall Street Journal](https://www.wsj.com/finance/banking/apple-pulls-plug-on-goldman-credit-card-partnership-ca1dfb45?mod=djemalertNEWS), the financial services company has expressed interest in taking over Apple Card. Synchrony, [the largest issuer of store credit cards in the US](https://upgradedpoints.com/credit-cards/synchrony-bank-store-credit-cards/), lends to a broad category of consumers, including those with bad credit. The company vied against Goldman during the inception of the Apple credit card program but lost during the bidding process. I tend to feel that Synchrony is a wildcard compared with the giants above, as implementing the technology that Apple Card needs will be a significant challenge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customer expectations will remain high
@@ -98,7 +98,7 @@ The transition will have significant implications for Apple Card users. Maintain
 Still, I do not expect there to be many real concerns on the part of Apple's customers. Apple is not the sort of company to leave its customers high and dry or to burden them with a shift that would give them less functionality or alter the product's ease of use for the worse. If anything, I expect the situation to improve, such as making it easier for people to apply and get approved -- [an issue that the service has dealt with while under Goldman's stewardship.](https://www.zdnet.com/article/apple-card-issuer-investigated-over-gender-bias-in-credit-algorithm/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It won't be easy for Apple Card's new partner
@@ -143,19 +143,22 @@ The decision to acquire parts or all of Goldman Sachs' consumer business, includ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-streamers-guide-to-best-free-options-across-every-system/"><u>[New] 2024 Approved Ultimate Streamer's Guide to Best Free Options Across Every System</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-revolutionize-content-consumption-uncover-the-best-6-free-and-online-platforms-for-short-film-downloads/"><u>[New] Revolutionize Content Consumption Uncover the Best 6 Free & Online Platforms for Short Film Downloads</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-superior-quality-recordings-the-1-to-18-camera-list/"><u>2024 Approved Superior Quality Recordings - The #1 to #18 Camera List</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-unveiled-a-family-guide-to-gpt/"><u>AI Unveiled: A Family Guide to GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-job-search-with-chatgpt-insights/"><u>Cutting-Edge Job Search with ChatGPT Insights</u></a></li>
-<li><a href="https://ai-video.techidaily.com/expert-analysis-on-hardware-by-toms-team/"><u>Expert Analysis on Hardware by Tom's Team</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/favourites-revealed-top-20-anime-melodies-for-2024/"><u>Favourites Revealed Top 20 Anime Melodies for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-progopro-series-camera-comparison/"><u>In 2024, ProGoPro Series Camera Comparison</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/methodology-saving-the-dialogue-history-of-gpt-chat/"><u>Methodology: Saving the Dialogue History of GPT-Chat</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/restoring-full-chatgpt-functionality-fixing-key-obstacles/"><u>Restoring Full ChatGPT Functionality: Fixing Key Obstacles</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-implementing-new-software-for-lenovo-legion-5-pros-functionality/"><u>Step-by-Step Tutorial on Implementing New Software for Lenovo Legion 5 Pro's Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-reasons-why-claude-outshines-chatgpt-in-conversational-intelligence/"><u>Top 4 Reasons Why Claude Outshines ChatGPT in Conversational Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-dall-es-potential-with-png-and-jpg-conversions/"><u>Unlocking DALL-E's Potential with PNG and JPG Conversions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/verse-vendetta-the-ultimate-showdown-humans-chatgpt-and-sheep-like-alpacas/"><u>Verse Vendetta - The Ultimate Showdown: Humans, ChatGPT & Sheep-Like Alpacas</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capture-studio-high-fidelity-screen-record-for-2024/"><u>[New] Capture Studio High Fidelity Screen Record for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-craftsmanship-in-marvellous-marvel-creation-for-2024/"><u>[Updated] Craftsmanship in Marvellous Marvel Creation for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-create-a-square-video-for-instragram-in-imovie/"><u>[Updated] In 2024, How to Create a Square Video for Instragram in iMovie?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-7-essential-metaverse-tech-for-your-arsenal/"><u>[Updated] In 2024, Top 7 Essential Metaverse Tech for Your Arsenal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-quests-redefining-microsofts-bing-experience/"><u>AI-Powered Quests: Redefining Microsoft's Bing Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-deeper-into-dialogue-improvement-our-7-best-plugin-selections/"><u>Dive Deeper Into Dialogue Improvement: Our 7 Best Plugin Selections</u></a></li>
+<li><a href="https://discover-data.techidaily.com/enhance-performance-using-asus-tuf-a15-gaming-ssd-swap-out-old-drive-or-expand-capacity/"><u>Enhance Performance Using ASUS TUF A15 Gaming SSD - Swap Out Old Drive or Expand Capacity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-conversational-algorithms-gpt-versus-bing/"><u>Examining Conversational Algorithms: GPT Versus Bing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-theorizing-to-reality-ais-chronological-journey/"><u>From Theorizing to Reality: AI's Chronological Journey</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How Can I Create My Pokemon Overworld Maps On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-career-milestones-using-gpt-technology/"><u>Navigating Career Milestones Using GPT Technology</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-tutorial-on-updating-the-hp-system-bios-for-windows-11-devices/"><u>Step-by-Step Tutorial on Updating the HP System BIOS for Windows 11 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/syntax-showdown-machine-translations-clash/"><u>Syntax Showdown: Machine Translations Clash</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-the-new-era-of-ai-with-gpt-4/"><u>Understanding the New Era of AI with GPT-4</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/understanding-winamps-strategic-shift-alternatives-to-going-open-source-tech-insights/"><u>Understanding Winamp's Strategic Shift: Alternatives to Going Open-Source | Tech Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-job-potential-6-ways-to-harness-chatgpt/"><u>Unlocking Job Potential: 6 Ways to Harness ChatGPT</u></a></li>
 </ul></div>
 

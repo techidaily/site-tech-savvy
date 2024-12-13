@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at AI Search Techniques and Business Utilization
-date: 2024-09-12T07:45:02.569Z
-updated: 2024-09-13T07:45:02.569Z
+date: 2024-12-10T16:46:02.954Z
+updated: 2024-12-13T00:23:14.830Z
 tags:
   - chatgpt
   - open-ai
@@ -29,28 +29,12 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
 >
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Generative AI Search?
 
 ![OpenAI logo up-close on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-ai-web-apps.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  First off, we need to explain what generative AI search is. You're probably familiar with the concept of generative AI—it's a type of artificial intelligence that can generate content for you, from images to text, to music, and everything in between. It started catching on in late 2021 to early 2022, but it's matured to the point it can do some really amazing—and occasionally creepy—things.
 
@@ -59,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
  In a way, this is pretty much [the same way ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) . Right now, you can pull up ChatGPT and ask it questions. For example, you can ask it to whip up a recipe with a number of ingredients, or you can ask it for complicated questions about the ins and outs of chemistry.
 
  But generative AI search aims to use that kind of output generation to replace all, or most, of the currently searched queries through regular search engines. And it aims to do a lot more. It's, essentially, putting the capabilities of ChatGPT, and all its power, at the fingertips of most regular users.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Is Generative AI Search Different From Regular Search?
 
@@ -82,15 +59,16 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
  It has a few challenges ahead, and it might not replace regular search engines entirely as they will still have their purpose, but it might become a nice compliment that will make them way more useful whenever the technology is mature and released.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Companies Are Using Generative AI Search?
 
 ![microsoft building with logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-building.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Right now, the generative AI search battle is being fought between Google and Microsoft.
 
@@ -101,10 +79,7 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
  Google, on the other hand, is also coming up with new AI features of its own. Google launched its [ChatGPT-like chatbot called Bard](http://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) , but eventually, the company wants to bring AI features into its main products as well. This includes the company's regular search experience, where AI-generated answers will complement, not replace, regular search results.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Will I Be Able to Use Generative AI Search?
@@ -114,10 +89,7 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
  As for actual AI-powered search engines, you can now join the waitlist for "the new Bing" at Microsoft's website. As for Google, there's no waitlist, but the company might eventually open up its work on AI sometime over the next few months.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Generative AI Search is Great
@@ -137,5 +109,20 @@ thumbnail: https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-exclusive-list-of-top-iphone-vr-game-hits-for-2024/"><u>[New] Exclusive List of Top iPhone VR Game Hits for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ind-rich-ambiance-for-video-content-in-2024/"><u>[New] Find Rich Ambiance for Video Content, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-top-10-horizontal-and-vertical-igtv-editing-apps-reviewed/"><u>[New] Top 10 Horizontal & Vertical IGTV Editing Apps Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-apples-latest-innovation-introducing-the-enhanced-airpods-4-featuring-find-my-speaker-capability-and-usb-c-charging-tech-news-on-zdnet/"><u>1. Apple's Latest Innovation: Introducing the Enhanced AirPods 4 Featuring 'Find My Speaker' Capability & USB-C Charging - Tech News on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-the-future-of-university-research/"><u>AI and the Future of University Research</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evolution-of-intelligence-openais-gpt-story/"><u>Evolution of Intelligence: OpenAI's GPT Story</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/finding-the-middle-ground-working-and-youtube/"><u>Finding the Middle Ground Working & YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-realme-12-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Realme 12 Pro 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-modern-warfare-3-from-crashing-on-your-pc-with-simple-troubleshooting-tips/"><u>Stop Modern Warfare 3 From Crashing on Your PC with Simple Troubleshooting Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-unboxing-magic-7-ways-for-2024/"><u>Transforming Unboxing Magic 7 Ways for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-code-three-ways-to-access-game-folders/"><u>Unlock the Code: Three Ways to Access Game Folders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mystery-how-crowdstrike-triggered-windows-meltdnought-a-historical-perspective-on-cybersecurity-zdnet/"><u>Unraveling the Mystery: How CrowdStrike Triggered Windows' Meltdnought - A Historical Perspective on Cybersecurity [ZDNET]</u></a></li>
+</ul></div>
 

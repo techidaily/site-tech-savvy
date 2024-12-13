@@ -1,7 +1,7 @@
 ---
 title: Propel The Conversation With Top Strategies For Effective Chatbot Engagement
-date: 2024-09-12T07:42:45.444Z
-updated: 2024-09-13T07:42:45.444Z
+date: 2024-12-10T21:53:20.898Z
+updated: 2024-12-12T18:10:12.057Z
 tags:
   - chatgpt
   - open-ai
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/061c3cb51f73174994130ac8ba7737b4e102bdd69
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1. Prompts.Chat
 
 ![Prompts.Chat is a collection of the best ChatGPT prompts for myriad uses, which you can edit on the site for your specific query and then copy-paste into the AI tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-prompts-chat-advanced.jpg)
@@ -51,15 +38,16 @@ thumbnail: https://thmb.techidaily.com/061c3cb51f73174994130ac8ba7737b4e102bdd69
 
  Akin has also written a free (or pay-what-you-want) ebook for beginners called [The Art of ChatGPT Prompting](https://fka.gumroad.com/l/art-of-chatgpt-prompting) . It takes you step-by-step through the ChatGPT process of understanding what the AI does, why prompts are essential, and the principles of good PE. Akin also shares his "Act as…" hack for making ChatGPT behave the way you want without overloading it with too much information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2. QuickRef ChatGPT Cheat Sheets
 
 ![QuickRef's ChatGPT cheat sheet offers free examples and templates of prompts for ChatGPT across various categories and uses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-quickref-cheat-sheets.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  QuickRef is a website with cheat sheets for different apps or programming languages, like Google Search, Sheets, Excel, JavaScript, Python, etc. These are added mainly by regular users from the community. The latest cheat sheet in its impressive lineup is ChatGPT, with a series of prompts and tips for the AI. You won't learn the process of PE here, but it's a good reference when you're stuck.
@@ -69,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/061c3cb51f73174994130ac8ba7737b4e102bdd69
  Multiple words or phrases of each prompt are replaceable to customize it for your query. The must-fill parts are marked in brackets for you to replace the original text, while optional replacements are colored red or blue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3. Adrian Twarog
@@ -80,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/061c3cb51f73174994130ac8ba7737b4e102bdd69
 ![Adrian Twarog's "Ultimate ChatGPT Resource Guide" is the best free series of YouTube lessons to learn how to write ChatGPT prompts and then use it in advanced applications, or even to make your own ChatGPT clone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-adrian-twarog.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  YouTuber Adrian Twarog has quite a following for his how-to and tutorial videos on myriad topics like web development, apps, and AI. He deep-dived into the system and has already made videos on creating a ChatGPT clone or making your Discord bot with the OpenAI models. Naturally, this requires understanding the core principles of how ChatGPT works, and he's imparting all that knowledge in a series of YouTube videos.
@@ -102,29 +84,19 @@ thumbnail: https://thmb.techidaily.com/061c3cb51f73174994130ac8ba7737b4e102bdd69
 
  Micah's larger [How to Use ChatGPT playlist](https://www.youtube.com/playlist?list=PLRc1YiX2Z0mpeXlmv6n7ZsVPVn-2etOua) has several other real-world applications for ChatGPT. For example, you'll learn how to write a 5-page essay in 10 minutes with AI or make your superhero comic with ChatGPT and Midjourney, one of the [best free AI text-to-art generators](https://www.makeuseof.com/ai-text-to-art-generators/) .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5. Learn Prompting
 
 ![Learn Prompting is a free online course for beginner, intermediate, or advanced AI users to learn all aspects of prompt engineering](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/learn-chatgpt-prompts-engineering-learn-prompting.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Learn Prompting is a free online course to understand how to write prompts for any AI app, not just ChatGPT. Sander Schulhoff, a computer science student at the University of Maryland, designed it. It caters to a range of users, from complete novices to those with domain expertise or programming knowledge.
 
  The course is entirely text-based, with chapters that take you through different aspects of AI prompting. Schulhoff defines PE as "How to talk to AI to get it to do what you want." The Basics and Intermediate chapters will take you through the founding principles of PE with theory, tricks and tips, and examples.
 
  The course then goes into advanced practices like applied prompting (contributed by users), fine-tuning, images, and more, where you'll learn techniques like Chain of Thought, Self Consistency, etc. It might sound like a lot of jargon, but it'll be clear and easy to understand if you go through the course step-by-step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start Learning ChatGPT With a Personal Project
 
@@ -143,5 +115,26 @@ thumbnail: https://thmb.techidaily.com/061c3cb51f73174994130ac8ba7737b4e102bdd69
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-free-and-easy-fb-link-collection-services/"><u>[New] 2024 Approved Free and Easy FB Link Collection Services</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-perfect-emulators-to-replay-playstation-1-classics/"><u>[New] 2024 Approved Perfect Emulators to Replay PlayStation 1 Classics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-youtube-melodies-safe-free-extraction-methods-for-2024/"><u>[Updated] Unlocking YouTube Melodies Safe, Free Extraction Methods for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-best-streaming-cameras-to-boost-viewer-interaction-on-twitch/"><u>2024 Approved The Best Streaming Cameras to Boost Viewer Interaction on Twitch</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-features-in-meta-quest-3-beats-vision-pro-activation-guide-for-early-adopters-zdnet/"><u>AI Features in Meta Quest 3 Beats Vision Pro: Activation Guide for Early Adopters | ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724312865856-ai-ocrabbyy/"><u>AI OCRによるAbbyy税務処理自社内での高度な効率化とコスト削減</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-chatgpt-the-game-changer-in-creative-tech/"><u>Breaking Down ChatGPT: The Game-Changer in Creative Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-101-the-complete-guide-to-living-better/"><u>ChatGPT 101: The Complete Guide to Living Better</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expertly-engineered-solutions-troubleshooting-with-chatai/"><u>Expertly Engineered Solutions: Troubleshooting With ChatAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-apple-could-outshine-microsoft-and-googles-ai-strategies-with-bold-moves-at-wwdc-2023-expert-insights/"><u>How Apple Could Outshine Microsoft & Google's AI Strategies with Bold Moves at WWDC 2023: Expert Insights</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-character-voiceovers-and-personas-for-dynamic-tiktok-content/"><u>In 2024, Character Voiceovers and Personas for Dynamic TikTok Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-ken-burns-method-in-camtasia-9-explained-simply/"><u>In 2024, The Ken Burns Method in Camtasia 9 Explained Simply</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-update-fixes-unsettling-glitch-that-brought-back-erased-images-insights/"><u>IOS Update Fixes Unsettling Glitch That Brought Back Erased Images: Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-nokia-c12-plus-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Nokia C12 Plus Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steer-clear-of-risky-ai-forged-keys-for-your-windows-upgrade/"><u>Steer Clear of Risky AI-Forged Keys for Your Windows Upgrade</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-rush-factor-revealed-analyzing-apple-xr-headset-delivery-schedules-for-demand-indicators-exclusive/"><u>The Rush Factor Revealed: Analyzing Apple XR Headset Delivery Schedules for Demand Indicators Exclusive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-12-and-12-pro-protective-covers-2023-reviews-techradar/"><u>Top Rated iPhone 12 & 12 Pro Protective Covers - 2023 Reviews | TechRadar</u></a></li>
+<li><a href="https://win-premium.techidaily.com/tracing-precursors-of-global-turmoil-the-role-of-the-sino-japanese-war-in-catalyzing-wwii-explored-with-yl-software/"><u>Tracing Precursors of Global Turmoil: The Role of the Sino-Japanese War in Catalyzing WWII – Explored with YL Software</u></a></li>
+</ul></div>
 

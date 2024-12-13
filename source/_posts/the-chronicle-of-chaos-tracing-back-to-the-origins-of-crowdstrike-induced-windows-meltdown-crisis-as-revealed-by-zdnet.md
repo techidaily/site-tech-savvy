@@ -1,7 +1,7 @@
 ---
 title: "The Chronicle of Chaos: Tracing Back to the Origins of CrowdStrike-Induced Windows Meltdown Crisis , as Revealed by ZDNET"
-date: 2024-12-05T18:46:31.226Z
-updated: 2024-12-06T22:46:59.175Z
+date: 2024-12-06T22:24:03.306Z
+updated: 2024-12-13T00:04:57.022Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,16 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-constructing-unique-instagram-post-images/"><u>[New] Constructing Unique Instagram Post Images</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-from-bright-to-deep-premiere-pro-magic/"><u>[Updated] 2024 Approved From Bright to Deep Premiere Pro Magic</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-visual-storytelling-enhanced-by-these-top-7-graders-flair-for-2024/"><u>[Updated] Visual Storytelling Enhanced by These Top 7 Graders' Flair for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/audiovisual-speed-adjustment-arsenal-list/"><u>Audiovisual Speed Adjustment Arsenal List</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-a-director-top-film-tips-and-tricks-on-youtube/"><u>Becoming a Director Top Film Tips & Tricks on YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/delving-into-vector-databases-for-superior-ai-performance/"><u>Delving Into Vector Databases for Superior AI Performance</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-texting-techniques-to-prevent-overspending-on-cellular-data/"><u>Effective Texting Techniques to Prevent Overspending on Cellular Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/finding-your-dream-role-with-the-help-of-chatgpt/"><u>Finding Your Dream Role with the Help of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fraudulent-app-alert-spot-sham-gpt-tools-and-secure-info/"><u>Fraudulent App Alert: Spot Sham GPT Tools & Secure Info</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/simple-steps-for-turning-your-smartphone-into-an-effective-camera/"><u>Simple Steps for Turning Your Smartphone Into an Effective Camera</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-narrative-network-7-artistic-ways-to-use-ai-in-game-writing/"><u>The Narrative Network: 7 Artistic Ways to Use AI in Game Writing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-of-apple-how-much-are-you-willing-to-invest-in-premium-tech-intel/"><u>Unlocking the Secrets of Apple: How Much Are You Willing to Invest in Premium Tech Intel?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-guide-to-the-best-wireless-charger-devices-for-2n4-rigorously-tested-and-ranked/"><u>ZDNet's Ultimate Guide to the Best Wireless Charger Devices for 2N4: Rigorously Tested and Ranked</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-incorporating-seconds-and-minutes-on-youtube-clips/"><u>[Updated] 2024 Approved Incorporating Seconds and Minutes on YouTube Clips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chuckle-crafting-tool/"><u>[Updated] Chuckle Crafting Tool</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/detective-tech-from-openai-unmasking-chatgpt-fakes/"><u>Detective Tech From OpenAI: Unmasking ChatGPT Fakes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/educators-ai-scrutiny-guide-for-chatgpt/"><u>Educator's AI-Scrutiny Guide for ChatGPT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-dvd-extraction-techniques-using-vlc-media-player-and-overcoming-common-error-pitfalls/"><u>Effortless DVD Extraction Techniques Using VLC Media Player and Overcoming Common Error Pitfalls</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nokia-g310-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nokia G310 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovate-your-hobbies-from-board-gaming-to-digital-art-with-my-bots/"><u>Innovate Your Hobbies: From Board Gaming to Digital Art with My Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/probing-the-use-of-language-models-in-hacking/"><u>Probing the Use of Language Models in Hacking</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/psn-status-check-how-to-tell-if-sonys-network-is-down-for-everyoneor-just-you/"><u>PSN Status Check: How to Tell if Sony's Network Is Down for Everyone—Or Just You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-quintessence-of-chatgpt-in-crypto-land-top-8-plug-ins-explored/"><u>The Quintessence of ChatGPT in Crypto Land – Top 8 Plug-Ins Explored</u></a></li>
 </ul></div>
 

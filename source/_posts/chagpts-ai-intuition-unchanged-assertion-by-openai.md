@@ -1,7 +1,7 @@
 ---
 title: "ChaGPT's AI Intuition: Unchanged Assertion by OpenAI"
-date: 2024-12-05T00:36:05.141Z
-updated: 2024-12-07T00:18:22.596Z
+date: 2024-12-09T16:07:54.964Z
+updated: 2024-12-12T16:11:13.912Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is ChatGPT Getting Worse?
 
  It's something many ChatGPT users have wondered: is ChatGPT getting dumber? OpenAI releases frequent updates to ChatGPT designed to tweak its responses, safety, and more, [using user feedback](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/), prompts, and user data to inform its direction.
@@ -39,6 +35,10 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
  The easiest way for most ChatGPT users to check how its responses have changed over time is to repeat a previously used prompt (preferably from the earlier days of ChatGPT) and analyze the two outputs.
 
  Responses requiring specific outputs, like those involving coding and math, are likely easiest to compare directly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stanford Study Suggests ChatGPT Drop Off
 
@@ -53,7 +53,7 @@ If you've read Twitter or Reddit's ChatGPT subreddit, you'll see one question as
 ![chatgpt study answers changing chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
@@ -61,7 +61,7 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 ![chatgpt study answers changing chart explanations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-study-answers-changing-chart-explanations.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
@@ -73,7 +73,7 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  The report explains that ChatGPT's large language model chain of thought "did not work" when presented with the questions in June. Conversation drift has always been a notable issue with LLMs, but the extreme variance in responses suggests performance issues and changes to ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT Getting Worse? OpenAI Says No
@@ -87,7 +87,7 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
  Still, that didn't stop numerous responses to his tweet detailing how users have found ChatGPT's responses wanting, with many taking the time to annotate prompts and responses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can OpenAI Restore ChatGPT to Its Original State?
@@ -115,16 +115,22 @@ Image Credit: [Stanford/Berkeley](https://arxiv.org/pdf/2307.09009.pdf)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-favorites-list-top-mac-software-for-video-recording-for-2024/"><u>[New] Favorites List Top Mac Software for Video Recording for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-demystifying-instagrams-videography-restrictions/"><u>[Updated] In 2024, Demystifying Instagram's Videography Restrictions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-most-attractive-atandt-mobile-plans-for-may-2e-2024-in-depth-analysis-by-zdnet/"><u>Discover the Most Attractive AT&T Mobile Plans for May 2E 2024 - In-Depth Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expertly-evaluated-ultimate-list-of-apple-watches-for-2eplust-year-in-depth-analysis-and-ratings/"><u>Expertly Evaluated Ultimate List of Apple Watches for 2E+t Year: In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/googles-innovation-alert-how-does-gemini-stack-up-against-chatgpt/"><u>Google's Innovation Alert: How Does Gemini Stack Up Against ChatGPT?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-motorola-moto-g14-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Motorola Moto G14 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-30-innovative-video-themes-and-layouts/"><u>In 2024, 30 Innovative Video Themes and Layouts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pairing-perfection-enabling-chromecast-streaming-on-amazon-fire-tv-sticks/"><u>Pairing Perfection: Enabling Chromecast Streaming on Amazon Fire TV Sticks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/superior-ai-platforms-for-effective-internet-browsing/"><u>Superior AI Platforms for Effective Internet Browsing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-18-unbeatable-prime-day-deals-on-laptops-from-leading-brands-like-hp-apple-and-razer-exposed/"><u>Top 18 Unbeatable Prime Day Deals on Laptops From Leading Brands Like HP, Apple & Razer Exposed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-minecrafts-crossbow-malfunction/"><u>Ultimate Guide: Resolving Minecraft's Crossbow Malfunction</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unleashing-the-power-of-tales-complimentary-apps-galore/"><u>[New] 2024 Approved Unleashing the Power of Tales Complimentary Apps Galore</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-capture-and-transfer-igtv-videos-on-handheld-tech-for-2024/"><u>[New] Capture and Transfer IGTV Videos on Handheld Tech for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-leveraging-a-3-step-writing-system-for-social-media-success-with-fb-ads/"><u>[Updated] Leveraging a 3-Step Writing System for Social Media Success with FB Ads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reimagining-home-entertainment-with-lgs-bp550-update/"><u>[Updated] Reimagining Home Entertainment with LG's BP550 Update</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-master-the-basics-of-windows-10-effortlessly/"><u>2024 Approved Master the Basics of Windows 10 Effortlessly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deleting-gpt-3-complete-step-guide/"><u>Deleting GPT-3: Complete Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-failures-in-attempted-gpt-alteration/"><u>Dissecting Failures in Attempted GPT Alteration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/engaging-with-gpt-4-on-current-chatgpt-platforms/"><u>Engaging With GPT-4 on Current ChatGPT Platforms</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-7-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 7</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/parents-resource-mastering-chatgpt-and-ai-generation/"><u>Parents' Resource: Mastering ChatGPT and AI Generation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/postpone-pruning-saving-chatgpt-talks/"><u>Postpone Pruning: Saving ChatGPT Talks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stanzas-stand-off-artisanal-verse-vs-chatbot-alpaca-herds/"><u>Stanzas Stand Off: Artisanal Verse vs ChatBot Alpaca Herds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-gamers-path-to-more-space-installing-and-using-an-exhardrive-on-xbox-console/"><u>The Gamer's Path to More Space: Installing and Using an ExHardrive on Xbox Console</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-price-cut-for-gamers-secure-a-57-off-deal-on-the-powerhouse-gigabyte-aero-16-exclusive/"><u>Unbeatable Price Cut for Gamers – Secure a 57% Off Deal on the Powerhouse Gigabyte Aero 16 Exclusive</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-untouched-understandings-in-ml-mastery/"><u>Unveiling Untouched Understandings in ML Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-the-truthgpt-that-elon-musk-claims-to-be-working-on/"><u>What Is the TruthGPT That Elon Musk Claims to Be Working On?</u></a></li>
 </ul></div>
 

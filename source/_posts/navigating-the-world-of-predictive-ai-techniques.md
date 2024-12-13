@@ -1,7 +1,7 @@
 ---
 title: Navigating the World of Predictive AI Techniques
-date: 2024-09-12T07:44:31.557Z
-updated: 2024-09-13T07:44:31.557Z
+date: 2024-12-07T21:43:26.929Z
+updated: 2024-12-12T16:50:21.485Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is Predictive AI, and How Does It Work?](https://proteahair.pxf.io/znernm)
@@ -34,10 +27,7 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 * [How Is Predictive AI Different From Generative AI?](https://review-au.sjv.io/wqnrq3)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -52,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
  You've probably heard of generative AI, but how much do you know about predictive AI? They sound similar, but have some key differences, along with a heap of ways you're probably already using it!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Predictive AI, and How Does It Work?
 
  Predictive AI uses information from things that have already happened to make predictions and projections for what might happen in the future. To be used successfully, it requires access to high-quality data and subject matter expertise from humans to correctly identify trends.
@@ -60,18 +54,15 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
  Once predictive AI models have gathered the information they need, users can make decisions and conduct further research if necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Examples of Predictive AI
 
  Predictive AI is already used in multiple industries, and you may even have experienced this technology in action yourself. For example, companies use predictive AI to detect potential data breaches, and smartphone providers can help you type more accurately.
 
  Below are some of the best examples of predictive AI in action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Predictive Text
 
@@ -90,51 +81,26 @@ Close
  You'll often receive an email or text message warning you of an unusual sign-in and prompting you to take action if needed. Requesting to change your password can also prompt such notifications. To ensure that you don't fall victim to security breaches, it's worth learning about [takeover fraud and how to prevent these threats](https://www.makeuseof.com/what-is-account-takeover-fraud/).
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. App and Content Suggestions
 
 ![Spotify's niche mixes are playlists made for you](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/spotify-niche-mixes-desktop.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your smartphones and apps are becoming much better at offering recommendations, largely because of predictive AI. For example, if you use Google Drive, you may see a "You often open around this time" message on your main documents. You'll also see "Based on past activity" or "You've opened frequently."
 
  If you use your smartphone, you'll often see that recommendations for opening apps and other actions change depending on your habits at each time of the day. Apps also use your consumption behaviors to deliver better recommendations; for example, [Spotify uses AI](https://www.makeuseof.com/how-spotify-uses-ai/) to recommend (and create) playlists.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Economic Projections
 
  Predictive AI is also prominent in the world of finance, and it can help economists consider how financial markets will change over time. For example, based on historical data and current global affairs, predictive AI can determine whether certain currency exchange rates will increase or decrease. Since predictive AI is also good at identifying consumer behaviors, it's possible to use the tool to determine how industry trends will change.
 
  This technology can also predict stock market movements and cryptocurrency price changes. If you plan on trading with AI, it's worth checking out these [AI-based crypto tools](https://www.makeuseof.com/top-ai-based-crypto-tools/) as a starting point.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Weather Forecasts
 
@@ -171,5 +137,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-refine-and-revamp-your-youtube-clips-using-wm-maker/"><u>[New] 2024 Approved Refine and Revamp Your YouTube Clips Using WM Maker</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-apple-watch-battery-performance-discover-key-adjustments-with-expert-tips-from-zdnet/"><u>Boosting Apple Watch Battery Performance: Discover Key Adjustments with Expert Tips From ZDNET</u></a></li>
+<li><a href="https://win-updates.techidaily.com/can-you-trust-security-levels-of-yl-computings-crypto-asset-balance-verification/"><u>Can You Trust Security Levels of YL Computing's Crypto Asset Balance Verification?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-the-right-iphone-15-variant-a-comprehensive-guide-to-models-from-standard-to-pro-max-techinsights/"><u>Choosing the Right iPhone 15 Variant: A Comprehensive Guide to Models - From Standard to Pro Max | TechInsights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cal-channels-for-asmr-lovers-for-2024/"><u>Critical Channels for ASMR Lovers for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/editing-images-erasing-unwanted-backdrops/"><u>Editing Images Erasing Unwanted Backdrops</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/examples-demonstrating-zerogpt-trust-concerns/"><u>Examples Demonstrating ZeroGPT Trust Concerns</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fusing-artificial-intelligence-with-communication-chatgpt-for-whatsapp-help/"><u>Fusing Artificial Intelligence with Communication: ChatGPT for WhatsApp Help</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/government-oversight-four-pathways-for-ai-control/"><u>Government Oversight: Four Pathways for AI Control</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-eliminate-slow-response-time-from-your-windows-10-keyboard/"><u>How To Eliminate Slow Response Time From Your Windows 10 Keyboard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-4-vs-ipad-air-5-is-it-time-to-consider-an-upgrade-in-depth-comparison-techadvisor/"><u>IPad Air 4 vs iPad Air 5: Is It Time to Consider an Upgrade? [In-Depth Comparison] | TechAdvisor</u></a></li>
+<li><a href="https://win-blog.techidaily.com/logiciel-denregistrement-decran-pour-mac-trouvez-le-meilleur-achat/"><u>Logiciel D'enregistrement D’écran Pour Mac - Trouvez Le Meilleur Achat</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/should-you-review-off-facebook-histories-security-tips-and-tricks/"><u>Should You Review Off-Facebook Histories? Security Tips & Tricks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-infinix-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Infinix Phone Hassle-Free</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-secrets-how-to-find-stored-passwords-in-macos-keychain-zdnet-method/"><u>Unlocking Secrets: How To Find Stored Passwords in macOS Keychain (ZDNet Method)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gpt-3-potential-through-python-scripting/"><u>Unveiling GPT-3 Potential Through Python Scripting</u></a></li>
+</ul></div>
 

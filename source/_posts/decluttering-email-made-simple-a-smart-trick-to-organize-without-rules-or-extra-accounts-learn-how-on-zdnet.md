@@ -1,7 +1,7 @@
 ---
 title: "Decluttering Email Made Simple: A Smart Trick to Organize Without Rules or Extra Accounts - Learn How on ZDNET"
-date: 2024-12-02T18:28:52.741Z
-updated: 2024-12-06T21:12:26.015Z
+date: 2024-12-11T16:47:28.070Z
+updated: 2024-12-12T23:11:06.981Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The magic of email aliases
@@ -65,7 +65,7 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -77,7 +77,7 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -91,7 +91,7 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -105,7 +105,7 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -146,18 +146,22 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-tips.techidaily.com/chatgpt-plus-is-it-a-valuable-addition-to-your-toolkit-learn-about-its-top-five-benefits/"><u>ChatGPT Plus: Is It a Valuable Addition to Your Toolkit? Learn About Its Top Five Benefits.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-paperwork-with-chatgpt-aid/"><u>Crafting Paperwork with ChatGPT Aid</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogue-dynamics-elevating-interaction-with-folder-management/"><u>Dialogue Dynamics: Elevating Interaction with Folder Management</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-lava-yuva-3-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Lava Yuva 3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/forefront-ai-an-overview-and-how-it-compares-to-chatgpt/"><u>Forefront AI: An Overview & How It Compares to ChatGPT</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-motorola-moto-g04-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Motorola Moto G04 Phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-illusion-exposing-nine-widespinas-misconceptions-about-bots/"><u>Inside the Illusion: Exposing Nine Widespinas Misconceptions About Bots</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagining-employment-with-generative-ai/"><u>Reimagining Employment with Generative AI</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-risks-and-protections-for-your-data-in-customized-generative-ai-systems-such-as-chatgpt/"><u>The Risks and Protections for Your Data in Customized Generative AI Systems Such as ChatGPT</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1723620190391-the-ultimate-guide-12-hilarious-mobile-faces-you-can-try-on-any-phone/"><u>The Ultimate Guide: 12 Hilarious Mobile Faces You Can Try on Any Phone!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-of-homework-assistance-apps-for-young-learners/"><u>The Ultimate Selection of Homework Assistance Apps for Young Learners</u></a></li>
-<li><a href="https://app-tips.techidaily.com/transform-your-ad-strategies-with-adobes-innovative-generative-ai-campaign-solutions-tech-news/"><u>Transform Your Ad Strategies with Adobe's Innovative Generative AI Campaign Solutions - Tech News</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-macs-most-reliable-snipers-reviewed-for-2024/"><u>[New] Mac's Most Reliable Snipers Reviewed for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-navigating-through-the-best-cricket-livestreams/"><u>[New] Masterclass Navigating Through the Best Cricket Livestreams</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigate-easy-customization-for-youtube-channel-urls/"><u>[New] Navigate Easy Customization for YouTube Channel URLs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-superior-real-time-media-streamers/"><u>[Updated] Superior Real-Time Media Streamers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-a-step-by-step-strategy-to-design-engaging-youtube-teasers/"><u>2024 Approved A Step-by-Step Strategy to Design Engaging YouTube Teasers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artistic-augmentation-or-duplication-pros-and-cons-of-ai-writing/"><u>Artistic Augmentation or Duplication? Pros & Cons of AI Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-plus-vs-perplexity-which-is-the-better-ai-chatbot/"><u>ChatGPT Plus Vs. Perplexity: Which Is the Better AI Chatbot?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-a-unique-experience-with-chatgpts-directive-capabilities/"><u>Crafting a Unique Experience with ChatGPT's Directive Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-proposals-via-gpt-3-wisdom/"><u>Elevate Your Proposals via GPT-3 Wisdom</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/highlighting-the-best-of-fig-skates-2022-for-2024/"><u>Highlighting the Best of Fig Skates 2022 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-explore-and-enjoy-locating-recently-liked-videos-on-facebook/"><u>In 2024, Explore & Enjoy Locating Recently Liked Videos on Facebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-workflow-the-best-8-chrome-extensions-using-ai-technology/"><u>Optimize Your Workflow: The Best 8 Chrome Extensions Using AI Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-measures-to-disable-chatgpts-memory-storage/"><u>Privacy Measures to Disable ChatGPT's Memory Storage</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-non-functional-realtek-microphone/"><u>Troubleshooting Guide: Fixing a Non-Functional Realtek Microphone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-superior-search-with-perplexity-ai/"><u>Unlock Superior Search with Perplexity AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-efficiency-incorporating-bings-ai-into-your-android-typing-experience/"><u>Unlocking Efficiency: Incorporating Bing's AI Into Your Android Typing Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-gpts-inner-workings-the-code-decipherer-explained/"><u>Unveiling GPT's Inner Workings: The Code Decipherer Explained</u></a></li>
 </ul></div>
 

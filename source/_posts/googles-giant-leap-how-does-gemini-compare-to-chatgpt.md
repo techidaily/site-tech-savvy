@@ -1,7 +1,7 @@
 ---
 title: "Google's Giant Leap: How Does Gemini Compare to ChatGPT?"
-date: 2024-09-12T07:42:46.804Z
-updated: 2024-09-13T07:42:46.804Z
+date: 2024-12-05T17:17:39.478Z
+updated: 2024-12-12T18:23:58.209Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,7 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 * [Is Gemini Better than ChatGPT?](https://homestyler.sjv.io/y209g3)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -49,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
  When Google launched Bard in March 2023, there were many reasons to be excited. Finally, OpenAI's ChatGPT monopoly would be broken, and we'd get worthy competition.
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is Google's Gemini AI Model?
 
@@ -75,11 +65,19 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to [bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
@@ -91,23 +89,9 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
@@ -125,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
@@ -141,19 +118,13 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
@@ -177,5 +148,23 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-engaging-audiences-the-impact-of-adding-youtube-music-to-videos/"><u>[Updated] 2024 Approved Engaging Audiences The Impact of Adding YouTube Music to Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-conveniently-connect-with-others-via-your-playlist-for-2024/"><u>[Updated] Conveniently Connect with Others via Your Playlist for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-transitioning-vids-from-twitter-to-fb-engagement-zone/"><u>[Updated] Transitioning Vids From Twitter to FB Engagement Zone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-unlocking-google-docs-transcription-your-complete-manual/"><u>[Updated] Unlocking Google Docs Transcription Your Complete Manual</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-close-look-at-dji-phantom-3s-high-end-capabilities-for-2024/"><u>A Close Look at DJI Phantom 3'S High-End Capabilities for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-your-gaming-experience-ps5-vip-purchase/"><u>Boosting Your Gaming Experience: PS5 VIP Purchase</u></a></li>
+<li><a href="https://article-tips.techidaily.com/mastering-in-video-narrations-a-step-by-step-guide-for-2024/"><u>Mastering In-Video Narrations A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-the-personalized-settings-of-ios-18-a-guide-to-tailoring-your-iphones-control-center-insights-from-zdnet/"><u>Mastering the Personalized Settings of iOS 18: A Guide to Tailoring Your iPhone's Control Center - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-productivity-connect-dual-displays-to-your-m3-macbook-pro-the-new-standard-in-apple-multitasking/"><u>Maximize Productivity: Connect Dual Displays to Your M3 MacBook Pro - The New Standard in Apple Multitasking!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/new-iphones-on-the-horizon-essential-anker-charging-tools-unveiled-by-zdnet/"><u>New iPhones on the Horizon: Essential Anker Charging Tools Unveiled by ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/premium-philips-somneo-overview-the-quintessential-wake-up-device/"><u>Premium Philips Somneo Overview: The Quintessential Wake Up Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-creativity-top-4-ai-powered-story-architects/"><u>Reimagining Creativity: Top 4 AI-Powered Story Architects</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-windows-10-storportsys-blue-screen-of-death-a-step-by-step-guide/"><u>Solving Windows 10 Storport.sys Blue Screen of Death: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727792842482-top-kid-friendly-smartphones-a-comprehensive-guide/"><u>Top Kid-Friendly Smartphones: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-your-gadgets-the-surprisingly-powerful-and-portable-8-in-1-adapter-a-steal-for-tech-enthusiasts-zdnet/"><u>Unleash Your Gadgets: The Surprisingly Powerful & Portable 8-in-1 Adapter - A Steal for Tech Enthusiasts! | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-exclusive-phasing-out-of-apples-pay-later-service-upcoming-substitute-on-the-horizon/"><u>ZDNet Exclusive: Phasing Out of Apple's Pay Later Service, Upcoming Substitute on the Horizon</u></a></li>
+</ul></div>
 

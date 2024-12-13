@@ -1,7 +1,7 @@
 ---
 title: Understanding GPT's Built-In Extensions
-date: 2024-12-02T01:35:26.730Z
-updated: 2024-12-06T22:26:12.688Z
+date: 2024-12-11T01:05:51.755Z
+updated: 2024-12-12T17:32:04.436Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
  Using ChatGPT doesn't just involve basic fact-finding. GPT-4, ChatGPT's premium model, has some interesting extra plugins: DALL-E, Browsing, and Code Interpreter. So, how do these ChatGPT plugins work, and what can you get out of them?
 
  On March 19, 2024, [OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in [custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are ChatGPT's Default Plugins?
 
@@ -71,12 +63,16 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 ![chatgpt search with bing ask question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-ask-question-jan-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you make the request, you'll be told that GPT is currently searching the web. It may take ten or so seconds to get your results or longer if your connection is patchy, OpenAI's servers are overwhelmed, or your request contains detailed information that takes time to search for.
 
 ![chatgpt search with bing whats the weather jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-search-with-bing-whats-the-weather-jan-2024.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When ChatGPT provides a response based on a web search, the source will always be provided in the bracketed quotation marks (**\["\]**) at the end of the response. You can regenerate the response if you're unhappy with the initial output by clicking on the circular arrow symbol under the response.
 
@@ -100,14 +96,10 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 
 ![chatgpt-dalle mouse next to river changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-dalle-mouse-next-to-river-changed-colour.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Though we asked ChatGPT to keep the image identical aside from one change, it made the change but also changed almost everything else about the image. Keep this downside in mind when using this plugin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Code Interpreter
@@ -124,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 
 ![screenshot of file upload for code interpretation in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/upload-python-gpt.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also ask ChatGPT to give you Python code for the function or program you want to create. However, this isn't part of the Interpreter plugin, so it can be used with GPT-3.5 or GPT-4\.
 
 ![Screenshot of ChatGPT python code excerpt response in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-python-excerpt.png)
@@ -136,13 +132,17 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 
 ![screenshot of chatgpt web search result in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-search.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![screenshot of ChatGPT mobile app dall-e response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-dalle.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot of ChatGPT python interpreter in mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-mobile-python.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -169,19 +169,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-11-tips-for-facebook-video-marketing-to-drive-more-traffic-for-2024/"><u>[New] 11 Tips for Facebook Video Marketing to Drive More Traffic for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-amazonprimes-winning-tweets-of-the-year-2023-for-2024/"><u>[New] AmazonPrime's Winning Tweets of the Year 2023 for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-reclaiming-gone-reddit-content-a-time-saving-guide/"><u>[New] Reclaiming Gone-Reddit Content A Time-Saving Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-swift-film-techniques-for-at-home-creators/"><u>[New] Swift Film Techniques for At-Home Creators</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/climate-skeptics-and-the-reality-of-temperature-records/"><u>Climate Skeptics and the Reality of Temperature Records</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-samsung-galaxy-a15-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Samsung Galaxy A15 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-best-free-downloaders-download-youtube-thumbnail-for-free/"><u>In 2024, Best Free Downloaders Download YouTube Thumbnail for Free</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oneplus-12-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your OnePlus 12 Is Unlocked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-without-constraints-top-gpt-utilities/"><u>Innovating Without Constraints: Top GPT Utilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/joke-generation-by-ai-can-it-trigger-our-humor-circuits/"><u>Joke Generation by AI: Can It Trigger Our Humor Circuits?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionizing-wood-craftsmanship-how-researchers-use-3d-printing-and-sawdust-ink-to-mimic-real-wood-characteristics/"><u>Revolutionizing Wood Craftsmanship: How Researchers Use 3D Printing & Sawdust Ink to Mimic Real Wood Characteristics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-in-depth-analysis-and-ratings-zdnet/"><u>Ultimate Guide to the Best MagSafe Wallets : In-Depth Analysis and Ratings | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-a-portable-powerhouse-can-the-latest-mac-mini-with-m4-processors-match-apple-tvs-size-and-performance-expert-analysis/"><u>Unveiling a Portable Powerhouse: Can the Latest Mac Mini With M4 Processors Match Apple TV's Size & Performance? | Expert Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/zooms-latest-feature-collaborating-on-the-vision-pro-headset-what-this-could-mean-for-your-video-calls-future-of-communications-blog/"><u>Zoom's Latest Feature: Collaborating on the Vision Pro Headset – What This Could Mean for Your Video Calls | Future of Communications Blog</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-youtube-hacked-mastery-over-skipping-video-startup-techniques/"><u>[New] In 2024, YouTube Hacked Mastery Over Skipping Video Startup Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-infuse-humor-in-content-simple-text-meme-creation/"><u>[Updated] Infuse Humor in Content Simple Text Meme Creation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-streamlining-content-sharing-between-pc-and-iphone-for-2024/"><u>[Updated] Streamlining Content Sharing Between PC and iPhone for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-googles-podcast-publishing-process/"><u>2024 Approved Mastering Google's Podcast Publishing Process</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-code-deciphering-gptbots-influence-on-internet-flow/"><u>Beyond Code: Deciphering GPTBot's Influence on Internet Flow</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowered-by-poe-to-tap-into-ai-botsllms/"><u>Empowered by PoE to Tap Into AI Bots/LLMs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/practical-gpt-techniques-unveiled/"><u>Practical GPT Techniques Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precision-in-conversations-6-things-not-to-do-with-gpt/"><u>Precision in Conversations: 6 Things Not To Do with GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-tips-how-to-nullify-chatgpts-recording-function/"><u>Privacy Tips: How to Nullify ChatGPT's Recording Function</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-issues-with-starfield-not-starting-on-steam-or-xbox/"><u>Troubleshooting Tips: Resolving Issues with Starfield Not Starting on Steam or Xbox</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oppo-a58-4g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo A58 4G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Elite 6 Magnates: Colossal NLP Experts Spotlighted"
-date: 2024-09-12T07:44:24.374Z
-updated: 2024-09-13T07:44:24.374Z
+date: 2024-12-08T18:01:35.288Z
+updated: 2024-12-13T00:42:02.012Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -45,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 
 ![A 3D render of the ChatGPT Logo](https://thmb.techidaily.com/9ea24c6282003fe5eaf1336598f1ab6b49832d478e258a2b3fdb222135f271e5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  GPT-4 is the most advanced publicly available large language model to date. Developed by OpenAI and released in March 2023, [GPT-4 is the latest iteration in the Generative Pre-trained Transformer series](https://www.makeuseof.com/gpt-models-explained-and-compared/) that began in 2018\. With its immense capabilities, GPT-4 has become one of the most widely used and most popular large language models in the world.
 
  While not officially confirmed, sources estimate GPT-4 may contain a staggering 1.76 trillion parameters, around ten times more than its predecessor, GPT-3.5, and five times larger than Google's flagship, PaLM 2\. This massive scale enables GPT-4's multimodal abilities, allowing it to process both text and images as input. As a result, GPT-4 can interpret and describe visual information like diagrams and screenshots in addition to text. Its multimodal nature provides a more human-like understanding of real-world data.
@@ -75,13 +72,6 @@ Image Credit: Marcelo Mollaretti/[Shutterstock](https://www.shutterstock.com/ima
 
  So, while GPT-4 marks a new milestone in AI, GPT-3.5 remains an impressively powerful model, able to compete with and sometimes surpass even the most advanced alternatives. Its continued refinement ensures it stays relevant even alongside flashier next-gen models.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Google's PaLM 2
 
 ![google palm 2 feature](https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e6a8838419dd9465e3b6b177.jpg)
@@ -94,22 +84,12 @@ Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-
 
  With 340 billion parameters, PaLM 2 stands among the world's largest models. It particularly excels at multilingual tasks and possesses strong math and programming abilities. Although not the best at it, PaLM 2 is also quite efficient at creative tasks like writing. So, while benchmarks painted an optimistic picture that didn't fully materialize, PaLM 2 still demonstrates impressive AI skills, even if not surpassing all competitors across the board.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. TII's Falcon-180B
 
 ![Falcon 180B](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/falcon-180b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unless you've been keeping up with the rapid pace of AI language model releases, you have likely never encountered Falcon-180B. Developed by UAE's Technology Innovation Institute, the 180 billion parameter Falcon-180 is one of the most powerful open-source language models out there, even if it lacks the name recognition of GPT models or the widespread use of Meta's Llama 2\. But make no mistake - Falcon-180B can stand toe-to-toe with the best in class.
@@ -122,18 +102,15 @@ Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-
 
 ![Llama illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/llama-illustration.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Llama 2, Meta AI's 70 billion parameter large language model, builds on its predecessor, Llama 1\. While smaller than leading models, Llama 2 significantly outperforms most publicly available open-source LLMs in benchmarks and real-world use. An exception would be the Falcon-180B.
 
  We tested Llama 2 against GPT-4, GPT-3.5, Claude 2, and PaLM 2 to gauge its capabilities. Unsurprisingly, GPT-4 outclassed Llama 2 across nearly all parameters. However, Llama 2 held its own against GPT-3.5 and PaLM 2 in several evaluations. While it would be inaccurate to claim Llama 2 is superior to PaLM 2, Llama 2 solved many problems that stumped PaLM 2, including coding tasks. Claude 2 and GPT-3.5 edged out Llama 2 in some areas but were only decisively better in a limited number of tasks.
 
  So, while not exceeding the capabilities of the largest proprietary models, [open-source Llama 2 punches above its weight class](https://www.makeuseof.com/what-is-llama-2-and-how-can-you-use-it/). For an openly available model, it demonstrates impressive performance, rivaling AI giants like PaLM 2 in select evaluations. Llama 2 provides a glimpse of the future potential of open-source language models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Performance Gap Between AI Models Is Narrowing
 
@@ -161,13 +138,6 @@ Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-
 
 ![meet claude anthropic ai logo feature](https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c1304de3ac8c4843a110a218e6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image Credit: [Anthropic](https://www.anthropic.com/product)
 
  While not as popular as GPT-4, Claude 2, developed by Anthropic AI, can match GPT -4's technical benchmarks and real-world performance in several areas. In some standardized tests, including select exams, Claude 2 outperforms GPT-4\. The AI language model also has a vastly superior context window at around 100,000 tokens, compared to GPT -4's 8k and 32k tokens models. Although larger context length doesn't always translate to better performance, Claude 2's expanded capacity provides clear advantages, like digesting entire 75,000-word books for analysis.
@@ -176,23 +146,9 @@ Image Credit: [Anthropic](https://www.anthropic.com/product)
 
  Despite having less financial backing than giants like OpenAI and Microsoft, Anthropic's Claude 2 AI model holds its own against the popular GPT models and Google's PaLM series. For an AI with fewer resources, Claude 2 is impressively competitive. If forced to bet on which existing model has the best chance of rivaling GPT in the near future, Claude 2 seems the safest wager. Though outgunned in funding, Claude 2's advanced capabilities suggest it can go toe-to-toe with even well-funded behemoths (though it's worth noting that Google has made several large contributions to Anthropic). The model punches above its weight class and shows promise as an emerging challenger.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. OpenAI's GPT-3.5
 
 ![person holding openai logo in hand feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/person-holding-openai-logo-in-hand-feature.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: Marcelo Mollaretti/[Shutterstock](https://www.shutterstock.com/image-photo/buenos-aires-argentina-march-20-2023-2281187903)
 
@@ -203,28 +159,12 @@ Image Credit: Marcelo Mollaretti/[Shutterstock](https://www.shutterstock.com/ima
  So, while GPT-4 marks a new milestone in AI, GPT-3.5 remains an impressively powerful model, able to compete with and sometimes surpass even the most advanced alternatives. Its continued refinement ensures it stays relevant even alongside flashier next-gen models.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Google's PaLM 2
 
 ![google palm 2 feature](https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e6a8838419dd9465e3b6b177.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/)
 
@@ -233,19 +173,6 @@ Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-
  In logical reasoning, mathematics, and creativity, PaLM 2 falls short of GPT-4\. It also lags behind Anthropic's Claude in a range of creative writing tasks. However, although it fails to live up to its billing as a GPT-4 killer, [Google's PaLM 2 remains a powerful language model](https://www.makeuseof.com/what-is-google-palm-2/) in its own right, with immense capabilities. Much of the negative sentiment around it stems from comparisons to models like GPT-4 rather than outright poor performance.
 
  With 340 billion parameters, PaLM 2 stands among the world's largest models. It particularly excels at multilingual tasks and possesses strong math and programming abilities. Although not the best at it, PaLM 2 is also quite efficient at creative tasks like writing. So, while benchmarks painted an optimistic picture that didn't fully materialize, PaLM 2 still demonstrates impressive AI skills, even if not surpassing all competitors across the board.
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. TII's Falcon-180B
 
@@ -257,22 +184,12 @@ Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-
 
  While we can't confidently say it is better than GPT-3.5 in overall performance, it makes a case for itself. While obscure, this model deserves attention for matching or exceeding the capabilities of better-known alternatives. You can try out the Falcon-180B model on [Hugging Face](https://www.makeuseof.com/what-is-hugging-face-and-what-is-it-used-for/) (an open-source LLM platform).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Meta AI's Llama 2
 
 ![Llama illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/llama-illustration.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Llama 2, Meta AI's 70 billion parameter large language model, builds on its predecessor, Llama 1\. While smaller than leading models, Llama 2 significantly outperforms most publicly available open-source LLMs in benchmarks and real-world use. An exception would be the Falcon-180B.
@@ -304,22 +221,12 @@ Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-
  In scientific benchmarks, GPT-4 significantly outperforms other contemporary models across various tests. While benchmarks alone don't fully demonstrate a model's strengths, real-world use cases have shown that GPT-4 is exceptionally adept at solving practical problems intuitively. GPT-4 is currently billed at $20 per month and [accessible through ChatGPT's Plus plan](https://www.makeuseof.com/how-to-use-gpt4/).
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Anthropic's Claude 2
 
 ![meet claude anthropic ai logo feature](https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c1304de3ac8c4843a110a218e6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: [Anthropic](https://www.anthropic.com/product)
 
@@ -345,13 +252,6 @@ Image Credit: Marcelo Mollaretti/[Shutterstock](https://www.shutterstock.com/ima
 
 ![google palm 2 feature](https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e6a8838419dd9465e3b6b177.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/)
 
  When evaluating an AI model's capabilities, the proven formula is to read the technical report and check benchmark scores, but take everything you learned with a grain of salt and test the model yourself. Counterintuitive as it may seem, benchmark results don't always align with real-world performance for some AI models. On paper, Google's PaLM 2 was supposed to be the GPT-4 killer, with official test results suggesting it matches GPT-4 across some benchmarks. However, in day-to-day use, a different picture emerges.
@@ -359,19 +259,6 @@ Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-
  In logical reasoning, mathematics, and creativity, PaLM 2 falls short of GPT-4\. It also lags behind Anthropic's Claude in a range of creative writing tasks. However, although it fails to live up to its billing as a GPT-4 killer, [Google's PaLM 2 remains a powerful language model](https://www.makeuseof.com/what-is-google-palm-2/) in its own right, with immense capabilities. Much of the negative sentiment around it stems from comparisons to models like GPT-4 rather than outright poor performance.
 
  With 340 billion parameters, PaLM 2 stands among the world's largest models. It particularly excels at multilingual tasks and possesses strong math and programming abilities. Although not the best at it, PaLM 2 is also quite efficient at creative tasks like writing. So, while benchmarks painted an optimistic picture that didn't fully materialize, PaLM 2 still demonstrates impressive AI skills, even if not surpassing all competitors across the board.
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. TII's Falcon-180B
 
@@ -383,35 +270,19 @@ Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-
 
  While we can't confidently say it is better than GPT-3.5 in overall performance, it makes a case for itself. While obscure, this model deserves attention for matching or exceeding the capabilities of better-known alternatives. You can try out the Falcon-180B model on [Hugging Face](https://www.makeuseof.com/what-is-hugging-face-and-what-is-it-used-for/) (an open-source LLM platform).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Meta AI's Llama 2
 
 ![Llama illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/llama-illustration.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Llama 2, Meta AI's 70 billion parameter large language model, builds on its predecessor, Llama 1\. While smaller than leading models, Llama 2 significantly outperforms most publicly available open-source LLMs in benchmarks and real-world use. An exception would be the Falcon-180B.
 
  We tested Llama 2 against GPT-4, GPT-3.5, Claude 2, and PaLM 2 to gauge its capabilities. Unsurprisingly, GPT-4 outclassed Llama 2 across nearly all parameters. However, Llama 2 held its own against GPT-3.5 and PaLM 2 in several evaluations. While it would be inaccurate to claim Llama 2 is superior to PaLM 2, Llama 2 solved many problems that stumped PaLM 2, including coding tasks. Claude 2 and GPT-3.5 edged out Llama 2 in some areas but were only decisively better in a limited number of tasks.
 
  So, while not exceeding the capabilities of the largest proprietary models, [open-source Llama 2 punches above its weight class](https://www.makeuseof.com/what-is-llama-2-and-how-can-you-use-it/). For an openly available model, it demonstrates impressive performance, rivaling AI giants like PaLM 2 in select evaluations. Llama 2 provides a glimpse of the future potential of open-source language models.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Performance Gap Between AI Models Is Narrowing
 
@@ -425,22 +296,12 @@ Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-
 
  But amidst the flurry of new releases, only a few models have risen to the top and proven themselves as true contenders in the large language model space. As we approach the end of 2023, we've put together the six most impressive large language models you should try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. OpenAI's GPT-4
 
 ![A 3D render of the ChatGPT Logo](https://thmb.techidaily.com/9ea24c6282003fe5eaf1336598f1ab6b49832d478e258a2b3fdb222135f271e5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  GPT-4 is the most advanced publicly available large language model to date. Developed by OpenAI and released in March 2023, [GPT-4 is the latest iteration in the Generative Pre-trained Transformer series](https://www.makeuseof.com/gpt-models-explained-and-compared/) that began in 2018\. With its immense capabilities, GPT-4 has become one of the most widely used and most popular large language models in the world.
@@ -453,6 +314,10 @@ Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-
 
 ![meet claude anthropic ai logo feature](https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c1304de3ac8c4843a110a218e6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credit: [Anthropic](https://www.anthropic.com/product)
 
  While not as popular as GPT-4, Claude 2, developed by Anthropic AI, can match GPT -4's technical benchmarks and real-world performance in several areas. In some standardized tests, including select exams, Claude 2 outperforms GPT-4\. The AI language model also has a vastly superior context window at around 100,000 tokens, compared to GPT -4's 8k and 32k tokens models. Although larger context length doesn't always translate to better performance, Claude 2's expanded capacity provides clear advantages, like digesting entire 75,000-word books for analysis.
@@ -461,28 +326,12 @@ Image Credit: [Anthropic](https://www.anthropic.com/product)
 
  Despite having less financial backing than giants like OpenAI and Microsoft, Anthropic's Claude 2 AI model holds its own against the popular GPT models and Google's PaLM series. For an AI with fewer resources, Claude 2 is impressively competitive. If forced to bet on which existing model has the best chance of rivaling GPT in the near future, Claude 2 seems the safest wager. Though outgunned in funding, Claude 2's advanced capabilities suggest it can go toe-to-toe with even well-funded behemoths (though it's worth noting that Google has made several large contributions to Anthropic). The model punches above its weight class and shows promise as an emerging challenger.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. OpenAI's GPT-3.5
 
 ![person holding openai logo in hand feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/person-holding-openai-logo-in-hand-feature.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: Marcelo Mollaretti/[Shutterstock](https://www.shutterstock.com/image-photo/buenos-aires-argentina-march-20-2023-2281187903)
@@ -504,13 +353,6 @@ Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-
  In logical reasoning, mathematics, and creativity, PaLM 2 falls short of GPT-4\. It also lags behind Anthropic's Claude in a range of creative writing tasks. However, although it fails to live up to its billing as a GPT-4 killer, [Google's PaLM 2 remains a powerful language model](https://www.makeuseof.com/what-is-google-palm-2/) in its own right, with immense capabilities. Much of the negative sentiment around it stems from comparisons to models like GPT-4 rather than outright poor performance.
 
  With 340 billion parameters, PaLM 2 stands among the world's largest models. It particularly excels at multilingual tasks and possesses strong math and programming abilities. Although not the best at it, PaLM 2 is also quite efficient at creative tasks like writing. So, while benchmarks painted an optimistic picture that didn't fully materialize, PaLM 2 still demonstrates impressive AI skills, even if not surpassing all competitors across the board.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. TII's Falcon-180B
 
@@ -549,5 +391,22 @@ Image Credit: [Google](https://blog.google/technology/ai/google-palm-2-ai-large-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-motivational-cinema-the-ultimate-guide-to-empowerment-films/"><u>[Updated] Motivational Cinema The Ultimate Guide to Empowerment Films</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premium-video-boosts-the-9-finest-webcam-effects/"><u>[Updated] Premium Video Boosts The 9 Finest Webcam Effects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-spectacular-screenwriting-revealed/"><u>[Updated] Spectacular Screenwriting Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/80-less-than-its-original-price-why-the-apple-watch-series-se-second-generation-is-a-bargain-even-after-prime-day-insights/"><u>$80 Less Than Its Original Price: Why the Apple Watch Series SE Second Generation Is a Bargain Even After Prime Day - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-vision-pro-mastery-capturing-flawless-images-and-videos-without-glitches-tips/"><u>Apple Vision Pro Mastery: Capturing Flawless Images & Videos Without Glitches - Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-apples-powerhouses-mac-mini-and-mac-studio-how-does-the-m2-stack-up-against-m1/"><u>Comparing Apple's Powerhouses: Mac Mini & Mac Studio - How Does the M2 Stack Up Against M1?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/critical-vulnerability-enables-unauthorized-application-installations-on-android-devices/"><u>Critical Vulnerability Enables Unauthorized Application Installations on Android Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-ai-limit-response-length-characterswords/"><u>Does AI Limit Response Length: Characters/Words?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enjoy-playstation-portable-games-on-iphone-with-the-latest-ppsspp-mobile-emulator/"><u>Enjoy PlayStation Portable Games on iPhone with the Latest PPSSPP Mobile Emulator</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/explore-the-latest-and-greatest-expert-reviews-of-iphone-12pro-cases-for-2aturity-levels-gizmodo/"><u>Explore the Latest and Greatest: Expert Reviews of iPhone 12/Pro Cases for 2Aturity Levels | Gizmodo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-3-evolution-unveiled-essential-game-changing-updates/"><u>GPT-3 Evolution Unveiled: Essential, Game-Changing Updates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/h501x4-fpv-quadcopter-unveiled-review-breakdown-for-2024/"><u>H501X4 FPV Quadcopter Unveiled - Review Breakdown for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-setup-adding-an-extra-thunderbolt-display-to-your-m1-mac-mini-a-step-by-step-guide-zdnet/"><u>Seamless Setup: Adding an Extra Thunderbolt Display to Your M1 Mac Mini - A Step-by-Step Guide (ZDNet)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-directory-where-to-download-youtube-ringtones-for-2024/"><u>Ultimate Directory Where to Download YouTube Ringtones for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Building Your Own ChatAI with GPT Foundations
-date: 2024-11-29T21:41:47.601Z
-updated: 2024-12-06T19:10:11.083Z
+date: 2024-12-12T00:07:36.032Z
+updated: 2024-12-12T21:33:07.845Z
 tags:
   - chatgpt
   - open-ai
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
 ![Generating a profile picture for a D&D 5e dungeon master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/generating-a-profile-picture-for-a-d-d-5e-dungeon-master-gpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can manually change the image, name, description, and instructions for your GPT by clicking **Configure**. Click the profile picture to change it, and edit the details in the **Name** **Description** and **Instructions** fields to change them without typing prompts.
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
 ![GPT Builder setting the tone and language for The 5e Dungeon Master GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-builder-setting-the-tone-and-language-for-the-5e-dungeon-master-gpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But, of course, if you are making a more professional GPT, ensure it uses professional language.
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
  If you find that it's not fulfilling your instructions as well as you want, go back to the **Create** tab and give it further instructions. But remember that new instructions mean you've effectively created a new version of your GPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Upload Files as a Knowledge Base
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
  If, for instance, you were trying to make a GPT that is an expert in Florida tax laws, you would get all the Florida tax legal documents you can find and upload them here to form a knowledge base your GPT can work with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add or Remove Capabilities
@@ -115,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
 2. Toggle **Web Browsing**, **DALL-E Image Generation**, and **Code Interpreter** on or off.  
 ![Capabilites in GPT Builder's settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/capabilites-in-gpt-builder-s-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Add APIs for Third-Party Services
 
  For those interested in using APIs to access other third-party services in their GPTs, you'll be happy to know that it's possible.
@@ -125,15 +129,15 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
 4. **Optional:** Scroll down and enter an authentication method and privacy policy.
 5. ![Testing weather API example in GPT Builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/testing-weather-api-example-in-gpt-builder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Go back when you're finished.
 
  If you don't enter a valid privacy policy, you won't be allowed to share your GPT with the public.
 
  Currently, you seem to be able to add only one action at a time. If you click the **Examples** dropdown menu, you'll see a few examples of schemas OpenAI has added to aid in creating your own schema.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Configure Conversation Starters
 
@@ -143,10 +147,6 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
 2. Go to the last empty field and type in a prompt to add a new conversation starter.
 3. Click the **X** next to a conversation starter block to remove it.  
 ![Configuring conversation starters in GPT builder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/configuring-conversation-starters-in-gpt-builder.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can add more conversation starters as required.
 
@@ -161,7 +161,7 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
  If you click the pencil icon in the share menu, you'll enter your builder profile, where you can change your GPT and profile options when this feature is fully released.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT's Limitations Still Apply to GPT Builder
@@ -189,20 +189,18 @@ thumbnail: https://thmb.techidaily.com/4ab3e373157609579296fbbc1201ca6b702ee2035
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capturing-live-streams-on-fb-top-techniques-revealed/"><u>[New] Capturing Live Streams on FB Top Techniques Revealed</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-ignite-imagination-crafting-engaging-content-themes/"><u>[New] In 2024, Ignite Imagination Crafting Engaging Content Themes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boost-your-apple-watchs-battery-discover-the-top-8-essential-settings-tweaks-tech-insights/"><u>Boost Your Apple Watch's Battery: Discover the Top 8 Essential Settings Tweaks | Tech Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-newest-add-ons-a-quick-registration-guide/"><u>ChatGPT's Newest Add-Ons: A Quick Registration Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-untrustworthy-is-chatgpt-for-secrets/"><u>How Untrustworthy Is ChatGPT for Secrets?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-vivo-s18-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo S18 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-homes-optimize-daily-tasks-with-gpt/"><u>Maximizing Homes: Optimize Daily Tasks with GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-gen-smartphones-faceoff-is-moving-from-iphone-14-pro-to-iphone-16-pro-worth-the-investment-zdnet-review/"><u>Next-Gen Smartphones Faceoff: Is Moving From iPhone 14 Pro to iPhone 16 Pro Worth the Investment? | ZDNet Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-day-to-day-with-these-4-chatgpt-productivity-techniques/"><u>Optimize Day-to-Day with These 4 ChatGPT Productivity Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/setting-up-smart-tech-auto-gpt-installation-guide/"><u>Setting Up Smart Tech: Auto-GPT Installation Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/snapshotsculptor-ultimate-photo-mosaic-builder-for-2024/"><u>SnapshotSculptor Ultimate Photo Mosaic Builder for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/mline-your-youtube-short-experience-for-2024/"><u>Streamline Your YouTube Short Experience for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-productivity-laptop-that-beats-thinkpads-and-macbooks-now-at-discounted-rates/"><u>Top Productivity Laptop That Beats ThinkPads & MacBooks - Now at Discounted Rates!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-professional-development-classes-on-linkedin/"><u>Top-Rated Professional Development Classes on LinkedIn</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-compact-tech-set-for-itinerant-filmmaking/"><u>[New] In 2024, Compact Tech Set for Itinerant Filmmaking</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-effortless-guide-to-designing-youtube-follow-links-for-2024/"><u>[Updated] Effortless Guide to Designing YouTube Follow Links for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-repost-photos-and-video-on-instagram-for-2024/"><u>[Updated] How to Repost Photos and Video on Instagram for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-goofy-flick-an-analysis-of-the-goofy-movie/"><u>[Updated] In 2024, Goofy Flick An Analysis of 'The Goofy Movie'</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-perfecting-panoramic-videography-with-premiere-pros-tools/"><u>2024 Approved Perfecting Panoramic Videography with Premiere Pro's Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-dictionary-at-a-glance-29-core-terms-unpacked/"><u>AI Dictionary at a Glance: 29 Core Terms Unpacked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-api-unveiled-a-step-by-step-guide/"><u>ChatGPT API Unveiled: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-chatgpt-for-enhanced-learning-and-engagement/"><u>Harnessing ChatGPT for Enhanced Learning and Engagement</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-defends-chatgpt-against-flailing-accusations/"><u>OpenAI Defends ChatGPT Against Flailing Accusations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/stepwise-process-for-high-quality-screen-captures-from-dell/"><u>Stepwise Process for High-Quality Screen Captures From Dell</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmasking-the-latest-in-machine-learning-gpt-4-vs-gpt-35/"><u>Unmasking the Latest in Machine Learning: GPT-4 Vs. GPT-3.5</u></a></li>
 </ul></div>
 

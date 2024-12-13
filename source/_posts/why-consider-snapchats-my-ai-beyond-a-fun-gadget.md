@@ -1,7 +1,7 @@
 ---
 title: Why Consider Snapchat’s My AI Beyond a Fun Gadget
-date: 2024-09-12T07:43:07.287Z
-updated: 2024-09-13T07:43:07.287Z
+date: 2024-12-09T22:34:29.068Z
+updated: 2024-12-12T17:51:42.704Z
 tags:
   - chatgpt
   - open-ai
@@ -28,23 +28,9 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. My AI Runs on GPT-3.5
 
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Snapchat uses the same [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
 
@@ -53,19 +39,13 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 ![Snapchat My AI Explaining the Details of an Image of an Object](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-recognizing-image-of-object.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -82,23 +62,9 @@ Close
 
 ![Snapchat My AI Roleplaying as Ash Ketchum from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-roleplay-request.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. My AI Can Pull Real-Time Information
 
@@ -108,19 +74,6 @@ Close
 
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
 Close
@@ -128,10 +81,7 @@ Close
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Snapchat’s Location Services Are Wholly Utilized
@@ -142,9 +92,17 @@ Close
 
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to > **Settings** \> **Privacy Controls** \> **My Location**. Toggle the Ghost Mode button to hide your location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. My AI Solves Intermediate Word Problems Correctly
 
@@ -161,10 +119,7 @@ Close
  Try rephrasing word problems that My AI answers wrong. You’ll generate better output if you compose clear, detailed prompts—avoid vague phrasing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Snapchat Continuously Updates My AI
@@ -198,5 +153,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-dissecting-viral-trends-for-immersive-fb-ad-content/"><u>[Updated] 2024 Approved Dissecting Viral Trends for Immersive FB Ad Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-channel-milestone-hurdle-cross-the-10k-view-threshold-fast/"><u>[Updated] Channel Milestone Hurdle – Cross the 10K View Threshold Fast!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-tips-for-steam-gamers-recordings-for-2024/"><u>[Updated] Essential Tips for Steam Gamers' Recordings for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-most-affordable-gaming-tunes-top-10-lists-for-2024/"><u>[Updated] The Most Affordable Gaming Tunes Top 10 Lists for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anthropics-ai-the-new-claude-3-playbook/"><u>Anthropic's AI: The New Claude 3 Playbook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anthropics-ai-transforming-ideas-with-claude-3/"><u>Anthropic's AI: Transforming Ideas with Claude 3</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-unveils-advanced-artificer-tech-for-future-iphones-in-depth-analysis/"><u>Apple Unveils Advanced Artificer Tech for Future iPhones: In-Depth Analysis</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-amazing-offers-prime-days-best-deals-for-oneplus-enthusiasts/"><u>Discover Amazing Offers: Prime Day's Best Deals for OnePlus Enthusiasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-huawei-p60-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Huawei P60 Phone without PIN</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-thriving-on-youtube-11-secrets-to-boosting-video-search-rankings/"><u>In 2024, Thriving on YouTube 11 Secrets to Boosting Video Search Rankings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-unresponsive-issues-a-guide-to-stabilizing-overwatch/"><u>Overcoming Unresponsive Issues – A Guide to Stabilizing Overwatch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-hygiene-and-safety-man-emerges-from-smart-restroom-for-quick-health-assessment-discover-more-at-zdnet/"><u>Revolutionizing Hygiene & Safety: Man Emerges From Smart Restroom for Quick Health Assessment - Discover More at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-copy-of-the-latest-apple-watch-series-10-today-exclusive-pre-order-guide-and-money-saving-tips-zdnet/"><u>Secure Your Copy of the Latest Apple Watch Series 10 Today - Exclusive Pre-Order Guide & Money-Saving Tips | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-unused-ai-conversation-capabilities-for-enhanced-interaction/"><u>Top 5 Unused AI Conversation Capabilities for Enhanced Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-enhancements-streamlining-the-chatgpt-plugin-directory/"><u>Top Enhancements: Streamlining the ChatGPT Plugin Directory</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-exploration-of-vsco-photography-functions-for-2024/"><u>Total Exploration of VSCO Photography Functions for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-secrets-how-to-find-stored-passwords-in-macos-keychain-zdnet-method/"><u>Unlocking Secrets: How To Find Stored Passwords in macOS Keychain (ZDNet Method)</u></a></li>
+</ul></div>
 

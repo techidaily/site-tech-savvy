@@ -1,7 +1,7 @@
 ---
 title: "Europe's AI Directive Unveiled: Implications for ChatGPT Systems"
-date: 2024-11-29T23:07:38.085Z
-updated: 2024-12-06T22:31:45.214Z
+date: 2024-12-08T19:15:45.903Z
+updated: 2024-12-13T01:20:02.718Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/35d94d879f36ec99317b8846f11d26f9aaf2a40f8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the EU AI Act?
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/35d94d879f36ec99317b8846f11d26f9aaf2a40f8
  While the EU AI Act has several objectives, its main aim is to somewhat reign in AI. This will be done by assessing the risk levels of AI systems, ensuring they follow EU laws, and enforcing transparency requirements for AI systems.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Who Will Be Affected by the EU AI Act?
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/35d94d879f36ec99317b8846f11d26f9aaf2a40f8
 ![wooden court hammer on white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/court-hammer-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While the EU AI Act is still in the works, there are concerns over how it will affect AI researchers, developers, and users within the EU.
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/35d94d879f36ec99317b8846f11d26f9aaf2a40f8
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
@@ -92,7 +92,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Interestingly, this threat came shortly after [Altman advocated for further AI regulation within the US](https://www.makeuseof.com/why-openai-ceo-calling-for-more-ai-regulation/) to mitigate the risks of AI development. We'll leave how that looks up to you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The EU's AI Act Could Alter AI Development
@@ -116,19 +116,18 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-stepwise-journey-to-excellence-in-voice-memos/"><u>[New] 2024 Approved Stepwise Journey to Excellence in Voice Memos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nleashing-your-youtube-potential-a-comprehensively-tailored-upload-process/"><u>[New] Unleashing Your YouTube Potential A Comprehensively Tailored Upload Process</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-captivating-thumbnails-a-digital-marketers-guidebook-for-2024/"><u>[Updated] Crafting Captivating Thumbnails A Digital Marketer's Guidebook for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/10-innovative-ai-software-for-professional-email-writing/"><u>10 Innovative AI Software for Professional Email Writing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/28-innovative-replacements-for-openais-point-of-sale-apps/"><u>28 Innovative Replacements for OpenAI’s Point-of-Sale Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-compelling-arguments-for-enterprises-dismissing-gpt/"><u>5 Compelling Arguments for Enterprises Dismissing GPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-ways-ai-chatbots-are-impacting-content-creation/"><u>8 Ways AI Chatbots Are Impacting Content Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-chatgpt-powered-tools-to-streamline-your-email-creation/"><u>9 ChatGPT-Powered Tools to Streamline Your Email Creation</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fast-tracking-your-gpus-capabilities-with-2024-ddu-guide/"><u>Fast-Tracking Your GPU's Capabilities with 2024 DDU Guide</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-s17e-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nokia-xr21-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia XR21 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722966155422-quick-download-hp-stream-printer-drivers-get-them-fast/"><u>Quick Download: HP Stream Printer Drivers - Get Them Fast!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-link-between-artificial-intelligence-and-modern-hacking-tactics-5-key-points/"><u>Unveiling the Link Between Artificial Intelligence and Modern Hacking Tactics: 5 Key Points</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-power-of-the-fujitsu-scansnap-ix1400-a-perfect-match-for-small-businesses-and-home-offices/"><u>Unveiling the Power of the Fujitsu ScanSnap iX1400: A Perfect Match for Small Businesses and Home Offices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-legends-of-arcade-combat-nintendos-top-ten-on-switch/"><u>[New] Legends of Arcade Combat Nintendo's Top Ten on Switch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-unveiling-manycams-cutting-edge-recording-system-for-2024/"><u>[New] Unveiling ManyCam's Cutting-Edge Recording System for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-expand-your-video-editing-experience-no-inshot-required/"><u>[Updated] Expand Your Video Editing Experience No Inshot Required</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-conquer-the-financial-frontier-of-tiktok-with-these-8-money-making-techniques/"><u>[Updated] In 2024, Conquer the Financial Frontier of TikTok with These 8 Money-Making Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-professionals-path-expert-strategies-for-360-youtube-live-broadcasting-for-2024/"><u>[Updated] The Professional's Path Expert Strategies for 360° Youtube Live Broadcasting for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-gpt-be-your-guide-through-wild-trails-and-hazards/"><u>Can GPT Be Your Guide Through Wild Trails and Hazards?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhanced-ai-conversations-with-siri-and-chatgpt-on-iphone/"><u>Enhanced AI Conversations with Siri and ChatGPT on iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-for-families-navigating-through-gpt-ai-insights/"><u>Guide for Families: Navigating Through GPT, AI Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proven-elements-for-optimal-bot-assisted-support-systems/"><u>Proven Elements for Optimal Bot-Assisted Support Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-personalized-health-top-7-reasons-with-chatgpt/"><u>The Future of Personalized Health: Top 7 Reasons with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-local-llm-conundrum-why-you-should-care-about-it/"><u>The Local LLM Conundrum: Why You Should Care About It</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/time-saving-tech-10-innovative-ai-pdf-extensions/"><u>Time-Saving Tech: 10 Innovative AI PDF Extensions</u></a></li>
 </ul></div>
 

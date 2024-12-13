@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: How CrowdStrike Triggered Windows' Meltdnought - A Historical Perspective on Cybersecurity [ZDNET]"
-date: 2024-12-01T23:35:12.145Z
-updated: 2024-12-06T17:26:39.672Z
+date: 2024-12-07T16:39:29.064Z
+updated: 2024-12-12T21:38:08.820Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,22 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-precision-adjustments-for-premium-zoom-audio/"><u>[New] In 2024, Precision Adjustments for Premium Zoom Audio</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-unraveling-details-a-closer-look-at-your-roblox-world-for-2024/"><u>[New] Unraveling Details A Closer Look at Your Roblox World for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-navigating-through-gesture-detection-methods/"><u>[Updated] 2024 Approved Navigating Through Gesture Detection Methods</u></a></li>
-<li><a href="https://discover-able.techidaily.com/adjusting-audio-preferences-via-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Adjusting Audio Preferences via Control Panel - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-chatgpt-the-introduction-of-vocal-responses-to-commands/"><u>Elevating ChatGPT: The Introduction of Vocal Responses to Commands</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-use-of-gpt-for-harmful-software/"><u>Navigating the Use of GPT for Harmful Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openais-approach-to-advanced-arithmetic/"><u>OpenAI's Approach to Advanced Arithmetic</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-corporate-correspondence-via-ai-practical-tips-and-tricks/"><u>Optimizing Corporate Correspondence via AI: Practical Tips & Tricks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-your-personal-information-from-chatgpt-a-guide-on-how-to-withdraw-consent/"><u>Protecting Your Personal Information From ChatGPT - A Guide on How to Withdraw Consent</u></a></li>
-<li><a href="https://blog-min.techidaily.com/rapid-songwriting-made-easy-mastering-the-art-of-creating-tunes-with-microsoft-copilot/"><u>Rapid Songwriting Made Easy: Mastering the Art of Creating Tunes with Microsoft Copilot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reimagine-your-note-taking-chatgpts-revolutionary-method/"><u>Reimagine Your Note Taking - ChatGPT's Revolutionary Method</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/samsung-smartphone-showdown-features-performance-and-benchmarks-of-the-galaxy-s24-vs-s23-ultra/"><u>Samsung Smartphone Showdown: Features, Performance & Benchmarks of the Galaxy S24 Vs. S23 Ultra</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-magic-5-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor Magic 5 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlined-ai-for-optimal-results-with-bing-android-edition/"><u>Streamlined AI for Optimal Results with Bing, Android Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-healing-ais-contribution-to-medicine/"><u>The Future of Healing: AI's Contribution to Medicine</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-five-mechanisms-ais-boost-to-malicious-online-activities/"><u>Unveiling the Five Mechanisms: AI's Boost to Malicious Online Activities</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-best-xsplit-alternatives-for-streaming/"><u>[New] In 2024, Best Xsplit Alternatives for Streaming</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-iphone-customization-changing-your-phones-tune/"><u>[New] In 2024, IPhone Customization Changing Your Phone's Tune</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-driven-content-creation-operational-companies-and-techniques/"><u>AI-Driven Content Creation: Operational Companies & Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-deception-true-tales-of-tech-and-false-fakes/"><u>Avoid Deception: True Tales of Tech & False Fakes</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/dvdmovavi-dvd-burning-guide-with-movavi-software/"><u>DVD記録プログラム『MOVAVI』の使い方 - DVD Burning Guide with Movavi Software</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-poco-f5-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Poco F5 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/instantaneous-itinerary-blueprints-the-finest-selection-of-7-budget-friendly-apps/"><u>Instantaneous Itinerary Blueprints – The Finest Selection of 7 Budget-Friendly Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/language-assistants-in-the-workplace-freelancers-choicebing-chat-or-chatgpt/"><u>Language Assistants in the Workplace: Freelancer's Choice—Bing Chat or ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-profits-a-guide-to-gpt-in-crypto-markets/"><u>Maximizing Profits: A Guide to GPT in Crypto Markets</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-talk-made-simple-29-essential-ai-phrases/"><u>Tech Talk Made Simple: 29 Essential AI Phrases</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dts-streamconvert/"><u>무료 DTS 소스 클린 대기표에 대한 전문적인 구성 지원 - StreamConvert</u></a></li>
 </ul></div>
 

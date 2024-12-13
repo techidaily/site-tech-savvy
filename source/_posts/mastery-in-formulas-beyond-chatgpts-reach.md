@@ -1,7 +1,7 @@
 ---
 title: Mastery in Formulas Beyond ChatGPT's Reach
-date: 2024-11-30T21:50:18.136Z
-updated: 2024-12-06T21:12:59.248Z
+date: 2024-12-11T19:56:28.639Z
+updated: 2024-12-12T16:18:46.923Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
@@ -48,12 +48,16 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
  While building out a single report can be handy, useful trends are more visible over long periods of time. Building dashboards to [visualize data trends](https://www.makeuseof.com/how-to-use-scatter-plot-predict-data-behavior-microsoft-excel/) and raise red flags immediately when things go wrong is still a highly valuable skill.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Customizable Report Creation in Excel
 
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
@@ -69,16 +73,12 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
  Make your reports more useful by adding some [simple Excel features](https://www.makeuseof.com/essential-excel-functions/). Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Easy-to-Use Forms in Excel
 
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
 
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
@@ -119,19 +119,21 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-cutting-edge-fullscreen-capture-programs/"><u>[New] 2024 Approved Cutting-Edge Fullscreen Capture Programs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-enhance-your-livestream-going-beyond-obs/"><u>[Updated] In 2024, Enhance Your Livestream Going Beyond OBS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-chatgpts-interpreter-6-essential-tasks/"><u>Discovering ChatGPT's Interpreter: 6 Essential Tasks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-reduce-virtual-reality-vr-sickness-for-2024/"><u>How to Reduce Virtual Reality (VR) Sickness for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-v27-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo V27 Activity | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-action-footage-enhanced-top-mic-picks/"><u>In 2024, Action Footage Enhanced Top Mic Picks</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-masterclass-top-10-makeup-artists-shaping-online-beauty-trends/"><u>In 2024, Masterclass Top 10 Makeup Artists Shaping Online Beauty Trends</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/redefining-high-performance-air-cooling-detailed-examination-and-comparative-analysis-of-the-id-cooling-frozn-series-a720-vs-a620/"><u>Redefining High-Performance Air Cooling: Detailed Examination and Comparative Analysis of the ID-Cooling FROZN Series (A720 Vs. A620)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reviving-troubled-sonos-experiences-with-apples-help-tech-insights/"><u>Reviving Troubled Sonos Experiences with Apple's Help | Tech Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/skip-the-sign-up-process-joining-apps-without-numbers/"><u>Skip the Sign-Up Process: Joining Apps without Numbers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/to-upgrade-or-not-to-upgrade-a-comprehensive-review-of-the-iphone-14-pro-compared-to-the-iphone-cu-13-pro-analysis/"><u>To Upgrade or Not to Upgrade: A Comprehensive Review of the iPhone 14 Pro Compared to the iPhone Cu 13 Pro Analysis</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-accessories-comprehensive-reviews-and-comparisons-by-industry-experts-techadvisor/"><u>Top-Rated Apple Watch Accessories : Comprehensive Reviews and Comparisons by Industry Experts | TechAdvisor</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-screen-guardians-your-ultimate-guide-techradar/"><u>Top-Rated Apple Watch Screen Guardians: Your Ultimate Guide | TechRadar</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-play-7t-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor Play 7T? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-pastimes-away-from-sports-stadiums-ranked/"><u>2024 Approved Premier Pastimes Away From Sports Stadiums, Ranked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-governance-oversight-organizations/"><u>AI Governance: Oversight Organizations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-ai-prompt-design-professional-trajectory-analysis/"><u>Delving Into AI Prompt Design: Professional Trajectory Analysis</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-xiaomi-redmi-note-12-proplus-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Xiaomi Redmi Note 12 Pro+ 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-business-strategies-with-chatgpt-insights-and-ideas/"><u>Enhancing Business Strategies with ChatGPT Insights and Ideas</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-popular-online-communities-facebook-twitter-instagram-and-youtube/"><u>Exploring Popular Online Communities: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gateway-to-advanced-ai-without-expenditure-4-methods/"><u>Gateway to Advanced AI Without Expenditure: 4 Methods</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/high-quality-hd-wallpaper-collection-the-iconic-bentley-bentayga-speed-edition-enhance-your-screen-with-premium-visuals-from-yl-computing/"><u>High-Quality HD Wallpaper Collection: The Iconic Bentley Bentayga Speed Edition - Enhance Your Screen with Premium Visuals From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-infinix-smart-8-plus-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Infinix Smart 8 Plus? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-in-2024-how-to-auto-translate-youtube-videos-into-different-languages/"><u>New In 2024, How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://fox-http.techidaily.com/pixels-of-peaceful-tales-video-critique/"><u>Pixels of Peaceful Tales Video Critique</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pros-cons-ai-driven-creative-writing-tools/"><u>Pros, Cons: AI-Driven Creative Writing Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-ig-post-featuring-podcast-insight/"><u>Quick IG Post Featuring Podcast Insight</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swiftly-cancel-gpt-interaction/"><u>Swiftly Cancel GPT Interaction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-the-future-the-leading-5-hardware-advancements-in-ai-sector/"><u>Transforming the Future: The Leading 5 Hardware Advancements in AI Sector</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-12-pro-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 12 Pro Max</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Linux & GPT: The Ultimate ShellGuide to ChatGPT"
-date: 2024-09-10T16:00:41.857Z
-updated: 2024-09-17T16:09:35.020Z
+date: 2024-12-11T00:43:00.695Z
+updated: 2024-12-12T18:40:25.422Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s ShellGPT, ChatGPT’s Equivalent Linux Namesake?
 
  ShellGPT, as it is more commonly known, is ChatGPT’s command-line equivalent, through which users can use and engage with the AI chatbot via their Linux terminal. The chatbot draws power from OpenAI’s Large Language Model, providing intelligent user recommendations.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
  What’s the benefit of installing ShellGPT on your machine? It’s simple; you don’t need to type in unnecessary long commands or head to your browser. Instead, you can perform all possible tasks from the comfort of your Linux terminal.
 
  Before installing ShellGPT on your Ubuntu machine, here are a few prerequisites to take care of.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 1: Install Python and PIP on Your Machine
 
@@ -114,16 +122,7 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 ![Ubuntu terminal window with code snippets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-virtual-environment-for-shellgpt-in-ubuntu-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 3: Generate an OpenAPI Key
@@ -136,13 +135,6 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ![OpenAI website interface showing a drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/view-api-keys-on-openai-website.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Do not share this key with anyone since the connection is private and should be used on your machine only.
 
  Copy the API key from the dialog box, and save it somewhere, since you won't be able to review the same key again.
@@ -150,15 +142,16 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 ![OpenAI's secret key website page with an open dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/generate-api-secret-key.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To establish a connection on your Ubuntu machine, create an environment variable with the **export** command:
 
 `export OPENAI_API_KEY=<paste key details here>`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Add and Verify the API Key Into a Virtual Environment Variable
 
@@ -170,6 +163,10 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 export OPENAI_API_KEY=<paste key details here>`
 
 ![Ubuntu terminal window with code snippets to create and save an environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-an-environment-variable-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Save and exit the editor. Then, use the source command to enable the changes.
 
@@ -184,10 +181,7 @@ export OPENAI_API_KEY=<paste key details here>`
  Your **OPENAI\_API\_KEY** environment variable should be listed in the output.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 5: Install ShellGPT on Ubuntu
@@ -207,13 +201,6 @@ export OPENAI_API_KEY=<paste key details here>`
 `sgpt "How many galaxies exist within the universe"`
 
 ![Ubuntu terminal interface with a query response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shellgpt-query-reponse.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using ShellGPT for Generating Code
 
@@ -250,5 +237,19 @@ export OPENAI_API_KEY=<paste key details here>`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-relaxed-riffs-20-country-songs-that-make-you-want-to-dance-and-chill-on-tiktok-for-2024/"><u>[Updated] Relaxed Riffs 20 Country Songs That Make You Want to Dance and Chill on TikTok for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-14-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-voice-recognition-for-dynamic-decks/"><u>2024 Approved Harnessing Voice Recognition for Dynamic Decks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/anticipated-release-new-ipad-pro-and-air-in-early-may-features-revealed-techzine/"><u>Anticipated Release: New iPad Pro & Air in Early May - Features Revealed | TechZine</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-amps-up-artificial-intelligence-initiatives-exploring-capabilities-of-its-latest-ai-models-insights-from-zdnet/"><u>Apple Amps Up Artificial Intelligence Initiatives: Exploring Capabilities of Its Latest AI Models - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-gold-vs-standard-membership-trade-offs/"><u>ChatGPT Gold Vs. Standard: Membership Trade-Offs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easing-anxiety-with-intelligent-ai-help/"><u>Easing Anxiety with Intelligent AI Help</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-f34-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy F34 5G Phone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-poco-c50-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Poco C50 to Another | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshoot-display-errors-solving-graphics-driver-issue-alert-on-your-pc/"><u>Troubleshoot Display Errors: Solving 'Graphics Driver Issue Alert' On Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-secrets-the-ultimate-tutorial-on-finding-lost-passwords-in-macos-keychain/"><u>Unlocking Secrets: The Ultimate Tutorial on Finding Lost Passwords in macOS Keychain</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-the-trick-to-dispose-of-non-standard-apps-from-your-pc/"><u>Unveiling the Trick to Dispose of Non-Standard Apps From Your PC</u></a></li>
+</ul></div>
 

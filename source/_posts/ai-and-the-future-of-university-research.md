@@ -1,7 +1,7 @@
 ---
 title: AI and the Future of University Research
-date: 2024-12-05T19:11:22.311Z
-updated: 2024-12-06T18:11:01.740Z
+date: 2024-12-05T22:01:31.417Z
+updated: 2024-12-12T18:11:06.583Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![Using Elicit for research](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/elicit-research-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Research assistant tools can help you complete certain research tasks more efficiently. One of the benefits of using [AI-powered research assistant tools](https://www.makeuseof.com/the-6-best-ai-tools-for-researchers-and-teachers/) is that they can assist in gathering relevant information from a large pool of data.
 
  Elicit is a tool that helps you with research procedures, such as brainstorming ideas, finding research papers, summarizing key takeaways, analyzing patterns, and more. With this tool, researchers can cut down the time it takes to manually find and go through information.
@@ -41,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  Elicit also allows you to manage your papers by categorizing research papers, creating personalized libraries, and the ability to have alerts and save searches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Smart Citations
@@ -51,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  Scite.ai uses AI-powered technology to provide system called Smart Citations. The Smart Citations system uses language processing that helps analyze academic articles to classify how specific research has been cited. It also provides information on whether the evidence supports or goes against the claims.
 
  Using a smart citation tool like Scite.ai can save you the trouble of having to manually analyze and understand the purpose behind how a certain paper is cited. Researchers are also able to cut down the time and effort spent on finding connections between papers, understanding how some studies are received in the scientific and research community, as well as identifying the effectiveness of research over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. AI-powered Research Tools
 
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  Just like Semantic Scholar, Google Scholar also makes use of AI to help you [research like a pro](https://www.makeuseof.com/google-scholar-search-tips/). With Google Scholar, researchers get to enjoy receiving relevant search results through AI algorithms. You can also use the automatic citation feature to avoid doing it yourself. But it’s still important to ensure that the citation format is accurate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. ChatGPT
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![Using prompts and questions in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-research-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT can help researchers navigate easily through their research processes by answering queries. When you [use prompts in ChatGPT correctly](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/), ChatGPT can lead you to sources related to your research topic. You can retrieve key information, article summaries, brainstorm ideas, or find connections between multiple research papers.
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
  ChatGPT is effective in aiding your research process and can help you cut down the time you spend on specific tasks, but it should not be used as a replacement for appropriate research methods.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using AI Tools to Improve Your Research Process
@@ -113,18 +113,22 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-choosing-between-vimeo-free-premium-and-pro-membership-levels/"><u>[New] In 2024, Choosing Between Vimeo Free, Premium & Pro Membership Levels</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-revisiting-your-secret-snap-archive/"><u>[Updated] Revisiting Your Secret Snap Archive</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-instructions-for-revitalizing-windows-pc-performance-with-updated-motherboard-drivers/"><u>Complete Instructions for Revitalizing Windows PC Performance with Updated Motherboard Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-winning-proposals-the-chatgpt-method/"><u>Crafting Winning Proposals: The ChatGPT Method</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/establish-a-home-friendly-low-cost-windows-simulation/"><u>Establish a Home-Friendly, Low-Cost Windows Simulation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/initiating-effective-chatgpt-dialogues/"><u>Initiating Effective ChatGPT Dialogues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rethinking-health-with-ai-can-chatgpt-help/"><u>Rethinking Health with AI: Can ChatGPT Help?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-grandest-gatherings-a-chronicle-of-the-most-voted-posts-top-10-for-2024/"><u>The Grandest Gatherings A Chronicle of the Most Voted Posts (Top 10) for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-8-mobile-game-mimicry-pcmac-edition/"><u>Ultimate 8 Mobile Game Mimicry: PC/Mac Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-and-utilizing-gpt-3-shared-links-effectively/"><u>Understanding and Utilizing GPT-3 Shared Links Effectively</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/unveiling-tiktok-to-twitter-conversion-for-2024/"><u>Unveiling TikTok to Twitter Conversion for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/you-can-now-use-bings-ai-powered-search-on-android-and-ios/"><u>You Can Now Use Bing's AI-Powered Search on Android and iOS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unparalleled-free-console-reproduction-software/"><u>[New] In 2024, Unparalleled Free Console Reproduction Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mastering-script-structuring/"><u>[Updated] 2024 Approved Mastering Script Structuring</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715860607967-2024-approved-capture-your-screen-in-a-flash-free-no-hassle/"><u>2024 Approved Capture Your Screen in a Flash - Free, No Hassle!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-ai-lexicon-key-phrases-every-techie-must-grasp/"><u>Decoding AI Lexicon: Key Phrases Every Techie Must Grasp</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-prompt-injection-in-ai-understanding-its-working-mechanism/"><u>Decoding Prompt Injection in AI - Understanding Its Working Mechanism</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-limitless-imagination-with-dall-e-3-bing/"><u>Discover Limitless Imagination with DALL-E 3 (Bing)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eliminating-faults-the-six-no-goes-of-ai-chatting/"><u>Eliminating Faults: The Six No-Goes of AI Chatting</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-task-efficiency-through-gpt-3-insights/"><u>Enhancing Task Efficiency Through GPT-3 Insights</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/enhancing-your-computers-efficiency-practical-tips-and-tweaks-discover-more-with-yl-software/"><u>Enhancing Your Computer's Efficiency: Practical Tips and Tweaks - Discover More with YL Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1726228147061-flac-wmv-movavi/"><u>FLAC, WMV를 원하는 사용자에게 이메일로 바로가기 – Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-analysis-samsungs-immersive-sphere-technology/"><u>In 2024, Extensive Analysis Samsung's Immersive Sphere Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-client-results-with-ai-driven-planning/"><u>Maximizing Client Results with AI-Driven Planning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/my-ai-assisted-adventure-in-podcast-scripting/"><u>My AI-Assisted Adventure in Podcast Scripting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-comedy-codex-a-practical-tutorial-for-gif-creation/"><u>The Comedy Codex A Practical Tutorial for GIF Creation</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-resolving-non-functioning-wacom-tablet-problems/"><u>Troubleshooting Fixes: Resolving Non-Functioning Wacom Tablet Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/venturing-into-the-realm-of-engaging-interactive-systems/"><u>Venturing Into the Realm of Engaging Interactive Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/win11s-ultimate-app-selection-for-quality-recording/"><u>Win11's Ultimate App Selection for Quality Recording</u></a></li>
 </ul></div>
 

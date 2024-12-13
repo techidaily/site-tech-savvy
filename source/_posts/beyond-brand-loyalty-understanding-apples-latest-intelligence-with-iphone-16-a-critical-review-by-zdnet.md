@@ -1,7 +1,7 @@
 ---
 title: "Beyond Brand Loyalty: Understanding Apple's Latest Intelligence with iPhone 16 - A Critical Review by ZDNET"
-date: 2024-12-01T18:15:25.214Z
-updated: 2024-12-06T20:01:04.364Z
+date: 2024-12-09T18:42:14.021Z
+updated: 2024-12-13T01:14:54.465Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -39,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -87,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -99,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -117,6 +113,10 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -158,16 +158,22 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-revolutionize-your-videography-workflow-recordingediting-on-adobe-connect/"><u>[New] 2024 Approved Revolutionize Your Videography Workflow Recording/Editing on Adobe Connect</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-cutting-edge-drone-footage-for-movies-and-tv/"><u>[New] In 2024, Cutting-Edge Drone Footage for Movies and TV</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamlined-approaches-to-documenting-whatsapp-discussions/"><u>[New] In 2024, Streamlined Approaches to Documenting WhatsApp Discussions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-obs-for-live-skype-recording/"><u>[New] Mastering OBS for Live Skype Recording</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-bringing-the-web-to-reality-embedding-youtube-videos-in-slides/"><u>[Updated] 2024 Approved Bringing the Web to Reality Embedding YouTube Videos in Slides</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/demystifying-bass-management-techniques-in-audio-systems/"><u>Demystifying Bass Management Techniques in Audio Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-advice-on-lifting-your-chatgpt-ban/"><u>Expert Advice on Lifting Your ChatGPT Ban</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-generative-ai-fails-in-humanized-text-conversations/"><u>How Generative AI Fails in Humanized Text Conversations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ignite-creativity-unique-ai-art-with-the-power-of-microsofts-copilot/"><u>Ignite Creativity: Unique AI Art with the Power of Microsoft's Copilot</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-instagram-snapshot-of-an-enlightening-episode/"><u>In 2024, Instagram Snapshot of an Enlightening Episode</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-written-work-with-gpt-4/"><u>Transform Written Work with GPT-4</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-blog-thumbnail-proportions-tips/"><u>[New] In 2024, Blog Thumbnail Proportions Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-examining-the-efficiency-of-screenrecorderelite-for-2024/"><u>[Updated] Examining the Efficiency of ScreenRecorderElite for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-development-trajectory-timeline-for-gpt-5/"><u>AI Development Trajectory: Timeline for GPT-5?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-revolution-7-ways-gpt-transforms-creativity/"><u>Content Revolution: 7 Ways GPT Transforms Creativity</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/exploring-the-societal-transformations-in-china-due-to-the-taiping-rebellion-insights-by-yl-computing-and-yl-software/"><u>Exploring the Societal Transformations in China Due to the Taiping Rebellion - Insights by YL Computing and YL Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-archive-your-conversations-with-chatgpt/"><u>How to Archive Your Conversations with ChatGPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-13-mini-to-roku-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 13 mini to Roku? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-content-nine-ways-ai-enters-the-game/"><u>Innovating Content: Nine Ways AI Enters the Game</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/overcoming-codec-conundrums-in-videos/"><u>Overcoming Codec Conundrums in Videos</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/revolutionize-your-project-with-complimentary-black-dashboard-reactgenezio-templates-from-creative-tim/"><u>Revolutionize Your Project with Complimentary Black Dashboard React/Genezio Templates From Creative Tim</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safety-in-dialogue-risks-with-chatgpt/"><u>Safety in Dialogue: Risks with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-flip-side-of-free-ai-counseling-services/"><u>The Flip Side of Free AI Counseling Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-calls-unveiling-top-6-breakthroughs-with-chatgpt-code/"><u>The Future Calls: Unveiling Top 6 Breakthroughs with ChatGPT Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/user-confidentiality-in-ai-driven-interactions/"><u>User Confidentiality in AI-Driven Interactions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/video-grabber-tool-decompiler-for-2024/"><u>Video Grabber Tool Decompiler for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wsus-simplified-a-detailed-overview-of-microsofts-windows-server-update-mechanism/"><u>WSUS Simplified: A Detailed Overview of Microsoft's Windows Server Update Mechanism</u></a></li>
 </ul></div>
 

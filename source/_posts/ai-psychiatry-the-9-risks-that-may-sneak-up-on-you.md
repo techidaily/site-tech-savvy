@@ -1,7 +1,7 @@
 ---
 title: "AI Psychiatry: The 9 Risks That May Sneak Up on You"
-date: 2024-12-05T01:07:58.824Z
-updated: 2024-12-07T01:22:22.724Z
+date: 2024-12-07T00:38:56.141Z
+updated: 2024-12-13T01:19:33.254Z
 tags:
   - chatgpt
   - open-ai
@@ -63,20 +63,12 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 ![Bing Chat Explains Anxiety Medication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-prescription-meds.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Meanwhile, ChatGPT diverts the topic to alternative medicine. It likely limits outputs to prevent saying anything harmful or misleading.
 
 ![ChatGPT Can't Provide Prescription Medication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-prescription-medication.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Chatbots Present Generic Information
 
@@ -88,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  A professional counselor or therapist would go beyond what AI suggests. You can use AI output as a starting point to better understand academic journals and research papers, but be sure to do deeper research or consult a professional.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Self-Diagnoses Are Rarely Accurate
 
  AI enables self-diagnoses. Instead of paying for therapy, patients ask chatbots to mimic mental health professionals. It’s quicker and cheaper than booking consultations.
@@ -102,11 +90,11 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![ChatGPT Can't Determine Your Disease Based on Symptoms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-explaining-anxiety-symptoms.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As a general rule, avoid self-diagnosis altogether. Getting on the wrong treatment plan or overlooking symptoms will cause more complications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. AI Has No Access to Your Medical Records
 
@@ -116,18 +104,22 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![Sharing Finance Problems With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/telling-chatgpt-about-finance-problems.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With enough context, AI could start providing personalized plans. The problem is that generative AI tools have token limits—they only remember a finite amount of data.
 
 ![ChatGPT Addressing the Root Cause of Finance-Related Anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-finance-related-anxiety.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The exact limits vary per platform. Bing Chat starts new chats after 20 turns, while ChatGPT remembers the last 3,000 words of conversations. But either way, neither tool will accommodate all your medical records. At best, generative AI tools can only string together select information, such as recent diagnoses or your current emotions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Machines Can’t Empathize With You
@@ -146,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 ![ChatGPT Giving Advice for Depression and Debt Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-advice-for-depression.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. AI Doesn’t Track Your Progress
 
  Managing the symptoms of mental illnesses involves long-term treatment and observation. There’s no easy remedy for mental health conditions. Like most patients, you might try several programs. Their effects vary from person to person—carelessly committing to generic options yields negligible results.
@@ -153,6 +149,10 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
  Many find the process overwhelming. And that’s why you should seek help from educated, empathetic professionals instead of advanced language models.
 
  Look for people who’ll support you throughout your journey. They should track your progress, assess which treatment plans work, address persistent symptoms, and analyze your mental health triggers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You Can’t Replace Consultations With AI Chatbots
 
@@ -179,21 +179,24 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-lightweight-recording-tool-windows-compatible/"><u>[New] 2024 Approved Lightweight Recording Tool, Windows Compatible</u></a></li>
-<li><a href="https://discover-help.techidaily.com/complete-guide-restore-accidentally-erased-footage-from-your-gopro-camera/"><u>Complete Guide: Restore Accidentally Erased Footage From Your GoPro Camera</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-smart-way-a-must-have-accessory-for-attaching-airtags-to-your-apple-tv-remotes-explore-today/"><u>Discover the Smart Way: A Must-Have Accessory for Attaching AirTags to Your Apple TV Remotes | Explore Today!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-the-most-out-of-chatgpt-implementing-gpt-4-now/"><u>Get the Most Out of ChatGPT: Implementing GPT-4 Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-latest-macos-15-sequoia-beta-for-macbook-and-mac-immediate-access-guide-zdnet/"><u>Get Your Hands-On the Latest macOS 15 Sequoia Beta for MacBook and Mac - Immediate Access Guide | ZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-depth-analysis-of-inshots-features-and-rankings/"><u>In-Depth Analysis of InShot's Features and Rankings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-assistants-join-bing-courtesy-of-microsoft/"><u>Intelligent Assistants Join Bing, Courtesy of Microsoft</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-workflow-on-mac-with-montereys-custom-focus-modes-to-minimize-distractions/"><u>Mastering Workflow on Mac with Monterey's Custom Focus Modes to Minimize Distractions</u></a></li>
-<li><a href="https://app-tips.techidaily.com/missing-in-action-the-elusive-free-windows-10-enhancement-program/"><u>Missing in Action: The Elusive Free Windows 10 Enhancement Program</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/steps-to-convert-rbteach-educational-videos-into-mp4mp3-format/"><u>Steps to Convert RBTEACH Educational Videos Into MP4/MP3 Format</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/strategies-for-accelerating-your-tech-profession-insights-from-zdnet/"><u>Strategies for Accelerating Your Tech Profession - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-widespread-fascination-with-chatbot-interactions/"><u>The Widespread Fascination with Chatbot Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-protective-cases-for-iphone-12-and-12-pro-2023s-ultimate-guide/"><u>Top Rated Protective Cases for iPhone 12 & 12 Pro: 2023'S Ultimate Guide</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-can-i-utilize-frequency-slicing-for-superior-acoustic-performance-in-2024/"><u>Updated Can I Utilize Frequency Slicing for Superior Acoustic Performance, In 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pro-level-video-editing-with-vivacut-full-review-and-guidebook/"><u>[New] Pro-Level Video Editing with VivaCut Full Review & Guidebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/api-mastery-with-chatgpt-practical-tips/"><u>API Mastery with ChatGPT: Practical Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-9-ingenious-methods-to-boost-personal-health/"><u>ChatGPT’s 9 Ingenious Methods to Boost Personal Health</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-communication-athletes-and-ai-partnership/"><u>Cutting-Edge Communication: Athletes & AI Partnership</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-snapchat-my-ais-impact-with-6-reasons/"><u>Deconstructing Snapchat My AI's Impact with 6 Reasons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/embracing-peace-gpts-stress-intervention/"><u>Embracing Peace: GPT’s Stress Intervention</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-auto-gpts-uniqueness-standing-out-from-chatgpts-tech/"><u>Exploring Auto-GPT’s Uniqueness - Standing Out From ChatGPT's Tech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/handling-stuck-google-chrome-sessions-how-to-force-relaunch-effectively/"><u>Handling Stuck Google Chrome Sessions: How to Force Relaunch Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-audio-shifting-with-head-movement-on-your-airpods-turn-off-dynamic-headtracking/"><u>How to Stop Audio Shifting with Head Movement on Your AirPods: Turn Off Dynamic Headtracking</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-dynamic-duo-enhancing-fb-live-with-monitor-sharing-capabilities/"><u>In 2024, Dynamic Duo Enhancing Fb Live with Monitor Sharing Capabilities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leading-edge-insights-discover-6-uses-for-ais-code-maestro/"><u>Leading-Edge Insights - Discover 6 Uses for AI's Code Maestro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sports-enthusiasts-guide-to-gpt-3-efficiency/"><u>Sports Enthusiasts' Guide to GPT-3 Efficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-resolve-live-chatgpt-flaws/"><u>Strategies to Resolve Live ChatGPT Flaws</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-inside-scoop-on-sonys-new-vr-tech-specs-pricing-and-launch-date-exposed/"><u>The Inside Scoop on Sony's New VR Tech: Specs, Pricing & Launch Date Exposed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-retrieving-past-web-content-using-the-wayback-machine-features/"><u>The Ultimate Guide to Retrieving Past Web Content Using the Wayback Machine Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/transformar-mp4-a-wmv-sin-gastos-guia-para-usar-servicios-de-conversion-en-linea-gratuitos/"><u>Transformar MP4 a WMV Sin Gastos: Guía Para Usar Servicios De Conversión en Línea Gratuitos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211145681-9781943451579-yoga-body-and-mind-handbook/"><u>Yoga Body and Mind Handbook | Free Book</u></a></li>
 </ul></div>
 

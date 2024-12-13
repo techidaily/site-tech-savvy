@@ -1,7 +1,7 @@
 ---
 title: "The Future Lingers: Expectations Surrounding GPT-5?"
-date: 2024-12-01T19:09:52.479Z
-updated: 2024-12-06T21:57:11.822Z
+date: 2024-12-05T22:41:30.129Z
+updated: 2024-12-12T20:38:30.008Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will There Be a GPT-5?
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Yes, there will almost certainly be a 5th iteration of OpenAI's GPT large language model called GPT-5\. Unfortunately, much like its predecessors, GPT-3.5 and GPT-4, OpenAI adopts a reserved stance when disclosing details about the next iteration of its GPT models. Instead, the company typically reserves such information until a release date is very close. This tight-lipped policy typically fuels conjectures about the release timeline for every upcoming GPT model.
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
@@ -73,22 +73,22 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4\.
 
  Also, there's been underground talk about GPT models being able to process videos, much like GPT-4 models can take images as inputs. So, we could possibly have a model that can process text, images, sound, and videos.
 
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
 
@@ -115,22 +115,22 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unpacked-strategies-for-optimal-viewing-of-live-videos/"><u>[New] 2024 Approved Unpacked Strategies for Optimal Viewing of Live Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unplugging-pauses-from-social-streams-a-2023-approach-to-fixing-livestream-issues/"><u>[New] 2024 Approved Unplugging Pauses From Social Streams A 2023 Approach to Fixing Livestream Issues</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-demystifying-instagrams-videography-cap-constraint-for-2024/"><u>[New] Demystifying Instagram’s Videography Cap Constraint for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-crafting-the-perfect-auditory-package-for-boxings/"><u>[New] In 2024, Crafting the Perfect Auditory Package For Boxings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/17-chatgpt-and-inbox-summarizer-top-17-ai-email-aids/"><u>17 ChatGPT & Inbox Summarizer: Top 17 AI Email Aids</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-innovative-ventures-with-chatgpts-language-engineer/"><u>6 Innovative Ventures with ChatGPT's Language Engineer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-reasons-how-chatgpt-revolutionizes-health-support/"><u>7 Reasons: How ChatGPT Revolutionizes Health Support</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/8-innovative-neural-network-solutions-for-the-modern-user/"><u>8 Innovative Neural Network Solutions for the Modern User</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-dangers-of-using-ai-as-your-free-therapist-or-psychiatrist/"><u>9 Dangers of Using AI as Your Free Therapist or Psychiatrist</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-v29-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo V29 Pro Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721402596491-chatgpt-unleashed-your-new-android-companion/"><u>ChatGPT Unleashed: Your New Android Companion</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/erfolgreiches-debuggen-wie-man-lacie-disketten-in-windows-10-sichtbar-macht/"><u>Erfolgreiches Debuggen: Wie Man LaCie-Disketten in Windows 10 Sichtbar Macht</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721421041266-gpt-4-free-and-open-to-all-yet-premium-users-reap-rewards-from-platinums-unparalleled-experience/"><u>GPT-4: Free and Open to All; Yet Premium Users Reap Rewards From Platinum's Unparalleled Experience.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-poco-c55-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Poco C55 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-chromebook-video-editors-guide-using-windows-and-mac-apps/"><u>New The Ultimate Chromebook Video Editors Guide Using Windows and Mac Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721391506101-tweet-no-more-emojis-linuss-leaks-trojan-breakdown-and-chatgpt-woes/"><u>Tweet No More Emojis, Linus's Leaks, Trojan Breakdown, & ChatGPT Woes.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-greater-security-configuring-your-twitch-account-with-2fa/"><u>Unlocking Greater Security: Configuring Your Twitch Account With 2FA</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-guide-to-perfecting-facetime-call-screen-captures/"><u>[New] Comprehensive Guide to Perfecting FaceTime Call Screen Captures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-beijings-glacial-gala-the-olympics-of-winter-2022/"><u>[New] In 2024, Beijing's Glacial Gala The Olympics of Winter, 2022</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-premium-eco-conscious-video-recorders-how-to-use/"><u>[New] In 2024, Premium Eco-Conscious Video Recorders How to Use</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-rockstar-games-launcher-not-working-2024-tips/"><u>[SOLVED] Rockstar Games Launcher Not Working – 2024 Tips</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-list-of-10-websites-specializing-in-modern-3d-graffiti-letters/"><u>[Updated] 2024 Approved The Ultimate List of 10 Websites Specializing in Modern 3D Graffiti Letters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-sites-that-link-you-to-youtube-promo-deals/"><u>[Updated] Unveiling Sites That Link You to YouTube Promo Deals</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-fix-for-apex-legends-simple-cheater-detection-problems/"><u>A Step-by-Step Fix for Apex Legends’ Simple Cheater Detection Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ascend-the-skies-differences-between-copilot-levels/"><u>Ascend the Skies: Differences Between CoPilot Levels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ceo-swap-at-ai-hub-the-future-of-chatgpt-inquiry/"><u>CEO Swap at AI Hub, The Future of ChatGPT Inquiry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-ai-constraints-in-virtual-assistants-and-its-influence/"><u>Decoding AI Constraints in Virtual Assistants and Its Influence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deep-learning-for-chatbot-conversational-mimicry/"><u>Deep Learning for Chatbot Conversational Mimicry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-ai-magic-with-dall-e-3-on-microsoft-bing-free/"><u>Discover AI Magic with DALL-E 3 on Microsoft Bing (Free)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-networking-how-chatgpt-boosts-your-chance-for-linkedin-employment/"><u>Enhancing Networking: How ChatGPT Boosts Your Chance for LinkedIn Employment</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-samsung-galaxy-a14-4g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Samsung Galaxy A14 4G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-insiders-guide-to-evening-photo-taking-for-2024/"><u>The Insider’s Guide to Evening Photo-Taking for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-chatbot-triad-gpt-microsofts-bot-and-googles-bard/"><u>The Ultimate Chatbot Triad: GPT, Microsoft's Bot & Google's Bard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-ideas-to-visuals-chatgpt-in-ai-artistry/"><u>Transforming Ideas to Visuals: ChatGPT in AI Artistry</u></a></li>
 </ul></div>
 

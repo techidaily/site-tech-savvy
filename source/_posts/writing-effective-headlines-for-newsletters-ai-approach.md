@@ -1,7 +1,7 @@
 ---
 title: Writing Effective Headlines for Newsletters (AI Approach)
-date: 2024-12-02T19:12:18.120Z
-updated: 2024-12-06T22:18:09.486Z
+date: 2024-12-09T17:49:28.098Z
+updated: 2024-12-12T19:51:05.224Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Provide Context for Your Work
 
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 ![chatgpt answers requests for social media templates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-05t164415-546.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Refine ChatGPT’s Responses to Focus on Key Information
 
  Overdependence is one of the biggest [mistakes to avoid when using ChatGPT for content creation](https://www.makeuseof.com/mistakes-to-avoid-using-chatgpt-content-creation/). ChatGPT’s responses are raw information. They serve as a starting point that you can infuse with your creativity. Refine the AI-generated content by adding your unique touch or filling in the gaps, ensuring the copy resonates with your audience.
@@ -90,17 +90,9 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 ![chatgpt shows revised social media captions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-05t170838-168.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The example above shows the new results after we inserted the brand guidelines in the prompt. The prompt we used was: "Revise the captions by considering the following brand guidelines \[insert brand guidelines\]."
 
  Adding the brand voice in the instructions gave us results that suited the brand's communication style so that the new social media posts would be consistent with previous postings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Experiment With Prompts
 
@@ -112,13 +104,13 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 ![chatgpt gives ideas for facebook posts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-05t171215-122.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The second prompt will generate a list of additional information that ChatGPT needs to tailor the results to your specific graphic design niche and audience. Each prompt is useful, depending on your specific goal.
 
 ![chatgpt gives tips for generating better facebook post ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/amplify-2023-10-05t171235-694.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Create a Social Media Prompt Bank
 
@@ -127,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
  Here’s a sample list that you can use for your prompt bank. Remember to add more context whenever necessary:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompts for a Social Media Calendar
@@ -136,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 * “Create \[number\] posts for \[upcoming holiday/event\].”
 * “Draft \[number\] posts for our \[product/service\] launch.”
 * “Brainstorm \[number\] ideas for our \[platform\] posts on \[topic\].”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Prompts for Social Media Captions
 
@@ -154,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 * “Explore evergreen content topics in our niche.”
 * “Brainstorm engaging content for the following customer testimonials: \[insert customer testimonials\].”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prompts to Repurpose Content
 
 * “Transform our blog post into a series of social media captions. \[Insert blog post\]”
@@ -163,7 +155,7 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
  If the prompt is lengthy (e.g., you need to insert a lengthy blog post), you can tell ChatGPT you will insert the content in parts. Let’s rewrite one of the prompts above to illustrate this tip: "Transform our blog post into a series of social media captions. I will paste the blog post in parts because it’s too long. Do you understand?"
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prompts for Influencer Collaborations
@@ -171,6 +163,10 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 * “Draft an outreach message for potential influencers.”
 * “Outline collaboration ideas with \[influencer name\] for \[product/service\].”
 * “Create teaser content for our upcoming influencer partnership.”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Prompts for Social Media Contests and Giveaways
 
@@ -183,6 +179,10 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
  Before publishing, review the content generated by ChatGPT. Pay attention to grammar, coherence, and adherence to your brand’s guidelines. A final look ensures the content aligns perfectly with your brand’s standards.
 
  You can also use other AI tools for editing and proofreading. For example, Grammarly can check for grammar, tone, and plagiarism. Again, these tools are helpful, but the final decision lies with you. As a social media writer, you should know your brand best.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Avoid Giving ChatGPT Sensitive Data
 
@@ -213,21 +213,20 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-delicious-diplomacy-popular-food-recipes-from-nations/"><u>[Updated] In 2024, Delicious Diplomacy Popular Food Recipes From Nations</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-how-to-extract-audio-from-tweets-and-save-as-mp3s/"><u>[Updated] In 2024, How to Extract Audio From Tweets and Save as MP3s</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-scaling-youtube-earnings-device-independent-studio-tactics/"><u>[Updated] In 2024, Scaling YouTube Earnings Device-Independent Studio Tactics</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-professional-recording-methods-for-your-social-video-sessions/"><u>[Updated] Professional Recording Methods for Your Social Video Sessions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystified-the-turing-test-and-its-potential-disruption/"><u>Demystified: The Turing Test & Its Potential Disruption</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-machines-potential-for-deception/"><u>Generative Machines: Potential for Deception</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/has-openais-control-over-gpt-eroded/"><u>Has OpenAI's Control Over GPT Eroded?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/movavi-vrije-omgevingsinstellingen-voor-m4a-wmv-verconversie-gratis-en-echtzeit-online/"><u>Movavi - Vrije Omgevingsinstellingen Voor M4A-WMV Verconversie, Gratis en Echtzeit Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/picsart-secret-conceal-faces-easily-for-2024/"><u>Picsart Secret Conceal Faces Easily for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-profitable-proposal-writing-via-gpt-powered-methods/"><u>Pioneering Profitable Proposal Writing via GPT-Powered Methods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pixel-6-pro-versus-iphone-13-pro-choosing-the-ultimate-high-end-smartphone-expert-comparison/"><u>Pixel 6 Pro Versus iPhone 13 Pro: Choosing the Ultimate High-End Smartphone – Expert Comparison</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-moto-g14-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Moto G14</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-filmmakers-first-steps-learning-15-fundamental-shots-for-2024/"><u>The Filmmaker's First Steps Learning 15 Fundamental Shots for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-apples-latest-ai-breakthrough-successful-progress-amid-areas-requiring-improvement-zdnet/"><u>Unpacking Apple's Latest AI Breakthrough: Successful Progress Amid Areas Requiring Improvement | ZDNet</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-freeze-time-a-step-by-step-guide-to-pausing-videos/"><u>Updated In 2024, Freeze Time A Step-by-Step Guide to Pausing Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-delegate-privacy-to-gpt/"><u>Why You Shouldn't Delegate Privacy to GPT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-advanced-techniques-for-educators-lecture-capture-on-mac-for-2024/"><u>[New] Advanced Techniques for Educator's Lecture Capture on Mac for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-evolution-of-drones-present-impact-and-future-prospects/"><u>[New] The Evolution of Drones Present Impact and Future Prospects</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-erase-effortlessly-social-media-live-on-desktop-and-phone/"><u>[Updated] In 2024, Erase Effortlessly Social Media Live on Desktop & Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-restrictions-7-unanswerable-queries-by-gpt/"><u>AI Restrictions: 7 Unanswerable Queries by GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cha-tting-with-ai-androids-voice-controlled-gpt-explained/"><u>Cha [T]ting with AI? Android's Voice Controlled GPT Explained</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-iphone-internet-sharing-tethering-failures/"><u>Diagnosing and Repairing iPhone Internet Sharing (Tethering) Failures</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-12-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 12 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-razr-40-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Razr 40 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-professioneel-webm-naar-m4v-konverteren-voor-gratis-in-online-omgeving/"><u>Movavi: Professioneel Webm Naar M4v Konverteren Voor Gratis in Online Omgeving</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-reveals-tool-against-unauthorized-gpt-outputs/"><u>OpenAI Reveals Tool Against Unauthorized GPT Outputs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-poco-c65-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Poco C65 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>The Ultimate Drone Journey Full Phantom 4 Features Explored</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/thoughtful-interactions-employing-gpt-ethically/"><u>Thoughtful Interactions: Employing GPT Ethically</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/when-algorithms-fail-the-perils-of-generative-ai/"><u>When Algorithms Fail: The Perils of Generative AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/writing-top-notch-resumes-chatgpt-guide/"><u>Writing Top-Notch Resumes: ChatGPT Guide</u></a></li>
 </ul></div>
 

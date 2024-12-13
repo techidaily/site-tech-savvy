@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Explained: Technology & Impact Simplified"
-date: 2024-09-12T07:43:54.287Z
-updated: 2024-09-13T07:43:54.287Z
+date: 2024-12-07T18:09:27.643Z
+updated: 2024-12-13T01:16:09.528Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,7 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 >
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Origins of OpenAI
@@ -49,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  The for-profit subsidiary began in 2019 with OpenAI Limited Partnership, as the company wanted to attract funding for its research.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OpenAI’s Main Projects and Achievements
 
 [OpenAI announced](https://openai.com/our-structure) its goal of $1 billion in donations but has only received a little over $130 million so far.
@@ -62,10 +63,7 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![ChatGPT Plus Open On a Computer Monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/andrew-neel-elegvhbtbb4-unsplash.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT (Chat Generative Pre-trained Transformer)](http://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) was launched on November 30, 2022\. It can be used for text generation and translation, content creation, and even casual communication.
@@ -96,22 +94,12 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  Though Codex was a nifty service, it was shut down in March 2023, with OpenAI recommending that users opt for ChatGPT instead.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Challenges and Controversies Faced by OpenAI
 
  OpenAI was founded to advance AI research and prevent its monopolization. But the research company faces challenges on different fronts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Regulatory Issues
@@ -121,19 +109,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
  For instance, there have been instances where DALL-E-generated images were used to spread fake news due to how original they looked.
 
  OpenAI has begun creating regulatory measures trying to prevent these scenarios. But some of these measures have also prevented the use of the models, even within normal parameters.
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Secrecy vs. Openness
 
@@ -146,22 +121,12 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
  There have been cases where [OpenAI’s models have shown biased content](https://www.makeuseof.com/does-chatgpt-lie/) due to the type of training data they were built with. Addressing this problem is complicated as it will need a lot of fine-tuning and comprehensive data selection. And even at that, it would be almost impossible to eradicate biased results.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Competition
 
  OpenAI has numerous for-profit competitors, such as DeepMind (a subsidiary of Alphabet Inc.) and NVIDIA Corporation, which is also developing AI solutions. For OpenAI to remain at the forefront, there must be continued innovations and collaborations. This has led them to move from their non-profit declaration to a hybrid that welcomes funding.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Does the Future Look Like for OpenAI?
 
@@ -184,5 +149,26 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-complete-lowdown-on-using-showmores-recorder/"><u>[New] In 2024, The Complete Lowdown on Using ShowMore's Recorder</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-setting-up-pip-mode-in-the-youtube-app-for-ios-devices/"><u>[New] Setting up PIP Mode in the YouTube App for iOS Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-8-image-collections-for-macbook-screens/"><u>2024 Approved Innovative 8 Image Collections for MacBook Screens</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerate-your-file-changing-game-srt-to-txt-in-a-flash-for-2024/"><u>Accelerate Your File Changing Game SRT to TXT in a Flash for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chagpts-ai-intuition-unchanged-assertion-by-openai/"><u>ChaGPT's AI Intuition: Unchanged Assertion by OpenAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-between-iphone-16-pro-and-14-pro-is-the-newest-model-worth-it-expert-review/"><u>Choosing Between iPhone 16 Pro and 14 Pro: Is the Newest Model Worth It? - Expert Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cracking-the-code-on-the-2024-great-crowdstrike-windows-meltdown-a-deep-dive-into-history-with-zdnets-analysis/"><u>Cracking the Code on the 2024 Great CrowdStrike-Windows Meltdown: A Deep Dive Into History with ZDNET's Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-bingcoin-hoaxes-a-crypto-guide/"><u>Deciphering BingCoin Hoaxes: A Crypto Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-most-anticipated-ios-18-advances-from-apples-latest-worldwide-developers-conference-how-ai-enhances-user-experience-gadgetflow-news/"><u>Discover the Most Anticipated iOS 18 Advances From Apple's Latest Worldwide Developers Conference - How AI Enhances User Experience | GadgetFlow News</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-preventing-manor-lords-from-crashing-on-your-computer/"><u>Effective Fixes for Preventing Manor Lords From Crashing on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-engagement-making-chatgpt-talks-public/"><u>Elevating Engagement: Making ChatGPT Talks Public</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-ai-resources-for-comprehensive-online-investigations/"><u>Expert AI Resources for Comprehensive Online Investigations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-boost-income-secrets-to-successful-youtube-shorts-earning/"><u>In 2024, Boost Income Secrets to Successful YouTube Shorts Earning</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalizing-your-desktop-image-in-windows-easily/"><u>Personalizing Your Desktop Image in Windows Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quickly-troubleshoot-ignition-problems-using-our-advanced-bluetooth-diagnostic-tool-for-cars-autotech-hub/"><u>Quickly Troubleshoot Ignition Problems Using Our Advanced Bluetooth Diagnostic Tool for Cars | AutoTech Hub</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-productivity-discovering-7-advantages-of-chatgpt-in-workflow/"><u>Unlock Productivity: Discovering 7 Advantages of ChatGPT in Workflow</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unbiased-review-of-videopad-video-editor-worth-the-investment-or-not/"><u>Updated In 2024, Unbiased Review of Videopad Video Editor Worth the Investment or Not?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-in-accessibility-discover-how-apple-made-the-iphone-16-more-user-friendly-for-diy-repairs-zdnet-insight/"><u>Upgrade in Accessibility: Discover How Apple Made the iPhone 16 More User-Friendly for DIY Repairs | ZDNet Insight</u></a></li>
+</ul></div>
 

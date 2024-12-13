@@ -1,7 +1,7 @@
 ---
 title: Personalizing Your iPhone's Control Panel via iOS 18 Settings – Expert Advice
-date: 2024-12-02T19:05:20.041Z
-updated: 2024-12-06T20:13:45.092Z
+date: 2024-12-09T18:12:15.227Z
+updated: 2024-12-12T20:19:07.470Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -41,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -67,6 +67,10 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,20 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-elevate-video-editing-expert-use-of-obs-on-mobile-devices/"><u>[New] In 2024, Elevate Video Editing Expert Use of OBS on Mobile Devices</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-fraps-screen-recorder-review-for-2024/"><u>[Updated] Fraps Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-xr-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone XR How to Bypass?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-how-companies-employ-chatgpt/"><u>Behind the Scenes: How Companies Employ ChatGPT</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/choreographing-climactic-crescendos-for-2024/"><u>Choreographing Climactic Crescendos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/clarifying-nlp-and-machine-learning-distinctions/"><u>Clarifying NLP & Machine Learning Distinctions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conquering-the-sign-in-snag-with-chatgpt/"><u>Conquering the Sign-In Snag with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-empathy-through-chatgpt-utilization/"><u>Enhancing Empathy Through ChatGPT Utilization</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-freeze-resolving-steam-problems-during-games-on-win-11/"><u>Fixing the Freeze: Resolving Steam Problems During Games on Win 11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-battle-of-bros-hero5-black-and-virb-ultra-face-off/"><u>In 2024, Battle of Bros Hero5 Black & VIRB Ultra Face Off</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/master-picks-for-commercial-cloud-space-for-2024/"><u>Master Picks for Commercial Cloud Space for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/radiant-tone-refactoring-pro/"><u>Radiant Tone Refactoring Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-path-to-ingenious-visuals-mastery-over-microsofts-copilot/"><u>The Path to Ingenious Visuals: Mastery Over Microsoft's Copilot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-ais-evolution-spells-worse-cybersecurity-troubles/"><u>Why AI's Evolution Spells Worse Cybersecurity Troubles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/writing-winning-business-proposals-with-chatgpt/"><u>Writing Winning Business Proposals with ChatGPT</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-lgs-monitor-marvel-an-exhaustive-look-at-ultra-clear-technology/"><u>[New] 2024 Approved LG's Monitor Marvel An Exhaustive Look at Ultra-Clear Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-from-novice-to-pro-building-perfect-circles-and-spheres-in-mc/"><u>[New] From Novice to Pro Building Perfect Circles & Spheres in MC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-visuals-saving-and-downloading-on-smartphones/"><u>[New] Twitter's Visuals Saving and Downloading on Smartphones</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-disappear-and-reappear-avoiding-shadowbans-on-tiktok/"><u>[Updated] Disappear and Reappear Avoiding Shadowbans on TikTok</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-livestreaming-titan-face-off/"><u>[Updated] In 2024, LiveStreaming Titan Face-Off</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-title-tag-and-description-mastery-for-youtube-success/"><u>[Updated] In 2024, Title, Tag & Description Mastery for YouTube Success</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-securing-and-optimizing-virtual-meetings-with-zoom-on-windows-11/"><u>[Updated] Securing and Optimizing Virtual Meetings with Zoom on Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-productivity-6-essential-chatgpt-tools-for-remote-jobs/"><u>AI-Powered Productivity: 6 Essential ChatGPT Tools for Remote Jobs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-bots-with-gpt-3-and-python/"><u>Building Bots with GPT-3 & Python</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/epiphany-talking-to-chatgpt-made-simple/"><u>Epiphany: Talking to ChatGPT Made Simple</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smartphone-deals-and-digital-safety-unveiled/"><u>Smartphone Deals & Digital Safety Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/steering-ai-ethics-why-openais-ceo-calls-for-oversight/"><u>Steering AI Ethics: Why OpenAI's CEO Calls for Oversight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-restoring-lost-text-messages-across-all-phones/"><u>Step-by-Step Tutorial: Restoring Lost Text Messages Across All Phones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/suddenly-no-more-chatgpt-in-italy-the-banned-reason/"><u>Suddenly No More ChatGPT in Italy: The Banned Reason</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-job-applications-write-cover-letters-via-chatai/"><u>Transform Your Job Applications: Write Cover Letters via ChatAI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-the-dangers-of-fraudgpt-cybersecurity-protocols/"><u>Unraveling the Dangers of FraudGPT: Cybersecurity Protocols</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-oled-and-how-does-it-work/"><u>What Is OLED and How Does It Work?</u></a></li>
 </ul></div>
 

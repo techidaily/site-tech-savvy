@@ -1,7 +1,7 @@
 ---
 title: "Expert Opinion on the iPhone 15: Compelling Reasons to Choose This Model Over Others | ZDNet"
-date: 2024-12-06T00:43:15.356Z
-updated: 2024-12-06T18:55:13.893Z
+date: 2024-12-07T22:57:23.265Z
+updated: 2024-12-12T21:52:09.582Z
 tags:
   - apple
 categories:
@@ -31,16 +31,12 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Here's why ZDNET editors will be upgrading to the iPhone 16
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. The camera
 
@@ -88,16 +84,12 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -111,7 +103,7 @@ Essentially, this is Apple's first iPhone marketed with an AI push, and like eve
 Jason Perlow is on the same page. "Let's not diminish the product for what it is: the iPhone 16 is undeniably great hardware. But unless you're using a old phone -- like my colleague [David Gewirtz's iPhone 12](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/), which is four generations behind -- you should strongly consider skipping this generation. Why? Because Apple Intelligence, while promising, is still in its infancy," Perlow wrote in one of his [recent pieces](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Not compelled enough to upgrade
@@ -122,11 +114,19 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Expense and hassle
 
 Sometimes it's the most obvious factors that influence our choices. The expense and hassle of coordinating a new phone may not be in some people's budgets just yet (literally and figuratively). I'm in this department. It would be really cool to have that shiny, beautiful, and gloriously pink iPhone 16, but my iPhone 14 Pro works completely fine (even though its battery grinds my gears), and I have no good reason to upgrade beyond wanting a pink phone. It would be an added expense on both my wallet and my time (setting up a new phone is not a one-day process; change my mind). Plus, I usually keep my phones until they crap out anyway, so an upgrade right now is just not in the cards. 
 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
 
@@ -168,22 +168,22 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-best-12-youtube-gaming-intro-makers-free-and-paid-for-2024/"><u>[Updated] Best 12 YouTube Gaming Intro Makers - Free and Paid for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-increase-click-through-with-best-youtube-thumbnail-fonts/"><u>[Updated] In 2024, Increase Click-Through with Best YouTube Thumbnail Fonts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-online-bunches-of-premium-quality-vector-icons/"><u>2024 Approved Best Online Bunches of Premium-Quality Vector Icons</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/corporate-challenges-five-reasons-to-question-ai-dialogue-systems/"><u>Corporate Challenges: Five Reasons to Question AI Dialogue Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-a-symphony-of-sights-and-sounds-in-video/"><u>Crafting a Symphony of Sights & Sounds in Video</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/export-and-share-with-ease-top-4-applications-for-gpt-3-histories/"><u>Export & Share with Ease: Top 4 Applications for GPT-3 Histories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-assisted-storytelling-9-essential-guides-for-novelists/"><u>GPT-Assisted Storytelling: 9 Essential Guides for Novelists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-to-governance-in-artificial-worlds/"><u>Guide to Governance in Artificial Worlds</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-boost-performance-and-eliminate-glitches-on-red-dead-redemption-2/"><u>How to Boost Performance & Eliminate Glitches on Red Dead Redemption 2</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mystery-unraveled-what-is-the-new-gpt/"><u>Mystery Unraveled: What Is the New GPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pixel-6-pro-versus-iphone-13-pro-in-depth-comparison-and-buyers-guide-for-the-ultimate-smartphone/"><u>Pixel 6 Pro versus iPhone 13 Pro: In-Depth Comparison and Buyer's Guide for the Ultimate Smartphone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-content-with-chatgpt-techniques/"><u>Revolutionizing Content with ChatGPT Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-wireguard-why-this-new-age-vpn-protocol-stands-out/"><u>Understanding WireGuard: Why This New-Age VPN Protocol Stands Out</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-exclusive-deal-on-new-apple-pencil-2nd-gen-for-just-95-perfect-gift-idea-this-labor-day-sourced-by-zdnet/"><u>Unlock Exclusive Deal on New Apple Pencil (2Nd Gen) for Just $95 - Perfect Gift Idea This Labor Day, Sourced by ZDNET!</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/virtual-camera-revolution-elevate-online-presentations-using-manycam-technology/"><u>Virtual Camera Revolution: Elevate Online Presentations Using ManyCam Technology</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-civi-3-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Civi 3 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eginners-blueprint-for-online-content-simple-straightforward-video-projects/"><u>[New] Beginner's Blueprint for Online Content Simple, Straightforward Video Projects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ghostly-replay-instructional-guide/"><u>[New] Ghostly Replay Instructional Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-picture-perfect-presentation-software-for-impeccable-photo-framing-for-2024/"><u>[New] Picture Perfect Presentation Software for Impeccable Photo Framing for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-link-up-in-the-world-of-instagram/"><u>2024 Approved How-To Link Up in the World of Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-experts-gopro-buyers-companion/"><u>2024 Approved The Expert's Gopro Buyer’s Companion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/addressing-excessive-load-warning-windows-chatgpt/"><u>Addressing Excessive Load Warning: Windows ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-illustration-journey-merging-dall-e-and-gpt-4-capabilities/"><u>AI Illustration Journey: Merging DALL-E & GPT-4 Capabilities</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-honor-magic5-ultimate-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-we-trust-cgp-for-health-insights/"><u>Can We Trust CGP for Health Insights?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clause-by-clause-using-anthropics-claude-3/"><u>Clause by Clause: Using Anthropic's Claude 3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-wav-files-to-au-format-free-online-movavi-converter/"><u>Convert WAV Files to AU Format Free Online - Movavi Converter</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-predictive-ai-insights-into-its-operation/"><u>Deciphering Predictive AI: Insights Into Its Operation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-assistance-in-smarter-hr-processing/"><u>GPT Assistance in Smarter HR Processing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-7-best-ai-prompt-marketplaces/"><u>The 7 Best AI Prompt Marketplaces</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-impact-of-artificial-intelligence-on-modern-gaming-dynamics/"><u>The Impact of Artificial Intelligence on Modern Gaming Dynamics</u></a></li>
+<li><a href="https://driver-download.techidaily.com/trustworthy-and-speedy-access-to-canon-mg3620-drivers-start-printing-today/"><u>Trustworthy and Speedy Access to Canon MG3620 Drivers - Start Printing Today</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oneplus-nord-ce-3-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When OnePlus Nord CE 3 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

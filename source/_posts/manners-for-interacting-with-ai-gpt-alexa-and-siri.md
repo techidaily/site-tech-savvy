@@ -1,7 +1,7 @@
 ---
 title: "Manners for Interacting with AI: GPT, Alexa & Siri"
-date: 2024-12-02T16:15:54.317Z
-updated: 2024-12-06T16:22:17.025Z
+date: 2024-12-10T00:24:08.445Z
+updated: 2024-12-12T16:06:35.284Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It doesn't make a difference if you're polite to AI. This is because AI like ChatGPT, Alexa, or Siri cannot process emotions like humans, and it won't be offended if you're not polite.
@@ -44,10 +44,14 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For instance, if you use derogatory words when addressing [Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/), it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
@@ -55,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's [Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/), which includes a **Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the [Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
  Of course, by using AI to reward children when they say "please" or "thank you," you could condition your children to be more polite when interacting with humans. Shouting at and being abusive to your AI probably delivers a poor lesson in communication, whether the ChatGPT or Alexa has feelings or not.
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
 
@@ -81,7 +81,7 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
  On the other hand, you can [set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -109,19 +109,16 @@ Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-archive-slideshow-in-high-quality-video/"><u>[New] In 2024, Archive Slideshow in High-Quality Video</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quiet-filming-techniques-to-consider-first/"><u>[Updated] 2024 Approved Quiet Filming Techniques to Consider First</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-skills-for-recording-private-whatsapp-talks-for-2024/"><u>[Updated] Essential Skills for Recording Private WhatsApp Talks for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enlarge-your-videos-thumbnail-on-youtube-easily/"><u>[Updated] In 2024, Enlarge Your Video's Thumbnail on YouTube Easily</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-cinematic-wonders-with-hero5-black-a-filmmakers-companion/"><u>2024 Approved Cinematic Wonders with Hero5 Black A Filmmaker's Companion</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-elevate-your-messaging-game-with-hidden-whatsapp-secrets/"><u>2024 Approved Elevate Your Messaging Game with Hidden WhatsApp Secrets</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-ultimate-guide-to-integrating-snap-photos-in-teams/"><u>2024 Approved The Ultimate Guide to Integrating Snap Photos in Teams</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-criteria-preparing-chatgpt-as-a-mental-wellness-aid/"><u>6 Criteria: Preparing ChatGPT as a Mental Wellness Aid</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-concerns-about-automated-messaging-ai/"><u>7 Concerns About Automated Messaging AI</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-features-to-consider-when-subscribing-to-an-ai-chatbot-service/"><u>7 Features to Consider When Subscribing to an AI Chatbot Service</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/affordable-access-singapores-small-businesses-get-microsoft-copilot-deals-zdnet-insights/"><u>Affordable Access: Singapore's Small Businesses Get Microsoft Copilot Deals - ZDNet Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721393230759-no-more-payments-for-gpt-4-but-remember-plus-continues-to-innovate-with-6-key-features/"><u>No More Payments for GPT-4: But Remember Plus Continues to Innovate with 6 Key Features.</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/revolutionizing-fintech-unleash-the-power-of-automation-for-a-smarter-more-efficient-financial-services-industry-through-idc-insights/"><u>Revolutionizing FinTech: Unleash the Power of Automation for a Smarter, More Efficient Financial Services Industry Through IDC Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721380493945-scam-alert-fake-gpt-programs-may-lead-to-privacy-breaches/"><u>Scam Alert: Fake GPT Programs May Lead to Privacy Breaches</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-staying-relevant-adapting-to-periscope-trends/"><u>2024 Approved Staying Relevant Adapting to Periscope Trends</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnose-and-repair-fallout-76-network-problems-on-pc/"><u>Diagnose and Repair Fallout 76 Network Problems on PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-8-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 8 with IMEI Code?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-hot-40-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Hot 40 Pro Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-creation-ten-advances-by-ai/"><u>Revolutionizing Creation: Ten Advances by AI</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solving-error-code-0xc0000221-comprehensive-fix-guide-for-windows-n/"><u>Solving Error Code 0xC0000221 – Comprehensive Fix Guide for Windows N</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-your-device-upgrade-intel-82579lm-drivers/"><u>Streamlining Your Device: Upgrade Intel 82579LM Drivers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-ai-communication-implementing-gpt-creation/"><u>Tailoring AI Communication: Implementing GPT Creation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-collective-evaluation-of-vllo-for-2024/"><u>The Collective Evaluation of VLLO for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unreliable-shield-of-artificative-intelligence/"><u>The Unreliable Shield of Artificative Intelligence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-chatgpt-premiums-worth/"><u>Unraveling ChatGPT Premium's Worth</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Installation Walkthrough for Microsoft Copilot on Apple Systems
-date: 2024-12-04T20:43:32.733Z
-updated: 2024-12-06T20:23:48.078Z
+date: 2024-12-10T22:57:24.572Z
+updated: 2024-12-12T22:52:24.526Z
 tags:
   - chatgpt
   - open-ai
@@ -20,20 +20,12 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Install Microsoft Copilot From the Mac App Store](https://united.elfm.net/zqobdx)
 * [Install Microsoft Copilot as a Web App on Your Mac](https://arkmc.pxf.io/znergr)
 * [Getting Started With Microsoft Copilot on Your Mac](https://imp.i357552.net/jzg4rq)
 * [The Benefits of Using Copilot Over ChatGPT](https://modlily.sjv.io/aw92wr)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,13 +39,13 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
  Microsoft doesn't offer a native Mac app for Copilot, but Mac users can still install the popular chatbot on their computers. There are two ways to get Copilot on a Mac, and you can even launch it at the press of a button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install Microsoft Copilot From the Mac App Store
 
 ![Microsoft Copilot on the App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-on-the-app-store.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have an Apple silicon Mac, you're in luck because you can install and run the iPad version of Microsoft Copilot on your computer. Here's how:
 
@@ -64,7 +56,15 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
 ![Dragging Copilot app from Launchpad to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/dragging-copilot-app-from-launchpad-to-the-dock.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Double-click its icon to start using Copilot right away. Jump to the **Getting Started** section below to get acquainted with the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Launch Copilot on Mac With a Keyboard Shortcut
 
@@ -79,12 +79,16 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 5. Next, switch to the **Info (i)** tab of the sidebar and click **Add Keyboard Shortcut**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Assigning a custom keyboard shortcut to launch Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-launch-copilot.jpg)
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other [useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/). Then, hit the **Return** key.  
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
 
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 4. When you get a confirmation pop-up, click **Add**.
 
 ![Adding Copilot web app to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-copilot-web-app-to-the-dock.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll find the Copilot web app on your Dock immediately. Launch it to begin.
 
@@ -117,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 4. Additionally, you can click **Sign in** in the top-left corner of the window and log in with your Microsoft account. This allows you to ask more questions and have longer conversations with the AI chatbot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At this point, you're all set to use Copilot on your Mac at its full potential. If you want to make further tweaks, click the **three-line** icon in the top-left corner to access the app's settings menu. Here, you can change the theme, region and language, permissions, and privacy settings for Copilot.
@@ -149,24 +149,18 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-best-methods-for-documenting-live-youtube-broadcasts/"><u>[New] Best Methods for Documenting Live YouTube Broadcasts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-comparative-analysis-of-fb-video-formats/"><u>[Updated] Comparative Analysis of FB Video Formats</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-ideal-ringtones-picks-high-quality-destinations/"><u>[Updated] In 2024, Ideal Ringtones Picks High-Quality Destinations</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-roadmap-for-effective-advertising-on-facebook-for-2024/"><u>[Updated] The Roadmap for Effective Advertising on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-4-techniques-for-turning-youtube-watchlists-upside-down/"><u>[Updated] Top 4 Techniques for Turning YouTube Watchlists Upside Down</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-and-creativity-exploring-new-horizons-for-text-production/"><u>AI and Creativity: Exploring New Horizons for Text Production</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oneplus-ace-2v-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoid-potential-problems-essential-information-on-ios-18s-impact-on-ipads-detailed-zdnet-insights/"><u>Avoid Potential Problems: Essential Information on iOS 18'S Impact on iPads Detailed | ZDNET Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-reliance-and-resistance-6-tips-on-using-ai-wisely/"><u>Balancing Reliance and Resistance: 6 Tips on Using AI Wisely</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-your-reading-list-with-the-best-ai-book-recommender-platforms/"><u>Enhance Your Reading List with the Best AI Book Recommender Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enterprises-dilemma-the-5-significant-reasons-against-chatgpt/"><u>Enterprises' Dilemma: The 5 Significant Reasons Against ChatGPT</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-adobe-premiere-tips-youtube-video-uploads/"><u>In 2024, Adobe Premiere Tips YouTube Video Uploads</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-marketing-boosted-by-free-downloadable-templates/"><u>In 2024, YouTube Marketing Boosted by Free Downloadable Templates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-showdown-evaluating-advancements-from-the-iphone-14-pro-to-the-latest-iphone-15-pro-deep-dive/"><u>IPhone Showdown: Evaluating Advancements From the iPhone 14 Pro to the Latest iPhone 15 Pro Deep Dive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-gpt-effective-for-math-puzzles/"><u>Is GPT Effective for Math Puzzles?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/italys-sudden-intervention-against-chatgpt-use/"><u>Italy's Sudden Intervention Against ChatGPT Use</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-lag-in-apex-legends-steps-to-solve-connection-woes/"><u>Overcoming Lag in Apex Legends: Steps to Solve Connection Woes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-sharing-mobile-apps-among-android-gadgets/"><u>Step-by-Step Guide to Sharing Mobile Apps Among Android Gadgets</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-6-overlords-vast-data-models-crowned/"><u>Ultimate 6 Overlords: Vast Data Models Crowned</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-10-online-screen-video-recorders/"><u>[New] In 2024, Top 10 Online Screen Video Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-premium-pick-of-budget-friendly-vectors-and-graphic-sites/"><u>[New] Premium Pick of Budget-Friendly Vectors & Graphic Sites</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-making-the-most-of-your-ppt-on-google-meet-devices-included/"><u>[Updated] 2024 Approved Making the Most of Your PPT on Google Meet Devices Included</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-ultimate-speed-boost-for-vimeo-videos/"><u>2024 Approved Ultimate Speed Boost for Vimeo Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-storytelling-assistants-unveiled/"><u>AI-Powered Storytelling Assistants Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/behind-the-scenes-of-gpt-4-in-7-tech-marvels/"><u>Behind the Scenes of GPT-4 in 7 Tech Marvels</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-parental-monitoring-tools-our-recommendations/"><u>Best Parental Monitoring Tools : Our Recommendations</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-identify-someone-using-your-tech-gear/"><u>How to Identify Someone Using Your Tech Gear?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-8s-proplus-phone-without-google-account-by-drfone-android/"><u>How to Unlock Nubia Red Magic 8S Pro+ Phone without Google Account?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-gpt-plus-a-worthy-investment-for-you/"><u>Is GPT Plus a Worthy Investment for You?</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/optimierte-methoden-fur-das-sichere-sicherungsvorgang-von-software-unter-windows-auf-externer-speicherungseinheit/"><u>Optimierte Methoden Für Das Sichere Sicherungsvorgang Von Software Unter Windows Auf Externer Speicherungseinheit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-process-of-bot-human-dialogue-emulation/"><u>The Process of Bot-Human Dialogue Emulation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-the-power-of-ai-crafting-compelling-business-proposals-with-gpt/"><u>Unlock the Power of AI: Crafting Compelling Business Proposals with GPT</u></a></li>
 </ul></div>
 

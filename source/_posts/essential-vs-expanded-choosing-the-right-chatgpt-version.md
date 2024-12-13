@@ -1,7 +1,7 @@
 ---
 title: "Essential Vs. Expanded: Choosing the Right ChatGPT Version"
-date: 2024-11-30T21:00:05.315Z
-updated: 2024-12-06T18:53:59.835Z
+date: 2024-12-08T23:40:10.778Z
+updated: 2024-12-12T16:23:21.642Z
 tags:
   - chatgpt
   - open-ai
@@ -37,7 +37,7 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 ![ChatGPT unable to fact-check article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-unable-to-fact-check-article.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The second version performed the task impressively.
@@ -45,10 +45,6 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 ![ChatGPT fact-checking an MUO article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-fact-checking-an-muo-article.jpg)
 
  So why did the first version work and the second didn't? What is the difference between the first and the second? If you haven't figured it out yet, the secret is the GPT model involved and the extra tools it can use. Beyond the name, below are some of the ChatGPT versions you should know.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The 4 ChatGPT Versions You Should Know
 
@@ -68,7 +64,7 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 ![ChatGPT running on the default GPT-3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-on-the-default-gpt-3-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  GPT-3.5 is the default version used by both free and paid-tier ChatGPT users. It can do most of what you'd expect in any version of ChatGPT. This variant, solely powered by the GPT-3.5 turbo model, is the base version of ChatGPT and has the least capabilities of all the available models.
@@ -77,21 +73,17 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  The ChatGPT GPT-4 model has a limit of 25 messages every three hours (although OpenAI is experimenting with this figure, and some users report up to 50 or even 100 messages every three hours). If you're planning a long prompting session spanning several hours, you might be better off using the GPT-3.5 model, which has no message limit. Although you might not enjoy as much creativity as on the GPT-4 powered ChatGPT models, you'll only notice differences in select tasks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. ChatGPT Running Default GPT-4
 
 ![Default ChatGPT GPT-4 model version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-chatgpt-gpt-4-model-version.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ChatGPT using GPT-4 is superior to any ChatGPT version that runs on GPT-3.5, as it is the most advanced GPT model currently integrated with ChatGPT. GPT-4 gives ChatGPT more creativity and improved reasoning and mathematics abilities.
 
  It is perfect for tasks requiring better mathematical abilities or enormous creativity, like writing a book, crafting unique jokes, or writing a speech. It also has improved programming abilities. For example, if you write code, you can fall back to this version if you have programming-related challenges.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. ChatGPT Running GPT-4 Plus Web Browsing
 
@@ -103,6 +95,10 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
  In July 2023, due to abuse, OpenAI temporarily disabled the browsing feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. ChatGPT Running GPT-4 with Plugins
 
 ![ChatGPT running GPT-4 plus plugins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-running-gpt-4-plus-plugins.jpg)
@@ -110,6 +106,10 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
  ChatGPT with plugins is probably the most versatile version of ChatGPT. Exclusively available to ChatGPT Plus users, this variant of ChatGPT significantly extends ChatGPT's abilities beyond what it was originally designed to handle. For instance, while regular ChatGPT can not interface with a PDF file or, say, create flowcharts, ChatGPT with plugins can do so effectively as long as you pick the right plugin for the task.
 
  From everything like [using ChatGPT to chat with a PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) to creating memes, you'll find a host of ChatGPT Plugins on the plugin store that does much of what you want to achieve. The list of available plugins is actively growing, and with it, the list of new things you can achieve with this version of ChatGPT. Here are some of [the best ChatGPT plugins you can try right now](https://www.makeuseof.com/best-chatgpt-plugins/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which ChatGPT Version Is the Best?
 
@@ -138,22 +138,22 @@ ChatGPT is like the Swiss army knife of productivity. It can be a math tutor, th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>[New] In 2024, From Vision to Visual Impact YouTube Trailers via Filmora</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-optimized-data-backup-on-android-leading-cloud-apps-2024-edition/"><u>[New] Optimized Data Backup on Android Leading Cloud Apps 2024 Edition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-elevate-your-intellect-with-top-11-general-knowledge-quiz-networks-for-2024/"><u>[Updated] Elevate Your Intellect with Top 11 General Knowledge Quiz Networks for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/charting-the-course-for-aspiring-pilots-why-microsoft-flight-simulator-x-gold-still-soars-in-reviews/"><u>Charting the Course for Aspiring Pilots: Why Microsoft Flight Simulator X Gold Still Soars in Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/debunking-chatgpts-wisdom-remains-unaltered/"><u>Debunking: ChatGPT's Wisdom Remains Unaltered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-auto-gpt-its-unique-traits-beyond-chatgpt-basics/"><u>Demystifying Auto-GPT: Its Unique Traits Beyond ChatGPT Basics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enterprise-applications-of-chatgpt-explained/"><u>Enterprise Applications of ChatGPT Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/evaluating-the-value-have-apples-2022-airpods-pro-held-up-over-time-insights-for-consumers-techreview/"><u>Evaluating the Value: Have Apple's 2022 AirPods Pro Held Up Over Time? Insights for Consumers - TechReview</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-auto-gpts-broad-potential/"><u>Exploring Auto-GPT's Broad Potential</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-text-to-talk-elevate-your-android-experience-with-chatgpt/"><u>From Text to Talk: Elevate Your Android Experience with ChatGPT</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-ultimate-gaming-setup-logitech-momo-racing-wheel-pc-drivers-now-available/"><u>Get Your Hands on the Ultimate Gaming Setup: Logitech MOMO Racing Wheel PC Drivers Now Available!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/staying-online-uninterrupted-anywhere/"><u>Staying Online Uninterrupted, Anywhere</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/subtle-archiving-concealing-your-chatgpt-journey/"><u>Subtle Archiving: Concealing Your ChatGPT Journey</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-shockwave-flash-crashes-within-google-chrome-a-comprehensive-guide/"><u>Troubleshooting Shockwave Flash Crashes Within Google Chrome - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unlocking-full-multitasking-in-apple-browsers/"><u>Unlocking Full Multitasking in Apple Browsers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-best-ai-presentation-enhancers/"><u>Unveiling the Best AI Presentation Enhancers</u></a></li>
-<li><a href="https://win11.techidaily.com/visual-clarity-in-note-taking-with-obsidian-design/"><u>Visual Clarity in Note-Taking with Obsidian Design</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-engaging-audiences-with-jujutsu-kaisen-tiktok-content/"><u>[Updated] Engaging Audiences with Jujutsu Kaisen TikTok Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-free-form-funny-meme-tools-on-a-shoestring-budget/"><u>[Updated] Free-Form Funny Meme Tools on a Shoestring Budget</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-comprehensive-guide-to-attractive-and-engaging-instagram-puzzle-feeds/"><u>[Updated] In 2024, The Comprehensive Guide to Attractive and Engaging Instagram Puzzle Feeds</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unlocking-snapchats-spotlight-mechanics-for-2024/"><u>[Updated] Unlocking Snapchat's Spotlight Mechanics for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ssdnas/"><u>安全で快適な移行方法：外付けSSDをNASに簡単にアップロードするポイント</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificinas-and-labor-the-converging-pathways/"><u>Artificinas and Labor: The Converging Pathways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-boundaries-next-gen-ai-discussions/"><u>Beyond Boundaries: Next Gen AI Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-numbers-navigating-data-with-ai-expertise/"><u>ChatGPT & Numbers: Navigating Data with AI Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevating-work-routines-with-gpt-3-strategies/"><u>Elevating Work Routines with GPT-3 Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploiting-chatgpts-link-to-wolframalpha-in-3-ways/"><u>Exploiting ChatGPT's Link to WolframAlpha in 3 Ways</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/novice-to-pro-mastering-the-craft-of-yt-shorts-for-2024/"><u>From Novice to Pro Mastering the Craft of YT Shorts for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-stylus-2023-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola Moto G Stylus (2023) Phone without PIN</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-integrations-leveraging-chatgpts-api-power/"><u>Innovative Integrations: Leveraging ChatGPT's API Power</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/power-up-your-design-process-large-scale-techniques-in-canva-plus-gpt/"><u>Power Up Your Design Process: Large Scale Techniques in Canva + GPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sifting-through-virtual-realities-identifying-inauthentic-ai-responses/"><u>Sifting Through Virtual Realities: Identifying Inauthentic AI Responses</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y27-4g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y27 4G Users</u></a></li>
 </ul></div>
 

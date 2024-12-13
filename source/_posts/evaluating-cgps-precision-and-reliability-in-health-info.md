@@ -1,7 +1,7 @@
 ---
 title: Evaluating CGP's Precision and Reliability in Health Info
-date: 2024-12-05T23:20:00.572Z
-updated: 2024-12-06T16:33:44.967Z
+date: 2024-12-06T19:25:28.731Z
+updated: 2024-12-12T20:28:16.172Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT's Potential for Improving Wellness
 
  When it comes to wellness information, there are several benefits of using an AI tool, such as ChatGPT:
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
@@ -48,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
@@ -60,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
 
  Here are some tips and tricks for getting the most reliable health and fitness information from ChatGPT:
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
@@ -113,22 +113,17 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-blur-the-video-background-in-a-microsoft-teams-meeting/"><u>[New] 2024 Approved How to Blur the Video Background in a Microsoft Teams Meeting?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-ugly-side-of-digital-video-profits/"><u>[Updated] 2024 Approved The Ugly Side of Digital Video Profits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-techniques-for-crafting-breathtakingly-long-lasting-time-movies-using-photo-apps-and-online-services/"><u>[Updated] Step by Step Techniques for Crafting Breathtakingly Long Lasting Time Movies Using Photo Apps & Online Services</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unmatched-camera-companions-for-top-tier-yi-4k-tech/"><u>2024 Approved Unmatched Camera Companions for Top-Tier YI 4K Tech</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-zte-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from ZTE .</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-in-class-ups-battery-systems-to-consider/"><u>Best-in-Class UPS Battery Systems to Consider</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722955305014-elgato-hd60-driver-glitches-fast-and-straightforward-repair-methods-inside/"><u>Elgato HD60 Driver Glitches? Fast and Straightforward Repair Methods Inside!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elon-musk-reveals-grok-ai-but-what-is-grok-and-how-much-does-it-cost/"><u>Elon Musk Reveals Grok AI, but What Is Grok, and How Much Does It Cost?</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-apples-recent-advancements-in-artificeal-intelligence-signify-a-hopeful-resurgence-with-areas-to-develop-zdnet/"><u>How Apple's Recent Advancements in Artificeal Intelligence Signify a Hopeful Resurgence with Areas to Develop | ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-overcome-stress-with-chatgpt/"><u>How to Overcome Stress With ChatGPT</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-the-worldwide-learning-family-now-grows-to-70-million/"><u>Mondly: The Worldwide Learning Family Now Grows to 70 Million</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigate-the-new-frontier-of-hobbies-using-chatgpts-my-bot-power/"><u>Navigate the New Frontier of Hobbies: Using ChatGPT's My Bot Power</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preserve-the-fresh-look-of-your-iphone-skstientek-the-ultimate-three-step-accessory-strategy/"><u>Preserve the Fresh Look of Your iPhone ˈsɪkstiēn'tek - The Ultimate Three-Step Accessory Strategy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/preventing-oversharing-secure-neural-networks/"><u>Preventing Oversharing: Secure Neural Networks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-ranking-macbook-gadgets-thoroughly-vetted-by-tech-experts-pcmag/"><u>Top-Ranking MacBook Gadgets : Thoroughly Vetted by Tech Experts | PCMag</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-androids-potential-with-ai-powered-bing/"><u>Unleashing Android's Potential with AI-Powered Bing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-critical-review-of-best-fb-video-plays/"><u>[New] Critical Review of Best FB Video Plays</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-djis-sky-high-creativity-with-pro-drone-review/"><u>[Updated] 2024 Approved DJI's Sky-High Creativity with Pro Drone Review</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-tips-for-a-secure-youtube-identity-check/"><u>[Updated] In 2024, Tips for a Secure YouTube Identity Check</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/adopting-claude-3-see-the-four-enhancements-in-comparison-to-chatgpt/"><u>Adopting Claude 3: See the Four Enhancements in Comparison to ChatGPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dynamic-imagery-achieving-balanced-colors-in-gopro-footage/"><u>Dynamic Imagery Achieving Balanced Colors in GoPro Footage</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nubia-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nubia Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-asus-rog-phone-8-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Asus ROG Phone 8 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-for-advanced-google-sheets-analysis/"><u>Leveraging GPT for Advanced Google Sheets Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-growth-businesses-reach-new-potential-with-api-access/"><u>Navigating Growth: Businesses Reach New Potential with API Access</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-the-best-budget-friendly-cooler-the-topmate-c302-experience/"><u>Review of the Best Budget-Friendly Cooler: The TopMate C302 Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/test-of-minds-can-computers-surpass-human-intuition/"><u>Test of Minds: Can Computers Surpass Human Intuition?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-privacy-debate-in-artificial-communication/"><u>The Privacy Debate in Artificial Communication</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT: Is It Possible To Command Your Smart Devices?"
-date: 2024-09-12T07:42:36.132Z
-updated: 2024-09-13T07:42:36.132Z
+date: 2024-12-10T21:25:36.409Z
+updated: 2024-12-12T23:40:05.797Z
 tags:
   - chatgpt
   - open-ai
@@ -26,22 +26,12 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT and Smart Technology
 
 ![image of white google smart speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/white-smart-speaker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many of us associate ChatGPT with its chatbot interface that's used to get facts, [write resumes](https://www.makeuseof.com/use-chatgpt-to-write-resume/), translate text, and even tell jokes. ChatGPT can be applied in so many ways, but what about smart technology? Can ChatGPT work with your smartphone, smart speaker, and similar devices?
@@ -51,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
  But to make ChatGPT useful in a smart home, things can't stop at one device alone. ChatGPT must be able to recognize and communicate with other smart devices, such as lights, locks, heating, and other appliances. So, is this possible yet?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Work In Smart Homes?
@@ -75,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
 
  In the above video, you'll see Josh being asked to open blinds, give the local weather forecast, and even provide sleep advice. Josh also answered more complex questions, like which museums in California feature Andy Warhol. While this is still a work in progress, there's a lot of potential for ChatGPT to show off its skills within smart homes.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Using ChatGPT to Create a Smart Home Integration
 
  You can also [use ChatGPT to write code](https://www.makeuseof.com/best-vs-code-chatgpt-extensions/) for a smart home integration.
@@ -92,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
 
 ![chatgpt chat response featuring code example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see above, ChatGPT provided an example of integration code you can use with Home Assistant, as well as steps on how to get it working for you. You'll need to install the "python-openai" library, which first requires you to access your own ChatGPT API key.
 
  Below the code template are additional steps on how to personalize it to fit your preferences. This includes adding your API key and your ChatGPT assistant model ID.
@@ -99,10 +83,7 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
 ![chatgpt smart home integration instructions in chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the Home Assistant tool, you can integrate ChatGPT into Google Nest. If you want to integrate into Alexa, ChatGPT offers instructions using the Alexa Skills Kit and AWS Lambda. To integrate into Cortana, ChatGPT can help you use code via the Bot Framework. Evidently, there are a lot of different smart home assistants that can function with ChatGPT's capabilities.
@@ -110,10 +91,7 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
  However, you'll need some understanding of software code if you want to personalize ChatGPT's provided code templates quite a lot (e.g. if you want it to work with multiple smart assistants simultaneously).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using ChatGPT In Your Smart Home
@@ -147,5 +125,26 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-8-best-mirrorless-cameras-for-vlogging-for-2024/"><u>[New] 8 Best Mirrorless Cameras for Vlogging for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-adv-screen-recorder-review/"><u>[New] ADV Screen Recorder Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-discover-every-shared-element-with-friends/"><u>[Updated] 2024 Approved Discover Every Shared Element with Friends</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-srt-optimization-the-ultimate-performance-boosters-for-computers/"><u>[Updated] SRT Optimization The Ultimate Performance Boosters for Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/aquasound-test-unwavering-clearcut-waves/"><u>AquaSound Test - Unwavering Clearcut Waves</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-ai-interactions-potential-for-real-employment/"><u>Crafting AI Interactions: Potential for Real Employment?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-writers-block-to-success-top-ai-assistants-unveiled/"><u>From Writer's Block to Success: Top AI Assistants Unveiled</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-develop-emotional-intelligence/"><u>How to Use ChatGPT to Develop Emotional Intelligence</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-comprehensive-sync-protocol-for-iphone-to-snapchat-media/"><u>In 2024, Comprehensive Sync Protocol for iPhone to Snapchat Media</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Phones with/without a PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installation-walkthrough-for-microsoft-copilot-on-apple-systems/"><u>Installation Walkthrough for Microsoft Copilot on Apple Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/positive-interaction-not-pressure-a-subscription-success-story-for-2024/"><u>Positive Interaction, Not Pressure A Subscription Success Story for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-lenovo-laptops-dead-pixels-fixes-for-unresponsive-keys/"><u>Reviving Your Lenovo Laptop's Dead Pixels: Fixes for Unresponsive Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-against-risks-in-chatgpt-use/"><u>Safeguarding Against Risks in ChatGPT Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/say-goodbye-to-dall-e-apples-innovative-on-device-imagination-tech-demystified/"><u>Say Goodbye to DALL-E: Apple's Innovative, On-Device Imagination Tech Demystified</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-algorithms-for-better-web-visibility-and-navigation/"><u>Smart Algorithms for Better Web Visibility and Navigation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-advantages-that-make-the-smaller-iphone-16-pro-my-pick-over-the-max-for-this-year-zdnet/"><u>The Advantages That Make the Smaller iPhone 16 Pro My Pick Over the Max for This Year | ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-10-mp4-convertors-from-mkv-on-pc-and-mac-with-free-trials/"><u>Top 10 MP4 Convertors From MKV on PC and Mac with Free Trials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-and-comparisons-by-experts/"><u>Top-Rated MagSafe Wallets : Comprehensive Reviews and Comparisons by Experts</u></a></li>
+</ul></div>
 

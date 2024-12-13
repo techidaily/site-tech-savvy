@@ -1,7 +1,7 @@
 ---
 title: "GPT Evolution: The Top 10 Personalized Modifications for Conversation"
-date: 2024-11-30T19:45:51.242Z
-updated: 2024-12-06T21:59:48.878Z
+date: 2024-12-09T18:30:17.765Z
+updated: 2024-12-12T20:44:19.059Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Diagrams: Show Me](https://vapordna.pxf.io/vnbxna)
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 * [Gym, Fitness, & Training Assistant by Rogan Keel](https://oneplusfr.sjv.io/lxv4am)
 * [Resume by jobbright.ai](https://bluettifr.pxf.io/bax2bv)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ChatGPT offers custom GPTs to help you perform several actions.
@@ -107,15 +115,7 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 ![The Scholar GPT plugin analyzing a research paper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-25-26.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scholar GPT can analyze text from reputable websites, including Google Scholar and PubMed. Besides analyzing research papers, you can also ask the tool to give you the latest news in your industry. If you’d prefer to use research websites directly, start by checking out these [expert Google Scholar search tips](https://www.makeuseof.com/google-scholar-search-tips/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7 Prompt Professor
 
@@ -130,6 +130,274 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
  Prompt Professor can also provide tips on the golden rules of prompting. Moreover, if you’re new, you can get general advice on how to write a good prompt. If you want a headstart, [there are several AI prompt generators you can also try](https://www.makeuseof.com/best-ai-prompt-generators-for-any-ai-tool/).
 
 ![Room for improvement offered by the Prompt Professor custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-31-26.png)
+
+## 8 Code Tutor
+
+ Are you new to the world of coding? If so, consider trying the Code Tutor GPT plugin. Code Tutor helps users understand different coding concepts and jargon, and it can also help you become more effective with implementation and planning processes.
+
+![The Code Tutor Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-36-50.png)
+
+ Code Tutor can also help users with topics they may have for homework. The GPT often asks you to provide further context for every prompt you send, which helps it give you a more accurate answer.
+
+## 9 Gym, Fitness, & Training Assistant by Rogan Keel
+
+ Walking into the gym for the first time can be incredibly daunting, especially if you know little or nothing about fitness. Creating a program is also difficult; I still vividly remember spending hours on bodybuilding forums when I first began training in 2014\. Fortunately, getting the information you need is much easier these days—and Rogan Keel’s Gym, Fitness, & Training Assistant is a helpful custom GPT for new gym-goers.
+
+ To use this GPT more effectively, make sure you give it as much information as possible. For example, I gave it my story of what my health condition was like when I first wanted to go to the gym and mentioned dietary requirements. You should also mention how many days you’d like to exercise per week. After giving the assistant all the required information, you’ll get an overview of your diet and exercise regimen.
+
+![An overview provided by the Gym, Fitness, & Training Planner custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-44-47.png)
+
+ Below the overview, you’ll find further details of your training plan. If you want to keep everything handy, you can also request a PDF. There are plenty of other [online sources for workout programs](https://www.makeuseof.com/best-online-sources-workout-programs/) where you can also get further help with your fitness journey.
+
+![Gym, Fitness, & Training Planner GPT workout plan created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-45-08.png)
+
+## 10 Resume by jobbright.ai
+
+ Are you looking for a new job or to change your career? If so, you’ll find several custom GPTs to help you on your search—including jobbright.ai’s version. When you upload your resume, the GPT will first extract the information from what you send. Then, after confirming that everything is accurate, you’ll get a feedback table with scores and comments on what you did well and could improve. Moreover, you get bulleted tips for enhancing your resume.
+
+![The Resume by jobbright.ai plugin offering feedback on a resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-53-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Besides analyzing your resume, you can also ask the GPT for jobs related to your skills. If you’re planning a career change, consider checking out these [tools to help you successfully pivot](https://www.makeuseof.com/tools-to-pivot-your-career/).
+
+ Regardless of whether you want a new job or need to plan a big trip, ChatGPT has several custom GPTs that’ll help you achieve your desired results. The quality of your answers depends on how good your prompts are, but you can also find custom GPTs to help you in that respect. Go to Explore GPTs in ChatGPT to find these and several others.
+
+### Key Takeaways
+
+* ChatGPT offers custom GPTs to help you perform several actions.
+* Use custom GPTs to design better prompts, get gym routines, tweak your resume, and more.
+* Access these custom GPTs by going to the Explore GPTs tab in ChatGPT.
+
+**MAKEUSEOF VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ ChatGPT on its own is great, but did you know that you can use custom GPTs to streamline its functionality? Custom GPTs can teach you how to code, plan trips, transcribe videos, and much, much more, and there are heaps for you to choose from.
+
+ So, here are the best custom GPTs that actually make ChatGPT a better tool for any situation.
+
+## 1 Diagrams: Show Me
+
+ The Diagrams: Show Me GPT plugin quickly visualizes all kinds of information in diagrams. You can use this add-on to view promotion paths at companies you want to work for, and it’s also handy if you need general flow charts (for example, we asked Diagrams: Show Me to outline the process from freelancing to running an agency).
+
+![The Diagrams: Show Me Custom GPT in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-49-15.png)
+
+ Once you’ve created an initial prototype, you can make adjustments by giving the GPT new instructions. Alternatively, you can edit the image with code instead if you know how to. You can use Diagrams: Show Me to [optimize productivity with workflow diagrams](https://www.makeuseof.com/optimize-productivity-with-workflow-diagram/) for your personal and work projects.
+
+## 2 Canva
+
+ Canva is one of the most popular platforms for designing graphics online, and several [Canva apps are worth checking out to create better designs](https://www.makeuseof.com/canva-apps-worth-trying/). The Canva GPT plugin helps you create all kinds of content, such as Instagram posts and logos.
+
+ When you use the Canva custom GPT, you may notice that some of the text in your visuals overlay other boxes. Fortunately, when you click on a design prototype, the GPT will redirect you to the Canva app. Here, you can make any edits you feel are necessary—such as resizing text and adding new images.
+
+![The Canva Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-53-02.png)
+
+ If you want to level up your Canva projects, consider reading [how to use Canva’s Magic Studio for your designs](https://www.makeuseof.com/canva-magic-studio-how-to-edit-designs/).
+
+## 3 Presentation Slides
+
+ Creating slides that are informative and engaging is crucial in workspaces and when studying. However, deciding how to lay out your slides can be challenging. The Presentation Slides GPT plugin is designed to help minimize the manual work.
+
+![The Presentation Slides Custom GPT offering advice on how to outline a presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-01-04.png)
+
+ You can ask Presentation Slides to outline your presentation, meaning that you can take what you like and adapt everything in your preferred presentation creator later. Besides organizing information, presentation slides can guide you in designing a layout that fits your project theme.
+
+![Tips for designing a presentation offered by the Presentation Slides custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-00-54.png)
+
+ The Presentation Slides GPT offers advice on keeping your audiences engaged during your presentation. When you’re ready to compile everything, consider using [the best tools that use AI to make presentations for you](https://www.makeuseof.com/tools-use-ai-to-make-presentation/).
+
+## 4 Math Solver
+
+ While some people have no problems working out mathematical equations, it’s not simple for everyone. If you struggle with numbers but want to improve your math skills, consider using the Math Solver custom GPT.
+
+ You can ask Math Solver for help with simple and complex equations. The GPT walks you through how to solve each one and explains the concept. You also get useful related questions to help you continue enhancing your skills.
+
+![The Math Solver Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-06-12.png)
+
+ Although Math Solver is good for understanding how to solve mathematical problems, you shouldn’t use it to cheat on your homework or exams. In fact, there are many [ways that you should not use ChatGPT as a student](https://www.makeuseof.com/chatgpt-not-use-student/)—such as relying on the program to write essays for you.
+
+## 5 Travel Guide
+
+ Do you have a big upcoming trip, or are you simply researching potential adventures? Consider using the Travel Guide GPT plugin to help you gather essential information and plan your itinerary.
+
+ Travel Guide is pretty good at providing an itinerary outline for you to build upon later. For example, you can use the days it gives you and then do extra research elsewhere for places to eat, where to stay, etc.
+
+![An itinerary designed by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-13-08.png)
+
+ Besides planning itineraries, Travel Guide can offer budget travel tips for specific destinations. For example, we asked the Travel Guide GPT to help us visit Switzerland on a budget of 80 Swiss Francs (c. $88 per day), excluding hotels.
+
+ If you’re interested in a unique adventure, consider reading these [inspiring travel blogs of adventurers who trek the world on foot](https://www.makeuseof.com/inspiring-travel-blogs-adventurers-trek-the-world-on-foot/).
+
+![Budget travel tips provided by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-15-08.png)
+
+## 6 Scholar GPT
+
+ Academic research is a strenuous process regardless of your experience, but AI tools can help you streamline the process and provide more context. Scholar GPT is one of those. With this GPT, you can upload research paper PDFs and links to receive analysis.
+
+![The Scholar GPT plugin analyzing a research paper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-25-26.png)
+
+ Scholar GPT can analyze text from reputable websites, including Google Scholar and PubMed. Besides analyzing research papers, you can also ask the tool to give you the latest news in your industry. If you’d prefer to use research websites directly, start by checking out these [expert Google Scholar search tips](https://www.makeuseof.com/google-scholar-search-tips/).
+
+## 7 Prompt Professor
+
+ If you’re new to ChatGPT or other AI tools, getting your prompts right will take some time and experimentation. But thanks to custom GPTs like Prompt Professor, you can get helpful feedback to reduce the learning curve.
+
+ Prompt Professor can review every prompt you’re planning to send and outline what you did well. For example, we received feedback that our prompt was direct and offered contextual information.
+
+![The Prompt Professor custom GPT offering tips and feedback](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-30-32.png)
+
+ You also get tips on how to improve your prompt, which you can then make a note of in the future.
+
+ Prompt Professor can also provide tips on the golden rules of prompting. Moreover, if you’re new, you can get general advice on how to write a good prompt. If you want a headstart, [there are several AI prompt generators you can also try](https://www.makeuseof.com/best-ai-prompt-generators-for-any-ai-tool/).
+
+![Room for improvement offered by the Prompt Professor custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-31-26.png)
+
+## 8 Code Tutor
+
+ Are you new to the world of coding? If so, consider trying the Code Tutor GPT plugin. Code Tutor helps users understand different coding concepts and jargon, and it can also help you become more effective with implementation and planning processes.
+
+![The Code Tutor Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-36-50.png)
+
+ Code Tutor can also help users with topics they may have for homework. The GPT often asks you to provide further context for every prompt you send, which helps it give you a more accurate answer.
+
+## 9 Gym, Fitness, & Training Assistant by Rogan Keel
+
+ Walking into the gym for the first time can be incredibly daunting, especially if you know little or nothing about fitness. Creating a program is also difficult; I still vividly remember spending hours on bodybuilding forums when I first began training in 2014\. Fortunately, getting the information you need is much easier these days—and Rogan Keel’s Gym, Fitness, & Training Assistant is a helpful custom GPT for new gym-goers.
+
+ To use this GPT more effectively, make sure you give it as much information as possible. For example, I gave it my story of what my health condition was like when I first wanted to go to the gym and mentioned dietary requirements. You should also mention how many days you’d like to exercise per week. After giving the assistant all the required information, you’ll get an overview of your diet and exercise regimen.
+
+![An overview provided by the Gym, Fitness, & Training Planner custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-44-47.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Below the overview, you’ll find further details of your training plan. If you want to keep everything handy, you can also request a PDF. There are plenty of other [online sources for workout programs](https://www.makeuseof.com/best-online-sources-workout-programs/) where you can also get further help with your fitness journey.
+
+![Gym, Fitness, & Training Planner GPT workout plan created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-45-08.png)
+
+## 10 Resume by jobbright.ai
+
+ Are you looking for a new job or to change your career? If so, you’ll find several custom GPTs to help you on your search—including jobbright.ai’s version. When you upload your resume, the GPT will first extract the information from what you send. Then, after confirming that everything is accurate, you’ll get a feedback table with scores and comments on what you did well and could improve. Moreover, you get bulleted tips for enhancing your resume.
+
+![The Resume by jobbright.ai plugin offering feedback on a resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-53-11.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+ Besides analyzing your resume, you can also ask the GPT for jobs related to your skills. If you’re planning a career change, consider checking out these [tools to help you successfully pivot](https://www.makeuseof.com/tools-to-pivot-your-career/).
+
+ Regardless of whether you want a new job or need to plan a big trip, ChatGPT has several custom GPTs that’ll help you achieve your desired results. The quality of your answers depends on how good your prompts are, but you can also find custom GPTs to help you in that respect. Go to Explore GPTs in ChatGPT to find these and several others.
+
+### Key Takeaways
+
+* ChatGPT offers custom GPTs to help you perform several actions.
+* Use custom GPTs to design better prompts, get gym routines, tweak your resume, and more.
+* Access these custom GPTs by going to the Explore GPTs tab in ChatGPT.
+
+**MAKEUSEOF VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ ChatGPT on its own is great, but did you know that you can use custom GPTs to streamline its functionality? Custom GPTs can teach you how to code, plan trips, transcribe videos, and much, much more, and there are heaps for you to choose from.
+
+ So, here are the best custom GPTs that actually make ChatGPT a better tool for any situation.
+
+## 1 Diagrams: Show Me
+
+ The Diagrams: Show Me GPT plugin quickly visualizes all kinds of information in diagrams. You can use this add-on to view promotion paths at companies you want to work for, and it’s also handy if you need general flow charts (for example, we asked Diagrams: Show Me to outline the process from freelancing to running an agency).
+
+![The Diagrams: Show Me Custom GPT in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-49-15.png)
+
+ Once you’ve created an initial prototype, you can make adjustments by giving the GPT new instructions. Alternatively, you can edit the image with code instead if you know how to. You can use Diagrams: Show Me to [optimize productivity with workflow diagrams](https://www.makeuseof.com/optimize-productivity-with-workflow-diagram/) for your personal and work projects.
+
+## 2 Canva
+
+ Canva is one of the most popular platforms for designing graphics online, and several [Canva apps are worth checking out to create better designs](https://www.makeuseof.com/canva-apps-worth-trying/). The Canva GPT plugin helps you create all kinds of content, such as Instagram posts and logos.
+
+ When you use the Canva custom GPT, you may notice that some of the text in your visuals overlay other boxes. Fortunately, when you click on a design prototype, the GPT will redirect you to the Canva app. Here, you can make any edits you feel are necessary—such as resizing text and adding new images.
+
+![The Canva Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-53-02.png)
+
+ If you want to level up your Canva projects, consider reading [how to use Canva’s Magic Studio for your designs](https://www.makeuseof.com/canva-magic-studio-how-to-edit-designs/).
+
+## 3 Presentation Slides
+
+ Creating slides that are informative and engaging is crucial in workspaces and when studying. However, deciding how to lay out your slides can be challenging. The Presentation Slides GPT plugin is designed to help minimize the manual work.
+
+![The Presentation Slides Custom GPT offering advice on how to outline a presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-01-04.png)
+
+ You can ask Presentation Slides to outline your presentation, meaning that you can take what you like and adapt everything in your preferred presentation creator later. Besides organizing information, presentation slides can guide you in designing a layout that fits your project theme.
+
+![Tips for designing a presentation offered by the Presentation Slides custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-00-54.png)
+
+ The Presentation Slides GPT offers advice on keeping your audiences engaged during your presentation. When you’re ready to compile everything, consider using [the best tools that use AI to make presentations for you](https://www.makeuseof.com/tools-use-ai-to-make-presentation/).
+
+## 4 Math Solver
+
+ While some people have no problems working out mathematical equations, it’s not simple for everyone. If you struggle with numbers but want to improve your math skills, consider using the Math Solver custom GPT.
+
+ You can ask Math Solver for help with simple and complex equations. The GPT walks you through how to solve each one and explains the concept. You also get useful related questions to help you continue enhancing your skills.
+
+![The Math Solver Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-06-12.png)
+
+ Although Math Solver is good for understanding how to solve mathematical problems, you shouldn’t use it to cheat on your homework or exams. In fact, there are many [ways that you should not use ChatGPT as a student](https://www.makeuseof.com/chatgpt-not-use-student/)—such as relying on the program to write essays for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 5 Travel Guide
+
+ Do you have a big upcoming trip, or are you simply researching potential adventures? Consider using the Travel Guide GPT plugin to help you gather essential information and plan your itinerary.
+
+ Travel Guide is pretty good at providing an itinerary outline for you to build upon later. For example, you can use the days it gives you and then do extra research elsewhere for places to eat, where to stay, etc.
+
+![An itinerary designed by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-13-08.png)
+
+ Besides planning itineraries, Travel Guide can offer budget travel tips for specific destinations. For example, we asked the Travel Guide GPT to help us visit Switzerland on a budget of 80 Swiss Francs (c. $88 per day), excluding hotels.
+
+ If you’re interested in a unique adventure, consider reading these [inspiring travel blogs of adventurers who trek the world on foot](https://www.makeuseof.com/inspiring-travel-blogs-adventurers-trek-the-world-on-foot/).
+
+![Budget travel tips provided by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-15-08.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 6 Scholar GPT
+
+ Academic research is a strenuous process regardless of your experience, but AI tools can help you streamline the process and provide more context. Scholar GPT is one of those. With this GPT, you can upload research paper PDFs and links to receive analysis.
+
+![The Scholar GPT plugin analyzing a research paper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-25-26.png)
+
+ Scholar GPT can analyze text from reputable websites, including Google Scholar and PubMed. Besides analyzing research papers, you can also ask the tool to give you the latest news in your industry. If you’d prefer to use research websites directly, start by checking out these [expert Google Scholar search tips](https://www.makeuseof.com/google-scholar-search-tips/).
+
+## 7 Prompt Professor
+
+ If you’re new to ChatGPT or other AI tools, getting your prompts right will take some time and experimentation. But thanks to custom GPTs like Prompt Professor, you can get helpful feedback to reduce the learning curve.
+
+ Prompt Professor can review every prompt you’re planning to send and outline what you did well. For example, we received feedback that our prompt was direct and offered contextual information.
+
+![The Prompt Professor custom GPT offering tips and feedback](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-30-32.png)
+
+ You also get tips on how to improve your prompt, which you can then make a note of in the future.
+
+ Prompt Professor can also provide tips on the golden rules of prompting. Moreover, if you’re new, you can get general advice on how to write a good prompt. If you want a headstart, [there are several AI prompt generators you can also try](https://www.makeuseof.com/best-ai-prompt-generators-for-any-ai-tool/).
+
+![Room for improvement offered by the Prompt Professor custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-31-26.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8 Code Tutor
 
@@ -205,10 +473,6 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
  The Presentation Slides GPT offers advice on keeping your audiences engaged during your presentation. When you’re ready to compile everything, consider using [the best tools that use AI to make presentations for you](https://www.makeuseof.com/tools-use-ai-to-make-presentation/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Math Solver
 
  While some people have no problems working out mathematical equations, it’s not simple for everyone. If you struggle with numbers but want to improve your math skills, consider using the Math Solver custom GPT.
@@ -239,10 +503,6 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 ![The Scholar GPT plugin analyzing a research paper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-25-26.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scholar GPT can analyze text from reputable websites, including Google Scholar and PubMed. Besides analyzing research papers, you can also ask the tool to give you the latest news in your industry. If you’d prefer to use research websites directly, start by checking out these [expert Google Scholar search tips](https://www.makeuseof.com/google-scholar-search-tips/).
 
 ## 7 Prompt Professor
@@ -259,269 +519,9 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 ![Room for improvement offered by the Prompt Professor custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-31-26.png)
 
-## 8 Code Tutor
-
- Are you new to the world of coding? If so, consider trying the Code Tutor GPT plugin. Code Tutor helps users understand different coding concepts and jargon, and it can also help you become more effective with implementation and planning processes.
-
-![The Code Tutor Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-36-50.png)
-
- Code Tutor can also help users with topics they may have for homework. The GPT often asks you to provide further context for every prompt you send, which helps it give you a more accurate answer.
-
-## 9 Gym, Fitness, & Training Assistant by Rogan Keel
-
- Walking into the gym for the first time can be incredibly daunting, especially if you know little or nothing about fitness. Creating a program is also difficult; I still vividly remember spending hours on bodybuilding forums when I first began training in 2014\. Fortunately, getting the information you need is much easier these days—and Rogan Keel’s Gym, Fitness, & Training Assistant is a helpful custom GPT for new gym-goers.
-
- To use this GPT more effectively, make sure you give it as much information as possible. For example, I gave it my story of what my health condition was like when I first wanted to go to the gym and mentioned dietary requirements. You should also mention how many days you’d like to exercise per week. After giving the assistant all the required information, you’ll get an overview of your diet and exercise regimen.
-
-![An overview provided by the Gym, Fitness, & Training Planner custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-44-47.png)
-
- Below the overview, you’ll find further details of your training plan. If you want to keep everything handy, you can also request a PDF. There are plenty of other [online sources for workout programs](https://www.makeuseof.com/best-online-sources-workout-programs/) where you can also get further help with your fitness journey.
-
-![Gym, Fitness, & Training Planner GPT workout plan created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-45-08.png)
-
-## 10 Resume by jobbright.ai
-
- Are you looking for a new job or to change your career? If so, you’ll find several custom GPTs to help you on your search—including jobbright.ai’s version. When you upload your resume, the GPT will first extract the information from what you send. Then, after confirming that everything is accurate, you’ll get a feedback table with scores and comments on what you did well and could improve. Moreover, you get bulleted tips for enhancing your resume.
-
-![The Resume by jobbright.ai plugin offering feedback on a resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-53-11.png)
-
- Besides analyzing your resume, you can also ask the GPT for jobs related to your skills. If you’re planning a career change, consider checking out these [tools to help you successfully pivot](https://www.makeuseof.com/tools-to-pivot-your-career/).
-
- Regardless of whether you want a new job or need to plan a big trip, ChatGPT has several custom GPTs that’ll help you achieve your desired results. The quality of your answers depends on how good your prompts are, but you can also find custom GPTs to help you in that respect. Go to Explore GPTs in ChatGPT to find these and several others.
-
-### Key Takeaways
-
-* ChatGPT offers custom GPTs to help you perform several actions.
-* Use custom GPTs to design better prompts, get gym routines, tweak your resume, and more.
-* Access these custom GPTs by going to the Explore GPTs tab in ChatGPT.
-
-**MAKEUSEOF VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- ChatGPT on its own is great, but did you know that you can use custom GPTs to streamline its functionality? Custom GPTs can teach you how to code, plan trips, transcribe videos, and much, much more, and there are heaps for you to choose from.
-
- So, here are the best custom GPTs that actually make ChatGPT a better tool for any situation.
-
-## 1 Diagrams: Show Me
-
- The Diagrams: Show Me GPT plugin quickly visualizes all kinds of information in diagrams. You can use this add-on to view promotion paths at companies you want to work for, and it’s also handy if you need general flow charts (for example, we asked Diagrams: Show Me to outline the process from freelancing to running an agency).
-
-![The Diagrams: Show Me Custom GPT in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-49-15.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
- Once you’ve created an initial prototype, you can make adjustments by giving the GPT new instructions. Alternatively, you can edit the image with code instead if you know how to. You can use Diagrams: Show Me to [optimize productivity with workflow diagrams](https://www.makeuseof.com/optimize-productivity-with-workflow-diagram/) for your personal and work projects.
-
-## 2 Canva
-
- Canva is one of the most popular platforms for designing graphics online, and several [Canva apps are worth checking out to create better designs](https://www.makeuseof.com/canva-apps-worth-trying/). The Canva GPT plugin helps you create all kinds of content, such as Instagram posts and logos.
-
- When you use the Canva custom GPT, you may notice that some of the text in your visuals overlay other boxes. Fortunately, when you click on a design prototype, the GPT will redirect you to the Canva app. Here, you can make any edits you feel are necessary—such as resizing text and adding new images.
-
-![The Canva Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-53-02.png)
-
- If you want to level up your Canva projects, consider reading [how to use Canva’s Magic Studio for your designs](https://www.makeuseof.com/canva-magic-studio-how-to-edit-designs/).
-
-## 3 Presentation Slides
-
- Creating slides that are informative and engaging is crucial in workspaces and when studying. However, deciding how to lay out your slides can be challenging. The Presentation Slides GPT plugin is designed to help minimize the manual work.
-
-![The Presentation Slides Custom GPT offering advice on how to outline a presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-01-04.png)
-
- You can ask Presentation Slides to outline your presentation, meaning that you can take what you like and adapt everything in your preferred presentation creator later. Besides organizing information, presentation slides can guide you in designing a layout that fits your project theme.
-
-![Tips for designing a presentation offered by the Presentation Slides custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-00-54.png)
-
- The Presentation Slides GPT offers advice on keeping your audiences engaged during your presentation. When you’re ready to compile everything, consider using [the best tools that use AI to make presentations for you](https://www.makeuseof.com/tools-use-ai-to-make-presentation/).
-
-## 4 Math Solver
-
- While some people have no problems working out mathematical equations, it’s not simple for everyone. If you struggle with numbers but want to improve your math skills, consider using the Math Solver custom GPT.
-
- You can ask Math Solver for help with simple and complex equations. The GPT walks you through how to solve each one and explains the concept. You also get useful related questions to help you continue enhancing your skills.
-
-![The Math Solver Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-06-12.png)
-
- Although Math Solver is good for understanding how to solve mathematical problems, you shouldn’t use it to cheat on your homework or exams. In fact, there are many [ways that you should not use ChatGPT as a student](https://www.makeuseof.com/chatgpt-not-use-student/)—such as relying on the program to write essays for you.
-
-## 5 Travel Guide
-
- Do you have a big upcoming trip, or are you simply researching potential adventures? Consider using the Travel Guide GPT plugin to help you gather essential information and plan your itinerary.
-
- Travel Guide is pretty good at providing an itinerary outline for you to build upon later. For example, you can use the days it gives you and then do extra research elsewhere for places to eat, where to stay, etc.
-
-![An itinerary designed by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-13-08.png)
-
- Besides planning itineraries, Travel Guide can offer budget travel tips for specific destinations. For example, we asked the Travel Guide GPT to help us visit Switzerland on a budget of 80 Swiss Francs (c. $88 per day), excluding hotels.
-
- If you’re interested in a unique adventure, consider reading these [inspiring travel blogs of adventurers who trek the world on foot](https://www.makeuseof.com/inspiring-travel-blogs-adventurers-trek-the-world-on-foot/).
-
-![Budget travel tips provided by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-15-08.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 6 Scholar GPT
-
- Academic research is a strenuous process regardless of your experience, but AI tools can help you streamline the process and provide more context. Scholar GPT is one of those. With this GPT, you can upload research paper PDFs and links to receive analysis.
-
-![The Scholar GPT plugin analyzing a research paper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-25-26.png)
-
- Scholar GPT can analyze text from reputable websites, including Google Scholar and PubMed. Besides analyzing research papers, you can also ask the tool to give you the latest news in your industry. If you’d prefer to use research websites directly, start by checking out these [expert Google Scholar search tips](https://www.makeuseof.com/google-scholar-search-tips/).
-
-## 7 Prompt Professor
-
- If you’re new to ChatGPT or other AI tools, getting your prompts right will take some time and experimentation. But thanks to custom GPTs like Prompt Professor, you can get helpful feedback to reduce the learning curve.
-
- Prompt Professor can review every prompt you’re planning to send and outline what you did well. For example, we received feedback that our prompt was direct and offered contextual information.
-
-![The Prompt Professor custom GPT offering tips and feedback](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-30-32.png)
-
- You also get tips on how to improve your prompt, which you can then make a note of in the future.
-
- Prompt Professor can also provide tips on the golden rules of prompting. Moreover, if you’re new, you can get general advice on how to write a good prompt. If you want a headstart, [there are several AI prompt generators you can also try](https://www.makeuseof.com/best-ai-prompt-generators-for-any-ai-tool/).
-
-![Room for improvement offered by the Prompt Professor custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-31-26.png)
-
-## 8 Code Tutor
-
- Are you new to the world of coding? If so, consider trying the Code Tutor GPT plugin. Code Tutor helps users understand different coding concepts and jargon, and it can also help you become more effective with implementation and planning processes.
-
-![The Code Tutor Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-36-50.png)
-
- Code Tutor can also help users with topics they may have for homework. The GPT often asks you to provide further context for every prompt you send, which helps it give you a more accurate answer.
-
-## 9 Gym, Fitness, & Training Assistant by Rogan Keel
-
- Walking into the gym for the first time can be incredibly daunting, especially if you know little or nothing about fitness. Creating a program is also difficult; I still vividly remember spending hours on bodybuilding forums when I first began training in 2014\. Fortunately, getting the information you need is much easier these days—and Rogan Keel’s Gym, Fitness, & Training Assistant is a helpful custom GPT for new gym-goers.
-
- To use this GPT more effectively, make sure you give it as much information as possible. For example, I gave it my story of what my health condition was like when I first wanted to go to the gym and mentioned dietary requirements. You should also mention how many days you’d like to exercise per week. After giving the assistant all the required information, you’ll get an overview of your diet and exercise regimen.
-
-![An overview provided by the Gym, Fitness, & Training Planner custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-44-47.png)
-
- Below the overview, you’ll find further details of your training plan. If you want to keep everything handy, you can also request a PDF. There are plenty of other [online sources for workout programs](https://www.makeuseof.com/best-online-sources-workout-programs/) where you can also get further help with your fitness journey.
-
-![Gym, Fitness, & Training Planner GPT workout plan created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-45-08.png)
-
-## 10 Resume by jobbright.ai
-
- Are you looking for a new job or to change your career? If so, you’ll find several custom GPTs to help you on your search—including jobbright.ai’s version. When you upload your resume, the GPT will first extract the information from what you send. Then, after confirming that everything is accurate, you’ll get a feedback table with scores and comments on what you did well and could improve. Moreover, you get bulleted tips for enhancing your resume.
-
-![The Resume by jobbright.ai plugin offering feedback on a resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-53-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- Besides analyzing your resume, you can also ask the GPT for jobs related to your skills. If you’re planning a career change, consider checking out these [tools to help you successfully pivot](https://www.makeuseof.com/tools-to-pivot-your-career/).
-
- Regardless of whether you want a new job or need to plan a big trip, ChatGPT has several custom GPTs that’ll help you achieve your desired results. The quality of your answers depends on how good your prompts are, but you can also find custom GPTs to help you in that respect. Go to Explore GPTs in ChatGPT to find these and several others.
-
-### Key Takeaways
-
-* ChatGPT offers custom GPTs to help you perform several actions.
-* Use custom GPTs to design better prompts, get gym routines, tweak your resume, and more.
-* Access these custom GPTs by going to the Explore GPTs tab in ChatGPT.
-
-**MAKEUSEOF VIDEO OF THE DAY**
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- ChatGPT on its own is great, but did you know that you can use custom GPTs to streamline its functionality? Custom GPTs can teach you how to code, plan trips, transcribe videos, and much, much more, and there are heaps for you to choose from.
-
- So, here are the best custom GPTs that actually make ChatGPT a better tool for any situation.
-
-## 1 Diagrams: Show Me
-
- The Diagrams: Show Me GPT plugin quickly visualizes all kinds of information in diagrams. You can use this add-on to view promotion paths at companies you want to work for, and it’s also handy if you need general flow charts (for example, we asked Diagrams: Show Me to outline the process from freelancing to running an agency).
-
-![The Diagrams: Show Me Custom GPT in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-49-15.png)
-
- Once you’ve created an initial prototype, you can make adjustments by giving the GPT new instructions. Alternatively, you can edit the image with code instead if you know how to. You can use Diagrams: Show Me to [optimize productivity with workflow diagrams](https://www.makeuseof.com/optimize-productivity-with-workflow-diagram/) for your personal and work projects.
-
-## 2 Canva
-
- Canva is one of the most popular platforms for designing graphics online, and several [Canva apps are worth checking out to create better designs](https://www.makeuseof.com/canva-apps-worth-trying/). The Canva GPT plugin helps you create all kinds of content, such as Instagram posts and logos.
-
- When you use the Canva custom GPT, you may notice that some of the text in your visuals overlay other boxes. Fortunately, when you click on a design prototype, the GPT will redirect you to the Canva app. Here, you can make any edits you feel are necessary—such as resizing text and adding new images.
-
-![The Canva Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-53-02.png)
-
- If you want to level up your Canva projects, consider reading [how to use Canva’s Magic Studio for your designs](https://www.makeuseof.com/canva-magic-studio-how-to-edit-designs/).
-
-## 3 Presentation Slides
-
- Creating slides that are informative and engaging is crucial in workspaces and when studying. However, deciding how to lay out your slides can be challenging. The Presentation Slides GPT plugin is designed to help minimize the manual work.
-
-![The Presentation Slides Custom GPT offering advice on how to outline a presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-01-04.png)
-
- You can ask Presentation Slides to outline your presentation, meaning that you can take what you like and adapt everything in your preferred presentation creator later. Besides organizing information, presentation slides can guide you in designing a layout that fits your project theme.
-
-![Tips for designing a presentation offered by the Presentation Slides custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-00-54.png)
-
- The Presentation Slides GPT offers advice on keeping your audiences engaged during your presentation. When you’re ready to compile everything, consider using [the best tools that use AI to make presentations for you](https://www.makeuseof.com/tools-use-ai-to-make-presentation/).
-
-## 4 Math Solver
-
- While some people have no problems working out mathematical equations, it’s not simple for everyone. If you struggle with numbers but want to improve your math skills, consider using the Math Solver custom GPT.
-
- You can ask Math Solver for help with simple and complex equations. The GPT walks you through how to solve each one and explains the concept. You also get useful related questions to help you continue enhancing your skills.
-
-![The Math Solver Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-06-12.png)
-
- Although Math Solver is good for understanding how to solve mathematical problems, you shouldn’t use it to cheat on your homework or exams. In fact, there are many [ways that you should not use ChatGPT as a student](https://www.makeuseof.com/chatgpt-not-use-student/)—such as relying on the program to write essays for you.
-
-## 5 Travel Guide
-
- Do you have a big upcoming trip, or are you simply researching potential adventures? Consider using the Travel Guide GPT plugin to help you gather essential information and plan your itinerary.
-
- Travel Guide is pretty good at providing an itinerary outline for you to build upon later. For example, you can use the days it gives you and then do extra research elsewhere for places to eat, where to stay, etc.
-
-![An itinerary designed by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-13-08.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- Besides planning itineraries, Travel Guide can offer budget travel tips for specific destinations. For example, we asked the Travel Guide GPT to help us visit Switzerland on a budget of 80 Swiss Francs (c. $88 per day), excluding hotels.
-
- If you’re interested in a unique adventure, consider reading these [inspiring travel blogs of adventurers who trek the world on foot](https://www.makeuseof.com/inspiring-travel-blogs-adventurers-trek-the-world-on-foot/).
-
-![Budget travel tips provided by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-15-08.png)
-
-## 6 Scholar GPT
-
- Academic research is a strenuous process regardless of your experience, but AI tools can help you streamline the process and provide more context. Scholar GPT is one of those. With this GPT, you can upload research paper PDFs and links to receive analysis.
-
-![The Scholar GPT plugin analyzing a research paper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-25-26.png)
-
- Scholar GPT can analyze text from reputable websites, including Google Scholar and PubMed. Besides analyzing research papers, you can also ask the tool to give you the latest news in your industry. If you’d prefer to use research websites directly, start by checking out these [expert Google Scholar search tips](https://www.makeuseof.com/google-scholar-search-tips/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 7 Prompt Professor
-
- If you’re new to ChatGPT or other AI tools, getting your prompts right will take some time and experimentation. But thanks to custom GPTs like Prompt Professor, you can get helpful feedback to reduce the learning curve.
-
- Prompt Professor can review every prompt you’re planning to send and outline what you did well. For example, we received feedback that our prompt was direct and offered contextual information.
-
-![The Prompt Professor custom GPT offering tips and feedback](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-30-32.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
- You also get tips on how to improve your prompt, which you can then make a note of in the future.
-
- Prompt Professor can also provide tips on the golden rules of prompting. Moreover, if you’re new, you can get general advice on how to write a good prompt. If you want a headstart, [there are several AI prompt generators you can also try](https://www.makeuseof.com/best-ai-prompt-generators-for-any-ai-tool/).
-
-![Room for improvement offered by the Prompt Professor custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-31-26.png)
 
 ## 8 Code Tutor
 
@@ -568,22 +568,20 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-best-8-virtual-backdrops-for-macbook-upgrades/"><u>[Updated] In 2024, Best 8 Virtual Backdrops for MacBook Upgrades</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-check-your-channels-revenue-flow/"><u>[Updated] In 2024, Check Your Channel's Revenue Flow</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-effective-strategies-to-document-competitive-play/"><u>[Updated] In 2024, Effective Strategies to Document Competitive Play</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-transforming-photo-genders-on-instagram-snapchat-and-facebook/"><u>[Updated] Transforming Photo Genders on Instagram, Snapchat & Facebook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/10-chatgpt-pdf-plugins-that-can-save-you-time-and-effort/"><u>10 ChatGPT PDF Plugins That Can Save You Time and Effort</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/19-cutting-edge-pos-applications-for-businesses-beyond-chatgpt/"><u>19 Cutting-Edge POS Applications for Businesses Beyond ChatGPT</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-honor-90-gt-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor 90 GT FRP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/6-ways-authors-excel-over-artificial-text-assistants/"><u>6 Ways Authors Excel Over Artificial Text Assistants</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/9-insights-into-the-future-workforce-for-prompt-crafting/"><u>9 Insights Into the Future Workforce for Prompt Crafting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-forefront-ai-and-its-stand-against-chatgpt/"><u>A Deep Dive Into Forefront AI and Its Stand Against ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abruptly-end-your-chatgpt-experience/"><u>Abruptly End Your ChatGPT Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comparing-screen-technologies-neo-qled-versus-oled-televisions/"><u>Comparing Screen Technologies: Neo QLED Versus OLED Televisions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721435790388-debunking-claims-chatgpt-app-on-windows-not-so-fast/"><u>Debunking Claims: ChatGPT App on Windows? Not So Fast!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-methods-for-livestreaming-sporting-action-successfully/"><u>Essential Methods for Livestreaming Sporting Action Successfully</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721400851018-leap-into-a-new-era-of-web-exploration-bing-on-mobile-platforms/"><u>Leap Into a New Era of Web Exploration: Bing on Mobile Platforms.</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-12-common-problems-with-iphone-12-solutions-and-workarounds/"><u>Top 12 Common Problems with iPhone 12: Solutions & Workarounds</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-quickcapture-stopping-and-saving-screen-moments/"><u>[Updated] QuickCapture Stopping & Saving Screen Moments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-of-the-best-6-superior-signature-background-removers/"><u>Best of the Best 6 Superior Signature Background Removers</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-personalization-enhancing-your-online-experience/"><u>Cookiebot-Driven Personalization: Enhancing Your Online Experience</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/download-and-master-the-dex-asteriskpng-free-dj-controller-maps-for-gemini-slate-4-pioneer/"><u>Download & Master the DEX asterisk.png Free DJ Controller Maps for Gemini Slate 4 - Pioneer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/efficiently-navigate-away-from-dead-end-gpt-tools/"><u>Efficiently Navigate Away From Dead-End GPT Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/freelancing-edge-6-innovative-ways-to-utilize-chatgpt/"><u>Freelancing Edge: 6 Innovative Ways to Utilize ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/harmonized-horizons-the-dual-dynamic-of-meditative-practices/"><u>Harmonized Horizons: The Dual Dynamic of Meditative Practices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/hybrid-graphic-card-fix-for-windows-11-unveiled/"><u>Hybrid Graphic Card Fix for Windows 11 Unveiled</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-reno-8t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Reno 8T Phones with/without a PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/next-level-voice-assistant-experience-with-the-new-4th-gen-echo-show/"><u>Next-Level Voice Assistant Experience with the New 4Th Gen Echo Show</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openais-linguistic-titans-understanding-gpt-14/"><u>OpenAI’s Linguistic Titans: Understanding GPT-1–4</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/overcoming-gpts-text-limit-tips-and-tricks/"><u>Overcoming GPT's Text Limit – Tips & Tricks!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailoring-twitter-threads-for-maximum-impact-chatgpt/"><u>Tailoring Twitter Threads for Maximum Impact (ChatGPT)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-copywriting-hurdles-how-to-easily-avoid-with-chatgpts-help/"><u>Top Copywriting Hurdles: How to Easily Avoid With ChatGPT's Help</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-human-authors-outperform-ai-driven-writing-assistants/"><u>Why Human Authors Outperform AI-Driven Writing Assistants</u></a></li>
 </ul></div>
 

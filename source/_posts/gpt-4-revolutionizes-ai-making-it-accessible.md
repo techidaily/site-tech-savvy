@@ -1,7 +1,7 @@
 ---
 title: GPT-4 Revolutionizes AI, Making It Accessible
-date: 2024-09-12T07:45:50.079Z
-updated: 2024-09-13T07:45:50.079Z
+date: 2024-12-06T01:29:35.051Z
+updated: 2024-12-12T22:06:45.682Z
 tags:
   - chatgpt
   - open-ai
@@ -21,10 +21,7 @@ thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d4
 >
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -42,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d4
 So, what is GPT-4o?
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is GPT-4o?
@@ -61,10 +55,7 @@ So, what is GPT-4o?
 ![openai gpt4o peformance chart may 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/openai-gpt4o-peformance-chart-may-2024.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
@@ -72,16 +63,7 @@ So, what is GPT-4o?
  Now, numbers are all very well and good, but what does that actually translate to? Well, again, working from OpenAI's numbers, GPT-4o "matches GPT-4 Turbo performance" for English writing and coding, is significantly faster in "non-English languages," and, most importantly, is faster and cheaper in terms of API use.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-4o Live Capabilities Are Astounding
@@ -96,13 +78,6 @@ So, what is GPT-4o?
 
  I was in Morocco recently, and even with Google Translate helping get some meaning into Arabic, the full context of the translation is never completely accurate. GPT-4o's live translation would have been incredibly useful!
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Coding and Tutoring
 
  GPT-4o also brings significant upgrades to code interpretation and assistance using its multi-modal capabilities. Similar to the other tools, yes, ChatGPT could already work with some data, but its new model drastically steps this up.
@@ -110,10 +85,7 @@ So, what is GPT-4o?
  The ability to debug code using just your voice is remarkable. However, its real use will only become clear when actual programmers and developers begin using the tool. While ChatGPT's coding abilities are useful, they're only as useful as the knowledge of the user, like most generative AI tools.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Does GPT-4o Launch? Is GPT-4o Free?
@@ -139,5 +111,21 @@ So, what is GPT-4o?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-online-livestream-technology/"><u>[Updated] Ultimate Online Livestream Technology</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-decoding-shake-reduction-in-photoshop-does-it-matter/"><u>2024 Approved Decoding Shake Reduction in Photoshop Does It Matter?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-latest-upgrade-wave-for-airpods-line-up-revealed-discover-the-four-key-advances-as-spotted-on-zdnet/"><u>Apple's Latest Upgrade Wave for AirPods Line-Up Revealed: Discover the Four Key Advances as Spotted on ZDNet</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-defy-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Defy 2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/busting-common-glitches-repairing-the-spell-correction-tool-in-outlook/"><u>Busting Common Glitches: Repairing the Spell Correction Tool in Outlook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/educational-essays-or-ai-generated-text-the-new-norm/"><u>Educational Essays or AI-Generated Text? The New Norm?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-prophecy-versus-magazine-zodiac-readings/"><u>GPT's Prophecy Versus Magazine Zodiac Readings</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-claude-taking-over-as-top-chatbot/"><u>Is Claude Taking Over as Top Chatbot?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-ai-solutions-with-chatgpt-technologies/"><u>Pioneering AI Solutions with ChatGPT Technologies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshoot-your-youtube-video-problems-with-quick-fixes-for-fullscreen-glitches-and-dark-background-issues/"><u>Troubleshoot Your YouTube Video Problems with Quick Fixes for Fullscreen Glitches and Dark Background Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/troubleshooting-common-obs-issues/"><u>Troubleshooting Common OBS Issues</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/troubleshooting-solutions-when-your-graphic-card-wont-show-on-screen-techtalk-by-gfxpro/"><u>Troubleshooting: Solutions When Your Graphic Card Won't Show On Screen - TechTalk by GFXPro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncluttered-inbox-revolutionized-with-one-simple-trick-say-goodbye-to-multiple-accounts-and-complex-rules-zdnet/"><u>Uncluttered Inbox Revolutionized with One Simple Trick - Say Goodbye to Multiple Accounts and Complex Rules | ZDNET</u></a></li>
+</ul></div>
 

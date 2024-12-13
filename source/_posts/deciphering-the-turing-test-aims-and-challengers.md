@@ -1,7 +1,7 @@
 ---
 title: "Deciphering The Turing Test: Aims and Challengers"
-date: 2024-12-01T01:36:18.926Z
-updated: 2024-12-06T20:04:48.838Z
+date: 2024-12-07T16:43:49.171Z
+updated: 2024-12-13T01:45:08.399Z
 tags:
   - chatgpt
   - open-ai
@@ -29,16 +29,12 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
 
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -71,12 +63,16 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
@@ -89,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Google's LaMBDA
 
  So Eugene Goostman may not have passed the Turing test, but how about Google's LaMDA?
@@ -98,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
  Lemoine gave particular focus to an instance where he asked: "What does the word 'soul' mean to you?" Google's LaMDA answered, "To me, the soul is a concept of the animating force behind consciousness and life itself."
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Advancement of Computer Intelligence
 
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
 
@@ -144,20 +144,21 @@ thumbnail: https://thmb.techidaily.com/baf1b8e8a6309af3aded523f7542d48deabc8aba1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/rafting-engaging-youtube-videos-using-finalcut-pro-expertise/"><u>[New] Crafting Engaging YouTube Videos Using FinalCut Pro Expertise</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-yt-portals-for-trend-tracking-and-analysis/"><u>[New] YT Portals for Trend-Tracking and Analysis</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-superior-sound-modification-equipment-for-video-artists/"><u>[Updated] Superior Sound Modification Equipment for Video Artists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-era-for-ai-how-does-transfer-learning-pave-the-way/"><u>A New Era for AI: How Does Transfer Learning Pave The Way?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/phony-of-streams-harmonizing-your-multiple-youtube-views-for-2024/"><u>A Symphony of Streams Harmonizing Your Multiple YouTube Views for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-tools-for-the-self-employed-is-bing-chat-worth-it-over-chatgpt/"><u>AI Tools for the Self-Employed: Is Bing Chat Worth It Over ChatGPT?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-website-navigation-systems/"><u>AI's Impact on Website Navigation Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bebop-2s-aviary-artistry-reviewed-for-2024/"><u>Bebop 2’S Aviary Artistry Reviewed for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/creating-a-narrative-structure-for-2024/"><u>Creating a Narrative Structure for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/outshining-gpt-claudes-four-unique-features-for-better-conversations/"><u>Outshining GPT: Claude's Four Unique Features for Better Conversations</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/screenplay-foundations-a-guide-for-2024/"><u>Screenplay Foundations A Guide for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/securing-data-amidst-tailored-chatgpt-models/"><u>Securing Data Amidst Tailored ChatGPT Models</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/seo-strategies-in-2009-focusing-on-attraction-sex-or-brand-development-for-online-success/"><u>SEO Strategies in 2009: Focusing on Attraction (SEX) or Brand Development for Online Success?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ethical-boundaries-chatgpt-and-harmful-programming/"><u>The Ethical Boundaries: ChatGPT and Harmful Programming</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-cutting-edge-techniques-for-creating-engaging-vr-content-in-adobe-premiere/"><u>[New] In 2024, Cutting-Edge Techniques for Creating Engaging VR Content in Adobe Premiere</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-verdict-on-the-m1-powered-macbook-for-editors-for-2024/"><u>[New] The Verdict on the M1-Powered MacBook for Editors for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-steps-to-uplift-gpts-integrated-plugin-platform/"><u>Essential Steps to Uplift GPT's Integrated Plugin Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-device-error-0xa00f425d-in-camera-app/"><u>Fixing Windows Device Error 0xA00F425D in Camera App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-effectively-set-health-goals-with-chatgpt/"><u>How to Effectively Set Health Goals With ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-a79-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo A79 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-turning-chaos-into-clarity-in-your-burdened-tiktok-archive/"><u>In 2024, Turning Chaos Into Clarity in Your Burdened TikTok Archive</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-text-with-mega-sized-ai-models/"><u>Mastering Text with Mega-Sized AI Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-pc-performance-ai-assistance-at-hand/"><u>Pioneering PC Performance: AI Assistance at Hand</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safety-in-solitude-can-a-conversation-with-ai-help/"><u>Safety in Solitude: Can a Conversation with AI Help?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/side-hustles-with-chatai-and-upgrading-your-system/"><u>Side Hustles with ChatAI & Upgrading Your System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/silicon-sense-and-cyber-shields-telling-techs-jestful-journey/"><u>Silicon Sense & Cyber Shields: Telling Tech's Jestful Journey</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-apex-list-best-pc-companies-to-watch/"><u>The Apex List: Best PC Companies to Watch</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-tecno-phantom-v-flip-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Phantom V Flip Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

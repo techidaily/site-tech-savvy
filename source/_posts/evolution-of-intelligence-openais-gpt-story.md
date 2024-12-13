@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Intelligence: OpenAI's GPT Story"
-date: 2024-12-03T17:35:29.304Z
-updated: 2024-12-07T00:45:48.108Z
+date: 2024-12-05T19:29:05.634Z
+updated: 2024-12-12T20:31:58.148Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are Generative Pre-Trained Transformers?
 
  Generative Pre-trained Transformers (GPTs) are a type of machine learning model used for natural language processing tasks. These models are pre-trained on massive amounts of data, such as books and web pages, to generate contextually relevant and semantically coherent language.
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
 ![Art of an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rup-ai-chatgpt4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  GPT-1 was released in 2018 by OpenAI as their first iteration of a language model using the Transformer architecture. It had 117 million parameters, significantly improving previous state-of-the-art language models.
 
  One of the strengths of GPT-1 was its ability to generate fluent and coherent language when given a prompt or context. The model was trained on a combination of two datasets: the [Common Crawl](https://commoncrawl.org/), a massive dataset of web pages with billions of words, and the BookCorpus dataset, a collection of over 11,000 books on a variety of genres. The use of these diverse datasets allowed GPT-1 to develop strong language modeling abilities.
@@ -49,12 +57,16 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
  Despite these limitations, GPT-1 laid the foundation for larger and more powerful models based on the Transformer architecture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## GPT-2
 
 ![gpt 3 featured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/gpt-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  GPT-2 was released in 2019 by OpenAI as a successor to GPT-1\. It contained a staggering 1.5 billion parameters, considerably larger than GPT-1\. The model was trained on a much larger and more diverse dataset, combining Common Crawl and WebText.
 
@@ -63,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
  However, GPT-2 was not without its limitations. It struggled with tasks that required more complex reasoning and understanding of context. While GPT-2 excelled at short paragraphs and snippets of text, it failed to maintain context and coherence over longer passages.
 
  These limitations paved the way for the development of the next iteration of GPT models.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## GPT-3
 
@@ -84,16 +92,12 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
  OpenAI also released an improved version of GPT-3, GPT-3.5, before officially launching GPT-4\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## GPT-4
 
 ![openai gpt4 model chatgpt upgrade](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-gpt4-model-chatgpt-upgrade.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  GPT-4 is the latest model in the GPT series, launched on March 14, 2023\. It's a significant step up from its previous model, GPT-3, which was already impressive. While the specifics of the model's training data and architecture are not officially announced, it certainly builds upon the strengths of GPT-3 and overcomes some of its limitations.
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 | GPT-2 | February 2019 | Common Crawl, BookCorpus, WebText                              | 1.5 billion                  | 2048                 |
 | GPT-3 | June 2020     | Common Crawl, BookCorpus, Wikipedia, Books, Articles, and more | 175 billion                  | 4096                 |
 | GPT-4 | March 2023    | Unknown                                                        | Estimated to be in trillions | Unknown              |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A Journey Through GPT Language Models
 
@@ -144,20 +144,20 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-decoding-the-art-of-asmr-filmmaking-techniques-for-2024/"><u>[New] Decoding the Art of ASMR Filmmaking Techniques for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-instagrams-financial-opportunities-a-comprehensive-guide/"><u>[New] Navigating Instagram's Financial Opportunities A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-money-mastery-from-clicks-to-checkbook-balance/"><u>[Updated] YouTube Money Mastery From Clicks to Checkbook Balance</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-streamlined-approach-to-iphone-screen-recording/"><u>2024 Approved Streamlined Approach to iPhone Screen Recording</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-podcast-wisdom-for-cheap-phones/"><u>ChatGPT's Podcast Wisdom for Cheap Phones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-science-of-openai-ai/"><u>Discover the Science of OpenAI AI</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-workspace-with-these-easy-themes-changes-on-win11/"><u>Enhance Your Workspace with These Easy Themes Changes on Win11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721431815367-free-access-now-however-platinum-plans-6-benefits-are-still-compelling/"><u>Free Access Now! However, Platinum Plan's 6 Benefits Are Still Compelling.</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-magic-5-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor Magic 5 Phone | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-ai-6-principles-to-propel-your-professional-life/"><u>Harnessing AI: 6 Principles to Propel Your Professional Life</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/how-to-troubleshoot-a-non-functional-printed-connection-expert-advice-from-yl-computing/"><u>How To Troubleshoot a Non-Functional Printed Connection - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-best-game-streaming-software-you-should-know/"><u>In 2024, Best Game Streaming Software You Should Know</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-gaming-universe-expanded-how-bzs-innovation-meets-microsofts-ai-prowess-interview-series/"><u>The Gaming Universe Expanded: How BZ's Innovation Meets Microsoft's AI Prowess [Interview Series]</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tomorrows-threat-landscape-a-glimpse-at-7-predictions/"><u>Tomorrow's Threat Landscape: A Glimpse at 7 Predictions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-depth-analysis-of-gradual-audio-lowering-with-lumafusion-for-2024/"><u>[Updated] In-Depth Analysis of Gradual Audio Lowering with Lumafusion for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-in-a-nutshell-the-video-sharing-experience-for-2024/"><u>[Updated] Vimeo in a Nutshell The Video Sharing Experience for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dialogueclosed-timeline-for-chatgpt-revival/"><u>DialogueClosed: Timeline for ChatGPT Revival?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-data-analysis-navigating-through-bings-android-ai/"><u>Enhanced Data Analysis: Navigating Through Bing's Android AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guarding-authenticity-openais-anti-cheat-for-gpt-text-generation/"><u>Guarding Authenticity: OpenAI's Anti-Cheat for GPT Text Generation</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/meta-openai-under-legal-scrutiny-by-artistic-collective-leaders/"><u>Meta, OpenAI Under Legal Scrutiny by Artistic Collective Leaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-language-varieties-with-ease-via-chatgpt/"><u>Navigating Language Varieties with Ease via ChatGPT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/stability-showcase-premium-phone-compatible-tripods-for-2024/"><u>Stability Showcase Premium Phone-Compatible Tripods for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-apex-legends-engine-malfunctions-steps-and-solutions/"><u>Ultimate Fix for Apex Legends Engine Malfunctions - Steps & Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-real-users-worlds-constructive-user-personas-via-chatgpt/"><u>Unveiling Real Users' Worlds: Constructive User Personas via ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-a-local-llm-might-be-the-right-choice-for-you/"><u>Why a Local LLM Might Be the Right Choice for You</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-upgrade-new-amd-hd-6950-graphics-driver-rollout/"><u>Win11 Upgrade: New AMD HD 6950 Graphics Driver Rollout</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-windows-10s-constant-interruption-by-learning-how-to-avoid-unwanted-restarting/"><u>Winning Against Windows 10'S Constant Interruption by Learning How to Avoid Unwanted Restarting</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crafting Control in AI Alignment Quest
-date: 2024-09-12T07:42:16.974Z
-updated: 2024-09-13T07:42:16.974Z
+date: 2024-12-07T23:19:11.091Z
+updated: 2024-12-12T18:27:37.446Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,7 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 >
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The AI Control Problem Explained
@@ -48,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
  If an AI system were to surpass human intelligence without the proper safeguards, the result could be catastrophic. Such systems could assume control of physical resources as many tasks are achieved better or more efficiently. Since AI systems are designed to achieve maximum efficiency, losing control could lead to severe consequences.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Does the AI Control Problem Apply?
@@ -61,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
 ![Image of a laptop with AI on the screen and ChatGPT in different fonts in the background](https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A great example of this is the [Tesla Full-Self Driving (FSD) suite](https://www.makeuseof.com/what-is-tesla-fsd-how-does-it-work/). While the car can drive itself, it requires a human to have their hands on the steering wheel, ready to take control of the car should the system malfunction. However, as these AI systems get more reliable, even the most alert human's attention will begin to vary, and dependency on the autonomous system will increase.
@@ -72,10 +63,7 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
  So what happens when cars start driving at speeds humans can't keep up with? We'll end up surrendering control to the car's autonomous systems, meaning an AI system will be in control of your life, at least until you reach your destination.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can the AI Control Problem Be Solved?
@@ -91,16 +79,7 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
  The DCAF approach always puts a human operator at the helm of an automated system, ensuring that their input controls the most important parts of the system's decision-making process. If a system is engaging enough for a human operator to pay attention constantly, the control problem can be solved.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can We Ever Truly Control AI?
@@ -126,5 +105,26 @@ thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-figma-erase-background-elements-seamlessly/"><u>[Updated] Navigating Figma Erase Background Elements Seamlessly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-7-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On Apple iPhone 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-realme-gt-5-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Realme GT 5 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movmp4-movavi/"><u>网络上免费MOV转化为MP4格式 - 利用Movavi转换工具</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-psychiatry-the-9-risks-that-may-sneak-up-on-you/"><u>AI Psychiatry: The 9 Risks That May Sneak Up on You</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/aquatic-bliss-selecting-the-best-gear-for-relaxation/"><u>Aquatic Bliss: Selecting the Best Gear for Relaxation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-alert-for-device-owners-fixing-the-hazardous-lithium-issue-affecting-airtags-and-more-insider-guide/"><u>Critical Alert for Device Owners: Fixing the Hazardous Lithium Issue Affecting AirTags & More, Insider Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/different-algos-one-creative-goal-bot-showcase/"><u>Different Algos, One Creative Goal: Bot Showcase</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-outstanding-portable-speaker-performance-for-diverse-music-styles-rigorously-tested-by-experts-zdnet/"><u>Discover Outstanding Portable Speaker Performance for Diverse Music Styles, Rigorously Tested by Experts | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-client-engagement-with-gpt-in-therapy-sessions/"><u>Enhancing Client Engagement with GPT in Therapy Sessions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/fading-out-the-art-of-ebbing-audio-energy-in-fl-studio/"><u>Fading Out The Art of Ebbing Audio Energy in FL Studio</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-honor-x9a-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Honor X9a Without PUK Codes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gadgets-with-toms-hardware-expertise/"><u>Mastering Gadgets with Tom's Hardware Expertise</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pushing-boundaries-the-future-of-generative-systems/"><u>Pushing Boundaries: The Future of Generative Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-poco-c55-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Poco C55</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-notetablet-picks-comprehensive-testing-and-reviews-by-techexperts/"><u>Top Notetablet Picks : Comprehensive Testing & Reviews by TechExperts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transition-from-finewoven-to-beats-accessories-as-apple-revamps-lineup-revealed/"><u>Transition From FineWoven to Beats Accessories as Apple Revamps Lineup, Revealed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-study-success-with-smart-gpt-notes/"><u>Unlock Study Success with Smart GPT Notes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-asus-970-pro-gaming-for-better-gaming-experience/"><u>Update Asus 970 Pro Gaming For Better Gaming Experience</u></a></li>
+</ul></div>
 
