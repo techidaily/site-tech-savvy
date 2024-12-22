@@ -50,8 +50,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/chatgpt-api-roles-diagram-1-1.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/temperature-parameter-of-chatgpt-api-3.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a-poem-on-programmers.jpg">
-<meta property="article:published_time" content="2024-12-06T17:20:17.674Z">
-<meta property="article:modified_time" content="2024-12-12T12:01:39.437Z">
+<meta property="article:published_time" content="2024-12-18T12:56:06.132Z">
+<meta property="article:modified_time" content="2024-12-21T14:51:21.660Z">
 <meta property="article:author" content="Brian">
 <meta property="article:tag" content="chatgpt">
 <meta property="article:tag" content="open-ai">
@@ -686,7 +686,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">19549</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">19947</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -737,15 +737,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-07 01:20:17</span>
-        <span class="mobile">2024-12-07 01:20:17</span>
+        <span class="desktop">2024-12-18 20:56:06</span>
+        <span class="mobile">2024-12-18 20:56:06</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-12 20:01:39</span>
-            <span class="mobile">2024-12-12 20:01:39</span>
+            <span class="desktop">2024-12-21 22:51:21</span>
+            <span class="mobile">2024-12-21 22:51:21</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -835,10 +835,6 @@
                 ></li>
 </ol>
 <p> The code used in this project is available in a <a class="link"   target="_blank" rel="noopener" href="https://github.com/makeuseofcode/ChatGPT-API-Sample-Code" >GitHub repository <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and is free for you to use under the MIT license.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="2-Setting-Up-the-Development-Environment"><a href="#2-Setting-Up-the-Development-Environment" class="headerlink" title="2. Setting Up the Development Environment"></a>2. Setting Up the Development Environment</h2><p> You can use the API endpoint directly or take advantage of the <strong>openai</strong> Python&#x2F;JavaScript library to start building ChatGPT API-powered applications. This guide uses Python and the <a class="link"   target="_blank" rel="noopener" href="https://github.com/openai/openai-python" >openai-python <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> library.</p>
 <p> To get started:</p>
 <ol>
@@ -863,6 +859,10 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-api-output-response-format.jpg"
                       alt="ChatGPT API output response format"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> You can extract the content from the response, as a JSON string, with this code:</p>
 <p><code>print(response.choices [0].message.content)</code></p>
 <p> Running this code produces the following output:</p>
@@ -893,10 +893,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/temperature-parameter-of-chatgpt-api-3.jpg"
                       alt="Temperature parameter of ChatGPT API"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> Like ChatGPT, the API also has a word limit. Use the <strong>max_tokens</strong> parameter to limit the length of responses. Be aware that setting a lower <strong>max_tokens</strong> value can cause issues as it may cut off the output mid-way.</p>
 <p> At the time of writing, the <strong>gpt-3.5-turbo</strong> model has a token limit of 4,096, while <strong>gpt-4</strong>‘s is 8,192. The latest <strong>gpt-3.5-turbo-0125</strong> and <strong>gpt-4-turbo-preview</strong> models have limits of 16,385 and 128,000 respectively.</p>
 <p> After high demand from developers, OpenAI has introduced JSON mode which instructs the model to always return a JSON object. You can enable JSON mode by setting <strong>response_format</strong> to <strong>{ “type”: “json_object” }</strong>. Currently, this feature is only available to the latest models: gpt-3.5-turbo-0125 and gpt-4-turbo-preview.</p>
@@ -916,7 +912,7 @@
                       alt="A poem on programmers"
                 ></p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="ChatGPT-API-Pricing"><a href="#ChatGPT-API-Pricing" class="headerlink" title="ChatGPT API Pricing"></a>ChatGPT API Pricing</h2><p> The ChatGPT API pricing is based on the “price per 1,000 tokens” model. For chat completion requests, the cost is calculated based on the number of input tokens plus the number of output tokens returned by the API. In layman’s terms, tokens are equivalent to pieces of words, where 1,000 tokens are approximately equal to 750 words.</p>
@@ -971,10 +967,6 @@
 <p><strong>SCROLL TO CONTINUE WITH CONTENT</strong></p>
 <p> With the release of its API, OpenAI has opened up the capabilities of ChatGPT to everyone. You can now seamlessly integrate ChatGPT’s features into your application.</p>
 <p> Follow these steps to get started, whether you’re looking to integrate ChatGPT into your existing application or develop new applications with it.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="1-Getting-an-OpenAI-API-Key-1"><a href="#1-Getting-an-OpenAI-API-Key-1" class="headerlink" title="1. Getting an OpenAI API Key"></a>1. Getting an OpenAI API Key</h2><p> To start using the ChatGPT API, you need to obtain an API key.</p>
 <ol>
 <li>Sign up or log in to the official <a class="link"   target="_blank" rel="noopener" href="https://platform.openai.com/signup" >OpenAI <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> platform.</li>
@@ -1001,10 +993,6 @@
 <p> Please note that the ChatGPT API is a general term that refers to OpenAI APIs that use GPT-based models, including the <strong>gpt-3.5-turbo</strong>, <strong>gpt-4</strong>, and <strong>gpt-4-turbo</strong> models.</p>
 <p> The ChatGPT API is primarily optimized for chat but it also works well for text completion tasks. Whether you want to generate code, translate languages, or draft documents, this API can handle it all.</p>
 <p> To get access to the GPT-4 API, you need to make a successful payment of $1 or more. Otherwise, you might get an error similar to “The model `gpt-4` does not exist or you do not have access to it.”</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h3 id="Using-the-API-for-Chat-Completion-1"><a href="#Using-the-API-for-Chat-Completion-1" class="headerlink" title="Using the API for Chat Completion"></a>Using the API for Chat Completion</h3><p> You need to configure the chat model to get it ready for an API call. Here’s an example:</p>
 <p>&#96;from openai import OpenAI<br>from dotenv import load_dotenv  </p>
 <p>load_dotenv()<br>client &#x3D; OpenAI()  </p>
@@ -1025,10 +1013,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/programming-joke-output-generated-via-chat-completions-api.jpg"
                       alt="Programming joke output generated via Chat Completions API"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> The code demonstrates a ChatGPT API call using Python. Note that the model understood the context (“dad joke”) and the type of response (Q&amp;A form) that we were expecting, based on the prompts fed to it.</p>
 <p> The most significant part of the configuration is the <strong>messages</strong> parameter which accepts an array of message objects. Each message object contains a <strong>role</strong> and <strong>content</strong>. You can use three types of roles:</p>
 <ul>
@@ -1050,10 +1034,18 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/temperature-parameter-of-chatgpt-api-3.jpg"
                       alt="Temperature parameter of ChatGPT API"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> Like ChatGPT, the API also has a word limit. Use the <strong>max_tokens</strong> parameter to limit the length of responses. Be aware that setting a lower <strong>max_tokens</strong> value can cause issues as it may cut off the output mid-way.</p>
 <p> At the time of writing, the <strong>gpt-3.5-turbo</strong> model has a token limit of 4,096, while <strong>gpt-4</strong>‘s is 8,192. The latest <strong>gpt-3.5-turbo-0125</strong> and <strong>gpt-4-turbo-preview</strong> models have limits of 16,385 and 128,000 respectively.</p>
 <p> After high demand from developers, OpenAI has introduced JSON mode which instructs the model to always return a JSON object. You can enable JSON mode by setting <strong>response_format</strong> to <strong>{ “type”: “json_object” }</strong>. Currently, this feature is only available to the latest models: gpt-3.5-turbo-0125 and gpt-4-turbo-preview.</p>
 <p> You can further configure the model using the other parameters provided by <a class="link"   target="_blank" rel="noopener" href="https://platform.openai.com/docs/api-reference/chat/create" >OpenAI <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="Using-the-ChatGPT-API-for-Text-Completion-1"><a href="#Using-the-ChatGPT-API-for-Text-Completion-1" class="headerlink" title="Using the ChatGPT API for Text Completion"></a>Using the ChatGPT API for Text Completion</h3><p> In addition to multi-turn conversation tasks, the Chat Completions API (ChatGPT API) does a good job with text completion. The following example demonstrates how you can configure the ChatGPT API for text completion:</p>
 <p>&#96;<br>from openai import OpenAI<br>from dotenv import load_dotenv  </p>
 <p>load_dotenv()<br>client &#x3D; OpenAI()  </p>
@@ -1068,10 +1060,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a-poem-on-programmers.jpg"
                       alt="A poem on programmers"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="ChatGPT-API-Pricing-1"><a href="#ChatGPT-API-Pricing-1" class="headerlink" title="ChatGPT API Pricing"></a>ChatGPT API Pricing</h2><p> The ChatGPT API pricing is based on the “price per 1,000 tokens” model. For chat completion requests, the cost is calculated based on the number of input tokens plus the number of output tokens returned by the API. In layman’s terms, tokens are equivalent to pieces of words, where 1,000 tokens are approximately equal to 750 words.</p>
 <table>
 <thead>
@@ -1118,6 +1106,10 @@
 </tr>
 </tbody></table>
 <p> Note that the pricing may change over time with improvements in the model.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Build-Next-Generation-Apps-Using-the-ChatGPT-API-1"><a href="#Build-Next-Generation-Apps-Using-the-ChatGPT-API-1" class="headerlink" title="Build Next Generation Apps Using the ChatGPT API"></a>Build Next Generation Apps Using the ChatGPT API</h2><p> The ChatGPT API has opened gates for developers around the world to build innovative products with the power of AI.</p>
 <p> You can use this tool to develop applications like story writers, code translators, marketing copy generators, and text summarizers. Your imagination is the limit to building applications using this technology.</p>
 <p><strong>MUO VIDEO OF THE DAY</strong></p>
@@ -1150,10 +1142,6 @@
 <p> Please note that the ChatGPT API is a general term that refers to OpenAI APIs that use GPT-based models, including the <strong>gpt-3.5-turbo</strong>, <strong>gpt-4</strong>, and <strong>gpt-4-turbo</strong> models.</p>
 <p> The ChatGPT API is primarily optimized for chat but it also works well for text completion tasks. Whether you want to generate code, translate languages, or draft documents, this API can handle it all.</p>
 <p> To get access to the GPT-4 API, you need to make a successful payment of $1 or more. Otherwise, you might get an error similar to “The model `gpt-4` does not exist or you do not have access to it.”</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h3 id="Using-the-API-for-Chat-Completion-2"><a href="#Using-the-API-for-Chat-Completion-2" class="headerlink" title="Using the API for Chat Completion"></a>Using the API for Chat Completion</h3><p> You need to configure the chat model to get it ready for an API call. Here’s an example:</p>
 <p>&#96;from openai import OpenAI<br>from dotenv import load_dotenv  </p>
 <p>load_dotenv()<br>client &#x3D; OpenAI()  </p>
@@ -1213,10 +1201,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a-poem-on-programmers.jpg"
                       alt="A poem on programmers"
                 ></p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="ChatGPT-API-Pricing-2"><a href="#ChatGPT-API-Pricing-2" class="headerlink" title="ChatGPT API Pricing"></a>ChatGPT API Pricing</h2><p> The ChatGPT API pricing is based on the “price per 1,000 tokens” model. For chat completion requests, the cost is calculated based on the number of input tokens plus the number of output tokens returned by the API. In layman’s terms, tokens are equivalent to pieces of words, where 1,000 tokens are approximately equal to 750 words.</p>
 <table>
 <thead>
@@ -1282,10 +1266,6 @@
                 ></li>
 </ol>
 <p> The code used in this project is available in a <a class="link"   target="_blank" rel="noopener" href="https://github.com/makeuseofcode/ChatGPT-API-Sample-Code" >GitHub repository <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and is free for you to use under the MIT license.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="2-Setting-Up-the-Development-Environment-3"><a href="#2-Setting-Up-the-Development-Environment-3" class="headerlink" title="2. Setting Up the Development Environment"></a>2. Setting Up the Development Environment</h2><p> You can use the API endpoint directly or take advantage of the <strong>openai</strong> Python&#x2F;JavaScript library to start building ChatGPT API-powered applications. This guide uses Python and the <a class="link"   target="_blank" rel="noopener" href="https://github.com/openai/openai-python" >openai-python <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> library.</p>
 <p> To get started:</p>
 <ol>
@@ -1295,6 +1275,10 @@
 <li>Next, in the same file, set the <strong>OPENAI_API_KEY</strong> variable with the key value that you copied earlier:<br><code>OPENAI_API_KEY=&quot;YOUR_API_KEY&quot;</code></li>
 </ol>
 <p> Make sure you do not accidentally share your API key via version control. <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/what-is-a-gitignore-file-and-how-can-you-make-one/" >Add a .gitignore file <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to your project’s root directory and add “.env” to it to ignore the dotenv file.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="3-Making-ChatGPT-API-Requests-3"><a href="#3-Making-ChatGPT-API-Requests-3" class="headerlink" title="3. Making ChatGPT API Requests"></a>3. Making ChatGPT API Requests</h2><p> The OpenAI API’s GPT-3.5 Turbo, GPT-4, and GPT-4 Turbo are the same models that ChatGPT uses. These powerful models are capable of understanding and generating natural language text and code. GPT-4 Turbo can even process image inputs which opens the gates for several uses including analyzing images, parsing documents with figures, and transcribing text from images.</p>
 <p> Please note that the ChatGPT API is a general term that refers to OpenAI APIs that use GPT-based models, including the <strong>gpt-3.5-turbo</strong>, <strong>gpt-4</strong>, and <strong>gpt-4-turbo</strong> models.</p>
 <p> The ChatGPT API is primarily optimized for chat but it also works well for text completion tasks. Whether you want to generate code, translate languages, or draft documents, this API can handle it all.</p>
@@ -1310,6 +1294,10 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-api-output-response-format.jpg"
                       alt="ChatGPT API output response format"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> You can extract the content from the response, as a JSON string, with this code:</p>
 <p><code>print(response.choices [0].message.content)</code></p>
 <p> Running this code produces the following output:</p>
@@ -1332,6 +1320,10 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/chatgpt-api-roles-diagram-1-1.jpg"
                       alt="ChatGPT API Roles Diagram"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> You can further customize the <strong>temperature</strong> and <strong>max_tokens</strong> parameters of the model to get the output according to your requirements.</p>
 <p> The higher the temperature, the higher the randomness of the output, and vice-versa. If you want your responses to be more focused and deterministic, go for the lower temperature value. And if you want it to be more creative, use a higher value. The temperature value ranges between 0 and 2.</p>
 <p><img  
@@ -1340,6 +1332,10 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/temperature-parameter-of-chatgpt-api-3.jpg"
                       alt="Temperature parameter of ChatGPT API"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> Like ChatGPT, the API also has a word limit. Use the <strong>max_tokens</strong> parameter to limit the length of responses. Be aware that setting a lower <strong>max_tokens</strong> value can cause issues as it may cut off the output mid-way.</p>
 <p> At the time of writing, the <strong>gpt-3.5-turbo</strong> model has a token limit of 4,096, while <strong>gpt-4</strong>‘s is 8,192. The latest <strong>gpt-3.5-turbo-0125</strong> and <strong>gpt-4-turbo-preview</strong> models have limits of 16,385 and 128,000 respectively.</p>
 <p> After high demand from developers, OpenAI has introduced JSON mode which instructs the model to always return a JSON object. You can enable JSON mode by setting <strong>response_format</strong> to <strong>{ “type”: “json_object” }</strong>. Currently, this feature is only available to the latest models: gpt-3.5-turbo-0125 and gpt-4-turbo-preview.</p>
@@ -1358,6 +1354,10 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a-poem-on-programmers.jpg"
                       alt="A poem on programmers"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="ChatGPT-API-Pricing-3"><a href="#ChatGPT-API-Pricing-3" class="headerlink" title="ChatGPT API Pricing"></a>ChatGPT API Pricing</h2><p> The ChatGPT API pricing is based on the “price per 1,000 tokens” model. For chat completion requests, the cost is calculated based on the number of input tokens plus the number of output tokens returned by the API. In layman’s terms, tokens are equivalent to pieces of words, where 1,000 tokens are approximately equal to 750 words.</p>
 <table>
 <thead>
@@ -1419,17 +1419,25 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/updated-2024-approved-streamlining-instagram-story-captioning-techniques/"><u>[Updated] 2024 Approved Streamlining Instagram Story Captioning Techniques</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/2024-approved-tune-tracker-audio-for-visual-creations/"><u>2024 Approved Tune Tracker Audio for Visual Creations</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-hub.techidaily.com/a-guide-to-chatgpt-powered-poetic-compositions/"><u>A Guide to ChatGPT-Powered Poetic Compositions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/commanding-ai-premier-online-training-series/"><u>Commanding AI: Premier Online Training Series</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/custom-gpt-boosts-elevating-chatgpts-interaction-quality/"><u>Custom GPT Boosts: Elevating ChatGPT's Interaction Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/increase-output-decrease-stress-ai-plugins-for-pdfs/"><u>Increase Output, Decrease Stress: AI Plugins for PDFs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/less-hassle-more-joy-mastery-in-making-with-gpt/"><u>Less Hassle, More Joy: Mastery in Making with GPT</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-revival.techidaily.com/mastering-the-switch-top-6-essential-tips-for-transitioning-from-windows-to-linux-seamlessly/"><u>Mastering the Switch: Top 6 Essential Tips for Transitioning From Windows to Linux Seamlessly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prevent-ai-content-harvesting-efforts/"><u>Prevent AI Content Harvesting Efforts</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-dash.techidaily.com/1722973197431-step-by-step-brother-mfc-7360n-driver-update-for-windows-11-8-and-7-users/"><u>Step-by-Step Brother MFC-7360N Driver Update for Windows 11, 8 & 7 Users</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sound-issues.techidaily.com/step-by-step-guide-correcting-dell-speaker-drivers-on-windows-7-machines/"><u>Step-by-Step Guide: Correcting Dell Speaker Drivers on Windows 7 Machines</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-facebook-live-your-2023-playbook/"><u>[New] 2024 Approved Navigating Facebook Live Your 2023 Playbook</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/new-64gb-ideal-for-light-video-content/"><u>[New] 64Gb Ideal for Light Video Content?</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-web.techidaily.com/n-2024-how-to-streamline-the-integration-of-youtube-playlists-into-a-sites-layout/"><u>[New] In 2024, How To Streamline the Integration of YouTube Playlists Into a Site's Layout</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/new-in-2024-uncomplicated-steps-to-record-instagrams-story-feed/"><u>[New] In 2024, Uncomplicated Steps to Record Instagram's Story Feed</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-mirroring-recording.techidaily.com/new-strategic-blending-elevating-video-sequence-harmony-for-2024/"><u>[New] Strategic Blending Elevating Video Sequence Harmony for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-lab.techidaily.com/ed-affordable-acoustic-amps-and-mics-for-video-voyagers/"><u>[Updated] Affordable Acoustic Amps and Mics for Video Voyagers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-next-smartphone-a-comparative-analysis-of-the-iphone-14-pro-and-iphone-14-pro-max-insights-for-tech-enthusiasts/"><u>Choosing Your Next Smartphone: A Comparative Analysis of the iPhone 14 Pro and iPhone 14 Pro Max - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-career-quest-strategies-with-chatgpt/"><u>Enhancing Career Quest Strategies with ChatGPT</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-haven.techidaily.com/exploring-the-impact-of-tandem-oled-technology-in-ipad-pro-on-next-gen-display-innovations-insights-from-zdnet/"><u>Exploring the Impact of Tandem OLED Technology in iPad Pro on Next-Gen Display Innovations: Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improve-your-audio-experience-discover-how-tvos-18-upgrades-apple-tvs-dialogue-clarity-insights/"><u>Improve Your Audio Experience: Discover How tvOS 18 Upgrades Apple TV's Dialogue Clarity - Insights</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR Online? Here are 6 Easy Ways</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-trending.techidaily.com/is-it-possible-to-uninstall-windows-security-suite-insights-from-yl-computing-and-more-tips/"><u>Is It Possible To Uninstall Windows Security Suite? Insights From YL Computing & More Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/playful-symbols-or-financial-sense/"><u>Playful Symbols or Financial Sense?</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/safeguarding-your-interactive-dialogues-with-openais-tools/"><u>Safeguarding Your Interactive Dialogues with OpenAI's Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-5-reasons-ai-cannt-fulfill-creative-writing-demands/"><u>The 5 Reasons AI Cann't Fulfill Creative Writing Demands</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-macbook-pro-enhancers-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MacBook Pro Enhancers : Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-your-potential-with-gpts-my-bots-in-board-games-and-creation/"><u>Unleash Your Potential with GPT's My Bots in Board Games & Creation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wilderness-wanderer-ai-as-your-safety-net/"><u>Wilderness Wanderer? AI as Your Safety Net?</u></a></li>
 </ul></div>
 
 
@@ -1442,11 +1450,11 @@
         <li><strong>Title:</strong> Step Into the Future with ChatGPT API Implementation</li>
         <li><strong>Author:</strong> Brian</li>
         <li><strong>Created at
-                :</strong> 2024-12-07 01:20:17</li>
+                :</strong> 2024-12-18 20:56:06</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-12 20:01:39
+                    :</strong> 2024-12-21 22:51:21
             </li>
         
         <li>
@@ -1490,13 +1498,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/the-chatgpt-guidebook-for-freelance-writers-seeking-success/"
+                        href="/ai-dialogue-duel-does-claude-have-the-edge/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">The ChatGPT Guidebook for Freelance Writers Seeking Success</span>
+                                <span class="post-nav-title-item">AI Dialogue Duel: Does Claude Have The Edge?</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1506,10 +1514,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/wilderness-wanderer-ai-as-your-safety-net/"
+                        href="/fitness-expertise-meets-chatbot-efficiency/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Wilderness Wanderer? AI as Your Safety Net?</span>
+                                <span class="post-nav-title-item">Fitness Expertise Meets Chatbot Efficiency</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
