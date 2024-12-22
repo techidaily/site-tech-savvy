@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Creativity: Using ChatGPT for Presentations"
-date: 2024-12-06T01:11:59.160Z
-updated: 2024-12-12T17:38:12.629Z
+date: 2024-12-20T20:04:55.026Z
+updated: 2024-12-22T03:14:53.184Z
 tags:
   - chatgpt
   - open-ai
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/b75342051a1eed044885b06ddc777260c76924178
 ![A sample conversation with ChatGPT to generate text for a presentation.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-presentation-text.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have provided the information, ChatGPT will generate the presentation text for you. You can edit and refine the text to meet your needs and preferences. It's best to remove the structural phrases, such as the slide numbers and the image descriptions. Keep only the main text.
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/b75342051a1eed044885b06ddc777260c76924178
 ![SlidesAI on the Google Webstore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Go to Google Slides.
@@ -81,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/b75342051a1eed044885b06ddc777260c76924178
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Compile the Presentation With SlidesAI
 
  With SlidesAI installed, you can now begin creating your presentation. You can do this in the same blank presentation you made in the previous step. SlidesAI will automatically add new slides and fill them with appropriate content.
@@ -91,15 +95,11 @@ thumbnail: https://thmb.techidaily.com/b75342051a1eed044885b06ddc777260c76924178
 3. In the new window, paste your text under **Enter text**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
 6. Check **Replace Existing Slides**.
@@ -119,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/b75342051a1eed044885b06ddc777260c76924178
 
 ![The Magic Write tool in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-magic-write.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There's a chance that SlidesAI adds irrelevant images to some slides. In that case, you can replace the image with SlideAI's Magic Write tool. This feature considers the slide's content and suggests relevant stock photos.
 
 1. Go to the **Extensions** menu.
@@ -131,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/b75342051a1eed044885b06ddc777260c76924178
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to **File > Download** and then select **Microsoft PowerPoint**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create Efficient Presentations in Minutes
 
@@ -163,16 +163,24 @@ thumbnail: https://thmb.techidaily.com/b75342051a1eed044885b06ddc777260c76924178
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-clandestine-watching-of-stories-by-the-best-5-apps/"><u>[Updated] 2024 Approved Clandestine Watching of Stories by the Best 5 Apps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-digital-choices-for-content-creators-sound-or-sight-focus/"><u>[Updated] In 2024, Digital Choices for Content Creators Sound or Sight Focus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dialogue-to-discovery-using-chatgpt-for-views/"><u>Dialogue to Discovery: Using ChatGPT for Views</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-updated-windows-software-for-your-hp-envy-4500-series-printer/"><u>Effortless Installation of Updated Windows Software for Your HP Envy 4500 Series Printer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/global-vs-closed-ai-systems-dissecting-varieties/"><u>Global Vs. Closed AI Systems: Dissecting Varieties</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ideal-display-options-for-an-enhanced-experience-on-ps5-and-xbox-series-sx/"><u>Ideal Display Options for an Enhanced Experience on PS5 and Xbox Series S/X</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-fuel-the-spark-essential-themes-for-youtube-success/"><u>In 2024, Fuel the Spark Essential Themes for YouTube Success</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-typing-to-textual-excellence-in-word/"><u>Master the Art of Typing to Textual Excellence in Word</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mindful-chatting-securely-using-ai-for-counseling/"><u>Mindful Chatting: Securely Using AI for Counseling</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/next-gen-ai-escalating-cybersecurity-concerns/"><u>Next-Gen AI: Escalating Cybersecurity Concerns</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-virtual-worlds-analyzing-current-state-and-ahead/"><u>[Updated] 2024 Approved Virtual Worlds Analyzing Current State & Ahead</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-iconic-visual-alteration-suite-imagefusion-xtreme-for-2024/"><u>[Updated] Iconic Visual Alteration Suite ImageFusion Xtreme for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pros-and-cons-of-inshot-is-it-the-ultimate-editor/"><u>[Updated] Pros and Cons of InShot Is It the Ultimate Editor?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-why-cant-i-see-videos-on-sony-a6400-in-2024/"><u>[Updated] Why Can’t I See Videos on Sony A6400, In 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-or-bard-unveiling-the-ultimate-language-wizard/"><u>ChatGPT or Bard? Unveiling the Ultimate Language Wizard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-iphone-15-pro-and-iphone-14-pro-unveiling-key-improvements-in-apples-new-release-tech-analysis/"><u>Comparing iPhone 15 Pro & iPhone 14 Pro: Unveiling Key Improvements in Apple's New Release | Tech Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-delectable-dishes-easier-discover-7-chatgpt-ways/"><u>Craft Delectable Dishes Easier: Discover 7 ChatGPT Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-exciting-upgrades-apple-introduced-for-all-airpods-models-key-features-unveiled/"><u>Discover the Exciting Upgrades Apple Introduced for All AirPods Models - Key Features Unveiled !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-mac-software-for-2amzs-expert-reviews/"><u>Discover the Leading Mac Software for 2Amzs , Expert Reviews</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-htc-u23-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On HTC U23</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-xcover-7-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy XCover 7 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-apple-iphone-12-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off Apple iPhone 12 without Password</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-an-anthology-of-admiration-highlighting-top-10-reddit-threads/"><u>In 2024, An Anthology of Admiration Highlighting Top 10 Reddit Threads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/overwatch-breakdown-fun-filled-battles-and-intense-strategic-gameplay-for-competitive-gamers/"><u>Overwatch Breakdown: Fun-Filled Battles and Intense Strategic Gameplay for Competitive Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pick-between-fundamental-and-comprehensive-gpt-engagement/"><u>Pick Between Fundamental & Comprehensive GPT Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-ai-powered-web-scouring-solutions/"><u>Premium AI-Powered Web Scouring Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-domestic-ai-exclusive-look-at-apples-pursuit-of-innovative-robotic-solutions-and-upcoming-product-lineup-gadget-central/"><u>Revolutionizing Domestic AI: Exclusive Look at Apple's Pursuit of Innovative Robotic Solutions and Upcoming Product Lineup | Gadget Central</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dichotomy-of-ai-mass-engagement-vs-precious-data/"><u>The Dichotomy of AI: Mass Engagement Vs. Precious Data</u></a></li>
 </ul></div>
 

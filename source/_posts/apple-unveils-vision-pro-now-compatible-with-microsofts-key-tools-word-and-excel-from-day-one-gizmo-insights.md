@@ -1,7 +1,7 @@
 ---
 title: "Apple Unveils Vision Pro - Now Compatible With Microsoft's Key Tools: Word and Excel From Day One | Gizmo Insights"
-date: 2024-12-10T19:07:02.401Z
-updated: 2024-12-12T22:03:53.432Z
+date: 2024-12-14T16:55:29.235Z
+updated: 2024-12-22T02:02:54.624Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -74,6 +70,10 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best tablets (aren't all iPads) Choosing the best tablet can be tricky. Yes, the top picks include the Apple iPad and iPad Pro, but we also love the Samsung Galaxy Tab S8 Ultra, Microsoft Surface Go 3, and others.  Read now](https://www.zdnet.com/article/best-tablet/)
@@ -91,7 +91,7 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But can it replace an iPad Pro?
@@ -101,10 +101,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -139,6 +135,10 @@ I realize that the Pro 8 is running a full-fledged operating system in Windows 1
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## There are still many things the iPad Pro does better
 
 Jason Cipriani/ZDNet
@@ -152,7 +152,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -170,7 +170,7 @@ At the end of the day, however, you're getting a full computer in the Surface Pr
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -210,19 +210,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-win11s-ultimate-selection-of-free-screen-recording-software-1-5/"><u>[New] Win11's Ultimate Selection of Free Screen Recording Software #1-5</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-class-on-managing-desktopmobile-screens-in-meet/"><u>[Updated] 2024 Approved Master Class on Managing Desktop/Mobile Screens in Meet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-hololens-by-microsoft-a-3d-dream-come-true/"><u>[Updated] Exploring HoloLens by Microsoft A 3D Dream Come True</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-secrets-of-professionals-mastering-video-recordingediting-with-adobe-connect/"><u>[Updated] In 2024, Secrets of Professionals Mastering Video Recording/Editing with Adobe Connect</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1-unbeatable-audio-experience-top-non-bose-non-sonos-speakers-that-dominate-the-market/"><u>1. Unbeatable Audio Experience: Top Non-Bose, Non-Sonos Speakers That Dominate the Market!</u></a></li>
-<li><a href="https://win11.techidaily.com/ease-system-load-cutting-back-on-malware-scanning-power/"><u>Ease System Load: Cutting Back on Malware Scanning Power</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ideal-enhancements-boosting-chatgpt-and-vs-code-synergy/"><u>Ideal Enhancements: Boosting ChatGPT & VS Code Synergy</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-x50iplus-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor X50i+ to Protect Your Individual Information</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mobiledesktop-seamless-fb-video-downloading-2023/"><u>In 2024, Mobile/Desktop Seamless FB Video Downloading, 2023</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-ais-frailty-decoding-how-prompt-injection-threat-operates/"><u>Inside AI's Frailty: Decoding How Prompt Injection Threat Operates</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/laughter-algorithm-computing-milestones-and-privacy-in-the-cloud/"><u>Laughter Algorithm: Computing Milestones & Privacy in the Cloud</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ubuntu-bash-integrating-shellgpt-with-openais-chatgpt/"><u>Ubuntu Bash: Integrating ShellGPT with OpenAI's ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-auto-gpt-download-and-installation/"><u>Unveiling Auto-GPT: Download & Installation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voice-activated-strategies-for-directing-ai-5-gpt-techniques/"><u>Voice-Activated Strategies for Directing AI: 5 GPT Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-a-complete-guide-to-recording-live-tv-on-your-windows-pc-for-2024/"><u>[New] A Complete Guide to Recording Live TV on Your Windows PC for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-repost-photos-and-video-on-instagram/"><u>[Updated] How to Repost Photos and Video on Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-innovative-approaches-to-integrating-your-fb-story/"><u>[Updated] In 2024, Innovative Approaches to Integrating Your FB Story</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-itel-p40-frp-bypass-by-drfone-android/"><u>About Itel P40 FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-interaction-protocols-courtesy-matters-gpt-alexa/"><u>AI Interaction Protocols - Courtesy Matters (GPT, Alexa)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bot-battle-analyzing-creative-solutions-equally-challenged/"><u>Bot Battle: Analyzing Creative Solutions Equally Challenged</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-the-code-barrier-how-chatgpt-translates-text/"><u>Breaking the Code Barrier: How ChatGPT Translates Text</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-user-journeys-ais-influence-on-sites/"><u>Enhancing User Journeys: AI's Influence on Sites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-natural-and-artificenas-interfaces/"><u>Exploring Natural and Artificenas Interfaces</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-youtube-video-trailers-with-filmora-software/"><u>In 2024, The Art of YouTube Video Trailers with Filmora Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/minimize-external-noise-find-a-quiet-environment-to-minimize-distractions-that-can-hinder-understanding/"><u>Minimize External Noise Find a Quiet Environment to Minimize Distractions that Can Hinder Understanding</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-time-verification-gpts-online-indicators/"><u>Real-Time Verification: GPT's Online Indicators</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y100t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-code-0x80070643-your-ultimate-fix-guide-for-windows-updates-and-installation-hiccups/"><u>Unraveling Code 0X80070643: Your Ultimate Fix Guide for Windows Updates and Installation Hiccups</u></a></li>
 </ul></div>
 

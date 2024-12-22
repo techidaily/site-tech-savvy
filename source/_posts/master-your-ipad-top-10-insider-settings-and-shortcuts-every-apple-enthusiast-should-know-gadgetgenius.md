@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Top 10 Insider Settings & Shortcuts Every Apple Enthusiast Should Know | GadgetGenius"
-date: 2024-12-05T16:50:16.502Z
-updated: 2024-12-12T18:49:20.816Z
+date: 2024-12-16T21:45:32.627Z
+updated: 2024-12-21T21:53:23.685Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
@@ -58,6 +58,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -70,6 +74,10 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -79,7 +87,7 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
@@ -92,15 +100,15 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -115,10 +123,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to split**: Go to Settings > General > Keyboard and tap on "Split Keyboard." Then, when you open an app where the keyboard presents itself, touch and hold on the keyboard button in the bottom right corner and slide your finger to the split option. Your keyboard will then divide in half on either side of the screen. You can follow the same steps in reverse to turn it off.
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
 
@@ -135,10 +139,6 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -180,18 +180,20 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-direct-live-broadcasting-obs-to-instagram-for-2024/"><u>[Updated] Direct Live Broadcasting OBS to Instagram for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-essential-free-tools-perfecting-your-video-calls-for-2024/"><u>[Updated] Essential Free Tools Perfecting Your Video Calls for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoid-getting-scammed-by-genuine-vs-faux-bingchat-coins/"><u>Avoid Getting Scammed by Genuine vs Faux BingChat Coins</u></a></li>
-<li><a href="https://video-capture.techidaily.com/capture-cinematic-moments-seamlessly-across-pcs-and-smartphones/"><u>Capture Cinematic Moments Seamlessly Across PCs & Smartphones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/could-your-job-be-in-jeopardy-over-using-language-models-10-examples/"><u>Could Your Job Be In Jeopardy Over Using Language Models? 10 Examples</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-ai-complexity-the-power-gap/"><u>Decoding AI Complexity: The Power Gap</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dynamic-training-blueprints-gpt-collaboration/"><u>Dynamic Training Blueprints: GPT Collaboration</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-transforming-mundane-into-masterpieces-with-canva/"><u>In 2024, Expert Tips Transforming Mundane Into Masterpieces with Canva</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-viewer-ultimate-video-quality-on-pcmobile/"><u>In 2024, Premium Viewer Ultimate Video Quality on PC/Mobile</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-g24-power-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Motorola G24 Power Users</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-20-wonderful-stop-motion-ideas-for-beginners-and-kids-filmora-for-2024/"><u>New 20 Wonderful Stop Motion Ideas for Beginners and Kids - Filmora for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-intersection-of-ai-and-smart-homes-chatgpts-impact/"><u>The Intersection of AI & Smart Homes: ChatGPT's Impact</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716068690010-new-2024-approved-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>[New] 2024 Approved Expert Picks Top 12 Screen Recording Software, No Time Limit!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-go-global-with-music-transform-your-spotify-lists-into-youtube-videos/"><u>[New] Go Global with Music Transform Your Spotify Lists Into YouTube Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-surviving-youtubes-copyright-enforcement-hurdles/"><u>[New] In 2024, Surviving YouTube's Copyright Enforcement Hurdles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-video-calls-discover-the-top-10-apps-for-your-phone-for-2024/"><u>[New] Mastering Video Calls Discover the Top 10 Apps for Your Phone for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-the-landscape-of-creative-industries/"><u>AI's Impact on the Landscape of Creative Industries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bots-under-threat-combatting-information-spillage/"><u>Bots Under Threat: Combatting Information Spillage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/directing-your-viewing-path-with-ai-helpers/"><u>Directing Your Viewing Path with AI Helpers</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/download-exclusive-video-content-from-e-patterns-central-hub/"><u>Download Exclusive Video Content From E-Patterns Central Hub</u></a></li>
+<li><a href="https://win-special.techidaily.com/download-youtube-series-in-multiple-formats-mp4-avi-wmv-compatible-with-macos-and-windows/"><u>Download YouTube Series in Multiple Formats: MP4, AVI, WMV - Compatible with macOS & Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-conversations-on-the-go-chatgpt-voice-integration-revolutionizes-mercedes-benz-driving-experience/"><u>Effortless Conversations on the Go: ChatGPT Voice Integration Revolutionizes Mercedes-Benz Driving Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/handling-peak-limit-issues-in-windows-gpt/"><u>Handling Peak Limit Issues in Windows GPT</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-5-ai-movie-script-generators/"><u>New 2024 Approved Best 5 AI Movie Script Generators</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmatched-vs-code-plugins-for-improved-chatgpt-experience/"><u>Unmatched VS Code Plugins for Improved ChatGPT Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-process-of-removing-old-gpt-chats/"><u>Unveiling the Process of Removing Old GPT Chats</u></a></li>
 </ul></div>
 

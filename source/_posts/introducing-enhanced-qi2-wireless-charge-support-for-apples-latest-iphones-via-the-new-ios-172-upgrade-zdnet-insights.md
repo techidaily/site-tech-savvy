@@ -1,7 +1,7 @@
 ---
 title: Introducing Enhanced Qi2 Wireless Charge Support for Apple's Latest iPhones via the New iOS 17.2 Upgrade - ZDNet Insights
-date: 2024-12-08T23:58:48.540Z
-updated: 2024-12-12T23:05:52.621Z
+date: 2024-12-14T17:29:58.019Z
+updated: 2024-12-22T07:13:26.255Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The cost of GPU processing
@@ -49,7 +49,7 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -61,7 +61,7 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -75,7 +75,7 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -120,24 +120,24 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-uncover-and-revive-inaudible-fb-video-posts-the-ultimate-list-of-12-fixes/"><u>[New] 2024 Approved Uncover & Revive Inaudible FB Video Posts – The Ultimate List of 12 Fixes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-how-to-record-a-podcast-on-iphone-or-ipad-best-for-interviews-and-travel/"><u>[New] In 2024, How To Record a Podcast on iPhone or iPad (Best for Interviews & Travel)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-innovating-in-the-digital-age-making-stellar-fb-reels-on-youtube/"><u>[Updated] 2024 Approved Innovating in the Digital Age Making Stellar FB Reels on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-a-4k-odyssey-begins-here-exploring-the-eizo-cg318-4k-monitor/"><u>[Updated] In 2024, A 4K Odyssey Begins Here – Exploring the EIZO CG318-4K Monitor</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-lighting-setup-to-make-your-videos-stand-out/"><u>2024 Approved Lighting Setup to Make Your Videos Stand Out</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-default-the-10-upgrades-to-improve-chatgpt/"><u>Beyond Default: The 10 Upgrades to Improve ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/clade-to-victory-beating-chatgpt-in-the-ai-arena/"><u>Clade to Victory: Beating ChatGPT in the AI Arena</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/could-gpt-be-a-cybercriminals-key-to-pc-intrusions/"><u>Could GPT Be a Cybercriminal's Key to PC Intrusions?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-gionee-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Gionee Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://win11.techidaily.com/make-your-window-interface-unforgettable-using-winbubble-tips/"><u>Make Your Window Interface Unforgettable Using WinBubble Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/max-streamings-must-watch-series-and-new-releases/"><u>Max Streaming's Must-Watch Series and New Releases!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-the-skies-copilot-versions-compared/"><u>Navigating the Skies: CoPilot Versions Compared</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-use-of-codegpt-within-vs-code/"><u>Seamless Use of CodeGPT Within VS Code</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlining-video-compression-converting-h264-to-h265-with-zero-quality-degradation/"><u>Streamlining Video Compression: Converting H.264 To H.265 With Zero Quality Degradation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-bulk-creating-via-canva-and-chatgpt/"><u>The Ultimate Guide to Bulk Creating via Canva & ChatGPT</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-5-microphones-compatible-with-macos-for-2024/"><u>Top 5 Microphones Compatible with MacOS for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-the-potential-of-your-ai-assistant-5-steps-to-supercharged-chatgpt-interactions/"><u>Unleash the Potential of Your AI Assistant: 5 Steps to Supercharged ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/update-alert-google-news-feed-overhaul/"><u>Update Alert: Google News Feed Overhaul</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-overlook-important-details-in-automated-synopses/"><u>Why Overlook Important Details in Automated Synopses?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-elevating-vimeo-video-speed/"><u>[New] 2024 Approved Elevating Vimeo Video Speed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unlocking-the-potential-of-slug-line-formats-in-screenplays-for-2024/"><u>[New] Unlocking the Potential of Slug Line Formats in Screenplays for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamlabs-vs-obs-which-livestream-tool-reigns-supreme-for-2024/"><u>[Updated] Streamlabs Vs. OBS Which Livestream Tool Reigns Supreme for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2023-trend-analysis-twitters-top-video-shares/"><u>2023 Trend Analysis Twitter's Top Video Shares</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-remedies-for-restoring-functionality-to-dell-laptops-dead-keys/"><u>Effective Remedies for Restoring Functionality to Dell Laptop's Dead Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-icloud-support-apple-rolls-out-major-updates-and-bug-fixes-for-windows-users-zdnet/"><u>Enhanced iCloud Support: Apple Rolls Out Major Updates and Bug Fixes for Windows Users - ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-deal-save-20-on-top-pick-nomadic-cellphone-accessories-and-apple-watch-straps-now-at-zdnet/"><u>Exclusive Deal: Save 20% on Top-Pick Nomadic Cellphone Accessories & Apple Watch Straps - Now at ZDNet!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-your-ideal-sound-companion-a-side-by-side-review-of-apples-homepod-vs-homepod-mini-gadget-guides/"><u>Find Your Ideal Sound Companion: A Side-by-Side Review of Apple's HomePod Vs. HomePod Mini | Gadget Guides</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-setting-up-multiple-network-interfaces-on-macos-for-enhanced-connectivity-options-techtalk/"><u>Guide: Setting Up Multiple Network Interfaces on macOS for Enhanced Connectivity Options | TechTalk</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-12-mini-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone 12 mini Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-time-to-switch-to-an-rtx-gpu-for-your-pc/"><u>Is It Time to Switch to an RTX GPU for Your PC?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-online-presence-with-gpts-4-strategies/"><u>Maximize Your Online Presence with GPT's 4 Strategies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/minimize-windows-10-resolution-highs/"><u>Minimize Windows 10 Resolution Highs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/perfect-shots-start-with-the-right-camera-and-lens-selection-for-2024/"><u>Perfect Shots Start With The Right Camera & Lens Selection for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-chatgpt-today-with-these-1-9-must-have-addons/"><u>Transform ChatGPT Today with These #1-#9 Must-Have Addons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-apples-ios-175-feature-how-it-recovers-lost-images-and-next-steps-for-users/"><u>Understanding Apple's iOS 17.5 Feature: How It Recovers Lost Images & Next Steps for Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-energy-savings-activating-your-apple-watchs-battery-saving-features-explained/"><u>Unlocking Energy Savings: Activating Your Apple Watch's Battery-Saving Features Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/warning-ios-15-may-cause-your-ipad-to-malfunction-essential-info-pre-installation-techinsight/"><u>Warning: IOS 15 May Cause Your iPad to Malfunction - Essential Info Pre-Installation | TechInsight</u></a></li>
 </ul></div>
 

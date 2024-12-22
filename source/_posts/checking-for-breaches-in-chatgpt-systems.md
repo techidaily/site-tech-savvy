@@ -1,7 +1,7 @@
 ---
 title: Checking for Breaches in ChatGPT Systems
-date: 2024-12-11T18:04:30.878Z
-updated: 2024-12-12T20:15:48.583Z
+date: 2024-12-20T00:54:35.508Z
+updated: 2024-12-21T20:14:56.435Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ChatGPT: Security Threats and Issues
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
  This just underscores how important it is to [limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/), which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is ChatGPT a Threat to Your Privacy?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/), but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
  In any case, you should be careful when using ChatGPT, especially [if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt), or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Addressing the Security Risks Associated With ChatGPT
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Raising Awareness Is Key
@@ -101,14 +101,20 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-original-cinematic-footage-assessment-and-substitutes/"><u>[New] 2024 Approved Original Cinematic Footage Assessment & Substitutes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-scaling-your-influence-with-youtube-shorts-strategy/"><u>[Updated] Scaling Your Influence with YouTube Shorts Strategy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/battle-of-the-titans-google-pixel-8-versus-samsung-galaxy-s24-a-new-era-for-miniature-flagships/"><u>Battle of the Titans: Google Pixel 8 Versus Samsung Galaxy S24 – A New Era for Miniature Flagships</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easily-create-individual-browser-windows-instead-of-tabs-on-your-androids-chrome-app/"><u>Easily Create Individual Browser Windows Instead of Tabs on Your Android's Chrome App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/easy-ways-to-send-documents-through-fax-on-your-smartphone/"><u>Easy Ways to Send Documents Through Fax on Your Smartphone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effective-techniques-for-managing-and-maximizing-remaining-space-on-your-iphone/"><u>Effective Techniques for Managing and Maximizing Remaining Space on Your iPhone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-in-depth-guide-to-selective-zoom-in-virtual-classrooms-google-meet/"><u>In 2024, In-Depth Guide to Selective Zoom in Virtual Classrooms (Google Meet)</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-to-the-best-virtual-meetings-software-in-2eplus22-expert-reviews-and-ratings-by-zdnet/"><u>The Ultimate Guide to the Best Virtual Meetings Software in 2E+22: Expert Reviews & Ratings by ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unleashing-potential-in-depth-test-of-the-powerful-zendure-superbase-pro-200atury-batteries-featured-by-zdnet/"><u>Unleashing Potential: In-Depth Test of the Powerful Zendure SuperBase Pro 200Atury Batteries Featured by ZDNET</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-dissecting-the-user-experience-in-vivavideo/"><u>[New] Dissecting the User Experience in VivaVideo</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-igtvs-potential-5-ways-to-surge-follower-count-for-2024/"><u>[Updated] Unlocking IGTV's Potential 5 Ways to Surge Follower Count for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-linguistic-hurdles-through-chatgpt/"><u>Bypassing Linguistic Hurdles Through ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-shadows-overcome-mouse-troubles-in-resident-evil-village-with-these-proven-techniques/"><u>Conquer the Shadows: Overcome Mouse Troubles in Resident Evil Village with These Proven Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-hidden-tricks-for-enhanced-iphone-performance-with-advanced-siri-shortcuts-tech-insights/"><u>Discover Hidden Tricks for Enhanced iPhone Performance with Advanced Siri Shortcuts | Tech Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-strategies-safeguarding-your-data-with-these-five-techniques/"><u>Essential Strategies: Safeguarding Your Data with These Five Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ethical-study-habits-sidestepping-chatgpt-misuse/"><u>Ethical Study Habits: Sidestepping ChatGPT Misuse</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-the-razer-blade-pro-17-ultimate-mobile-gaming-laptop/"><u>Expert Analysis of the Razer Blade Pro 17: Ultimate Mobile Gaming Laptop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-insights-into-cleanmymac-x-unveiling-the-secrets-with-a-zdnet-analysis/"><u>Expert Insights Into CleanMyMac X: Unveiling the Secrets with a ZDNet Analysis</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/get-filmora-for-free-no-hidden-fees-or-malware-for-2024/"><u>Get Filmora for Free No Hidden Fees or Malware for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/reviving-your-broken-gpu-techniques-and-tips-provided-by-professionals-at-yl-computings-software-division/"><u>Reviving Your Broken GPU: Techniques and Tips Provided by Professionals at YL Computing's Software Division</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-for-freelancers-to-maximize-benefits-from-chatgpt/"><u>Tips for Freelancers to Maximize Benefits From ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-k11x-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo K11x Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-your-tech-arsenal-is-it-time-to-switch-from-the-m3-macbook-pro-to-the-powerhouse-m1-model-insights-for-savvy-consumers/"><u>Upgrading Your Tech Arsenal: Is It Time to Switch From the M3 MacBook Pro to the Powerhouse M1 Model? Insights for Savvy Consumers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 5 Unauthorized Uses for GPT-3
-date: 2024-12-05T21:01:22.920Z
-updated: 2024-12-13T00:21:27.149Z
+date: 2024-12-17T18:33:13.665Z
+updated: 2024-12-21T18:14:59.295Z
 tags:
   - chatgpt
   - open-ai
@@ -26,37 +26,25 @@ thumbnail: https://thmb.techidaily.com/eb6701eb360daf00501aea3027f5f407ca5880345
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Bing Chat
 
 ![Screenshot of Bing Chat Home Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Bing Chat is probably the easiest way for most people to use ChatGPT without an OpenAI account. The Microsoft chatbot is based on the GPT-4 version of the platform. Additionally, it can also incorporate "live results" from current data sources into its results.
 
 ![Screenshot Of Bing Chat confirming no OpenAI account is needed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-confirming-no-openai-account-is-needed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To use Bing Chat, you need a Microsoft account and access to Microsoft Edge. You may already have a Microsoft account if you are a Windows User. The exception is if it is a local account; a [local account differs substantially from a Microsoft account](https://www.makeuseof.com/ways-microsoft-and-local-account-different-windows/).
 
  Once you have your account details, accessing the chatbot is simple—use Microsoft Edge to navigate to the new [Bing](https://www.bing.com/new), and the magic of ChatGPT will be at your fingertips.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Bing Mobile App
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
@@ -68,9 +56,17 @@ Close
 
 **Download**: Bing for [iOS](https://apps.apple.com/app/bing-search/id345323231) | [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2024637/https://play.google.com/store/apps/details?id=com.microsoft.bing&pli=1) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Merlin
 
 ![Screenshot of Merlin opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-merlin-opening-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Merlin is a browser extension that'savailable for Google Chrome and Microsoft Edge. Once installed, it integrates into the browser and acts as a virtual assistant. Among the functions it can perform are:
 
@@ -84,10 +80,6 @@ Close
 
 **Download**: Merlin for [Google Chrome/Microsoft Edge](https://chrome.google.com/webstore/detail/merlin-chatgpt-assistant/camppjleccjaphfdbohjdohecfnoikec) (Free, in-app purchases available).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. ChatGPT Writer
 
 ![Screenshot ChatGPT Writer home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-writer-home.jpg)
@@ -100,23 +92,31 @@ Close
 
 ![Screenshot ChatGPT Writer gmail response screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-writer-gmail-response-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Overall, this was a smooth experience that just edged Merlin in terms of ease of use.
 
 **Download**: ChatGPT Writer for [Google Chrome/Microsoft Edge](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/related) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Forefront.AI
 
 ![forefront ai chatgpt prompt output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/forefront-ai-chatgpt-prompt-output.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Forefront.ai](http://chat.forefront.ai) is a multi-use generative AI tool that allows you to use ChatGPT-3.5, ChatGPT-4, Claude Instant 1.2, and Claude 2 from the same web app. You'll have to subscribe to use ChatGPT-4, Claude Instant 1.2, and Claude 2 (all with limited messaging rates), but you can sign-up and use ChatGPT-3.5 for free.
 
  Forefront.AI's ChatGPT-3.5 output matches (or is extremely similar to) what you'll find on OpenAI's ChatGPT, so you can be assured you're getting the same responses.
 
 ![chatgpt wood chuck chuck prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-wood-chuck-chuck-prompt-response.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Using ChatGPT Without an OpenAI Account
 
@@ -141,18 +141,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-outro-designs-ending-credits-for-every-budget/"><u>[New] Outro Designs Ending Credits for Every Budget</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-utilizing-b-roll-to-enrich-narrative-arcs/"><u>[New] Utilizing B-Roll to Enrich Narrative Arcs</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/1724312941231-abbyy-flexicapture/"><u>ABBYY FlexiCapture の正式日本市場発売開始</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-zoom-clarity-in-teams/"><u>In 2024, Expert Tips for Zoom Clarity in Teams</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/maximize-productivity-without-breaking-the-bank-the-fellowes-microban-wired-keyboard-reviewed/"><u>Maximize Productivity Without Breaking the Bank: The Fellowes Microban Wired Keyboard Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/minimizing-gan-blunders-expert-tips/"><u>Minimizing GAN Blunders: Expert Tips</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-5-best-free-wmv-video-editors/"><u>New In 2024, Top 5 Best Free WMV Video Editors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-carbon-footprint-myth-how-to-truly-assess-impacts/"><u>The Carbon Footprint Myth: How to Truly Assess Impacts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-justifications-for-restricting-gpt-in-workplaces/"><u>Top 5 Justifications for Restricting GPT in Workplaces</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uncharted-dialogues-with-gpt-powered-systems/"><u>Uncharted Dialogues with GPT-Powered Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unpacking-emotional-intelligence-in-machine-learning/"><u>Unpacking Emotional Intelligence in Machine Learning</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-snapchats-ai-goes-beyond-playful-interaction/"><u>Why Snapchat’s AI Goes Beyond Playful Interaction</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-memorable-experiences-with-vr-escapades/"><u>[New] Crafting Memorable Experiences with VR Escapades</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-top-platform-trio-which-one-triumphs-vimeo-youtube-dailymotion/"><u>[New] The Top Platform Trio Which One Triumphs – Vimeo, YouTube, Dailymotion?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-validating-your-yt-channels-earnings/"><u>[Updated] The Ultimate Guide to Validating Your YT Channel's Earnings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breathing-life-into-verse-through-ai-dialogue/"><u>Breathing Life Into Verse Through AI Dialogue</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-visual-storytellers-guide-to-vsco-app-for-2024/"><u>Complete Visual Storyteller's Guide to VSCO App for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-turing-trial-will-machines-prevail/"><u>Decoding the Turing Trial: Will Machines Prevail?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-apple-watch-bargains-for-july-22024-exclusive-deals-curated/"><u>Discover the Ultimate Apple Watch Bargains for July 2^[/2024 | Exclusive Deals Curated</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-into-the-fabric-of-health-services/"><u>Integrating GPT Into the Fabric of Health Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-note-taking-with-gpt-a-pros-guide/"><u>Mastering Note-Taking with GPT: A Pro's Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/refining-texts-with-ai-insight/"><u>Refining Texts with AI Insight?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-how-to-fix-the-critical-steam-ui-component-failure-steamuidll/"><u>Solution Found! How to Fix the Critical Steam UI Component Failure (steamui.dll)</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-activate-controlled-folder-access/"><u>Step-by-Step Guide to Activate Controlled Folder Access</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-samsungs-revolutionary-2025-launch-when-it-happens-plus-rumored-innovations/"><u>The Ultimate Guide to Samsung's Revolutionary 2025 Launch: When It Happens + Rumored Innovations</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-selection-of-household-atmospheric-stations/"><u>The Ultimate Selection of Household Atmospheric Stations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tips-for-spotting-unverified-chatgpt-ios-software/"><u>Tips for Spotting Unverified ChatGPT iOS Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-exciting-new-ios-18-innovations-unveiled-at-apples-wwdc-202n-embracing-the-power-of-artificial-intelligence-techinsights/"><u>Top 5 Exciting New iOS 18 Innovations Unveiled at Apple’s WWDC 202N: Embracing the Power of Artificial Intelligence | TechInsights</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo X100? | Dr.fone</u></a></li>
 </ul></div>
 

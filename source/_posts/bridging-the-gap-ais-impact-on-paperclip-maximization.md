@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Gap: AI's Impact on Paperclip Maximization"
-date: 2024-12-05T19:00:56.666Z
-updated: 2024-12-12T18:20:43.545Z
+date: 2024-12-20T00:15:15.534Z
+updated: 2024-12-21T17:04:52.845Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Paperclip Maximizer Problem Explained
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![Grayscale photo of a futuristic robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/artificial-general-intelligence.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The first experiment appeared in Swedish philosopher Nick Bostrom's 2003 paper, [Ethical Issues in Advanced Artificial Intelligence](https://www.researchgate.net/publication/229001428%5FEthical%5FIssues%5Fin%5FAdvanced%5FArtificial%5FIntelligence), which included the paperclip maximizer to show the existential risks an advanced enough AI could use.
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
  The AI isn't hostile to humans; it's just indifferent. An AI that only cares about maximizing the number of paperclips would therefore wipe out humanity and essentially convert them into paperclips to reach its goal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does the Paperclip Maximizer Problem Apply to AI?
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![A robot holding a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/what-is-openai-gym-and-what-can-you-do-with-it-featured-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The bigger issue highlighted by the paperclip maximizer is instrumental convergence. It can also be highlighted using the Riemann hypothesis, in which case an AI designed to solve the hypothesis might very well decide to take over all of Earth's mass and convert it into computronium (the most efficient computer processors possible) to build supercomputers to solve the problem and reach its goal.
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
  Bostrom himself has emphasized that he doesn't believe that the paperclip maximizer problem will ever be a real issue, but his intention was to illustrate the dangers of creating superintelligent machines without knowing how to control or program them not to be existentially risky to human beings. [Modern AI systems like ChatGPT have problems too](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), but they're far from the superintelligent AI systems being talked about in the paperclip maximize problem, so there's no reason to panic just yet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Advanced AI Systems Need Superior Control
@@ -106,24 +106,18 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-digital-artisans-exclusive-summit/"><u>[New] 2024 Approved Digital Artisans' Exclusive Summit</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-empower-pics-with-perimeter-blur-using-cs/"><u>[New] Empower Pics with Perimeter Blur Using CS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-fixing-inaccurate-avatar-showcasing-in-fb-messages/"><u>[Updated] Fixing Inaccurate Avatar Showcasing in FB Messages</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-enriching-mp4-soundtracks-with-srt-a-compreomedium-guide/"><u>[Updated] In 2024, Enriching MP4 Soundtracks with SRT – A Compreomedium Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-stability-secrets-for-dynamic-photo-shoots/"><u>[Updated] Stability Secrets for Dynamic Photo Shoots</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-perfect-settings-for-live-broadcasts/"><u>2024 Approved Perfect Settings for Live Broadcasts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-governance-matters-ceo-of-openai-speaks-out/"><u>AI Governance Matters: CEO of OpenAI Speaks Out</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-showdown-chatgpt-vs-the-future-with-claude/"><u>AI Showdown: ChatGPT Vs. The Future With Claude</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bert-vs-gpt-understanding-their-nlp-mechanisms/"><u>BERT vs GPT: Understanding Their NLP Mechanisms</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
-<li><a href="https://solve-info.techidaily.com/enhanced-marketing-success-with-cookiebot-technology/"><u>Enhanced Marketing Success with Cookiebot Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-powered-hr-process-streamlining/"><u>GPT-Powered HR Process Streamlining</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-to-autoplay-youtube-videos-on-facebook-for-2024/"><u>How to Autoplay Youtube Videos on Facebook for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-installation-of-enhanced-ai-features-in-chatgpt/"><u>Mastering the Installation of Enhanced AI Features in ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reestablishing-lost-communications-with-chatgpt/"><u>Reestablishing Lost Communications with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/start-conversing-directly-with-chatgpt/"><u>Start Conversing Directly with ChatGPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-errors-encountered-while-installing-or-updating-on-steam/"><u>Step-by-Step Fixes for Errors Encountered While Installing or Updating on Steam</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-influence-of-gpt-conversations-on-productivity-boosting/"><u>The Influence of GPT Conversations on Productivity Boosting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-on-the-fly-ai-with-agentgpt/"><u>Unlocking On-the-Fly AI with AgentGPT</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-cultivate-connections-agrigames-to-gather-friends-on-farms/"><u>[Updated] 2024 Approved Cultivate Connections AgriGames to Gather Friends on Farms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-stand-out-with-visual-flair-bordered-video-tutorials/"><u>2024 Approved Stand Out with Visual Flair Bordered Video Tutorials</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-detailed-look-at-garmin-forerunner-45-unveiling-its-capabilities-for-various-fitness-pursuits/"><u>A Detailed Look at Garmin Forerunner 지오45 - Unveiling Its Capabilities for Various Fitness Pursuits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-addons-compromising-gpt-platform-integrity/"><u>Are Addons Compromising GPT Platform Integrity?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-turmoil-italys-sudden-ban-reasoning/"><u>ChatGPT in Turmoil: Italy's Sudden Ban Reasoning</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-call-capture-tutorial-is-it-legal-expert-advice-from-zdnet/"><u>IPhone Call Capture Tutorial: Is It Legal? - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximize-youtube-views-a-comprehensible-guide-to-collaborative-videos-for-2024/"><u>Maximize YouTube Views A Comprehensible Guide to Collaborative Videos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-the-ultimate-list-10-best-webcam-recorders-for-windows-10/"><u>New 2024 Approved The Ultimate List 10 Best Webcam Recorders for Windows 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-speaker-issues-while-playing-resident-evil-village/"><u>Overcoming Speaker Issues While Playing Resident Evil Village</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-mechanics-of-ai-prompts-and-their-influence-on-career-longevity/"><u>The Mechanics of AI Prompts & Their Influence on Career Longevity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-list-of-ai-advancements-for-enterprise-leaders/"><u>The Ultimate List of AI Advancements for Enterprise Leaders</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-5-cutting-edge-bots-in-psychiatry-support/"><u>Unleashing 5 Cutting-Edge Bots in Psychiatry Support</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wi-fi-mka-wav-mkv-movavi/"><u>무료 Wi-Fi용 MKA WAV 크리이프레임 MKV를 원형에서 전환: Movavi</u></a></li>
 </ul></div>
 

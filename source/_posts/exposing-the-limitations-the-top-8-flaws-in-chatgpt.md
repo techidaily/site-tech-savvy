@@ -1,7 +1,7 @@
 ---
 title: "Exposing the Limitations: The Top 8 Flaws in ChatGPT"
-date: 2024-12-08T18:31:05.314Z
-updated: 2024-12-12T21:04:57.438Z
+date: 2024-12-19T02:52:49.671Z
+updated: 2024-12-21T23:49:56.652Z
 tags:
   - chatgpt
   - open-ai
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is ChatGPT?
 
  ChatGPT is a large language model designed to produce natural human language. Much like conversing with someone, you can talk to ChatGPT, and it will remember things you have said in the past while also being capable of correcting itself when challenged.
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 ![Three open padlocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/security-lock-privacy-breach.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The watchdog organization suspected that European privacy regulations were being breached. After investigating the issue, it requested that OpenAI meet several demands to reinstate the chatbot.
@@ -80,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 
  Unless OpenAI publishes its training data, the lack of transparency makes it difficult to know whether it was done lawfully. We don't know the details about how ChatGPT is trained, what data was used, where the data comes from, or what the system's architecture looks like in detail.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. ChatGPT Generates Wrong Answers
 
 ![A sheep in front of a blackboard with a wrong math equation displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wrong-math-answer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It fails at basic math, can't seem to answer simple logic questions, and will even go as far as to argue completely incorrect facts. As people across social media will attest, ChatGPT can get it wrong multiple times.
 
@@ -101,10 +97,14 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 ![Bing AI search results show hallucinations regarding an image description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-hallucinates-image-description.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can see more hilarious hallucinations in our comparison between [ChatGPT vs. Microsoft Bing AI vs. Google Bard](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/). It's not hard to imagine people using ChatGPT to get quick facts and information, expecting those results to be true. But so far, ChatGPT can't get it right, and teaming up with an equally inaccurate Bing search engine only made things worse.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. ChatGPT Has Bias Baked Into Its System
 
@@ -142,15 +142,15 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 
 ![ChatGPT explains the themes in the novel Neuromancer by William Gobson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-ai-chat-gpt-books-themes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That begs the question: if ChatGPT can write for us, will students need to learn this skill in the future? It might seem like an existential question, but since students have started using ChatGPT to help write their essays, educators will soon have to face reality.
 
  Unsurprisingly, students are already experimenting with AI. [The Stanford Daily](https://stanforddaily.com/2023/01/22/scores-of-stanford-students-used-chatgpt-on-final-exams-survey-suggests/) reports that early surveys show a significant number of students have used AI to assist with assignments and exams.
 
  In the short term, schools and universities are updating their policies and ruling whether students can or cannot use AI to help them with an assignment. It's not only English-based subjects that are at risk either; ChatGPT can help with any task involving brainstorming, summarizing, or drawing analytical conclusions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. ChatGPT Can Cause Real-World Harm
 
@@ -163,7 +163,7 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 ![Close-up of computer code on a screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chat-gpt-scammers-malware.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The rate at which ChatGPT can produce information has already caused problems for Stack Exchange, a website dedicated to providing correct answers to everyday questions. Soon after ChatGPT was released, users flooded the site with answers they asked ChatGPT to generate.
@@ -217,19 +217,21 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-softened-screen-debut/"><u>[New] 2024 Approved Softened Screen Debut</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-techniques-a-guide-to-next-level-effectiveness-in-your-youtube-ads-for-2024/"><u>[New] Cutting-Edge Techniques A Guide to Next-Level Effectiveness in Your YouTube Ads for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-webcam-safety-starts-here-the-10-best-shields-for-2024/"><u>[New] Webcam Safety Starts Here - The 10 Best Shields for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-comprehensive-guide-for-srt-format-conversions-for-2024/"><u>[Updated] Comprehensive Guide for SRT Format Conversions for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-elevate-sound-with-these-asmr-apps/"><u>[Updated] Elevate Sound with These ASMR Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-elegance-in-design-with-canvas-hidden-tips/"><u>[Updated] The Art of Elegance in Design with Canva's Hidden Tips</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-top-swaps-in-film-history-7-best/"><u>2024 Approved Top Swaps in Film History #7 Best</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cutting-edge-ai-for-companionship-the-chatgpt-solution/"><u>Cutting-Edge AI for Companionship: The ChatGPT Solution</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hololens-breakthrough-by-microsoft-a-3d-reality-revolution/"><u>In 2024, HoloLens Breakthrough by Microsoft – A 3D Reality Revolution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/language-lab-gpt-3-and-google-in-a-tug-of-war/"><u>Language Lab: GPT-3 and Google in a Tug of War</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-idea-generation-discover-the-leading-5-ai-engines/"><u>Pioneering Idea Generation: Discover the Leading 5 AI Engines</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-health-guidance-through-ai-with-chatgpt-in-7-steps/"><u>Seamless Health Guidance Through AI with ChatGPT, in 7 Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-nightshade-solutions-for-authenticity-and-ownership-in-art/"><u>Unveiling Nightshade Solutions for Authenticity and Ownership in Art</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/utilizing-shellgpt-for-efficient-chatgpt-experiences/"><u>Utilizing ShellGPT for Efficient ChatGPT Experiences</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-professional-video-edits-simplified-by-youtube-studio-editor/"><u>[New] Professional Video Edits Simplified by YouTube Studio Editor</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y78plus-t1-edition-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y78+ (T1) Edition FRP Bypass Instantly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-view-hevc-h265-content-on-samsung-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Samsung</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mg3022-printers-find-your-official-drivers-and-get-the-newest-update-here/"><u>Canon MG3022 Printers: Find Your Official Drivers & Get the Newest Update Here</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-your-ideal-sound-companion-a-side-by-side-review-of-apples-homepod-vs-homepod-mini-gadget-guides/"><u>Find Your Ideal Sound Companion: A Side-by-Side Review of Apple's HomePod Vs. HomePod Mini | Gadget Guides</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guide-setting-up-multiple-network-interfaces-on-macos-for-enhanced-connectivity-options-techtalk/"><u>Guide: Setting Up Multiple Network Interfaces on macOS for Enhanced Connectivity Options | TechTalk</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-y02t-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo Y02T</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-siege-showdowns-top-10-royale-arena-fighters/"><u>In 2024, Siege Showdowns Top 10 Royale Arena Fighters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-your-online-presence-with-gpts-4-strategies/"><u>Maximize Your Online Presence with GPT's 4 Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-podcast-utilities-for-windows-top-8-picks-for-2024/"><u>Premium Podcast Utilities for Windows (Top 8 Picks) for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-insta-ode-selecting-song-lyrics-and-beats-for-vids/"><u>The Insta-Ode Selecting Song Lyrics and Beats for Vids</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-chatgpt-today-with-these-1-9-must-have-addons/"><u>Transform ChatGPT Today with These #1-#9 Must-Have Addons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-apples-ios-175-feature-how-it-recovers-lost-images-and-next-steps-for-users/"><u>Understanding Apple's iOS 17.5 Feature: How It Recovers Lost Images & Next Steps for Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-energy-savings-activating-your-apple-watchs-battery-saving-features-explained/"><u>Unlocking Energy Savings: Activating Your Apple Watch's Battery-Saving Features Explained</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-8-effective-methods-for-image-anonymity/"><u>Unveiling 8 Effective Methods for Image Anonymity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/warning-ios-15-may-cause-your-ipad-to-malfunction-essential-info-pre-installation-techinsight/"><u>Warning: IOS 15 May Cause Your iPad to Malfunction - Essential Info Pre-Installation | TechInsight</u></a></li>
 </ul></div>
 

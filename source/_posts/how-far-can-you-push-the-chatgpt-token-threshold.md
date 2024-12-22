@@ -1,7 +1,7 @@
 ---
 title: How Far Can You Push the ChatGPT Token Threshold?
-date: 2024-12-12T00:27:17.213Z
-updated: 2024-12-12T19:56:57.482Z
+date: 2024-12-17T19:24:21.026Z
+updated: 2024-12-22T04:21:28.424Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's a ChatGPT Token?
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
  ChatGPT converts each word into a legible token whenever you ask a question. To break it down further, tokens are text fragments, and each programming language uses a different set of token values to understand the requirements.
 
 ![Comparison operators and boolean logic with cpp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cpp-coding-samples.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Since computers don't understand text values directly, they break them down into a combination of numbers, often called embeddings. You can even consider embeddings like [Python lists](https://www.makeuseof.com/tag/arrays-lists-in-python/), which resemble a list of related numbers, such as \[1.1,2.1,3.1,4.1…n\].
 
@@ -68,12 +64,16 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 ![Tokenizer calculation from OpenAI's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/tokenizer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As per the [OpenAI token calculator](https://platform.openai.com/tokenizer):
 
  A helpful rule of thumb is that one token generally corresponds to \~4 text characters for common English text. This translates to roughly ¾ of a word (100 tokens \~= 75 words).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free vs. Paid Tokens
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
@@ -116,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
  Ada is the fastest, while DaVinci is the most powerful model from this list of models. The prompt is the question, while the completion deals with the answers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Maximum Token Limits
 
  Each model allows you to set the maximum number of tokens within each query. This method controls the maximum number of tokens the application generates in a single call, limiting the output. The max\_token feature is quite useful, especially when you want to control the length of your output while avoiding overusing your token usage and credits. The default length is fixed at 2,048 tokens, while the maximum can be set at 4,096 tokens.
@@ -141,6 +137,10 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
  If your output is truncated, you must increase the specified maximum limit from your dashboard. Remember, the sum of your prompt and maximum tokens should always be less than equal to the model's maximum token limit.
 
  For example, within the ChatGPT model, the **prompt\_tokens + max\_tokens <= 4096** tokens**.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Learn to Control Your ChatGPT Prompts for Best Results
 
@@ -169,18 +169,14 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-mastering-the-art-of-zip-to-srt-conversion-for-2024/"><u>[New] Mastering the Art of Zip to Srt Conversion for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-ultimate-windows-11-guide-to-recording-games/"><u>[Updated] In 2024, The Ultimate Windows 11 Guide to Recording Games</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/pert-suggestions-to-make-your-yt-shorts-stand-out/"><u>10 Expert Suggestions to Make Your YT Shorts Stand Out</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bash-basics-initiating-conversations-with-chatgpt-via-shellgpt/"><u>Bash Basics: Initiating Conversations with ChatGPT via ShellGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-gpt-4-in-these-7-innovative-apps/"><u>Decoding GPT-4 in These 7 Innovative Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-exceptional-performance-the-latest-epyc-zen-5-chip-featuring-a-massive-512mb-l3-cache-and-128-core-architecture/"><u>Discover Exceptional Performance: The Latest EPYC Zen 5 Chip Featuring a Massive 512MB L3 Cache & 128-Core Architecture</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/githubs-most-effective-chatgpt-conversation-starters/"><u>GitHub’s Most Effective ChatGPT Conversation Starters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guia-sencilla-para-agregar-texto-al-final-de-un-video-mp4/"><u>Guía Sencilla Para Agregar Texto Al Final De Un Video MP4</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-harmonize-your-listens-the-complete-path-to-youtube-playlist-making-webmobile/"><u>In 2024, Harmonize Your Listens The Complete Path to YouTube Playlist Making (Web/Mobile)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-written-language-and-web-integration/"><u>Mastering GPT' Written Language and Web Integration</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719574983025-mondlyvr-an-immersive-journey-to-language-fluency-awaits/"><u>MondlyVR: An Immersive Journey to Language Fluency Awaits</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1727790430442-top-36-unbeatable-prime-day-bargains-on-apple-products-exclusive-offers-remaining/"><u>Top 36 Unbeatable Prime Day Bargains on Apple Products - Exclusive Offers Remaining!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-honor-magic-vs-2-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Honor Magic Vs 2 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-macbook-pro-vs-samsung-galaxy-book-3-ultra-deciding-on-a-top-tier-laptop-for-enthusiasts-techradar/"><u>Apple MacBook Pro vs Samsung Galaxy Book 3 Ultra: Deciding on a Top-Tier Laptop for Enthusiasts | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-conversational-sessions-important-for-ais-knowledge-enhancement/"><u>Are Conversational Sessions Important for AI's Knowledge Enhancement?</u></a></li>
+<li><a href="https://games-able.techidaily.com/battling-poor-signal-on-xbox-s-x-controller/"><u>Battling Poor Signal on Xbox S X Controller</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-to-apple-gadgets-manuals-technical-specs-and-diy-repairs-access-them-all-on-zdnet/"><u>Complete Guide to Apple Gadgets: Manuals, Technical Specs & DIY Repairs - Access Them All on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exposing-the-limitations-the-top-8-flaws-in-chatgpt/"><u>Exposing the Limitations: The Top 8 Flaws in ChatGPT</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-navigating-google-translate-for-superior-speech-to-text/"><u>In 2024, Navigating Google Translate for Superior Speech-to-Text</u></a></li>
+<li><a href="https://facebook.techidaily.com/reel-into-saturday-and-sunday-through-fb-shops/"><u>Reel Into Saturday and Sunday Through FB Shops</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2213956-9780008138110-the-dragon-in-2016-your-chinese-horoscope/"><u>The Dragon in 2016: Your Chinese Horoscope | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/youtube-windows-and-mac3/"><u>YouTube動画編集に最適! Windows & Macで使えるフリーソフト・サイトのベスト3</u></a></li>
 </ul></div>
 

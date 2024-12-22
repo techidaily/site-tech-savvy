@@ -1,7 +1,7 @@
 ---
 title: Next-Level Information Retrieval via Perplexity AI
-date: 2024-12-10T01:19:54.847Z
-updated: 2024-12-12T18:33:41.336Z
+date: 2024-12-19T16:51:37.451Z
+updated: 2024-12-21T21:38:38.251Z
 tags:
   - chatgpt
   - open-ai
@@ -38,25 +38,21 @@ thumbnail: https://thmb.techidaily.com/b53c5d006880c2d2e578b547fb0674d1bc4019b54
 
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
 
  Unlike traditional search engines that rely on keyword matching and link analysis, Perplexity AI understands the context and intent behind your queries. It provides not just a list of links but a comprehensive answer with links to cited sources.
 
  The Perplexity app is a mix of the [best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Perplexity AI Instead of Google Search
 
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
@@ -91,7 +87,7 @@ Close
  But what is Perplexity AI really about, and can you use it instead of Google?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Perplexity AI, and What Can You Do With It?
@@ -104,16 +100,28 @@ Close
 
  The Perplexity app is a mix of the [best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Perplexity AI Instead of Google Search
 
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -150,10 +158,6 @@ Close
 
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
 
  Unlike traditional search engines that rely on keyword matching and link analysis, Perplexity AI understands the context and intent behind your queries. It provides not just a list of links but a comprehensive answer with links to cited sources.
@@ -165,10 +169,6 @@ Close
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
@@ -188,10 +188,6 @@ Close
 
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It's worth noting that [Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/), an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.
 
  Perplexity AI is reportedly working on bringing ads to its platform, per [The Verge](https://www.theverge.com/2024/4/1/24118154/perplexity-will-try-a-form-of-ads-on-its-ai-search-platform). How it executes its ad features will determine much of the platform's future. Perplexity has a lot to prove (and improve!) to really stand up to Google.
@@ -205,6 +201,10 @@ Close
 **SCROLL TO CONTINUE WITH CONTENT**
 
  But what is Perplexity AI really about, and can you use it instead of Google?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Perplexity AI, and What Can You Do With It?
 
@@ -221,19 +221,15 @@ Close
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -251,6 +247,10 @@ Close
  For example, a search for "bakery near me" returned a "summary" of a list of bakeries. The interesting part? Not one from its list was within a 100-mile radius. The same query on Google returned options within a five-mile radius, which is absolutely what I wanted.
 
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It's worth noting that [Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/), an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.
 
@@ -273,19 +273,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-beyond-the-buzz-a-ranked-guide-to-non-vimeo-edits-for-2024/"><u>[New] Beyond the Buzz A Ranked Guide to Non-Vimeo Edits for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-viral-visionaries-most-favored-instagram-filters/"><u>[New] Viral Visionaries Most Favored Instagram Filters</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-perfect-pitch-perfection-the-top-7-apps-to-change-your-voice-online/"><u>2024 Approved Perfect Pitch Perfection The Top 7 Apps to Change Your Voice Online</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unveiling-the-secrets-to-a-flawless-fb-live-session/"><u>2024 Approved Unveiling the Secrets to a Flawless FB Live Session</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/addressing-overflow-in-chatgpt-windows-use/"><u>Addressing Overflow in ChatGPT Windows Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-showdown-summary-googles-palm-2-vs-openais-gpt-4/"><u>AI Showdown Summary: Google's PaLM 2 Vs. OpenAI's GPT-4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpts-my-bot-masterclass-merging-board-games-art-and-innovation/"><u>ChatGPT's My Bot Masterclass: Merging Board Games, Art & Innovation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-macbook-gadgets-expertly-evaluated-and-rated-professional-insights/"><u>Essential MacBook Gadgets : Expertly Evaluated and Rated | Professional Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-6-applications-for-code-interpreter/"><u>Harnessing the Power: 6 Applications for Code Interpreter</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-motorola-razr-40-is-unlocked-by-drfone-android/"><u>How To Check if Your Motorola Razr 40 Is Unlocked</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-motorola-moto-g84-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Motorola Moto G84 5G.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/perfect-your-conversations-with-google-chromes-gpt-extension/"><u>Perfect Your Conversations with Google Chrome’s GPT Extension</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-best-free-screen-recorder-tool-bandicam-or-camtasia-for-2024/"><u>The Best Free Screen Recorder Tool Bandicam or Camtasia for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-best-no-cost-cross-platform-laptop-dvd-decoders/"><u>[New] 2024 Approved Best No-Cost, Cross-Platform Laptop DVD Decoders</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-10-common-vlogging-fears-and-how-to-beat-them/"><u>[Updated] 10 Common Vlogging Fears and How To Beat Them</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-elevating-social-media-stardom-with-dji-drones-livestreams/"><u>[Updated] In 2024, Elevating Social Media Stardom with DJI Drones' Livestreams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-foundation-to-finery-top-6-mc-home-designs-made-simple/"><u>[Updated] In 2024, Foundation to Finery Top 6 MC Home Designs Made Simple</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1727793157218-infobox/"><u>/Infobox</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-replace-keyword-research/"><u>Can ChatGPT Replace Keyword Research?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-wellness-unveiling-the-top-9-methodologies/"><u>ChatGPT for Wellness: Unveiling the Top 9 Methodologies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-ventures-viable-income-strategies/"><u>ChatGPT Ventures: Viable Income Strategies?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-ios-applications-for-business-in-2eby-microsoft-2022s-top-rated-selection-by-zdnet/"><u>Discover the Leading iOS Applications for Business in 2Eby Microsoft: 2022'S Top-Rated Selection by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/foremost-ai-enablers-for-efficient-web-searching/"><u>Foremost AI Enablers for Efficient Web Searching</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/quick-fixes-for-when-apex-legends-refuses-to-start/"><u>Quick Fixes for When Apex Legends Refuses to Start</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/quintessential-play-by-radio-stories-for-2024/"><u>Quintessential Play-by-Radio Stories for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-your-facebook-account-steps-when-you-dont-have-access-to-your-emailphone/"><u>Resetting Your Facebook Account: Steps When You Don't Have Access to Your Email/Phone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-no-cost-movie-streaming-sites-you-cant-miss/"><u>Top 12 No-Cost Movie Streaming Sites You Can't Miss</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-models-thoroughly-evaluated-by-tech-gurus/"><u>Top-Rated Apple Watch Models - Thoroughly Evaluated by Tech Gurus</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/formative-strategies-for-youtube-live-enthusiasts/"><u>Transformative Strategies for YouTube Live Enthusiasts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-tecno-spark-20-proplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Tecno Spark 20 Pro+ FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vintage-game-collecting-and-diy-tech-assistance-tips/"><u>Vintage Game Collecting & DIY Tech Assistance Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whennonewchat-anticipate-gpt-access-return/"><u>WhenNoNewChat: Anticipate GPT Access Return</u></a></li>
 </ul></div>
 

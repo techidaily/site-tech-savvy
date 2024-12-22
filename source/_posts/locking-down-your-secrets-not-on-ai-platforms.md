@@ -1,7 +1,7 @@
 ---
 title: Locking Down Your Secrets, Not on AI Platforms
-date: 2024-12-09T16:37:13.585Z
-updated: 2024-12-12T22:24:36.206Z
+date: 2024-12-15T21:39:22.466Z
+updated: 2024-12-22T02:39:30.439Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Leaked Confidential Information Via ChatGPT
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  There's another layer of risk here, too. If employees use ChatGPT to look for bugs like they did with the Samsung leak, the code they type into the chat box will also be stored on OpenAI's servers. This could lead to breaches that have a massive impact on companies troubleshooting unreleased products and programs. We may even end up seeing information like unreleased business plans, future releases, and prototypes leaked, resulting in huge revenue losses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Data Leaks Happen?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 ![ChatGPT logo on dark green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ChatGPT’s privacy policy](https://openai.com/policies/privacy-policy) makes it clear that it records your conversations and shares the logs with other companies and its AI trainers. When someone (for example, a Samsung employee) types confidential information into the dialog box, it’s recorded and saved on ChatGPT’s servers.
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  For example, if they paste a large contact list into the chat and ask the AI to isolate customers’ phone numbers from the data, ChatGPT then has those names and phone numbers in its records. Your private information is at the mercy of companies you did not share it with, which may not protect it well enough to keep you safe. There are a few things you can do to [keep yourself safe after a data breach](https://www.makeuseof.com/what-to-do-after-data-breach-how-to-protect-yourself/), but businesses should be responsible for preventing leaks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Moral of the Story: Don't Tell ChatGPT Your Secrets
@@ -89,18 +89,21 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-prime-gpus-for-sharp-4k-image-display-for-2024/"><u>[New] Prime GPUs for Sharp 4K Image Display for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/7-days-with-kde-plasma-6-on-linux-key-takeaways-from-my-experience/"><u>7 Days with KDE Plasma 6 on Linux: Key Takeaways From My Experience</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-poco-m6-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-natural-language-processing-forefront-ai-vs-chatgpt/"><u>Beyond Natural Language Processing: Forefront AI Vs ChatGPT</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-discord-delays-with-this-step-by-step-solution/"><u>Conquer Discord Delays with This Step-by-Step Solution !</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-chatgpt-capabilities/"><u>Demystifying ChatGPT Capabilities</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discourse-dissection-unveiling-the-ai-dialogue-divide-between-gpt-and-bingbot/"><u>Discourse Dissection: Unveiling the AI Dialogue Divide Between GPT and BingBot</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/evite-que-norton-elimine-archivos-automaticamente-una-guia-detallada/"><u>Evite Que Norton Elimine Archivos Automáticamente: Una Guía Detallada</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fraud-alert-vigilant-against-gpt-scams/"><u>Fraud Alert: Vigilant Against GPT Scams</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g14-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Moto G14 Phone with Broken Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-user-dialogue-shapes-ai-understanding-in-chatgpt/"><u>How User Dialogue Shapes AI Understanding in ChatGPT?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-play-40c-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Play 40C</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-loneliness-interactive-ai-as-social-catalyst/"><u>Transform Loneliness: Interactive AI as Social Catalyst</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-delving-into-backward-image-analysis-techniques-for-fb-users/"><u>[New] In 2024, Delving Into Backward Image Analysis Techniques for FB Users</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-your-vms-with-virtualbox-70-now-for-windows-11-users/"><u>Boosting Your VMs with VirtualBox 7.0, Now for Windows 11 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-tool-for-fitness-coaches-crafting-custom-exercise-routines-easily/"><u>ChatGPT as a Tool for Fitness Coaches: Crafting Custom Exercise Routines Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-or-bard-unveiling-the-ultimate-language-wizard/"><u>ChatGPT or Bard? Unveiling the Ultimate Language Wizard</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-iphone-15-pro-and-iphone-14-pro-unveiling-key-improvements-in-apples-new-release-tech-analysis/"><u>Comparing iPhone 15 Pro & iPhone 14 Pro: Unveiling Key Improvements in Apple's New Release | Tech Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/craft-delectable-dishes-easier-discover-7-chatgpt-ways/"><u>Craft Delectable Dishes Easier: Discover 7 ChatGPT Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-leading-mac-software-for-2amzs-expert-reviews/"><u>Discover the Leading Mac Software for 2Amzs , Expert Reviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flickvista-app-performance-index-for-2024/"><u>FlickVista App Performance Index for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-speed-easy-steps-to-create-top-notch-slow-motion-on-android/"><u>In 2024, Mastering Speed Easy Steps to Create Top-Notch Slow Motion on Android</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-s23-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel S23 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pick-between-fundamental-and-comprehensive-gpt-engagement/"><u>Pick Between Fundamental & Comprehensive GPT Engagement</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-ai-powered-web-scouring-solutions/"><u>Premium AI-Powered Web Scouring Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-guide-securing-your-favorite-audio-narratives-on-iphoneipad/"><u>Quick Guide Securing Your Favorite Audio Narratives on iPhone/iPad</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/reorienting-your-computer-display-a-step-by-step-guide-to-correcting-screen-orientation-issues/"><u>Reorienting Your Computer Display: A Step-by-Step Guide to Correcting Screen Orientation Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dichotomy-of-ai-mass-engagement-vs-precious-data/"><u>The Dichotomy of AI: Mass Engagement Vs. Precious Data</u></a></li>
 </ul></div>
 

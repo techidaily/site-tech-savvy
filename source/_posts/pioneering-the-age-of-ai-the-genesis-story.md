@@ -1,7 +1,7 @@
 ---
 title: "Pioneering the Age of AI: The Genesis Story"
-date: 2024-12-09T18:10:16.548Z
-updated: 2024-12-12T18:55:11.128Z
+date: 2024-12-15T23:13:39.515Z
+updated: 2024-12-21T21:39:27.983Z
 tags:
   - chatgpt
   - open-ai
@@ -29,16 +29,12 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1300-1900: Tracing the Roots of AI
 
 ![Old, Ancient Books in Dirt and With Yellow Pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/old-books-yellow-pages.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Computers emerged in the mid-70s](https://www.makeuseof.com/who-built-the-first-personal-computer-and-how-does-it-compare-with-your-pc-or-laptop/), but historians trace the earliest references to AI back to the late middle ages. Scholars often wondered about future innovations. Of course, they lacked the technological resources and skills to materialize ideas.
 
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
 ![Scribbles of Math Problems on Old Notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/math-problems-old-notebook-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Technological developments accelerated during this period. The accessibility of IT resources enabled researchers to materialize theories, imagined concepts, and speculations. They were laying the foundation for cybernetics.
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
 * **1950:** Alan Turing formally published the Turing Test. It's one of the earliest and most widely used interrogation methods for [testing the accuracy of AI systems](https://www.makeuseof.com/test-factors-ai-chatbots-accuracy/).
 
  The dawn of modern AI fitting accumulates with Alan Turing's paper and the [Turing Test, which attempts to answer the question](https://www.makeuseof.com/tag/what-is-turing-test-ever-beaten/), "Can machines think?"
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1951-2000: Exploring the Applications of AI Technologies
 
@@ -83,6 +75,10 @@ Image Credit: Ik T/[Wikipedia Commons](https://commons.wikimedia.org/wiki/File:C
 * **1997:** IBM built Deep Blue, a chess-playing system powered by its supercomputer. It's the first automated chess player to play a full game autonomously and win. Moreover, the demonstration involved a world-class chess grandmaster.
 
  The middle period of AI development saw one of the most important moments of all: the coining of the term "artificial intelligence."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2001-2010: Integrating AI Into Modern Technologies
 
@@ -104,6 +100,10 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
 ![Camera, Smartphone, Keyboard, an Laptop on Table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/various-gadgets-on-table.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Companies began developing stable AI-driven solutions during this period. They integrate AI into various software and hardware systems, like virtual assistants, grammar checkers, laptops, smartphones, and [augmented reality apps](https://www.makeuseof.com/tag/best-augmented-reality-apps-android/).
 
 * **2011:** IBM developed Watson, a question-answering computer system. The company pitted it against two former champions in Jeopardy to demonstrate its capabilities—Watson the computer won.
@@ -119,7 +119,7 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 ![openai logo on black screen](https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882cc06bf2431577eb2dc90df03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The great AI race has begun. Developers are releasing language models, and companies are researching ways to integrate AI with their products. At this rate, almost every consumer product will have an AI component.
@@ -154,19 +154,22 @@ Image Credits: Carl Berkeley/[Wikimedia Commons](https://commons.wikimedia.org/w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-optimally-utilize-a-creative-commons-license/"><u>[New] 2024 Approved How to Optimally Utilize a Creative Commons License</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-speedy-social-stardom-likes-plus-videos-on-instagram-guide/"><u>[New] Speedy Social Stardom Likes + Videos on Instagram Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-creativity-and-ai-for-do-it-yourselfers/"><u>Bridging Creativity and AI for Do-It-Yourselfers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-infinix-hot-30i-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Infinix Hot 30i is off? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/courteous-conversations-with-voice-controlled-tech-siri-gpt/"><u>Courteous Conversations with Voice-Controlled Tech (Siri, GPT)</u></a></li>
-<li><a href="https://win-bits.techidaily.com/empowering-smes-in-singapore-through-microsofts-artificial-intelligence-training-initiative/"><u>Empowering SMEs in Singapore Through Microsoft's Artificial Intelligence Training Initiative</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-safeguard-your-mac-a-comprehensive-guide-for-data-encryption-and-hard-drive-restoration/"><u>How To: Safeguard Your Mac - A Comprehensive Guide for Data Encryption and Hard Drive Restoration</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-apex-productions-audit-studio-25-breakdown-2023/"><u>In 2024, Apex Productions Audit Studio 25 Breakdown, 2023</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-audio-interpretation-software-zero-cost-version/"><u>In 2024, Audio Interpretation Software – Zero Cost Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/industry-titans-and-their-ai-expectations/"><u>Industry Titans and Their AI Expectations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-privacy-concerns-with-corporate-gpt-use/"><u>Navigating Privacy Concerns with Corporate GPT Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stress-busters-using-chatgpt-insights/"><u>Stress Busters Using ChatGPT Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-5-essential-yoga-dvds-for-newbies-find-your-balance-with-fun-and-effective-workouts/"><u>Top 5 Essential Yoga DVDs for Newbies: Find Your Balance with Fun & Effective Workouts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-crypto-trading-aided-by-chatgpt/"><u>Unlocking Potential: Crypto Trading Aided by ChatGPT</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-securing-your-gaming-victories-through-fbx-for-2024/"><u>[New] Securing Your Gaming Victories Through FBX for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-creating-magnetic-storylines-for-your-vlog-videos/"><u>2024 Approved Creating Magnetic Storylines for Your Vlog Videos</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-as-a-catalyst-for-mental-resilience/"><u>Artificial Intelligence as a Catalyst for Mental Resilience</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-a-smarter-social-networking-route-via-fb-shortcuts/"><u>Crafting a Smarter Social Networking Route via FB Shortcuts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/free-solutions-how-to-restore-lost-information-from-an-ssd-in-windows/"><u>Free Solutions: How To Restore Lost Information From an SSD in Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/game-changers-gear-essentials-every-business-needs-to-stay-ahead-of-the-curve-for-2024/"><u>Game Changers Gear Essentials Every Business Needs to Stay Ahead of the Curve for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-6-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 6? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x50-gt-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X50 GT Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-air-with-m1-chip-available-at-unbeatable-price-of-649-best-deal-on-zdnet/"><u>MacBook Air with M1 Chip Available at Unbeatable Price of $649 – Best Deal on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/most-popular-kid-friendly-tablets-as-voted-by-moms-and-dads-on-zdnet/"><u>Most Popular Kid-Friendly Tablets as Voted by Moms and Dads on ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-level-information-retrieval-via-perplexity-ai/"><u>Next-Level Information Retrieval via Perplexity AI</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/qualitysound-check-for-2024/"><u>QualitySound Check for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-this-4th-of-july-grab-discounted-apple-airpods-at-40-off-before-holiday-rush-insights-from-zdnet/"><u>Save Big This 4Th of July! Grab Discounted Apple AirPods at $40 Off Before Holiday Rush | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-to-shield-sensitive-enterprise-discussions/"><u>Strategies to Shield Sensitive Enterprise Discussions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-ear-tips-and-cases-for-apple-airpods-pro-recommendations-by-pcmag/"><u>Top Rated Ear Tips & Cases for Apple AirPods Pro - Recommendations by PCMag</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-in-this-article-we-will-share-with-you-some-of-the-minimum-requirement-of-running-premiere-pro-cc-on-your-computer-and-how-to-check-th/"><u>Updated 2024 Approved In This Article, We Will Share with You some of the Minimum Requirement of Running Premiere Pro CC on Your Computer and How to Check the Specification of Your PC and Mac, and Also How to Set up the Co</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-causes-decreased-battery-endurance-on-iphones-compared-to-past-models-explained-zdnet-insights/"><u>What Causes Decreased Battery Endurance on iPhones Compared to Past Models, Explained | ZDNET Insights</u></a></li>
 </ul></div>
 

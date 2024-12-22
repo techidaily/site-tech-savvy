@@ -1,7 +1,7 @@
 ---
 title: Top 10 Ways Apple Can Enhance AI Capabilities to Match Rivals Like OpenAI & Google - Insights From ZDNet
-date: 2024-12-10T01:14:37.090Z
-updated: 2024-12-12T21:54:55.256Z
+date: 2024-12-21T04:19:20.248Z
+updated: 2024-12-21T21:16:52.880Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Whether you're a [developer](https://www.zdnet.com/article/the-data-confirms-gen
 ## Productivity & Workflow Enhancements
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Regenerative AI (RAG) APIs & AI Writing Tools
@@ -53,7 +53,7 @@ By integrating specialized dictionaries and corporate knowledge into apps like M
 **Use Case**: A legal professional drafting a contract could use AI to generate text based on legal standards and pull relevant case law or references from secure corporate databases. Similarly, a medical researcher could enhance their papers with precise terminology and industry knowledge, all sourced and verified by a specialized AI model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Voice-based AI Workflow Automation & Proactive Notifications
@@ -82,10 +82,6 @@ As AI becomes more integrated into daily use, Apple can enhance its privacy and 
 
 **Also: [The 7 best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-7-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Financial Management and Security
 
 AI could combine financial management tools with [real-time fraud detection](https://www.zdnet.com/article/the-real-time-revolution-is-here-but-its-unevenly-distributed/). AI would help users track spending, provide budgeting advice, and send predictive financial alerts while monitoring transactions for unusual or fraudulent activity. This would bring AI to [Apple Wallet and Pay](https://www.zdnet.com/article/how-to-use-apple-pay-in-stores-and-online-and-why-you-should/), making these tools more secure and user-friendly.
@@ -99,6 +95,10 @@ AI could combine financial management tools with [real-time fraud detection](htt
 **Also: [Every iPhone model that will be updated to Apple's iOS 18 (and which ones won't)](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/)**
 
 ## Health & Wellness Innovations
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Advanced Health and Fitness
 
@@ -114,10 +114,6 @@ AI could provide real-time diagnostics and predictive health insights by leverag
 
 ## Creative & Media Tools
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. AI-Enhanced Media Production Tools
 
 For creative professionals, AI could streamline tasks in Apple's creativity tools, such as [Final Cut Pro](https://www.zdnet.com/article/these-new-final-cut-pro-for-ipad-features-are-game-changing-for-me-as-a-filmmaker/) and GarageBand. AI could automate video editing, sound mixing, and effects generation, suggesting edits based on user preferences and creative style. This approach would allow users to focus on the creative aspects of their work, leaving repetitive tasks to the AI.
@@ -132,6 +128,10 @@ For creative professionals, AI could streamline tasks in Apple's creativity tool
 
 ## Sustainability & Accessibility
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Sustainability and Environmental Tracking
 
 Apple's AI could help users track and reduce their environmental impact by collecting data from [HomeKit](https://www.zdnet.com/home-and-office/smart-home/move-over-alexa-and-homekit-a-new-assistant-is-here-to-open-source-your-smart-home/) and [Matter-enabled devices](https://www.zdnet.com/home-and-office/smart-home/what-is-matter-how-the-connectivity-standard-can-change-your-smart-home/), EVs, and smart meters. AI could analyze energy consumption, recommend eco-friendly alternatives, and offer personalized sustainability tips based on user behavior and device usage patterns.
@@ -143,10 +143,6 @@ Apple's AI could help users track and reduce their environmental impact by colle
 **Use Case:** A user's HomeKit system could work with their EV to optimize charging during off-peak hours, and AI would provide recommendations for reducing energy consumption throughout the day.
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)** 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. AI Accessibility for Education and General Use
 
@@ -160,11 +156,11 @@ AI could further [enhance accessibility for users with disabilities](https://www
 
 **Also: [Your AirPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Cross-Ecosystem & Personalization
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 9\. Gen AI Store & Broader AI Features for IoT Devices
 
@@ -177,6 +173,10 @@ Apple could launch a dedicated Gen AI Store for AI-powered apps, enabling users 
 **Use Case:** A user could download a home automation AI from the Gen AI Store, which coordinates energy usage and home activities based on daily routines, and learning patterns to optimize efficiency.
 
 **Also: [Buying an Apple Watch Series 10? Consider these 3 features before upgrading](https://www.zdnet.com/article/buying-an-apple-watch-series-10-consider-these-3-features-before-upgrading/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10\. AI Learning and Personalization
 
@@ -228,24 +228,24 @@ While Apple's focus on privacy and on-device processing sets it apart, the compa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>[New] 2024 Approved From Long-Winded to Concise The Art of YouTube Trimming</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-facebook-covers-made-easy-top-10-online-design-services-reviewed/"><u>[New] Facebook Covers Made Easy Top 10 Online Design Services Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-duels-assessing-chatgpt-and-translate-quality/"><u>AI Duels: Assessing ChatGPT and Translate Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digital-guardianship-dont-fall-for-googles-misleading-bard-app/"><u>Digital Guardianship: Don't Fall for Google's Misleading Bard App</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/educational-tech-audit-4-precision-checkpoints-for-gpt-devices/"><u>Educational Tech Audit: 4 Precision Checkpoints for GPT Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-dandd-excellence-with-chatgpt-gameplay-advice/"><u>Elevating D&D Excellence with ChatGPT Gameplay Advice</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enterprises-transformed-by-chatgpt-whisper-api-accessibility/"><u>Enterprises Transformed by ChatGPT, Whisper API Accessibility</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-14-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 14 Plus With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-motorola-by-fonelab-android-recover-music/"><u>How to recover old music from your Motorola</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y77twithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y77twith/without a PC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 12 Pro?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/innovative-strategies-to-enhance-tiktoks-for-2024/"><u>Innovative Strategies to Enhance TikToks for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/job-security-queries-are-careers-at-stake-with-ai/"><u>Job Security Queries: Are Careers at Stake with AI?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-console-gaming-with-asus-vg2nh-a-top-tier-display-choice/"><u>Mastering Console Gaming with Asus VG2nH - A Top-Tier Display Choice</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/mobile-filming-tools-for-tourists/"><u>Mobile Filming Tools for Tourists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proactive-workflows-auto-gpt-on-your-ubuntu-system/"><u>Proactive Workflows: Auto-GPT on Your Ubuntu System</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-plug-ins-for-excellent-gpt-in-vs-code/"><u>Ultimate Plug-Ins for Excellent GPT in VS Code</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-choose-claude-over-gpt-focusing-on-the-4-foremost-upgrades/"><u>Why Choose Claude Over GPT: Focusing on the 4 Foremost Upgrades</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-streamline-your-podcasts-for-apple-podcasts/"><u>[New] In 2024, Streamline Your Podcasts for Apple Podcasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-securing-stunning-media-backdrops-at-cost-effective-rates-for-2024/"><u>[Updated] Securing Stunning Media Backdrops at Cost-Effective Rates for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-techs-trailblazers-windows-10-redefines-user-interface/"><u>[Updated] Tech's Trailblazers Windows 10 Redefines User Interface</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-guide-to-saving-games-on-windows-10-pro/"><u>2024 Approved Guide to Saving Games on Windows 10 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-ultimate-guide-to-choosing-the-perfect-apple-watch-band-professional-ratings-and-testing-results-zdnet/"><u>2024'S Ultimate Guide to Choosing the Perfect Apple Watch Band: Professional Ratings & Testing Results | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/authenticity-assaulted-by-artificial-linguistics/"><u>Authenticity Assaulted by Artificial Linguistics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boosting-download-velocity-a-comprehensive-guide-for-improving-origin-speed/"><u>Boosting Download Velocity: A Comprehensive Guide for Improving Origin Speed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-the-gap-ais-impact-on-paperclip-maximization/"><u>Bridging the Gap: AI's Impact on Paperclip Maximization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-adventures-how-ai-is-reshaping-game-development/"><u>Crafting Adventures: How AI Is Reshaping Game Development</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/flexible-illumination-with-spk10-037-studios-new-favourite/"><u>Flexible Illumination with SPK10-037: Studio's New Favourite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-zero-to-gourmet-healthy-habits-via-tech/"><u>From Zero to Gourmet: Healthy Habits via Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-zero-to-hero-installing-gpt-on-ubuntu/"><u>From Zero to Hero: Installing GPT on Ubuntu</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-android-can-surpass-ios-with-key-upgrades-expert-analysis/"><u>How Android Can Surpass iOS with Key Upgrades - Expert Analysis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-to-improve-your-entire-lifestyle/"><u>How to Use ChatGPT to Improve Your Entire Lifestyle</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-8-best-ios-daw-for-ipad-and-iphone/"><u>In 2024, 8 Best iOS DAW for iPad and iPhone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/monetizing-content-how-much-adsense-pays-you-per-thousand-video-hits/"><u>Monetizing Content How Much AdSense Pays You Per Thousand Video Hits?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-take-when-your-iphones-nearby-detection-tool-fails/"><u>Steps to Take When Your iPhone's Nearby Detection Tool Fails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-threats-behind-installing-gpt-on-devices/"><u>The Threats Behind Installing GPT on Devices</u></a></li>
 </ul></div>
 

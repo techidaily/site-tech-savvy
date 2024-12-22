@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking Apple Chips: A Comprehensive Look at M3 Silicon Vs. M1 and M2 - Evaluating Graphics Cores and Transistor Technology | NextGen Computing"
-date: 2024-12-09T19:37:47.683Z
-updated: 2024-12-12T18:45:43.023Z
+date: 2024-12-19T23:29:09.491Z
+updated: 2024-12-22T03:21:11.844Z
 tags:
   - apple
 categories:
@@ -43,12 +43,16 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the AirPods 4 (entry-level) if...
 
 Screenshot by Kayla Solino/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
@@ -60,7 +64,7 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. You want the most affordable option
@@ -69,13 +73,13 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 
 [Preorder the AirPods 4 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the AirPods 4 (mid-tier) if...
 
 Screenshot by Kayla Solino/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
 
@@ -86,7 +90,7 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. You want the "just right" AirPods
@@ -98,10 +102,6 @@ If you're upgrading from the AirPods 3, you'll enjoy the fact that the mid-tier 
 You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPods since they give users the best of both worlds. You get upgraded audio features not found in the second or third-generation AirPods without offering too many advanced features found in the AirPods Pro 2.
 
 [Preorder the AirPods 4 with active noise cancellation View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4%2Fwith-active-noise-cancellation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -137,21 +137,18 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-exquisite-makeup-moments-captured/"><u>[New] In 2024, Exquisite Makeup Moments Captured</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-scale-up-influence-crafting-content-that-resonates/"><u>[New] In 2024, Scale Up Influence Crafting Content That Resonates</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveiling-history-watching-older-facebook-content-on-your-device/"><u>[Updated] In 2024, Unveiling History Watching Older Facebook Content on Your Device</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-open-source-video-template-ideas-for-youtube/"><u>[Updated] Open Source Video Template Ideas for YouTube</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-perfectly-pitched-headlines-maker-for-2024/"><u>[Updated] Perfectly Pitched Headlines Maker for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-insiders-guide-to-personalizing-your-instagram-vocal-style-for-2024/"><u>[Updated] The Insider's Guide to Personalizing Your Instagram Vocal Style for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/design-custom-chatgpt-experience/"><u>Design Custom ChatGPT Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-chatgpt-navigating-the-realm-of-ai-generated-content/"><u>Exploring ChatGPT: Navigating the Realm of AI-Generated Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guide-to-efficiently-deploy-chatgpt-extensions/"><u>Guide to Efficiently Deploy ChatGPT Extensions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-13-pro-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 13 Pro With or Without Password</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-the-art-of-cross-language-conversation-via-chatgpt/"><u>Master the Art of Cross-Language Conversation via ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mitigating-risks-of-data-exposure-from-personalized-models/"><u>Mitigating Risks of Data Exposure From Personalized Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/steering-clear-of-mistakes-with-ai-generators/"><u>Steering Clear of Mistakes with AI Generators</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/transferer-des-fichiers-image-entre-ordinateurs-sous-windows-11-guide-complet/"><u>Transférer Des Fichiers Image Entre Ordinateurs Sous Windows 11 : Guide Complet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/traps-in-tokens-exposing-fake-bingpt-projects/"><u>Traps in Tokens: Exposing Fake BinGPT Projects</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elegant-endings-selecting-from-free-or-premium-templates-for-2024/"><u>[New] Elegant Endings Selecting From Free or Premium Templates for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-discover-the-power-of-mycam-recording-features/"><u>[Updated] Discover the Power of MyCam Recording Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-step-by-step-iphone-podcast-audio-enjoyment/"><u>[Updated] In 2024, Step-by-Step IPhone Podcast Audio Enjoyment</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-macbook-pro-vs-samsung-galaxy-book-3-ultra-deciding-on-a-top-tier-laptop-for-enthusiasts-techradar/"><u>Apple MacBook Pro vs Samsung Galaxy Book 3 Ultra: Deciding on a Top-Tier Laptop for Enthusiasts | TechRadar</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/are-conversational-sessions-important-for-ais-knowledge-enhancement/"><u>Are Conversational Sessions Important for AI's Knowledge Enhancement?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-public-disruption-mastering-the-art-of-airpods-and-quest-zdnet/"><u>Avoid Public Disruption: Mastering the Art of AirPods and Quest 지킷 연결 | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-to-apple-gadgets-manuals-technical-specs-and-diy-repairs-access-them-all-on-zdnet/"><u>Complete Guide to Apple Gadgets: Manuals, Technical Specs & DIY Repairs - Access Them All on ZDNet</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comprehensive-data-sanitization-demonstration-using-bitraser-software/"><u>Comprehensive Data Sanitization Demonstration Using BitRaser Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enlightening-workflows-with-smart-ai-chatbot-interactions/"><u>Enlightening Workflows with Smart AI Chatbot Interactions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exposing-the-limitations-the-top-8-flaws-in-chatgpt/"><u>Exposing the Limitations: The Top 8 Flaws in ChatGPT</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-comprehensive-guide-to-vsco-image-enhancement/"><u>In 2024, Comprehensive Guide to VSCO Image Enhancement</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/repurposing-your-unused-tablet-as-a-pet-entertainment-device/"><u>Repurposing Your Unused Tablet as a Pet Entertainment Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-no-cost-high-quality-srt-editors/"><u>The Ultimate Guide to No-Cost, High-Quality Srt Editors</u></a></li>
 </ul></div>
 

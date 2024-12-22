@@ -1,7 +1,7 @@
 ---
 title: "Shaping AI Responsibly: Leadership From OpenAI C-Suite"
-date: 2024-12-11T21:20:52.890Z
-updated: 2024-12-12T17:10:09.993Z
+date: 2024-12-20T18:27:06.445Z
+updated: 2024-12-21T17:19:10.823Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Sam Altman Calling for More AI Regulation?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
 
@@ -51,7 +51,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  So, it's evident that industry professionals and lawmakers are concerned about AI and its future impact. But what effect will further regulation have on the AI industry? Will it be a good or bad thing?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Will More Regulation Benefit the AI Industry?
@@ -67,7 +67,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  Some also feel that it's far too soon to be talking about AI regulation, though the presence of AI in so many industries today would seem to contradict that view.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is AI Regulation Good News for OpenAI?
@@ -75,7 +75,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 ![openai logo on smartphone place on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-ai-phone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sam Altman's call for more AI regulation has raised questions about whether such constraints will actually benefit OpenAI.
@@ -87,7 +87,7 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
  It isn't surprising that Altman has something of a bias here, as ChatGPT is the brainchild of the company he runs. But further regulation could lead to larger, pre-established AI companies having an advantage over smaller organizations, especially if licenses, permits, and long testing periods are made a legal requirement (as this could incur more costs and require more personnel).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Regulation Is a Point of Contention
@@ -111,19 +111,20 @@ Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/iscover-12-cutting-edge-flip-screen-cams-for-video-content/"><u>[New] Discover 12 Cutting-Edge Flip-Screen Cams for Video Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-enhancing-viewability-creating-custom-youtube-thumbnails/"><u>[New] In 2024, Enhancing Viewability Creating Custom YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-auditory-interpretation-software-priceless-access/"><u>[Updated] Auditory Interpretation Software Priceless Access</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-focus-on-you-not-the-surroundings-blur-techniques-for-google-meet-success/"><u>[Updated] Focus on You, Not the Surroundings Blur Techniques for Google Meet Success</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-easy-setup-routines-to-preserve-gotomeeting-discussions/"><u>2024 Approved Easy Setup Routines to Preserve GoToMeeting Discussions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-toys-six-key-points-about-snapchats-my-ai/"><u>Beyond Toys: Six Key Points About Snapchat’s My AI</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-max-channels-favorites-exciting-series-to-tune-into-now/"><u>Discover MAX Channel’s Favorites: Exciting Series to Tune Into Now</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empower-your-communication-master-chatgpt/"><u>Empower Your Communication: Master ChatGPT</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-motorola-edge-40-neo-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Motorola Edge 40 Neo for Streaming | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prime-ai-platforms-accelerating-cyber-search-success/"><u>Prime AI Platforms Accelerating Cyber Search Success</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-samsung-galaxy-s24-ultra-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Samsung Galaxy S24 Ultra has been deleted.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shell-command-guide-to-engage-with-chatgpt/"><u>Shell Command Guide to Engage with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-rise-of-gptbot-examining-its-capabilities-and-controversies/"><u>The Rise of GPTBot: Examining Its Capabilities & Controversies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-dangers-in-automated-psychological-assistance/"><u>Understanding Dangers in Automated Psychological Assistance</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-efficient-workflow-screen-recording-techniques-in-os-x-via-keyboard-shortcuts/"><u>[New] Efficient Workflow Screen Recording Techniques in OS X via Keyboard Shortcuts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lightning-fast-visualization-for-win11-users/"><u>[Updated] Lightning-Fast Visualization for Win11 Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-staying-grounded-in-vr-worlds/"><u>[Updated] Staying Grounded in VR Worlds</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/st-royalty-free-music-download-sites-for-youtube-creators/"><u>15 Best Royalty Free Music Download Sites For YouTube Creators</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovations-in-mobile-photography-a-look-at-iphone-x/"><u>2024 Approved Innovations in Mobile Photography A Look at iPhone X</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/battle-of-wits-assessing-chatgpt-against-googles-bard-for-optimal-performance/"><u>Battle of Wits: Assessing ChatGPT Against Google's Bard for Optimal Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emotional-exploitation-by-machine-minds/"><u>Emotional Exploitation by Machine Minds</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-continuity-with-exported-gpt-data/"><u>Ensuring Continuity with Exported GPT Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-and-huggingchat-showdown-a-clear-winner/"><u>GPT and HuggingChat Showdown: A Clear Winner?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-free-tools-for-ai-artwork/"><u>Pioneering Free Tools for AI Artwork</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/premium-extensions-supercharging-chatgpt-in-vs-code/"><u>Premium Extensions: Supercharging ChatGPT in VS Code</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/soluciones-faciles-para-acceder-a-su-google-drive-desde-windows-explorer/"><u>Soluciones Fáciles Para Acceder a Su Google Drive Desde Windows Explorer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-choices-for-uncertain-occasions-expert-tips-on-perfect-presents-inspiration-from-zdnet/"><u>Top Choices for Uncertain Occasions: Expert Tips on Perfect Presents - Inspiration From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-resolving-problems-with-the-realtek-rtl8811au-network-adapter/"><u>Troubleshooting Guide: Resolving Problems with the Realtek RTL8811au Network Adapter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiled-the-top-secret-gamers-choice-a-game-changing-samsung-projector-reviewed-by-zdnet/"><u>Unveiled: The Top-Secret Gamer's Choice – A Game-Changing Samsung Projector Reviewed by ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Data's Depths with GPT-3: 6 Essential Practices"
-date: 2024-12-10T19:24:04.547Z
-updated: 2024-12-12T19:55:03.486Z
+date: 2024-12-18T18:57:14.792Z
+updated: 2024-12-21T19:58:13.980Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/a6af875fb6cb15aafd717b61af0a7acb112fadf86
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Refine Ideas About a Task
 
  Data analysts can leverage the capabilities of ChatGPT to refine and brainstorm about a task or case study. Since [ChatGPT](https://chat.openai.com/) can generate conversational text, you can engage it and explore various perspectives by asking questions.
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/a6af875fb6cb15aafd717b61af0a7acb112fadf86
 ![The response from ChatGPT on a prompt that ask it how to segment customer data.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image3-v1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Suppose you want to write a script to automate a business process. You can ask ChatGPT for ideas on how to get started. All you have to do is ask it for a prompt via the chat and wait for its response. You can ask further questions or alternative viewpoints from the response.
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/a6af875fb6cb15aafd717b61af0a7acb112fadf86
 > **Case Study:** I have a business problem. I want to [create a dashboard in Excel](https://www.makeuseof.com/create-interactive-excel-dashboard/) to segment and track the behavior of my customer. I currently run a coffee shop, and a few make orders via my e-commerce website.
 >
 > What kind of information should I collect from my customers? What key performance indicators should I measure? Which tool and type of visualization should I use? Also, what kind of cohort analysis, and what will you recommend I incorporate for my user segmentation?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Fixing Bugs and Troubleshooting
 
@@ -73,7 +73,7 @@ CALCULATE(
  ChatGPT proves helpful when attempting to understand a long or complex piece of code. To comprehend the code in these situations, copy and paste the code you're attempting to understand and request a response by saying, "Explain this code."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. To Write, Edit and Generate Codes, Formula, and Syntax
@@ -101,10 +101,6 @@ else:
        print(items2)`
 
 ![A prompt that display clearly written code by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image4-v1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Learning New Skills
 
@@ -263,7 +259,11 @@ ORDER BY e.employee_id;`
 ![A prompt reply from ChatGPT that show a fully commented SQL code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image2-v1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Data Analysts Can Use ChatGPT in Their Work
@@ -291,22 +291,20 @@ ORDER BY e.employee_id;`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-elevate-your-shots-the-ultimate-hdr-cameras-list/"><u>[New] Elevate Your Shots The Ultimate HDR Cameras List</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-snap-the-truth-your-manual-to-authenticity-on-instagram/"><u>[New] Snap the Truth Your Manual to Authenticity on Instagram</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-creative-constructs-top-6-minimalist-mini-mansions/"><u>[Updated] 2024 Approved Creative Constructs Top 6 Minimalist Mini-Mansions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-accounts-a-cybercriminals-playground/"><u>ChatGPT Accounts: A Cybercriminal's Playground?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-unveiled-six-techniques-for-novelists/"><u>ChatGPT Unveiled: Six Techniques for Novelists</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-conversion-transforming-ogv-files-into-mpeg-format-with-ease/"><u>Free Online Conversion: Transforming OGV Files Into MPEG Format with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interpreting-chatgpts-inbuilt-extensions/"><u>Interpreting ChatGPT's Inbuilt Extensions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/investigating-truthgpts-tokens-validity/"><u>Investigating TruthGPT's Tokens Validity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/legal-standoff-artists-challenge-tech-giants-over-ais-reach/"><u>Legal Standoff: Artists Challenge Tech Giants Over AI's Reach</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/open-the-doors-to-gpt-4-no-currency-required/"><u>Open the Doors to GPT-4, No Currency Required</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-itel-p40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Itel P40? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-nokia-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Nokia on Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/season-8-on-fortnite-explored-investigating-causes-behind-fps-dips-and-optimization-strategies/"><u>Season 8 on Fortnite Explored: Investigating Causes Behind FPS Dips and Optimization Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/speak-and-listen-androids-guide-to-chatgpt-voicecontrol/"><u>Speak and Listen: Android’s Guide to ChatGPT VoiceControl</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamline-your-use-of-gpt-3-with-practical-plugins/"><u>Streamline Your Use of GPT-3 With Practical Plugins</u></a></li>
-<li><a href="https://article-posts.techidaily.com/transforming-your-iphone-footage-into-vr/"><u>Transforming Your iPhone Footage Into VR</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721955708309-turn-by-turn-navigation/"><u>Turn-by-Turn Navigation</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-20-country-beats-on-tiktok-to-dance-and-unwind/"><u>[New] 20 Country Beats on TikTok to Dance & Unwind</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-sites-unveiled-acquiring-personalized-ringtone-files-from-youtube/"><u>[New] Leading Sites Unveiled Acquiring Personalized Ringtone Files From Youtube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-master-the-art-of-adding-snapchat-to-your-mac-os/"><u>[Updated] Master the Art of Adding Snapchat to Your Mac OS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/become-a-spotify-ad-expert-in-no-time/"><u>Become a Spotify Ad Expert in No Time</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-apples-latest-innovations-mac-mini-and-mac-studio-does-the-m2-chip-outperform-the-m1-insights-from-zdnet/"><u>Comparing Apple's Latest Innovations: Mac Mini and Mac Studio - Does the M2 Chip Outperform the M1? Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/correcting-windows-peak-chatgpt-error/"><u>Correcting Windows' Peak ChatGPT Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-depths-of-poetry-with-chatgpt-guidance/"><u>Exploring the Depths of Poetry with ChatGPT Guidance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-android-photoshoppers-for-2024/"><u>High-Quality Android Photoshoppers for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-to-unlocking-costless-image-streams/"><u>In 2024, Secrets to Unlocking Costless Image Streams</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/installation-made-easy-running-gpt-on-windows/"><u>Installation Made Easy: Running GPT on Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/streamer-audience-metrics-for-2024/"><u>Live Streamer Audience Metrics for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-potential-the-top-5-school-applications-of-ai-language-models/"><u>Maximizing Potential: The Top 5 School Applications of AI Language Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-reason-to-use-a-vpn-for-enhanced-security-on-vision-pro-and-other-mixed-reality-headsets-expert-tips/"><u>The Ultimate Reason to Use a VPN for Enhanced Security on Vision Pro & Other Mixed Reality Headsets | Expert Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/topmost-bargains-at-best-buy-in-june-2024-exclusive-finds-from-zdnet/"><u>Topmost Bargains at Best Buy in June 2024: Exclusive Finds From ZDNet</u></a></li>
 </ul></div>
 

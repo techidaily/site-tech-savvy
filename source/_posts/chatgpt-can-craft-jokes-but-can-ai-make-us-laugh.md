@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Can Craft Jokes, But Can AI Make Us Laugh?
-date: 2024-12-09T18:27:46.587Z
-updated: 2024-12-12T17:28:18.462Z
+date: 2024-12-19T05:59:23.881Z
+updated: 2024-12-22T02:49:34.660Z
 tags:
   - chatgpt
   - open-ai
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
 ![Screenshot of AI Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-ai-joke.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Laughter is all about fun. So, let's have a little fun as we go. At the end of each section, we will list two jokes. One will be our corny attempt at humor, and the other will be an AI-generated joke. But will you be able to tell the difference?
 
  At the end of the article, all will be revealed.
@@ -51,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 * **Joke One:** A snake walks into a bar – The barman says to it, "how did you do that?"
 * **Joke Two:** A man walks into a bar with a piece of asphalt under his arm. He says to the bartender, "I'll take a beer and one for the road."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Can ChatGPT Do?
 
 ![Screenshot of ChatGPT Knock Knock Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-knock-knock-joke.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is an evolving technology that has limitations. It is unlikely to replace stand-up comedians anytime soon. But is it a useful tool for comedy? Let's discuss some of the ways that AI can be used in comedy.
@@ -70,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 * **Joke Three:** Knock, knock! _Who's there?_ May fourth. _May fourth who?_ May the fourth be with you.
 * **Joke Four:** Knock Knock! _Who's there?_ Boo. _Boo who_? Don't cry, it's just a computer program making jokes!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Can't ChatGPT Do?
 
 ![Screenshot ChatGPT Joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-chatgpt-joke.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When it comes to comedy and laughter, there is still plenty that AI can't do. For instance, human nature means that we often laugh at things that shouldn't be funny. A browse through "fail videos" on YouTube illustrates this point perfectly.
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 ![Screenshot AI Joke about the future of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-ai-joke-about-the-future-of-ai.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are moral and ethical implications to consider here. However, these fall outside the scope of the question that this article poses: Can AI make us laugh?
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 * **Joke Eight:** Why did the computer go to the doctor? Because it had a virus!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Last Laugh
@@ -141,24 +141,20 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-chortle-chamber-free-funny-template-vaults/"><u>[Updated] Chortle Chamber Free Funny Template Vaults</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-quieting-audible-outputs-a-windowsmac-guide/"><u>[Updated] In 2024, Quieting Audible Outputs A Windows/Mac Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-realme-12plus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Realme 12+ 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/are-conversations-with-users-essential-for-chatgpts-adaptation/"><u>Are Conversations with Users Essential for ChatGPT's Adaptation?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-personalization-gpt-for-customized-chatbot/"><u>Artificial Intelligence Personalization: GPT for Customized Chatbot</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-simplification-the-dangers-of-trusting-chatgpt-with-your-documents/"><u>Beyond Simplification: The Dangers of Trusting ChatGPT with Your Documents</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/contrasting-communicative-capabilities-on-snapchat-and-skype/"><u>Contrasting Communicative Capabilities on Snapchat & Skype</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciphering-ai-illusions-separating-fact-from-fabricated-data/"><u>Deciphering AI Illusions: Separating Fact From Fabricated Data</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enhancing-taskbar-with-startup-applications/"><u>Enhancing Taskbar with Startup Applications</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-why-is-god-of-war-continuously-freezing-or-crashing-on-your-pc/"><u>Fix: Why Is 'God of War' Continuously Freezing or Crashing on Your PC?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-does-shap-e-simplify-ml-complexities/"><u>How Does SHAP E Simplify ML Complexities?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-channel-finale-strategy-plus-best-templates-and-makers/"><u>In 2024, The Ultimate Channel Finale Strategy + Best Templates & Makers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-video-sharing-techniques-from-youtube-to-insta/"><u>In 2024, Video Sharing Techniques From YouTube to Insta</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1723005802726-palworld-failed-to-eos-login-error-6-fixes/"><u>Palworld Failed to EOS Login Error – 6 Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ethical-imperative-in-ai-regulation-openais-perspective/"><u>The Ethical Imperative in AI Regulation - OpenAI's Perspective</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-your-tech-experience-mastering-chatgpt-on-a-mac/"><u>Transforming Your Tech Experience: Mastering ChatGPT on a Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/truth-unveiled-no-gpt-windows-client-is-not-malware/"><u>Truth Unveiled: No, GPT-Windows Client Is Not Malware</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-no-fuss-video-snipping-for-w10-users/"><u>[New] No-Fuss Video Snipping for W10 Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-potential-switch-pro-controller-on-steam-for-2024/"><u>[New] Unlocking Potential Switch Pro Controller on Steam for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/1728499815611-seagate/"><u>重新開機後，Seagate外置硬碟無法打開文件？解決之道有四：一步一步指南</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-for-apple-coders-unlock-next-level-programming-with-newly-upgraded-complimentary-ai-features-zdnet/"><u>Exclusive for Apple Coders! Unlock Next-Level Programming with Newly Upgraded, Complimentary AI Features | ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-the-dialogue-the-fact-check-of-nine-key-ai-bot-myths/"><u>Inside the Dialogue: The Fact-Check of Nine Key AI Bot Myths</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mettre-a-niveau-votre-contenu-audio-convertissez-avi-en-flac-sans-frais-facilement-avec-movavi/"><u>Mettre À Niveau Votre Contenu Audio : Convertissez AVI en FLAC Sans Frais, Facilement Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-level-chatbots-is-claude-outdoing-gpt/"><u>Next Level ChatBots: Is Claude Outdoing GPT?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/qualified-macbook-owners-benefit-from-new-apple-settlement-announced-by-zdnet/"><u>Qualified MacBook Owners Benefit From New Apple Settlement Announced by ZDNet</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/range-of-fb-video-width-height-ratios-for-2024/"><u>Range of FB Video Width-Height Ratios for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-resolving-error-code-14-on-iphones/"><u>Step-by-Step Guide: Resolving Error Code 14 on iPhones</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-mac-application-guide-curated-list-by-tech-experts-at-zdnet/"><u>Ultimate Mac Application Guide | Curated List by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-creativity-using-chatgpt-for-presentations/"><u>Unleashing Creativity: Using ChatGPT for Presentations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrade-your-browser-chatgpt-experience-top-7-extension-lists/"><u>Upgrade Your Browser ChatGPT Experience: Top 7 Extension Lists</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zealous-interactions-cryptos-and-chatgpt-synergy/"><u>Zealous Interactions: Cryptos & ChatGPT Synergy</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IPhone Case Review by ZDNet: Why Its Remarkable Battery Life Outshines the Handy Physical Keyboard"
-date: 2024-12-10T22:13:22.039Z
-updated: 2024-12-13T01:40:30.704Z
+date: 2024-12-17T20:06:13.091Z
+updated: 2024-12-21T20:26:09.459Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,22 +123,21 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-time-management-using-timestamps-to-amplify-views-on-youtube/"><u>[New] In 2024, Time Management Using Timestamps to Amplify Views on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-secrets-to-proficient-gaming-recordings/"><u>[New] Secrets to Proficient Gaming Recordings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-viral-top-10-all-about-tiktoks-for-2024/"><u>[New] Twitter's Viral Top 10 All About TikToks for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-win11s-ultimate-screen-recording-kit/"><u>2024 Approved Win11's Ultimate Screen Recording Kit</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-human-vision-ai-fails-to-perceive-content-risks/"><u>Beyond Human Vision, AI Fails to Perceive Content Risks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cybernetic-sleuths-quest-unveil-secrets-in-4-digital-realms/"><u>Cybernetic Sleuths' Quest: Unveil Secrets in 4 Digital Realms</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/experiencing-sluggish-iphone-performance-discover-the-best-solutions-to-enhance-its-speed/"><u>Experiencing Sluggish iPhone Performance? Discover the Best Solutions to Enhance Its Speed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/functionality-exploration-how-shared-chatgpt-works/"><u>Functionality Exploration: How Shared ChatGPT Works</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leading-ai-techniques-for-enhanced-web-exploration/"><u>Leading AI Techniques for Enhanced Web Exploration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-twitter-scam-meta-verified-launches-and-chatgpt-4-explained/"><u>New Twitter Scam, Meta Verified Launches, and ChatGPT-4 Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-an-emerging-career-path/"><u>Prompt Engineering: An Emerging Career Path?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/steps-to-restore-your-utorrent-connection-and-resume-torrent-downloads/"><u>Steps to Restore Your uTorrent Connection and Resume Torrent Downloads</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-3-effective-ways-to-securely-backup-your-android-device/"><u>Top 3 Effective Ways to Securely Backup Your Android Device</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-5-ios-emulators-that-bring-your-favorite-psp-worlds-to-life/"><u>Top 5 iOS Emulators That Bring Your Favorite PSP Worlds to Life</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-popularity-in-the-era-of-digital-companions/"><u>Understanding Popularity in the Era of Digital Companions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-in-store-chatgpt-premium-examined/"><u>What's in Store? ChatGPT Premium Examined</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/windows-10-handwriting-recognition-setup-step-by-step-instructions-by-yl-software-experts/"><u>Windows 10 Handwriting Recognition Setup: Step-by-Step Instructions by YL Software Experts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716069632989-new-2024-approved-onboard-recorder-use-in-huawei-mate-and-p-series-mate-10-mate-20-p20-p10/"><u>[New] 2024 Approved Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10).</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-the-simplicity-accessing-highly-engaged-youtube-reactions/"><u>[New] In 2024, Unveiling the Simplicity Accessing Highly Engaged YouTube Reactions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-samsung-bd-j5900-review/"><u>[New] Samsung BD-J5900 Review</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-itunes-guide-mastering-recordings-for-2024/"><u>[New] The Ultimate iTunes Guide Mastering Recordings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-achieve-success-in-twitch-top-5-livestream-strategies/"><u>[Updated] Achieve Success in Twitch Top 5 Livestream Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-impact-on-the-landscape-of-creative-industries/"><u>AI's Impact on the Landscape of Creative Industries</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/directing-your-viewing-path-with-ai-helpers/"><u>Directing Your Viewing Path with AI Helpers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excels-formulaic-finesse-outshines-ai-conversation-capabilities/"><u>Excel’s Formulaic Finesse Outshines AI Conversation Capabilities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-with-a-non-responsive-alienware-command-center/"><u>Fixing Issues with a Non-Responsive Alienware Command Center</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-gt-10-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimal-diets-with-chatgpt-guidance/"><u>Optimal Diets with ChatGPT Guidance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/post-prime-day-deals-linger-on-unpacking-the-enduring-80-off-sale-for-gen-2-apple-watch-se-analysis/"><u>Post-Prime Day Deals Linger On: Unpacking the Enduring $80 Off Sale for Gen 2 Apple Watch SE Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/prevent-social-discomfort-block-options/"><u>Prevent Social Discomfort Block Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-battery-solutions-for-your-iphone-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Battery Solutions for Your iPhone - Comprehensive Reviews by Tech Gurus | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unmatched-vs-code-plugins-for-improved-chatgpt-experience/"><u>Unmatched VS Code Plugins for Improved ChatGPT Experience</u></a></li>
 </ul></div>
 

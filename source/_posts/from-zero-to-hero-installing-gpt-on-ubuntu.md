@@ -1,7 +1,7 @@
 ---
 title: "From Zero to Hero: Installing GPT on Ubuntu"
-date: 2024-12-10T19:08:20.661Z
-updated: 2024-12-12T21:01:47.460Z
+date: 2024-12-16T22:14:21.587Z
+updated: 2024-12-21T21:46:18.245Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prerequisites to Install Auto-GPT
 
@@ -79,6 +75,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Creating OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-get-api-key.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once copied, paste the key inside the **.env** file. The env file will store all the API keys that you use with Auto-GPT. If you don't need a backend vector database like Pinecone, your OpenAI API key should be enough to use Auto-GPT.
 
  To set your API key, open the **.env** file using nano:
@@ -95,6 +95,10 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 `sudo mv .env.template .env`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2: Install Auto-GPT Dependencies on Ubuntu
 
  Auto-GPT uses a lot of Python libraries. You will need to install all the packages using pip and the **requirements.txt** text file that comes with the AutoGPT source code.
@@ -105,16 +109,24 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 ![Install Auto-GPT requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-install-requirements.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, try running Auto-GPT using:
 
 `python3 -m autogpt`
 
 ![Successful Auto-GPT installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-success.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Congratulations! You have successfully installed and set up Auto-GPT on your Ubuntu machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Auto-GPT on Ubuntu
@@ -122,10 +134,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  With Auto-GPT installed, you can now make your own AI assistant. There are two modes when it comes to using Auto-GPT. In the default mode, you only need to provide a task. Based on the specified task, Auto-GPT will automatically generate your AI assistant's name, its role, and its goals.
 
 ![Auto-GPT auto mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-auto.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In manual mode, Auto-GPT will ask you to specify a name, a goal, and up to five goals you want the AI assistant to follow while doing its task. This mode allows you to be in control of how your AI assistant will function.
 
@@ -136,10 +144,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
  In this example, we've named our AI assistant, and given it a role to look for product promos, and a few goals on the quality of the promo.
 
 ![Auto-GPT manual mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-manual.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the name, goals, and role have been provided, your AI assistant will immediately activate and start looping through its thinking and execution process.
 
@@ -160,10 +164,6 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 ![Successful Auto-GPT session](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/success-1.jpg)
 
  Success! Our AI assistant gave us a list of active promo codes for the mouse we were looking for.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Limitations of Auto-GPT
 
@@ -198,17 +198,20 @@ sudo git clone https://github.com/Significant-Gravitas/Auto-GPT.git`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-essential-youtube-strategies-compiling-10-basic-yet-engaging-ideas-for-everyone-for-2024/"><u>[Updated] Essential YouTube Strategies Compiling 10 Basic Yet Engaging Ideas for Everyone for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-innovation-duels-googles-gemini-vs-openais-chatgpt/"><u>AI Innovation Duels: Google's Gemini Vs. OpenAI’s ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/defining-intelligence-will-ai-beat-human-judges/"><u>Defining Intelligence: Will AI Beat Human Judges?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ecoflow-river-n3-review-top-pick-for-beginners-in-portable-power-solutions-on-zdnet/"><u>EcoFlow River N3 Review - Top Pick for Beginners in Portable Power Solutions on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-the-separate-worlds-of-nlp-ml/"><u>Exploring the Separate Worlds of NLP, ML</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-maintaining-your-android-device-clearing-the-system-cache/"><u>Guide to Maintaining Your Android Device: Clearing the System Cache</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-seamlessly-update-your-pc-with-these-strategies-against-error-0x800f0922-in-windows-11/"><u>How to Seamlessly Update Your PC with These Strategies Against Error 0X800F0922 in Windows 11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-f15-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy F15 5G Phone Network-Ready</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722029717716-not-a-substitute-for-professional-medical-guidance-ai/"><u>Not a Substitute for Professional Medical Guidance, AI</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-srt-discover-the-top-8-subs-to-srts-software-for-every-os-for-2024/"><u>Seamless SRT Discover the Top 8 Subs to SRTS Software for Every OS for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-intrinsic-intelligence-implementations-in-hardware/"><u>Unraveling Intrinsic Intelligence Implementations in Hardware</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-cgps-accuracy-in-medical-dialogues/"><u>Unveiling CGP's Accuracy in Medical Dialogues</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-essential-info-on-instagrams-video-time-frame-rules/"><u>[New] In 2024, Essential Info on Instagram's Video Time Frame Rules</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-8-best-video-conferencing-software-for-small-business-safe-and-stable-for-2024/"><u>[Updated] 8 Best Video Conferencing Software for Small Business (Safe and Stable) for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipating-cyber-risks-apples-enhanced-protections-for-imessage-as-featured-by-zdnet/"><u>Anticipating Cyber Risks: Apple's Enhanced Protections for iMessage as Featured by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-smart-speaker-showdown-is-it-worth-upgrading-to-a-homepod-from-the-classic-or-opting-for-the-budget-friendly-homepod-mini-deciding-factors-you-need-t135/"><u>Apple's Smart Speaker Showdown: Is It Worth Upgrading to a HomePod From the Classic or Opting for the Budget-Friendly HomePod Mini? Deciding Factors You Need to Know!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-languages-differences-in-computing/"><u>Deciphering the Languages' Differences in Computing</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guida-passo-passo-per-creare-un-backup-di-windows-server-2022-su-disco-fisso-nouveau/"><u>Guida Passo-Passo per Creare Un Backup Di Windows Server 2022 Su Disco Fisso Nouveau</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capture-your-world-audio-on-windows-10/"><u>In 2024, Capture Your World Audio on Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-poco-x6-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Poco X6</u></a></li>
+<li><a href="https://facebook.techidaily.com/joining-the-expats-on-fb-here-are-your-guiding-insights/"><u>Joining the Expats on FB? Here Are Your Guiding Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-the-strengths-what-usechatgpts-co-pilot-offers/"><u>Leveraging the Strengths: What UseChatGPT's Co-Pilot Offers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/occupational-shifts-in-an-age-of-ai-innovation/"><u>Occupational Shifts in an Age of AI Innovation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-academic-research-with-ai-tools/"><u>Revolutionizing Academic Research with AI Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-role-of-chatgpt-plus-in-mastering-foreign-tongues/"><u>The Role of ChatGPT Plus in Mastering Foreign Tongues</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-13-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-latest-airtag-peripherals-featured-picks-tested-and-analyzed/"><u>Ultimate Guide to the Latest AirTag Peripherals: Featured Picks , Tested and Analyzed</u></a></li>
 </ul></div>
 

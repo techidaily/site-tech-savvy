@@ -1,7 +1,7 @@
 ---
 title: "Navigating AI Tools for Independent Work: Bing Chat Versus GPT-3 Analysis"
-date: 2024-12-07T01:57:55.857Z
-updated: 2024-12-12T19:44:52.945Z
+date: 2024-12-16T21:28:34.550Z
+updated: 2024-12-21T18:17:34.039Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 
  For easier fact-checking, use Bing Chat. Unlike ChatGPT, it lists down all its sources whenever it references claims, statistics, and trivia.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. ChatGPT Is Available on Google Chrome
 
  You must set Microsoft Edge as your primary browser to use Bing Chat efficiently. It’s not accessible elsewhere. If you try hitting the Chat button on Bing, you’ll get a prompt asking you to install Edge.
@@ -58,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 
 ![ChatGPT Can't Provide Weather Update Because It's Not Connected to the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-can-t-answer-weather-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Meanwhile, Bing Chat has access to real-time sources. The below image shows its capacity to produce comprehensive weather updates based on your location.
 
 ![Bing Chat Providing a Weather Update from the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-answer-weather-question.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Bing Chat Offers GPT-4 for Free
 
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 
 ![Using the Bing Chatbot on Skype](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-skype.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  Freelancers can install Bing Chat on all their work devices. Bing makes up for its unavailability on Google Chrome with cross-platform accessibility. It runs on:
@@ -91,7 +91,7 @@ Close
 * **Skype:** Bing is available on Skype. Either message Bing privately or add the chatbot to your group chats. This feature is helpful if you often talk to your clients and coworkers on Skype.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT Has Less Rigid Restrictions
@@ -102,17 +102,9 @@ Close
 
 ![ChatGPT Refuses to Roleplay as Tomie the Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-rejects-roleplay-request-as-tomie.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  But it obliged after we rephrased our prompt.
 
 ![ChatGPT Roleplaying as Tomie from the Manga Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepting-roleplay-request.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Meanwhile, Bing Chat ignored our requests outright, regardless of our phrasing.
 
@@ -123,7 +115,7 @@ Close
  Just note that some jailbreak prompts might stop working. OpenAI routinely updates its guidelines to prevent crooks from exploiting ChatGPT’s vulnerabilities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Bing Chat Mimics Human-Like Text Better
@@ -142,12 +134,20 @@ Close
 ![ChatGPT Writing a Cover Letter for a Content Writer Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-cover-letter-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Meanwhile, Bing Chat’s phrases flow smoothly.
 
 ![Bing Chat Writing Cover Letter for Content Writer Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-writing-cover-letter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. OpenAI Offers Several AI Tools
 
@@ -180,16 +180,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-deep-dive-into-periscope-its-free-how-to-register/"><u>[New] In 2024, Deep Dive Into Periscope It's Free? How To Register</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfect-sharpness-control-on-photos-with-pcmobile/"><u>[Updated] Perfect Sharpness Control on Photos with PC/Mobile</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-bargains-comparing-cloud-storage-prices-for-2024/"><u>Best Bargains Comparing Cloud Storage Prices for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-the-art-of-poetry-with-chatgpt-expertise/"><u>Enhancing the Art of Poetry with ChatGPT Expertise</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-one-on-one-to-global-how-does-gemini-challenge-chatgpt/"><u>From One-on-One to Global: How Does Gemini Challenge ChatGPT?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-does-atandt-handle-international-data-roaming-an-explainer/"><u>How Does AT&T Handle International Data Roaming? An Explainer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capturing-online-clarity-a-zoomers-guide/"><u>In 2024, Capturing Online Clarity A Zoomer's Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/proactive-tips-to-utilize-chatgpt-plugins-effectively/"><u>Proactive Tips to Utilize ChatGPT Plugins Effectively</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/redefining-clinical-practice-with-chatgpt-technology/"><u>Redefining Clinical Practice with ChatGPT Technology</u></a></li>
-<li><a href="https://win-best.techidaily.com/titre-sauvegarde-et-configuration-des-postes-de-bureau-microsoft-windows-pour-un-travail-efficient/"><u>Titre: Sauvegarde Et Configuration Des Postes De Bureau Microsoft Windows Pour Un Travail Efficient</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleashing-potential-ai-driven-website-evolution/"><u>Unleashing Potential: AI-Driven Website Evolution</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ssential-pc-editing-skills-for-compelling-youtube-videos/"><u>[New] Essential PC Editing Skills for Compelling YouTube Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-10-accessory-hits-for-sj-series-drivers/"><u>[New] In 2024, Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fix-facebook-snap-glitches-stories-upload-woes/"><u>[Updated] Fix Facebook Snap Glitches Stories Upload Woes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-designing-dynamic-podcast-preambles/"><u>[Updated] In 2024, Designing Dynamic Podcast Preambles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-recording-webinars-on-a-budget-friendly-platform/"><u>2024 Approved Recording Webinars on a Budget-Friendly Platform</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sdr-to-hdri-step-by-step-video-enhancement-guide/"><u>2024 Approved SDR to HDRI Step-by-Step Video Enhancement Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-the-perils-of-online-counseling-by-non-humans/"><u>Beware the Perils of Online Counseling by Non-Humans</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27s-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y27s Bootloader Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/localized-learning-mechanics-understanding-device-level-ai/"><u>Localized Learning Mechanics: Understanding Device-Level AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/notion-ai-vs-chatgpt-which-is-the-best-generative-ai-tool/"><u>Notion AI Vs. ChatGPT: Which Is the Best Generative AI Tool?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-synergy-mac-and-openais-chatgpt-partnership/"><u>Seamless Synergy: Mac and OpenAI's ChatGPT Partnership</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-coding-tasks-by-adding-codegpt-to-vs-code/"><u>Simplify Coding Tasks by Adding CodeGPT to VS Code</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-vivo-y100-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Y100 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-tech-giants-showdown-comparing-apple-and-dells-latest-innovations-insights-from-zdnet/"><u>Top-Ranked Tech Giants Showdown: Comparing Apple & Dell's Latest Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-airpods-release-key-dates-and-pre-order-locations-revealed/"><u>Upcoming AirPods Release: Key Dates & Pre-Order Locations Revealed</u></a></li>
 </ul></div>
 

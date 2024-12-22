@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS Monterey: Setting Up Your Own Concentration Zone - Tips & Tricks"
-date: 2024-12-05T21:14:24.671Z
-updated: 2024-12-13T00:23:42.871Z
+date: 2024-12-14T21:58:09.252Z
+updated: 2024-12-21T17:01:36.809Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -39,10 +43,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unleash-call-record-potential-essential-free-and-paid-tactics-for-skype-on-computers/"><u>[New] 2024 Approved Unleash Call Record Potential - Essential Free & Paid Tactics for Skype on Computers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-enhancing-facebook-nostalgia-video-tweaks-for-2024/"><u>[New] Enhancing Facebook Nostalgia Video Tweaks for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-budding-filmmakers-check-out-these-gopro-upgrades-for-2024/"><u>[Updated] Budding Filmmakers, Check Out These GoPro Upgrades for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-100-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-curiosity-and-security-with-chatgpt-for-children/"><u>Balancing Curiosity and Security with ChatGPT for Children</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-stress-with-5-chatbot-tech-solutions/"><u>Breaking Down Stress with 5 Chatbot Tech Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-the-art-of-story-crafting/"><u>ChatGPT and the Art of Story Crafting</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/conversational-cognition-compared-gpt-and-bings-bot-battle/"><u>Conversational Cognition Compared: GPT & Bing's Bot Battle</u></a></li>
-<li><a href="https://video-capture.techidaily.com/discover-the-top-10-cost-free-video-conferencing-apps-for-businesses-and-schools/"><u>Discover the Top 10 Cost-Free Video Conferencing Apps for Businesses & Schools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diy-revolution-prepped-for-the-ai-leap/"><u>DIY Revolution Prepped for the AI Leap</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-education-with-ai-the-top-5-ways-to-use-chatgpt-in-schools/"><u>Empowering Education with AI: The Top 5 Ways to Use ChatGPT in Schools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/join-openais-quest-track-and-report-software-glitches/"><u>Join OpenAI's Quest: Track and Report Software Glitches!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-routine-discovering-9-gpt-life-enhancements/"><u>Revolutionize Routine: Discovering 9 GPT Life Enhancements</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tracing-the-future-beyond-turings-legacy/"><u>Tracing the Future: Beyond Turing's Legacy</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/universal-data-rescue-application-efficient-solution-for-retrieving-lost-or-corrupted-information-across-various-formats/"><u>Universal Data Rescue Application: Efficient Solution for Retrieving Lost or Corrupted Information Across Various Formats</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unlocking-the-secrets-of-elgoog-a-thorough-review-of-the-official-google-mirror-site/"><u>Unlocking the Secrets of elgooG – A Thorough Review of the Official Google Mirror Site</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1728507464266-windows-111087ssd/"><u>Windows 11/10/8/7対応上位ブルーSSD移行ツール</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-how-to-curate-christian-chimes-for-devotion/"><u>[New] In 2024, How to Curate Christian Chimes for Devotion</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamline-your-slides-with-these-4-youtube-video-inclusion-methods-for-2024/"><u>[New] Streamline Your Slides with These 4 YouTube Video Inclusion Methods for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-skys-the-limit-with-husqvarnas-x4-drone/"><u>2024 Approved The Sky's the Limit with Husqvarna's X4 Drone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/57ay6lev5lik5lia6yed6kal6kga55qe6lo86lk35yplusk5pu05paw5yplusn5oej44cb5b6p5y6f6iih6ksh6ko96luf5lu2/"><u>網路上一針見血的購買及更新反應、復原與複製軟件</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/column-length/"><u>Column Length:</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-ai-dominance-gemini-extreme-vs-gptplusplus/"><u>Decoding AI Dominance: Gemini Extreme Vs. GPT++</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diy-imessage-emoji-creation-with-your-photos-unveiled/"><u>DIY iMessage Emoji Creation with Your Photos Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-refreshing-the-software-of-your-samsung-televisions/"><u>Easy Fixes: Refreshing the Software of Your Samsung Televisions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elite-collection-of-ipad-air-shields-for-202n-thoroughly-vetted-by-experts-at-zdnet/"><u>Elite Collection of iPad Air Shields for 202N - Thoroughly Vetted by Experts at ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-3-vs-translate-best-at-language-conversion/"><u>GPT-3 Vs. Translate: Best at Language Conversion?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/labor-day-exclusive-score-a-great-bargain-on-apple-airtag-4-packs-with-24-off-only-available-at-walmart-tech-news/"><u>Labor Day Exclusive: Score a Great Bargain on Apple AirTag 4-Packs with 24% Off, Only Available at Walmart | Tech News</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-gen-computing-solutions-how-lenovos-new-thinkpad-series-with-advanced-ai-features-is-redefining-work-laptops-expert-analysis/"><u>Next-Gen Computing Solutions: How Lenovo's New ThinkPad Series with Advanced AI Features Is Redefining Work Laptops | Expert Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/next-gen-dialogue-masters-whos-the-future-top-chatbot/"><u>Next-Gen Dialogue Masters: Who's the Future Top Chatbot?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/propel-website-development-forward-with-four-gpt-techniques/"><u>Propel Website Development Forward with Four GPT Techniques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-asus-rog-phone-8-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Asus ROG Phone 8 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-x-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone X Prevention & Solution</u></a></li>
 </ul></div>
 

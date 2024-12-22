@@ -1,7 +1,7 @@
 ---
 title: "Mastering Craft: The Ultimate Guide to Mac-Based Document Automation"
-date: 2024-12-10T22:26:15.315Z
-updated: 2024-12-12T19:56:02.297Z
+date: 2024-12-19T19:54:14.723Z
+updated: 2024-12-21T18:17:45.697Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,18 +129,17 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-digital-frontier-leaders-the-quintessential-cloud-picks-for-your-needs-for-2024/"><u>[New] Digital Frontier Leaders The Quintessential Cloud Picks for Your Needs for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-discover-poi-delights-in-instant-from-coffee-shops-to-concert-venues/"><u>[New] In 2024, Discover POI Delights in Instant, From Coffee Shops to Concert Venues</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-quick-tips-screen-capture-on-ipad-pro/"><u>[New] In 2024, Quick Tips Screen Capture on iPad Pro</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-revolutionize-your-video-presence-with-personalized-shorts-thumbnails/"><u>[Updated] Revolutionize Your Video Presence with Personalized Shorts Thumbnails</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-essential-adb-tools-with-minimal-fuss/"><u>Get Essential ADB Tools with Minimal Fuss</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/latest-updates-and-recall-alerts-your-weekly-guide-to-iphone-news/"><u>Latest Updates & Recall Alerts: Your Weekly Guide to iPhone News</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/logitechs-pebble-2-set-the-ideal-apple-elegance-in-keyboard-and-mouse-combo/"><u>Logitech's Pebble 2 Set: The Ideal Apple Elegance in Keyboard & Mouse Combo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/my-journey-away-from-and-return-to-linux-discovering-the-reasons-behind/"><u>My Journey Away From and Return to Linux: Discovering the Reasons Behind</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-transition-from-windows-to-linux-with-ubuntu-and-cinnamon-a-beginners-guide/"><u>Seamless Transition From Windows to Linux with Ubuntu & Cinnamon - A Beginner's Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-the-stubborn-stuck-caplock-problem-in-windows-systems/"><u>Solving the Stubborn Stuck CapLock Problem in Windows Systems</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-recovering-data-from-your-usb-flash-drive/"><u>Step-by-Step Guide: Recovering Data From Your USB Flash Drive</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-oppo-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Oppo</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-superior-performance-the-9-key-advantages-of-choosing-chatgpt-plus/"><u>Unlock Superior Performance: The 9 Key Advantages of Choosing ChatGPT Plus</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-kinemaster-mastery-sculpting-close-up-cinematic-brilliance/"><u>[New] Kinemaster Mastery Sculpting Close-Up Cinematic Brilliance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-perfecting-the-picture-perfect-cover-photo-on-instagrams-highlights/"><u>[Updated] Perfecting the Picture-Perfect Cover Photo on Instagram's Highlights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-complete-checklist-for-youtubes-resolution-width-and-height-settings/"><u>[Updated] The Complete Checklist for YouTube's Resolution, Width & Height Settings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-content-protection-can-you-record-playbacks/"><u>2024 Approved YouTube Content Protection Can You Record Playbacks?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-challenges-top-browser-with-intriguing-marketing-move-discover-how-zdnet/"><u>Apple Challenges Top Browser with Intriguing Marketing Move: Discover How [ZDNet]</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-the-keys-discovering-the-top-features-of-an-exceptional-iphone-case-zdnet/"><u>Beyond the Keys: Discovering the Top Features of an Exceptional iPhone Case | ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-xs-max-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone XS Max Without Previous Owner?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-device-transformation-amidst-artificial-intelligence-advancements-insights/"><u>Navigating Device Transformation Amidst Artificial Intelligence Advancements - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/post-prime-day-bargain-grab-the-new-apple-10th-generation-ipad-for-only-299-tech-insights/"><u>Post-Prime Day Bargain: Grab the New Apple 10Th Generation iPad For Only $299! | Tech Insights</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revolutionizing-charging-apple-integrates-usb-type-c-into-in-ear-headphones/"><u>Revolutionizing Charging: Apple Integrates USB Type-C Into In-Ear Headphones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-guide-to-the-netgear-orbi-why-its-the-leading-mesh-system-on-the-market/"><u>Ultimate Guide to the Netgear Orbi - Why It's the Leading Mesh System on the Market</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-key-strategies-for-a-successful-turnaround-of-apples-vision-pro-a-breakdown-by-zdnet-analysts/"><u>Unveiling Key Strategies for a Successful Turnaround of Apple's Vision Pro: A Breakdown by ZDNET Analysts</u></a></li>
 </ul></div>
 

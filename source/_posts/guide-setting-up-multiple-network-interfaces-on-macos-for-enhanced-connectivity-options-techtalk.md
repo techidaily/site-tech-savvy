@@ -1,7 +1,7 @@
 ---
 title: "Guide: Setting Up Multiple Network Interfaces on macOS for Enhanced Connectivity Options | TechTalk"
-date: 2024-12-05T16:50:05.364Z
-updated: 2024-12-12T22:06:11.832Z
+date: 2024-12-18T06:08:36.078Z
+updated: 2024-12-22T06:43:26.536Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ I connect to a lot of different networks. At home, I have three different LANs t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -41,14 +41,10 @@ Let me show you how it works.
 **Also:** [**How to manage SSH connections on MacOS with Termius**](https://www.zdnet.com/article/how-to-manage-ssh-connections-on-macos-with-termius/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to create different network locations in MacOS
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Requirements
 
@@ -58,16 +54,12 @@ The only thing you'll need is a device running an updated version of MacOS. This
 
 Click the Apple menu at the top right of your display and select System Preferences from the menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Open Network
 
 From within System Preferences, click the Network icon to open the Network section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Create a new network location
@@ -78,6 +70,10 @@ Creating a new Network Location in MacOS Monterey.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Configure the new location
 
 Make sure to select the new location you created from the Location drop-down. Click Advanced to open the location configuration window, where you can configure the location to meet your specific needs. For example, you can select the network to be used and then configure that network for a static IP address using the Cloudflare DNS servers.
@@ -87,6 +83,10 @@ Configuring a network for the new location in MacOS.
 Image: Jack Wallen
 
 Once you've configured the location exactly how you need it, click Apply to save everything.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Switching to a different Network Location
 
@@ -131,18 +131,19 @@ Fortunately, you are now empowered to more easily make that switch.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-streaming-hd-1080p-on-facebook-tips-and-tricks/"><u>[New] 2024 Approved Streaming HD 1080P on Facebook Tips and Tricks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-safely-obtain-vlc-player-at-no-charge-on-macos/"><u>[Updated] How to Safely Obtain VLC Player at No Charge on MacOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bridging-human-and-machine-for-exceptional-job-applications/"><u>Bridging Human and Machine for Exceptional Job Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/creative-ais-face-off-on-equal-ground-prompt/"><u>Creative AIs Face Off on Equal Ground Prompt</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-brand-with-these-10-keywords-on-facebook-for-2024/"><u>Elevate Your Brand with These 10 Keywords on Facebook for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-getting-your-logitech-g-pro-x-mic-up-and-running-smoothly/"><u>Expert Advice: Getting Your Logitech G PRO X Mic Up and Running Smoothly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-a-frozen-chromebook-effective-methods-you-should-try/"><u>Fixing a Frozen Chromebook: Effective Methods You Should Try</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/high-speed-connectivity-on-a-budget-with-the-tp-link-archer-a6-a-comprehensive-analysis/"><u>High-Speed Connectivity on a Budget with the TP-Link Archer A6 - A Comprehensive Analysis</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-poco-m6-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Poco M6 Pro 5G Phone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-generative-language-models-in-training/"><u>Leveraging Generative Language Models in Training</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-pc-chatter-with-nvidias-rtx-assistant/"><u>Streamlining PC Chatter with Nvidia's RTX Assistant</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/trustworthiness-of-chatgpt-fact-or-fiction/"><u>Trustworthiness of ChatGPT: Fact or Fiction?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/ultimate-action-cams-face-off-black-and-star/"><u>Ultimate Action Cams Face-Off Black & Star</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-your-sound-story-utilizing-auditions-fade-in/"><u>[New] Crafting Your Sound Story Utilizing Audition's Fade In</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unlock-superior-mac-gif-capture-with-these-apps-for-2024/"><u>[New] Unlock Superior Mac GIF Capture with These Apps for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-a-beginners-journey-into-gameplay-capturing-with-obs/"><u>[Updated] 2024 Approved A Beginner's Journey Into Gameplay Capturing with OBS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-watching-to-archiving-a-comprehensive-screencast-of-streamed-video-for-2024/"><u>[Updated] From Watching to Archiving A Comprehensive Screencast of Streamed Video for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ideal-matches-free-and-paid-ultra-hd-playback-tools-for-windows-macos/"><u>[Updated] Ideal Matches Free & Paid Ultra HD Playback Tools for Windows, macOS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-optimized-vimeo-video-exporting-apps-for-2024/"><u>[Updated] Optimized Vimeo Video Exporting Apps for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-most-popular-apple-watches-comprehensive-expert-analysis-and-ratings/"><u>2024'S Most Popular Apple Watches: Comprehensive Expert Analysis and Ratings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-distinctions-of-apples-airpods-series-4-new-features-compared/"><u>Exploring the Distinctions of Apple's AirPods Series 4 – New Features Compared</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-prose-strategies-with-ai-writing-assistant/"><u>Innovative Prose Strategies with AI Writing Assistant</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-for-minecrafts-opengl-errors-essential-techniques/"><u>Mastering the Fix for Minecraft's OpenGL Errors: Essential Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-realme-gt-3-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme GT 3 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-employee-interactions-with-gpt-powered-writing/"><u>Revolutionizing Employee Interactions with GPT-Powered Writing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-icloud-note-integration-for-linux-users-tips-and-tricks/"><u>Seamless iCloud Note Integration for Linux Users – Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-new-frontier-of-search-intelligent-bing-platform/"><u>The New Frontier of Search: Intelligent Bing Platform</u></a></li>
 </ul></div>
 

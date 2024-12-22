@@ -1,7 +1,7 @@
 ---
 title: Qualified MacBook Owners Benefit From New Apple Settlement Announced by ZDNet
-date: 2024-12-07T16:33:42.381Z
-updated: 2024-12-12T17:50:04.754Z
+date: 2024-12-17T02:35:25.059Z
+updated: 2024-12-21T18:52:37.927Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A crushing upset
@@ -75,7 +75,7 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -95,7 +95,7 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -146,22 +146,17 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionizing-reality-superior-rift-players-evaluation/"><u>2024 Approved Revolutionizing Reality Superior Rift Players Evaluation</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/accent-enhancement-through-challenging-twisters-100/"><u>Accent Enhancement Through Challenging Twisters (100)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chat-ai-seen-the-issues-now-heres-why/"><u>Chat AI: Seen the Issues, Now? Here's Why</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-visionary-exploring-top-visual-computation-techniques/"><u>ChatGPT Visionary: Exploring Top Visual Computation Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fix-faults-in-your-computer-using-chatgpt-assistance/"><u>Fix Faults in Your Computer Using ChatGPT Assistance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/frontier-ai-chipsets-and-processors-the-quintessential-innovations/"><u>Frontier AI Chipsets and Processors: The Quintessential Innovations</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-100-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor 100 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/master-the-art-of-freezing-out-the-backdrop-in-your-design-for-2024/"><u>Master the Art of Freezing Out the Backdrop in Your Design for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/swiftly-improve-directions-with-the-help-of-7-online-applications/"><u>Swiftly Improve Directions with the Help of 7 Online Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergy-of-tech-and-comfort-mercedes-ai-voice-update/"><u>Synergy of Tech & Comfort: Mercedes' AI Voice Update</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/taking-off-in-tutorials-the-beginners-guide-to-fashionable-mac-footage-for-2024/"><u>Taking Off in Tutorials The Beginner’s Guide to Fashionable Mac Footage for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/text-to-tracks-enhancing-audio-design-with-chatgpt/"><u>Text to Tracks: Enhancing Audio Design with ChatGPT</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-showdown-apple-tv-ebox-vs-roku-ultra-a-comprehensive-guide-to-choosing-your-perfect-streamer/"><u>The Showdown: Apple TV Ebox Vs. Roku Ultra - A Comprehensive Guide to Choosing Your Perfect Streamer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-oppo-reno-11f-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo Reno 11F 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-counseling-chatgpts-role-in-cbt/"><u>Transforming Counseling: ChatGPT's Role in CBT</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-v27-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-audio-anomaly-top-disruptive-music-apps-for-iosandroid/"><u>[Updated] Audio Anomaly Top Disruptive Music Apps for iOS/Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-how-to-retain-your-instagram-captures-on-iphone/"><u>2024 Approved How to Retain Your Instagram Captures on iPhone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/big-names-bold-forecasts-what-ai-experts-expect/"><u>Big Names, Bold Forecasts: What AI Experts Expect</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/brilliant-visuals-in-your-space-with-nixplays-advanced-frame/"><u>Brilliant Visuals in Your Space with Nixplay's Advanced Frame</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-easily-convert-dall-e-3-webp-images-to-jpg-or-png/"><u>How to Easily Convert DALL-E 3 WebP Images to JPG or PNG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unmatched-document-enhancements/"><u>In 2024, Unmatched Document Enhancements</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-ipad-top-10-insider-settings-and-shortcuts-every-apple-enthusiast-should-know-gadgetgenius/"><u>Master Your iPad: Top 10 Insider Settings & Shortcuts Every Apple Enthusiast Should Know | GadgetGenius</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-tech-top-strategies-for-apples-ai-dominance-over-competitors-in-the-2024-wwdc-showcase-insights/"><u>Revolutionizing Tech: Top Strategies for Apple's AI Dominance Over Competitors in the 2024 WWDC Showcase - Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/samsung-gear-360-replacements-latest-innovations-in-camera-tech/"><u>Samsung Gear 360 Replacements Latest Innovations in Camera Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-gpt-chat-cryptocurrency-questions/"><u>Top 10 GPT-Chat Cryptocurrency Questions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-fixes-for-icloud-photo-synchronization-failures/"><u>Troubleshooting and Fixes for iCloud Photo Synchronization Failures</u></a></li>
 </ul></div>
 

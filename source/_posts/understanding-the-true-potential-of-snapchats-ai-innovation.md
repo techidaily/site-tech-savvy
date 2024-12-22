@@ -1,7 +1,7 @@
 ---
 title: Understanding the True Potential of Snapchat's AI Innovation
-date: 2024-12-05T18:44:09.440Z
-updated: 2024-12-12T21:10:46.182Z
+date: 2024-12-17T22:03:00.526Z
+updated: 2024-12-21T22:52:28.175Z
 tags:
   - chatgpt
   - open-ai
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/d3785013298563f1830795a92fde8d1efce201ea3
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Snapchat uses the same [large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
@@ -42,11 +42,11 @@ thumbnail: https://thmb.techidaily.com/d3785013298563f1830795a92fde8d1efce201ea3
 
 ![Snapchat My AI Explaining the Details of an Image of an Object](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-recognizing-image-of-object.jpg)
 
-![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
 Close
 
@@ -66,6 +66,10 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. My AI Can Pull Real-Time Information
 
  My AI has some access to real-time data. Although it has trouble answering specific questions about current events, it can quickly pull general information online, such as weather forecasts, news headlines, and local events.
@@ -74,19 +78,11 @@ Close
 
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
 Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Snapchat’s Location Services Are Wholly Utilized
 
@@ -95,6 +91,10 @@ Close
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -108,6 +108,10 @@ Close
 
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
 Close
@@ -115,7 +119,7 @@ Close
  Try rephrasing word problems that My AI answers wrong. You’ll generate better output if you compose clear, detailed prompts—avoid vague phrasing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Snapchat Continuously Updates My AI
@@ -125,10 +129,6 @@ Close
  These incidents shouldn’t have happened in the first place, but in fairness to Snapchat, it quickly resolved My AI’s security issues. The company enforced stricter guidelines shortly after these reports.
 
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try Snapchat’s New AI Assistant
 
@@ -155,24 +155,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/he-art-of-uncommon-youtube-channel-labels-filmmaker-edition/"><u>[New] The Art of Uncommon YouTube Channel Labels Filmmaker Edition</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-how-to-buy-1-million-youtube-views-safely-from-trusted-providers/"><u>[Updated] How to Buy 1 Million YouTube Views Safely From Trusted Providers</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v30-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726221359806-jpeg-png-movavi/"><u>線上無限制地直接從 JPEG改成 PNG - 利用Movavi導遊</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accelerating-innovation-chatgpts-impact-on-3d-manufacturing/"><u>Accelerating Innovation: ChatGPT's Impact on 3D Manufacturing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-defined-essential-language-explained/"><u>Artificial Intelligence Defined: Essential Language Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevating-interactive-communications-mastering-custom-gpt-3-directives-with-finesse/"><u>Elevating Interactive Communications: Mastering Custom GPT-3 Directives with Finesse</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-cv-with-ais-help-from-chatgpt/"><u>Enhancing Your CV with AI's Help From ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ensuring-continuity-of-gpt-powered-dialogues/"><u>Ensuring Continuity of GPT-Powered Dialogues</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/polyglotism-a-path-to-better-brains/"><u>Polyglotism: A Path to Better Brains</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/refrain-from-installing-gpt-on-your-device/"><u>Refrain From Installing GPT on Your Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-fixing-the-cyberpunk-2077-black-screen-issue/"><u>Resolved: Fixing the Cyberpunk 2077 Black Screen Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-prototyping-with-ai-assisted-techniques-and-strategies/"><u>Revolutionize Prototyping with AI-Assisted Techniques & Strategies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seven-pathways-generative-ais-impact-on-labor-markets/"><u>Seven Pathways: Generative AI's Impact on Labor Markets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/step-into-wealthy-creator-land-via-youtube-shorts-revenue-for-2024/"><u>Step Into Wealthy Creator Land via YouTube Shorts Revenue for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-complete-windows-10-hacks-playbook/"><u>The Complete Windows 10 Hacks Playbook</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-checklist-for-smart-tv-purchase/"><u>The Ultimate Checklist for Smart TV Purchase</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-8-expert-recommended-iphone-message-retrieval-applications-including-drfone/"><u>Top 8 Expert-Recommended iPhone Message Retrieval Applications Including Dr.Fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-multilingual-potential-with-advanced-chatgptplus-tech/"><u>Unlock Multilingual Potential with Advanced ChatGPT+ Tech</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-instant-ideas-recording-ppts-with-ease/"><u>[New] In 2024, Instant Ideas Recording PPTs with Ease</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-open-source-tranquility-tracks/"><u>[New] Open Source Tranquility Tracks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-experience-the-thrill-of-kinemaster-and-rank-10-online-alternatives-alike/"><u>[Updated] Experience the Thrill of KineMaster and Rank 10 Online Alternatives Alike</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-android-screencasting-methods-unveiled/"><u>[Updated] In 2024, Android Screencasting Methods Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamline-your-playlist-import-music-into-inshot/"><u>2024 Approved Streamline Your Playlist Import Music Into InShot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/emotional-intelligence-and-ai-the-chatgpt-connection/"><u>Emotional Intelligence & AI: The ChatGPT Connection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-commutes-mercedes-marries-ai-and-voice-control/"><u>Enhancing Commutes: Mercedes Marries AI and Voice Control</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-video-editors-for-newbies-a-beginners-guide/"><u>In 2024, Best Free Video Editors for Newbies A Beginners Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-average-to-amazing-8-tactics-for-exciting-unboxing-reels/"><u>In 2024, From Average to Amazing 8 Tactics for Exciting Unboxing Reels</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/let-the-games-begin-discover-chatgpts-most-innovative-games/"><u>Let the Games Begin! Discover ChatGPT's Most Innovative Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mercedes-conversational-drive-gpt-meets-car-technology/"><u>Mercedes Conversational Drive: GPT Meets Car Technology</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-what-is-hdri-everything-you-need-to-know-about-hdri/"><u>New 2024 Approved What Is HDRI? Everything You Need to Know About HDRI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-professional-productivity-with-gpt-assistance/"><u>Reimagining Professional Productivity with GPT Assistance</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/roku-express-review-immense-entertainment-options-for-just-a-few-dollars-more/"><u>Roku Express Review: Immense Entertainment Options for Just a Few Dollars More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/set-up-an-affordable-windows-ai-version-via-gpt4all/"><u>Set Up an Affordable Windows AI Version via GPT4All</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/snapchats-ai-6-insights-into-its-role-in-modern-tech/"><u>Snapchat's AI: 6 Insights Into Its Role in Modern Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-latest-apple-innovations-from-wwdc-you-can-purchase-now-how-to-preorder-and-top-retailers/"><u>The Latest Apple Innovations From WWDC You Can Purchase Now - How to Preorder and Top Retailers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-launch-problems-with-the-witcher-n3-wild-hunt/"><u>Troubleshooting Launch Problems with The Witcher N3: Wild Hunt</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/visionary-ai-devices-unveiling-the-top-5-pioneering-tech-marvels/"><u>Visionary AI Devices: Unveiling the Top 5 Pioneering Tech Marvels</u></a></li>
 </ul></div>
 

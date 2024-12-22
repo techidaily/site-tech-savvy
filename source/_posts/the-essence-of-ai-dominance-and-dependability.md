@@ -1,7 +1,7 @@
 ---
 title: "The Essence of AI: Dominance & Dependability"
-date: 2024-12-05T21:55:21.828Z
-updated: 2024-12-12T17:24:43.165Z
+date: 2024-12-18T17:03:56.903Z
+updated: 2024-12-21T17:57:54.083Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Weak AI?
 
 ![ChatGPT chat and website open on two monitors](https://thmb.techidaily.com/b865d1fe2bcace495751c454db93866647380420be6c31ae58cdceea73012a33.jpg)
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
  Weak AI, also known as narrow AI, refers to AI applications that are specifically designed to automate tasks requiring a particular cognitive skill. This category of AI utilizes machine learning models tailored for specific tasks such as object recognition, chatbot interactions, personal voice assistants, autocorrect systems, and Google search algorithms, among others.
 
  You might be wondering why this category of AI is referred to as "weak" AI. The term "weak" may mistakenly imply that these AI applications are lacking in some way. However, it is important to recognize that the rapid advancements in AI and their pervasive impact across various industries are largely due to narrow machine intelligence. The label "weak" indicates that these applications focus on a specific or narrow cognitive function.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Applications of Weak AI
 
@@ -72,12 +72,16 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 
  However, despite these limitations, tools like ChatGPT have become effectively indispensable within a short period of public release.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Strong AI or AGI?
 
 ![Image of a white robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/image-of-a-white-robot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In contrast to weak AI exists strong AI, also known as artificial general intelligence (AGI). This form of AI is based on the belief that computational power can emulate human brain capabilities, including analytical thinking and other intellectual abilities. Strong AI aims to create machines capable of performing any intellectual task that a human can do, not necessarily in the same way as humans.
@@ -87,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
  It will be strong AI that will likely lead to the singularity. However, it is important to note that strong AI is still a distant goal, as much of the work in this field remains largely theoretical. The concept of strong AI itself often draws inspiration from science fiction movies and novels.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Applications of Strong AI
@@ -114,16 +118,12 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
  Given the world-changing potential of AGI, extensive regulation must be in place before any such product is released to the public. It's already been [difficult enough regulating generative AI](https://www.makeuseof.com/ways-government-may-regulate-ai-tools/), and AGI will ramp those issues up another notch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Differences Between Strong and Weak AI
 
  There are several notable differences between strong and weak AI in terms of their purpose, learning method, and problem-solving approach. Let's explore these distinctions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Purpose
 
@@ -168,18 +168,22 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-behind-the-scenes-creating-magic-with-magix/"><u>[New] 2024 Approved Behind-the-Scenes Creating Magic with Magix</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-charting-your-path-to-success-in-youtubes-earnings-system-for-2024/"><u>[New] Charting Your Path to Success in YouTube's Earnings System for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-day-after-evaluation-new-approaches/"><u>[Updated] 2024 Approved Day After Evaluation New Approaches</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebooks-guide-to-enhancing-past-recordings-for-live-streaming/"><u>[Updated] In 2024, Facebook's Guide to Enhancing Past Recordings for Live Streaming</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-simplified-guide-to-iphone-display-recordings-for-2024/"><u>[Updated] Simplified Guide to IPhone Display Recordings for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-6-screen-recorder-no-ads-for-android/"><u>2024 Approved Top 6 Screen Recorder No Ads for Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-dialogue-with-siri-assisted-chatgpt/"><u>Enhancing Dialogue with Siri-Assisted ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fake-chatgpt-chrome-extension-steals-facebook-logins/"><u>Fake ChatGPT Chrome Extension Steals Facebook Logins</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723012911369-god-of-war-comes-alive-in-a-new-light-as-an-exciting-action-packed-fps-game-on-pc/"><u>God of War Comes Alive in a New Light as an Exciting Action-Packed FPS Game on PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-reduce-file-size-not-quality-9-best-free-video-compressors-for-windows-10-for-2024/"><u>New Reduce File Size, Not Quality 9 Best Free Video Compressors for Windows 10 for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/reinforcing-your-email-defenses-2fa-on-gmail-outlook-and-more-applications/"><u>Reinforcing Your Email Defenses: 2FA on Gmail, Outlook & More Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-dark-side-of-conversational-bots-unveiling-the-8-critical-shortfalls/"><u>The Dark Side of Conversational Bots: Unveiling the 8 Critical Shortfalls</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transcending-chatgpt-the-future-of-ai-dialogues/"><u>Transcending ChatGPT: The Future of AI Dialogues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssential-guide-to-hashtagging-for-game-focused-yt-channels/"><u>[New] Essential Guide to Hashtagging for Game-Focused YT Channels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterful-podcast-descriptions-strategies-and-case-studies/"><u>[Updated] Masterful Podcast Descriptions Strategies and Case Studies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-interaction-protocols-courtesy-matters-gpt-alexa/"><u>AI Interaction Protocols - Courtesy Matters (GPT, Alexa)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/as-legal-battles-stall-apple-surges-forward-with-fresh-offerings-apple-watch-se-and-ultra-edition/"><u>As Legal Battles Stall, Apple Surges Forward with Fresh Offerings: Apple Watch SE and Ultra Edition</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bot-battle-analyzing-creative-solutions-equally-challenged/"><u>Bot Battle: Analyzing Creative Solutions Equally Challenged</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-the-code-barrier-how-chatgpt-translates-text/"><u>Breaking the Code Barrier: How ChatGPT Translates Text</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/dvd-chapters/"><u>DVD Chaptersを整理・編集して簡単な視聴体験へ</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/efficient-windows-file-revision-methods/"><u>Efficient Windows File Revision Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-user-journeys-ais-influence-on-sites/"><u>Enhancing User Journeys: AI's Influence on Sites</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/essential-pc-components-choosing-the-right-hardware-for-your-favorite-apps-expert-advice-from-yl-computing/"><u>Essential PC Components: Choosing the Right Hardware for Your Favorite Apps - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-natural-and-artificenas-interfaces/"><u>Exploring Natural and Artificenas Interfaces</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-analyzing-the-precision-of-yis-4k-actioncam/"><u>In 2024, Analyzing the Precision of Yi's 4K ActionCam</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-tecno-pop-8-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Tecno Pop 8 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-guide-to-the-best-10-vector-images-online/"><u>In 2024, Exclusive Guide to the Best 10 Vector Images Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-time-verification-gpts-online-indicators/"><u>Real-Time Verification: GPT's Online Indicators</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-18-free-video-editors-compatible-with-windows-10-8-and-7/"><u>Top 18 Free Video Editors Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-mini-tablet-devices-comprehensive-analysis-by-tech-experts/"><u>Top-Rated Mini Tablet Devices - Comprehensive Analysis by Tech Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Expert Tips: Boosting Efficiency with Key Productivity Apps & Strategies in Your Day-to-Day Routine - Insights"
-date: 2024-12-09T19:03:06.643Z
-updated: 2024-12-13T01:47:29.517Z
+date: 2024-12-20T08:15:57.242Z
+updated: 2024-12-22T02:07:53.893Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Before I take you through both the tools and my "process," let me point out that
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -49,7 +49,7 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changes due to the pandemic
@@ -63,7 +63,7 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tools for my daily flow
@@ -85,6 +85,10 @@ Actually, scratch that. I no longer take my iPhone to bed with me. Instead, I we
 The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -112,6 +116,10 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Pocket-read-post-archive cycle
 
 I read. A lot. I need to keep up to date on a tremendous amount of information, both breaking news related and deep technical or academic information. As a result, a good percentage of my morning is spent reading. I also watch a lot of YouTube videos. I'm almost always learning about new stuff, and many YouTube videos provide great introductions to both how those things work and what they do. Without YouTube, I never would have [gotten my CNC up and running](https://www.zdnet.com/article/hands-on-building-the-next-generation-x-carve-cnc-build-log/) and done [my first successful build](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/).
@@ -123,10 +131,6 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -179,6 +183,10 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -187,10 +195,6 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -242,10 +246,6 @@ Finally, there's Planner Tentative. This is where I block out the approximate ti
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Rethinking your flow
 
 Every few years, I rethink my productivity flow, usually when I find myself getting too far behind, or getting that _baaaad_ feeling that I'm letting things slip through the cracks. This latest optimization, where I added Notion, has been working for a few months now, and so far it's the most effective flow I've used. Most of the elements, particularly how I use Gmail and Pocket, have been productive processes for years. 
@@ -275,22 +275,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-effortless-techniques-for-lenovo-capture-tasks/"><u>[New] 2024 Approved Effortless Techniques for Lenovo Capture Tasks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-capture-every-click-with-spring-screen-recorder/"><u>[New] Capture Every Click with Spring Screen Recorder</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-moments-with-full-screen-movies-on-iphones/"><u>2024 Approved Capturing Moments with Full-Screen Movies on iPhones</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-meets-content-creation/"><u>Artificial Intelligence Meets Content Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/become-a-directive-design-whiz-the-top-7-online-helpful-apps/"><u>Become a Directive Design Whiz: The Top 7 Online Helpful Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-screen-camera-and-sound-recording-using-winxvideo-intelligent-technology/"><u>Effortless Screen, Camera, & Sound Recording Using WinxVideo Intelligent Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embrace-human-touch-with-the-help-of-artificial-intelligence/"><u>Embrace Human Touch with the Help of Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/evaluating-the-security-of-ai-powered-conversations/"><u>Evaluating the Security of AI-Powered Conversations</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-connecting-in-real-time-advanced-tips-for-streaming-screens-via-fb/"><u>In 2024, Connecting in Real Time Advanced Tips for Streaming Screens via Fb</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-edge-40-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Edge 40 Phones with/without a PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-m6-pro-4g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco M6 Pro 4G Phone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209982681-9781071533291-megan-va-a-cabalgar/"><u>Megan Va A Cabalgar | Free Book</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/synergy-in-silicon-bots-tasked-with-equal-creativity-goals/"><u>Synergy in Silicon: Bots Tasked with Equal Creativity Goals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-prime-notetaking-with-ai-innovations/"><u>The Ultimate Guide to Prime Notetaking with AI Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-potential-top-7-ways-gpt-improves-workday-effectiveness/"><u>Unleash Potential: Top 7 Ways GPT Improves Workday Effectiveness</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-new-linguistic-skills-through-gpt-plus/"><u>Unlocking New Linguistic Skills Through GPT Plus</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-a-beginners-approach-to-nvidia-screen-capture/"><u>[Updated] 2024 Approved A Beginner's Approach to NVIDIA Screen Capture</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-note-12-pro-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi Note 12 Pro 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-ai-with-vector-database-technology/"><u>Boosting AI with Vector Database Technology</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/comprehensive-guide-to-skype-meeting-recording/"><u>Comprehensive Guide to Skype Meeting Recording</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/experience-unmatched-perfection-with-the-apple-watch-ultra-2-your-ideal-companion-and-enjoy-an-exclusive-labor-day-discount/"><u>Experience Unmatched Perfection with the Apple Watch Ultra 2 – Your Ideal Companion and Enjoy an Exclusive Labor Day Discount!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-apples-potential-upgrade-introducing-respiratory-monitoring-in-the-new-vision-pro-insights-from-zdnet/"><u>Exploring Apple's Potential Upgrade: Introducing Respiratory Monitoring in the New Vision Pro - Insights From ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-se-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone SE Apple ID on MacBook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-se-2020-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone SE (2020) & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reducing-decibels-smoothly-with-advanced-mixing-tools-for-2024/"><u>Reducing Decibels Smoothly with Advanced Mixing Tools for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sequential-screening-strategy-experience-the-complete-transformers-saga/"><u>Sequential Screening Strategy: Experience The Complete Transformers Saga</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-complete-guide-to-chatgpts-premium-layer/"><u>The Complete Guide to ChatGPT's Premium Layer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-trending-iphone-16-models-popular-choices-and-availability-timelines/"><u>Top Trending iPhone 16 Models: Popular Choices & Availability Timelines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-are-ai-black-boxes-and-how-do-they-work/"><u>What Are AI Black Boxes and How Do They Work?</u></a></li>
 </ul></div>
 

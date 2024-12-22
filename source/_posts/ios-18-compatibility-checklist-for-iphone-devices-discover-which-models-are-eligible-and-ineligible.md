@@ -1,7 +1,7 @@
 ---
 title: IOS 18 Compatibility Checklist for iPhone Devices – Discover Which Models Are Eligible & Ineligible
-date: 2024-12-11T23:50:07.563Z
-updated: 2024-12-13T00:43:52.809Z
+date: 2024-12-17T08:05:03.563Z
+updated: 2024-12-22T07:17:21.191Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will get iOS 18?
@@ -80,6 +80,10 @@ According to Apple, these iPhone models can get iOS 18 now that it's become wide
 
 Notably, the once-popular iPhone X model is not on the list. Older devices like the iPhone 8 series also didn't make the cut this year. As for what's to come, Apple's new [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/) lineup will launch with iOS 18 out of the box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 18 beta vs full release: What's the difference?
 
 The iOS 18 beta version differs slightly from the general release. Beta testers are given a release that has recently exited its alpha phase, so problems and bugs are expected to arise. The purpose of the beta phase is to gather user feedback to repair these bugs and address any user interface issues before the software is massively distributed.
@@ -93,7 +97,7 @@ The general release will have ironed out most of these bugs and problems using t
 One example of this process is when Apple released the iOS 17 beta version in 2023\. The early beta version featured the "End" button during a call that had moved from the center to the right, which was a big change for iPhone users. Disapproving feedback from beta testers resulted in [Apple moving the "End" button back to the center of the screen](https://www.zdnet.com/article/apple-moved-iphones-end-call-button-again-is-this-spot-less-weird/), where users had been accustomed to.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When was iOS 18 released?
@@ -113,7 +117,7 @@ A software beta is a version of a program or operating system initially released
 The beta phase follows alpha testing, where software is developed and tested internally within the company. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPhone models will get Apple Intelligence?
@@ -124,16 +128,12 @@ While many iPhone models support iOS 18, very few will support Apple Intelligenc
 
 Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will be released over time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which iPhone models will no longer be supported?
 
 iOS 18 will not be supported in the iPhone X, iPhone 8, or earlier models. The new iOS version will only be available for iPhones sporting an A12 Bionic chip or newer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What should you do with your outdated iPhone?
@@ -176,18 +176,20 @@ If you're looking to maintain or obtain a service provider, you can check your i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-instant-sharing-convert-tweets-to-snaps-users/"><u>[New] 2024 Approved Instant Sharing Convert Tweets to Snaps Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-rapidrecord-fullscreen-feature/"><u>[New] In 2024, RapidRecord Fullscreen Feature</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-dissecting-the-potential-of-inshots-video-craft/"><u>[Updated] 2024 Approved Dissecting the Potential of InShot's Video Craft</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-tapping-into-instagrams-video-power-formulating-a-winning-strategy/"><u>[Updated] Tapping Into Instagram's Video Power Formulating a Winning Strategy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-magic-of-unique-ai-design-microsofts-copilot-insights/"><u>Discover the Magic of Unique AI Design: Microsoft's Copilot Insights</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-site-performance-with-cookiebot-power-solutions/"><u>Enhance Site Performance with Cookiebot Power Solutions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-your-life-with-chatgpts-health-innovations/"><u>Enhancing Your Life with ChatGPT’s Health Innovations</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-professional-camera-spin-360-edition-2023-for-2024/"><u>Mastering Professional Camera Spin 360° Edition, 2023 for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/must-have-elements-of-ai-conversational-platforms/"><u>Must-Have Elements of AI Conversational Platforms</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>New In 2024, How to Edit Video Files on Mac OS X Yosemite</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a59-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A59 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-secret-gifting-video-games-for-occasions/"><u>Steam's Secret: Gifting Video Games for Occasions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/text-improvement-with-chatgpt/"><u>Text Improvement with ChatGPT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-fun-on-faces-a-comprehensive-guide-to-cartoon-snaps/"><u>[New] 2024 Approved Fun on Faces A Comprehensive Guide to Cartoon Snaps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>2024 Approved [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-giggles-galaxy-a-guide-to-hilarious-youtube-stars/"><u>2024 Approved Giggles Galaxy A Guide to Hilarious YouTube Stars</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/big-names-bold-forecasts-what-ai-experts-expect/"><u>Big Names, Bold Forecasts: What AI Experts Expect</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/carbon-capture-a-lifesaver-for-our-planets-future/"><u>Carbon Capture: A Lifesaver for Our Planet's Future?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-exciting-upgrades-apple-introduced-for-all-airpods-models-key-features-unveiled/"><u>Discover the Exciting Upgrades Apple Introduced for All AirPods Models - Key Features Unveiled !</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-easily-convert-dall-e-3-webp-images-to-jpg-or-png/"><u>How to Easily Convert DALL-E 3 WebP Images to JPG or PNG</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x6-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco X6 Phone without PIN</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-ipad-top-10-insider-settings-and-shortcuts-every-apple-enthusiast-should-know-gadgetgenius/"><u>Master Your iPad: Top 10 Insider Settings & Shortcuts Every Apple Enthusiast Should Know | GadgetGenius</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-domestic-ai-exclusive-look-at-apples-pursuit-of-innovative-robotic-solutions-and-upcoming-product-lineup-gadget-central/"><u>Revolutionizing Domestic AI: Exclusive Look at Apple's Pursuit of Innovative Robotic Solutions and Upcoming Product Lineup | Gadget Central</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-tech-top-strategies-for-apples-ai-dominance-over-competitors-in-the-2024-wwdc-showcase-insights/"><u>Revolutionizing Tech: Top Strategies for Apple's AI Dominance Over Competitors in the 2024 WWDC Showcase - Insights</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/select-danish-movies-for-authentic-linguistic-exploration/"><u>Select Danish Movies for Authentic Linguistic Exploration</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-great-debate-continues-is-bandicam-or-camtasia-better-for-2024/"><u>The Great Debate Continues Is Bandicam or Camtasia Better for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-10-gpt-chat-cryptocurrency-questions/"><u>Top 10 GPT-Chat Cryptocurrency Questions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-enhancing-photography-on-iphone-and-ipad/"><u>Ultimate Guide: Enhancing Photography on iPhone & iPad</u></a></li>
 </ul></div>
 

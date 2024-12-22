@@ -1,7 +1,7 @@
 ---
 title: "Bot Battle: Analyzing Creative Solutions Equally Challenged"
-date: 2024-12-10T19:59:22.075Z
-updated: 2024-12-12T20:56:02.932Z
+date: 2024-12-18T00:12:52.392Z
+updated: 2024-12-21T21:08:27.978Z
 tags:
   - chatgpt
   - open-ai
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/bd07316941701058ade8268783f1b22f361afa620
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How I Tested Three Popular Chatbots With Creative Prompts](https://mushroom-supplies.sjv.io/gmegme)
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/bd07316941701058ade8268783f1b22f361afa620
 * [Which Chatbot Did Best With Short Stories?](https://turtlebeacheu.sjv.io/1r0r59)
 * [Which Chatbot Did Best With Scripts?](https://godlikehost.sjv.io/vnbxzv)
 * [Which Chatbot Did Best With Social Media Bios?](https://eimmie.pxf.io/21emk7)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -48,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/bd07316941701058ade8268783f1b22f361afa620
  **SCROLL TO CONTINUE WITH CONTENT**
 
  ChatGPT, Google Gemini, and Microsoft Copilot—three popular chatbots with different capabilities. As useful as they are in everyday tasks, how would they perform with creative prompts for content like songs, short stories, and imaginative social media bios? Here are the experiment’s details and results.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How I Tested Three Popular Chatbots With Creative Prompts
 
@@ -67,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/bd07316941701058ade8268783f1b22f361afa620
 
 ![Microsoft Copilot Writing a New Song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-new-song.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Google Gemini had the fastest response time and went for a similar approach as Copilot—mixing both themes equally. But some of its imagery was strange and made little sense.
 
  ChatGPT wrote the longest song and used interesting lyrics, but the koala theme barely existed, especially when compared to what the other chatbots came up with. It also struggled to complete the song.
@@ -80,10 +72,14 @@ thumbnail: https://thmb.techidaily.com/bd07316941701058ade8268783f1b22f361afa620
 ![ChatGPT Writes a Poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-writes-a-poem.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Copilot and Gemini were both less effective than ChatGPT in all these regards. However, you may find that results vary depending on the type of poem and the instructions you give each chatbot. Make a note of the many available [tips and tricks for better AI prompting](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Chatbot Did Best With Short Stories?
 
@@ -106,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/bd07316941701058ade8268783f1b22f361afa620
 ![Google Gemini Writing a Play Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/google-gemini-writing-a-play-script.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The other two chatbots went for the exact same structure for the scene—perhaps because both apps use OpenAI’s data as their source. They flowed nicely enough, but there was nothing special about the results.
@@ -122,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/bd07316941701058ade8268783f1b22f361afa620
  Copilot provided the most options in terms of effective and imaginative phrases alongside emojis and hashtags. You could pick and choose what you wanted for your bio and tweak it further to perfectly reflect your identity.
 
 ![Microsoft Copilot Writing a Social Media Bio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/microsoft-copilot-writing-a-social-media-bio.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT was more precise with its response. Two lines of useful mottos, emojis, hashtags, and a call to action. Asking for other suggestions is always on the table, but Copilot offered more from its initial response.
 
@@ -146,22 +146,21 @@ thumbnail: https://thmb.techidaily.com/bd07316941701058ade8268783f1b22f361afa620
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-masterful-presentations-in-google-meet-with-new-backdrops-for-2024/"><u>[Updated] Masterful Presentations in Google Meet with New Backdrops for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ser-look-at-youtubes-unlisted-content-category-for-2024/"><u>A Closer Look at YouTube’s ‘Unlisted’ Content Category for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/big-sur-specifications-system-and-hardware-required/"><u>Big Sur Specifications System & Hardware Required</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-google-translate-which-is-better-at-translation/"><u>ChatGPT Vs. Google Translate: Which Is Better At Translation?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/code-crafters-clash-determining-better-language-fiends/"><u>Code Crafters Clash: Determining Better Language Fiends</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/command-the-conversation-5-vocal-techniques-for-gpt-mastery/"><u>Command the Conversation: 5 Vocal Techniques for GPT Mastery</u></a></li>
-<li><a href="https://fox-making.techidaily.com/free-nextjs-and-tailwind-css-starter-kit-for-a-customizable-blog-detail-page-download-now/"><u>Free NextJS & Tailwind CSS Starter Kit for a Customizable Blog Detail Page – Download Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-4-unlocked-for-all-yet-6-chatgpt-plus-advantages-remain/"><u>GPT-4: Unlocked For All, Yet 6 ChatGPT Plus Advantages Remain.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/learn-to-effortlessly-utilize-microsoft-copilot-with-your-mac/"><u>Learn to Effortlessly Utilize Microsoft Copilot with Your Mac</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openais-chatgpt-decoded-for-users/"><u>OpenAI’s ChatGPT Decoded for Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/premier-8k-capture-the-ultimate-camera-guide/"><u>Premier 8K Capture The Ultimate Camera Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-iomanager-violation-fixed-driver-verifier-issues-resolved/"><u>Resolved: I/OManager Violation Fixed - Driver Verifier Issues Resolved</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-eus-digital-strategy-and-its-influence-on-the-development-of-ai-systems-such-as-chatgpt/"><u>The EU's Digital Strategy & Its Influence on the Development of AI Systems Such as ChatGPT</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-15-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-ai-market-with-openais-shap-explainer/"><u>Unraveling AI' Market with OpenAI's SHAP Explainer</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-techniques-for-excising-drum-sections-in-online-music-editing/"><u>Updated Techniques for Excising Drum Sections in Online Music Editing</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-windows-10-and-microsoft-wireless-adapter-disconnect-issues/"><u>Winning the Battle Against Windows 10 & Microsoft Wireless Adapter Disconnect Issues</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-path-to-youtube-riches-optimal-view-figures-for-monetization-success/"><u>[New] In 2024, Path to YouTube Riches Optimal View Figures for Monetization Success</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-sketch-humorous-images-with-adobe-for-2024/"><u>[New] Sketch Humorous Images with Adobe for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-record-breaking-reddit-threads-ranked-1-10/"><u>[Updated] Record-Breaking Reddit Threads Ranked 1-10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-uncovering-the-method-of-anti-play-video-snapchat/"><u>2024 Approved Uncovering the Method of Anti-Play Video Snapchat</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-quiet-revolution-unveiling-the-understated-yet-essential-ai-breakthrough-at-wwdc-as-spotted/"><u>Apple's Quiet Revolution: Unveiling the Understated Yet Essential AI Breakthrough at WWDC, as Spotted</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/audio-technica-user-manual-the-process-of-driver-update-explained/"><u>Audio Technica User Manual: The Process of Driver Update Explained</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/chkdskraw/"><u>CHKDSKを使用したRAWドライブの修復方法：解決策とその限界</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-ai-chat-best-7-chrome-extensions-listed/"><u>Enhance AI Chat: Best 7 Chrome Extensions Listed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ghostly-journey-droning-slick-action-recorder/"><u>Ghostly Journey Droning Slick Action Recorder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-showdown-on-zdnet-unveiling-differences-between-iphone-16-pro-and-14-pro-worth-your-upgrade/"><u>IPhone Showdown on ZDNET: Unveiling Differences Between iPhone 16 Pro and 14 Pro - Worth Your Upgrade?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-unmatched-excel-mastery-gap-across-ai-dialogue-systems/"><u>The Unmatched Excel Mastery Gap Across AI Dialogue Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/thrilling-insights-from-the-ddpair-mini3-discovering-unparalleled-fun-in-dashcam-technology/"><u>Thrilling Insights From the DDPair Mini3: Discovering Unparalleled Fun in Dashcam Technology</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-kid-friendly-ipad-picks-recommended-by-tech-experts/"><u>Top 5 Kid-Friendly iPad Picks : Recommended by Tech Experts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-best-buy-bargains-in-june-2024-exclusive-offers-on-zdnet/"><u>Top Best Buy Bargains in June 2024: Exclusive Offers on ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-pick-the-ultimate-portable-laptop-perfect-for-telecommuters-a-detailed-review/"><u>Top Pick: The Ultimate Portable Laptop Perfect for Telecommuters - A Detailed Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-shunning-a-chatgpt-phone-app-is-best/"><u>Why Shunning a ChatGPT Phone App Is Best</u></a></li>
 </ul></div>
 

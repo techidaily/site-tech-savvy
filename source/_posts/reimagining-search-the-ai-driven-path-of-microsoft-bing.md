@@ -1,7 +1,7 @@
 ---
 title: "Reimagining Search: The AI-Driven Path of Microsoft Bing"
-date: 2024-12-05T22:21:07.208Z
-updated: 2024-12-12T16:04:35.820Z
+date: 2024-12-18T04:50:10.016Z
+updated: 2024-12-21T23:58:02.561Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Microsoft Prometheus Model?
@@ -39,16 +39,12 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 ![OpenAI logo up-close on a phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-ai-web-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft Prometheus is a specialized artificial intelligence model for superior web searching and querying and is fundamentally based on OpenAI’s GPT3.5 and ChatGPT models. Its capabilities are optimized for rapidly fetching relevant and accurate search results without compromising user safety.
 
  The Prometheus model powers the new Bing to deliver summarized search results that are more relevant and can even answer composite search queries.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A New Generation of AI for Web Searching
 
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 ![Google app on the home screen of a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-google-fi-phones.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the AI-powered Bing, you can specifically query it to give you a list of important points related to your Science class, and Bing will provide you with precisely that. You won’t have to explore multiple retrieved search results. Instead, you can rest assured that Bing has all the correct answers you need, thanks to its AI-powered search algorithm.
@@ -72,12 +68,16 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 
 ![Icons of multiple web browsers on a wooden board background](https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b7932652ed0826ec0104cd05df9774.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While we’re certainly still a long way from seeing web browsers go obsolete, but we can expect functional upgrades that make it easy to access AI-powered web searching and content generation. Perhaps other browsers, such as Chrome and Opera, will adopt something similar to Edge’s new AI sidebar.
 
 [Google is expected to release its Bard competitor](https://www.makeuseof.com/google-launching-bard-ai-compete-with-chatgpt/) to Microsoft’s AI-powered Bing very soon. Once it’s launched and possibly integrated with Google Chrome, we’ll have a better idea of how web browsers will evolve in the coming future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bing Redefines Searching Using AI
@@ -99,24 +99,18 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-engage-entertain-enlighten-crafting-compelling-live-thumbnails/"><u>[Updated] Engage, Entertain, Enlighten Crafting Compelling Live Thumbnails</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-8-android-video-chat-apps-beyond-duostrios-for-2024/"><u>[Updated] Innovative 8 Android Video Chat Apps Beyond Duos/Trios for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-powered-stress-solutions-via-chatgpt/"><u>AI-Powered Stress Solutions via ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beneath-the-surface-of-bot-conversations-and-their-popularity/"><u>Beneath the Surface of Bot Conversations and Their Popularity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bluetooth-configuration-guide-hooking-up-airpods-with-a-pc-running-windows/"><u>Bluetooth Configuration Guide: Hooking Up AirPods with a PC Running Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-c12-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia C12 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/envisioning-an-ai-enhanced-future-of-emotional-wellness-care/"><u>Envisioning an AI-Enhanced Future of Emotional Wellness Care</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-vs-huggingface-deciding-the-supreme-conversationalist/"><u>GPT vs HuggingFace: Deciding the Supreme Conversationalist</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-motorcycle-video-magic-best-cam-hats-of-2023-selection/"><u>In 2024, Motorcycle Video Magic Best Cam Hats of 2023 Selection</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-wont-connect-to-vpn-try-these-7-proven-strategies-for-a-secure-link/"><u>IPhone Won't Connect to VPN? Try These 7 Proven Strategies for a Secure Link</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-fatal-glitches-steps-to-fix-error-0x00000001-in-xbox-game-pass-for-windows-11/"><u>Overcoming Fatal Glitches: Steps to Fix Error 0X00000001 in Xbox Game Pass for Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premier-free-software-for-ai-image-fabrication/"><u>Premier Free Software for AI Image Fabrication</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-device-charge-with-new-satechi-stands-supporting-both-qi2-and-magsafe-technology/"><u>Revolutionize Your Device Charge with New Satechi Stands Supporting Both Qi2 and MagSafe Technology</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-bluetooth-integration-rtl8723d-driver-update-on-os/"><u>Streamline Bluetooth Integration: RTL8723D Driver Update on OS</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-essential-information-on-claude-3s-functions/"><u>The Essential Information on Claude 3'S Functions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-next-leap-in-ai-beyond-turings-vision/"><u>The Next Leap in AI: Beyond Turing's Vision</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-4-causes-for-gpt-3-account-suspension-solutions-included/"><u>Top 4 Causes for GPT-3 Account Suspension: Solutions Included</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unclogging-saturation-issue-gpt-in-windows/"><u>Unclogging Saturation Issue: GPT in Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unveiling-5-leading-photo-experts-who-sync-music-perfectly/"><u>[New] In 2024, Unveiling 5 Leading Photo Experts Who Sync Music Perfectly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unbeatable-online-headline-builder/"><u>[New] Unbeatable Online Headline Builder</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-lucidsound-ls30-mic-not-working/"><u>[Solved] LucidSound LS30 Mic Not Working</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-metaverse-vs-multimetverse-what-are-the-differences-ultimate-guide/"><u>2024 Approved Metaverse Vs. MultiMetverse What Are the Differences [Ultimate Guide]</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/cutting-down-on-graphics-card-power-demand-expert-advice-from-yl-software-solutions/"><u>Cutting Down on Graphics Card Power Demand: Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-resolve-borderlands-3-not-starting-in-just-11-steps/"><u>Expert Advice: Resolve 'Borderlands 3 Not Starting' In Just 11 Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-top-10-tools-convert-srt-files-for-no-charge/"><u>Prime Top 10 Tools Convert Srt Files for No Charge</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/retaining-chat-history-for-future-reference/"><u>Retaining Chat History for Future Reference</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-browsing-tips-for-mac-users-how-to-disable-tracking-in-safari-and-enhance-personal-data-safety-zdnet/"><u>Secure Browsing Tips for Mac Users: How to Disable Tracking in Safari and Enhance Personal Data Safety | ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamline-coding-workflow-codegpt-in-vs-code/"><u>Streamline Coding Workflow: CodeGPT in VS Code</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/supercharge-your-apple-timepiece-expert-tips-on-enhancing-battery-life-with-simple-settings-adjustments/"><u>Supercharge Your Apple Timepiece: Expert Tips on Enhancing Battery Life with Simple Settings Adjustments</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-misconceived-notion-ai-as-a-full-time-writer-substitute/"><u>The Misconceived Notion: AI as a Full-Time Writer Substitute</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-virtual-potential-with-kinemasters-latest-android-release/"><u>Unlocking Virtual Potential with KineMaster's Latest Android Release</u></a></li>
 </ul></div>
 

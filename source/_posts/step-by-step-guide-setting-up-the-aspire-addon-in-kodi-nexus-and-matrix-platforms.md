@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up the Aspire Addon in Kodi, Nexus & Matrix Platforms"
-date: 2024-09-10 20:11:30
-updated: 2024-09-11 10:36:24
+date: 2024-12-19T16:40:37.449Z
+updated: 2024-12-21T22:59:09.753Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d41584cd8a8fa3f986fca88e2c0.jpg
@@ -47,11 +47,19 @@ WMA to MP3 Converter Free
 
 WMA is a lossy audio format that cannot be supported by some devices or players due to its poor compatibility. So if you fail to open your .wma audio files, **convert WMA to MP3**, a popular format that is compatible with all devices and platforms. This post shares some different ways to change WMA to MP3 online and offline. If you are looking for a handy way to convert WMA files to MP3, just read this article to learn **how to convert WMA to MP3 with 5 different audio converters**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. WonderFox Free HD Video Converter Factory (Windows)
 
 Speaking of free converting WMA to MP3, [**WonderFox Free HD Video Converter Factory**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) is a highly recommended audio converting program for Windows PCs. It allows you to achieve almost any audio and video conversion with just a few clicks, including WMA to MP3,[MP4 to AVI](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), [WMV to WAV](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), etc. Meanwhile, you can also do some editing to your audio files, like cutting, splitting, and [merging audio files](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/). All the functions are easy to handle. [**Download**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)[**Download**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) this freeware and follow the guide below to change WMA to MP3 now.
 
 ![Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/box-hdfree.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Convert WMA to MP3 Windows 10
 
@@ -77,6 +85,14 @@ Tips: You can also click on the “**Parameter settings**” button to [change t
 
 ![Windows Media Audio to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-2-mobi.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Convert WMA Files to MP3 Now
 
 Go back to the main interface, and click the triangle button to specify an output path. Finally, click “**Run**” to start the conversion.
@@ -99,7 +115,15 @@ Step 3: Click on “**Import Settings**” from the “**Files (General)**” ta
 
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4-mobi.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Find the files you want to convert in the library. Or you can add the local files to the library by selecting “**File**” > “**Add File**”.  
 Step 4: Select the WMA file, click the “**File**” menu and select “**Convert**” > “**Create MP3 Version**”. Then your WMA files can be converted to MP3.
@@ -114,12 +138,20 @@ Another desktop WMA to MP3 free converter is VLC. VLC is an open-source media pl
 
 ![VLC Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-6.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![VLC Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-6-mobi.webp) 
 
 Step 1: Open VLC media player, go to “**Media**” > “**Convert/Save**” in the menu bar, you can also directly press the shortcut key “**Ctrl+R**”.  
 Step 2: Hit the “**\+ Add**” button to import the WMA files and press the “**Convert/Save**” button below.  
 Step 3: Navigate to the Profile part and select “**Audio-MP3**” from the drop-down list.  
 Step 4: Click on “**Browse**” to specify an output file and hit the “**Start**” button to start the conversion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. ZamZar (Online)
 
@@ -136,6 +168,10 @@ Step 2: Press “**Choose Files**" to load WMA files from local or online drive.
 Step 3: Click "**Convert To**" and choose "**MP3**" from the drop-down list.  
 Step 4: Press "**Convert Now**" to start conversion and then download the converted files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. CloudConvert (Online)
 
 If the size of your WMA files exceeds the maximum file size of ZamZar, you can also give another online WMA to MP3 converter a try. Here I recommend CloudConvert, one of the most popular online video converters. It supports 200+ format conversions, including audio, video, document, e-book, image, etc. Moreover, CloudConvert also enables you to [cut audio files](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) and [customize audio channels](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), bitrate, frequency, and volume. However, notice that its free version only allows 25 conversions per day.
@@ -143,6 +179,10 @@ If the size of your WMA files exceeds the maximum file size of ZamZar, you can a
 ![Convert WMA to MP3 Online Free](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-8.webp) 
 
 ![Convert WMA to MP3 Online Free](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-8-mobi.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The conversion steps are quite easy. Just follow the simple tutorial below:
 
@@ -199,11 +239,25 @@ WonderFox HD Video Converter Factory Pro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-incorinasmatic-mix-sharing-songs-in-social-spaces/"><u>[New] 2024 Approved Incorinasmatic Mix Sharing Songs in Social Spaces</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-affordable-youtube-intro-designs-and-templates/"><u>[Updated] In 2024, Affordable YouTube Intro Designs and Templates</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-to-device-the-step-by-step-process-explained/"><u>[Updated] Snapchat to Device - The Step by Step Process Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-turing-trial-will-machines-prevail/"><u>Decoding the Turing Trial: Will Machines Prevail?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-apple-watch-bargains-for-july-22024-exclusive-deals-curated/"><u>Discover the Ultimate Apple Watch Bargains for July 2^[/2024 | Exclusive Deals Curated</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-world-of-broadcast-software-plus-wirecast/"><u>In 2024, Unveiling the World of Broadcast Software + Wirecast</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-gpt-into-the-fabric-of-health-services/"><u>Integrating GPT Into the Fabric of Health Services</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-chatgpt-experience-on-macos/"><u>Maximizing ChatGPT Experience on macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-exciting-new-ios-18-innovations-unveiled-at-apples-wwdc-202n-embracing-the-power-of-artificial-intelligence-techinsights/"><u>Top 5 Exciting New iOS 18 Innovations Unveiled at Apple’s WWDC 202N: Embracing the Power of Artificial Intelligence | TechInsights</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cutting-edge-free-vob-video-editors-a-detailed-comparison/"><u>Updated Cutting-Edge Free VOB Video Editors A Detailed Comparison</u></a></li>
+</ul></div>
+

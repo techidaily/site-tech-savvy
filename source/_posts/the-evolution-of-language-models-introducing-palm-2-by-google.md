@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Language Models: Introducing PaLM 2 by Google"
-date: 2024-12-08T20:08:54.787Z
-updated: 2024-12-12T19:20:42.264Z
+date: 2024-12-18T17:35:29.073Z
+updated: 2024-12-21T20:46:52.434Z
 tags:
   - chatgpt
   - open-ai
@@ -27,7 +27,7 @@ While OpenAI is leading the way for generative AI development, many have accused
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is PaLM 2?
@@ -45,7 +45,7 @@ While OpenAI is leading the way for generative AI development, many have accused
  With Gecko able to process around 20 tokens per second—tokens are the values assigned to real words for use by generative AI models—it looks likely to be a game-changer for mobile deployable AI tools.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## PaLM 2 Training Data
@@ -61,7 +61,7 @@ While OpenAI is leading the way for generative AI development, many have accused
  But it's not just spoken languages. Linking to Google's demand for PaLM 2 to deliver better scientific and mathematical reasoning, the LLM has also been trained in more than 20 programming languages, which makes it a phenomenal asset for programmers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## PaLM 2 Is Already Powering Google Services—But Still Requires Fine Tuning
@@ -77,7 +77,7 @@ While OpenAI is leading the way for generative AI development, many have accused
  No matter how much researchers attempt to cleanse LLM training data, it's inevitable some will slip through. The next phase is to continue training PaLM 2 to reduce those toxic responses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## It's a Boom Period for Large Language Models
@@ -103,24 +103,19 @@ While OpenAI is leading the way for generative AI development, many have accused
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-charting-a-course-for-growth-precise-youtube-stats-from-social-blades-hub/"><u>[New] 2024 Approved Charting a Course for Growth Precise YouTube Stats From Social Blade's Hub</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-everything-you-should-know-about-instagram-video-length-for-2024/"><u>[New] Everything You Should Know About Instagram Video Length for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-professional-top-10-hd-webcams-and-buyers-advice-for-2024/"><u>[Updated] Professional Top 10 HD Webcams & Buyer's Advice for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-get-rid-of-filmora-watermark-with-or-without-subscription/"><u>2024 Approved Get Rid of Filmora Watermark With or Without Subscription</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-free-from-gpts-maximum-word-count/"><u>Breaking Free From GPT's Maximum Word Count</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bridging-images-and-words-step-by-step-text-integration-guide-for-2024/"><u>Bridging Images & Words Step-by-Step Text Integration Guide for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/concurrent-communication-skills/"><u>Concurrent Communication Skills</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/disinformation-in-the-age-of-ai-generation/"><u>Disinformation in the Age of AI Generation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortlessly-enhance-your-browsing-with-ai-powered-agentgpt/"><u>Effortlessly Enhance Your Browsing with AI-Powered AgentGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-agentgpt-to-deploy-ai-agents-from-your-browser/"><u>How to Use AgentGPT to Deploy AI Agents From Your Browser</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-are-m1-laptops-setting-the-standard-in-editing-studios/"><u>In 2024, Are M1 Laptops Setting the Standard in Editing Studios?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y100a-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y100A Phone that is Locked?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-the-world-of-the-advanced-apple-iphone-15-pro-an-interactive-review/"><u>Inside the World of the Advanced Apple iPhone 15 Pro: An Interactive Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/italys-blitzban-of-chatgpt-what-triggered-it/"><u>Italy's Blitzban of ChatGPT: What Triggered It?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/openais-chatbot-at-your-fingertips-using-ubuntu-bash-and-shellgpt/"><u>OpenAI's Chatbot at Your Fingertips: Using Ubuntu Bash and ShellGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/poetic-warriors-and-gpt-ewes-bards-ballad-battle-with-woolly-allies/"><u>Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-tasks-utilize-8-crafted-ai-services/"><u>Revolutionize Tasks: Utilize 8 Crafted AI Services</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/steps-to-realign-chatgpt-with-plugin-communication-standards/"><u>Steps to Realign ChatGPT with Plugin Communication Standards</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-moto-g84-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-from-pc-to-smartphone-the-essential-guide-to-hulu-recording-for-2024/"><u>[Updated] From PC to Smartphone The Essential Guide to Hulu Recording for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unzip-the-scripts-crafting-subtitles-from-compressed-files/"><u>[Updated] In 2024, Unzip the Scripts Crafting Subtitles From Compressed Files</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1-expert-tips-boosting-efficiency-with-key-productivity-apps-and-strategies-in-your-day-to-day-routine-insights/"><u>1. Expert Tips: Boosting Efficiency with Key Productivity Apps & Strategies in Your Day-to-Day Routine - Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/an-in-depth-look-at-organic-light-emitting-diodes-oled-and-their-working-principle/"><u>An In-Depth Look at Organic Light Emitting Diodes (OLED) and Their Working Principle</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/capturing-the-perfect-shot-with-iphone-camera-timers-explained/"><u>Capturing the Perfect Shot with iPhone Camera Timers Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-can-craft-jokes-but-can-ai-make-us-laugh/"><u>ChatGPT Can Craft Jokes, But Can AI Make Us Laugh?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-your-asus-wifiethernet-drivers-windows-compatible/"><u>Download & Update Your Asus WiFi/Ethernet Drivers - Windows Compatible</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortlessly-engage-with-ai-on-android-via-chatgpt/"><u>Effortlessly Engage with AI on Android via ChatGPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-tecno-camon-20-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Tecno Camon 20 Phones? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ate-and-dominate-with-youtube-studios-advanced-editing-features-for-2024/"><u>Navigate and Dominate with YouTube Studio's Advanced Editing Features for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/spreading-smiles-building-a-solid-foundation-in-gif-humor/"><u>Spreading Smiles Building a Solid Foundation in GIF Humor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-exclusive-chatgpt-plugin-choices-for-enhanced-cryptocurrency-experience/"><u>Top 8: Exclusive ChatGPT Plugin Choices for Enhanced Cryptocurrency Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-how-to-updating-and-downloading-epson-scanner-drivers-compatible-with-windows-10/"><u>Ultimate How-To: Updating and Downloading Epson Scanner Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-airpods-lineup-expands-affordable-airpods-lite-edition-and-premium-sound-experience-of-airpods-max-set-to-launch-this-year-technewstoday/"><u>Upcoming AirPods Lineup Expands: Affordable 'AirPods Lite' Edition and Premium Sound Experience of 'AirPods Max' Set to Launch This Year | TechNewsToday</u></a></li>
 </ul></div>
 

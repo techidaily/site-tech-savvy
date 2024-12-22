@@ -1,7 +1,7 @@
 ---
 title: Transform ChatGPT Today with These #1-#9 Must-Have Addons
-date: 2024-12-08T17:27:50.276Z
-updated: 2024-12-12T20:38:45.404Z
+date: 2024-12-21T08:01:06.682Z
+updated: 2024-12-22T08:40:16.203Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Prompt Perfect
 
  The responses you get from the ChatGPT are only as good as the prompts you provide. But prompting can be tricky--it's a game of hits and misses. Prompt Perfect is a ChatGPT plugin that helps you [craft well-structured and effective prompts that will get you the results you want](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/).
@@ -43,11 +39,7 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Link Reader
@@ -59,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. InstaCart
@@ -73,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
@@ -83,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Wolfram
 
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 
 ![fact-checking with ChatGPT and Wolfram Alpha](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fact-checking-with-chatgpt-and-wolfram-alpha.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wolfram was able to run the generated information against its database to check for accuracy.
 
 ## 5\. ChatWithPDF
@@ -112,11 +112,11 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
 
- Turns out another important use case is making sense of technical documents like this.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Turns out another important use case is making sense of technical documents like this.
 
 ## 6\. Video Insights
 
@@ -130,6 +130,10 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
  Yes, it was a spot-on description of the video if you're wondering.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. SceneXplain
 
  SceneXplain is a hidden gem we found tucked away in the ChatGPT plugin store. What does it do? It takes an image URL as input and returns a detailed description of the image. It is quite impressive in describing complex scenes with multiple people and objects. When we tried it, its descriptions of 12 of the 14 images we tried were spot on, although it can be a bit overly artistic or dramatic in its choice of words. On its own, SceneXplain might not have a lot of use cases. But when combined with other tools, it comes quite handy.
@@ -141,10 +145,6 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
  To use the plugin, use a prompt like:
 
 Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg> or list all the objects you see in this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. There's An AI For That
 
@@ -183,16 +183,18 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-creating-a-captivating-instagram-cover-for-your-topics-highlight-for-2024/"><u>[Updated] Creating a Captivating Instagram Cover for Your Topics Highlight for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bridging-the-gap-in-vr-storytelling-and-innovation/"><u>Bridging the Gap in VR Storytelling and Innovation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/decoding-the-best-free-video-apps-for-os-multiplicity/"><u>Decoding the Best Free Video Apps for OS Multiplicity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/factors-that-define-the-prompt-engineering-industry/"><u>Factors That Define the Prompt Engineering Industry</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877181-9781601639714-grimoire-for-the-apprentice-wizard/"><u>Grimoire For The Apprentice Wizard | Free Book</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-v30-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-discover-the-perfect-moment-timing-your-insta-posts/"><u>In 2024, Discover the Perfect Moment Timing Your Insta Posts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/interactive-engagement-gpts-role-in-reducing-loneliness/"><u>Interactive Engagement: GPT's Role in Reducing Loneliness</u></a></li>
-<li><a href="https://media-tips.techidaily.com/revamped-sonos-mobile-app-and-introduction-to-the-advanced-web-client-a-leap-forward-in-sound-technology/"><u>Revamped Sonos Mobile App and Introduction to the Advanced Web Client – A Leap Forward in Sound Technology</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-mystery-behind-counterfeit-bingchat-coins/"><u>Unraveling the Mystery Behind Counterfeit BingChat Coins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-italys-instant-ban-on-chatgpt/"><u>Unveiling Italy's Instant Ban on ChatGPT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mobile-access-to-all-you-love-best-download-tools-for-android-and-ios/"><u>[New] Mobile Access to All You Love Best Download Tools for Android and iOS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-quick-guide-the-most-effective-ways-to-save-fb-story-videos-for-2024/"><u>[New] Quick Guide The Most Effective Ways to Save FB Story Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-free-aesthetic-essentials-for-youtube-artistry/"><u>[Updated] 2024 Approved Free Aesthetic Essentials for YouTube Artistry</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2024s-elite-ipads-comprehensive-testing-and-expert-opinions/"><u>2024'S Elite iPads: Comprehensive Testing and Expert Opinions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/esr-launches-innovative-qi2-magsafe-charger-series-enhanced-by-cryoboost-technology-for-rapid-iphone-16-charging-without-overheating-insights/"><u>ESR Launches Innovative Qi2 MagSafe Charger Series Enhanced by CryoBoost Technology for Rapid iPhone 16 Charging without Overheating - Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/in-depth-analysis-how-the-iphone-14-meets-and-exceeds-consumer-expectations-techspot/"><u>In-Depth Analysis: How the iPhone 14 Meets and Exceeds Consumer Expectations | TechSpot</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-media-mobility-in-apples-ecosystem/"><u>Mastering Media Mobility in Apple's Ecosystem</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stay-secure-dont-get-hooked-by-googles-deceptive-bard/"><u>Stay Secure, Don't Get Hooked by Google's Deceptive Bard</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-5-budget-friendly-gaming-mice-under-100/"><u>Top 5 Budget-Friendly Gaming Mice (Under $100)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/two-effective-techniques-to-transform-your-youtube-videos-into-ogg-format/"><u>Two Effective Techniques to Transform Your YouTube Videos Into OGG Format</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-retrieve-your-missing-apple-airpods-with-ease/"><u>Ultimate Guide: Retrieve Your Missing Apple AirPods with Ease</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-easy-guide-how-to-make-talking-head-videos/"><u>Updated 2024 Approved Easy Guide How To Make Talking Head Videos</u></a></li>
 </ul></div>
 

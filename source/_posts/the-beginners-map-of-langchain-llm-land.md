@@ -1,7 +1,7 @@
 ---
 title: The Beginner's Map of LangChain LLM Land
-date: 2024-12-08T17:57:07.306Z
-updated: 2024-12-12T22:02:21.947Z
+date: 2024-12-18T02:36:58.492Z
+updated: 2024-12-21T23:50:05.477Z
 tags:
   - chatgpt
   - open-ai
@@ -56,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 * **Data Passing**: Due to the general text-based nature of LLMs, it is usually tricky to pass data to the model. LangChain solves this problem by using [indexes](https://docs.langchain.com/docs/components/indexing/). Indexes enable an application to import data in variable formats and store it in a way that makes it possible to serve it row-by-row to an LLM.
 * **Responses**: LangChain provides output parser tools to give answers in a suitable format as opposed to other LLMs whose model response consists of general text. When using AI in an application, it is preferred to have a structured response that you can program against.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Getting Started With LangChain LLM
 
  Now you will learn how to implement LangChain in a real use-case scenario to understand how it works. Before starting the development, you need to set up the development environment.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Setting Up Your Development Environment
 
@@ -88,6 +88,10 @@ from langchain.memory import ConversationBufferWindowMemory`
 
  The LangChain classes outline and execute the language model chains.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Access OpenAI API Key
 
  Next, get the OpenAI API key. To access OpenAI’s API key, you must have an OpenAI account, then move to the [OpenAI API platform](https://platform.openai.com/).
@@ -96,29 +100,25 @@ from langchain.memory import ConversationBufferWindowMemory`
 
 ![OpenAI API key dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-dashboard.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, click the **Create new secret key** button to get a new API key.
 
 ![OpenAI API key page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-page.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Enter the requested name of the API key.
 
 ![OpenAI API key naming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-naming.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You will receive a **secret key** prompt.
 
 ![OpenAI API key generated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-api-key-generated.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Copy and store the API key in a safe place for future use.
 
@@ -161,7 +161,7 @@ print(output)`
 ![Output of developing an application using LangChain](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/introduction-to-langchain-output.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Above is the expected output.
@@ -191,24 +191,19 @@ print(output)`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-blueprint-for-an-intriguing-videography-script/"><u>[New] Blueprint for an Intriguing Videography Script</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-dive-into-digital-clarity-the-guide-for-full-hd-on-tweet/"><u>[New] In 2024, Dive Into Digital Clarity The Guide for Full HD on Tweet</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-review-and-alternatives-unveiled-by-az-screenshotter/"><u>[New] Review & Alternatives Unveiled by AZ Screenshotter</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-tips-for-dynamic-and-engaging-video-covers-on-the-worlds-largest-social-media-network-for-2024/"><u>[New] Tips for Dynamic & Engaging Video Covers on the World's Largest Social Media Network for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoiding-pitfalls-solutions-to-6-recurrent-chatgpt-mistakes/"><u>Avoiding Pitfalls: Solutions to 6 Recurrent ChatGPT Mistakes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-six-common-car-ai-configurations-fails/"><u>Decoding Six Common Car AI Configurations Fails</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/demystifying-chatbots-the-ai-revolution/"><u>Demystifying Chatbots: The AI Revolution</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-your-systems-graphical-power-with-a-quick-intel-graphics-3000-update-on-w10/"><u>Enhance Your System's Graphical Power with a Quick Intel Graphics 3000 Update on W10.</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-gif-creation-best-tools-reviewed-and-compared/"><u>Essential GIF Creation Best Tools Reviewed & Compared</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-cloud-costs-in-depth-price-analysis-and-best-options/"><u>In 2024, Mastering Cloud Costs In-Depth Price Analysis & Best Options</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/outmaneuvering-fraudgpts-deception-be-vigilant-online/"><u>Outmaneuvering FraudGPT's Deception - Be Vigilant Online</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/safety-advisory-chatgpt-for-windowsnot-a-security-risk/"><u>Safety Advisory: ChatGPT for Windows—Not a Security Risk</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/schwierigkeitsfreies-kopieren-von-festplatten-mit-sicherheit-vor-datenverlust/"><u>Schwierigkeitsfreies Kopieren Von Festplatten Mit Sicherheit Vor Datenverlust</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/surprising-fact-start-a-dialogue-with-chatgpt/"><u>Surprising Fact: Start a Dialogue with ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-spectrum-of-ai-intelligence-what-difference/"><u>The Spectrum of AI Intelligence: What Difference?</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-how-to-deal-with-a-missing-amdintel-coprocessor-driver-in-windows-10/"><u>Troubleshooting: How to Deal with a Missing AMD/Intel Coprocessor Driver in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unleash-the-power-of-books-with-these-best-ai-based-reading-platforms/"><u>Unleash the Power of Books with These Best AI-Based Reading Platforms</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unraveling-the-functionality-the-7-gpt-4-app-innovators/"><u>Unraveling the Functionality: The 7 GPT-4 App Innovators</u></a></li>
-<li><a href="https://extra-information.techidaily.com/wordsmith-whispers-picks-for-the-best-transcription-programs/"><u>Wordsmith Whispers Picks for the Best Transcription Programs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-bandicam-for-professionals-unveiling-the-latest-2023-advances/"><u>[New] In 2024, Bandicam for Professionals Unveiling the Latest 2023 Advances</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-kodi-streaming-service-windows-media-replacement-for-2024/"><u>[New] Kodi Streaming Service Windows Media Replacement for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-revolutionize-your-designs-incorporating-3d-text-psx-for-2024/"><u>[New] Revolutionize Your Designs Incorporating 3D Text PSX for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/iewership-victory-surpassing-500-subscriber-mark-for-2024/"><u>[New] Viewership Victory Surpassing 500 Subscriber Mark for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-key-fixes-for-stabilizing-windows-10-photos-display/"><u>[Updated] Key Fixes for Stabilizing Windows 10 Photos Display</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-7-steps-for-stellar-cooking-films/"><u>[Updated] The Ultimate Guide 7 Steps for Stellar Cooking Films</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/choosing-your-next-smartphone-a-comparative-analysis-of-the-iphone-14-pro-and-iphone-14-pro-max-insights-for-tech-enthusiasts/"><u>Choosing Your Next Smartphone: A Comparative Analysis of the iPhone 14 Pro and iPhone 14 Pro Max - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-thrill-of-racing-with-moza-r5-bundle/"><u>Discovering the Thrill of Racing with MOZA R5 Bundle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/excel-excellence-achievable-through-chatgpt-partnership/"><u>Excel Excellence Achievable Through ChatGPT Partnership</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nokia-g42-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nokia G42 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-datas-depths-with-gpt-3-6-essential-practices/"><u>Navigating Data's Depths with GPT-3: 6 Essential Practices</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-seamless-way-clearing-your-facebook-shared-content/"><u>The Seamless Way: Clearing Your Facebook Shared Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-document-potential-6-innovative-gpt-apps-for-analysis/"><u>Unlock Document Potential: 6 Innovative GPT Apps for Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wilderness-wanderer-ai-as-your-safety-net/"><u>Wilderness Wanderer? AI as Your Safety Net?</u></a></li>
 </ul></div>
 

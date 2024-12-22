@@ -1,7 +1,7 @@
 ---
 title: Boosting AI with Vector Database Technology
-date: 2024-12-11T00:23:11.223Z
-updated: 2024-12-12T16:04:48.105Z
+date: 2024-12-20T20:03:17.660Z
+updated: 2024-12-22T05:40:06.279Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is a Vector Database?
 
  A vector database is a way to store information through the use of vectors. Unlike the usual form of databases that organize data as tabulated lists, vector databases organize data through high-dimensional vectors. These vectors can then be represented in mathematical space as vector embeddings.
@@ -38,23 +42,19 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an [API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
 
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Vector Databases Help Boost AI
@@ -77,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 * **Image and Video Analysis:** With video and image embedding models, AI models can be fine-tuned to work with images to find items that look similar to the query. This is currently being implemented in many online shopping apps and websites.
 * **Anomaly Detection:** By recording actions as embeddings, an [AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How a Vector Database Works
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
@@ -86,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Future of Vector Databases
@@ -131,18 +131,15 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-transforming-ordinary-interviews-into-impactful-experiences-for-2024/"><u>[New] Transforming Ordinary Interviews Into Impactful Experiences for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-seizing-stability-eliminating-instability/"><u>[Updated] Seizing Stability Eliminating Instability</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-master-strategies-for-crafting-impactful-testimonials/"><u>2024 Approved Master Strategies for Crafting Impactful Testimonials</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-money-making-masters-youtubes-financial-kings/"><u>2024 Approved Money-Making Masters YouTube's Financial Kings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-emergence-the-historical-tapestry-untold/"><u>AI Emergence: The Historical Tapestry Untold</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-heic-to-jpeg-conversion-for-windows-users/"><u>Easy Heic to Jpeg Conversion for Windows Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fn-key-techniques-for-efficient-windows-use/"><u>Fn Key Techniques for Efficient Windows Use</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-standard-to-superior-4-key-ways-claude-outshines-gpt-based-conversation-ais/"><u>From Standard to Superior: 4 Key Ways Claude Outshines GPT-Based Conversation AIs</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-tecno-camon-30-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Camon 30 Pro 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mobile-savings-and-decoding-digital-threats/"><u>Mobile Savings & Decoding Digital Threats</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-phenomenon-of-ai-powered-dialogue-systems/"><u>The Phenomenon of AI-Powered Dialogue Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-of-originality-in-ai-imagery-through-copilot/"><u>Unveiling the Secrets of Originality in AI Imagery Through Copilot</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-a38-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo A38 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-unlocking-data-in-twitter-archives/"><u>[Updated] In 2024, Unlocking Data in Twitter Archives</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/airpods-pro-3-revolutionize-fitness-monitoring-with-precision-heart-rate-sensors-zdnet-insights/"><u>AirPods Pro 3 Revolutionize Fitness Monitoring with Precision Heart Rate Sensors | ZDNET Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-reno-10-proplus-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo Reno 10 Pro+ 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-ultimate-mac-list-of-non-bandicamp-video-capture-tools/"><u>In 2024, The Ultimate Mac List of Non-Bandicamp Video Capture Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-paid-ai-enhancement-justifiable-cost-wise/"><u>Is Paid AI Enhancement Justifiable Cost-Wise?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-craft-the-ultimate-guide-to-mac-based-document-automation/"><u>Mastering Craft: The Ultimate Guide to Mac-Based Document Automation</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-how-to-enable-bluetooth-feature-on-windows-1110-systems/"><u>Solved: How to Enable Bluetooth Feature on Windows 11/10 Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-accessories-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Accessories : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/videovault-annual-review-of-top-screen-recorders/"><u>VideoVault Annual Review of Top Screen Recorders</u></a></li>
 </ul></div>
 

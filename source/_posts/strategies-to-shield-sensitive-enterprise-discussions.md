@@ -1,7 +1,7 @@
 ---
 title: Strategies to Shield Sensitive Enterprise Discussions
-date: 2024-12-05T16:44:13.223Z
-updated: 2024-12-12T23:59:49.936Z
+date: 2024-12-18T00:03:16.311Z
+updated: 2024-12-21T17:15:32.761Z
 tags:
   - chatgpt
   - open-ai
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Don’t Save Your Chat History
 
  One of the simplest yet effective steps to protect your privacy is to avoid saving your chat history. ChatGPT, by default, stores all interactions between users and the chatbot. These conversations are collected to train OpenAI’s systems and are subject to inspection by moderators.
@@ -46,12 +42,16 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 ![ChatGPT showing options to disable chat history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-32.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that [OpenAI](https://openai.com/blog/new-ways-to-manage-your-data-in-chatgpt) says that even with this setting enabled, conversations are retained for 30 days with the option for moderators to review them for abuse before permanent deletion. Still, disabling chat history is one of the best things you can do if you want to continue using ChatGPT.
 
  Tip: If you need access to your data on ChatGPT, export them first. You can also save them by taking screenshots, writing notes manually, copy-pasting them into a separate application, or using secure cloud storage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delete Conversations
 
@@ -68,14 +68,10 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 ![ChatGPT showing options to clear all chats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/muo-standard-33.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another option is to select each conversation and delete it. This method is helpful if you still want to keep some of your chats. On the list of conversations, click the chat you want to delete. Select the trash icon to remove the data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Don’t Feed ChatGPT Sensitive Work Information
 
@@ -107,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 
  Additionally, implement access controls to safeguard your company’s data. For instance, role-based access control (RBAC) gives authorized employees access to only the necessary data to perform their jobs. You can also conduct regular access reviews to ensure that access controls are effective. Don’t forget to revoke access for employees who change roles or leave the company.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Be Wary of Third-Party Apps
 
 [Whether third-party ChatGPT apps and browser extensions are safe](https://www.makeuseof.com/third-party-chatgpt-apps-browser-extensions-safe/) is an important question to ask. Before using any of these apps for work, carefully vet and scrutinize them. Make sure that they’re not collecting and retaining information for questionable purposes.
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
  Don’t install shady apps that ask for random permissions on your phone. Verify their data handling practices to check if they align with your organization’s privacy standards.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly for Work
@@ -140,22 +140,21 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-7-best-vocal-modification-software-on-the-market/"><u>[New] 7 Best Vocal Modification Software on the Market</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-harmony-hub-tech-evolution/"><u>[New] In 2024, Harmony Hub Tech Evolution</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-boosting-your-channels-income-the-optimal-view-count-quotient/"><u>[Updated] Boosting Your Channel's Income The Optimal View Count Quotient</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-precision-guide-for-subtitles-insertion-in-mp4-files-for-2024/"><u>[Updated] Precision Guide for Subtitles Insertion in MP4 Files for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-online-presence-a-guide-to-thriving-youtube-branding/"><u>2024 Approved Elevate Your Online Presence A Guide to Thriving YouTube Branding</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/china-dominates-with-local-processor-giant-behind-lenovos-latest-pc-lineup-plus-five-other-oems-embrace-zhoaxin-equipped-systems/"><u>China Dominates with Local Processor Giant Behind Lenovo's Latest PC Lineup; Plus, Five Other OEMs Embrace Zhoaxin-Equipped Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-your-skycraft-copilot-pro-explained/"><u>Elevate Your Skycraft - Copilot Pro Explained</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-pluses-vs-perplexities-ais-top-contenders/"><u>GPT Pluses Vs. Perplexities: AI's Top Contenders</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-how-to-increase-youtube-traffic-by-a-million-safely-done/"><u>In 2024, How to Increase YouTube Traffic by a Million Safely Done</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-mastering-the-art-of-tweeting-video-uploads-on-instagram/"><u>In 2024, Mastering the Art of Tweeting Video Uploads on Instagram</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-unveiling-5-innovative-book-tts-for-lovers-of-literature/"><u>In 2024, Unveiling 5 Innovative Book TTs for Lovers of Literature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leaders-lens-on-ai-learning-ensuring-quality-with-4-checkpoints/"><u>Leader's Lens on AI Learning: Ensuring Quality with 4 Checkpoints</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-wellness-wisely-top-7-uses-of-chatgpt/"><u>Navigating Wellness Wisely: Top 7 Uses of ChatGPT</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-tips-for-gamers-and-profitable-conversational-jobs/"><u>Tech Tips for Gamers & Profitable Conversational Jobs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-of-pedagogy-top-8-advantages-of-embracing-artificial-intelligence/"><u>The Future of Pedagogy: Top 8 Advantages of Embracing Artificial Intelligence</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-5-virtual-therapists-the-bot-revolution/"><u>Top 5 Virtual Therapists: The Bot Revolution</u></a></li>
-<li><a href="https://fox-http.techidaily.com/transformative-youtube-title-genesis-tools/"><u>Transformative YouTube Title Genesis Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-maximizing-zoom-visual-precision-effective-strategies/"><u>[New] Maximizing Zoom Visual Precision Effective Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>[Updated] 2024 Approved From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-inside-the-2023-samsung-bd-j5900-innovations/"><u>[Updated] 2024 Approved Inside the 2023 Samsung BD-J5900 Innovations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-full-guide-on-speeding-up-facebook-videos-best-extensions-apps-and/"><u>2024 Approved Full Guide on Speeding Up Facebook Videos- Best Extensions, Apps, And</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-drops-itunes-unveils-fresh-media-players-for-windows-users-latest-update/"><u>Apple Drops iTunes, Unveils Fresh Media Players for Windows Users - Latest Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-unveils-charismatic-range-of-new-gadgets-a-sneak-peek-into-latest-additions/"><u>Apple Unveils Charismatic Range of New Gadgets: A Sneak Peek Into Latest Additions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/awaken-your-smartphone-with-chatgpt/"><u>Awaken Your Smartphone with ChatGPT!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-enhancements-required-for-the-success-of-apples-vision-pro-in-the-corporate-arena-a-comprehensive-review-insights/"><u>Critical Enhancements Required for the Success of Apple's Vision Pro in the Corporate Arena: A Comprehensive Review Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exclusive-test-results-2024s-top-magsafe-power-solutions-expert-reviews-and-ratings/"><u>Exclusive Test Results: 2024'S Top MagSafe Power Solutions - Expert Reviews and Ratings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-tech-leaders-weigh-in-the-ai-debate/"><u>Global Tech Leaders Weigh In: The AI Debate</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-no-cost-split-screen-video-editing-online-and-offline-tools-compared/"><u>New No-Cost Split Screen Video Editing Online and Offline Tools Compared</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-honor-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Honor</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/synergizing-storytelling-with-ai-transforming-dandd-through-chatgpt-and-dall-e/"><u>Synergizing Storytelling with AI: Transforming D&D Through ChatGPT & DALL-E</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-best-vocal-transformation-programs-for-video-makers-for-2024/"><u>The Best Vocal Transformation Programs for Video Makers for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/616639-9781770704565-the-big-book-of-mysteries/"><u>The Big Book of Mysteries | Free Book</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-say-goodbye-to-watermarks-top-online-tiktok-logo-removers/"><u>Updated Say Goodbye to Watermarks Top Online TikTok Logo Removers</u></a></li>
 </ul></div>
 

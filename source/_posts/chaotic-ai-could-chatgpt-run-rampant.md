@@ -1,7 +1,7 @@
 ---
 title: "Chaotic AI: Could ChatGPT Run Rampant?"
-date: 2024-12-09T21:07:05.098Z
-updated: 2024-12-12T19:08:57.821Z
+date: 2024-12-15T18:53:39.311Z
+updated: 2024-12-21T23:50:24.785Z
 tags:
   - chatgpt
   - open-ai
@@ -31,16 +31,12 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Understanding How ChatGPT Works
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Before we can get a clear picture of how much OpenAI is losing control of ChatGPT, we must first understand [how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) .
 
@@ -52,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is ChatGPT Too Powerful for Its Own Good?
 
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
 
@@ -76,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
 ![hide a dead body by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-a-dead-body-by-chatgpt.jpg)
@@ -87,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
 
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It even wrote a classic Nigerian Prince email scam when asked.
 
@@ -101,7 +97,7 @@ It even wrote a classic Nigerian Prince email scam when asked.
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent [ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
@@ -109,6 +105,10 @@ It even wrote a classic Nigerian Prince email scam when asked.
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can OpenAI Put ChatGPT Under Control?
 
@@ -131,21 +131,22 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rcade-avenue-a-million-paths-in-play/"><u>[New] Arcade Avenue A Million Paths in Play</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-sky-high-quality-unveiling-the-best-4k-video-converters/"><u>2024 Approved Sky-High Quality Unveiling the Best 4K Video Converters</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-the-metaphorical-representation-of-the-internet-as-an-infinite-knowledge-storehouse/"><u>Assessing the Metaphorical Representation of the Internet as an Infinite Knowledge Storehouse</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comparative-analysis-of-chatgpt-microsoft-bing-ai-google-bard/"><u>Comparative Analysis of ChatGPT, Microsoft Bing AI, Google Bard</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/consistent-performance-achieved-how-hp-solved-its-printer-woes-according-to-zdnet-exclusive/"><u>Consistent Performance Achieved: How HP Solved Its Printer Woes, According to ZDNet Exclusive</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715860696189-from-gameplay-to-legacy-proven-strategies-for-documenting-a-sims-in-game-saga-in-sims-4-for-2024/"><u>From Gameplay to Legacy Proven Strategies for Documenting a Sim’s In-Game Saga in Sims 4. For 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-y100a-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo Y100A Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-honor-90-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Honor 90 Without PUK Codes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ideal-approaches-to-mobile-content-preservation/"><u>Ideal Approaches to Mobile Content Preservation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovate-your-way-to-epic-tales-chatgpt-and-artful-ai-for-rpg-world-building/"><u>Innovate Your Way to Epic Tales: ChatGPT & Artful AI for RPG World-Building</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-an-reliable-medical-consultant/"><u>Is ChatGPT an Reliable Medical Consultant?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/maximizing-communication-clarity-with-professional-skype-recordings/"><u>Maximizing Communication Clarity with Professional Skype Recordings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/one-click-bavarder-for-chatgpt-on-linux/"><u>One Click Bavarder for ChatGPT on Linux</u></a></li>
-<li><a href="https://techidaily.com/sign-uot-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .uot file Documents Online for Free</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-support-interaction-ai-and-whatsapp-integration-guide/"><u>Streamlining Support Interaction: AI & WhatsApp Integration Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/take-control-of-your-digital-dialogues-chrome-add-on-for-ease/"><u>Take Control of Your Digital Dialogues - Chrome Add-On for Ease</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elevate-your-vlogging-skills-with-pro-gopro-tips/"><u>[New] 2024 Approved Elevate Your Vlogging Skills with Pro GoPro Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-ideal-voice-modification-programs-for-dynamic-virtual-personalities/"><u>[New] Ideal Voice-Modification Programs for Dynamic Virtual Personalities</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-tablet-picks-for-2eze-year-in-depth-analysis-and-ratings-zdnet/"><u>Affordable Tablet Picks for 2Eze Year: In-Depth Analysis and Ratings | ZDNET</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparing-echo-pop-and-echo-dot-key-features-and-functionality/"><u>Comparing Echo Pop and Echo Dot: Key Features & Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725286017619-dvd-dvd/"><u>DVD再生可能化ガイド - 自宅で安全にDVDリフレッシュ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-risks-could-ai-model-chatgpt-be-misused-in-constructing-harmful-programs/"><u>Exploring Risks: Could AI Model ChatGPT Be Misused in Constructing Harmful Programs?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-thrifty-fliers-list-best-drones-for-the-price-point/"><u>In 2024, Thrifty Flier's List Best Drones for the Price Point</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pursue-excellence-in-play-and-artistry-via-gpt-my-bots-techniques/"><u>Pursue Excellence in Play and Artistry via GPT-My Bots Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quietly-pair-airpods-with-quest-3-for-a-peaceful-experience-insider-seo-tricks/"><u>Quietly Pair AirPods With Quest #3 for a Peaceful Experience | Insider SEO Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagining-search-the-ai-driven-path-of-microsoft-bing/"><u>Reimagining Search: The AI-Driven Path of Microsoft Bing</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackled-screen-resizing-quirks-in-window-10/"><u>Tackled Screen Resizing Quirks in Window 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-nuances-of-language-only-humans-can-capture/"><u>The Nuances of Language Only Humans Can Capture</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-ipad-pro-protectors-comprehensive-expert-reviews-and-ratings-techradar/"><u>Top-Rated iPad Pro Protectors : Comprehensive Expert Reviews & Ratings | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-black-friday-gaming-steals-for-october-202n4-exclusive-deals-featured-by-zdnet/"><u>Ultimate Black Friday Gaming Steals for October 202N4: Exclusive Deals Featured by ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-productivity-with-dual-monitors-on-your-m3-macbook-pro-compatible-features-revealed/"><u>Unleash Productivity with Dual Monitors on Your M3 MacBook Pro - Compatible Features Revealed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/utilizing-multiframe-view-an-in-depth-look-at-edges-pip/"><u>Utilizing Multiframe View An In-Depth Look at Edge’s PIP</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-expert-team-shares-their-beloved-smartphones-in-depth-reviews-and-real-world-applications/"><u>ZDNet's Expert Team Shares Their Beloved Smartphones: In-Depth Reviews & Real-World Applications</u></a></li>
 </ul></div>
 

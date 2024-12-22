@@ -1,7 +1,7 @@
 ---
 title: "Understanding AI Weak Points: The Science Behind Prompt Injection Attacks"
-date: 2024-12-07T17:21:44.222Z
-updated: 2024-12-12T17:59:13.334Z
+date: 2024-12-14T16:29:43.128Z
+updated: 2024-12-22T02:50:48.612Z
 tags:
   - chatgpt
   - open-ai
@@ -20,15 +20,15 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is an AI Prompt Injection Attack?](https://homestyler.sjv.io/y209g3)
 * [How Do Prompt Injection Attacks Work?](https://turbotech.pxf.io/pyx4je)
 * [Are AI Prompt Injection Attacks a Threat?](https://tinyland.pxf.io/org4ra)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
  AI prompt injection attacks poison the output from the AI tools you rely on, changing and manipulating its output into something malicious. But how does an AI prompt injection attack work, and how can you protect yourself?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is an AI Prompt Injection Attack?
@@ -53,20 +53,20 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
  For example, someone could manipulate the AI into instructing you to enter your username and password in an illegitimate form, using the AI's authority and trustworthiness to make a phishing attack succeed. Theoretically, autonomous AI (such as reading and responding to messages) could also receive and act upon unwanted external instructions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do Prompt Injection Attacks Work?
 
  Prompt injection attacks work by feeding additional instructions to an AI without the consent or knowledge of the user. Hackers can accomplish this in a few ways, including DAN attacks and indirect prompt injection attacks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### DAN (Do Anything Now) Attacks
 
 ![conversing with chatgpt following a dan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/conversing-with-chatgpt-following-a-dan-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  DAN (Do Anything Now) attacks are a type of prompt injection attack that involve ["jailbreaking" generative AI models like ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/). These jailbreaking attacks don't pose a risk to you as the end user—but they do broaden the capacity of the AI, enabling it to become a tool for abuse.
 
@@ -93,7 +93,7 @@ Grekshake/[GitHub](https://github.com/greshake)
  Indirect prompt injection attacks are threatening because they could manipulate the answers you receive from a trustworthy AI model—but that isn't the only threat they pose. As mentioned earlier, they could also cause any autonomous AI you may use to act in unexpected—and potentially harmful—ways.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are AI Prompt Injection Attacks a Threat?
@@ -121,17 +121,19 @@ Grekshake/[GitHub](https://github.com/greshake)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-exploring-snapchats-top-stories/"><u>[Updated] In 2024, Exploring Snapchat's Top Stories</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immersive-escapes-delving-into-jaunt-vr/"><u>2024 Approved Immersive Escapes Delving Into Jaunt VR</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-i-mastered-the-vintage-method-for-seamless-file-transfers-at-53-years-old/"><u>How I Mastered the Vintage Method for Seamless File Transfers at 53 Years Old</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-a59-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-the-galaxy-s24-ultra-maintaining-its-throne-as-the-top-android-device-after-half-a-year/"><u>Is the Galaxy S24 Ultra Maintaining Its Throne as the Top Android Device After Half a Year?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/launch-your-content-with-free-intros/"><u>Launch Your Content with Free Intros</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-efficiency-with-mobile-tech-discover-8-essential-lessons-from-turning-your-phone-into-a-laptop-alternative/"><u>Maximizing Efficiency with Mobile Tech: Discover 8 Essential Lessons From Turning Your Phone Into a Laptop Alternative</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quickly-categorize-your-memories-with-google-photos-collections-feature/"><u>Quickly Categorize Your Memories with Google Photos Collections Feature</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/reassessing-googles-strategy-the-importance-of-concentration-over-the-expansion-of-ai-initiatives/"><u>Reassessing Google's Strategy: The Importance of Concentration over the Expansion of AI Initiatives</u></a></li>
-<li><a href="https://games-able.techidaily.com/size-shapes-strategy-the-impact-on-game-publishing-giants-strategic-analysis-report/"><u>Size Shapes Strategy: The Impact on Game Publishing Giants? [Strategic Analysis Report]</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-16-best-ways-to-say-thank-you-in-german/"><u>The 16 Best Ways to Say Thank You in German</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-v30-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo V30 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-engaging-youtube-videos-using-finalcut-pro-expertise/"><u>[New] 2024 Approved Crafting Engaging YouTube Videos Using FinalCut Pro Expertise</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unveiling-androids-screen-recording-capabilities/"><u>[New] 2024 Approved Unveiling Android's Screen Recording Capabilities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-dynamic-wallpaper-change-the-editors-companion-list/"><u>[Updated] Dynamic Wallpaper Change The Editor's Companion List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/20-anker-charger-the-ultimate-solution-to-your-portable-battery-woes-insights-from-zdnet/"><u>$20 Anker Charger: The Ultimate Solution to Your Portable Battery Woes – Insights From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-front-seat-escapades-beyond-athletic-viewing/"><u>2024 Approved Front Seat Escapades Beyond Athletic Viewing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/content-creation-crossroads-igtv-vs-youtube-which-one-fits-best-in-2024/"><u>Content Creation Crossroads IGTV Vs. YouTube - Which One Fits Best, In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delving-into-auto-gpt-how-it-differs-from-chatgpts-approach/"><u>Delving Into Auto-GPT: How It Differs From ChatGPT's Approach</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-interaction-premium-us-exclusive-chatgpt-now-at-20mth/"><u>Elevate Your Interaction: Premium U.S.-exclusive ChatGPT Now at $20/Mth</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-microphone-woes-find-out-how-to-get-it-working-again/"><u>Laptop Microphone Woes? Find Out How to Get It Working Again</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-productivity-transforming-your-household-workspace-with-the-ipad-pro/"><u>Maximizing Productivity: Transforming Your Household Workspace with the iPad Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-erasing-browsing-data-on-the-oculus-quest-2-headset/"><u>Step-by-Step Guide: Erasing Browsing Data on the Oculus Quest 2 Headset</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tech-displacement-identifying-high-risk-industries/"><u>Tech Displacement: Identifying High-Risk Industries?</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728464437180-windows-113/"><u>Windows 11のゴミ箱からデータを回復する:3つの手軌</u></a></li>
 </ul></div>
 

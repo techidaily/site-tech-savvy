@@ -1,7 +1,7 @@
 ---
 title: "Probing the Depths of CodeGPT: AI's Automated Writing Prowess"
-date: 2024-12-05T16:48:01.995Z
-updated: 2024-12-12T23:46:04.457Z
+date: 2024-12-20T21:46:18.116Z
+updated: 2024-12-21T22:23:31.961Z
 tags:
   - chatgpt
   - open-ai
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
 * [Can CodeGPT Really Write Code?](https://sentrypc.7eer.net/dkpkgn)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is CodeGPT?
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
  While there are several [code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/), macOS, and Windows, CodeGPT is only available in two. Today, you can either [install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Much Does CodeGPT Cost?
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/4e9049dc8c6c71972ee6cfdb2106ce48df8399753
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can [access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/), you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can CodeGPT Really Write Code?
@@ -173,14 +173,20 @@ with open('output.csv', 'w', newline='') as output_file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-uniform-iptv-system-utilization/"><u>[New] 2024 Approved Uniform IPTV System Utilization</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-premier-hexacopters-showcase-in-10/"><u>[New] Premier Hexacopters Showcase in 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/accessing-ai-dialogue-bashscripting-and-shellgpt-integration/"><u>Accessing AI Dialogue: BashScripting and ShellGPT Integration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-and-enhance-discover-top-9-gpt-integration-tools/"><u>Elevate & Enhance: Discover Top 9 GPT Integration Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elevate-browser-ai-experience-with-top-7-fixes/"><u>Elevate Browser AI Experience with Top 7 Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhance-your-pinning-game-explore-these-5-essential-scheduler-tools/"><u>Enhance Your Pinning Game: Explore These 5 Essential Scheduler Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/peeling-back-layers-in-ai-security-how-do-prompt-injections-work/"><u>Peeling Back Layers in AI Security: How Do Prompt Injections Work?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolved-intermittent-backlit-beam-in-device/"><u>Resolved: Intermittent Backlit Beam in Device</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ommanding-the-screen-top-10-women-gamers-yt-for-2024/"><u>[New] Commanding the Screen Top 10 Women Gamers YT for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-discover-the-joy-of-individuality-creating-tones-and-sounds-on-android-devices/"><u>[New] Discover the Joy of Individuality Creating Tones & Sounds on Android Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[Updated] Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-rapid-process-converting-images-into-engaging-youtube-desktop-pics/"><u>[Updated] Rapid Process Converting Images Into Engaging YouTube Desktop Pics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-regulation-the-responsible-route/"><u>AI Regulation: The Responsible Route</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-static-to-vivid-moments-with-the-new-polaroid-xs-100i-for-2024/"><u>From Static to Vivid Moments with the New Polaroid XS 100I for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-rapid-fire-guide-to-successful-double-exposures/"><u>In 2024, Rapid-Fire Guide to Successful Double Exposures</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-google-pixel-7a-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Google Pixel 7a for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-time-gpt-4-use-for-enhanced-chatgpt-experience/"><u>Real-Time GPT-4 Use for Enhanced ChatGPT Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-your-new-ipad-9th-generation-at-a-steal-only-250-post-apple-launch-discover-more/"><u>Secure Your New iPad (9Th Generation) at a Steal: Only $250 Post-Apple Launch! Discover More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-your-inbox-clear-out-clutter-with-one-simple-email-strategy-no-multi-account-setup-required/"><u>Simplify Your Inbox: Clear Out Clutter with One Simple Email Strategy – No Multi-Account Setup Required!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-advanced-ai-gpt-4s-introduction/"><u>The Dawn of Advanced AI: GPT-4's Introduction</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-power-of-ai-transparency-via-openais-shap-e/"><u>The Power of AI Transparency via OpenAI's SHAP E</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-iphone-offers-and-discounts-in-july-2024-find-your-perfect-match-with-zdnet/"><u>Top iPhone Offers and Discounts in July 2024 - Find Your Perfect Match with ZDNet</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/unlock-iphone-backup-secrets-for-windows-users-a-complete-how-to/"><u>Unlock iPhone Backup Secrets for Windows Users - A Complete How-To</u></a></li>
 </ul></div>
 

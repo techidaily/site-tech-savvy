@@ -1,7 +1,7 @@
 ---
 title: MacBook Air with M1 Chip Available at Unbeatable Price of $649 – Best Deal on ZDNet
-date: 2024-12-06T22:18:44.538Z
-updated: 2024-12-12T19:17:43.143Z
+date: 2024-12-20T23:40:25.014Z
+updated: 2024-12-22T06:46:39.624Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,14 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-channel-growth-hacks-the-ultimate-list-of-5-youtube-strategies/"><u>[New] 2024 Approved Channel Growth Hacks – The Ultimate List of 5 YouTube Strategies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-best-3d-blu-ray-players/"><u>[Updated] Best 3D Blu-Ray Players</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-multiplayer-movies-review-poker-edition/"><u>[Updated] In 2024, MULTIPLAYER MOVIES REVIEW Poker Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-integrate-video-archives-for-streaming-companionship/"><u>[Updated] Integrate Video Archives for Streaming Companionship</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-ideas-to-boost-package-prelude-joy/"><u>2024 Approved Innovative Ideas to Boost Package Prelude Joy</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/effortless-guide-to-editing-long-videos-into-perfectly-sized-instagram-stories-without-compromising-quality/"><u>Effortless Guide to Editing Long Videos Into Perfectly Sized Instagram Stories Without Compromising Quality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ensuring-authenticity-reducing-ai-fabrications-with-specific-cues/"><u>Ensuring Authenticity: Reducing AI Fabrications with Specific Cues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-chatgpt-transforming-ideas-into-ai-generated-reality/"><u>Exploring ChatGPT: Transforming Ideas Into AI-Generated Reality</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/geminis-milestone-redefining-value-at-1m-tokens/"><u>Gemini's Milestone: Redefining Value at $1M Tokens</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-editing-made-easy-youtube-editiontop-10-tips-for-newbies/"><u>In 2024, Editing Made Easy YouTube Edition—Top 10 Tips for Newbies</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/numeric-excellence-excel-surpasses-gpt-in-complex-calculations/"><u>Numeric Excellence: Excel Surpasses GPT in Complex Calculations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-healthcare-and-nutrition-with-gpt-plugins/"><u>Revolutionize Healthcare & Nutrition with GPT Plugins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-work-from-home-with-chatgpt-tactics/"><u>Revolutionizing Work From Home with ChatGPT Tactics</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-remedy-for-audio-driver-issues/"><u>Seamless Remedy for Audio Driver Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/terminate-chatgpt-connection-now/"><u>Terminate ChatGPT Connection Now</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlocking-your-digital-treasures-facebook-media-transfer/"><u>Unlocking Your Digital Treasures: Facebook Media Transfer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-trusting-ai-for-windows-11-unlocks-is-risky-business/"><u>Why Trusting AI for Windows 11 Unlocks Is Risky Business</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-video-frame-captures-for-mac/"><u>[Updated] 2024 Approved Top 5 Video Frame Captures for Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-stopping-auto-capture-in-apples-recorder-for-2024/"><u>[Updated] Stopping Auto-Capture in Apple's Recorder for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/algorithmically-crafted-realms-via-conversational-bots/"><u>Algorithmically Crafted Realms via Conversational Bots</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/critical-6-ai-driven-digital-notebooks-for-students/"><u>Critical 6 AI-Driven Digital Notebooks for Students</u></a></li>
+<li><a href="https://some-skills.techidaily.com/essential-insights-you-should-know-before-investing-in-a-smart-ring/"><u>Essential Insights You Should Know Before Investing in a Smart Ring</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-role-in-crafting-my-podcast-script/"><u>GPT's Role in Crafting My Podcast Script</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/practical-implementation-of-llama-2s-capabilities/"><u>Practical Implementation of Llama 2’S Capabilities</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-strategies-for-accurate-audio-to-text-transcription-services/"><u>Top Strategies for Accurate Audio-to-Text Transcription Services</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-opengl-glitches-in-minecraft-expert-tips-and-tricks/"><u>Troubleshooting OpenGL Glitches in Minecraft: Expert Tips and Tricks</u></a></li>
 </ul></div>
 

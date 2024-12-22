@@ -1,7 +1,7 @@
 ---
 title: What Are AI Black Boxes and How Do They Work?
-date: 2024-12-08T18:05:32.168Z
-updated: 2024-12-12T18:32:30.785Z
+date: 2024-12-16T20:30:29.555Z
+updated: 2024-12-21T18:35:53.255Z
 tags:
   - chatgpt
   - open-ai
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/db4e48751ba30895c50ceb8d3925c537e54172648
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are AI Black Boxes?
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/db4e48751ba30895c50ceb8d3925c537e54172648
  We will set the concerns aside for the moment as we look at how AI black boxes work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How AI Black Boxes Work
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/db4e48751ba30895c50ceb8d3925c537e54172648
  Once the training phase is completed, the black boxes can be deployed to make independent decisions based on the learned algorithms and patterns. However, the lack of transparency about how decisions are reached is one of the primary concerns surrounding AI black boxes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Challenges and Risks of AI Black Boxes
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/db4e48751ba30895c50ceb8d3925c537e54172648
  These are known challenges, and efforts are underway to develop more accountable and transparent AI systems that can "show their workings."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the Future Hold for AI Black Boxes?
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/db4e48751ba30895c50ceb8d3925c537e54172648
  This is still a raw technology, one which is straining ethical and legal boundaries. Addressing the concerns around AI black boxes is critical to its future and development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AI Black Boxes: An Ethical Dilemma
@@ -125,22 +125,19 @@ thumbnail: https://thmb.techidaily.com/db4e48751ba30895c50ceb8d3925c537e54172648
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-smart-selections-top-10-apps-for-in-the-moment-baseball-and-soccer-viewing/"><u>[New] 2024 Approved Smart Selections Top 10 Apps for In-the-Moment Baseball and Soccer Viewing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-cutting-out-background-sounds-freepaid-options-for-clear-videos/"><u>[Updated] In 2024, Cutting Out Background Sounds - Free/Paid Options for Clear Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-gameplay-documentation-on-fbx-format/"><u>[Updated] Pro Gameplay Documentation on FBX Format</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-time-stretched-pixelation-the-ultimate-guide-to-cam-gear/"><u>[Updated] Time-Stretched Pixelation The Ultimate Guide to Cam Gear</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-web-based-photo-symphony-audio-and-images-unite/"><u>[Updated] Web-Based Photo Symphony Audio & Images Unite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-helpers-in-development-choosing-between-copilot-and-gpt-3/"><u>AI Helpers in Development: Choosing Between Copilot & GPT-3</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-doctor-consults-chatgpt-pitfalls-explored/"><u>Bypassing Doctor Consults: ChatGPT Pitfalls Explored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/digging-up-drowned-chatgpt-memories/"><u>Digging Up Drowned ChatGPT Memories</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-12-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 12? Heres the Best Fixes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gptzero-explained-separating-real-from-synthetic-texts/"><u>GPTZero Explained: Separating Real From Synthetic Texts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-use-chatgpt-for-creative-writing-6-ways/"><u>How to Use ChatGPT for Creative Writing: 6 Ways</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-seamlessly-preserve-your-ppt-video-recording-tips/"><u>In 2024, Seamlessly Preserve Your PPT Video Recording Tips</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionize-gpt-with-the-best-9-plugin-innovations/"><u>Revolutionize GPT with the Best 9 Plugin Innovations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-taleweavers-toolkit-ai-and-chatgpt-as-storytelling-allies/"><u>The Taleweaver's Toolkit: AI and ChatGPT as Storytelling Allies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unbiased-aeiusny-portable-solar-generator-analysis-ensuring-safety-with-pure-sine-wave-for-critical-health-gear/"><u>Unbiased Aeiusny Portable Solar Generator Analysis: Ensuring Safety with Pure Sine Wave for Critical Health Gear</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-chatgpt-widget-on-android-devices/"><u>Unlocking ChatGPT Widget on Android Devices</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/windows-11synology-nas/"><u>Windows 11資料同步到Synology NAS: 三種最簡單的备份方式</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xploring-popularly-highlighted-video-remarks/"><u>[New] Exploring Popularly Highlighted Video Remarks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-comprehensive-guide-to-skype-meeting-recording/"><u>[Updated] In 2024, Comprehensive Guide to Skype Meeting Recording</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-chatgpt-replace-keyword-research/"><u>Can ChatGPT Replace Keyword Research?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-for-wellness-unveiling-the-top-9-methodologies/"><u>ChatGPT for Wellness: Unveiling the Top 9 Methodologies</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-non-appearance-of-tiny-vid-content/"><u>Cured Non-Appearance of Tiny Vid Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortless-hulu-recordings-for-windows-mac-and-mobile-users/"><u>Effortless Hulu Recordings for Windows, Mac & Mobile Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/seamless-quick-conversions-best-free-tools-transforming-gif/"><u>Seamless, Quick Conversions Best Free Tools Transforming GIF</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/streamline-your-video-workflows-selecting-the-best-players-for-2024/"><u>Streamline Your Video Workflows Selecting the Best Players for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-moto-g84-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola Moto G84 5G without backup.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-models-thoroughly-evaluated-by-tech-gurus/"><u>Top-Rated Apple Watch Models - Thoroughly Evaluated by Tech Gurus</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vintage-game-collecting-and-diy-tech-assistance-tips/"><u>Vintage Game Collecting & DIY Tech Assistance Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-sony-xperia-1-v-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Sony Xperia 1 V Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whennonewchat-anticipate-gpt-access-return/"><u>WhenNoNewChat: Anticipate GPT Access Return</u></a></li>
 </ul></div>
 

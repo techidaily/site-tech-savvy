@@ -1,7 +1,7 @@
 ---
 title: "Apple Watch Series 10 Review: The Top 3 Features That Impressed a Doubter | ZDNet Insights"
-date: 2024-12-06T18:39:39.587Z
-updated: 2024-12-12T19:12:17.319Z
+date: 2024-12-17T17:14:12.179Z
+updated: 2024-12-22T07:43:26.520Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Many features come with the Apple Watch's new upgrade, which marks the company's
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. One of the biggest Apple Watch redesigns ever
@@ -43,7 +43,7 @@ The Apple Watch Series 10 got its first big redesign since the launch of the Ser
 We didn't get a redesigned Apple Watch Ultra, as Apple is expected to focus on internal updates rather than the physical look, but we did see a new Satin Black finish.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Extra health tracking: sleep apnea
@@ -60,6 +60,10 @@ The Apple Watch's sleep apnea detection isn't expected to be immediately availab
 
 Apple also announced new WatchOS 11 features for the Apple Watch, including offline maps and water features like Depth, Water Temperature, and Tides. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. New Apple Watch finishes
 
 The [Apple Watch SE](https://www.zdnet.com/article/the-apple-watch-se-2nd-gen-is-still-80-off-after-amazon-prime-day/) is due for an upgrade -- but while we expected Apple to release new versions of all Apple Watch models for the first time in a couple of years, Apple only announced a new Apple Watch Series 10 and the new Apple Watch Ultra 2 color and band. 
@@ -71,7 +75,7 @@ The Apple Watch Series 10 is available in Jet Black, Rose Gold, and Silver Alumi
 The Apple Watch Series 10 starts at $399, available for pre-order today, with general availability on September 20\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What we didn't get with the Apple Watch Series 10
@@ -79,7 +83,7 @@ The Apple Watch Series 10 starts at $399, available for pre-order today, with ge
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Blood oxygen tracking has yet to return
@@ -91,10 +95,6 @@ Unfortunately, the new Apple Watch models didn't bring back the blood oxygen mon
 **Also: [Here's one big reason I'm sticking with my Apple Watch Series 7 and forgoing the Series 10](https://www.zdnet.com/article/heres-one-big-reason-im-sticking-with-my-apple-watch-series-7-and-forgoing-the-series-10/)**
 
 Currently, the Apple Watch Series 9 and Ultra don't have the blood oxygen sensor enabled, so users looking to upgrade from an older model (Apple Watch Series 6, 7, 8, and Ultra) should know they'll likely lose that feature until Apple resolves its issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. No hypertension capabilities yet
 
@@ -134,24 +134,22 @@ Many users have expected Apple to release blood pressure monitoring on the Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-discovering-the-best-soundtracks-for-unboxing-vlogs-for-2024/"><u>[New] Discovering the Best Soundtracks for Unboxing Vlogs for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-pro-tips-for-captivating-snapchat-stories/"><u>[New] In 2024, Pro Tips for Captivating Snapchat Stories</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-visualvault-review-highlighting-the-best-recording-tools/"><u>[Updated] In 2024, VisualVault Review Highlighting the Best Recording Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-understanding-image-validity-on-insta/"><u>[Updated] Understanding Image Validity on Insta</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-timer-power-with-zero-cost/"><u>[Updated] Unlocking Timer Power with Zero Cost</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-personalization-and-privacy-in-gpt-applications/"><u>Balancing Personalization and Privacy in GPT Applications</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enriching-virtual-teams-engagement-through-chatai/"><u>Enriching Virtual Teams' Engagement Through ChatAI</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/exploring-toms-tech-gear-a-complete-overview/"><u>Exploring Tom's Tech Gear: A Complete Overview</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-update-and-download-amd-radeon-r9-graphics-drivers-on-your-windows-system/"><u>How to Update and Download AMD Radeon R9 Graphics Drivers on Your Windows System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/improving-text-through-gpt-usage/"><u>Improving Text Through GPT Usage</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-why-the-nintendo-switch-reigns-supreme-among-mobile-consoles/"><u>In-Depth Review: Why the Nintendo Switch Reigns Supreme Among Mobile Consoles</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-browsing-made-simple-unleash-bing-ai-on-your-devices/"><u>Intelligent Browsing Made Simple: Unleash Bing AI on Your Devices.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/intense-meetings-perfect-your-screen-focus-in-msteams/"><u>Intense Meetings Perfect Your Screen Focus in MSTEAMS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/microsoft-bing-with-ai-powered-search-how-your-search-experience-will-change/"><u>Microsoft Bing With AI-Powered Search: How Your Search Experience Will Change</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/nexus-of-innovation-chatai-plus-cryptocurrency/"><u>Nexus of Innovation: ChatAI + Cryptocurrency</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/plagiarism-perils-chatbot-source-evaluation/"><u>Plagiarism Perils: Chatbot Source Evaluation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ready-for-action-top-6-thrilling-chatgpt-designed-games-await/"><u>Ready for Action? Top 6 Thrilling ChatGPT-Designed Games Await</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/streamline-and-stand-out-twitters-video-directive/"><u>Streamline and Stand Out Twitter's Video Directive</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-evolutionary-tale-of-openais-language-powers-gpt-1-to-4/"><u>The Evolutionary Tale of OpenAI's Language Powers (GPT-1 to 4)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-performers-top-10-innovative-4k-mirrorless-models/"><u>[New] 2024 Approved Best Performers Top 10 Innovative 4K Mirrorless Models</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-premier-mac-4k-monitor-selections-top-10-edition/"><u>[New] Premier Mac 4K Monitor Selections Top 10 Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-srt-file-management-for-seamless-audible-experience/"><u>[Updated] 2024 Approved SRT File Management for Seamless Audible Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimizing-your-fb-video-ads-20-best-tips-for-success/"><u>[Updated] Optimizing Your FB Video Ads 20 Best Tips for Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-twist-your-imagery-instagrams-video-rotation-guide-for-2024/"><u>[Updated] Twist Your Imagery Instagram's Video Rotation Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-streamlining-media-transformation-from-xml-to-srt/"><u>2024 Approved Streamlining Media Transformation From XML to SRT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beware-the-perils-of-online-counseling-by-non-humans/"><u>Beware the Perils of Online Counseling by Non-Humans</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-xiaomi-redmi-13c-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Xiaomi Redmi 13C 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/localized-learning-mechanics-understanding-device-level-ai/"><u>Localized Learning Mechanics: Understanding Device-Level AI</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/notion-ai-vs-chatgpt-which-is-the-best-generative-ai-tool/"><u>Notion AI Vs. ChatGPT: Which Is the Best Generative AI Tool?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-synergy-mac-and-openais-chatgpt-partnership/"><u>Seamless Synergy: Mac and OpenAI's ChatGPT Partnership</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplify-coding-tasks-by-adding-codegpt-to-vs-code/"><u>Simplify Coding Tasks by Adding CodeGPT to VS Code</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-guide-to-aspect-ratios-on-fb-videos-for-2024/"><u>The Ultimate Guide to Aspect Ratios on FB Videos for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-ear-tips-and-cases-for-apple-airpods-pro-recommendations-by-pcmag/"><u>Top Rated Ear Tips & Cases for Apple AirPods Pro - Recommendations by PCMag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-ranked-tech-giants-showdown-comparing-apple-and-dells-latest-innovations-insights-from-zdnet/"><u>Top-Ranked Tech Giants Showdown: Comparing Apple & Dell's Latest Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-airpods-release-key-dates-and-pre-order-locations-revealed/"><u>Upcoming AirPods Release: Key Dates & Pre-Order Locations Revealed</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager on Windows 10</u></a></li>
 </ul></div>
 
